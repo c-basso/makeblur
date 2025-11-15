@@ -4,9 +4,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://extractaudioapp.com/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://extractaudioapp.com/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://extractaudioapp.com/ru" />
+    <loc>https://makeblur.com/</loc>
     <priority>1.0</priority>
   </url>
 
