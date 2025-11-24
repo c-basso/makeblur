@@ -13,7 +13,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Make Blur - The ultimate iOS app for blurring photos, blurring photo backgrounds, and creating custom blur effects. Features motion blur, gaussian blur, ghosting, pixelate, hexagonal, and crystalize effects. Learn how to blur a photo, blur an image, or blur background on iPhone.">
+    <meta name="description" content="Make Blur - Transform your photos effortlessly with our user-friendly blur app. Trusted by 50,000+ users with 4.8-star rating. Blur backgrounds, blur images, and create stunning blur effects on iPhone. Learn how to blur a photo, blur an image, or blur background on iPhone with ease.">
     <meta name="keywords" content="Make Blur, blur background, blur image, motion blur, blur effect, how to blur a photo, how to blur an image, blur tool, blur pictures, blur background of photo, gaussian blur, how to blur background on iphone, how to make a picture blurry, how to blur a picture on iphone, how to blur a photo on iphone, photo blur app, image blur app, blur photo app">
     <meta name="author" content="Make Blur">
     <meta name="robots" content="index, follow">
@@ -22,13 +22,13 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://makeblur.com/">
     <meta property="og:title" content="Make Blur - Professional Photo Blur App for iPhone">
-    <meta property="og:description" content="Create stunning blur effects on your photos with Make Blur. Blur backgrounds, apply motion blur, gaussian blur, and more. Available on iOS.">
+    <meta property="og:description" content="Transform your photos effortlessly with Make Blur. Trusted by 50,000+ users. Blur backgrounds, apply motion blur, gaussian blur, and more. No complicated tools—just beautiful results. Available on iOS.">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://makeblur.com/">
     <meta property="twitter:title" content="Make Blur - Professional Photo Blur App for iPhone">
-    <meta property="twitter:description" content="Create stunning blur effects on your photos with Make Blur. Blur backgrounds, apply motion blur, gaussian blur, and more.">
+    <meta property="twitter:description" content="Transform your photos effortlessly with Make Blur. Trusted by 50,000+ users with 4.8-star rating. Blur backgrounds, apply motion blur, gaussian blur, and more.">
     
     <title>Make Blur - Professional Photo Blur App for iPhone | Blur Background, Blur Image, Motion Blur</title>
     
@@ -127,6 +127,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
+            gap: 6px;
             touch-action: manipulation;
         }
         
@@ -158,8 +159,8 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background: rgba(102, 126, 234, 0.3);
-            backdrop-filter: blur(10px);
+            background: rgba(0, 0, 0, 0.7);
+            backdrop-filter: blur(35px);
             -webkit-backdrop-filter: blur(10px);
             z-index: 0;
         }
@@ -167,6 +168,28 @@
         .hero .container {
             position: relative;
             z-index: 1;
+        }
+        
+        .hero-screens {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 3rem;
+            flex-wrap: wrap;
+        }
+        
+        .hero-screens img {
+            max-width: 200px;
+            width: 100%;
+            height: auto;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+            transition: transform 0.3s ease;
+        }
+        
+        .hero-screens img:hover {
+            transform: translateY(-5px);
         }
         
         .hero h1 {
@@ -257,6 +280,25 @@
         .feature-card p {
             color: #666;
             line-height: 1.8;
+        }
+        
+        .feature-card p strong {
+            color: #667eea;
+            font-weight: 600;
+        }
+        
+        .feature-card p em {
+            color: #764ba2;
+            font-style: italic;
+        }
+        
+        p strong {
+            font-weight: 600;
+        }
+        
+        p em {
+            font-style: italic;
+            opacity: 0.9;
         }
         
         .blur-types {
@@ -392,6 +434,16 @@
                 padding: 60px 16px;
             }
             
+            .hero-screens {
+                gap: 12px;
+                margin-bottom: 2rem;
+            }
+            
+            .hero-screens img {
+                max-width: 120px;
+                border-radius: 15px;
+            }
+            
             .hero h1 {
                 font-size: 2rem;
                 margin-bottom: 0.75rem;
@@ -524,6 +576,16 @@
                 font-size: 0.85rem;
             }
             
+            .hero-screens {
+                gap: 8px;
+                margin-bottom: 1.5rem;
+            }
+            
+            .hero-screens img {
+                max-width: 100px;
+                border-radius: 12px;
+            }
+            
             .hero h1 {
                 font-size: 1.75rem;
             }
@@ -561,46 +623,78 @@
                 </div>
                 <span class="app-name">Make Blur</span>
             </div>
-            <a href="https://apps.apple.com/app/id6749166426" class="header-download">Download</a>
+            <a href="https://apps.apple.com/app/id6749166426" class="header-download"> Download Now</a>
         </nav>
     </header>
     
     <section class="hero">
         <div class="container">
-            <h1>Make Blur</h1>
-            <p class="subtitle">The Ultimate Photo Blur App for iPhone</p>
-            <p>Transform your photos with professional blur effects. Blur backgrounds, blur images, and create custom blur effects with ease. Learn how to blur a photo, blur an image, or blur background on iPhone with Make Blur - the most powerful blur tool for iOS.</p>
-            <a href="https://apps.apple.com/app/id6749166426" class="cta-button">Download on App Store</a>
+            <h1>Transform Your Photos Effortlessly</h1>
+            <p class="subtitle">The User-Friendly Blur App for iPhone</p>
+            <div class="hero-screens">
+                <img src="/img/screens/box__15_pro_max.webp" alt="Make Blur App - Box Blur Effect">
+                <img src="/img/screens/motion__15_pro_max.webp" alt="Make Blur App - Motion Blur Effect">
+                <img src="/img/screens/ghost__15_pro_max.webp" alt="Make Blur App - Ghost Blur Effect">
+                <img src="/img/screens/crys__15_pro_max.webp" alt="Make Blur App - Crystalize Blur Effect">
+                <img src="/img/screens/ghost1__15_pro_max.webp" alt="Make Blur App - Ghost Blur Effect 2">
+            </div>
+            <div style="max-width: 800px; margin: 0 auto 2.5rem; font-size: 1.2rem; line-height: 1.9;">
+                <p style="margin-bottom: 1.5rem; font-weight: 500;">
+                    <strong>Struggling to blur backgrounds for photos?</strong><br>
+                    <strong>Frustrated with complicated editing apps?</strong>
+                </p>
+                <p style="margin-bottom: 1.5rem; font-size: 1.1rem; opacity: 0.95;">
+                    You shouldn't have to wrestle with difficult tools for beautiful photos.
+                </p>
+                <p style="margin-bottom: 1.5rem;">
+                    Make Blur makes it <strong>effortless</strong> to blur backgrounds, blur images, and create stunning blur effects. Learn how to blur a photo, blur an image, or blur background on iPhone with our intuitive app.
+                </p>
+                <p style="font-size: 1.1rem; margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid rgba(255, 255, 255, 0.2);">
+                    Trusted by <strong style="font-size: 1.2rem;">over 50,000 users</strong> with a <strong style="font-size: 1.2rem;">4.8-star rating</strong> for ease of use.
+                </p>
+            </div>
+            <a href="https://apps.apple.com/app/id6749166426" class="cta-button">Download Now</a>
         </div>
     </section>
     
     <section class="features">
         <div class="container">
-            <h2>Powerful Blur Features</h2>
+            <h2>Effortless Photo Editing That Actually Works</h2>
+            <div style="text-align: center; font-size: 1.1rem; color: #666; margin-bottom: 3rem; max-width: 800px; margin-left: auto; margin-right: auto; line-height: 1.9;">
+                <p style="margin-bottom: 1.2rem; font-weight: 500;">
+                    <strong>We understand how complicated photo editing can feel.</strong>
+                </p>
+                <p style="margin-bottom: 1.2rem;">
+                    That's why we've created an app that transforms you from a <strong>frustrated beginner</strong> into a <strong>confident photographer</strong>.
+                </p>
+                <p style="font-style: italic; color: #764ba2; font-size: 1.05rem;">
+                    No wrestling with difficult tools—just beautiful results.
+                </p>
+            </div>
             <div class="features-grid">
                 <div class="feature-card">
-                    <h3>Blur Background</h3>
-                    <p>Easily blur the background of your photos to make your subject stand out. Perfect for portrait photography and creating professional-looking images. Make Blur makes it simple to blur background of photo with just a few taps.</p>
+                    <h3>Effortless Background Blur</h3>
+                    <p>Blur the background of your photos <strong>effortlessly</strong> with our <strong>auto-detect feature</strong>. Perfect for making your subject stand out and creating professional-looking images that <strong>shine on social media</strong>. Learn how to blur background on iPhone with just a few taps—<em>no complicated editing required</em>.</p>
                 </div>
                 <div class="feature-card">
-                    <h3>Blur Image</h3>
-                    <p>Apply blur effects to entire images or specific areas. Whether you want to blur pictures for artistic effect or privacy, Make Blur provides the tools you need. Learn how to blur an image quickly and effectively.</p>
+                    <h3>Simple Image Blur</h3>
+                    <p>Apply blur effects to entire images or specific areas <strong>without the frustration</strong> of complicated apps. Whether you want to blur pictures for artistic effect or privacy, Make Blur provides the tools you need. Discover how to blur an image <strong>quickly and effectively</strong>.</p>
                 </div>
                 <div class="feature-card">
                     <h3>Custom Blur Drawing</h3>
-                    <p>Draw on your photos to create custom blur effects exactly where you want them. This unique feature lets you have complete control over your blur effect, allowing for creative and precise photo editing.</p>
+                    <p>Draw on your photos to create custom blur effects exactly where you want them. This unique feature gives you <strong>complete control without the complexity</strong>, allowing for creative and precise photo editing that makes you feel like a <strong>confident photographer</strong>.</p>
                 </div>
                 <div class="feature-card">
-                    <h3>How to Blur a Photo</h3>
-                    <p>Make Blur is the perfect solution for anyone wondering how to blur a photo. Our intuitive interface makes it easy to blur photos on iPhone, whether you want to blur a picture on iPhone or blur a photo on iPhone.</p>
+                    <h3>How to Blur a Photo Made Simple</h3>
+                    <p>Make Blur is the <strong>perfect solution</strong> for anyone wondering how to blur a photo. Our intuitive interface <strong>eliminates frustration</strong>—learn how to blur photos on iPhone, blur a picture on iPhone, or blur a photo on iPhone <em>with ease</em>.</p>
                 </div>
                 <div class="feature-card">
-                    <h3>Professional Blur Tool</h3>
-                    <p>As a comprehensive blur tool, Make Blur offers everything you need for photo editing. From simple blur effects to advanced techniques, discover how to make a picture blurry with professional results.</p>
+                    <h3>Professional Results, Simple Process</h3>
+                    <p>As a comprehensive blur tool, Make Blur offers everything you need <strong>without the complexity</strong>. From simple blur effects to advanced techniques, discover how to make a picture blurry with <strong>professional results that make you proud</strong>.</p>
                 </div>
                 <div class="feature-card">
-                    <h3>iPhone Optimized</h3>
-                    <p>Specifically designed for iPhone users, Make Blur is the best way to blur background on iPhone. Learn how to blur background on iPhone with our user-friendly app that works seamlessly with your iOS device.</p>
+                    <h3>Trusted by 50,000+ Users</h3>
+                    <p>Specifically designed for iPhone users who want effortless photo editing. Make Blur is the best way to blur background on iPhone, with a <strong>4.8-star rating for ease of use</strong>. Join <strong>thousands who've transformed</strong> from frustrated beginners to confident photographers.</p>
                 </div>
             </div>
         </div>
@@ -641,26 +735,29 @@
     <section class="how-it-works">
         <div class="container">
             <h2>How It Works</h2>
+            <div style="text-align: center; font-size: 1.1rem; color: #666; margin-bottom: 3rem; max-width: 700px; margin-left: auto; margin-right: auto; line-height: 1.9;">
+                <p style="margin-bottom: 1rem; font-weight: 500;">
+                    <strong>Three simple steps</strong> to transform your photos from ordinary to stunning.
+                </p>
+                <p style="font-style: italic; color: #764ba2;">
+                    No complicated tools, no frustration—just beautiful results.
+                </p>
+            </div>
             <div class="steps">
                 <div class="step">
                     <div class="step-number">1</div>
-                    <h3>Select Your Photo</h3>
-                    <p>Choose any photo from your iPhone gallery to start creating blur effects.</p>
+                    <h3>Download the App</h3>
+                    <p>Download Make Blur from the App Store and <strong>get started in seconds</strong>. Join <strong>over 50,000 users</strong> who've discovered effortless photo editing.</p>
                 </div>
                 <div class="step">
                     <div class="step-number">2</div>
-                    <h3>Choose Blur Type</h3>
-                    <p>Select from motion blur, gaussian blur, ghosting, pixelate, hexagonal, or crystalize.</p>
+                    <h3>Open Your Photo</h3>
+                    <p>Open any photo from your iPhone gallery and let the app <strong>auto-detect the background</strong>. <em>No manual selection needed—it's that simple.</em></p>
                 </div>
                 <div class="step">
                     <div class="step-number">3</div>
-                    <h3>Apply or Draw</h3>
-                    <p>Blur the entire image, blur background, or draw custom blur areas with precision.</p>
-                </div>
-                <div class="step">
-                    <div class="step-number">4</div>
-                    <h3>Save & Share</h3>
-                    <p>Save your edited photo and share your stunning blur effects with the world.</p>
+                    <h3>Choose & Save</h3>
+                    <p>Choose your favorite blur effect from motion blur, gaussian blur, ghosting, pixelate, hexagonal, or crystalize. <strong>Save your masterpiece</strong> and <strong>feel proud</strong> of your beautifully edited photos.</p>
                 </div>
             </div>
         </div>
@@ -668,9 +765,20 @@
     
     <section class="hero" style="padding: 60px 20px;">
         <div class="container">
-            <h2 style="font-size: 2.5rem; margin-bottom: 2rem;">Ready to Create Amazing Blur Effects?</h2>
-            <p style="font-size: 1.2rem; margin-bottom: 2rem;">Download Make Blur now and discover how easy it is to blur photos, blur images, and create professional blur effects on your iPhone.</p>
-            <a href="https://apps.apple.com/app/id6749166426" class="cta-button">Get Make Blur on App Store</a>
+            <h2 style="font-size: 2.5rem; margin-bottom: 2.5rem;">Ready to Transform Your Photos?</h2>
+            <div style="max-width: 800px; margin: 0 auto 2rem; font-size: 1.2rem; line-height: 1.9;">
+                <p style="margin-bottom: 1.5rem;">
+                    If you want <strong>stunning photos that shine on social media</strong>, downloading our app is the <strong>perfect next step</strong>.
+                </p>
+                <p style="margin-bottom: 1.5rem;">
+                    Enjoy a <strong>seamless photo editing experience</strong> with perfect backgrounds—<em>no more frustration with complicated apps</em>.
+                </p>
+                <p style="font-size: 1.1rem; margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid rgba(255, 255, 255, 0.2);">
+                    <strong>Don't miss out</strong> on creating stunning, professional-looking photos.<br>
+                    Transform from <strong>frustrated beginner</strong> to <strong>confident photographer</strong> today.
+                </p>
+            </div>
+            <a href="https://apps.apple.com/app/id6749166426" class="cta-button">Get Started</a>
         </div>
     </section>
     
