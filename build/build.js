@@ -1,10 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const siteUrl = "https://makeblur.com/"
+const SITE_URL = "https://makeblur.com/";
+const DEFAULT_LANGUAGE = 'en';
 
-const languages = [
-    'en',
+const LANGUAGES = [
+    DEFAULT_LANGUAGE,
     // 'ru',
     // 'es',
     // 'fr',
@@ -17,9 +18,11 @@ const languages = [
     const urlsPath = path.join(__dirname, '..', 'urls.txt');
 
     const urls = [
-        siteUrl
+        SITE_URL
     ].concat(
-        languages.map((lang) => `${siteUrl}${lang}/`)
+        LANGUAGES
+            .filter((lang) => lang !== DEFAULT_LANGUAGE)
+            .map((lang) => `${SITE_URL}${lang}/`)
     ).join('\n');
 
     fs.writeFileSync(urlsPath, urls, 'utf8');
@@ -28,9 +31,9 @@ const languages = [
     console.log()
 
 
-    for (const lang of languages) {
+    for (const lang of LANGUAGES) {
         try {
-            const htmlDir = path.join(__dirname, lang === 'en' ? '..' : `../${lang}/`);
+            const htmlDir = path.join(__dirname, lang === DEFAULT_LANGUAGE ? '..' : `../${lang}/`);
 
             // Read the template and JSON files
             const templatePath = path.join(__dirname, 'template.html');

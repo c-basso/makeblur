@@ -13,6 +13,7 @@
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
             touch-action: manipulation;
+            font-display: swap;
         }
         
         * {
@@ -28,11 +29,13 @@
         header {
             background: rgba(20, 20, 30, 0.95);
             backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
             padding: 1rem 0;
             position: sticky;
             top: 0;
             z-index: 100;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+            contain: layout style paint;
         }
         
         nav {
@@ -57,6 +60,7 @@
             width: auto;
             display: block;
             border-radius: 8px;
+            object-fit: contain;
         }
         
         .app-name {
@@ -73,23 +77,27 @@
             font-weight: 600;
             text-decoration: none;
             border-radius: 25px;
-            transition: transform 0.3s, box-shadow 0.3s;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
             box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
             min-height: 44px;
+            min-width: 44px;
             display: flex;
             align-items: center;
             justify-content: center;
             gap: 6px;
             touch-action: manipulation;
+            -webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
         }
         
-        .header-download:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.5);
+        @media (hover: hover) and (pointer: fine) {
+            .header-download:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 6px 20px rgba(102, 126, 234, 0.5);
+            }
         }
         
         .header-download:active {
-            transform: translateY(0);
+            transform: scale(0.98);
         }
         
         .hero {
@@ -101,6 +109,7 @@
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
+            background-attachment: scroll;
             overflow: hidden;
         }
         
@@ -115,6 +124,13 @@
             backdrop-filter: blur(35px);
             -webkit-backdrop-filter: blur(10px);
             z-index: 0;
+        }
+        
+        @media (max-width: 768px) {
+            .hero::before {
+                backdrop-filter: blur(15px);
+                -webkit-backdrop-filter: blur(15px);
+            }
         }
         
         .hero .container {
@@ -138,10 +154,13 @@
             border-radius: 20px;
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
             transition: transform 0.3s ease;
+            object-fit: cover;
         }
         
-        .hero-screens img:hover {
-            transform: translateY(-5px);
+        @media (hover: hover) and (pointer: fine) {
+            .hero-screens img:hover {
+                transform: translateY(-5px);
+            }
         }
         
         .hero h1 {
@@ -166,6 +185,35 @@
             opacity: 0.9;
         }
         
+        .hero-download-link {
+            display: inline-block;
+            margin: 10px;
+            transition: transform 0.2s ease, opacity 0.2s ease;
+            touch-action: manipulation;
+            -webkit-tap-highlight-color: transparent;
+        }
+        
+        .hero-download-link img {
+            display: block;
+            width: 240px;
+            height: auto;
+            transition: transform 0.2s ease;
+        }
+        
+        @media (hover: hover) and (pointer: fine) {
+            .hero-download-link:hover {
+                transform: translateY(-3px);
+            }
+            
+            .hero-download-link:hover img {
+                transform: scale(1.05);
+            }
+        }
+        
+        .hero-download-link:active {
+            transform: scale(0.98);
+        }
+        
         .cta-button {
             display: inline-block;
             background: white;
@@ -176,19 +224,23 @@
             text-decoration: none;
             border-radius: 50px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-            transition: transform 0.3s, box-shadow 0.3s;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
             margin: 10px;
             min-height: 44px;
+            min-width: 44px;
             touch-action: manipulation;
+            -webkit-tap-highlight-color: rgba(102, 126, 234, 0.2);
         }
         
-        .cta-button:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+        @media (hover: hover) and (pointer: fine) {
+            .cta-button:hover {
+                transform: translateY(-3px);
+                box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+            }
         }
         
         .cta-button:active {
-            transform: translateY(-1px);
+            transform: scale(0.98);
         }
         
         .features {
@@ -215,12 +267,14 @@
             padding: 30px;
             border-radius: 15px;
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s, box-shadow 0.3s;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
         }
         
-        .feature-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+        @media (hover: hover) and (pointer: fine) {
+            .feature-card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+            }
         }
         
         .feature-card h3 {
@@ -277,11 +331,13 @@
             border-radius: 12px;
             text-align: center;
             box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s;
+            transition: transform 0.2s ease;
         }
         
-        .blur-type:hover {
-            transform: scale(1.05);
+        @media (hover: hover) and (pointer: fine) {
+            .blur-type:hover {
+                transform: scale(1.05);
+            }
         }
         
         .blur-type h3 {
@@ -351,6 +407,21 @@
         footer a {
             color: #667eea;
             text-decoration: none;
+            min-height: 44px;
+            display: inline-block;
+            padding: 4px 8px;
+            touch-action: manipulation;
+        }
+        
+        @media (prefers-reduced-motion: reduce) {
+            *,
+            *::before,
+            *::after {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+                scroll-behavior: auto !important;
+            }
         }
         
         @media (max-width: 768px) {
@@ -360,6 +431,8 @@
             
             header {
                 padding: 0.75rem 0;
+                backdrop-filter: blur(8px);
+                -webkit-backdrop-filter: blur(8px);
             }
             
             .logo {
@@ -394,6 +467,8 @@
             .hero-screens img {
                 max-width: 120px;
                 border-radius: 15px;
+                width: auto;
+                height: auto;
             }
             
             .hero h1 {
@@ -409,6 +484,14 @@
             .hero p {
                 font-size: 0.95rem;
                 margin-bottom: 2rem;
+            }
+            
+            .hero-download-link {
+                margin: 10px 0;
+            }
+            
+            .hero-download-link img {
+                width: 200px;
             }
             
             .cta-button {
@@ -526,6 +609,7 @@
             .header-download {
                 padding: 8px 16px;
                 font-size: 0.85rem;
+                min-width: 44px;
             }
             
             .hero-screens {
@@ -548,6 +632,10 @@
             
             .hero p {
                 font-size: 0.9rem;
+            }
+            
+            .hero-download-link img {
+                width: 180px;
             }
             
             .features h2,

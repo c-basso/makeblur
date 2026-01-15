@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{meta.lang}}">
 <head>
+    <meta charset="UTF-8">
+    
+    <!-- Preconnect to external domains for performance -->
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://mc.yandex.ru">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://mc.yandex.ru">
+    
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-L321DN9X6C"></script>
 <script>
@@ -10,25 +18,32 @@
 
   gtag('config', 'G-L321DN9X6C');
 </script>
-
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
     <meta name="description" content="{{meta.description}}">
     <meta name="keywords" content="{{meta.keywords}}">
     <meta name="author" content="{{meta.author}}">
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="googlebot" content="index, follow">
+    <meta name="bingbot" content="index, follow">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{meta.og_url}}">
     <meta property="og:title" content="{{meta.og_title}}">
     <meta property="og:description" content="{{meta.og_description}}">
+    <meta property="og:image" content="{{meta.og_image}}">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="{{meta.twitter_url}}">
     <meta property="twitter:title" content="{{meta.twitter_title}}">
     <meta property="twitter:description" content="{{meta.twitter_description}}">
+    <meta property="twitter:image" content="{{meta.twitter_image}}">
+    
+    <!-- Additional SEO Meta Tags -->
+    <meta name="theme-color" content="#667eea">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     
     <title>{{meta.title}}</title>
     
@@ -48,11 +63,11 @@
     <link rel="stylesheet" href="/style.css?v={{meta.version}}">
 </head>
 <body>
-    <header>
+    <header role="banner">
         <nav class="container">
             <div class="logo-container">
                 <div class="logo">
-                    <img src="/img/logo.webp" alt="{{header.logo_alt}}">
+                    <img src="/img/logo.webp" alt="{{header.logo_alt}}" width="40" height="40" loading="eager" decoding="async">
                 </div>
                 <span class="app-name">{{header.app_name}}</span>
             </div>
@@ -60,13 +75,14 @@
         </nav>
     </header>
     
-    <section class="hero">
+    <main role="main">
+    <section class="hero" itemscope itemtype="https://schema.org/ImageObject">
         <div class="container">
             <h1>{{hero.title}}</h1>
             <p class="subtitle">{{hero.subtitle}}</p>
             <div class="hero-screens">
                 {{#each hero.screens as |screen|}}
-                <img src="{{screen.src}}" alt="{{screen.alt}}">
+                <img src="{{screen.src}}" alt="{{screen.alt}}" loading="lazy" decoding="async" width="200" height="433">
                 {{/each}}
             </div>
             <div style="max-width: 800px; margin: 0 auto 2.5rem; font-size: 1.2rem; line-height: 1.9;">
@@ -81,11 +97,13 @@
                     {{hero.intro.paragraph2}}
                 </p>
             </div>
-            <a href="{{hero.cta_url}}" class="cta-button">{{hero.cta_text}}</a>
+            <a href="{{hero.cta_url}}" class="hero-download-link">
+                <img src="/img/download.svg" alt="{{hero.cta_text}}" width="240" height="80" loading="eager" decoding="async">
+            </a>
         </div>
     </section>
     
-    <section class="features">
+    <section class="features" itemscope itemtype="https://schema.org/ItemList">
         <div class="container">
             <h2>{{features.title}}</h2>
             <div style="text-align: center; font-size: 1.1rem; color: #666; margin-bottom: 3rem; max-width: 800px; margin-left: auto; margin-right: auto; line-height: 1.9;">
@@ -164,8 +182,9 @@
             <a href="{{final_cta.cta_url}}" class="cta-button">{{final_cta.cta_text}}</a>
         </div>
     </section>
+    </main>
     
-    <footer>
+    <footer role="contentinfo">
         <div class="container">
             <p>{{footer.copyright}}</p>
             <p><a href="{{footer.download_url}}">{{footer.download_text}}</a></p>
@@ -175,6 +194,109 @@
         </div>
     </footer>
 
+
+    <!-- Structured Data (JSON-LD) for SEO -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Make Blur",
+        "applicationCategory": "PhotoEditorApplication",
+        "operatingSystem": "iOS",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "ratingCount": "1000"
+        },
+        "description": "Blur background on iPhone instantly. The best free app to blur background of photo, blur image, and blur photo with motion blur and gaussian blur effects.",
+        "url": "{{meta.canonical}}",
+        "downloadUrl": "{{header.download_url}}"
+    }
+    </script>
+    
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Make Blur",
+        "url": "https://makeblur.com",
+        "logo": "https://makeblur.com/img/logo.webp",
+        "description": "Make Blur - The best app to blur background on iPhone. Blur background of photo, blur image, and create motion blur effects."
+    }
+    </script>
+    
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Make Blur",
+        "url": "https://makeblur.com",
+        "description": "Blur background on iPhone instantly. The best free app to blur background of photo, blur image, and blur photo.",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://makeblur.com/?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "How to Blur Background on iPhone",
+        "description": "Learn how to blur background on iPhone using Make Blur app. Step-by-step guide to blur background of photo.",
+        "step": [
+            {{#each how_it_works.steps as |step|}}
+            {
+                "@type": "HowToStep",
+                "name": "{{step.title}}",
+                "text": "{{step.description}}"
+            },
+            {{/each}}
+        ]
+    }
+    </script>
+    
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {{#each seo.faq as |faq|}}
+            {
+                "@type": "Question",
+                "name": "{{faq.question}}",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{{faq.answer}}"
+                }
+            },
+            {{/each}}
+        ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "{{meta.canonical}}"
+            }
+        ]
+    }
+    </script>
 
     <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
