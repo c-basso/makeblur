@@ -47,6 +47,68 @@ const {
             if (data.footer && data.footer.copyright) {
                 data.footer.copyright = data.footer.copyright.replace(/\{year\}/g, currentYear.toString());
             }
+
+            // Build JSON-LD objects from translation data to avoid hardcoded strings in template
+            const stripHtml = (value) => {
+                if (typeof value !== 'string') return value;
+                return value
+                    .replace(/<[^>]*>/g, ' ')
+                    .replace(/\s+/g, ' ')
+                    .trim();
+            };
+
+            if (!data.seo) data.seo = {};
+            if (!data.seo.structured_data) data.seo.structured_data = {};
+
+            // SoftwareApplication: inject canonical/download URL (language-specific)
+            if (data.seo.structured_data.software_application && typeof data.seo.structured_data.software_application === 'object') {
+                data.seo.structured_data.software_application.url = data.meta?.canonical;
+                data.seo.structured_data.software_application.downloadUrl = data.header?.download_url;
+            }
+
+            // WebSite: keep translation content, but ensure url matches canonical
+            if (data.seo.structured_data.website && typeof data.seo.structured_data.website === 'object') {
+                data.seo.structured_data.website.url = data.meta?.canonical;
+            }
+
+            // HowTo: build steps from how_it_works.steps (strip HTML)
+            if (data.seo.structured_data.howto && typeof data.seo.structured_data.howto === 'object' && Array.isArray(data.how_it_works?.steps)) {
+                data.seo.structured_data.howto.step = data.how_it_works.steps.map((s) => ({
+                    "@type": "HowToStep",
+                    "name": stripHtml(s?.title),
+                    "text": stripHtml(s?.description)
+                }));
+            }
+
+            // FAQPage: build from seo.faq (strip HTML)
+            if (Array.isArray(data.seo.faq)) {
+                data.seo.structured_data.faqpage = {
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": data.seo.faq.map((f) => ({
+                        "@type": "Question",
+                        "name": stripHtml(f?.question),
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": stripHtml(f?.answer)
+                        }
+                    }))
+                };
+            }
+
+            // BreadcrumbList: use translated label + canonical
+            data.seo.structured_data.breadcrumb_list = {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": data.seo.breadcrumb_home,
+                        "item": data.meta?.canonical
+                    }
+                ]
+            };
             
             // Function to get value from nested object path
             function getValue(obj, path) {
@@ -67,12 +129,25 @@ const {
             // Function to replace variables in template
             function replaceVariables(template, context) {
                 return template.replace(/\{\{([^}]+)\}\}/g, (match, key) => {
-                    const value = getValue(context, key.trim());
+                    const rawKey = key.trim();
+                    const [pathExpression, ...filters] = rawKey
+                        .split('|')
+                        .map(s => s.trim())
+                        .filter(Boolean);
+
+                    let value = getValue(context, pathExpression);
                     
                     if (value !== undefined) {
+                        for (const filter of filters) {
+                            if (filter === 'json') {
+                                value = JSON.stringify(value);
+                            } else {
+                                console.warn(`Warning: Unknown filter "${filter}" in ${rawKey}`);
+                            }
+                        }
                         return value;
                     } else {
-                        console.warn(`Warning: Variable ${key} not found in data`);
+                        console.warn(`Warning: Variable ${pathExpression} not found in data`);
                         return match; // Keep original placeholder if not found
                     }
                 });

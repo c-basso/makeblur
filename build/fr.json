@@ -158,6 +158,7 @@
     "tagline": "Make Blur — l’app pour flouter l’arrière-plan sur iPhone. Blur background, blur photo, blur image, motion blur et blur effect en quelques secondes."
   },
   "seo": {
+    "breadcrumb_home": "Accueil",
     "faq": [
       {
         "question": "Comment flouter l’arrière-plan sur iPhone ?",

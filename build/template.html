@@ -201,105 +201,28 @@
 
     <!-- Structured Data (JSON-LD) for SEO -->
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "SoftwareApplication",
-        "name": "Make Blur",
-        "applicationCategory": "PhotoEditorApplication",
-        "operatingSystem": "iOS",
-        "offers": {
-            "@type": "Offer",
-            "price": "0",
-            "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.8",
-            "ratingCount": "1000"
-        },
-        "description": "Blur background on iPhone instantly. The best free app to blur background of photo, blur image, and blur photo with motion blur and gaussian blur effects.",
-        "url": "{{meta.canonical}}",
-        "downloadUrl": "{{header.download_url}}"
-    }
+    {{seo.structured_data.software_application|json}}
     </script>
     
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "Make Blur",
-        "url": "https://makeblur.com",
-        "logo": "https://makeblur.com/img/logo.webp",
-        "description": "Make Blur - The best app to blur background on iPhone. Blur background of photo, blur image, and create motion blur effects."
-    }
+    {{seo.structured_data.organization|json}}
     </script>
     
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "Make Blur",
-        "url": "https://makeblur.com",
-        "description": "Blur background on iPhone instantly. The best free app to blur background of photo, blur image, and blur photo.",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://makeblur.com/?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
+    {{seo.structured_data.website|json}}
     </script>
     
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "HowTo",
-        "name": "How to Blur Background on iPhone",
-        "description": "Learn how to blur background on iPhone using Make Blur app. Step-by-step guide to blur background of photo.",
-        "step": [
-            {{#each how_it_works.steps as |step|}}
-            {
-                "@type": "HowToStep",
-                "name": "{{step.title}}",
-                "text": "{{step.description}}"
-            },
-            {{/each}}
-        ]
-    }
+    {{seo.structured_data.howto|json}}
     </script>
     
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-            {{#each seo.faq as |faq|}}
-            {
-                "@type": "Question",
-                "name": "{{faq.question}}",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "{{faq.answer}}"
-                }
-            },
-            {{/each}}
-        ]
-    }
+    {{seo.structured_data.faqpage|json}}
     </script>
     
     <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-            {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "{{meta.canonical}}"
-            }
-        ]
-    }
+    {{seo.structured_data.breadcrumb_list|json}}
     </script>
 
     <!-- Yandex.Metrika counter -->

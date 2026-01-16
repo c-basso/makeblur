@@ -158,6 +158,7 @@
     "tagline": "Make Blur — app para desenfocar fondo en iPhone. Blur background, blur photo, blur image, motion blur y otros efectos en segundos."
   },
   "seo": {
+    "breadcrumb_home": "Inicio",
     "faq": [
       {
         "question": "¿Cómo desenfocar fondo en iPhone?",
