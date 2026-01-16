@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "lang": "pt",
+    "title": "Desfocar o fundo no iPhone — App grátis para desfocar o fundo de uma foto | Make Blur",
+    "description": "Desfoque o fundo no iPhone em segundos com Make Blur. A app grátis para background blur, blur photo, image blur e blur effect, com motion blur e desfoque gaussiano. Crie um look profissional e destaque o sujeito. Descarregue já!",
+    "keywords": "motion blur, background blur, blur photo, image blur, blur effect, blur png, blur foto, desfocar o fundo, desfocar fundo iphone, desfocar o fundo de uma foto, fundo desfocado iphone, desfoque de fundo, desfoque gaussiano, desfoque de movimento, app para desfocar fotos, editor de fotos iphone, efeito de desfoque",
+    "author": "Make Blur",
+    "og_url": "https://makeblur.com/pt/",
+    "og_title": "Desfocar o fundo no iPhone — App grátis | Make Blur",
+    "og_description": "Desfoque o fundo de uma foto no iPhone num instante. Background blur, blur effect, motion blur, image blur — simples e rápido.",
+    "og_image": "https://makeblur.com/img/makeblur.png",
+    "twitter_url": "https://makeblur.com/pt/",
+    "twitter_title": "Desfocar o fundo no iPhone — Make Blur",
+    "twitter_description": "Desfoque o fundo no iPhone: background blur, blur photo, image blur, motion blur e desfoque gaussiano em poucos toques.",
+    "twitter_image": "https://makeblur.com/img/makeblur.png",
+    "canonical": "https://makeblur.com/pt/",
+    "app_store_id": "6749166426"
+  },
+  "header": {
+    "logo_alt": "Make Blur — app para desfocar o fundo no iPhone",
+    "app_name": "Make Blur",
+    "download_text": " Descarregar",
+    "download_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "hero": {
+    "title": "Desfocar o fundo no iPhone — transforme as suas fotos sem esforço",
+    "subtitle": "A app grátis para desfocar o fundo de uma foto",
+    "screens": [
+      {
+        "src": "/img/screens/box__15_pro_max.webp",
+        "alt": "Desfocar o fundo no iPhone — exemplo de box blur"
+      },
+      {
+        "src": "/img/screens/motion__15_pro_max.webp",
+        "alt": "Desfocar o fundo no iPhone — exemplo de motion blur"
+      },
+      {
+        "src": "/img/screens/ghost__15_pro_max.webp",
+        "alt": "Blur effect — exemplo de ghosting"
+      },
+      {
+        "src": "/img/screens/crys__15_pro_max.webp",
+        "alt": "Background blur — exemplo de crystalize"
+      },
+      {
+        "src": "/img/screens/ghost1__15_pro_max.webp",
+        "alt": "Desfocar o fundo de uma foto — exemplo de controlo preciso"
+      }
+    ],
+    "intro": {
+      "line1": "Quer desfocar o fundo no iPhone?",
+      "line2": "Procura um background blur limpo com resultado imediato?",
+      "paragraph1": "Não devia ter de lutar com ferramentas complicadas para conseguir um desfoque bonito.",
+      "paragraph2": "Make Blur torna tudo <strong>simples</strong>: background blur, blur photo, image blur e blur effect no iPhone. Em poucos toques consegue um fundo desfocado com aspeto profissional, pronto para redes sociais."
+    },
+    "cta_text": "Descarregar",
+    "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "features": {
+    "title": "Desfocar o fundo no iPhone — edição rápida com resultados que se notam",
+    "intro": {
+      "line1": "Sabemos como pode ser frustrante encontrar uma boa app para desfocar o fundo de uma foto.",
+      "paragraph1": "Por isso criámos a Make Blur: passe de <strong>iniciante frustrado</strong> a <strong>criador confiante</strong>, com um desfoque de fundo com aspeto profissional.",
+      "paragraph2": "Sem menus intermináveis — apenas resultados quando faz background blur no iPhone."
+    },
+    "items": [
+      {
+        "title": "Desfocar o fundo de uma foto — background blur sem complicações",
+        "description": "Crie <strong>background blur</strong> com <strong>deteção automática</strong>. Ideal para destacar o sujeito e obter um blur effect moderno, limpo e natural."
+      },
+      {
+        "title": "Blur photo e image blur — desfoque para estilo ou privacidade",
+        "description": "Use blur photo para um look criativo ou image blur para ocultar detalhes. A Make Blur permite desfocar fotos no iPhone de forma rápida e organizada."
+      },
+      {
+        "title": "Desfoque com pincel — controlo total do blur effect",
+        "description": "Pinte exatamente onde quer desfocar. Com o pincel tem <strong>controlo total</strong> para desfocar o fundo ou áreas específicas com precisão."
+      },
+      {
+        "title": "Como desfocar o fundo no iPhone — fácil desde o primeiro uso",
+        "description": "Se procura como desfocar o fundo no iPhone, a Make Blur é a escolha certa: interface clara, poucos passos e resultado imediato."
+      },
+      {
+        "title": "Motion blur e desfoque gaussiano — efeitos com aspeto profissional",
+        "description": "Aplique <strong>motion blur</strong> (desfoque de movimento) ou <strong>desfoque gaussiano</strong> para um fundo suave e natural. Perfeito para retratos, produtos e fotos para redes sociais."
+      },
+      {
+        "title": "Blur png — desfoque também para imagens com transparência",
+        "description": "Trabalhe com imagens e exportações (incluindo casos com blur png) e aplique blur effect para criar visuais limpos e modernos."
+      }
+    ]
+  },
+  "blur_types": {
+    "title": "Vários tipos de desfoque para o seu background blur no iPhone",
+    "items": [
+      {
+        "title": "Motion Blur",
+        "description": "Crie motion blur para adicionar dinamismo e sensação de movimento às suas fotos."
+      },
+      {
+        "title": "Gaussian Blur",
+        "description": "Desfoque gaussiano suave e natural para um fundo elegante e profissional."
+      },
+      {
+        "title": "Ghosting",
+        "description": "Um efeito criativo e etéreo para transformações artísticas."
+      },
+      {
+        "title": "Pixelate",
+        "description": "Pixelize para um look retro ou para ocultar detalhes (privacidade)."
+      },
+      {
+        "title": "Hexagonal",
+        "description": "Desfoque com padrão hexagonal para um efeito moderno e original."
+      },
+      {
+        "title": "Crystalize",
+        "description": "Efeito cristalizado para adicionar textura e um blur effect diferente."
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Como desfocar o fundo no iPhone — guia passo a passo",
+    "intro": {
+      "line1": "<strong>Três passos simples</strong> para desfocar o fundo de uma foto no iPhone e melhorar as suas imagens.",
+      "paragraph1": "Sem ferramentas complicadas: apenas um desfoque limpo e rápido."
+    },
+    "steps": [
+      {
+        "number": "1",
+        "title": "Descarregue a app",
+        "description": "Descarregue a Make Blur na App Store. Comece em segundos e crie background blur, blur photo e image blur com facilidade."
+      },
+      {
+        "number": "2",
+        "title": "Abra a sua foto",
+        "description": "Escolha uma foto da galeria. A app pode <strong>detetar automaticamente o fundo</strong> para o ajudar a desfocá-lo rapidamente."
+      },
+      {
+        "number": "3",
+        "title": "Escolha o efeito e guarde",
+        "description": "Escolha o blur effect que preferir: motion blur, desfoque gaussiano e outros. <strong>Guarde</strong> e partilhe um resultado profissional."
+      }
+    ]
+  },
+  "final_cta": {
+    "title": "Pronto para desfocar o fundo no iPhone?",
+    "paragraph1": "Se quer desfocar o fundo de uma foto e obter um look mais profissional, a Make Blur é o próximo passo perfeito.",
+    "paragraph2": "Uma experiência <strong>rápida e simples</strong> para background blur, blur photo, image blur e blur effect.",
+    "paragraph3": "<strong>Não adie</strong>: aprenda como desfocar o fundo no iPhone.<br>De “demasiado complicado” para “uau” hoje mesmo.",
+    "cta_text": "Começar",
+    "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "footer": {
+    "copyright": "© {year} Make Blur. Todos os direitos reservados.",
+    "download_text": "Descarregar Make Blur na App Store",
+    "download_url": "https://apps.apple.com/app/id6749166426",
+    "tagline": "Make Blur — app para desfocar o fundo no iPhone. Background blur, blur photo, image blur, motion blur e blur effect em poucos segundos."
+  },
+  "seo": {
+    "faq": [
+      {
+        "question": "Como desfocar o fundo no iPhone?",
+        "answer": "Para desfocar o fundo no iPhone, descarregue a Make Blur, abra a foto e deixe a app detetar automaticamente o fundo. Depois escolha um efeito (motion blur ou desfoque gaussiano) e guarde. É uma forma simples de obter background blur com bom resultado."
+      },
+      {
+        "question": "Qual é a melhor app para desfocar o fundo de uma foto?",
+        "answer": "A Make Blur é uma excelente app para desfocar o fundo de uma foto no iPhone: deteção automática, vários blur effect (motion blur, gaussian blur e mais) e interface fácil."
+      },
+      {
+        "question": "Como fazer blur photo ou image blur no iPhone?",
+        "answer": "Abra a foto na Make Blur, use a deteção automática para o fundo (background blur) ou selecione áreas manualmente, aplique o efeito e guarde. Assim faz blur photo e image blur em poucos toques."
+      },
+      {
+        "question": "Posso usar background blur grátis?",
+        "answer": "Sim. A Make Blur é uma app gratuita para background blur: pode desfocar o fundo, fazer blur photo e image blur com vários efeitos."
+      },
+      {
+        "question": "O que é motion blur?",
+        "answer": "Motion blur é um efeito de desfoque de movimento que adiciona dinamismo, como se houvesse velocidade na cena. Na Make Blur pode aplicá-lo como blur effect para um visual mais impactante."
+      },
+      {
+        "question": "Para que serve blur png?",
+        "answer": "Blur png normalmente refere-se a imagens/exportações em PNG com desfoque aplicado. Na Make Blur pode criar blur effect e fundos desfocados para diferentes usos, incluindo conteúdos com transparência."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Make Blur",
+        "applicationCategory": "PhotoEditorApplication",
+        "operatingSystem": "iOS",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "1000"
+        },
+        "description": "Desfocar o fundo no iPhone em segundos. App grátis para background blur, blur photo, image blur, motion blur e desfoque gaussiano."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Make Blur",
+        "url": "https://makeblur.com",
+        "logo": "https://makeblur.com/img/logo.webp",
+        "description": "Make Blur — app para desfocar o fundo de uma foto no iPhone. Background blur e blur effect em poucos toques."
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Make Blur",
+        "url": "https://makeblur.com/pt/",
+        "description": "Desfocar o fundo no iPhone: background blur, blur photo, image blur e blur effect para as suas fotos.",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://makeblur.com/pt/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Como desfocar o fundo no iPhone",
+        "description": "Guia passo a passo para desfocar o fundo de uma foto no iPhone com a Make Blur. Background blur, blur effect e motion blur em poucos toques.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Descarregar Make Blur",
+            "text": "Descarregue a Make Blur na App Store para desfocar o fundo no iPhone.",
+            "url": "https://apps.apple.com/app/id6749166426"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Abrir a foto",
+            "text": "Abra uma foto da galeria. A app deteta o fundo para o ajudar a criar background blur."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Escolher o efeito de desfoque",
+            "text": "Selecione um blur effect (motion blur, desfoque gaussiano, etc.), aplique o fundo desfocado e guarde."
+          }
+        ]
+      }
+    }
+  }
+}

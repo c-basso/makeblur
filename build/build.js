@@ -6,12 +6,12 @@ const DEFAULT_LANGUAGE = 'en';
 
 const LANGUAGES = [
     DEFAULT_LANGUAGE,
-    // 'ru',
-    // 'es',
-    // 'fr',
-    // 'de',
-    // 'it',
-    // 'pt'
+    'ru',
+    'es',
+    'fr',
+    'de',
+    'it',
+    'pt'
 ];
 
 (function() {
@@ -53,6 +53,12 @@ const LANGUAGES = [
                 data.meta = {};
             }
             data.meta.version = buildTimestamp;
+            data.meta.alternate_default = SITE_URL;
+
+            data.meta.alternate_languages = LANGUAGES.map((lang) => ({
+                lang,
+                url: lang === DEFAULT_LANGUAGE ? SITE_URL : `${SITE_URL}${lang}/`
+            }));
             
             // Replace {year} placeholder in footer.copyright with current year
             const currentYear = new Date().getFullYear();

@@ -48,6 +48,10 @@
     <title>{{meta.title}}</title>
     
     <link rel="canonical" href="{{meta.canonical}}">
+    {{#each meta.alternate_languages as |lang|}}
+    <link rel="alternate" hreflang="{{lang.lang}}" href="{{lang.url}}" />
+    {{/each}}
+    <link rel="alternate" hreflang="x-default" href="{{meta.alternate_default}}" />
     
     <!-- Favicons -->
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">

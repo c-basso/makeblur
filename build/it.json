@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "lang": "it",
+    "title": "Sfoca lo sfondo su iPhone — App gratis per sfocare lo sfondo di una foto | Make Blur",
+    "description": "Sfoca lo sfondo su iPhone in pochi secondi con Make Blur. L’app gratuita per background blur, blur photo, blur image e blur effect, con motion blur e sfocatura gaussiana. Risultati professionali, senza complicazioni. Scarica ora.",
+    "keywords": "the blur, motion blur, background blur, blur image, blur effect, blur photo, sfocare sfondo, sfocare lo sfondo su iphone, sfocare lo sfondo di una foto, sfocatura sfondo, sfocatura gaussiana, sfocatura movimento, app per sfocare foto, sfocare foto iphone, effetto sfocatura, editor foto iphone",
+    "author": "Make Blur",
+    "og_url": "https://makeblur.com/it/",
+    "og_title": "Sfoca lo sfondo su iPhone — App gratis | Make Blur",
+    "og_description": "Sfoca lo sfondo di una foto su iPhone in un attimo. Background blur, blur effect, motion blur e sfocatura gaussiana: semplice e veloce.",
+    "og_image": "https://makeblur.com/img/makeblur.png",
+    "twitter_url": "https://makeblur.com/it/",
+    "twitter_title": "Sfoca lo sfondo su iPhone — Make Blur",
+    "twitter_description": "Sfoca lo sfondo su iPhone: background blur, blur photo, blur image, motion blur e sfocatura gaussiana in pochi tocchi.",
+    "twitter_image": "https://makeblur.com/img/makeblur.png",
+    "canonical": "https://makeblur.com/it/",
+    "app_store_id": "6749166426"
+  },
+  "header": {
+    "logo_alt": "Make Blur — app per sfocare lo sfondo su iPhone",
+    "app_name": "Make Blur",
+    "download_text": " Scarica",
+    "download_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "hero": {
+    "title": "Sfoca lo sfondo su iPhone — trasforma le tue foto senza fatica",
+    "subtitle": "L’app gratuita per sfocare lo sfondo di una foto",
+    "screens": [
+      {
+        "src": "/img/screens/box__15_pro_max.webp",
+        "alt": "Sfocare lo sfondo su iPhone — esempio box blur"
+      },
+      {
+        "src": "/img/screens/motion__15_pro_max.webp",
+        "alt": "Sfocare lo sfondo su iPhone — esempio motion blur"
+      },
+      {
+        "src": "/img/screens/ghost__15_pro_max.webp",
+        "alt": "Blur effect — esempio ghosting"
+      },
+      {
+        "src": "/img/screens/crys__15_pro_max.webp",
+        "alt": "Background blur — esempio crystalize"
+      },
+      {
+        "src": "/img/screens/ghost1__15_pro_max.webp",
+        "alt": "Sfocare lo sfondo di una foto — esempio controllo preciso"
+      }
+    ],
+    "intro": {
+      "line1": "Vuoi sfocare lo sfondo su iPhone?",
+      "line2": "Cerchi un background blur pulito con un risultato bello subito?",
+      "paragraph1": "Non dovresti lottare con strumenti complicati per ottenere una sfocatura elegante.",
+      "paragraph2": "Make Blur rende tutto <strong>semplice</strong>: background blur, blur photo, blur image e blur effect su iPhone. In pochi tocchi ottieni una sfocatura dello sfondo pronta per social e portfolio."
+    },
+    "cta_text": "Scarica",
+    "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "features": {
+    "title": "Sfoca lo sfondo su iPhone — editing veloce con risultati che si vedono",
+    "intro": {
+      "line1": "Sappiamo quanto sia frustrante trovare un’app davvero facile per sfocare lo sfondo di una foto.",
+      "paragraph1": "Per questo abbiamo creato Make Blur: da <strong>principiante frustrato</strong> a <strong>creator sicuro</strong>, con una sfocatura sfondo dall’aspetto professionale.",
+      "paragraph2": "Niente menu infiniti: solo risultati quando fai background blur su iPhone."
+    },
+    "items": [
+      {
+        "title": "Sfocare lo sfondo di una foto — background blur senza complicazioni",
+        "description": "Ottieni un <strong>background blur</strong> con <strong>rilevamento automatico</strong>. Ideale per far risaltare il soggetto e ottenere un blur effect moderno, pulito e naturale."
+      },
+      {
+        "title": "Blur photo e blur image — sfocatura per stile o privacy",
+        "description": "Usa blur photo per un look artistico o blur image per nascondere dettagli. Make Blur ti permette di sfocare foto su iPhone in modo rapido e ordinato."
+      },
+      {
+        "title": "Sfocatura a pennello — controllo totale del blur effect",
+        "description": "Disegna dove vuoi la sfocatura. Con il pennello hai <strong>pieno controllo</strong> per sfocare lo sfondo o aree specifiche con precisione."
+      },
+      {
+        "title": "Come sfocare lo sfondo su iPhone — facile dal primo utilizzo",
+        "description": "Se cerchi come sfocare lo sfondo su iPhone, Make Blur è la scelta giusta: interfaccia chiara, passaggi minimi e risultato immediato."
+      },
+      {
+        "title": "Motion blur e sfocatura gaussiana — effetti dal look professionale",
+        "description": "Applica <strong>motion blur</strong> (sfocatura movimento) o <strong>sfocatura gaussiana</strong> per uno sfondo morbido e naturale. Perfetto per ritratti, prodotti e foto per social."
+      },
+      {
+        "title": "La blur app che semplifica tutto",
+        "description": "Make Blur è pensata per iPhone: veloce, intuitiva e focalizzata su background blur, blur photo e blur effect. Risultati belli senza perdere tempo."
+      }
+    ]
+  },
+  "blur_types": {
+    "title": "Diversi tipi di sfocatura per il tuo background blur su iPhone",
+    "items": [
+      {
+        "title": "Motion Blur",
+        "description": "Crea motion blur per aggiungere dinamismo e un effetto di movimento alle tue foto."
+      },
+      {
+        "title": "Gaussian Blur",
+        "description": "Sfocatura gaussiana morbida e naturale per uno sfondo elegante e professionale."
+      },
+      {
+        "title": "Ghosting",
+        "description": "Un effetto creativo e “fantasma” per trasformazioni artistiche."
+      },
+      {
+        "title": "Pixelate",
+        "description": "Pixelizza per un look retro o per nascondere dettagli (privacy)."
+      },
+      {
+        "title": "Hexagonal",
+        "description": "Sfocatura con pattern esagonale per un effetto moderno e originale."
+      },
+      {
+        "title": "Crystalize",
+        "description": "Effetto cristallizzato per aggiungere texture e un blur effect diverso dal solito."
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Come sfocare lo sfondo su iPhone — guida passo dopo passo",
+    "intro": {
+      "line1": "<strong>Tre passaggi semplici</strong> per sfocare lo sfondo di una foto su iPhone e migliorare subito i tuoi scatti.",
+      "paragraph1": "Senza strumenti complicati: solo sfocatura pulita e veloce."
+    },
+    "steps": [
+      {
+        "number": "1",
+        "title": "Scarica la blur app",
+        "description": "Scarica Make Blur dall’App Store. Inizia in pochi secondi e crea background blur, blur photo e blur image con facilità."
+      },
+      {
+        "number": "2",
+        "title": "Apri la tua foto",
+        "description": "Seleziona una foto dalla galleria. L’app può <strong>rilevare automaticamente lo sfondo</strong> per aiutarti a sfocarlo subito."
+      },
+      {
+        "number": "3",
+        "title": "Scegli l’effetto e salva",
+        "description": "Scegli il blur effect che preferisci: motion blur, sfocatura gaussiana e altri. <strong>Salva</strong> e condividi un risultato professionale."
+      }
+    ]
+  },
+  "final_cta": {
+    "title": "Pronto a sfocare lo sfondo su iPhone?",
+    "paragraph1": "Se vuoi sfocare lo sfondo di una foto e ottenere un look più professionale, Make Blur è il prossimo passo perfetto.",
+    "paragraph2": "Un’esperienza <strong>rapida e semplice</strong> per background blur, blur photo, blur image e blur effect.",
+    "paragraph3": "<strong>Non rimandare</strong>: impara come sfocare lo sfondo su iPhone.<br>Da “troppo complicato” a “wow” già oggi.",
+    "cta_text": "Inizia",
+    "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "footer": {
+    "copyright": "© {year} Make Blur. Tutti i diritti riservati.",
+    "download_text": "Scarica Make Blur su App Store",
+    "download_url": "https://apps.apple.com/app/id6749166426",
+    "tagline": "Make Blur — app per sfocare lo sfondo su iPhone. Background blur, blur photo, blur image, motion blur e blur effect in pochi secondi."
+  },
+  "seo": {
+    "faq": [
+      {
+        "question": "Come sfocare lo sfondo su iPhone?",
+        "answer": "Per sfocare lo sfondo su iPhone, scarica Make Blur, apri la foto e lascia che l’app rilevi automaticamente lo sfondo. Poi scegli un effetto (motion blur o sfocatura gaussiana) e salva. È un modo semplice per ottenere un background blur pulito."
+      },
+      {
+        "question": "Qual è la migliore app per sfocare lo sfondo di una foto?",
+        "answer": "Make Blur è un’ottima scelta per sfocare lo sfondo di una foto su iPhone: rilevamento automatico, diversi blur effect (motion blur, gaussian blur e altri) e interfaccia facile."
+      },
+      {
+        "question": "Come fare blur photo o blur image su iPhone?",
+        "answer": "Apri la foto in Make Blur, usa il rilevamento automatico per lo sfondo (background blur) oppure seleziona le aree manualmente, applica l’effetto e salva. Così ottieni blur photo e blur image in pochi tocchi."
+      },
+      {
+        "question": "Posso usare background blur gratis?",
+        "answer": "Sì. Make Blur è un’app gratuita per background blur: puoi sfocare lo sfondo, fare blur photo e blur image con diversi effetti."
+      },
+      {
+        "question": "Che cos’è motion blur?",
+        "answer": "Motion blur è un effetto di sfocatura movimento che aggiunge dinamismo, come se ci fosse velocità nella scena. In Make Blur puoi applicarlo come blur effect per un look più d’impatto."
+      },
+      {
+        "question": "Quali blur effect posso usare su iPhone?",
+        "answer": "Con Make Blur puoi usare motion blur, sfocatura gaussiana e altri effetti creativi (ghosting, pixelate, hexagonal, crystalize) per personalizzare il tuo background blur."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Make Blur",
+        "applicationCategory": "PhotoEditorApplication",
+        "operatingSystem": "iOS",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "1000"
+        },
+        "description": "Sfoca lo sfondo su iPhone in pochi secondi. App gratuita per background blur, blur photo, blur image, motion blur e sfocatura gaussiana."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Make Blur",
+        "url": "https://makeblur.com",
+        "logo": "https://makeblur.com/img/logo.webp",
+        "description": "Make Blur — app per sfocare lo sfondo di una foto su iPhone. Background blur e blur effect in pochi tocchi."
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Make Blur",
+        "url": "https://makeblur.com/it/",
+        "description": "Sfocare lo sfondo su iPhone: background blur, blur photo, blur image e blur effect per le tue foto.",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://makeblur.com/it/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Come sfocare lo sfondo su iPhone",
+        "description": "Guida passo a passo per sfocare lo sfondo di una foto su iPhone con Make Blur. Background blur, blur effect e motion blur in pochi tocchi.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Scarica Make Blur",
+            "text": "Scarica Make Blur dall’App Store per sfocare lo sfondo su iPhone.",
+            "url": "https://apps.apple.com/app/id6749166426"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Apri la foto",
+            "text": "Apri una foto dalla galleria. L’app rileva lo sfondo per aiutarti a creare background blur."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Scegli l’effetto di sfocatura",
+            "text": "Seleziona un blur effect (motion blur, sfocatura gaussiana, ecc.), applica lo sfondo sfocato e salva."
+          }
+        ]
+      }
+    }
+  }
+}
