@@ -1,31 +1,17 @@
 const fs = require('fs');
 const path = require('path');
 
-const SITE_URL = "https://makeblur.com/";
-const DEFAULT_LANGUAGE = 'en';
-
-const LANGUAGES = [
+const {
+    URLS,
+    SITE_URL,
     DEFAULT_LANGUAGE,
-    'ru',
-    'es',
-    'fr',
-    'de',
-    'it',
-    'pt'
-];
+    LANGUAGES
+} = require('./constants');
 
 (function() {
     const urlsPath = path.join(__dirname, '..', 'urls.txt');
 
-    const urls = [
-        SITE_URL
-    ].concat(
-        LANGUAGES
-            .filter((lang) => lang !== DEFAULT_LANGUAGE)
-            .map((lang) => `${SITE_URL}${lang}/`)
-    ).join('\n');
-
-    fs.writeFileSync(urlsPath, urls, 'utf8');
+    fs.writeFileSync(urlsPath, URLS.map(({url}) => url).join('\n'), 'utf8');
     console.log(`✅ Successfully built urls.txt file`);
     console.log(`📁 Output saved to: ${urlsPath}`);
     console.log()
@@ -54,11 +40,7 @@ const LANGUAGES = [
             }
             data.meta.version = buildTimestamp;
             data.meta.alternate_default = SITE_URL;
-
-            data.meta.alternate_languages = LANGUAGES.map((lang) => ({
-                lang,
-                url: lang === DEFAULT_LANGUAGE ? SITE_URL : `${SITE_URL}${lang}/`
-            }));
+            data.meta.alternate_languages = URLS;
             
             // Replace {year} placeholder in footer.copyright with current year
             const currentYear = new Date().getFullYear();
