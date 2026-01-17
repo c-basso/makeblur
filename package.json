@@ -3,6 +3,7 @@
   "scripts": {
     "build": "node build/build.js",
     "validate": "node build/validate.js",
+    "sitemap": "node build/sitemap.js",
     "start": "npx http-server",
     "site:preview": "node build/preview.js",
     "index:ya": "npx indexnow-submit submit-urls urls.txt --host makeblur.com --engine yandex.com --key Q8IPzEDH72muy5mKoXE2j5il",

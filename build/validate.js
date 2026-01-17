@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const { LANGUAGES, DEFAULT_LANGUAGE } = require('./constants');
+const { LANGUAGES, DEFAULT_LANGUAGE, EXPECTED_JSON_LD_TYPES } = require('./constants');
 
 function extractJsonLdBlocks(html) {
   const blocks = [];
@@ -28,7 +28,8 @@ function parseJsonLd(block, { file, lang, index }) {
         error: `JSON-LD block is not an object (got ${typeof obj})`,
       };
     }
-    return { ok: true };
+    const type = obj['@type'];
+    return { ok: true, type, obj };
   } catch (e) {
     const msg = e && e.message ? e.message : String(e);
     const posMatch = msg.match(/position (\d+)/);
@@ -41,6 +42,13 @@ function parseJsonLd(block, { file, lang, index }) {
       meta: { file, lang, index },
     };
   }
+}
+
+function normalizeTypes(typeValue) {
+  if (Array.isArray(typeValue)) return typeValue.map(String).filter(Boolean);
+  if (typeof typeValue === 'string') return [typeValue];
+  if (typeValue == null) return [];
+  return [String(typeValue)];
 }
 
 (function main() {
@@ -64,6 +72,7 @@ function parseJsonLd(block, { file, lang, index }) {
 
     const html = fs.readFileSync(htmlPath, 'utf8');
     const blocks = extractJsonLdBlocks(html);
+    const foundTypes = new Set();
 
     if (blocks.length === 0) {
       results.push({
@@ -76,7 +85,24 @@ function parseJsonLd(block, { file, lang, index }) {
 
     for (let i = 0; i < blocks.length; i++) {
       const res = parseJsonLd(blocks[i], { file: htmlPath, lang, index: i + 1 });
-      if (!res.ok) results.push(res);
+      if (!res.ok) {
+        results.push(res);
+        continue;
+      }
+
+      const types = normalizeTypes(res.type);
+      for (const t of types) foundTypes.add(t);
+      const printableType = types.length ? types.join(', ') : '(missing @type)';
+      console.log(`${lang}: ${path.relative(projectRoot, htmlPath)} block #${i + 1} @type=${printableType}`);
+    }
+
+    const missing = (EXPECTED_JSON_LD_TYPES || []).filter((t) => !foundTypes.has(t));
+    if (missing.length) {
+      results.push({
+        ok: false,
+        error: `Missing expected JSON-LD @type(s): ${missing.join(', ')}`,
+        meta: { file: htmlPath, lang },
+      });
     }
   }
 
