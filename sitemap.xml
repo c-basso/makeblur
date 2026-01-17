@@ -5,7 +5,6 @@
   
   <url>
     <loc>https://makeblur.com/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />

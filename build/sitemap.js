@@ -1,10 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const { SITE_URL, URLS } = require('./constants');
+const { SITE_URL, URLS, DEFAULT_LANGUAGE } = require('./constants');
 
 (function main() {
   const sitemapPath = path.join(__dirname, '..', 'sitemap.xml');
+  const robotsPath = path.join(__dirname, '..', 'robots.txt');
 
   const lines = [];
   lines.push('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>');
@@ -14,7 +15,7 @@ const { SITE_URL, URLS } = require('./constants');
   lines.push('  ');
   lines.push('  <url>');
   lines.push(`    <loc>${SITE_URL}</loc>`);
-  for (const { lang, url } of URLS) {
+  for (const { lang, url } of URLS.filter(({lang}) => lang !== DEFAULT_LANGUAGE)) {
     lines.push(`    <xhtml:link rel="alternate" hreflang="${lang}" href="${url}" />`);
   }
   lines.push('    <priority>1.0</priority>');
@@ -25,5 +26,18 @@ const { SITE_URL, URLS } = require('./constants');
   fs.writeFileSync(sitemapPath, lines.join('\n') + '\n', 'utf8');
   console.log(`✅ Successfully built sitemap.xml`);
   console.log(`📁 Output saved to: ${sitemapPath}`);
+  console.log()
+
+  const robots = `
+User-agent: *
+Allow: /
+
+Sitemap: ${SITE_URL}sitemap.xml 
+  `;
+  fs.writeFileSync(robotsPath, robots.trim() + '\n', 'utf8');
+  console.log(`✅ Successfully built robots.txt`);
+  console.log(`📁 Output saved to: ${robotsPath}`);
+  console.log()
+
 })();
 

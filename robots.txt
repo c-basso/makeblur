@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://makeblur.com/sitemap.xml 
+Sitemap: https://makeblur.com/sitemap.xml
