@@ -41,6 +41,11 @@ const {
             data.meta.version = buildTimestamp;
             data.meta.alternate_default = SITE_URL;
             data.meta.alternate_languages = URLS;
+
+            // Ensure Open Graph logo is always present (absolute URL)
+            if (!data.meta.og_logo) {
+                data.meta.og_logo = `${SITE_URL}img/logo.webp`;
+            }
             
             // Replace {year} placeholder in footer.copyright with current year
             const currentYear = new Date().getFullYear();
