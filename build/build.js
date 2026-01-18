@@ -47,6 +47,25 @@ const {
                 data.meta.og_logo = `${SITE_URL}img/logo.webp`;
             }
             
+            // Ensure Open Graph site_name is always present
+            if (!data.meta.og_site_name) {
+                data.meta.og_site_name = 'Make Blur';
+            }
+            
+            // Ensure Open Graph locale is always present (format: xx_XX)
+            if (!data.meta.og_locale) {
+                const localeMap = {
+                    'en': 'en_US',
+                    'ru': 'ru_RU',
+                    'es': 'es_ES',
+                    'fr': 'fr_FR',
+                    'de': 'de_DE',
+                    'it': 'it_IT',
+                    'pt': 'pt_PT'
+                };
+                data.meta.og_locale = localeMap[lang] || 'en_US';
+            }
+            
             // Replace {year} placeholder in footer.copyright with current year
             const currentYear = new Date().getFullYear();
             if (data.footer && data.footer.copyright) {
