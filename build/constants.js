@@ -27,10 +27,25 @@ const EXPECTED_JSON_LD_TYPES = [
     'BreadcrumbList'
 ];
 
+const INDEX_NOW_KEY = 'Q8IPzEDH72muy5mKoXE2j5il';
+
+// https://www.indexnow.org/searchengines.json
+const INDEX_NOW_ENGINES = [
+    'indexnow.yep.com',
+    'search.seznam.cz',
+    'searchadvisor.naver.com',
+    'indexnow.amazonbot.amazon',
+    'api.indexnow.org',
+    'yandex.com',
+    'bing.com'
+];
+
 module.exports = {
     SITE_URL,
     URLS,
     DEFAULT_LANGUAGE,
     LANGUAGES,
-    EXPECTED_JSON_LD_TYPES
+    EXPECTED_JSON_LD_TYPES,
+    INDEX_NOW_KEY,
+    INDEX_NOW_ENGINES
 };
