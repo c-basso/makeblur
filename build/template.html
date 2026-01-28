@@ -8,6 +8,8 @@
     <link rel="preconnect" href="https://mc.yandex.ru">
     <link rel="dns-prefetch" href="https://www.googletagmanager.com">
     <link rel="dns-prefetch" href="https://mc.yandex.ru">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-L321DN9X6C"></script>
@@ -50,6 +52,9 @@
     
     <title>{{meta.title}}</title>
     
+    <!-- Typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
     <link rel="canonical" href="{{meta.canonical}}">
     {{#each meta.alternate_languages as |lang|}}
     <link rel="alternate" hreflang="{{lang.lang}}" href="{{lang.url}}" />
@@ -85,42 +90,50 @@
     <main role="main">
     <section class="hero" itemscope itemtype="https://schema.org/ImageObject">
         <div class="container">
-            <h1>{{hero.title}}</h1>
-            <p class="subtitle">{{hero.subtitle}}</p>
-            <div class="hero-screens">
-                {{#each hero.screens as |screen|}}
-                <img src="{{screen.src}}" alt="{{screen.alt}}" loading="lazy" decoding="async" width="200" height="433">
-                {{/each}}
+            <div class="hero-layout">
+                <div class="hero-copy">
+                    <h1>{{hero.title}}</h1>
+                    <p class="subtitle">{{hero.subtitle}}</p>
+                    <div class="hero-intro">
+                        <p class="hero-intro-highlight">
+                            <strong>{{hero.intro.line1}}</strong><br>
+                            <strong>{{hero.intro.line2}}</strong>
+                        </p>
+                        <p class="hero-intro-body">
+                            {{hero.intro.paragraph1}}
+                        </p>
+                        <p class="hero-intro-body">
+                            {{hero.intro.paragraph2}}
+                        </p>
+                    </div>
+                    <div class="hero-cta">
+                        <a href="{{hero.cta_url}}" class="hero-download-link">
+                            <img src="/img/download.svg" alt="{{hero.cta_text}}" width="240" height="80" loading="eager" decoding="async">
+                        </a>
+                    </div>
+                </div>
+                <div class="hero-visual">
+                    <div class="hero-screens">
+                        {{#each hero.screens as |screen|}}
+                        <img src="{{screen.src}}" alt="{{screen.alt}}" loading="lazy" decoding="async" width="200" height="433">
+                        {{/each}}
+                    </div>
+                </div>
             </div>
-            <div style="max-width: 800px; margin: 0 auto 2.5rem; font-size: 1.2rem; line-height: 1.9;">
-                <p style="margin-bottom: 1.5rem; font-weight: 500;">
-                    <strong>{{hero.intro.line1}}</strong><br>
-                    <strong>{{hero.intro.line2}}</strong>
-                </p>
-                <p style="margin-bottom: 1.5rem; font-size: 1.1rem; opacity: 0.95;">
-                    {{hero.intro.paragraph1}}
-                </p>
-                <p style="margin-bottom: 1.5rem;">
-                    {{hero.intro.paragraph2}}
-                </p>
-            </div>
-            <a href="{{hero.cta_url}}" class="hero-download-link">
-                <img src="/img/download.svg" alt="{{hero.cta_text}}" width="240" height="80" loading="eager" decoding="async">
-            </a>
         </div>
     </section>
     
     <section class="features" itemscope itemtype="https://schema.org/ItemList">
         <div class="container">
             <h2>{{features.title}}</h2>
-            <div style="text-align: center; font-size: 1.1rem; color: #666; margin-bottom: 3rem; max-width: 800px; margin-left: auto; margin-right: auto; line-height: 1.9;">
-                <p style="margin-bottom: 1.2rem; font-weight: 500;">
+            <div class="section-intro section-intro--center">
+                <p class="section-intro-heading">
                     <strong>{{features.intro.line1}}</strong>
                 </p>
-                <p style="margin-bottom: 1.2rem;">
+                <p class="section-intro-body">
                     {{features.intro.paragraph1}}
                 </p>
-                <p style="font-style: italic; color: #764ba2; font-size: 1.05rem;">
+                <p class="section-intro-note">
                     {{features.intro.paragraph2}}
                 </p>
             </div>
@@ -152,11 +165,11 @@
     <section class="how-it-works">
         <div class="container">
             <h2>{{how_it_works.title}}</h2>
-            <div style="text-align: center; font-size: 1.1rem; color: #666; margin-bottom: 3rem; max-width: 700px; margin-left: auto; margin-right: auto; line-height: 1.9;">
-                <p style="margin-bottom: 1rem; font-weight: 500;">
+            <div class="section-intro section-intro--center">
+                <p class="section-intro-heading">
                     {{how_it_works.intro.line1}}
                 </p>
-                <p style="font-style: italic; color: #764ba2;">
+                <p class="section-intro-note">
                     {{how_it_works.intro.paragraph1}}
                 </p>
             </div>
@@ -172,21 +185,23 @@
         </div>
     </section>
     
-    <section class="hero" style="padding: 60px 20px;">
+    <section class="hero hero--final">
         <div class="container">
-            <h2 style="font-size: 2.5rem; margin-bottom: 2.5rem;">{{final_cta.title}}</h2>
-            <div style="max-width: 800px; margin: 0 auto 2rem; font-size: 1.2rem; line-height: 1.9;">
-                <p style="margin-bottom: 1.5rem;">
-                    {{final_cta.paragraph1}}
-                </p>
-                <p style="margin-bottom: 1.5rem;">
-                    {{final_cta.paragraph2}}
-                </p>
-                <p style="font-size: 1.1rem; margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid rgba(255, 255, 255, 0.2);">
-                    {{final_cta.paragraph3}}
-                </p>
+            <div class="final-cta">
+                <h2>{{final_cta.title}}</h2>
+                <div class="final-cta-body">
+                    <p>
+                        {{final_cta.paragraph1}}
+                    </p>
+                    <p>
+                        {{final_cta.paragraph2}}
+                    </p>
+                    <p class="final-cta-note">
+                        {{final_cta.paragraph3}}
+                    </p>
+                </div>
+                <a href="{{final_cta.cta_url}}" class="cta-button">{{final_cta.cta_text}}</a>
             </div>
-            <a href="{{final_cta.cta_url}}" class="cta-button">{{final_cta.cta_text}}</a>
         </div>
     </section>
     </main>
