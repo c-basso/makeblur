@@ -56,6 +56,28 @@
     "cta_text": "Laden",
     "cta_url": "https://apps.apple.com/app/id6749166426"
   },
+  "statistics": {
+    "title": "Make Blur in Zahlen",
+    "items": [
+      {
+        "number": "10,000+",
+        "label": "Downloads"
+      },
+      {
+        "number": "4.5",
+        "label": "Bewertung"
+      },
+      {
+        "number": "10+",
+        "label": "Bewertungen"
+      },
+      {
+        "number": "6",
+        "label": "Unschärfe-Effekte"
+      }
+    ],
+    "last_updated": "Aktualisiert: Januar 2026"
+  },
   "features": {
     "title": "Hintergrund unscharf auf dem iPhone — schnelle Bearbeitung, die wirklich funktioniert",
     "intro": {
@@ -119,6 +141,57 @@
       }
     ]
   },
+  "comparison": {
+    "title": "Make Blur vs andere Unschärfe-Apps",
+    "intro": "Vergleichen Sie Make Blur mit anderen Apps zum Unscharfmachen des Hintergrunds auf iPhone. Wir haben einen objektiven Vergleich erstellt, um Ihnen bei der Auswahl der besten App zu helfen.",
+    "table": {
+      "feature_label": "Funktion",
+      "competitors": [
+        {
+          "name": "Make Blur"
+        },
+        {
+          "name": "Typische App"
+        },
+        {
+          "name": "Premium-App"
+        }
+      ],
+      "features": [
+        {
+          "name": "Preis",
+          "value1": "Freemium (kostenlos mit optionalen In‑App‑Käufen)",
+          "value2": "Aufdringliche Werbung und eingeschränkte Gratis-Version",
+          "value3": "Einmalzahlung oder Abo"
+        },
+        {
+          "name": "Anzahl Unschärfe-Effekte",
+          "value1": "6 Typen",
+          "value2": "2-3 Typen",
+          "value3": "3-4 Typen"
+        },
+        {
+          "name": "Automatische Hintergrund-Erkennung",
+          "value1": "Ja",
+          "value2": "Nein / Begrenzt",
+          "value3": "Manchmal"
+        },
+        {
+          "name": "Zeichenwerkzeug",
+          "value1": "Ja",
+          "value2": "Nein",
+          "value3": "Manchmal"
+        },
+        {
+          "name": "Bewertung Benutzerfreundlichkeit",
+          "value1": "4.5 Sterne",
+          "value2": "3.5-4.2 Sterne",
+          "value3": "4.0-4.5 Sterne"
+        }
+      ]
+    },
+    "note": "Daten basierend auf App Store-Informationen von Januar 2026. Make Blur spezialisiert sich auf Hintergrund-Unschärfe mit Fokus auf Benutzerfreundlichkeit und kostenlosen Zugang zu allen Funktionen."
+  },
   "how_it_works": {
     "title": "Hintergrund auf dem iPhone unscharf machen — Schritt für Schritt",
     "intro": {
@@ -159,6 +232,7 @@
   },
   "seo": {
     "breadcrumb_home": "Startseite",
+    "faq_title": "Häufig gestellte Fragen",
     "faq": [
       {
         "question": "Wie kann ich den Hintergrund auf dem iPhone unscharf machen?",
@@ -199,8 +273,8 @@
         },
         "aggregateRating": {
           "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "1000"
+          "ratingValue": "4.5",
+          "ratingCount": "10"
         },
         "description": "Hintergrund auf dem iPhone unscharf machen in Sekunden. Gratis Blur App für blur background, blur photo, blur image, motion blur, Blur Filter und face blur."
       },

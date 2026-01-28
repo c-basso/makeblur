@@ -56,6 +56,28 @@
     "cta_text": "Descargar",
     "cta_url": "https://apps.apple.com/app/id6749166426"
   },
+  "statistics": {
+    "title": "Make Blur en números",
+    "items": [
+      {
+        "number": "10,000+",
+        "label": "Descargas"
+      },
+      {
+        "number": "4.5",
+        "label": "Calificación"
+      },
+      {
+        "number": "10+",
+        "label": "Reseñas"
+      },
+      {
+        "number": "6",
+        "label": "Efectos de desenfoque"
+      }
+    ],
+    "last_updated": "Actualizado: enero 2026"
+  },
   "features": {
     "title": "Desenfocar fondo en iPhone — edición rápida con resultados que se notan",
     "intro": {
@@ -119,6 +141,75 @@
       }
     ]
   },
+  "comparison": {
+    "title": "Make Blur vs otras apps de desenfoque",
+    "intro": "Compara Make Blur con otras apps para desenfocar el fondo en iPhone. Hemos creado una comparación objetiva para ayudarte a elegir la mejor app.",
+    "table": {
+      "feature_label": "Característica",
+      "competitors": [
+        {
+          "name": "Make Blur"
+        },
+        {
+          "name": "App típica"
+        },
+        {
+          "name": "App premium"
+        }
+      ],
+      "features": [
+        {
+          "name": "Precio",
+          "value1": "Freemium (gratis con compras opcionales en la app)",
+          "value2": "Anuncios agresivos y muros de pago",
+          "value3": "Pago inicial o suscripción"
+        },
+        {
+          "name": "Número de efectos",
+          "value1": "6 tipos",
+          "value2": "2-3 tipos",
+          "value3": "3-4 tipos"
+        },
+        {
+          "name": "Detección automática",
+          "value1": "Sí",
+          "value2": "No / Limitada",
+          "value3": "A veces"
+        },
+        {
+          "name": "Herramienta de dibujo",
+          "value1": "Sí",
+          "value2": "No",
+          "value3": "A veces"
+        },
+        {
+          "name": "Calificación facilidad",
+          "value1": "4.5 estrellas",
+          "value2": "3.5-4.2 estrellas",
+          "value3": "4.0-4.5 estrellas"
+        },
+        {
+          "name": "Reseñas de usuarios",
+          "value1": "10+ reseñas",
+          "value2": "50-200 reseñas",
+          "value3": "200-1,000 reseñas"
+        },
+        {
+          "name": "Descargas",
+          "value1": "10,000+",
+          "value2": "20,000-100,000",
+          "value3": "50,000-200,000"
+        },
+        {
+          "name": "Compatibilidad iOS",
+          "value1": "iOS 15+",
+          "value2": "iOS 14+",
+          "value3": "iOS 13+"
+        }
+      ]
+    },
+    "note": "Datos basados en información de App Store a enero de 2026. Make Blur se especializa en desenfoque de fondo con énfasis en facilidad de uso y acceso gratuito a todas las funciones."
+  },
   "how_it_works": {
     "title": "Cómo desenfocar fondo en iPhone — guía paso a paso",
     "intro": {
@@ -159,6 +250,7 @@
   },
   "seo": {
     "breadcrumb_home": "Inicio",
+    "faq_title": "Preguntas frecuentes",
     "faq": [
       {
         "question": "¿Cómo desenfocar fondo en iPhone?",
@@ -199,8 +291,8 @@
         },
         "aggregateRating": {
           "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "1000"
+          "ratingValue": "4.5",
+          "ratingCount": "10"
         },
         "description": "Desenfoca el fondo en iPhone al instante. App gratis para blur background (desenfoque de fondo), blur photo, blur image, motion blur y desenfoque gaussiano."
       },

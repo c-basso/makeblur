@@ -1,0 +1,25 @@
+# Make Blur
+
+> Make Blur is a free iOS photo editing application that allows users to blur backgrounds in photos with multiple blur effects including motion blur, gaussian blur, ghosting, pixelate, hexagonal, and crystalize.
+
+## Key Facts
+
+- Downloads: 10,000+
+- Rating: 4.5 stars (10+ reviews)
+- Platform: iOS 15+
+- Price: Free
+- Blur Effects: 6 types (Motion Blur, Gaussian Blur, Ghosting, Pixelate, Hexagonal, Crystalize)
+- Key Feature: Auto-detect background
+- App Store ID: 6749166426
+
+## Main Sections
+
+- Features: Background blur, photo blur, image blur with multiple effects
+- How It Works: 3-step process to blur backgrounds on iPhone
+- Blur Types: 6 different blur effects available
+- FAQ: Common questions about blurring backgrounds on iPhone
+
+## Contact
+
+- Website: https://makeblur.com
+- App Store: https://apps.apple.com/app/id6749166426

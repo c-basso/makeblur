@@ -56,6 +56,28 @@
     "cta_text": "Télécharger",
     "cta_url": "https://apps.apple.com/app/id6749166426"
   },
+  "statistics": {
+    "title": "Make Blur en chiffres",
+    "items": [
+      {
+        "number": "10,000+",
+        "label": "Téléchargements"
+      },
+      {
+        "number": "4.5",
+        "label": "Note"
+      },
+      {
+        "number": "10+",
+        "label": "Avis"
+      },
+      {
+        "number": "6",
+        "label": "Effets de flou"
+      }
+    ],
+    "last_updated": "Mis à jour : janvier 2026"
+  },
   "features": {
     "title": "Flouter l’arrière-plan sur iPhone — une édition rapide qui marche vraiment",
     "intro": {
@@ -119,6 +141,75 @@
       }
     ]
   },
+  "comparison": {
+    "title": "Make Blur vs autres apps de flou",
+    "intro": "Comparez Make Blur avec d'autres apps pour flouter le fond sur iPhone. Nous avons créé une comparaison objective pour vous aider à choisir la meilleure app.",
+    "table": {
+      "feature_label": "Fonctionnalité",
+      "competitors": [
+        {
+          "name": "Make Blur"
+        },
+        {
+          "name": "App typique"
+        },
+        {
+          "name": "App premium"
+        }
+      ],
+      "features": [
+        {
+          "name": "Prix",
+          "value1": "Freemium (gratuit avec achats intégrés optionnels)",
+          "value2": "Publicités agressives et accès limité sans paiement",
+          "value3": "Achat direct ou abonnement"
+        },
+        {
+          "name": "Nombre d'effets",
+          "value1": "6 types",
+          "value2": "2-3 types",
+          "value3": "3-4 types"
+        },
+        {
+          "name": "Détection auto du fond",
+          "value1": "Oui",
+          "value2": "Non / Limité",
+          "value3": "Parfois"
+        },
+        {
+          "name": "Outil de dessin",
+          "value1": "Oui",
+          "value2": "Non",
+          "value3": "Parfois"
+        },
+        {
+          "name": "Note facilité d'utilisation",
+          "value1": "4.5 étoiles",
+          "value2": "3.5-4.2 étoiles",
+          "value3": "4.0-4.5 étoiles"
+        },
+        {
+          "name": "Avis utilisateurs",
+          "value1": "10+ avis",
+          "value2": "50-200 avis",
+          "value3": "200-1,000 avis"
+        },
+        {
+          "name": "Téléchargements",
+          "value1": "10,000+",
+          "value2": "20,000-100,000",
+          "value3": "50,000-200,000"
+        },
+        {
+          "name": "Compatibilité iOS",
+          "value1": "iOS 15+",
+          "value2": "iOS 14+",
+          "value3": "iOS 13+"
+        }
+      ]
+    },
+    "note": "Données basées sur les informations de l'App Store en janvier 2026. Make Blur se spécialise dans le flou de fond avec un accent sur la facilité d'utilisation et l'accès gratuit à toutes les fonctionnalités."
+  },
   "how_it_works": {
     "title": "Comment flouter l’arrière-plan sur iPhone — guide étape par étape",
     "intro": {
@@ -159,6 +250,7 @@
   },
   "seo": {
     "breadcrumb_home": "Accueil",
+    "faq_title": "Questions fréquemment posées",
     "faq": [
       {
         "question": "Comment flouter l’arrière-plan sur iPhone ?",
@@ -199,8 +291,8 @@
         },
         "aggregateRating": {
           "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "1000"
+          "ratingValue": "4.5",
+          "ratingCount": "10"
         },
         "description": "Floutez l’arrière-plan sur iPhone instantanément. App gratuite pour blur background, blur photo, blur image, motion blur et flou gaussien."
       },

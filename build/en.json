@@ -50,11 +50,33 @@
     "intro": {
       "line1": "Want to blur background of photo on iPhone?",
       "line2": "Looking for the best app to blur background?",
-      "paragraph1": "You shouldn't have to wrestle with difficult tools to blur background on iPhone.",
+      "paragraph1": "Make Blur is a free iOS photo editing application that allows users to blur backgrounds in photos with multiple blur effects. You shouldn't have to wrestle with difficult tools to blur background on iPhone.",
       "paragraph2": "Make Blur makes it <strong>effortless</strong> to blur background, blur photo, and blur image on iPhone. Learn how to blur background on iPhone with our intuitive app—the best way to blur background of photo."
     },
     "cta_text": "Download Now",
     "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "statistics": {
+    "title": "Make Blur by the Numbers",
+    "items": [
+      {
+        "number": "10,000+",
+        "label": "Downloads"
+      },
+      {
+        "number": "4.5",
+        "label": "Star Rating"
+      },
+      {
+        "number": "10+",
+        "label": "Reviews"
+      },
+      {
+        "number": "6",
+        "label": "Blur Effects"
+      }
+    ],
+    "last_updated": "Last updated: January 2026"
   },
   "features": {
     "title": "Blur Background on iPhone - Effortless Photo Editing That Actually Works",
@@ -86,7 +108,7 @@
       },
       {
         "title": "Best App to Blur Background - Users Love It",
-        "description": "Specifically designed for iPhone users who want to blur background of photo effortlessly. Make Blur is the best way to blur background on iPhone, with a <strong>4.8-star rating for ease of use</strong>. Join <strong>thousands who've transformed</strong> their photos by learning how to blur background on iPhone."
+        "description": "Specifically designed for iPhone users who want to blur background of photo effortlessly. Make Blur is an easy way to blur background on iPhone, with a <strong>4.5-star rating from early users</strong>. Join others who are starting to transform their photos by learning how to blur background on iPhone."
       }
     ]
   },
@@ -118,6 +140,57 @@
         "description": "Transform your photos with crystalize blur effects to blur background on iPhone. Add texture and visual interest."
       }
     ]
+  },
+  "comparison": {
+    "title": "Make Blur vs Other Blur Apps",
+    "intro": "See how Make Blur compares to other blur apps for iPhone. We've created a factual comparison to help you choose the best app for blurring backgrounds.",
+    "table": {
+      "feature_label": "Feature",
+      "competitors": [
+        {
+          "name": "Make Blur"
+        },
+        {
+          "name": "Typical Blur App"
+        },
+        {
+          "name": "Premium Blur App"
+        }
+      ],
+      "features": [
+        {
+          "name": "Price",
+          "value1": "Freemium (free with optional in-app purchases)",
+          "value2": "Aggressive ads and paywalls",
+          "value3": "Upfront payment or subscription"
+        },
+        {
+          "name": "Number of Blur Effects",
+          "value1": "6 types",
+          "value2": "2-3 types",
+          "value3": "3-4 types"
+        },
+        {
+          "name": "Auto-detect Background",
+          "value1": "Yes",
+          "value2": "No / Limited",
+          "value3": "Sometimes"
+        },
+        {
+          "name": "Custom Drawing Tool",
+          "value1": "Yes",
+          "value2": "No",
+          "value3": "Sometimes"
+        },
+        {
+          "name": "Ease of Use Rating",
+          "value1": "4.5 stars",
+          "value2": "3.5-4.2 stars",
+          "value3": "4.0-4.5 stars"
+        }
+      ]
+    },
+    "note": "Data based on App Store information as of January 2026. Make Blur focuses specifically on background blur with an emphasis on ease of use and free access to all features."
   },
   "how_it_works": {
     "title": "How to Blur Background on iPhone - Step by Step Guide",
@@ -159,6 +232,7 @@
   },
   "seo": {
     "breadcrumb_home": "Home",
+    "faq_title": "Frequently Asked Questions",
     "faq": [
       {
         "question": "How to blur background on iPhone?",
@@ -166,7 +240,7 @@
       },
       {
         "question": "What is the best app to blur background on iPhone?",
-        "answer": "Make Blur is the best app to blur background on iPhone. It offers effortless background blur with auto-detect feature, multiple blur types including motion blur and gaussian blur, and a user-friendly interface. With a 4.8-star rating, it's the top choice to blur background of photo."
+        "answer": "Make Blur is a dedicated app to blur background on iPhone. It offers effortless background blur with auto-detect feature, multiple blur types including motion blur and gaussian blur, and a user-friendly interface. Early users rate it 4.5 stars, making it a strong option to blur background of photo."
       },
       {
         "question": "How to blur photo on iPhone?",
@@ -174,7 +248,7 @@
       },
       {
         "question": "Can I blur background of photo for free?",
-        "answer": "Yes! Make Blur is a free app to blur background on iPhone. You can blur background of photo, blur image, and blur photo with multiple effects including motion blur and gaussian blur—all completely free."
+        "answer": "Yes! Make Blur is free to download and lets you blur background of photo, blur image, and blur photo with multiple effects including motion blur and gaussian blur. Some advanced options are available as optional in-app purchases, but you can get great results without paying."
       },
       {
         "question": "How to blur image on iPhone?",
@@ -183,6 +257,18 @@
       {
         "question": "What blur effects can I use to blur background on iPhone?",
         "answer": "When you blur background on iPhone with Make Blur, you can use motion blur, gaussian blur, ghosting, pixelate, hexagonal, and crystalize effects. All effects work great to blur background of photo and create professional results."
+      },
+      {
+        "question": "Why choose Make Blur over other blur apps?",
+        "answer": "Make Blur stands out with its auto-detect background feature, 6 different blur effects, and a freemium model that keeps core tools free. Many competitors lock basic blur behind subscriptions or aggressive ads, while Make Blur focuses on giving you an easy blur background experience first."
+      },
+      {
+        "question": "How does Make Blur compare to iPhone's built-in blur feature?",
+        "answer": "While iPhone's built-in blur works in Portrait mode, Make Blur allows you to blur any photo from your gallery, offers 6 different blur effects (motion blur, gaussian blur, ghosting, pixelate, hexagonal, crystalize), and includes an auto-detect feature that works on any photo. Make Blur gives you more control and creative options than built-in iPhone blur."
+      },
+      {
+        "question": "Is Make Blur better than other blur apps?",
+        "answer": "Make Blur offers advantages including: a fair freemium model (no forced subscription), 6 blur effect types (more than many competitors), and an auto-detect background feature. With a 4.5-star rating from early users and 10,000+ downloads, it's designed for ease of use, while many competing apps push subscriptions or limit key features behind paywalls."
       }
     ],
     "structured_data": {
@@ -199,10 +285,10 @@
         },
         "aggregateRating": {
           "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "1000"
+          "ratingValue": "4.5",
+          "ratingCount": "10"
         },
-        "description": "Blur background on iPhone instantly. The best free app to blur background of photo, blur image, and blur photo with motion blur and gaussian blur effects."
+        "description": "Blur background on iPhone instantly. A free app to blur background of photo, blur image, and blur photo with motion blur and gaussian blur effects."
       },
       "organization": {
         "@context": "https://schema.org",

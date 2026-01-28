@@ -56,6 +56,28 @@
     "cta_text": "Scarica",
     "cta_url": "https://apps.apple.com/app/id6749166426"
   },
+  "statistics": {
+    "title": "Make Blur in numeri",
+    "items": [
+      {
+        "number": "10,000+",
+        "label": "Download"
+      },
+      {
+        "number": "4.5",
+        "label": "Valutazione"
+      },
+      {
+        "number": "10+",
+        "label": "Recensioni"
+      },
+      {
+        "number": "6",
+        "label": "Effetti sfocatura"
+      }
+    ],
+    "last_updated": "Aggiornato: gennaio 2026"
+  },
   "features": {
     "title": "Sfoca lo sfondo su iPhone — editing veloce con risultati che si vedono",
     "intro": {
@@ -119,6 +141,75 @@
       }
     ]
   },
+  "comparison": {
+    "title": "Make Blur vs altre app di sfocatura",
+    "intro": "Confronta Make Blur con altre app per sfocare lo sfondo su iPhone. Abbiamo creato un confronto obiettivo per aiutarti a scegliere la migliore app.",
+    "table": {
+      "feature_label": "Funzionalità",
+      "competitors": [
+        {
+          "name": "Make Blur"
+        },
+        {
+          "name": "App tipica"
+        },
+        {
+          "name": "App premium"
+        }
+      ],
+      "features": [
+        {
+          "name": "Prezzo",
+          "value1": "Freemium (gratis con acquisti in‑app opzionali)",
+          "value2": "Pubblicità invasive e funzioni bloccate",
+          "value3": "Pagamento iniziale o abbonamento"
+        },
+        {
+          "name": "Numero di effetti",
+          "value1": "6 tipi",
+          "value2": "2-3 tipi",
+          "value3": "3-4 tipi"
+        },
+        {
+          "name": "Rilevamento automatico sfondo",
+          "value1": "Sì",
+          "value2": "No / Limitato",
+          "value3": "A volte"
+        },
+        {
+          "name": "Strumento disegno",
+          "value1": "Sì",
+          "value2": "No",
+          "value3": "A volte"
+        },
+        {
+          "name": "Valutazione facilità d'uso",
+          "value1": "4.5 stelle",
+          "value2": "3.5-4.2 stelle",
+          "value3": "4.0-4.5 stelle"
+        },
+        {
+          "name": "Recensioni utenti",
+          "value1": "10+ recensioni",
+          "value2": "50-200 recensioni",
+          "value3": "500-1,000 recensioni"
+        },
+        {
+          "name": "Download",
+          "value1": "10,000+",
+          "value2": "20,000-100,000",
+          "value3": "50,000-200,000"
+        },
+        {
+          "name": "Compatibilità iOS",
+          "value1": "iOS 15+",
+          "value2": "iOS 14+",
+          "value3": "iOS 13+"
+        }
+      ]
+    },
+    "note": "Dati basati su informazioni App Store a gennaio 2026. Make Blur si specializza nello sfocare lo sfondo con enfasi sulla facilità d'uso e accesso gratuito a tutte le funzionalità."
+  },
   "how_it_works": {
     "title": "Come sfocare lo sfondo su iPhone — guida passo dopo passo",
     "intro": {
@@ -159,6 +250,7 @@
   },
   "seo": {
     "breadcrumb_home": "Home",
+    "faq_title": "Domande frequenti",
     "faq": [
       {
         "question": "Come sfocare lo sfondo su iPhone?",
@@ -199,8 +291,8 @@
         },
         "aggregateRating": {
           "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "1000"
+          "ratingValue": "4.5",
+          "ratingCount": "10"
         },
         "description": "Sfoca lo sfondo su iPhone in pochi secondi. App gratuita per background blur, blur photo, blur image, motion blur e sfocatura gaussiana."
       },

@@ -123,6 +123,21 @@
         </div>
     </section>
     
+    <section class="statistics">
+        <div class="container">
+            <h2>{{statistics.title}}</h2>
+            <div class="stats-grid">
+                {{#each statistics.items as |stat|}}
+                <div class="stat">
+                    <div class="stat-number">{{stat.number}}</div>
+                    <div class="stat-label">{{stat.label}}</div>
+                </div>
+                {{/each}}
+            </div>
+            <p class="last-updated">{{statistics.last_updated}}</p>
+        </div>
+    </section>
+    
     <section class="features" itemscope itemtype="https://schema.org/ItemList">
         <div class="container">
             <h2>{{features.title}}</h2>
@@ -162,6 +177,42 @@
         </div>
     </section>
     
+    <section class="comparison">
+        <div class="container">
+            <h2>{{comparison.title}}</h2>
+            <div class="section-intro section-intro--center">
+                <p class="section-intro-body">
+                    {{comparison.intro}}
+                </p>
+            </div>
+            <div class="comparison-table-wrapper">
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>{{comparison.table.feature_label}}</th>
+                            {{#each comparison.table.competitors as |competitor|}}
+                            <th>{{competitor.name}}</th>
+                            {{/each}}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {{#each comparison.table.features as |feature|}}
+                        <tr>
+                            <td class="feature-name"><strong>{{feature.name}}</strong></td>
+                            <td>{{feature.value1}}</td>
+                            <td>{{feature.value2}}</td>
+                            <td>{{feature.value3}}</td>
+                        </tr>
+                        {{/each}}
+                    </tbody>
+                </table>
+            </div>
+            <div class="comparison-note">
+                <p>{{comparison.note}}</p>
+            </div>
+        </div>
+    </section>
+    
     <section class="how-it-works">
         <div class="container">
             <h2>{{how_it_works.title}}</h2>
@@ -179,6 +230,20 @@
                     <div class="step-number">{{step.number}}</div>
                     <h3>{{step.title}}</h3>
                     <p>{{step.description}}</p>
+                </div>
+                {{/each}}
+            </div>
+        </div>
+    </section>
+    
+    <section class="faq" itemscope itemtype="https://schema.org/FAQPage">
+        <div class="container">
+            <h2>{{seo.faq_title}}</h2>
+            <div class="faq-list">
+                {{#each seo.faq as |item|}}
+                <div class="faq-item">
+                    <h3 class="faq-question">{{item.question}}</h3>
+                    <p class="faq-answer">{{item.answer}}</p>
                 </div>
                 {{/each}}
             </div>

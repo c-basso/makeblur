@@ -383,6 +383,62 @@ nav {
     transform: scale(0.97);
 }
 
+.statistics {
+    background: linear-gradient(145deg, rgba(12, 12, 24, 0.96), rgba(18, 18, 36, 0.96));
+    padding: 60px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.statistics h2 {
+    text-align: center;
+    font-size: 2.1rem;
+    margin-bottom: 2.5rem;
+    color: var(--text-main);
+    letter-spacing: -0.03em;
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 28px;
+    margin-bottom: 2rem;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.stat {
+    text-align: center;
+    padding: 24px 20px;
+    background: var(--bg-chip);
+    border-radius: var(--radius-md);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.stat-number {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+    line-height: 1.1;
+}
+
+.stat-label {
+    font-size: 0.95rem;
+    color: var(--text-soft);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.last-updated {
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--text-soft);
+    font-style: italic;
+    margin-top: 1.5rem;
+}
+
 .features {
     background: radial-gradient(circle at 0% 0%, rgba(243, 201, 105, 0.08) 0, transparent 55%), #050510;
     padding: 80px 0;
@@ -483,6 +539,91 @@ nav {
     padding: 78px 0;
 }
 
+.comparison {
+    background: radial-gradient(circle at 50% 0%, rgba(152, 105, 243, 0.12) 0, transparent 55%), #050510;
+    padding: 80px 0;
+}
+
+.comparison h2 {
+    text-align: center;
+    font-size: 2.1rem;
+    margin-bottom: 1.6rem;
+    color: var(--text-main);
+    letter-spacing: -0.03em;
+}
+
+.comparison-table-wrapper {
+    overflow-x: auto;
+    margin: 2.5rem 0;
+    border-radius: var(--radius-md);
+    background: linear-gradient(145deg, rgba(12, 12, 24, 0.96), rgba(18, 18, 36, 0.96));
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    box-shadow: 0 20px 55px rgba(0, 0, 0, 0.85);
+    -webkit-overflow-scrolling: touch;
+    padding: 0.25rem 0.5rem 0.75rem;
+    position: relative;
+}
+
+.comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 600px;
+}
+
+.comparison-table thead {
+    background: rgba(243, 201, 105, 0.1);
+}
+
+.comparison-table th {
+    padding: 18px 20px;
+    text-align: left;
+    font-weight: 600;
+    color: var(--accent);
+    font-size: 1rem;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.comparison-table th:first-child {
+    border-right: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.comparison-table td {
+    padding: 16px 20px;
+    color: var(--text-soft);
+    font-size: 0.95rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.comparison-table td:first-child {
+    border-right: 1px solid rgba(255, 255, 255, 0.06);
+    color: var(--text-main);
+}
+
+.comparison-table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.comparison-table tbody tr:hover {
+    background: rgba(243, 201, 105, 0.05);
+}
+
+.comparison-table .feature-name {
+    font-weight: 500;
+}
+
+.comparison-note {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+    color: var(--text-soft);
+    font-style: italic;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .blur-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
@@ -513,6 +654,46 @@ nav {
 .how-it-works {
     background: radial-gradient(circle at 100% 0%, rgba(152, 105, 243, 0.16) 0, transparent 55%), #050510;
     padding: 80px 0 88px;
+}
+
+.faq {
+    background: #050510;
+    padding: 80px 0;
+}
+
+.faq h2 {
+    text-align: center;
+    font-size: 2.1rem;
+    margin-bottom: 3rem;
+    color: var(--text-main);
+    letter-spacing: -0.03em;
+}
+
+.faq-list {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.faq-item {
+    background: linear-gradient(145deg, rgba(12, 12, 24, 0.96), rgba(18, 18, 36, 0.96));
+    padding: 24px 28px;
+    border-radius: var(--radius-md);
+    margin-bottom: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    box-shadow: 0 20px 55px rgba(0, 0, 0, 0.85);
+}
+
+.faq-question {
+    font-size: 1.15rem;
+    color: var(--accent);
+    margin-bottom: 0.8rem;
+    font-weight: 600;
+}
+
+.faq-answer {
+    font-size: 0.98rem;
+    color: var(--text-soft);
+    line-height: 1.8;
 }
 
 .steps {
@@ -681,8 +862,26 @@ footer a {
 
     .features,
     .blur-types,
-    .how-it-works {
+    .how-it-works,
+    .statistics,
+    .comparison,
+    .faq {
         padding: 60px 0;
+    }
+
+    .comparison-table-wrapper {
+        margin: 2rem 0;
+    }
+
+    .comparison-table th,
+    .comparison-table td {
+        padding: 12px 14px;
+        font-size: 0.9rem;
+    }
+
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
     }
 }
 
@@ -755,8 +954,39 @@ footer a {
     .features h2,
     .blur-types h2,
     .how-it-works h2,
+    .statistics h2,
+    .comparison h2,
+    .faq h2,
     .final-cta h2 {
         font-size: 1.6rem;
+    }
+
+    .comparison-table {
+        min-width: 420px;
+    }
+
+    .comparison-table th,
+    .comparison-table td {
+        padding: 8px 10px;
+        font-size: 0.8rem;
+        white-space: nowrap;
+    }
+
+    .stats-grid {
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+
+    .stat-number {
+        font-size: 2rem;
+    }
+
+    .faq-item {
+        padding: 18px 20px;
+    }
+
+    .faq-question {
+        font-size: 1.05rem;
     }
 
     .feature-card,
