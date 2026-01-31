@@ -1,4 +1,5 @@
 const SITE_URL = "https://makeblur.com/";
+// const SITE_URL = "http://127.0.0.1:8080/";
 const DEFAULT_LANGUAGE = 'en';
 
 const LANGUAGES = [
@@ -8,7 +9,8 @@ const LANGUAGES = [
     'fr',
     'de',
     'it',
-    'pt'
+    'pt',
+    'jp'
 ];
 
 const URLS = LANGUAGES.map((lang) => ({

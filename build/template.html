@@ -83,7 +83,24 @@
                 </div>
                 <span class="app-name">{{header.app_name}}</span>
             </div>
-            <a href="{{header.download_url}}" class="header-download">{{header.download_text}}</a>
+            <div class="header-actions">
+                <div class="language-selector" data-current-lang="{{meta.lang}}">
+                    <button class="language-selector-button" type="button" aria-label="Select language" aria-expanded="false">
+                        <span class="language-code">{{meta.lang}}</span>
+                        <svg class="language-chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M2 4L6 8L10 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </button>
+                    <div class="language-dropdown" role="menu">
+                        {{#each meta.alternate_languages as |lang|}}
+                        <a href="{{lang.url}}" class="language-option" data-lang="{{lang.lang}}" role="menuitem">
+                            <span class="language-code">{{lang.lang}}</span>
+                        </a>
+                        {{/each}}
+                    </div>
+                </div>
+                <a href="{{header.download_url}}" class="header-download">{{header.download_text}}</a>
+            </div>
         </nav>
     </header>
     
@@ -321,5 +338,49 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/105338905" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+
+<script>
+(function() {
+    // Language selector functionality
+    const languageSelector = document.querySelector('.language-selector');
+    if (!languageSelector) return;
+    
+    const button = languageSelector.querySelector('.language-selector-button');
+    const dropdown = languageSelector.querySelector('.language-dropdown');
+    const currentLang = languageSelector.getAttribute('data-current-lang');
+    const options = dropdown.querySelectorAll('.language-option');
+    
+    // Hide current language from dropdown
+    options.forEach(option => {
+        if (option.getAttribute('data-lang') === currentLang) {
+            option.style.display = 'none';
+        }
+    });
+    
+    // Toggle dropdown
+    button.addEventListener('click', function(e) {
+        e.stopPropagation();
+        const isExpanded = button.getAttribute('aria-expanded') === 'true';
+        button.setAttribute('aria-expanded', !isExpanded);
+        languageSelector.classList.toggle('is-open', !isExpanded);
+    });
+    
+    // Close dropdown when clicking outside
+    document.addEventListener('click', function(e) {
+        if (!languageSelector.contains(e.target)) {
+            button.setAttribute('aria-expanded', 'false');
+            languageSelector.classList.remove('is-open');
+        }
+    });
+    
+    // Close dropdown on escape key
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && languageSelector.classList.contains('is-open')) {
+            button.setAttribute('aria-expanded', 'false');
+            languageSelector.classList.remove('is-open');
+        }
+    });
+})();
+</script>
 </body>
 </html>

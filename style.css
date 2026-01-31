@@ -63,6 +63,12 @@ nav {
     align-items: center;
 }
 
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
 .logo-container {
     display: flex;
     align-items: center;
@@ -121,6 +127,128 @@ nav {
 
 .header-download:active {
     transform: scale(0.97);
+}
+
+.language-selector {
+    position: relative;
+    z-index: 10;
+}
+
+.language-selector-button {
+    background: var(--bg-chip);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-main);
+    padding: 10px 18px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: var(--radius-pill);
+    transition: all 0.2s ease;
+    min-height: 44px;
+    min-width: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-family: var(--font-sans);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.language-selector-button:hover {
+    background: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.12);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.5);
+}
+
+.language-selector-button:active {
+    transform: scale(0.97);
+}
+
+.language-code {
+    font-weight: 600;
+    letter-spacing: 0.1em;
+}
+
+.language-chevron {
+    transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    color: var(--text-muted);
+    flex-shrink: 0;
+}
+
+.language-selector.is-open .language-chevron {
+    transform: rotate(180deg);
+    color: var(--accent);
+}
+
+.language-dropdown {
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
+    min-width: 120px;
+    background: linear-gradient(145deg, rgba(12, 12, 24, 0.98), rgba(18, 18, 36, 0.98));
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    box-shadow: 0 20px 55px rgba(0, 0, 0, 0.85), 0 8px 24px rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(var(--blur-soft));
+    -webkit-backdrop-filter: blur(var(--blur-soft));
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-8px) scale(0.95);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: hidden;
+    padding: 6px;
+}
+
+.language-selector.is-open .language-dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0) scale(1);
+}
+
+.language-option {
+    display: flex;
+    align-items: center;
+    padding: 10px 16px;
+    color: var(--text-main);
+    text-decoration: none;
+    border-radius: 12px;
+    transition: all 0.2s ease;
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    position: relative;
+    overflow: hidden;
+}
+
+.language-option::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(circle at 0% 0%, rgba(243, 201, 105, 0.15) 0, transparent 60%);
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+.language-option:hover {
+    background: rgba(255, 255, 255, 0.06);
+    color: var(--accent);
+    transform: translateX(2px);
+}
+
+.language-option:hover::before {
+    opacity: 1;
+}
+
+.language-option .language-code {
+    font-weight: 600;
+    letter-spacing: 0.1em;
 }
 
 .hero {
@@ -896,6 +1024,26 @@ footer a {
 
     .app-name {
         font-size: 1rem;
+    }
+
+    .header-actions {
+        gap: 12px;
+    }
+
+    .language-selector-button {
+        padding: 8px 14px;
+        font-size: 0.8rem;
+        min-height: 40px;
+    }
+
+    .language-dropdown {
+        min-width: 100px;
+        padding: 4px;
+    }
+
+    .language-option {
+        padding: 8px 12px;
+        font-size: 0.85rem;
     }
 
     .header-download {

@@ -71,6 +71,8 @@
     
     <link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
     
+    <link rel="alternate" hreflang="jp" href="https://makeblur.com/jp/" />
+    
     <link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
     
     <!-- Favicons -->
@@ -84,7 +86,7 @@
     <link rel="icon" type="image/png" sizes="192x192" href="/img/web-app-manifest-192x192.png">
     <link rel="icon" type="image/png" sizes="512x512" href="/img/web-app-manifest-512x512.png">
     
-    <link rel="stylesheet" href="/style.css?v=1769627168415">
+    <link rel="stylesheet" href="/style.css?v=1769890770205">
 </head>
 <body>
     <header role="banner">
@@ -95,7 +97,52 @@
                 </div>
                 <span class="app-name">Make Blur</span>
             </div>
-            <a href="https://apps.apple.com/app/id6749166426" class="header-download"> Descargar</a>
+            <div class="header-actions">
+                <div class="language-selector" data-current-lang="es">
+                    <button class="language-selector-button" type="button" aria-label="Select language" aria-expanded="false">
+                        <span class="language-code">es</span>
+                        <svg class="language-chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M2 4L6 8L10 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </button>
+                    <div class="language-dropdown" role="menu">
+                        
+                        <a href="https://makeblur.com/" class="language-option" data-lang="en" role="menuitem">
+                            <span class="language-code">en</span>
+                        </a>
+                        
+                        <a href="https://makeblur.com/ru/" class="language-option" data-lang="ru" role="menuitem">
+                            <span class="language-code">ru</span>
+                        </a>
+                        
+                        <a href="https://makeblur.com/es/" class="language-option" data-lang="es" role="menuitem">
+                            <span class="language-code">es</span>
+                        </a>
+                        
+                        <a href="https://makeblur.com/fr/" class="language-option" data-lang="fr" role="menuitem">
+                            <span class="language-code">fr</span>
+                        </a>
+                        
+                        <a href="https://makeblur.com/de/" class="language-option" data-lang="de" role="menuitem">
+                            <span class="language-code">de</span>
+                        </a>
+                        
+                        <a href="https://makeblur.com/it/" class="language-option" data-lang="it" role="menuitem">
+                            <span class="language-code">it</span>
+                        </a>
+                        
+                        <a href="https://makeblur.com/pt/" class="language-option" data-lang="pt" role="menuitem">
+                            <span class="language-code">pt</span>
+                        </a>
+                        
+                        <a href="https://makeblur.com/jp/" class="language-option" data-lang="jp" role="menuitem">
+                            <span class="language-code">jp</span>
+                        </a>
+                        
+                    </div>
+                </div>
+                <a href="https://apps.apple.com/app/id6749166426" class="header-download"> Descargar</a>
+            </div>
         </nav>
     </header>
     
@@ -496,5 +543,49 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/105338905" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+
+<script>
+(function() {
+    // Language selector functionality
+    const languageSelector = document.querySelector('.language-selector');
+    if (!languageSelector) return;
+    
+    const button = languageSelector.querySelector('.language-selector-button');
+    const dropdown = languageSelector.querySelector('.language-dropdown');
+    const currentLang = languageSelector.getAttribute('data-current-lang');
+    const options = dropdown.querySelectorAll('.language-option');
+    
+    // Hide current language from dropdown
+    options.forEach(option => {
+        if (option.getAttribute('data-lang') === currentLang) {
+            option.style.display = 'none';
+        }
+    });
+    
+    // Toggle dropdown
+    button.addEventListener('click', function(e) {
+        e.stopPropagation();
+        const isExpanded = button.getAttribute('aria-expanded') === 'true';
+        button.setAttribute('aria-expanded', !isExpanded);
+        languageSelector.classList.toggle('is-open', !isExpanded);
+    });
+    
+    // Close dropdown when clicking outside
+    document.addEventListener('click', function(e) {
+        if (!languageSelector.contains(e.target)) {
+            button.setAttribute('aria-expanded', 'false');
+            languageSelector.classList.remove('is-open');
+        }
+    });
+    
+    // Close dropdown on escape key
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && languageSelector.classList.contains('is-open')) {
+            button.setAttribute('aria-expanded', 'false');
+            languageSelector.classList.remove('is-open');
+        }
+    });
+})();
+</script>
 </body>
 </html>
