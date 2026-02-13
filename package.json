@@ -11,6 +11,7 @@
     "deploy": "npm run build && npm run validate && npm run sitemap && npm run push"
   },
   "devDependencies": {
+    "jsonld": "^9.0.0",
     "puppeteer": "^24.1.1"
   }
 }
