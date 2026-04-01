@@ -62,7 +62,8 @@ const {
                     'de': 'de_DE',
                     'it': 'it_IT',
                     'pt': 'pt_PT',
-                    'jp': 'ja_JP'
+                    'jp': 'ja_JP',
+                    'ko': 'ko_KR'
                 };
                 data.meta.og_locale = localeMap[lang] || 'en_US';
             }

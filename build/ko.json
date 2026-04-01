@@ -1,0 +1,335 @@
+{
+  "meta": {
+    "lang": "ko",
+    "title": "아이폰 사진 배경 흐리게 — 무료 배경 블러 앱 | Make Blur",
+    "description": "Make Blur로 아이폰에서 배경을 빠르게 흐리게 하세요. 사진 배경 블러, 이미지 흐림, 모션 블러·가우시안 블러까지 지원하는 iOS 사진 편집 앱입니다. 자동 배경 인식으로 간단히 편집하고 앱스토어에서 받아 보세요.",
+    "keywords": "아이폰 배경 흐리게, 사진 배경 블러, 배경 흐림 앱, 아이폰 블러, 사진 편집 앱, 배경 블러 무료, 모션 블러, 가우시안 블러, 이미지 흐리게, 인물 사진 배경, 아이폰 사진 배경 지우기, 블러 앱 추천, 배경 흐리게 하는 법",
+    "author": "Make Blur",
+    "og_url": "https://makeblur.com/ko/",
+    "og_title": "아이폰 사진 배경 흐리게 — 무료 블러 앱 Make Blur",
+    "og_description": "Make Blur는 아이폰에서 사진 배경을 빠르게 흐리게 할 수 있는 iOS 사진 편집 앱입니다. 자동 배경 인식·브러시 영역 지정과 모션·가우시안 블러 등 6가지 효과를 지원하며, 앱스토어에서 무료로 설치해 바로 써 볼 수 있습니다.",
+    "og_image": "https://makeblur.com/ko/site_preview.png",
+    "twitter_url": "https://makeblur.com/ko/",
+    "twitter_title": "아이폰 배경 블러 무료 앱 | Make Blur",
+    "twitter_description": "아이폰에서 사진 배경을 빠르게 흐리게 하세요. 자동 배경 인식, 모션·가우시안 블러 등 6가지 효과.",
+    "twitter_image": "https://makeblur.com/ko/site_preview.png",
+    "canonical": "https://makeblur.com/ko/",
+    "app_store_id": "6749166426"
+  },
+  "header": {
+    "logo_alt": "Make Blur — 아이폰 사진 배경 블러 앱",
+    "app_name": "Make Blur",
+    "download_text": " 앱스토어에서 받기",
+    "download_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "hero": {
+    "title": "아이폰에서 사진 배경을 쉽게 흐리게 — Make Blur",
+    "subtitle": "사진 배경 블러에 최적화된 무료 iOS 앱",
+    "screens": [
+      {
+        "src": "/img/screens/box__15_pro_max.webp",
+        "alt": "아이폰 배경 블러 — 박스 블러 효과 예시"
+      },
+      {
+        "src": "/img/screens/motion__15_pro_max.webp",
+        "alt": "아이폰 배경 블러 — 모션 블러 효과 예시"
+      },
+      {
+        "src": "/img/screens/ghost__15_pro_max.webp",
+        "alt": "아이폰 배경 블러 — 고스트 블러 효과 예시"
+      },
+      {
+        "src": "/img/screens/crys__15_pro_max.webp",
+        "alt": "아이폰 배경 블러 — 크리스털라이즈 블러 예시"
+      },
+      {
+        "src": "/img/screens/ghost1__15_pro_max.webp",
+        "alt": "아이폰 배경 블러 — 고급 블러 효과 예시"
+      }
+    ],
+    "intro": {
+      "line1": "아이폰에서 사진 배경만 흐리게 하고 싶으신가요?",
+      "line2": "복잡한 툴 없이 배경 블러를 하고 싶으신가요?",
+      "paragraph1": "<strong>Make Blur</strong>는 iOS용 사진 편집 앱으로, 여러 블러 스타일로 사진 배경을 흐리게 할 수 있습니다. 전문 툴을 몰라도 아이폰에서 배경 흐림을 적용할 수 있도록 만들었습니다.",
+      "paragraph2": "몇 번의 탭으로 배경을 흐리게 하고, 인물·사물을 돋보이게 하세요. 직관적인 화면으로 <strong>처음 사용자도</strong> 빠르게 결과를 얻을 수 있습니다."
+    },
+    "cta_text": "앱스토어에서 받기",
+    "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "statistics": {
+    "title": "Make Blur 주요 수치",
+    "items": [
+      {
+        "number": "10,000+",
+        "label": "다운로드"
+      },
+      {
+        "number": "4.5",
+        "label": "평점"
+      },
+      {
+        "number": "10+",
+        "label": "리뷰"
+      },
+      {
+        "number": "6",
+        "label": "블러 종류"
+      }
+    ],
+    "last_updated": "최종 업데이트: 2026년 1월"
+  },
+  "features": {
+    "title": "아이폰 사진 배경 블러 — 간단하지만 확실한 편집",
+    "intro": {
+      "line1": "배경만 흐리게 하는 게 생각보다 번거롭다는 걸 알고 있습니다.",
+      "paragraph1": "그래서 <strong>배경 블러에 집중한 앱</strong>을 만들었습니다. 복잡한 레이어 편집 대신, 목적에 맞는 블러를 빠르게 적용할 수 있습니다.",
+      "paragraph2": "광고에 가린 기능·과한 구독 부담을 줄이고, 사진 한 장씩 결과를 확인할 수 있게 구성했습니다."
+    },
+    "items": [
+      {
+        "title": "자동 배경 인식으로 배경 블러",
+        "description": "배경 영역을 앱이 감지해 <strong>인물·피사체는 선명하게</strong>, 뒤쪽만 흐리게 할 수 있습니다. SNS·프로필 사진처럼 <strong>피사체를 강조</strong>할 때 유용합니다."
+      },
+      {
+        "title": "사진·이미지 전체 또는 부분 블러",
+        "description": "인스타 감성 연출, 개인정보 가리기 등 목적에 맞게 <strong>사진 전체 또는 원하는 구역</strong>만 흐리게 할 수 있습니다."
+      },
+      {
+        "title": "브러시로 직접 그리며 블러 영역 지정",
+        "description": "손으로 영역을 칠해 <strong>블러가 들어갈 위치를 정확히</strong> 정할 수 있습니다. 자동 인식과 함께 쓰면 더 세밀한 결과를 낼 수 있습니다."
+      },
+      {
+        "title": "아이폰에서 사진 흐리게 — 단계가 적습니다",
+        "description": "앱 실행 → 사진 선택 → 블러 종류 선택 → 저장. 긴 튜토리얼 없이 <strong>짧은 흐름</strong>으로 끝나도록 설계했습니다."
+      },
+      {
+        "title": "모션 블러·가우시안 블러 등 다양한 효과",
+        "description": "움직임 강조부터 부드러운 디포커스까지, <strong>모션 블러</strong>와 <strong>가우시안 블러</strong>를 비롯해 여러 스타일로 배경 분위기를 조정할 수 있습니다."
+      },
+      {
+        "title": "아이폰 사용자를 위한 배경 블러 앱",
+        "description": "터치 중심 UI로 한 손에서도 편집하기 쉽게 구성했습니다. 앱스토어 초기 리뷰 기준 <strong>평점 약 4.5</strong>를 참고할 수 있으며, 의견을 반영해 업데이트를 이어 가고 있습니다."
+      }
+    ]
+  },
+  "blur_types": {
+    "title": "6가지 블러로 아이폰 사진 배경 흐리게",
+    "items": [
+      {
+        "title": "모션 블러",
+        "description": "움직임이 느껴지는 <strong>모션 블러</strong>로 역동적인 분위기를 줄 수 있습니다."
+      },
+      {
+        "title": "가우시안 블러",
+        "description": "부드럽게 퍼지는 <strong>가우시안 블러</strong>로 자연스러운 아웃포커스 느낌을 낼 수 있습니다."
+      },
+      {
+        "title": "고스팅",
+        "description": "은은한 이중 노출 같은 <strong>고스팅</strong> 효과로 분위기 있는 이미지를 만들 수 있습니다."
+      },
+      {
+        "title": "픽셀레이트",
+        "description": "모자이크형 <strong>픽셀레이트</strong>로 레트로 느낌이나 얼굴·텍스트 가리기에 활용할 수 있습니다."
+      },
+      {
+        "title": "헥사고널",
+        "description": "육각 패턴이 섞인 <strong>헥사고널 블러</strong>로 독특한 질감을 줄 수 있습니다."
+      },
+      {
+        "title": "크리스털라이즈",
+        "description": "<strong>크리스털라이즈</strong>로 결·텍스처를 살려 예술적인 느낌을 더할 수 있습니다."
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Make Blur와 다른 블러 앱 비교",
+    "intro": "같은 「배경 블러」라도 가격 정책·효과 개수·자동 인식 유무가 다릅니다. 공개된 앱스토어 정보를 바탕으로 한 요약입니다.",
+    "table": {
+      "feature_label": "항목",
+      "competitors": [
+        {
+          "name": "Make Blur"
+        },
+        {
+          "name": "일반 블러 앱"
+        },
+        {
+          "name": "프리미엄형 블러 앱"
+        }
+      ],
+      "features": [
+        {
+          "name": "가격",
+          "value1": "프리미엄(무료 + 선택 인앱 구매)",
+          "value2": "광고·페이월 강조 사례 다수",
+          "value3": "유료 구매 또는 구독"
+        },
+        {
+          "name": "블러 종류",
+          "value1": "6종",
+          "value2": "약 2~3종",
+          "value3": "약 3~4종"
+        },
+        {
+          "name": "배경 자동 인식",
+          "value1": "지원",
+          "value2": "없음/제한적",
+          "value3": "앱에 따라 다름"
+        },
+        {
+          "name": "직접 그리기(브러시)",
+          "value1": "지원",
+          "value2": "미지원인 경우 많음",
+          "value3": "앱에 따라 다름"
+        },
+        {
+          "name": "사용 편의 평가(참고)",
+          "value1": "별 약 4.5",
+          "value2": "별 약 3.5~4.2",
+          "value3": "별 약 4.0~4.5"
+        }
+      ]
+    },
+    "note": "수치는 2026년 1월 기준 앱스토어 등 공개 정보를 참고해 정리했습니다. Make Blur는 배경 블러와 사용 편의를 우선합니다."
+  },
+  "how_it_works": {
+    "title": "아이폰에서 배경 흐리게 하는 방법 — 3단계",
+    "intro": {
+      "line1": "<strong>세 단계</strong>로 사진을 열고 배경만 흐리게 한 뒤 저장할 수 있습니다.",
+      "paragraph1": "별도 편집 소프트웨어 없이, 휴대폰 한 대로 마무리할 수 있도록 흐름을 단순화했습니다."
+    },
+    "steps": [
+      {
+        "number": "1",
+        "title": "앱스토어에서 Make Blur 설치",
+        "description": "App Store에서 <strong>Make Blur</strong>를 검색해 설치합니다. 아이폰·iPad 호환 iOS 앱입니다."
+      },
+      {
+        "number": "2",
+        "title": "갤러리에서 사진 열기",
+        "description": "편집할 사진을 고릅니다. <strong>배경 자동 인식</strong>이 동작하면 별도로 영역을 일일이 고르지 않아도 됩니다."
+      },
+      {
+        "number": "3",
+        "title": "블러 선택 후 저장",
+        "description": "모션·가우시안 등 원하는 효과를 고른 뒤 저장합니다. SNS·메신저로 바로 공유할 수 있습니다."
+      }
+    ]
+  },
+  "final_cta": {
+    "title": "지금 아이폰에서 배경 블러를 해 보세요",
+    "paragraph1": "사진 한 장으로 인물이 더 돋보이게 하려면, <strong>배경만 흐리게</strong> 하는 것만으로도 충분한 경우가 많습니다.",
+    "paragraph2": "Make Blur는 그 작업에 특화된 iOS 앱입니다. 설치 후 바로 사진을 열어 보세요.",
+    "paragraph3": "<strong>앱스토어</strong>에서 무료로 받고, 6가지 블러로 결과를 확인해 보세요.",
+    "cta_text": "시작하기",
+    "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "footer": {
+    "copyright": "© {year} Make Blur. 무단 복제·배포를 금합니다.",
+    "download_text": "App Store에서 Make Blur 받기",
+    "download_url": "https://apps.apple.com/app/id6749166426",
+    "tagline": "Make Blur — 아이폰 사진 배경 블러 앱. 자동 배경 인식, 6가지 블러, 빠른 저장."
+  },
+  "seo": {
+    "breadcrumb_home": "홈",
+    "faq_title": "자주 묻는 질문",
+    "faq": [
+      {
+        "question": "아이폰에서 사진 배경만 흐리게 하려면?",
+        "answer": "Make Blur를 설치한 뒤 사진을 열고 배경 자동 인식을 사용하거나, 브러시로 영역을 지정합니다. 그다음 모션 블러·가우시안 블러 등을 고르고 저장하면 됩니다. 별도 PC 편집 없이 아이폰에서 끝낼 수 있습니다."
+      },
+      {
+        "question": "아이폰 배경 블러 앱 추천 기준은?",
+        "answer": "① 배경 자동 인식 여부 ② 블러 종류 수 ③ 광고·구독 정책 ④ 저장 해상도 및 공유 편이입니다. Make Blur는 배경 블러에 집중하고 6가지 효과와 자동 인식·브러시를 제공하는 프리미엄 구조의 앱입니다."
+      },
+      {
+        "question": "무료로 배경 블러를 쓸 수 있나요?",
+        "answer": "네. 앱은 무료로 설치할 수 있으며 기본 블러 기능을 사용할 수 있습니다. 일부 고급 옵션은 인앱 구매일 수 있으나, 앱스토어 설명을 확인해 주세요."
+      },
+      {
+        "question": "이미지 일부만 흐리게 할 수 있나요?",
+        "answer": "네. 브러시로 원하는 부분만 칠해 블러를 넣을 수 있고, 배경 자동 인식과 조합해 쓸 수도 있습니다."
+      },
+      {
+        "question": "어떤 블러 효과가 있나요?",
+        "answer": "모션 블러, 가우시안 블러, 고스팅, 픽셀레이트, 헥사고널, 크리스털라이즈 등 6가지입니다."
+      },
+      {
+        "question": "다른 앱과 비교했을 때 장점은?",
+        "answer": "강제 구독 없이 시작할 수 있는 프리미엄 모델, 6가지 블러, 배경 자동 인식과 수동 브러시를 함께 제공하는 점이 특징입니다. 경쟁 앱마다 광고·구독 정책이 다르므로 본인에게 맞는지 앱스토어 정보로 비교하는 것이 좋습니다."
+      },
+      {
+        "question": "아이폰 인물 모드·기본 편집과 차이가 있나요?",
+        "answer": "카메라 <strong>인물 모드</strong>는 촬영 거리·조명·피사체 조건에 따라 배경 분리 품질이 달라지고, 이미 찍힌 일반 사진에는 그대로 적용되지 않습니다. Make Blur는 <strong>갤러리 사진</strong>을 열어 배경만 흐리게 할 수 있고, 모션·가우시안·픽셀레이트 등 6가지 스타일로 분위기를 바꿀 수 있습니다."
+      },
+      {
+        "question": "Make Blur는 안전한가요?",
+        "answer": "편집은 기기에서 진행되는 방식이며, 자세한 데이터 처리 내용은 사이트의 개인정보 처리방침을 참고해 주세요."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Make Blur",
+        "applicationCategory": "PhotoEditorApplication",
+        "operatingSystem": "iOS",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "10"
+        },
+        "description": "아이폰에서 사진 배경을 빠르게 흐리게 하는 앱. 모션 블러·가우시안 블러 등 여러 효과와 자동 배경 인식을 지원합니다."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Make Blur",
+        "url": "https://makeblur.com",
+        "logo": "https://makeblur.com/img/logo.webp",
+        "description": "Make Blur — 아이폰용 사진 배경 블러 앱. 배경 흐림과 다양한 블러 효과에 특화했습니다."
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Make Blur",
+        "url": "https://makeblur.com",
+        "description": "아이폰에서 사진 배경을 흐리게 하고 블러 효과를 적용하는 Make Blur 공식 안내 페이지입니다.",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://makeblur.com/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "아이폰에서 사진 배경 흐리게 하기",
+        "description": "Make Blur 앱으로 갤러리 사진의 배경을 블러 처리하는 단계입니다.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Make Blur 설치",
+            "text": "App Store에서 Make Blur를 검색해 설치합니다.",
+            "url": "https://apps.apple.com/app/id6749166426"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "사진 열기",
+            "text": "앱에서 편집할 사진을 선택합니다. 배경 자동 인식이 가능하면 배경 영역이 감지됩니다."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "블러 적용 후 저장",
+            "text": "모션 블러·가우시안 블러 등 원하는 효과를 고른 뒤 저장합니다."
+          }
+        ]
+      }
+    }
+  }
+}
