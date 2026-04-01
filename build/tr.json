@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "lang": "tr",
+    "title": "iPhone'da arka planı bulanıklaştır — ücretsiz fotoğraf uygulaması | Make Blur",
+    "description": "iPhone'da fotoğraf arka planını hızlıca bulanıklaştırın: Make Blur iOS uygulaması ile otomatik arka plan algılama, motion blur, gaussian blur ve 6 efekt. Fırça ile seçim, App Store'dan ücretsiz indirin.",
+    "keywords": "iPhone arka plan bulanıklaştırma, fotoğraf bulanıklık uygulaması, arka plan blurlama, resim bulanıklaştırma iOS, motion blur, gaussian blur, portre modu alternatifi, fotoğraf düzenleme uygulaması, ücretsiz blur uygulaması",
+    "author": "Make Blur",
+    "og_url": "https://makeblur.com/tr/",
+    "og_title": "iPhone arka plan bulanıklaştırma | Make Blur",
+    "og_description": "Make Blur ile iPhone fotoğraflarında arka planı bulanıklaştırın: otomatik algılama, fırça ve 6 blur (motion blur, gaussian blur). App Store'dan ücretsiz.",
+    "og_image": "https://makeblur.com/tr/site_preview.png",
+    "twitter_url": "https://makeblur.com/tr/",
+    "twitter_title": "Arka plan bulanıklık uygulaması | Make Blur",
+    "twitter_description": "Otomatik arka plan, 6 bulanıklık stili, hızlı düzenleme. iPhone için App Store'da.",
+    "twitter_image": "https://makeblur.com/tr/site_preview.png",
+    "canonical": "https://makeblur.com/tr/",
+    "app_store_id": "6749166426"
+  },
+  "header": {
+    "logo_alt": "Make Blur — iPhone için arka plan bulanıklaştırma uygulaması",
+    "app_name": "Make Blur",
+    "download_text": " Hemen indir",
+    "download_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "hero": {
+    "title": "iPhone'da arka planı bulanıklaştırın — kolay ve hızlı",
+    "subtitle": "Fotoğraf arka planı için ücretsiz blur uygulaması",
+    "screens": [
+      {
+        "src": "/img/screens/box__15_pro_max.webp",
+        "alt": "iPhone'da arka plan bulanıklaştırma — box blur örneği"
+      },
+      {
+        "src": "/img/screens/motion__15_pro_max.webp",
+        "alt": "iPhone'da arka plan bulanıklaştırma — motion blur örneği"
+      },
+      {
+        "src": "/img/screens/ghost__15_pro_max.webp",
+        "alt": "iPhone'da arka plan bulanıklaştırma — ghost blur örneği"
+      },
+      {
+        "src": "/img/screens/crys__15_pro_max.webp",
+        "alt": "iPhone'da arka plan bulanıklaştırma — crystalize örneği"
+      },
+      {
+        "src": "/img/screens/ghost1__15_pro_max.webp",
+        "alt": "iPhone'da arka plan bulanıklaştırma — gelişmiş bulanıklık örneği"
+      }
+    ],
+    "intro": {
+      "line1": "iPhone'daki bir fotoğrafta arka planı bulanık yapmak mı istiyorsunuz?",
+      "line2": "Arka planı blurlamak için en pratik uygulamayı mı arıyorsunuz?",
+      "paragraph1": "<strong>Make Blur</strong>, birden fazla bulanıklık efekti sunan ücretsiz bir iOS fotoğraf uygulamasıdır; masaüstü programlara girmeden sonuç alabilirsiniz.",
+      "paragraph2": "Birkaç dokunuşla arka planı yumuşatır, <strong>ön plandaki konuyu öne çıkarır</strong>. Sosyal medya ve portreler için sade bir arayüzle tasarlandı."
+    },
+    "cta_text": "İndir",
+    "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "statistics": {
+    "title": "Make Blur rakamlarla",
+    "items": [
+      {
+        "number": "10,000+",
+        "label": "İndirme"
+      },
+      {
+        "number": "4.5",
+        "label": "Yıldız puanı"
+      },
+      {
+        "number": "10+",
+        "label": "İnceleme"
+      },
+      {
+        "number": "6",
+        "label": "Bulanıklık efekti"
+      }
+    ],
+    "last_updated": "Son güncelleme: Ocak 2026"
+  },
+  "features": {
+    "title": "iPhone'da arka plan bulanıklaştırma — işe yarayan düzenleme",
+    "intro": {
+      "line1": "Arka plan bulanıklığının bazen zahmetli olabileceğini biliyoruz.",
+      "paragraph1": "Bu yüzden tek bir odağa yöneldik: <strong>galeriden gelen fotoğraflarda arka planı bulanıklaştırmak</strong>, az adımla net sonuç.",
+      "paragraph2": "Gereksiz menü yığını yok — iPhone'da blur için ihtiyaç duyacağınız araçlar."
+    },
+    "items": [
+      {
+        "title": "Otomatik arka plan algılama",
+        "description": "Uygulama mümkün olduğunda arka planı ayırır; <strong>konu net kalır</strong>, arka plan yumuşar. Portre ve ürün çekimlerinde <em>elle maskeleme yükünü azaltır</em>."
+      },
+      {
+        "title": "Tüm kare veya seçili alan",
+        "description": "Sanatsal etki, gizlilik veya vurgu için tüm görüntüyü veya yalnızca belirli bölgeleri bulanıklaştırın. Make Blur, <strong>hızlı denemeler</strong> için temel araçları sunar."
+      },
+      {
+        "title": "Fırça ile tam kontrol",
+        "description": "Bulanıklığın nerede artacağını kendiniz boyayın. Otomatik algılama ile birlikte <strong>daha ince ayar</strong> yapabilirsiniz."
+      },
+      {
+        "title": "iPhone'da arka planı nasıl blurlarım?",
+        "description": "Uygulamayı açın, fotoğrafı seçin, efekti uygulayın, kaydedin. <strong>iPhone'da fotoğraf arka planını bulanıklaştırma</strong> arayanlar için kısa bir akış."
+      },
+      {
+        "title": "Motion blur, gaussian blur ve diğerleri",
+        "description": "Yumuşak <strong>gaussian blur</strong>tan dinamik <strong>motion blur</strong>a ve özel stile kadar aynı dosyada farklı görünümler deneyin."
+      },
+      {
+        "title": "Freemium — önce deneyin",
+        "description": "Ücretsiz indirip temel bulanıklığı kullanın; bazı ek özellikler uygulama içi satın alma olabilir. Erken kullanıcılar ortalama <strong>yaklaşık 4,5 yıldız</strong> veriyor; kolay kullanım öncelikli."
+      }
+    ]
+  },
+  "blur_types": {
+    "title": "iPhone fotoğrafları için 6 bulanıklık türü",
+    "items": [
+      {
+        "title": "Motion blur",
+        "description": "<strong>Motion blur</strong> — hareket ve enerji hissi verir."
+      },
+      {
+        "title": "Gaussian blur",
+        "description": "<strong>Gaussian blur</strong> — doğal, yumuşak dışa doğru bulanıklık."
+      },
+      {
+        "title": "Ghosting",
+        "description": "<strong>Ghosting</strong> — hayalet, sanatsal çoklu pozlama etkisi."
+      },
+      {
+        "title": "Pixelate",
+        "description": "<strong>Pixelate</strong> — pikselleştirme, retro görünüm veya maskeleme."
+      },
+      {
+        "title": "Hexagonal",
+        "description": "<strong>Hexagonal</strong> — altıgen doku, modern bir stil."
+      },
+      {
+        "title": "Crystalize",
+        "description": "<strong>Crystalize</strong> — dokusal, görsel ilgi katan sonuç."
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Make Blur ve diğer bulanıklık uygulamaları",
+    "intro": "App Store'da blur uygulamalarında sık görülen özelliklere göre özet bir karşılaştırma; marka adı verilmeden.",
+    "table": {
+      "feature_label": "Özellik",
+      "competitors": [
+        {
+          "name": "Make Blur"
+        },
+        {
+          "name": "Tipik blur uygulaması"
+        },
+        {
+          "name": "Premium blur uygulaması"
+        }
+      ],
+      "features": [
+        {
+          "name": "Fiyat modeli",
+          "value1": "Freemium (ücretsiz + isteğe bağlı IAP)",
+          "value2": "Yoğun reklam veya paywall",
+          "value3": "Tek seferlik ödeme veya abonelik"
+        },
+        {
+          "name": "Efekt sayısı",
+          "value1": "6 tür",
+          "value2": "Genelde 2–3",
+          "value3": "Genelde 3–4"
+        },
+        {
+          "name": "Otomatik arka plan",
+          "value1": "Evet",
+          "value2": "Hayır / sınırlı",
+          "value3": "Uygulamaya göre"
+        },
+        {
+          "name": "Özel fırça alanı",
+          "value1": "Evet",
+          "value2": "Çoğunlukla hayır",
+          "value3": "Bazen"
+        },
+        {
+          "name": "Kullanım kolaylığı (kabaca)",
+          "value1": "~4,5 yıldız",
+          "value2": "~3,5–4,2 yıldız",
+          "value3": "~4,0–4,5 yıldız"
+        }
+      ]
+    },
+    "note": "Uygulama ve bölgeye göre bilgiler değişebilir; özet Ocak 2026 App Store verilerine dayanır. Make Blur, arka plan bulanıklaştırmaya ve kullanım kolaylığına odaklanır."
+  },
+  "how_it_works": {
+    "title": "iPhone'da arka planı bulanıklaştırma adımları",
+    "intro": {
+      "line1": "<strong>Üç adım</strong>: kur, fotoğraf aç, efekt seç, kaydet.",
+      "paragraph1": "Karmaşık masaüstü katmanları yok — tüm işlem telefonda."
+    },
+    "steps": [
+      {
+        "number": "1",
+        "title": "Make Blur'ı yükleyin",
+        "description": "App Store'da <strong>Make Blur</strong> arayıp iOS uygulamasını indirin. Başlamak birkaç saniye sürer."
+      },
+      {
+        "number": "2",
+        "title": "Fotoğrafınızı açın",
+        "description": "Galeriden bir görüntü seçin. Mümkünse uygulama <strong>arkayı otomatik algılar</strong>, elle maske ihtiyacını azaltır."
+      },
+      {
+        "number": "3",
+        "title": "Blur seçip kaydedin",
+        "description": "Motion blur, gaussian blur veya başka bir stil uygulayın, fırça ile ince ayar yapın ve <strong>düzenlenmiş fotoğrafı kaydedin</strong>."
+      }
+    ]
+  },
+  "final_cta": {
+    "title": "Net öne plan, yumuşak arka plana hazır mısınız?",
+    "paragraph1": "Bulanık arka plan, sosyal medya veya albümde <strong>portreyi veya ürünü öne çıkarmanıza</strong> yardımcı olur.",
+    "paragraph2": "Make Blur tam da bu iş için tasarlandı: iPhone'da hızlı blur, karmaşık akışlar olmadan.",
+    "paragraph3": "<strong>Make Blur'ı App Store'dan indirin</strong> ve altı efekti kendi fotoğraflarınızda deneyin.",
+    "cta_text": "Başlayın",
+    "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "footer": {
+    "copyright": "© {year} Make Blur. Tüm hakları saklıdır.",
+    "download_text": "Make Blur'ı App Store'dan indirin",
+    "download_url": "https://apps.apple.com/app/id6749166426",
+    "tagline": "Make Blur — iPhone'da arka plan bulanıklaştırma: otomatik algılama, 6 efekt, sade arayüz."
+  },
+  "seo": {
+    "breadcrumb_home": "Ana sayfa",
+    "faq_title": "Sık sorulan sorular",
+    "faq": [
+      {
+        "question": "iPhone'da arka planı nasıl bulanıklaştırırım?",
+        "answer": "Make Blur'ı indirin, fotoğrafı açın ve desteklendiğinde otomatik arka plan algılamasına izin verin. Motion blur, gaussian blur gibi bir efekt seçin, gerekirse fırçayı kullanın ve kaydedin. Bu, bilgisayar düzenleyicisi olmadan arka plan blurlama için doğrudan bir yöntemdir."
+      },
+      {
+        "question": "iPhone için en iyi arka plan bulanıklaştırma uygulaması hangisi?",
+        "answer": "Make Blur, arka plana odaklı bir iOS uygulamasıdır: otomatik algılama, altı efekt türü ve anlaşılır arayüz sunar. Erken inceleyenler yaklaşık 4,5 yıldız veriyor; nihai karar için App Store açıklamasını ve yorumları karşılaştırmanız iyi olur."
+      },
+      {
+        "question": "Arka planı ücretsiz bulanıklaştırabilir miyim?",
+        "answer": "Evet, uygulama ücretsiz indirilebilir ve temel bulanıklık araçları kullanılabilir. Bazı gelişmiş seçenekler uygulama içi satın alma olabilir; güncel koşullar için App Store sayfasına bakın."
+      },
+      {
+        "question": "iPhone portre modundan farkı nedir?",
+        "answer": "Portre modu çekim anında belirli koşullarda çalışır. Make Blur, galerideki <strong>kaydedilmiş fotoğrafları</strong> açar, birden fazla bulanıklık stili sunar ve otomatik algılamayı elle fırçayla birleştirir."
+      },
+      {
+        "question": "Hangi bulanıklık efektleri var?",
+        "answer": "Örneğin motion blur, gaussian blur, ghosting, pixelate, hexagonal ve crystalize; arka plan veya seçilen bölgeler için toplam altı stil."
+      },
+      {
+        "question": "Neden Make Blur tercih edilmeli?",
+        "answer": "Temel araçlar için freemium yapı, altı efekt ve otomatik arka plan ile fırçayı bir arada sunar. Birçok rakip basit blur'u abonelik veya agresif reklamların arkasına koyar; fiyat ve özellik listesini mağazada kontrol edin."
+      },
+      {
+        "question": "Sadece fotoğrafın bir kısmını bulanıklaştırabilir miyim?",
+        "answer": "Evet, çizim aracıyla hangi bölgelerin daha çok bulanık olacağını işaretleyebilir veya otomatik arka planla birlikte kullanabilirsiniz."
+      },
+      {
+        "question": "Yüz veya plaka gizlemek için uygun mu?",
+        "answer": "Güçlü blur veya pikselleştirme detayları okunmasını zorlaştırır. Sonuç ihtiyaçlarınıza uyuyor mu kontrol edin; yasal anonimleştirme için ek uzmanlık gerekebilir."
+      },
+      {
+        "question": "Verilerim güvende mi?",
+        "answer": "Düzenleme geliştiricinin tasarımına göre cihaz üzerinde uygulama içinde yapılır. Veri işleme ayrıntıları için sitedeki gizlilik politikasını okuyun."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Make Blur",
+        "applicationCategory": "PhotoEditorApplication",
+        "operatingSystem": "iOS",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "10"
+        },
+        "description": "iPhone fotoğraflarında arka planı hızlıca bulanıklaştıran iOS uygulaması; motion blur ve gaussian blur ile otomatik arka plan algılama."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Make Blur",
+        "url": "https://makeblur.com",
+        "logo": "https://makeblur.com/img/logo.webp",
+        "description": "Make Blur — iPhone için arka plan bulanıklaştırma ve blur efektleri uygulaması."
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Make Blur",
+        "url": "https://makeblur.com",
+        "description": "Make Blur resmi sayfa: iPhone'da arka plan bulanıklaştırma ve pratik fotoğraf düzenleme.",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://makeblur.com/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "iPhone'da Make Blur ile arka planı bulanıklaştırma",
+        "description": "Make Blur kullanarak iPhone'da fotoğraf arka planını bulanıklaştırıp kaydetme adımları.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Make Blur indirin",
+            "text": "App Store'dan Make Blur'ı iPhone'a kurun.",
+            "url": "https://apps.apple.com/app/id6749166426"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Fotoğraf açın",
+            "text": "Galeriden görüntü seçin; otomatik algılama veya fırçayı kullanın."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Efekti uygulayıp kaydedin",
+            "text": "Bulanıklık türünü seçin, ayarlayın ve düzenlenmiş fotoğrafı kaydedin."
+          }
+        ]
+      }
+    }
+  }
+}

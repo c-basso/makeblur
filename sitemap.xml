@@ -14,6 +14,12 @@
     <xhtml:link rel="alternate" hreflang="jp" href="https://makeblur.com/jp/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
     <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
     <priority>1.0</priority>
   </url>
 

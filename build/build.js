@@ -64,7 +64,13 @@ const {
                     'pt': 'pt_PT',
                     'jp': 'ja_JP',
                     'ko': 'ko_KR',
-                    'nl': 'nl_NL'
+                    'nl': 'nl_NL',
+                    'pl': 'pl_PL',
+                    'ro': 'ro_RO',
+                    'th': 'th_TH',
+                    'tr': 'tr_TR',
+                    'uk': 'uk_UA',
+                    'vi': 'vi_VN'
                 };
                 data.meta.og_locale = localeMap[lang] || 'en_US';
             }

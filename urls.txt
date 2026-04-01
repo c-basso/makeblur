@@ -8,3 +8,9 @@ https://makeblur.com/pt/
 https://makeblur.com/jp/
 https://makeblur.com/ko/
 https://makeblur.com/nl/
+https://makeblur.com/pl/
+https://makeblur.com/ro/
+https://makeblur.com/th/
+https://makeblur.com/tr/
+https://makeblur.com/uk/
+https://makeblur.com/vi/

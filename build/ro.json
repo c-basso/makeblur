@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "lang": "ro",
+    "title": "Estompare fundal pe iPhone — aplicație gratuită pentru fotografii | Make Blur",
+    "description": "Estompați fundalul pe iPhone cu Make Blur: aplicație iOS pentru blur la foto, motion blur, blur gaussian și altele. Detecție automată a fundalului, pensulă, editare rapidă. Descărcați gratuit din App Store.",
+    "keywords": "estompare fundal iPhone, blur fundal foto, aplicație blur fundal, cum să estompez fundalul, editare foto iPhone, motion blur, gaussian blur, mod portret alternativă, încețoșare fundal, aplicație gratuită editare poze iOS",
+    "author": "Make Blur",
+    "og_url": "https://makeblur.com/ro/",
+    "og_title": "Estompare fundal iPhone — Make Blur | aplicație gratuită",
+    "og_description": "Estompați fundalul pe iPhone cu Make Blur: fundal automat, pensulă și 6 efecte blur, inclusiv motion blur și gaussian blur. iOS gratuit în App Store.",
+    "og_image": "https://makeblur.com/ro/site_preview.png",
+    "twitter_url": "https://makeblur.com/ro/",
+    "twitter_title": "Blur fundal pe iPhone | Make Blur",
+    "twitter_description": "Detecție fundal, pensulă și 6 stiluri de estompare. Aplicație pentru iPhone — în App Store.",
+    "twitter_image": "https://makeblur.com/ro/site_preview.png",
+    "canonical": "https://makeblur.com/ro/",
+    "app_store_id": "6749166426"
+  },
+  "header": {
+    "logo_alt": "Make Blur — aplicație pentru estomparea fundalului pe iPhone",
+    "app_name": "Make Blur",
+    "download_text": " Descarcă acum",
+    "download_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "hero": {
+    "title": "Estompare fundal pe iPhone — ușor și rapid",
+    "subtitle": "Aplicația gratuită ideală pentru blur la fundalul fotografiilor",
+    "screens": [
+      {
+        "src": "/img/screens/box__15_pro_max.webp",
+        "alt": "Estompare fundal pe iPhone — exemplu box blur"
+      },
+      {
+        "src": "/img/screens/motion__15_pro_max.webp",
+        "alt": "Estompare fundal pe iPhone — exemplu motion blur"
+      },
+      {
+        "src": "/img/screens/ghost__15_pro_max.webp",
+        "alt": "Estompare fundal pe iPhone — exemplu ghost blur"
+      },
+      {
+        "src": "/img/screens/crys__15_pro_max.webp",
+        "alt": "Estompare fundal pe iPhone — exemplu crystalize blur"
+      },
+      {
+        "src": "/img/screens/ghost1__15_pro_max.webp",
+        "alt": "Estompare fundal pe iPhone — exemplu blur avansat"
+      }
+    ],
+    "intro": {
+      "line1": "Doriți să estompați fundalul unei fotografii pe iPhone?",
+      "line2": "Căutați cea mai simplă aplicație pentru blur de fundal?",
+      "paragraph1": "<strong>Make Blur</strong> este o aplicație foto gratuită pentru iOS cu mai multe stiluri de estompare — fără unelte complicate de pe desktop.",
+      "paragraph2": "În câteva atingeri, fundalul devine mai moale și <strong>subiectul iese în evidență</strong>. Interfața este clară, adaptată editării rapide pentru rețele sociale."
+    },
+    "cta_text": "Descarcă acum",
+    "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "statistics": {
+    "title": "Make Blur în cifre",
+    "items": [
+      {
+        "number": "10,000+",
+        "label": "Descărcări"
+      },
+      {
+        "number": "4.5",
+        "label": "Evaluare stele"
+      },
+      {
+        "number": "10+",
+        "label": "Recenzii"
+      },
+      {
+        "number": "6",
+        "label": "Efecte blur"
+      }
+    ],
+    "last_updated": "Ultima actualizare: ianuarie 2026"
+  },
+  "features": {
+    "title": "Blur fundal pe iPhone — editare care livrează rezultate",
+    "intro": {
+      "line1": "Știm cât de greu poate fi obține o estompare naturală a fundalului.",
+      "paragraph1": "De aceea ne concentrăm pe <strong>o singură sarcină clară</strong>: estomparea fundalului fotografiilor din galerie, cu pași puți și rezultat previzibil.",
+      "paragraph2": "Fără meniuri încărcate — doar instrumente utile pentru a estompa fundalul pe iPhone, fără frustrare."
+    },
+    "items": [
+      {
+        "title": "Detecție automată a fundalului",
+        "description": "Aplicația identifică fundalul acolo unde este posibil, astfel încât <strong>subiectul rămâne clar</strong>. Util la portrete și la poze de produs — <em>fără selectare manuală la fiecare pixel</em>, când detecția reușește."
+      },
+      {
+        "title": "Estompare totală sau pe zone",
+        "description": "Blur pe tot cadrul sau doar pe anumite zone: stil artistic, confidențialitate sau accent creativ. Make Blur oferă instrumentele de bază pentru <strong>experimente rapide</strong>."
+      },
+      {
+        "title": "Pensulă pentru control fin",
+        "description": "Desenați exact unde doriți mai mult blur. Combinația cu detecția automată oferă <strong>mai mult control</strong> asupra rezultatului final."
+      },
+      {
+        "title": "Cum să estompați fundalul — flux scurt",
+        "description": "Deschideți aplicația, alegeți fotografia, aplicați efectul și salvați. Răspuns simplu pentru întrebarea <strong>cum să blurezi fundalul pe iPhone</strong>, fără tutorial lung pe PC."
+      },
+      {
+        "title": "Motion blur, gaussian blur și altele",
+        "description": "Alegeți între mai multe stiluri: <strong>blur gaussian</strong> fin sau <strong>motion blur</strong> dinamic și alte variante creative pe același fișier."
+      },
+      {
+        "title": "Freemium — încercați apoi extindeți",
+        "description": "Descărcare gratuită cu funcții esențiale; opțiuni avansate pot fi în achiziții în aplicație. Utilizatorii timpurii acordă în medie aproximativ <strong>4,5 stele</strong>; accentul este pe ușurința în folosire."
+      }
+    ]
+  },
+  "blur_types": {
+    "title": "Șase tipuri de blur pentru poze de pe iPhone",
+    "items": [
+      {
+        "title": "Motion blur",
+        "description": "<strong>Motion blur</strong> — senzație de mișcare și energie în cadru."
+      },
+      {
+        "title": "Gaussian blur",
+        "description": "<strong>Gaussian blur</strong> — estompare netedă, similară unui fundal natural defocalizat."
+      },
+      {
+        "title": "Ghosting",
+        "description": "<strong>Ghosting</strong> — efect etereal, artistic, aproape de expuneri multiple."
+      },
+      {
+        "title": "Pixelate",
+        "description": "<strong>Pixelate</strong> — pixelare retro, disimulare sau accent grafic puternic."
+      },
+      {
+        "title": "Hexagonal",
+        "description": "<strong>Hexagonal</strong> — textură hexagonală pentru un aspect modern."
+      },
+      {
+        "title": "Crystalize",
+        "description": "<strong>Crystalize</strong> — structură și profunzime vizuală după procesare."
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Make Blur față de alte aplicații de blur",
+    "intro": "Comparație sumară între tipare frecvente ale aplicațiilor de estompare din App Store — din perspectiva utilizatorului, fără a menționa mărci.",
+    "table": {
+      "feature_label": "Caracteristică",
+      "competitors": [
+        {
+          "name": "Make Blur"
+        },
+        {
+          "name": "Aplicație blur tipică"
+        },
+        {
+          "name": "Aplicație blur premium"
+        }
+      ],
+      "features": [
+        {
+          "name": "Model de preț",
+          "value1": "Freemium (gratuit + IAP opționale)",
+          "value2": "Des reclame agresive sau paywall",
+          "value3": "Plată unică sau abonament"
+        },
+        {
+          "name": "Număr de efecte",
+          "value1": "6 tipuri",
+          "value2": "De obicei 2–3",
+          "value3": "De obicei 3–4"
+        },
+        {
+          "name": "Detecție automată fundal",
+          "value1": "Da",
+          "value2": "Nu / limitată",
+          "value3": "Depinde de aplicație"
+        },
+        {
+          "name": "Pensulă / zonă personalizată",
+          "value1": "Da",
+          "value2": "Des nu",
+          "value3": "Uneori"
+        },
+        {
+          "name": "Ușurință în uz (orientativ)",
+          "value1": "~4,5★",
+          "value2": "~3,5–4,2★",
+          "value3": "~4,0–4,5★"
+        }
+      ]
+    },
+    "note": "Detaliile diferă după aplicație și regiune; sinteză bazată pe informații App Store din jurul datei ianuarie 2026. Make Blur pune accent pe estomparea fundalului și pe accesibilitate."
+  },
+  "how_it_works": {
+    "title": "Cum să estompați fundalul pe iPhone — pași simpli",
+    "intro": {
+      "line1": "<strong>Pași</strong>: instalare, fotografie, efect, salvare.",
+      "paragraph1": "Fără straturi complexe din programe desktop — totul pe telefon."
+    },
+    "steps": [
+      {
+        "number": "1",
+        "title": "Instalați Make Blur",
+        "description": "Căutați <strong>Make Blur</strong> în App Store și instalați aplicația iOS. Pornirea durează câteva secunde."
+      },
+      {
+        "number": "2",
+        "title": "Deschideți fotografia",
+        "description": "Alegeți o imagine din galerie. Unde e posibil, <strong>fundalul este detectat automat</strong>, deci mai puțină mascare manuală."
+      },
+      {
+        "number": "3",
+        "title": "Alegeți blur-ul și salvați",
+        "description": "Aplicați motion blur, gaussian blur sau alt stil, rafinați cu pensula apoi <strong>salvați fotografia</strong> pentru partajare."
+      }
+    ]
+  },
+  "final_cta": {
+    "title": "Pregătit pentru un subiect clar și fundal moale?",
+    "paragraph1": "Un fundal estompat ajută <strong>portretul sau produsul să iasă în față</strong> pe Instagram, LinkedIn sau în album.",
+    "paragraph2": "Make Blur este construit pentru asta: estompare fundal pe iPhone rapid, fără fluxuri încărcate.",
+    "paragraph3": "<strong>Descărcați Make Blur</strong> din App Store și testați cele șase efecte pe pozele dumneavoastră.",
+    "cta_text": "Începeți",
+    "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "footer": {
+    "copyright": "© {year} Make Blur. Toate drepturile rezervate.",
+    "download_text": "Descărcați Make Blur din App Store",
+    "download_url": "https://apps.apple.com/app/id6749166426",
+    "tagline": "Make Blur — aplicație iPhone pentru estompare fundal: detecție automată, 6 efecte blur, interfață simplă."
+  },
+  "seo": {
+    "breadcrumb_home": "Acasă",
+    "faq_title": "Întrebări frecvente",
+    "faq": [
+      {
+        "question": "Cum estompez fundalul pe iPhone?",
+        "answer": "Descărcați Make Blur, deschideți fotografia și, unde există suport, lăsați aplicația să detecteze fundalul. Alegeți un efect (motion blur, gaussian blur etc.), ajustați cu pensula dacă e nevoie și salvați. Este una dintre cele mai directe metode pentru a încețoși fundalul fără editor pe computer."
+      },
+      {
+        "question": "Care este cea mai bună aplicație pentru blur de fundal pe iPhone?",
+        "answer": "Make Blur este o aplicație iOS dedicată estompării fundalului: detecție automată, șase tipuri de efect și interfață clară. Recenzenții timpurii raportează în jur de 4,5 stele — comparați descrierile și recenziile din App Store pentru nevoile dumneavoastră."
+      },
+      {
+        "question": "Pot estompa fundalul gratuit?",
+        "answer": "Da, aplicația se descarcă gratuit și puteți folosi funcțiile de bază pentru blur. Unele opțiuni avansate pot fi contra cost în aplicație — consultați descrierea actuală din App Store."
+      },
+      {
+        "question": "În ce diferă de modul Portret pe iPhone?",
+        "answer": "Modul Portret funcționează în general la momentul fotografierii, în anumite condiții. Make Blur deschide <strong>fotografii deja salvate</strong> din galerie, propune mai multe stiluri de blur și combină detecția automată cu pensula manuală."
+      },
+      {
+        "question": "Ce efecte de blur există?",
+        "answer": "Printre altele: motion blur, gaussian blur, ghosting, pixelate, hexagonal și crystalize — șase variante pentru fundal sau pentru zone selectate."
+      },
+      {
+        "question": "De ce Make Blur față de alte aplicații?",
+        "answer": "Make Blur combină freemium pentru uneltele de bază, șase efecte și detecția fundalului cu pensulă. Multe aplicații concurente blochează blur simplu în spatele abonamentelor sau reclamelor — verificați prețul și lista de funcții în magazin."
+      },
+      {
+        "question": "Pot estompa doar o parte din fotografie?",
+        "answer": "Da, instrumentul de desen permite să marcați zonele care trebuie să fie mai estompate, alături sau în locul fundalului detectat automat."
+      },
+      {
+        "question": "Este potrivit pentru a ascunde fețe sau numere de înmatriculare?",
+        "answer": "Blur puternic sau pixelarea pot reduce lizibilitatea detaliilor. Verificați dacă rezultatul îndeplinește cerințele dumneavoastră; pentru anonimizare juridică formală poate fi nevoie de consultanță sau unelte suplimentare."
+      },
+      {
+        "question": "Sunt datele mele în siguranță?",
+        "answer": "Editarea are loc în aplicație pe dispozitiv, conform proiectării dezvoltatorului. Detaliile despre prelucrarea datelor sunt în politica de confidențialitate de pe site."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Make Blur",
+        "applicationCategory": "PhotoEditorApplication",
+        "operatingSystem": "iOS",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "10"
+        },
+        "description": "Aplicație iOS pentru estompare rapidă a fundalului fotografiilor pe iPhone, cu motion blur și gaussian blur și detecție automată a fundalului."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Make Blur",
+        "url": "https://makeblur.com",
+        "logo": "https://makeblur.com/img/logo.webp",
+        "description": "Make Blur — aplicație pentru estompare fundal și efecte blur pe iPhone."
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Make Blur",
+        "url": "https://makeblur.com",
+        "description": "Pagina Make Blur: estompare fundal pe iPhone cu aplicație simplă de blur pentru fotografii.",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://makeblur.com/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Cum să estompați fundalul pe iPhone cu Make Blur",
+        "description": "Pași pentru a estompa fundalul unei fotografii pe iPhone folosind Make Blur și a salva rezultatul.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Descărcați Make Blur",
+            "text": "Instalați Make Blur din App Store pe iPhone.",
+            "url": "https://apps.apple.com/app/id6749166426"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Deschideți fotografia",
+            "text": "Alegeți o imagine din galerie; folosiți detecția automată sau pensula."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Aplicați efectul și salvați",
+            "text": "Selectați tipul de blur, ajustați și salvați fotografia editată."
+          }
+        ]
+      }
+    }
+  }
+}
