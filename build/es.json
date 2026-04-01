@@ -2,16 +2,16 @@
   "meta": {
     "lang": "es",
     "title": "Desenfocar fondo en iPhone — App gratis para desenfocar el fondo de una foto | Make Blur",
-    "description": "Desenfoca el fondo en iPhone al instante con Make Blur. La mejor app gratis para blur background (desenfoque de fondo), blur photo, blur image y blur effect. Crea motion blur y desenfoque gaussiano con resultados profesionales. Descárgala ahora.",
-    "keywords": "motion blur, blur background, blur image, blur photo, blur effect, blur face, efecto blur, desenfocar fondo, desenfocar fondo en iphone, desenfocar el fondo de una foto, fondo borroso iphone, desenfoque de fondo, desenfoque de foto, desenfoque gaussiano, desenfoque de movimiento, app para desenfocar fotos, app para desenfocar el fondo, editor de fotos iphone",
+    "description": "Desenfoca fondo y caras en iPhone con Make Blur. Editor gratis con detección automática, filtro bokeh, motion blur y desenfoque gaussiano. Descárgala ahora.",
+    "keywords": "bokeh iphone, filtro bokeh, motion blur, blur background, blur face, desenfocar caras, blur image, blur photo, desenfocar fondo, desenfocar fondo en iphone, desenfoque gaussiano, privacidad fotos, app para desenfocar fotos, editor de fotos iphone",
     "author": "Make Blur",
     "og_url": "https://makeblur.com/es/",
     "og_title": "Desenfocar fondo en iPhone — App gratis para fotos | Make Blur",
-    "og_description": "Desenfoca el fondo de tus fotos en iPhone en segundos. Blur background, blur photo, blur image, motion blur y más efectos con un toque.",
+    "og_description": "Fondo y caras desenfocadas en iPhone. Siete estilos con bokeh, motion blur y gaussiano; detección automática y blur face para privacidad.",
     "og_image": "https://makeblur.com/es/site_preview.png",
     "twitter_url": "https://makeblur.com/es/",
     "twitter_title": "Desenfocar fondo en iPhone — Make Blur",
-    "twitter_description": "Desenfoca el fondo en iPhone en segundos: blur background, blur photo, blur image, motion blur y desenfoque gaussiano.",
+    "twitter_description": "Desenfoca fondo y caras en iPhone. Bokeh, motion blur, gaussiano — Make Blur.",
     "twitter_image": "https://makeblur.com/es/site_preview.png",
     "canonical": "https://makeblur.com/es/",
     "app_store_id": "6749166426"
@@ -50,7 +50,7 @@
     "intro": {
       "line1": "¿Quieres desenfocar el fondo de una foto en tu iPhone?",
       "line2": "¿Buscas una app fácil para blur background con un resultado bonito?",
-      "paragraph1": "No deberías pelearte con herramientas complicadas para conseguir un fondo borroso.",
+      "paragraph1": "Make Blur es un editor de fotos iOS gratis para desenfocar fondo y caras, con siete estilos: bokeh, motion blur, gaussiano y más. Sin pelear con herramientas complicadas.",
       "paragraph2": "Make Blur lo hace <strong>muy fácil</strong>: desenfoca el fondo, aplica blur photo y blur image, o crea un blur effect artístico en iPhone. En pocos toques tendrás un desenfoque de fondo limpio y listo para redes sociales."
     },
     "cta_text": "Descargar",
@@ -72,11 +72,11 @@
         "label": "Reseñas"
       },
       {
-        "number": "6",
+        "number": "7",
         "label": "Efectos de desenfoque"
       }
     ],
-    "last_updated": "Actualizado: enero 2026"
+    "last_updated": "Actualizado: abril 2026"
   },
   "features": {
     "title": "Desenfocar fondo en iPhone — edición rápida con resultados que se notan",
@@ -103,12 +103,12 @@
         "description": "Si buscas \"cómo desenfocar fondo\" o una app simple para desenfocar el fondo en iPhone, Make Blur te lo pone fácil: interfaz clara, pasos mínimos y resultados bonitos."
       },
       {
-        "title": "Motion blur y desenfoque gaussiano — efectos con look profesional",
-        "description": "Aplica <strong>motion blur</strong> (desenfoque de movimiento) y <strong>desenfoque gaussiano</strong> para dar dinamismo o un fondo suave. Crea fotos con estilo en segundos."
+        "title": "Bokeh, motion blur y desenfoque gaussiano",
+        "description": "El filtro <strong>bokeh</strong> da profundidad de campo tipo retrato con luces suaves; también motion blur y gaussiano. <strong>Siete</strong> estilos en total."
       },
       {
-        "title": "Blur face y más — útil también para privacidad",
-        "description": "¿Necesitas blur face o tapar una zona concreta? Desenfoca partes específicas de la imagen para proteger la privacidad, además de desenfocar el fondo de una foto."
+        "title": "Blur face — privacidad en grupo y redes",
+        "description": "Desenfoca caras antes de compartir: ideal para grupos y eventos. Funciona junto al desenfoque de fondo <strong>en la misma app</strong>."
       }
     ]
   },
@@ -138,6 +138,10 @@
       {
         "title": "Crystalize",
         "description": "Efecto cristalizado para dar textura y un toque creativo al desenfoque."
+      },
+      {
+        "title": "Bokeh",
+        "description": "El <strong>bokeh</strong> simula poca profundidad de campo: sujeto nítido, fondo suave con puntos de luz naturales, como un objetivo retrato."
       }
     ]
   },
@@ -166,9 +170,15 @@
         },
         {
           "name": "Número de efectos",
-          "value1": "6 tipos",
+          "value1": "7 tipos (incl. bokeh)",
           "value2": "2-3 tipos",
           "value3": "3-4 tipos"
+        },
+        {
+          "name": "Desenfocar caras (privacidad)",
+          "value1": "Sí",
+          "value2": "Raro / No",
+          "value3": "A veces"
         },
         {
           "name": "Detección automática",
@@ -208,7 +218,7 @@
         }
       ]
     },
-    "note": "Datos basados en información de App Store a enero de 2026. Make Blur se especializa en desenfoque de fondo con énfasis en facilidad de uso y acceso gratuito a todas las funciones."
+    "note": "Datos de App Store a abril de 2026. Make Blur combina desenfoque de fondo, blur face y filtros como bokeh, con facilidad de uso y modelo freemium."
   },
   "how_it_works": {
     "title": "Cómo desenfocar fondo en iPhone — guía paso a paso",
@@ -230,7 +240,7 @@
       {
         "number": "3",
         "title": "Elige el efecto y guarda",
-        "description": "Selecciona el blur effect que prefieras: motion blur, desenfoque gaussiano u otros. <strong>Guarda</strong> tu foto y compártela con un look profesional."
+        "description": "Elige bokeh, motion blur, gaussiano u otro de los siete estilos; usa blur face si hace falta. <strong>Guarda</strong> y comparte."
       }
     ]
   },
@@ -246,7 +256,7 @@
     "copyright": "© {year} Make Blur. Todos los derechos reservados.",
     "download_text": "Descarga Make Blur en el App Store",
     "download_url": "https://apps.apple.com/app/id6749166426",
-    "tagline": "Make Blur — app para desenfocar fondo en iPhone. Blur background, blur photo, blur image, motion blur y otros efectos en segundos."
+    "tagline": "Make Blur — fondo y caras en iPhone. Siete estilos con bokeh, motion blur, blur face y detección automática."
   },
   "seo": {
     "breadcrumb_home": "Inicio",
@@ -254,11 +264,11 @@
     "faq": [
       {
         "question": "¿Cómo desenfocar fondo en iPhone?",
-        "answer": "Para desenfocar fondo en iPhone, descarga Make Blur, abre tu foto y deja que la app detecte el fondo automáticamente. Después elige el efecto (motion blur o desenfoque gaussiano) y guarda. Es una forma rápida de conseguir blur background con buen resultado."
+        "answer": "Descarga Make Blur, abre la foto, usa detección automática o dibuja una máscara. Elige bokeh, gaussiano, motion blur u otro estilo; opcional blur face. Guarda."
       },
       {
         "question": "¿Cuál es la mejor app para desenfocar el fondo de una foto?",
-        "answer": "Make Blur es una excelente opción para desenfocar el fondo de una foto en iPhone: detección automática, varios tipos de blur effect (motion blur, gaussian blur y más) y una interfaz fácil."
+        "answer": "Make Blur: detección automática, blur face, siete efectos incluido bokeh, motion blur y gaussiano, interfaz sencilla en iPhone."
       },
       {
         "question": "¿Cómo hacer blur photo o blur image en iPhone?",
@@ -266,7 +276,7 @@
       },
       {
         "question": "¿Puedo hacer desenfoque de fondo gratis?",
-        "answer": "Sí. Make Blur es una app gratuita para desenfocar fondo en iPhone: puedes crear blur background, blur photo y blur image con varios efectos."
+        "answer": "Sí. Gratis: desenfoque de fondo, blur face y siete estilos con bokeh. Algunas opciones avanzadas pueden ser compras opcionales."
       },
       {
         "question": "¿Qué es motion blur?",
@@ -274,7 +284,11 @@
       },
       {
         "question": "¿Se puede hacer blur face para privacidad?",
-        "answer": "Sí. Puedes desenfocar zonas específicas (por ejemplo, blur face) para ocultar caras o detalles y proteger la privacidad, además de desenfocar el fondo de una foto."
+        "answer": "Sí. Desenfoca caras o zonas para privacidad además del fondo; ideal antes de compartir en redes."
+      },
+      {
+        "question": "¿Qué hace el filtro bokeh en Make Blur?",
+        "answer": "El bokeh imita poca profundidad de campo: sujeto nítido y fondo suave con puntos de luz naturales. Es uno de siete estilos junto a motion blur, gaussiano, ghosting, pixelate, hexagonal y crystalize."
       }
     ],
     "structured_data": {
@@ -294,7 +308,7 @@
           "ratingValue": "4.5",
           "ratingCount": "10"
         },
-        "description": "Desenfoca el fondo en iPhone al instante. App gratis para blur background (desenfoque de fondo), blur photo, blur image, motion blur y desenfoque gaussiano."
+        "description": "Desenfoca fondo y caras en iPhone. Siete estilos con bokeh, motion blur y gaussiano; detección automática."
       },
       "organization": {
         "@context": "https://schema.org",
@@ -302,14 +316,14 @@
         "name": "Make Blur",
         "url": "https://makeblur.com",
         "logo": "https://makeblur.com/img/logo.webp",
-        "description": "Make Blur — app para desenfocar el fondo de una foto en iPhone. Blur background y efectos de desenfoque en segundos."
+        "description": "Make Blur — editor iPhone: fondo, blur face, bokeh, motion blur y gaussiano."
       },
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Make Blur",
         "url": "https://makeblur.com/es/",
-        "description": "Desenfocar fondo en iPhone: blur background, blur photo, blur image y blur effect para fotos.",
+        "description": "Desenfoca fondo y caras en iPhone. Bokeh y seis estilos más; detección automática.",
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://makeblur.com/es/?q={search_term_string}",
@@ -320,7 +334,7 @@
         "@context": "https://schema.org",
         "@type": "HowTo",
         "name": "Cómo desenfocar fondo en iPhone",
-        "description": "Guía paso a paso para desenfocar el fondo de una foto en iPhone con Make Blur. Blur background, blur effect y motion blur en pocos toques.",
+        "description": "Guía: desenfocar fondo y opcionalmente caras en iPhone con Make Blur, incluido bokeh.",
         "step": [
           {
             "@type": "HowToStep",
@@ -336,7 +350,7 @@
           {
             "@type": "HowToStep",
             "name": "Elige el efecto de desenfoque",
-            "text": "Selecciona un blur effect (motion blur, gaussian blur, etc.), aplica el desenfoque de fondo y guarda la foto."
+            "text": "Elige bokeh, motion blur, gaussiano u otro estilo; blur face si lo necesitas; guarda la foto."
           }
         ]
       }

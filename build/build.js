@@ -159,6 +159,17 @@ const {
                 return value;
             }
             
+            /** Escape string for HTML attribute values (content="", href="", etc.). */
+            function escapeHtmlAttr(str) {
+                if (typeof str !== 'string') return str;
+                return str
+                    .replace(/&/g, '&amp;')
+                    .replace(/"/g, '&quot;')
+                    .replace(/'/g, '&#39;')
+                    .replace(/</g, '&lt;')
+                    .replace(/>/g, '&gt;');
+            }
+
             // Function to replace variables in template
             function replaceVariables(template, context) {
                 return template.replace(/\{\{([^}]+)\}\}/g, (match, key) => {
@@ -174,6 +185,8 @@ const {
                         for (const filter of filters) {
                             if (filter === 'json') {
                                 value = JSON.stringify(value);
+                            } else if (filter === 'html_attr') {
+                                value = escapeHtmlAttr(String(value));
                             } else {
                                 console.warn(`Warning: Unknown filter "${filter}" in ${rawKey}`);
                             }

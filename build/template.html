@@ -21,45 +21,45 @@
   gtag('config', 'G-L321DN9X6C');
 </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
-    <meta name="description" content="{{meta.description}}">
-    <meta name="keywords" content="{{meta.keywords}}">
-    <meta name="author" content="{{meta.author}}">
+    <meta name="description" content="{{meta.description|html_attr}}">
+    <meta name="keywords" content="{{meta.keywords|html_attr}}">
+    <meta name="author" content="{{meta.author|html_attr}}">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="googlebot" content="index, follow">
     <meta name="bingbot" content="index, follow">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="{{meta.og_url}}">
-    <meta property="og:title" content="{{meta.og_title}}">
-    <meta property="og:description" content="{{meta.og_description}}">
-    <meta property="og:image" content="{{meta.og_image}}">
-    <meta property="og:logo" content="{{meta.og_logo}}">
-    <meta property="og:site_name" content="{{meta.og_site_name}}">
-    <meta property="og:locale" content="{{meta.og_locale}}">
+    <meta property="og:url" content="{{meta.og_url|html_attr}}">
+    <meta property="og:title" content="{{meta.og_title|html_attr}}">
+    <meta property="og:description" content="{{meta.og_description|html_attr}}">
+    <meta property="og:image" content="{{meta.og_image|html_attr}}">
+    <meta property="og:logo" content="{{meta.og_logo|html_attr}}">
+    <meta property="og:site_name" content="{{meta.og_site_name|html_attr}}">
+    <meta property="og:locale" content="{{meta.og_locale|html_attr}}">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="{{meta.twitter_url}}">
-    <meta property="twitter:title" content="{{meta.twitter_title}}">
-    <meta property="twitter:description" content="{{meta.twitter_description}}">
-    <meta property="twitter:image" content="{{meta.twitter_image}}">
+    <meta property="twitter:url" content="{{meta.twitter_url|html_attr}}">
+    <meta property="twitter:title" content="{{meta.twitter_title|html_attr}}">
+    <meta property="twitter:description" content="{{meta.twitter_description|html_attr}}">
+    <meta property="twitter:image" content="{{meta.twitter_image|html_attr}}">
     
     <!-- Additional SEO Meta Tags -->
     <meta name="theme-color" content="#667eea">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     
-    <title>{{meta.title}}</title>
+    <title>{{meta.title|html_attr}}</title>
     
     <!-- Typography -->
     <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
-    <link rel="canonical" href="{{meta.canonical}}">
+    <link rel="canonical" href="{{meta.canonical|html_attr}}">
     {{#each meta.alternate_languages as |lang|}}
-    <link rel="alternate" hreflang="{{lang.lang}}" href="{{lang.url}}" />
+    <link rel="alternate" hreflang="{{lang.lang}}" href="{{lang.url|html_attr}}" />
     {{/each}}
-    <link rel="alternate" hreflang="x-default" href="{{meta.alternate_default}}" />
+    <link rel="alternate" hreflang="x-default" href="{{meta.alternate_default|html_attr}}" />
     
     <!-- Favicons -->
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">

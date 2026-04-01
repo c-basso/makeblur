@@ -2,16 +2,16 @@
   "meta": {
     "lang": "ro",
     "title": "Estompare fundal pe iPhone — aplicație gratuită pentru fotografii | Make Blur",
-    "description": "Estompați fundalul pe iPhone cu Make Blur: aplicație iOS pentru blur la foto, motion blur, blur gaussian și altele. Detecție automată a fundalului, pensulă, editare rapidă. Descărcați gratuit din App Store.",
-    "keywords": "estompare fundal iPhone, blur fundal foto, aplicație blur fundal, cum să estompez fundalul, editare foto iPhone, motion blur, gaussian blur, mod portret alternativă, încețoșare fundal, aplicație gratuită editare poze iOS",
+    "description": "Estompați fundalul și fețele pe iPhone cu Make Blur. Filtru bokeh, motion blur, gaussian blur — 7 stiluri, detecție automată. Aplicație iOS gratuită.",
+    "keywords": "bokeh iPhone, filtru bokeh, blur fețe, estompare fundal iPhone, motion blur, gaussian blur, confidențialitate foto, aplicație blur fundal, editare foto iPhone",
     "author": "Make Blur",
     "og_url": "https://makeblur.com/ro/",
     "og_title": "Estompare fundal iPhone — Make Blur | aplicație gratuită",
-    "og_description": "Estompați fundalul pe iPhone cu Make Blur: fundal automat, pensulă și 6 efecte blur, inclusiv motion blur și gaussian blur. iOS gratuit în App Store.",
+    "og_description": "Fundal și fețe estompate: 7 stiluri cu bokeh, motion și gaussian blur — detecție automată și blur pentru fețe.",
     "og_image": "https://makeblur.com/ro/site_preview.png",
     "twitter_url": "https://makeblur.com/ro/",
     "twitter_title": "Blur fundal pe iPhone | Make Blur",
-    "twitter_description": "Detecție fundal, pensulă și 6 stiluri de estompare. Aplicație pentru iPhone — în App Store.",
+    "twitter_description": "Estompare fundal și fețe pe iPhone. Bokeh, motion blur, gaussian — Make Blur.",
     "twitter_image": "https://makeblur.com/ro/site_preview.png",
     "canonical": "https://makeblur.com/ro/",
     "app_store_id": "6749166426"
@@ -50,7 +50,7 @@
     "intro": {
       "line1": "Doriți să estompați fundalul unei fotografii pe iPhone?",
       "line2": "Căutați cea mai simplă aplicație pentru blur de fundal?",
-      "paragraph1": "<strong>Make Blur</strong> este o aplicație foto gratuită pentru iOS cu mai multe stiluri de estompare — fără unelte complicate de pe desktop.",
+      "paragraph1": "<strong>Make Blur</strong> este o aplicație iOS gratuită pentru estompare fundal și fețe, cu 7 stiluri inclusiv bokeh — fără desktop.",
       "paragraph2": "În câteva atingeri, fundalul devine mai moale și <strong>subiectul iese în evidență</strong>. Interfața este clară, adaptată editării rapide pentru rețele sociale."
     },
     "cta_text": "Descarcă acum",
@@ -72,11 +72,11 @@
         "label": "Recenzii"
       },
       {
-        "number": "6",
+        "number": "7",
         "label": "Efecte blur"
       }
     ],
-    "last_updated": "Ultima actualizare: ianuarie 2026"
+    "last_updated": "Ultima actualizare: aprilie 2026"
   },
   "features": {
     "title": "Blur fundal pe iPhone — editare care livrează rezultate",
@@ -91,6 +91,10 @@
         "description": "Aplicația identifică fundalul acolo unde este posibil, astfel încât <strong>subiectul rămâne clar</strong>. Util la portrete și la poze de produs — <em>fără selectare manuală la fiecare pixel</em>, când detecția reușește."
       },
       {
+        "title": "Blur fețe pentru confidențialitate",
+        "description": "Estompați fețele înainte de partajare — util la poze de grup. Împreună cu blur-ul de fundal <strong>în aceeași aplicație</strong>."
+      },
+      {
         "title": "Estompare totală sau pe zone",
         "description": "Blur pe tot cadrul sau doar pe anumite zone: stil artistic, confidențialitate sau accent creativ. Make Blur oferă instrumentele de bază pentru <strong>experimente rapide</strong>."
       },
@@ -103,8 +107,8 @@
         "description": "Deschideți aplicația, alegeți fotografia, aplicați efectul și salvați. Răspuns simplu pentru întrebarea <strong>cum să blurezi fundalul pe iPhone</strong>, fără tutorial lung pe PC."
       },
       {
-        "title": "Motion blur, gaussian blur și altele",
-        "description": "Alegeți între mai multe stiluri: <strong>blur gaussian</strong> fin sau <strong>motion blur</strong> dinamic și alte variante creative pe același fișier."
+        "title": "Bokeh, motion blur și gaussian blur",
+        "description": "<strong>Bokeh</strong> pentru adâncime de câmp tip portret cu puncte de lumină moi; și motion sau gaussian. <strong>Șapte</strong> stiluri în total."
       },
       {
         "title": "Freemium — încercați apoi extindeți",
@@ -113,7 +117,7 @@
     ]
   },
   "blur_types": {
-    "title": "Șase tipuri de blur pentru poze de pe iPhone",
+    "title": "Șapte tipuri de blur pentru poze de pe iPhone",
     "items": [
       {
         "title": "Motion blur",
@@ -138,6 +142,10 @@
       {
         "title": "Crystalize",
         "description": "<strong>Crystalize</strong> — structură și profunzime vizuală după procesare."
+      },
+      {
+        "title": "Bokeh",
+        "description": "<strong>Bokeh</strong> simulează adâncime de câmp mică: subiect clar, fundal moale cu puncte de lumină naturale — ca un obiectiv portret."
       }
     ]
   },
@@ -166,9 +174,15 @@
         },
         {
           "name": "Număr de efecte",
-          "value1": "6 tipuri",
+          "value1": "7 tipuri (incl. bokeh)",
           "value2": "De obicei 2–3",
           "value3": "De obicei 3–4"
+        },
+        {
+          "name": "Blur fețe (confidențialitate)",
+          "value1": "Da",
+          "value2": "Rar / nu",
+          "value3": "Uneori"
         },
         {
           "name": "Detecție automată fundal",
@@ -190,7 +204,7 @@
         }
       ]
     },
-    "note": "Detaliile diferă după aplicație și regiune; sinteză bazată pe informații App Store din jurul datei ianuarie 2026. Make Blur pune accent pe estomparea fundalului și pe accesibilitate."
+    "note": "App Store, aprilie 2026. Make Blur: fundal, fețe, bokeh și ușurință în uz."
   },
   "how_it_works": {
     "title": "Cum să estompați fundalul pe iPhone — pași simpli",
@@ -212,7 +226,7 @@
       {
         "number": "3",
         "title": "Alegeți blur-ul și salvați",
-        "description": "Aplicați motion blur, gaussian blur sau alt stil, rafinați cu pensula apoi <strong>salvați fotografia</strong> pentru partajare."
+        "description": "Alegeți bokeh, motion, gaussian sau alt stil din 7; opțional blur fețe; <strong>salvați</strong>."
       }
     ]
   },
@@ -220,7 +234,7 @@
     "title": "Pregătit pentru un subiect clar și fundal moale?",
     "paragraph1": "Un fundal estompat ajută <strong>portretul sau produsul să iasă în față</strong> pe Instagram, LinkedIn sau în album.",
     "paragraph2": "Make Blur este construit pentru asta: estompare fundal pe iPhone rapid, fără fluxuri încărcate.",
-    "paragraph3": "<strong>Descărcați Make Blur</strong> din App Store și testați cele șase efecte pe pozele dumneavoastră.",
+    "paragraph3": "<strong>Descărcați Make Blur</strong> din App Store și testați 7 efecte inclusiv bokeh.",
     "cta_text": "Începeți",
     "cta_url": "https://apps.apple.com/app/id6749166426"
   },
@@ -228,7 +242,7 @@
     "copyright": "© {year} Make Blur. Toate drepturile rezervate.",
     "download_text": "Descărcați Make Blur din App Store",
     "download_url": "https://apps.apple.com/app/id6749166426",
-    "tagline": "Make Blur — aplicație iPhone pentru estompare fundal: detecție automată, 6 efecte blur, interfață simplă."
+    "tagline": "Make Blur — fundal și fețe pe iPhone. Bokeh, motion, gaussian și altele; detecție automată."
   },
   "seo": {
     "breadcrumb_home": "Acasă",
@@ -236,11 +250,11 @@
     "faq": [
       {
         "question": "Cum estompez fundalul pe iPhone?",
-        "answer": "Descărcați Make Blur, deschideți fotografia și, unde există suport, lăsați aplicația să detecteze fundalul. Alegeți un efect (motion blur, gaussian blur etc.), ajustați cu pensula dacă e nevoie și salvați. Este una dintre cele mai directe metode pentru a încețoși fundalul fără editor pe computer."
+        "answer": "Descărcați Make Blur, deschideți fotografia, detecție automată sau mască. Alegeți bokeh, gaussian, motion etc.; opțional blur fețe; salvați."
       },
       {
         "question": "Care este cea mai bună aplicație pentru blur de fundal pe iPhone?",
-        "answer": "Make Blur este o aplicație iOS dedicată estompării fundalului: detecție automată, șase tipuri de efect și interfață clară. Recenzenții timpurii raportează în jur de 4,5 stele — comparați descrierile și recenziile din App Store pentru nevoile dumneavoastră."
+        "answer": "Make Blur: detecție automată, blur fețe, 7 efecte inclusiv bokeh, interfață clară (~4,5★)."
       },
       {
         "question": "Pot estompa fundalul gratuit?",
@@ -252,11 +266,11 @@
       },
       {
         "question": "Ce efecte de blur există?",
-        "answer": "Printre altele: motion blur, gaussian blur, ghosting, pixelate, hexagonal și crystalize — șase variante pentru fundal sau pentru zone selectate."
+        "answer": "Motion, gaussian, ghosting, pixelate, hexagonal, crystalize și bokeh — 7 variante. Bokeh dă fundal moale cu puncte de lumină."
       },
       {
         "question": "De ce Make Blur față de alte aplicații?",
-        "answer": "Make Blur combină freemium pentru uneltele de bază, șase efecte și detecția fundalului cu pensulă. Multe aplicații concurente blochează blur simplu în spatele abonamentelor sau reclamelor — verificați prețul și lista de funcții în magazin."
+        "answer": "Freemium, 7 efecte cu bokeh, blur fețe, detecție fundal și pensulă."
       },
       {
         "question": "Pot estompa doar o parte din fotografie?",
@@ -264,7 +278,11 @@
       },
       {
         "question": "Este potrivit pentru a ascunde fețe sau numere de înmatriculare?",
-        "answer": "Blur puternic sau pixelarea pot reduce lizibilitatea detaliilor. Verificați dacă rezultatul îndeplinește cerințele dumneavoastră; pentru anonimizare juridică formală poate fi nevoie de consultanță sau unelte suplimentare."
+        "answer": "Da: blur fețe sau pixelare/blur puternic. Verificați rezultatul; pentru cazuri juridice consultați un expert."
+      },
+      {
+        "question": "Ce face filtrul bokeh în Make Blur?",
+        "answer": "Imită adâncime de câmp mică: subiect clar, fundal moale cu puncte de lumină naturale. Unul din șapte stiluri."
       },
       {
         "question": "Sunt datele mele în siguranță?",
@@ -288,7 +306,7 @@
           "ratingValue": "4.5",
           "ratingCount": "10"
         },
-        "description": "Aplicație iOS pentru estompare rapidă a fundalului fotografiilor pe iPhone, cu motion blur și gaussian blur și detecție automată a fundalului."
+        "description": "Estompare fundal și fețe pe iPhone. 7 stiluri cu bokeh, motion și gaussian blur; detecție automată."
       },
       "organization": {
         "@context": "https://schema.org",
@@ -296,14 +314,14 @@
         "name": "Make Blur",
         "url": "https://makeblur.com",
         "logo": "https://makeblur.com/img/logo.webp",
-        "description": "Make Blur — aplicație pentru estompare fundal și efecte blur pe iPhone."
+        "description": "Make Blur — iPhone: fundal, fețe, bokeh, motion și gaussian blur."
       },
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Make Blur",
         "url": "https://makeblur.com",
-        "description": "Pagina Make Blur: estompare fundal pe iPhone cu aplicație simplă de blur pentru fotografii.",
+        "description": "Make Blur: fundal și fețe pe iPhone. Bokeh și alte 6 stiluri.",
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://makeblur.com/?q={search_term_string}",
@@ -314,7 +332,7 @@
         "@context": "https://schema.org",
         "@type": "HowTo",
         "name": "Cum să estompați fundalul pe iPhone cu Make Blur",
-        "description": "Pași pentru a estompa fundalul unei fotografii pe iPhone folosind Make Blur și a salva rezultatul.",
+        "description": "Estompare fundal și opțional fețe pe iPhone cu Make Blur, inclusiv bokeh.",
         "step": [
           {
             "@type": "HowToStep",
@@ -330,7 +348,7 @@
           {
             "@type": "HowToStep",
             "name": "Aplicați efectul și salvați",
-            "text": "Selectați tipul de blur, ajustați și salvați fotografia editată."
+            "text": "Alegeți bokeh, motion, gaussian sau alt stil; blur fețe dacă e nevoie; salvați."
           }
         ]
       }

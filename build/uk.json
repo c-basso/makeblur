@@ -2,16 +2,16 @@
   "meta": {
     "lang": "uk",
     "title": "Розмиття фону на iPhone — безкоштовний додаток для фото | Make Blur",
-    "description": "Розмийте фон на iPhone з Make Blur: iOS-додаток для фото з автораспізнаванням фону, motion blur, gaussian blur та іншими ефектами. Пензель, швидке збереження. Безкоштовне завантаження з App Store.",
-    "keywords": "розмиття фону iPhone, як розмити фон на айфоні, додаток для розмиття фону, розмиття фото iOS, motion blur, gaussian blur, портретний режим альтернатива, редактор фото iPhone, безкоштовний blur додаток",
+    "description": "Розмийте фон і обличчя на iPhone з Make Blur. Фільтр боке, motion blur, gaussian blur — 7 стилів, авто-фон. Безкоштовний iOS-додаток.",
+    "keywords": "боке iPhone, фільтр боке, розмиття облич, розмиття фону iPhone, motion blur, gaussian blur, приватність фото, додаток для розмиття фону, редактор фото iPhone",
     "author": "Make Blur",
     "og_url": "https://makeblur.com/uk/",
     "og_title": "Розмиття фону на iPhone | Make Blur безкоштовно",
-    "og_description": "Make Blur розмиває фон на iPhone: автораспізнавання, пензель і 6 ефектів blur, зокрема motion blur та gaussian blur. Безкоштовно в App Store.",
+    "og_description": "Make Blur для iPhone: розмиття фону та облич. 7 стилів — боке, motion, gaussian; авто-фон. Безкоштовно в App Store.",
     "og_image": "https://makeblur.com/uk/site_preview.png",
     "twitter_url": "https://makeblur.com/uk/",
     "twitter_title": "Додаток для розмиття фону | Make Blur",
-    "twitter_description": "Автоматичне виділення фону, 6 стилів розмиття, зручне редагування. Завантажте з App Store.",
+    "twitter_description": "Розмиття фону й облич на iPhone. Боке, motion blur, gaussian — Make Blur.",
     "twitter_image": "https://makeblur.com/uk/site_preview.png",
     "canonical": "https://makeblur.com/uk/",
     "app_store_id": "6749166426"
@@ -50,7 +50,7 @@
     "intro": {
       "line1": "Хочете розмити фон на фото з iPhone?",
       "line2": "Шукаєте зручний додаток для розмиття фону?",
-      "paragraph1": "<strong>Make Blur</strong> — безкоштовний iOS-фоторедактор із кількома ефектами розмиття. Без складних програм на комп’ютері.",
+      "paragraph1": "<strong>Make Blur</strong> — безкоштовний iOS-додаток для розмиття фону й облич, 7 стилів зокрема боке. Без ПК.",
       "paragraph2": "За кілька дотиків фон стає м’якшим, а <strong>об’єкт чи людина у кадрі — виразнішими</strong>. Інтерфейс зручний для швидких постів у соцмережах."
     },
     "cta_text": "Завантажити зараз",
@@ -72,11 +72,11 @@
         "label": "Відгуків"
       },
       {
-        "number": "6",
+        "number": "7",
         "label": "Ефектів blur"
       }
     ],
-    "last_updated": "Останнє оновлення: січень 2026"
+    "last_updated": "Останнє оновлення: квітень 2026"
   },
   "features": {
     "title": "Розмиття фону на iPhone — редагування, яке працює",
@@ -91,6 +91,10 @@
         "description": "Додаток намагається відокремити фон від переднього плану: <strong>об’єкт лишається різким</strong>, фон — м’якшим. Зручно для портретів і предметних фото — <em>менше ручного маскування</em>, коли авто спрацьовує добре."
       },
       {
+        "title": "Розмиття облич для приватності",
+        "description": "Розмийте обличчя перед поширенням — зручно для групових фото. Разом із фоном <strong>в одному додатку</strong>."
+      },
+      {
         "title": "Розмиття всього кадру або зони",
         "description": "Повне розмиття чи лише частини кадру: стиль, приватність чи акцент. У Make Blur є базові інструменти для <strong>швидких експериментів</strong>."
       },
@@ -103,8 +107,8 @@
         "description": "Відкрийте додаток, оберіть фото, застосуйте ефект, збережіть. Відповідь для запитів на кшталт <strong>як розмити фон на айфоні</strong> без довгих інструкцій."
       },
       {
-        "title": "Motion blur, gaussian blur та інше",
-        "description": "Від м’якого <strong>gaussian blur</strong> до динамічного <strong>motion blur</strong> і креативних стилів на одному знімку."
+        "title": "Боке, motion blur і gaussian blur",
+        "description": "<strong>Боке</strong> — портретна глибина різкості з м’якими бліками; також motion і gaussian. Усього <strong>7</strong> стилів."
       },
       {
         "title": "Freemium — спочатку безкоштовно",
@@ -113,7 +117,7 @@
     ]
   },
   "blur_types": {
-    "title": "Шість видів blur для фото з iPhone",
+    "title": "Сім видів blur для фото з iPhone",
     "items": [
       {
         "title": "Motion blur",
@@ -138,6 +142,10 @@
       {
         "title": "Crystalize",
         "description": "<strong>Crystalize</strong> — додаткова фактура після обробки."
+      },
+      {
+        "title": "Боке (Bokeh)",
+        "description": "<strong>Боке</strong> імітує малу глибину різкості: чіткий об’єкт, м’який фон із природними світловими плямами — як портретний об’єктив."
       }
     ]
   },
@@ -166,9 +174,15 @@
         },
         {
           "name": "Кількість ефектів",
-          "value1": "6 типів",
+          "value1": "7 типів (вкл. боке)",
           "value2": "Зазвичай 2–3",
           "value3": "Зазвичай 3–4"
+        },
+        {
+          "name": "Розмиття облич (приватність)",
+          "value1": "Так",
+          "value2": "Рідко / ні",
+          "value3": "Інколи"
         },
         {
           "name": "Авто-фон",
@@ -190,7 +204,7 @@
         }
       ]
     },
-    "note": "Деталі залежать від додатку та регіону; орієнтир — дані App Store близько січня 2026. Make Blur фокусується на розмитті фону та доступності."
+    "note": "App Store, квітень 2026. Make Blur: фон, обличчя, боке та зручність."
   },
   "how_it_works": {
     "title": "Як розмити фон на iPhone — покроково",
@@ -212,7 +226,7 @@
       {
         "number": "3",
         "title": "Оберіть blur і збережіть",
-        "description": "Застосуйте motion blur, gaussian blur чи інший стиль, підправте пензлем і <strong>збережіть фото</strong>."
+        "description": "Оберіть боке, motion, gaussian чи інший з 7 стилів; за потреби розмиття облич; <strong>збережіть</strong>."
       }
     ]
   },
@@ -220,7 +234,7 @@
     "title": "Готові до чіткого об’єкта та м’якого фону?",
     "paragraph1": "Розмитий фон допомагає <strong>портрету чи продукту виділитися</strong> в соцмережах чи альбомі.",
     "paragraph2": "Make Blur створений саме для цього: швидке розмиття на iPhone без зайвих кроків.",
-    "paragraph3": "<strong>Завантажте Make Blur</strong> з App Store і спробуйте шість ефектів на своїх фото.",
+    "paragraph3": "<strong>Завантажте Make Blur</strong> з App Store і спробуйте 7 ефектів з боке.",
     "cta_text": "Почати",
     "cta_url": "https://apps.apple.com/app/id6749166426"
   },
@@ -228,7 +242,7 @@
     "copyright": "© {year} Make Blur. Усі права захищені.",
     "download_text": "Завантажити Make Blur в App Store",
     "download_url": "https://apps.apple.com/app/id6749166426",
-    "tagline": "Make Blur — розмиття фону на iPhone: авто-фон, 6 ефектів blur, простий інтерфейс."
+    "tagline": "Make Blur — фон і обличчя на iPhone. Боке, motion, gaussian та інше; авто-фон."
   },
   "seo": {
     "breadcrumb_home": "Головна",
@@ -236,11 +250,11 @@
     "faq": [
       {
         "question": "Як розмити фон на iPhone?",
-        "answer": "Завантажте Make Blur, відкрийте фото і за потреби дозвольте автораспізнавання фону. Оберіть ефект (motion blur, gaussian blur тощо), підкоригуйте пензлем і збережіть. Це простий спосіб розмити фон без ПК-редактора."
+        "answer": "Завантажте Make Blur, відкрийте фото, авто або маска. Оберіть боке, gaussian, motion тощо; за потреби розмиття облич; збережіть."
       },
       {
         "question": "Який додаток найкраще для розмиття фону на iPhone?",
-        "answer": "Make Blur — спеціалізований iOS-додаток: авто-фон, шість типів blur і зрозумілий інтерфейс. Ранні оцінки близько 4,5 зірок; порівняйте опис і відгуки в App Store під свої задачі."
+        "answer": "Make Blur: авто-фон, розмиття облич, 7 ефектів з боке, зрозумілий інтерфейс (~4,5★)."
       },
       {
         "question": "Чи можна розмити фон безкоштовно?",
@@ -252,11 +266,11 @@
       },
       {
         "question": "Які ефекти розмиття є?",
-        "answer": "Наприклад motion blur, gaussian blur, ghosting, pixelate, hexagonal і crystalize — загалом шість варіантів для фону або вибраних зон."
+        "answer": "Motion, gaussian, ghosting, pixelate, hexagonal, crystalize і боке — 7 варіантів. Боке дає м’який фон зі світловими плямами."
       },
       {
         "question": "Чому обрати Make Blur?",
-        "answer": "Freemium для бази, шість ефектів, авто-фон і пензель разом. Багато конкурентів ховають простий blur за підпискою чи рекламою — перевірте ціну й список функцій у store."
+        "answer": "Freemium, 7 ефектів з боке, розмиття облич, авто-фон і пензель."
       },
       {
         "question": "Чи можна розмити лише частину фото?",
@@ -264,7 +278,11 @@
       },
       {
         "question": "Чи підходить для приховування облич чи номерів?",
-        "answer": "Сильне розмиття чи пікселізація ускладнює читання деталей. Перевірте результат для своїх вимог; для юридичної анонімізації можуть знадобитися інші засоби чи консультація."
+        "answer": "Так: розмиття облич або сильне blur/пікселізація. Для юридичних випадків консультуйтеся з експертом."
+      },
+      {
+        "question": "Що робить фільтр боке в Make Blur?",
+        "answer": "Імітує малу глибину різкості: чіткий об’єкт, м’який фон з природними бліками. Один із семи стилів."
       },
       {
         "question": "Чи безпечні мої фото?",
@@ -288,7 +306,7 @@
           "ratingValue": "4.5",
           "ratingCount": "10"
         },
-        "description": "iOS-додаток для швидкого розмиття фону фотографій на iPhone з motion blur, gaussian blur та автораспізнаванням фону."
+        "description": "Розмиття фону й облич на iPhone. 7 стилів з боке, motion і gaussian blur; авто-фон."
       },
       "organization": {
         "@context": "https://schema.org",
@@ -296,14 +314,14 @@
         "name": "Make Blur",
         "url": "https://makeblur.com",
         "logo": "https://makeblur.com/img/logo.webp",
-        "description": "Make Blur — додаток для розмиття фону та ефектів blur на iPhone."
+        "description": "Make Blur — iPhone: фон, обличчя, боке, motion і gaussian blur."
       },
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Make Blur",
         "url": "https://makeblur.com",
-        "description": "Офіційна сторінка Make Blur: розмиття фону на iPhone простим фоторедактором.",
+        "description": "Make Blur: фон і обличчя на iPhone. Боке та ще 6 стилів.",
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://makeblur.com/?q={search_term_string}",
@@ -314,7 +332,7 @@
         "@context": "https://schema.org",
         "@type": "HowTo",
         "name": "Розмиття фону на iPhone в Make Blur",
-        "description": "Кроки для розмиття фону фото на iPhone у Make Blur і збереження файлу.",
+        "description": "Розмиття фону та за потреби облич на iPhone в Make Blur, з боке.",
         "step": [
           {
             "@type": "HowToStep",
@@ -330,7 +348,7 @@
           {
             "@type": "HowToStep",
             "name": "Застосувати blur і зберегти",
-            "text": "Оберіть тип розмиття, підлаштуйте й збережіть результат."
+            "text": "Оберіть боке, motion, gaussian чи інший стиль; розмиття облич за потреби; збережіть."
           }
         ]
       }

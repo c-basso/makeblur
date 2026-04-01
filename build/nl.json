@@ -2,16 +2,16 @@
   "meta": {
     "lang": "nl",
     "title": "Achtergrond vervagen op iPhone - gratis blur-app voor foto's | Make Blur",
-    "description": "Vervaag de achtergrond van je iPhone-foto's met Make Blur. iOS-app om foto's wazig te maken: automatische achtergrondherkenning, motion blur, gaussian blur en meer. Download gratis in de App Store en bewerk je beelden in seconden.",
-    "keywords": "achtergrond vervagen iPhone, foto achtergrond wazig, blur app iPhone, achtergrond onscherp maken, foto bewerken iPhone, motion blur, gaussian blur, portret modus alternatief, onderwerp scherp achtergrond wazig, foto-editor iOS, gratis foto blur app",
+    "description": "Vervaag achtergrond en gezichten op de iPhone met Make Blur. Bokeh-filter, motion blur, gaussian blur — zeven stijlen, auto-detectie. Gratis iOS-app.",
+    "keywords": "bokeh iPhone, bokeh filter, gezichten vervagen, blur gezicht, achtergrond vervagen iPhone, foto achtergrond wazig, motion blur, gaussian blur, privacy foto, blur app iPhone, foto-editor iOS",
     "author": "Make Blur",
     "og_url": "https://makeblur.com/nl/",
     "og_title": "Achtergrond vervagen op iPhone - gratis app Make Blur",
-    "og_description": "Vervaag iPhone-achtergronden met Make Blur: auto-detectie, penseel en 6 blureffecten (motion blur, gaussian blur). Gratis in de App Store.",
+    "og_description": "Achtergrond en gezichten wazig: zeven stijlen met bokeh, motion en gaussian blur — auto-detectie en gezichtsblur.",
     "og_image": "https://makeblur.com/nl/site_preview.png",
     "twitter_url": "https://makeblur.com/nl/",
     "twitter_title": "iPhone: achtergrond vervagen | Make Blur",
-    "twitter_description": "Achtergrond wazig maken op je iPhone met automatische herkenning en 6 blur-stijlen. Gratis in de App Store.",
+    "twitter_description": "Achtergrond en gezichten vervagen op iPhone. Bokeh, motion blur, gaussian — Make Blur.",
     "twitter_image": "https://makeblur.com/nl/site_preview.png",
     "canonical": "https://makeblur.com/nl/",
     "app_store_id": "6749166426"
@@ -50,7 +50,7 @@
     "intro": {
       "line1": "Wil je de achtergrond van een foto op je iPhone vervagen?",
       "line2": "Zoek je de beste app om je achtergrond wazig te maken?",
-      "paragraph1": "<strong>Make Blur</strong> is een gratis iOS-foto-app waarmee je achtergronden kunt vervagen met meerdere blur-effecten—zonder ingewikkelde desktopsoftware.",
+      "paragraph1": "<strong>Make Blur</strong> is een gratis iOS-app voor achtergrond- en gezichtsvervaging, met zeven stijlen waaronder bokeh—zonder desktopsoftware.",
       "paragraph2": "In een paar tikken maak je de achtergrond wazig en laat je je <strong>onderwerp scherp</strong>. De interface is gebouwd voor iPhone-gebruikers die snel een net resultaat willen."
     },
     "cta_text": "Download nu",
@@ -72,11 +72,11 @@
         "label": "Reviews"
       },
       {
-        "number": "6",
+        "number": "7",
         "label": "Blur-effecten"
       }
     ],
-    "last_updated": "Laatst bijgewerkt: januari 2026"
+    "last_updated": "Laatst bijgewerkt: april 2026"
   },
   "features": {
     "title": "Achtergrond vervagen op iPhone - bewerken dat werkt",
@@ -91,6 +91,10 @@
         "description": "De app probeert de achtergrond te herkennen zodat je <strong>onderwerp scherp</strong> blijft. Handig voor portretfoto's en beelden waarbij je de aandacht wilt sturen—<em>zonder handmatig elke pixel te selecteren</em>."
       },
       {
+        "title": "Gezichten vervagen voor privacy",
+        "description": "Vervaag gezichten vóór het delen — handig bij groepsfoto's en events. Samen met achtergrondblur <strong>in dezelfde app</strong>."
+      },
+      {
         "title": "Foto en afbeelding gedeeltelijk of volledig wazig",
         "description": "Maak een heel beeld zacht of alleen een deel wazig voor sfeer, privacy of een creatief effect. Make Blur geeft je de basisgereedschappen om <strong>snel</strong> te experimenteren."
       },
@@ -103,8 +107,8 @@
         "description": "Open de app, kies een foto uit je rol, kies een effect en sla op. Ideaal als je gezocht hebt op <strong>hoe achtergrond vervagen iPhone</strong> en een eenvoudig antwoord wilt."
       },
       {
-        "title": "Motion blur en gaussian blur (en meer)",
-        "description": "Kies uit verschillende stijlen: van zachte <strong>gaussian blur</strong> tot dynamische <strong>motion blur</strong> een andere creatieve looks—allemaal op hetzelfde beeld."
+        "title": "Bokeh, motion blur en gaussian blur",
+        "description": "<strong>Bokeh</strong> voor filmachtige onscherpte met zachte lichtpunten; ook motion en gaussian. <strong>Zeven</strong> stijlen totaal."
       },
       {
         "title": "Freemium: eerst proberen, dan uitbreiden",
@@ -113,7 +117,7 @@
     ]
   },
   "blur_types": {
-    "title": "Zes soorten blur voor je iPhone-foto's",
+    "title": "Zeven soorten blur voor je iPhone-foto's",
     "items": [
       {
         "title": "Motion blur",
@@ -138,6 +142,10 @@
       {
         "title": "Crystalize",
         "description": "<strong>Crystalize</strong> voegt structuur en visuele rijkdom toe aan je bewerkte foto."
+      },
+      {
+        "title": "Bokeh",
+        "description": "<strong>Bokeh</strong> simuleert ondiepe scherptediepte: onderwerp scherp, achtergrond zacht met natuurlijke lichtbollen — als een portretlens."
       }
     ]
   },
@@ -166,9 +174,15 @@
         },
         {
           "name": "Aantal effecten",
-          "value1": "6 typen",
+          "value1": "7 typen (incl. bokeh)",
           "value2": "Ongeveer 2-3",
           "value3": "Ongeveer 3-4"
+        },
+        {
+          "name": "Gezichten vervagen (privacy)",
+          "value1": "Ja",
+          "value2": "Zelden / nee",
+          "value3": "Soms"
         },
         {
           "name": "Auto-detectie achtergrond",
@@ -190,7 +204,7 @@
         }
       ]
     },
-    "note": "Cijfers en modellen kunnen per app verschillen; dit overzicht is gebaseerd op App Store-informatie rond januari 2026. Make Blur richt zich op achtergrondvervaging en toegankelijke bediening."
+    "note": "Gebaseerd op App Store-informatie rond april 2026. Make Blur: achtergrond, gezichtsblur, bokeh en gebruiksgemak."
   },
   "how_it_works": {
     "title": "Zo vervaag je de achtergrond op je iPhone",
@@ -212,7 +226,7 @@
       {
         "number": "3",
         "title": "Kies blur en sla op",
-        "description": "Selecteer motion blur, gaussian blur of een andere stijl, verfijn met het penseel indien nodig en <strong>sla je foto op</strong> om te delen."
+        "description": "Kies bokeh, motion, gaussian of een andere van de zeven stijlen; gebruik gezichtsblur indien nodig en <strong>sla op</strong>."
       }
     ]
   },
@@ -220,7 +234,7 @@
     "title": "Klaar om je iPhone-foto's te laten opvallen?",
     "paragraph1": "Een wazige achtergrond helpt je <strong>onderwerp te laten springen</strong>—op Instagram, LinkedIn of in je album.",
     "paragraph2": "Make Blur is gebouwd voor die taak: snel achtergrond vervangen door een gecontroleerde blur, zonder rommelige workflows.",
-    "paragraph3": "<strong>Download Make Blur</strong> in de App Store en probeer de zes effecten op je eigen foto's.",
+    "paragraph3": "<strong>Download Make Blur</strong> in de App Store en probeer zeven effecten inclusief bokeh.",
     "cta_text": "Aan de slag",
     "cta_url": "https://apps.apple.com/app/id6749166426"
   },
@@ -228,7 +242,7 @@
     "copyright": "© {year} Make Blur. Alle rechten voorbehouden.",
     "download_text": "Download Make Blur in de App Store",
     "download_url": "https://apps.apple.com/app/id6749166426",
-    "tagline": "Make Blur - iPhone-app om achtergronden te vervagen. Automatische detectie, zes blureffecten, eenvoudige bediening."
+    "tagline": "Make Blur — achtergrond en gezichten vervagen. Bokeh, motion, gaussian en meer; auto-detectie."
   },
   "seo": {
     "breadcrumb_home": "Home",
@@ -236,11 +250,11 @@
     "faq": [
       {
         "question": "Hoe vervaag ik de achtergrond op mijn iPhone?",
-        "answer": "Download Make Blur, open je foto en laat—waar mogelijk—de achtergrond automatisch detecteren. Kies een blur-effect (bijv. motion blur of gaussian blur), stuur bij met het penseel en sla op. Zo maak je zonder desktopsoftware de achtergrond wazig."
+        "answer": "Download Make Blur, open je foto, auto-detectie of masker. Kies bokeh, gaussian, motion of een andere stijl; optioneel gezichten vervagen; sla op."
       },
       {
         "question": "Wat is de beste app om de achtergrond te vervagen op iPhone?",
-        "answer": "Make Blur is een gespecialiseerde iOS-app voor achtergrondvervaging: automatische herkenning, zes effecttypen en een overzichtelijke interface. Vroege reviewers geven ongeveer 4,5 sterren—vergelijk zelf in de App Store welke app bij jouw workflow past."
+        "answer": "Make Blur: auto-detectie, gezichtsblur, zeven effecten inclusief bokeh, overzichtelijke interface (~4,5 ster)."
       },
       {
         "question": "Kan ik de achtergrond gratis wazig maken?",
@@ -252,11 +266,11 @@
       },
       {
         "question": "Welke blureffecten zijn er?",
-        "answer": "Je kunt onder andere motion blur, gaussian blur, ghosting, pixelate, hexagonal en crystalize gebruiken—zes stijlen om de achtergrond of delen van je beeld te bewerken."
+        "answer": "Zeven stijlen: motion, gaussian, ghosting, pixelate, hexagonal, crystalize en bokeh. Bokeh geeft zachte achtergrond met lichtbollen."
       },
       {
         "question": "Waarom Make Blur kiezen boven andere blur-apps?",
-        "answer": "Make Blur combineert freemium-toegang tot de kern, zes effecten en achtergronddetectie plus penseel. Veel concurrenten zetten basisblur achter abonnementen of storende advertenties; vergelijk prijs, reviews en functielijst in de store."
+        "answer": "Freemium-kern, zeven effecten met bokeh, gezichtsblur, detectie plus penseel. Vergelijk met concurrenten in de store."
       },
       {
         "question": "Kan ik alleen een deel van de foto wazig maken?",
@@ -264,7 +278,11 @@
       },
       {
         "question": "Is Make Blur geschikt voor privacy (gezichten of kentekens verbergen)?",
-        "answer": "Met pixelate of zware blur kunst gevoelige details minder leesbaar maken. Controleer altijd of het resultaat voldoet aan je eigen privacy-eisen; voor juridische anonimiteit kan extra software of advies nodig zijn."
+        "answer": "Ja: gebruik gezichtsblur of pixelate/zware blur voor details. Controleer of het voldoet aan je eisen; voor juridische anonimiteit kan advies nodig zijn."
+      },
+      {
+        "question": "Wat doet het bokeh-filter in Make Blur?",
+        "answer": "Bokeh bootst ondiepe scherptediepte na: scherp onderwerp, zachte achtergrond met natuurlijke lichtpunten. Eén van zeven stijlen."
       },
       {
         "question": "Zijn mijn foto's veilig?",
@@ -288,7 +306,7 @@
           "ratingValue": "4.5",
           "ratingCount": "10"
         },
-        "description": "iOS-app om snel de achtergrond van foto's op de iPhone te vervagen, met o.a. motion blur en gaussian blur en automatische achtergronddetectie."
+        "description": "Achtergrond en gezichten vervagen op iPhone. Zeven stijlen met bokeh, motion en gaussian blur; auto-detectie."
       },
       "organization": {
         "@context": "https://schema.org",
@@ -296,14 +314,14 @@
         "name": "Make Blur",
         "url": "https://makeblur.com",
         "logo": "https://makeblur.com/img/logo.webp",
-        "description": "Make Blur - app om achtergronden op de iPhone te vervagen en blur-effecten toe te passen."
+        "description": "Make Blur — iPhone: achtergrond, gezichtsblur, bokeh, motion en gaussian blur."
       },
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Make Blur",
         "url": "https://makeblur.com",
-        "description": "Officiële landingspagina van Make Blur: achtergrond vervagen op iPhone met een eenvoudige blur-app.",
+        "description": "Make Blur: achtergrond en gezichten vervagen op iPhone. Bokeh en zes andere stijlen.",
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://makeblur.com/?q={search_term_string}",
@@ -314,7 +332,7 @@
         "@context": "https://schema.org",
         "@type": "HowTo",
         "name": "Achtergrond vervagen op iPhone met Make Blur",
-        "description": "Stappen om met Make Blur de achtergrond van een iPhone-foto wazig te maken en op te slaan.",
+        "description": "Achtergrond (en optioneel gezichten) wazig maken met Make Blur, bokeh inbegrepen.",
         "step": [
           {
             "@type": "HowToStep",
@@ -330,7 +348,7 @@
           {
             "@type": "HowToStep",
             "name": "Effect kiezen en opslaan",
-            "text": "Kies een blur-effect, pas aan en sla de bewerkte foto op."
+            "text": "Kies bokeh, motion, gaussian of een andere stijl; gezichtsblur indien nodig; sla op."
           }
         ]
       }
