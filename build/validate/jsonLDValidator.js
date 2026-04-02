@@ -4,6 +4,39 @@ const jsonld = require('jsonld');
 
 const { LANGUAGES, DEFAULT_LANGUAGE, EXPECTED_JSON_LD_TYPES } = require('../constants');
 
+/** schema.org root URL does not return a JSON-LD context document; use the official context file. */
+const SCHEMA_ORG_CONTEXT_URL = 'https://schema.org/docs/jsonldcontext.json';
+
+function cloneJsonLdDocument(doc) {
+  if (typeof structuredClone === 'function') {
+    return structuredClone(doc);
+  }
+  return JSON.parse(JSON.stringify(doc));
+}
+
+/** One fetch per validator run — avoids dozens of parallel requests and flaky failures. */
+let schemaOrgRemoteDocument = null;
+
+function createSchemaOrgDocumentLoader() {
+  const nodeLoader = jsonld.documentLoaders.node();
+  return async (url, options) => {
+    const base = String(url).replace(/\/$/, '');
+    if (base === 'https://schema.org' || base === 'http://schema.org') {
+      if (!schemaOrgRemoteDocument) {
+        schemaOrgRemoteDocument = await nodeLoader(SCHEMA_ORG_CONTEXT_URL, options);
+      }
+      return {
+        contextUrl: schemaOrgRemoteDocument.contextUrl,
+        documentUrl: schemaOrgRemoteDocument.documentUrl,
+        document: cloneJsonLdDocument(schemaOrgRemoteDocument.document),
+      };
+    }
+    return nodeLoader(url, options);
+  };
+}
+
+const jsonLdExpandOptions = { documentLoader: createSchemaOrgDocumentLoader() };
+
 function extractJsonLdBlocks(html) {
   const blocks = [];
   const re = /<script\s+type="application\/ld\+json">([\s\S]*?)<\/script>/g;
@@ -158,7 +191,7 @@ async function validateJsonLD() {
       // Deep JSON-LD validation using jsonld.expand (async, schema-aware).
       try {
         // This will throw if JSON-LD syntax or context resolution is invalid.
-        await jsonld.expand(res.obj);
+        await jsonld.expand(res.obj, jsonLdExpandOptions);
       } catch (error) {
         results.push({
           ok: false,
