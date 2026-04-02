@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "lang": "cn",
+    "title": "iPhone 照片背景虚化 - 免费模糊背景与人脸 | Make Blur",
+    "description": "用 Make Blur 在 iPhone 上虚化照片背景、模糊人脸。免费照片编辑器：自动识别背景、散景滤镜、动态模糊、高斯模糊等七种效果。立即下载！",
+    "keywords": "背景虚化,iPhone 虚化背景,人脸模糊,照片打码,散景效果,高斯模糊,动态模糊,隐私模糊,模糊照片,照片编辑器,Make Blur",
+    "author": "Make Blur",
+    "og_url": "https://makeblur.com/cn/",
+    "og_title": "iPhone 照片背景虚化 - 免费模糊背景与人脸",
+    "og_description": "Make Blur 是免费的 iPhone 照片编辑应用，可虚化照片背景、模糊人脸保护隐私，提供散景、动态模糊、高斯模糊等七种效果，支持自动识别背景与手动涂抹选区。下载量超万次，用户评分约 4.5 星，在 App Store 免费下载。",
+    "og_image": "https://makeblur.com/cn/site_preview.png",
+    "twitter_url": "https://makeblur.com/cn/",
+    "twitter_title": "iPhone 背景虚化 - 免费应用 | Make Blur",
+    "twitter_description": "在 iPhone 上虚化背景与人脸。散景、动态模糊、高斯模糊 — Make Blur。",
+    "twitter_image": "https://makeblur.com/cn/site_preview.png",
+    "canonical": "https://makeblur.com/cn/",
+    "app_store_id": "6749166426"
+  },
+  "header": {
+    "logo_alt": "Make Blur - iPhone 背景虚化应用",
+    "app_name": "Make Blur",
+    "download_text": " 立即下载",
+    "download_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "hero": {
+    "title": "在 iPhone 上虚化背景 — 轻松让照片更出彩",
+    "subtitle": "免费好用的照片背景虚化应用",
+    "screens": [
+      {
+        "src": "/img/screens/box__15_pro_max.webp",
+        "alt": "iPhone 背景虚化 - 方形模糊效果示例"
+      },
+      {
+        "src": "/img/screens/motion__15_pro_max.webp",
+        "alt": "iPhone 背景虚化 - 动态模糊效果示例"
+      },
+      {
+        "src": "/img/screens/ghost__15_pro_max.webp",
+        "alt": "iPhone 背景虚化 - 鬼影模糊效果示例"
+      },
+      {
+        "src": "/img/screens/crys__15_pro_max.webp",
+        "alt": "iPhone 背景虚化 - 晶格化模糊效果示例"
+      },
+      {
+        "src": "/img/screens/ghost1__15_pro_max.webp",
+        "alt": "iPhone 背景虚化 - 高级模糊效果示例"
+      }
+    ],
+    "intro": {
+      "line1": "想在 iPhone 上把照片背景虚化？",
+      "line2": "在找简单好用的背景虚化应用？",
+      "paragraph1": "Make Blur 是一款免费的 iOS 照片编辑器，可虚化背景与人脸，提供七种模糊风格，包括散景、动态模糊与高斯模糊。在 iPhone 上虚化背景或遮挡人脸，不必再和复杂工具较劲。",
+      "paragraph2": "Make Blur 让你<strong>轻松</strong>虚化背景、模糊整张照片或局部区域。用直观操作学会如何在 iPhone 上虚化背景——虚化照片背景的简单方式。"
+    },
+    "cta_text": "立即下载",
+    "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "statistics": {
+    "title": "Make Blur 数据一览",
+    "items": [
+      {
+        "number": "10,000+",
+        "label": "下载量"
+      },
+      {
+        "number": "4.5",
+        "label": "星级评分"
+      },
+      {
+        "number": "10+",
+        "label": "条评价"
+      },
+      {
+        "number": "7",
+        "label": "种模糊效果"
+      }
+    ],
+    "last_updated": "最近更新：2026 年 4 月"
+  },
+  "features": {
+    "title": "iPhone 背景虚化 — 简单好用的照片编辑",
+    "intro": {
+      "line1": "我们知道在 iPhone 上虚化背景有时很折腾。",
+      "paragraph1": "因此我们做了这款好用的背景虚化应用，帮你从<strong>无从下手</strong>变成<strong>自信出片</strong>。",
+      "paragraph2": "告别难用的工具——虚化背景也能很快搞定。"
+    },
+    "items": [
+      {
+        "title": "照片背景虚化 — 自动识别更省心",
+        "description": "借助<strong>自动识别背景</strong>，在 iPhone 上<strong>快速</strong>虚化背景，让主体更突出，适合发社交媒体。几步即可学会如何在 iPhone 上虚化背景——<em>虚化照片背景非常省事</em>。"
+      },
+      {
+        "title": "人脸模糊 — 保护隐私",
+        "description": "分享前可模糊人脸，适合合影、活动照等场景。可与背景虚化配合使用，在应用内完成<strong>隐私保护</strong>。"
+      },
+      {
+        "title": "整图与局部模糊",
+        "description": "在 iPhone 上模糊照片或图像<strong>不必折腾</strong>复杂应用。无论艺术虚化还是隐私需求，Make Blur 都能满足，<strong>快速</strong>完成编辑。"
+      },
+      {
+        "title": "自定义涂抹 — 精确控制虚化区域",
+        "description": "在照片上涂抹即可只虚化想要的位置，<strong>完全掌控背景虚化范围</strong>，在 iPhone 上实现更精细、更有创意的编辑。"
+      },
+      {
+        "title": "iPhone 上如何模糊照片 — 一看就会",
+        "description": "若你想知道如何在 iPhone 上模糊照片或图片，Make Blur 的界面<strong>简单直观</strong>，<strong>减少挫败感</strong>——轻松学会在 iPhone 上模糊照片。"
+      },
+      {
+        "title": "散景、动态模糊与高斯模糊",
+        "description": "可选<strong>散景</strong>获得电影感浅景深与柔和光斑，或使用动态模糊、高斯模糊等虚化背景。共七种风格，兼顾创意与控制。"
+      },
+      {
+        "title": "用户喜爱的背景虚化应用",
+        "description": "专为希望在 iPhone 上轻松虚化照片背景的用户设计。早期用户评分<strong>4.5 星</strong>，下载量已超 1 万次。加入他们，用更简单的方式美化照片。"
+      }
+    ]
+  },
+  "blur_types": {
+    "title": "多种模糊效果 — 在 iPhone 上虚化背景",
+    "items": [
+      {
+        "title": "动态模糊",
+        "description": "为照片增加动感模糊，让画面更有速度与能量。"
+      },
+      {
+        "title": "高斯模糊",
+        "description": "平滑自然的高斯模糊，获得专业柔和的焦外效果。"
+      },
+      {
+        "title": "鬼影（Ghosting）",
+        "description": "轻盈的鬼影式模糊，营造神秘、艺术化的画面。"
+      },
+      {
+        "title": "像素化",
+        "description": "像素块模糊，复古数码风格或加强隐私保护。"
+      },
+      {
+        "title": "六边形",
+        "description": "六边形图案模糊，风格现代、有辨识度。"
+      },
+      {
+        "title": "晶格化（Crystalize）",
+        "description": "晶格化纹理模糊，增加质感与视觉趣味。"
+      },
+      {
+        "title": "散景（Bokeh）",
+        "description": "<strong>散景</strong>模拟浅景深：主体清晰，背景柔和虚化并带有自然光斑，类似人像镜头效果。"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Make Blur 与其他虚化应用对比",
+    "intro": "下面以事实为基础对比 Make Blur 与其他 iPhone 虚化类应用，便于你选择合适工具。",
+    "table": {
+      "feature_label": "功能",
+      "competitors": [
+        {
+          "name": "Make Blur"
+        },
+        {
+          "name": "常见虚化应用"
+        },
+        {
+          "name": "付费虚化应用"
+        }
+      ],
+      "features": [
+        {
+          "name": "价格",
+          "value1": "免费增值（可免费使用，部分功能可选内购）",
+          "value2": "广告多、付费墙激进",
+          "value3": "一次性付费或订阅"
+        },
+        {
+          "name": "模糊效果数量",
+          "value1": "7 种（含散景）",
+          "value2": "约 2–3 种",
+          "value3": "约 3–4 种"
+        },
+        {
+          "name": "人脸模糊（隐私）",
+          "value1": "支持",
+          "value2": "少见 / 不支持",
+          "value3": "部分支持"
+        },
+        {
+          "name": "自动识别背景",
+          "value1": "支持",
+          "value2": "不支持 / 有限",
+          "value3": "部分支持"
+        },
+        {
+          "name": "自定义涂抹工具",
+          "value1": "支持",
+          "value2": "不支持",
+          "value3": "部分支持"
+        },
+        {
+          "name": "易用性（参考评分）",
+          "value1": "4.5 星",
+          "value2": "约 3.5–4.2 星",
+          "value3": "约 4.0–4.5 星"
+        }
+      ]
+    },
+    "note": "数据基于截至 2026 年 4 月的 App Store 公开信息。Make Blur 侧重背景虚化、隐私人脸模糊以及含散景在内的多种滤镜，并强调易用与核心功能免费。"
+  },
+  "how_it_works": {
+    "title": "如何在 iPhone 上虚化背景 — 三步教程",
+    "intro": {
+      "line1": "<strong>三个简单步骤</strong>，在 iPhone 上虚化背景，让普通照片更吸睛。",
+      "paragraph1": "无需复杂工具——虚化照片背景也可以很顺畅。"
+    },
+    "steps": [
+      {
+        "number": "1",
+        "title": "下载应用",
+        "description": "从 App Store 下载 Make Blur——适合在 iPhone 上虚化背景的应用。<strong>几秒即可开始</strong>，已有<strong>上万用户</strong>在用。"
+      },
+      {
+        "number": "2",
+        "title": "打开照片",
+        "description": "从相册任选一张照片，应用可<strong>自动识别背景</strong>以便虚化。<em>多数情况无需手动抠图。</em>"
+      },
+      {
+        "number": "3",
+        "title": "选择效果并保存",
+        "description": "在散景、动态模糊、高斯模糊等七种风格中任选，可同时处理人脸隐私。<strong>保存作品</strong>，随时分享。"
+      }
+    ]
+  },
+  "final_cta": {
+    "title": "准备在 iPhone 上虚化背景了吗？",
+    "paragraph1": "若想虚化照片背景、做出<strong>更适合发社交媒体的成片</strong>，下载本应用是<strong>很合适的一步</strong>。",
+    "paragraph2": "在 iPhone 上<strong>顺畅地完成背景虚化</strong>——<em>告别难用的复杂应用</em>。",
+    "paragraph3": "<strong>别错过</strong>在 iPhone 上轻松虚化背景的机会。<br>从<strong>无从下手</strong>到<strong>自信出片</strong>，从今天开始。",
+    "cta_text": "开始使用",
+    "cta_url": "https://apps.apple.com/app/id6749166426"
+  },
+  "footer": {
+    "copyright": "© {year} Make Blur。保留所有权利。",
+    "download_text": "在 App Store 下载 Make Blur",
+    "download_url": "https://apps.apple.com/app/id6749166426",
+    "tagline": "Make Blur — 在 iPhone 上虚化背景与人脸。七种效果含散景、动态与高斯模糊；自动识别背景与隐私人脸模糊。"
+  },
+  "seo": {
+    "breadcrumb_home": "首页",
+    "faq_title": "常见问题",
+    "faq": [
+      {
+        "question": "如何在 iPhone 上虚化照片背景？",
+        "answer": "下载 Make Blur，打开照片，使用自动识别背景或手动涂抹选区，再选择散景、动态模糊、高斯模糊等任一效果并保存。同一应用内也可模糊人脸以保护隐私。"
+      },
+      {
+        "question": "iPhone 上虚化背景用什么应用好？",
+        "answer": "Make Blur 是专注于背景与人脸虚化的 iPhone 应用：支持自动识别背景、隐私人脸模糊、七种模糊类型（含散景、动态与高斯模糊）以及简洁界面。早期用户评分约 4.5 星。"
+      },
+      {
+        "question": "如何在 iPhone 上模糊整张照片？",
+        "answer": "使用 Make Blur：打开照片，选择要虚化的区域或使用自动背景识别，按需模糊人脸，再选择散景、动态模糊、高斯模糊等效果并保存。"
+      },
+      {
+        "question": "虚化照片背景可以免费吗？",
+        "answer": "可以。Make Blur 可免费下载，支持虚化背景、人脸隐私模糊以及七种效果（含散景、动态与高斯模糊）。部分高级能力可能为可选内购；核心编辑可免费使用。"
+      },
+      {
+        "question": "如何在 iPhone 上模糊图片？",
+        "answer": "下载 Make Blur，打开图片，自动识别背景或手动涂抹，需要时用脸糊功能，再选散景、动态模糊、高斯模糊等样式并保存。"
+      },
+      {
+        "question": "虚化背景时有哪些模糊效果？",
+        "answer": "在 Make Blur 中可使用动态模糊、高斯模糊、鬼影、像素化、六边形、晶格化与散景。散景可营造浅景深与柔和高光光斑。七种效果均可用于背景或选定区域。"
+      },
+      {
+        "question": "为什么选 Make Blur 而不是其他虚化应用？",
+        "answer": "Make Blur 提供自动识别背景、专用的人脸隐私模糊、七种含散景的模糊效果，以及免费增值模式，核心工具可免费使用。许多竞品将基础虚化放在订阅后或广告之后，而 Make Blur 优先保证背景与人脸虚化的流程简单直接。"
+      },
+      {
+        "question": "与 iPhone 自带人像虚化相比如何？",
+        "answer": "系统人像模式仅适用于部分照片；Make Blur 可对相册中更多照片进行编辑，提供七种效果（动态模糊、高斯模糊、鬼影、像素化、六边形、晶格化、散景）、人脸隐私模糊，并对任意照片尝试自动背景识别，比仅依赖系统人像拥有更多创意与控制。"
+      },
+      {
+        "question": "Make Blur 比其他虚化应用更好吗？",
+        "answer": "Make Blur 的优势包括：合理的免费增值（无强制订阅）、七种含散景的模糊类型（多于许多竞品）、隐私人脸模糊、自动识别背景。早期用户约 4.5 星、下载超 1 万次，注重易用；不少竞品依赖订阅或在关键功能上设限。"
+      },
+      {
+        "question": "如何在 iPhone 上模糊照片中的人脸？",
+        "answer": "在 Make Blur 中使用人脸模糊流程：打开照片，选择人脸模糊选项，对检测到或选定的人脸应用模糊后再保存。适合在分享合影或公开场景照片时保护身份，无需电脑后期。"
+      },
+      {
+        "question": "Make Blur 里的散景滤镜有什么作用？",
+        "answer": "散景滤镜模拟浅景深：主体清晰，背景柔和虚化并带有自然高光光斑，类似大光圈人像镜头。它是七种模糊之一，与动态模糊、高斯模糊、鬼影、像素化、六边形、晶格化并列。"
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Make Blur",
+        "applicationCategory": "PhotoEditorApplication",
+        "operatingSystem": "iOS",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "10"
+        },
+        "description": "在 iPhone 上虚化背景与人脸。免费照片编辑器，含散景、动态模糊、高斯模糊等七种风格，并支持自动识别背景。"
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Make Blur",
+        "url": "https://makeblur.com",
+        "logo": "https://makeblur.com/img/logo.webp",
+        "description": "Make Blur — iPhone 照片编辑应用，支持背景虚化、人脸模糊及散景、动态模糊、高斯模糊等滤镜。"
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Make Blur",
+        "url": "https://makeblur.com",
+        "description": "用 Make Blur 在 iPhone 上虚化背景与人脸。散景及其他六种模糊风格；自动识别背景。",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://makeblur.com/cn/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "如何在 iPhone 上虚化背景",
+        "description": "使用 Make Blur 在 iPhone 上虚化照片背景的分步说明。",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "下载 Make Blur",
+            "text": "从 App Store 下载 Make Blur，在 iPhone 上开始虚化背景。",
+            "url": "https://apps.apple.com/app/id6749166426"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "打开照片",
+            "text": "从相册打开任意照片。应用可自动识别背景以便虚化。"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "选择模糊效果",
+            "text": "选择散景、动态模糊、高斯模糊等效果，按需模糊人脸，保存编辑后的照片。"
+          }
+        ]
+      }
+    }
+  }
+}

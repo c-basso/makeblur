@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{meta.lang}}">
+<html lang="{{meta.html_lang|html_attr}}">
 <head>
     <meta charset="UTF-8">
     
@@ -57,7 +57,7 @@
     
     <link rel="canonical" href="{{meta.canonical|html_attr}}">
     {{#each meta.alternate_languages as |lang|}}
-    <link rel="alternate" hreflang="{{lang.lang}}" href="{{lang.url|html_attr}}" />
+    <link rel="alternate" hreflang="{{lang.hreflang|html_attr}}" href="{{lang.url|html_attr}}" />
     {{/each}}
     <link rel="alternate" hreflang="x-default" href="{{meta.alternate_default|html_attr}}" />
     
@@ -84,17 +84,17 @@
                 <span class="app-name">{{header.app_name}}</span>
             </div>
             <div class="header-actions">
-                <div class="language-selector" data-current-lang="{{meta.lang}}">
+                <div class="language-selector" data-current-lang="{{meta.lang|html_attr}}">
                     <button class="language-selector-button" type="button" aria-label="Select language" aria-expanded="false">
-                        <span class="language-code">{{meta.lang}}</span>
+                        <span class="language-code">{{meta.lang|html_attr}}</span>
                         <svg class="language-chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M2 4L6 8L10 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                         </svg>
                     </button>
                     <div class="language-dropdown" role="menu">
                         {{#each meta.alternate_languages as |lang|}}
-                        <a href="{{lang.url}}" class="language-option" data-lang="{{lang.lang}}" role="menuitem">
-                            <span class="language-code">{{lang.lang}}</span>
+                        <a href="{{lang.url}}" class="language-option" data-lang="{{lang.code|html_attr}}" role="menuitem">
+                            <span class="language-code">{{lang.code|html_attr}}</span>
                         </a>
                         {{/each}}
                     </div>

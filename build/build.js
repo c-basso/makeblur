@@ -42,6 +42,13 @@ const {
             data.meta.alternate_default = SITE_URL;
             data.meta.alternate_languages = URLS;
 
+            /** BCP 47 <html lang> (path codes jp/cn are not valid language tags). */
+            const HTML_LANG_BY_CODE = {
+                cn: 'zh-CN',
+                jp: 'ja'
+            };
+            data.meta.html_lang = data.meta.html_lang || HTML_LANG_BY_CODE[lang] || data.meta.lang;
+
             // Ensure Open Graph logo is always present (absolute URL)
             if (!data.meta.og_logo) {
                 data.meta.og_logo = `${SITE_URL}img/logo.webp`;
@@ -70,7 +77,8 @@ const {
                     'th': 'th_TH',
                     'tr': 'tr_TR',
                     'uk': 'uk_UA',
-                    'vi': 'vi_VN'
+                    'vi': 'vi_VN',
+                    'cn': 'zh_CN'
                 };
                 data.meta.og_locale = localeMap[lang] || 'en_US';
             }

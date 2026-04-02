@@ -18,12 +18,20 @@ const LANGUAGES = [
     'th',
     'tr',
     'uk',
-    'vi'
+    'vi',
+    'cn'
 ];
 
-const URLS = LANGUAGES.map((lang) => ({
-    lang,
-    url: lang === DEFAULT_LANGUAGE ? SITE_URL : `${SITE_URL}${lang}/`
+/** BCP 47 hreflang values (URL path stays short: jp, cn, …). */
+const HREFLANG_BY_CODE = {
+    jp: 'ja',
+    cn: 'zh-CN'
+};
+
+const URLS = LANGUAGES.map((code) => ({
+    code,
+    hreflang: HREFLANG_BY_CODE[code] || code,
+    url: code === DEFAULT_LANGUAGE ? SITE_URL : `${SITE_URL}${code}/`
 }));
 
 const ADDITIONAL_URLS = [

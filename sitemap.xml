@@ -11,7 +11,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
     <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
-    <xhtml:link rel="alternate" hreflang="jp" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
     <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
@@ -20,6 +20,7 @@
     <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
     <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
     <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
     <priority>1.0</priority>
   </url>
 

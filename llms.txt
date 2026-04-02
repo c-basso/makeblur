@@ -22,9 +22,29 @@
 
 ## Main Sections
 
-- Landing: Background blur, face blur, Bokeh and other blur filters, App Store download
+- Landing: Background blur, face blur, Bokeh and other blur filters, App Store download (each locale below mirrors this content)
 - Blur types: Seven effects including Bokeh
 - FAQ: Blurring backgrounds and faces, effect list, comparison with other blur apps
+
+## Localized landing pages
+
+- English (default): https://makeblur.com/
+- Russian (`/ru/`): https://makeblur.com/ru/
+- Spanish (`/es/`): https://makeblur.com/es/
+- French (`/fr/`): https://makeblur.com/fr/
+- German (`/de/`): https://makeblur.com/de/
+- Italian (`/it/`): https://makeblur.com/it/
+- Portuguese (`/pt/`): https://makeblur.com/pt/
+- Japanese (`/jp/`, content `ja`): https://makeblur.com/jp/
+- Korean (`/ko/`): https://makeblur.com/ko/
+- Dutch (`/nl/`): https://makeblur.com/nl/
+- Polish (`/pl/`): https://makeblur.com/pl/
+- Romanian (`/ro/`): https://makeblur.com/ro/
+- Thai (`/th/`): https://makeblur.com/th/
+- Turkish (`/tr/`): https://makeblur.com/tr/
+- Ukrainian (`/uk/`): https://makeblur.com/uk/
+- Vietnamese (`/vi/`): https://makeblur.com/vi/
+- Simplified Chinese (`/cn/`, `zh-CN`): https://makeblur.com/cn/
 
 ## Contact
 

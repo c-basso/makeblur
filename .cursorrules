@@ -13,7 +13,7 @@
 
 - `build/template.html` - Main template file for generating HTML
 - `build/build.js` - Build script that generates HTML from template
-- `build/*.json` - Translation files for multiple languages (en, ru, de, es, fr, it, pt)
+- `build/*.json` - Translation files for multiple languages (en, ru, es, fr, de, it, pt, jp, ko, nl, pl, ro, th, tr, uk, vi, cn)
 - `index.html` - Generated file for English (do not edit directly)
 - `*/index.html` - Generated files for language-specific pages (de, es, fr, it, pt, ru) - do not edit directly
 - `style.css` - Main stylesheet
