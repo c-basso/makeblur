@@ -18,7 +18,7 @@
   "header": {
     "logo_alt": "Make Blur — Blur App fürs iPhone (Hintergrund unscharf)",
     "app_name": "Make Blur",
-    "download_text": " Laden"
+    "download_text": "Laden"
   },
   "hero": {
     "title": "Hintergrund unscharf auf dem iPhone — Fotos in Sekunden aufwerten",
@@ -143,7 +143,7 @@
   },
   "comparison": {
     "title": "Make Blur vs andere Unschärfe-Apps",
-    "intro": "Vergleichen Sie Make Blur mit anderen Apps zum Unscharfmachen des Hintergrunds auf iPhone. Wir haben einen objektiven Vergleich erstellt, um Ihnen bei der Auswahl der besten App zu helfen.",
+    "intro": "Vergleiche Make Blur mit anderen Unschärfe-Apps fürs iPhone. Unser sachlicher Überblick hilft dir, die passende App zu wählen.",
     "table": {
       "feature_label": "Funktion",
       "competitors": [
@@ -189,14 +189,14 @@
           "value3": "Manchmal"
         },
         {
-          "name": "Bewertung Benutzerfreundlichkeit",
-          "value1": "4.5 Sterne",
-          "value2": "3.5-4.2 Sterne",
-          "value3": "4.0-4.5 Sterne"
+          "name": "Bewertung (Bedienung)",
+          "value1": "ca. 4,5/5",
+          "value2": "ca. 3,5 – 4,2/5",
+          "value3": "ca. 4,0 – 4,5/5"
         }
       ]
     },
-    "note": "Daten basierend auf App Store-Informationen von April 2026. Make Blur kombiniert Hintergrund-Unschärfe, Face Blur und Filter wie Bokeh — mit Fokus auf Bedienkomfort und freemium Zugang zu Kernfunktionen."
+    "note": "Auf App-Store-Informationen (April 2026) gestützt. Make Blur: Hintergrund, Gesichter, Filter inkl. Bokeh, einfache Bedienung und im Freemium-Modell in der Regel kostenloser Zugang zu den Kernfunktionen."
   },
   "how_it_works": {
     "title": "Hintergrund auf dem iPhone unscharf machen — Schritt für Schritt",
@@ -240,31 +240,59 @@
     "faq": [
       {
         "question": "Wie kann ich den Hintergrund auf dem iPhone unscharf machen?",
-        "answer": "Lade Make Blur, öffne dein Foto, nutze die Auto-Hintergrund-Erkennung oder male eine Maske. Wähle einen Effekt — Bokeh, motion blur, Gaußsche Unschärfe usw. — und optional Face Blur, dann speichern."
+        "answer": "Lade <strong>Make Blur</strong> herunter, öffne dein Foto und lass die App den <strong>Hintergrund automatisch erkennen</strong> (oder <strong>zeichne</strong> eine <strong>Maske mit dem Pinsel</strong>). Wähle <strong>Bokeh</strong>, <strong>Motion Blur</strong>, <strong>Gaußsche Unschärfe</strong> oder einen der anderen <strong>sieben</strong> Stile, nutze bei Bedarf <strong>Face Blur</strong> für die Privatsphäre und <strong>speichere</strong> das Ergebnis."
       },
       {
-        "question": "Welche Blur App ist am besten für iPhone?",
-        "answer": "Make Blur: Auto-Erkennung, Face Blur, sieben Effekte inkl. Bokeh, motion blur und Gaußsche Unschärfe — einfache Bedienung auf dem iPhone."
+        "question": "Welche App eignet sich am besten, um den Foto-Hintergrund auf dem iPhone unscharf zu machen?",
+        "answer": "<strong>Make Blur</strong> fokussiert <strong>Hintergrund</strong> und <strong>Gesichter</strong> mit <strong>automatischer Hintergrunderkennung</strong>, <strong>Face Blur</strong> und <strong>sieben</strong> Stilen, darunter <strong>Bokeh</strong>, Motion und Gauß — mit klarer Oberfläche auf dem <strong>iPhone</strong>. Viele frühe Nutzerbewertungen liegen um <strong>4,5/5</strong> Sterne."
       },
       {
-        "question": "Wie mache ich blur photo oder blur image auf dem iPhone?",
-        "answer": "Öffne das Bild in Make Blur, wähle Auto-Modus für den Hintergrund oder markiere Bereiche manuell, wende den Effekt an und speichere. So erstellst du blur photo und blur image in wenigen Tipps."
+        "question": "Wie mache ich ein Foto auf dem iPhone unscharf (ein ganzes Bild)?",
+        "answer": "In <strong>Make Blur</strong> <strong>öffnest du</strong> das Foto, legst <strong>fest, was weichgezeichnet werden soll</strong>, oder aktivierst die <strong>automatische Tiefen-/Hintergrunderkennung</strong> — ggf. mit <strong>Face Blur</strong>. Dann wählst du <strong>Bokeh</strong>, <strong>Motion</strong>, <strong>Gauß</strong> oder die anderen <strong>sieben</strong> Stile und <strong>speicherst</strong>."
       },
       {
-        "question": "Kann ich Gesichter unkenntlich machen (blur face / face blur)?",
-        "answer": "Ja. Mit Make Blur kannst du face blur (blur face) nutzen, um Gesichter oder sensible Details schnell unscharf zu machen — ideal für Privatsphäre."
+        "question": "Kann ich den Hintergrund kostenlos unscharf machen?",
+        "answer": "Ja. <strong>Make Blur</strong> lässt sich <strong>kostenlos herunterladen</strong>; in der Basis nutzt du <strong>Hintergrund-Unschärfe</strong>, <strong>Face Blur</strong> und <strong>sieben</strong> Stile, u. a. Bokeh, Motion und Gauß. <strong>Zusatzfunktionen</strong> sind teils <strong>In-App-Käufe</strong>; <strong>die Kern-Bearbeitung</strong> bleibt oft <strong>ohne</strong> erzwungenes <strong>Abonnement</strong> nutzbar — prüf die <strong>App-Store-Seite</strong>."
       },
       {
-        "question": "Brauche ich Photoshop blur, um Hintergrund-Unschärfe zu machen?",
-        "answer": "Nein. Du kannst den Hintergrund direkt auf dem iPhone mit Make Blur unscharf machen — schneller und einfacher als Photoshop blur."
+        "question": "Wie mache ich ein gespeichertes Bild bzw. eine Datei aus der Galerie unscharf?",
+        "answer": "Installiere <strong>Make Blur</strong> im <strong>App Store</strong>, <strong>öffne</strong> die <strong>Datei</strong> aus der Galerie, nutze <strong>automatische Hintergrunderkennung</strong> oder <strong>male eine Maske</strong>, wende ggf. <strong>Face Blur</strong> an, wähle aus den <strong>sieben</strong> Stilen (Bokeh, Motion, Gauß, …) und <strong>speichere</strong> das bearbeitete Bild."
       },
       {
-        "question": "Was ist motion blur?",
-        "answer": "Motion blur ist ein Effekt der Bewegungsunschärfe. Er erzeugt Dynamik, als ob sich Motiv oder Kamera bewegt. In Make Blur kannst du motion blur als blur effect anwenden."
+        "question": "Welche Unschärfe-Effekte kann ich nutzen, um den Hintergrund weichzuzeichnen?",
+        "answer": "Neben <strong>Motion Blur</strong>, <strong>Gaussian Blur</strong>, <strong>Ghosting</strong>, <strong>Pixelate</strong>, <strong>Hexagonal</strong>, <strong>Crystalize</strong> und <strong>Bokeh</strong> stehen dir insgesamt <strong>sieben</strong> Stile zur Verfügung. <strong>Bokeh</strong> erzeugt einen Look mit geringer <strong>Schärfentiefe</strong> und weichen <strong>Lichtern</strong> im Hintergrund. Anwendung auf <strong>den Hintergrund</strong> oder <strong>maskierte Bereiche</strong>."
       },
       {
-        "question": "Was macht der Bokeh-Filter in Make Blur?",
-        "answer": "Bokeh simuliert geringe Schärfentiefe: das Motiv bleibt scharf, der Hintergrund wird weich mit natürlichen Lichtpunkten — wie bei einem Porträtobjektiv. Bokeh ist einer von sieben Effekten neben motion blur, Gaußscher Unschärfe, Ghosting, Pixelate, Hexagonal und Crystalize."
+        "question": "Warum Make Blur statt einer anderen Unschärfe-App wählen?",
+        "answer": "<strong>Make Blur</strong> kombiniert <strong>automatische Hintergrunderkennung</strong>, <strong>Face Blur</strong> (Privatsphäre), <strong>Bokeh</strong> und <strong>sechs</strong> weitere Stile in einem <strong>Freemium-Modell</strong>, in dem <strong>das Wesentliche</strong> vorerst <strong>gratis</strong> zugänglich ist. Manche Wettbewerber verpacken leichte Unschärfe hinter <strong>Abo-Druck</strong> und <strong>Werbung</strong> — hier steht <strong>erst Hintergrund, bei Bedarf Gesichter</strong> im Fokus."
+      },
+      {
+        "question": "Was ist der Unterschied zu Portrait-Modus bzw. eingebautem Hintergrund-Effekt auf dem iPhone?",
+        "answer": "Der <strong>Portrait-Modus</strong> bzw. die <strong>System-Optik</strong> hängt stark von <strong>Aufnahmezeitpunkt</strong> und <strong>Umgebungslicht</strong> ab. <strong>Make Blur</strong> arbeitet mit <strong>jedem gespeicherten Foto</strong> aus der Galerie, bietet <strong>sieben</strong> Stile plus <strong>Face Blur</strong> und <strong>automatische Erkennung + Pinsel</strong> in einem Ablauf — damit hast du in vielen Szenen <strong>mehr Wahl</strong> als mit nur einem <strong>fest eingestellten</strong> System-Werkzeug."
+      },
+      {
+        "question": "Ist Make Blur besser als andere Unschärfe-Apps?",
+        "answer": "Abhängig von deinen Anforderungen, aber: <strong>kein forciertes Abo</strong> in der Tendenz, <strong>sieben</strong> Stile inkl. <strong>Bokeh</strong>, <strong>Face Blur</strong> und <strong>Auto</strong> — plus grob <strong>4,5</strong> Sterne, <strong>10.000+</strong> Downloads, <strong>Schwerpunkt</strong> auf <strong>Bedienkomfort</strong>. Manche <strong>Apps</strong> verstecken den Kern hinter <strong>Paywall</strong> und <strong>stark eingeschränkter Gratis-Version</strong> — lohnt sich <strong>ein Vergleich in der Praxis</strong>."
+      },
+      {
+        "question": "Wie verwische ich nur Gesichter in einem Foto (auf dem iPhone)?",
+        "answer": "In <strong>Make Blur</strong> wählst du nach dem Öffnen <strong>Face Blur bzw. Gesichter weichzeichnen</strong> und wendest die Unschärfe auf <strong>erkannte</strong> oder <strong>von dir markierte</strong> Gesichter an, <strong>bevor du speicherst</strong> — praktisch für <strong>Gruppenbilder</strong> und <strong>öffentlich geteilte</strong> Aufnahmen, <strong>ohne</strong> vorerst an den <strong>Rechner</strong> zu müssen."
+      },
+      {
+        "question": "Was bewirkt der Bokeh-Filter in Make Blur?",
+        "answer": "Der <strong>Bokeh-Filter</strong> ahmt <strong>wenig Schärfentiefe</strong> nach: scharfes <strong>Subjekt</strong>, <strong>weichgezeichneter</strong> Hintergrund und <strong>natürliche Lichthöfe</strong> (Bokeh-Kreise) — ähnlich einem <strong>hellen Porträtobjektiv</strong>. Er ist <strong>einer von sieben</strong> Stilen neben motion blur, Gaussian, ghosting, pixelate, hexagonal, crystalize."
+      },
+      {
+        "question": "Kann ich nur einen Ausschnitt des Fotos weichzeichnen?",
+        "answer": "Ja. <strong>Automatische Hintergrunderkennung</strong> lässt sich mit dem <strong>Zeichen- bzw. Maskenwerkzeug</strong> verbinden, damit <strong>präzise</strong> festgelegt wird, was stärker unscharf ist — und du kannst <strong>automatische</strong> Masken <strong>manuell nachbessern</strong>, ehe du <strong>speicherst</strong>."
+      },
+      {
+        "question": "Eignet sich die App, um Kennzeichen, sichtbare Daten oder Personen stärker zu verdecken?",
+        "answer": "Im Rahmen einer <strong>Fotobearbeitungs-App</strong> helfen <strong>Face Blur</strong> oder starker <strong>Pixel- / Weichzeichnungsgrad</strong>, sichtbare <strong>Identitätsmerkmale</strong> stärker zu <strong>verschleiern</strong> — in manchen Fällen auch <strong>Nummern auf Kennzeichen</strong>. <strong>Kein Ersatz</strong> für <strong>Rechtsberatung</strong> — in <strong>rechtlich brisanten</strong> Fällen <strong>professionell beraten lassen</strong> (Kontext <strong>Land / Region</strong>)."
+      },
+      {
+        "question": "Sind meine Fotos und Daten in Make Blur sicher?",
+        "answer": "Laut typischer <strong>Entwickler-Intention</strong> findet viel <strong>auf dem iPhone in der App</strong> statt, soweit das Produkt vorsieht. Zu <strong>Cloud-Upload</strong>, <strong>Datenumfang</strong> und <strong>Datenschutz</strong> gelten die <strong>jeweils aktuellen</strong> Texte auf der <strong>Website</strong> bzw. im <strong>App Store</strong> — <strong>bitte</strong> vor dauerhaftem Gebrauch <strong>lesen</strong>."
       }
     ],
     "structured_data": {

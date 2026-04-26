@@ -1,0 +1,13 @@
+key	en-US	th-TH	notes
+product_name	Make Blur	Make Blur	ยี่ห้อ
+platform	iPhone	iPhone	สะกดตาม Apple
+store	App Store	App Store	คำศัพท์อังกฤษไม่แปล
+bokeh	Bokeh	โบเก (bokeh)	UI อาจใส่วงเล็บ bokeh
+motion_blur	motion blur	motion blur, เบลอแนวเคลื่อนไหว	คู่ motion + คำไทยในประโยคยาว
+gaussian	gaussian blur	gaussian, เบลอแกสเซียน	ใช้คู่กับฝั่งค้น
+auto_detect	background auto-detect	ตรวจจับพื้นหลังอัตโนมัติ	สั้น: จับพื้นหลัง
+face_blur	blur face(s)	เบลอใบหน้า (เพื่อความเป็นส่วนตัว)	
+in_app_purchase	in-app	ซื้อในแอป, IAP	คง IAP ตาม App Store
+mask	custom mask	มาสก์, ลากมาสก์	คำอธิบายเครื่องมือ
+register	you (user)	คุณ, รูปกลุ่ม/แทนที่ไม่เน้นละตัวเอง	โทนมาร์กเกตสั้น
+freemium	freemium	freemium	อธิบาย: ดาวน์โหลดฟรี + ซื้อเพิ่มบางรายการ

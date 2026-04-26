@@ -18,7 +18,7 @@
   "header": {
     "logo_alt": "Make Blur — aplikacja do rozmycia tła na iPhone",
     "app_name": "Make Blur",
-    "download_text": " Pobierz teraz"
+    "download_text": "Pobierz teraz"
   },
   "hero": {
     "title": "Rozmycie tła na iPhone — szybko i bez stresu",
@@ -244,43 +244,59 @@
     "faq": [
       {
         "question": "Jak rozmyć tło na iPhone?",
-        "answer": "Pobierz Make Blur, otwórz zdjęcie, auto lub maska. Wybierz bokeh, gaussian, motion itd.; opcjonalnie rozmycie twarzy; zapisz."
+        "answer": "Pobierz <strong>Make Blur</strong>, otwórz zdjęcie i pozwól aplikacji <strong>automatycznie wykryć tło</strong> (albo narysuj własną maskę). Następnie wybierz efekt — m.in. <strong>bokeh</strong>, <strong>motion blur</strong> lub <strong>rozmycie gaussa</strong> — i <strong>zapisz plik</strong>. W tej samej aplikacji możesz też <strong>rozmyć twarze</strong> dla prywatności."
       },
       {
         "question": "Jaka jest najlepsza aplikacja do rozmycia tła na iPhone?",
-        "answer": "Make Blur: auto-wykrywanie, rozmycie twarzy, 7 efektów z bokeh, przejrzysty UI (~4,5★)."
+        "answer": "<strong>Make Blur</strong> to dedykowana aplikacja do rozmycia <strong>tła i twarzy</strong> na iPhone, z <strong>automatycznym wykrywaniem tła</strong>, siedmioma typami rozmycia, w tym <strong>bokeh</strong>, <strong>motion blur</strong> i <strong>rozmyciem gaussa</strong>, oraz czytelnym interfejsem. Wcześni użytkownicy zwykle oceniają ją na ok. <strong>4,5/5</strong> gwiazdek."
+      },
+      {
+        "question": "Jak rozmyć zdjęcie na iPhone?",
+        "answer": "Użyj <strong>Make Blur</strong>. Otwórz zdjęcie, wskaż <strong>obszar do rozmycia</strong> albo włącz <strong>auto-tło</strong>, w razie potrzeby wybierz <strong>rozmycie twarzy</strong>, a następnie zastosuj <strong>bokeh</strong>, <strong>motion blur</strong>, <strong>gaussian</strong> lub inny z <strong>siedmiu</strong> stylów i <strong>zapisz</strong>."
       },
       {
         "question": "Czy mogę rozmyć tło zdjęcia za darmo?",
-        "answer": "Tak, aplikację pobierzesz bezpłatnie i skorzystasz z podstawowych funkcji rozmycia. Część zaawansowanych opcji może być płatna w aplikacji — szczegóły znajdziesz w opisie w App Store."
+        "answer": "Tak. <strong>Make Blur</strong> możesz pobrać bezpłatnie: w podstawowym pakiecie rozmywasz tło, rozmywasz twarze i używasz <strong>siedmiu</strong> efektów, m.in. bokeh, motion i gaussian. Część <strong>opcji zaawansowanych</strong> może być w <strong>zakupach w aplikacji</strong>; <strong>podstawowa edycja</strong> zwykle działa <strong>bez płatności</strong> z góry."
       },
       {
-        "question": "Czym to się różni od trybu portretowego na iPhone?",
-        "answer": "Tryb portretowy działa głównie w momencie zdjęcia i przy określonych warunkach. Make Blur otwiera <strong>już zapisane zdjęcia</strong> z galerii, oferuje kilka stylów rozmycia i łączy auto-wykrywanie z pędzlem ręcznym."
+        "question": "Jak rozmyć obraz (plik) na iPhone?",
+        "answer": "Pobierz <strong>Make Blur</strong> w App Store. <strong>Otwórz plik</strong> z galerii, włącz <strong>automatyczne wykrywanie tła</strong> albo narysuj <strong>maskę</strong>, w razie potrzeby użyj <strong>rozmycia twarzy</strong>, wybierz <strong>bokeh</strong>, <strong>motion blur</strong>, <strong>gaussian</strong> lub inny styl i <strong>zapisz</strong> przerobiony obraz na iPhone."
       },
       {
-        "question": "Jakie efekty rozmycia są dostępne?",
-        "answer": "Motion, gaussian, ghosting, pixelate, hexagonal, crystalize i bokeh — 7 stylów. Bokeh daje miękkie tło z punktami światła."
+        "question": "Jakich efektów rozmycia używać, żeby rozmyć tło na iPhone?",
+        "answer": "W <strong>Make Blur</strong> do dyspozycji są m.in. <strong>motion blur</strong>, <strong>rozmycie gaussa (gaussian)</strong>, <strong>ghosting</strong>, <strong>pixelate</strong>, <strong>hexagonal</strong>, <strong>crystalize</strong> i <strong>bokeh</strong>. <strong>Bokeh</strong> daje wrażenie płytkiej głębi ostrości z miękimi, rozmytymi plamami światła. Wszystkie <strong>siedem</strong> stylów możesz zastosować do <strong>tła</strong> albo <strong>wybranych obszarów</strong>."
       },
       {
-        "question": "Dlaczego wybrać Make Blur zamiast innych aplikacji?",
-        "answer": "Freemium, 7 efektów z bokeh, rozmycie twarzy, wykrywanie tła i pędzel."
+        "question": "Dlaczego wybrać Make Blur zamiast innych aplikacji do rozmycia?",
+        "answer": "<strong>Make Blur</strong> łączy <strong>automatyczne wykrywanie tła</strong>, <strong>rozmycie twarzy</strong> (prywatność), <strong>siedem</strong> stylów, w tym <strong>bokeh</strong>, i model <strong>freemium</strong> z darmowymi narzędziami podstawowymi. Część konkurencji blokuje proste rozmycie <strong>subskrypcjami</strong> albo naciska <strong>reklamą</strong>, a <strong>Make Blur</strong> stawia na szybki, zrozumiały schemat: tło, a w razie potrzeby twarze."
       },
       {
-        "question": "Czy mogę rozmyć tylko część zdjęcia?",
-        "answer": "Tak, narzędzie do rysowania pozwala wskazać, które fragmenty mają być bardziej rozmyte, obok lub zamiast automatycznego tła."
+        "question": "Jak Make Blur ma się do wbudowanego rozmycia (tryb portretowy) na iPhone?",
+        "answer": "Rozmycie w <strong>trybie portretowym</strong> iPhone zwykle odnosi się do ujęcia w momencie wykonania. <strong>Make Blur</strong> otwiera <strong>dowolne zdjęcie z galerii</strong> i oferuje m.in. <strong>siedem</strong> efektów, <strong>rozmycie twarzy</strong> oraz wykrywanie tła — w wielu przypadkach daje więcej <strong>kontroli i różnorodności</strong> niż tylko jedno ustawienie systemu."
       },
       {
-        "question": "Czy aplikacja nadaje się do ukrywania twarzy lub tablic rejestracyjnych?",
-        "answer": "Tak: rozmycie twarzy lub mocne blur/pikselizacja. Sprawdź efekt; w sprawach formalnych skonsultuj się z ekspertem."
+        "question": "Czy Make Blur jest lepsza od innych aplikacji do rozmycia?",
+        "answer": "<strong>Make Blur</strong> oferuje m.in. uczciwy <strong>freemium</strong> (bez wymuszonej subskrypcji), <strong>siedem</strong> typów rozmycia z <strong>bokeh</strong> (często więcej niż u części konkurencji), <strong>rozmycie twarzy</strong> i <strong>auto-tło</strong>, ok. <strong>4,5</strong> gwiazdki w ocenach wczesnych użytkowników i <strong>10&nbsp;000+ pobrań</strong>. Wiele innych programów wciąga w <strong>płatne bariery</strong> albo ogranicza darmową wersję mocniej."
       },
       {
-        "question": "Co robi filtr bokeh w Make Blur?",
-        "answer": "Naśladuje płytką głębię ostrości: ostry obiekt, miękkie tło z naturalnymi światłami. Jeden z siedmiu stylów."
+        "question": "Jak rozmyć twarze na zdjęciu (na iPhone)?",
+        "answer": "W <strong>Make Blur</strong> otwórz zdjęcie, wybierz <strong>opcję rozmycia twarzy</strong> i zastosuj efekt do wykrytych albo zaznaczonych twarzy przed <strong>zapisem</strong>. To rozwiązanie prywatnościowe m.in. dla zdjęć grupowych lub w przestrzeni publicznej, bez <strong>komputera stacjonarnego</strong>."
       },
       {
-        "question": "Czy moje zdjęcia są bezpieczne?",
-        "answer": "Obróbka odbywa się w aplikacji na urządzeniu zgodnie z założeniami dewelopera. Szczegóły przetwarzania danych znajdziesz w polityce prywatności na stronie."
+        "question": "Co robi filtr Bokeh w Make Blur?",
+        "answer": "Filtr <strong>bokeh</strong> naśladuje płytką głębię ostrości: ostry <strong>obiekt główny</strong> i miękkie tło z naturalnie wyglądającymi, rozproszonymi <strong>punktami światła</strong> (jak szybki obiektyw portretowy). Jeden z <strong>siedmiu</strong> stylów, obok m.in. motion, gaussian, ghosting, pixelate, hexagonal i crystalize."
+      },
+      {
+        "question": "Czy mogę rozmyć tylko fragment zdjęcia?",
+        "answer": "Tak. Możesz połączyć <strong>automatyczne tło</strong> z <strong>narzędziem rysowania</strong>, wskazując, co ma być mocniej rozmyte, albo dopracować maskę, zanim <strong>zapiszesz wynik</strong>."
+      },
+      {
+        "question": "Czy to się nadaje do ukrywania twarzy, tablic rejestracyjnych lub wrażliwych danych?",
+        "answer": "Tak, w zakresie edycji zdjęć: <strong>rozmycie twarzy</strong> albo mocne rozmycie / <strong>pikselizację</strong> ograniczają czytelność szczegółów (także <strong>tablic</strong> rejestracyjnych). To <strong>nie</strong> jest porada prawna — w kwestiach prawnych lub mocno wrażliwych zasięgnij opinii u <strong>fachowca</strong> w Twojej jurysdykcji."
+      },
+      {
+        "question": "Czy moje dane i zdjęcia w Make Blur są bezpieczne?",
+        "answer": "Zgodnie z intencją dewelopera duża część <strong>obróbki ma miejsce na iPhone, w samej aplikacji</strong>. Aktualne reguły przechowywania, transmisji i prywatności znajdziesz w <strong>polityce prywatności</strong> na stronie i w opisie w <strong>App Store</strong> — warto je przeczytać przed użyciem."
       }
     ],
     "structured_data": {
@@ -314,11 +330,11 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Make Blur",
-        "url": "https://makeblur.com",
+        "url": "https://makeblur.com/pl/",
         "description": "Make Blur: tło i twarze na iPhone. Bokeh i 6 innych stylów.",
         "potentialAction": {
           "@type": "SearchAction",
-          "target": "https://makeblur.com/?q={search_term_string}",
+          "target": "https://makeblur.com/pl/?q={search_term_string}",
           "query-input": "required name=search_term_string"
         }
       },

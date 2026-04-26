@@ -18,7 +18,7 @@
   "header": {
     "logo_alt": "Make Blur — app pour flouter l’arrière-plan sur iPhone",
     "app_name": "Make Blur",
-    "download_text": " Télécharger"
+    "download_text": "Télécharger"
   },
   "hero": {
     "title": "Flouter l’arrière-plan sur iPhone — transformez vos photos sans effort",
@@ -189,32 +189,14 @@
           "value3": "Parfois"
         },
         {
-          "name": "Note facilité d'utilisation",
-          "value1": "4.5 étoiles",
-          "value2": "3.5-4.2 étoiles",
-          "value3": "4.0-4.5 étoiles"
-        },
-        {
-          "name": "Avis utilisateurs",
-          "value1": "10+ avis",
-          "value2": "50-200 avis",
-          "value3": "200-1,000 avis"
-        },
-        {
-          "name": "Téléchargements",
-          "value1": "10,000+",
-          "value2": "20,000-100,000",
-          "value3": "50,000-200,000"
-        },
-        {
-          "name": "Compatibilité iOS",
-          "value1": "iOS 15+",
-          "value2": "iOS 14+",
-          "value3": "iOS 13+"
+          "name": "Appréciation (facilité d’utilisation)",
+          "value1": "environ 4,5 / 5",
+          "value2": "environ 3,5 – 4,2 / 5",
+          "value3": "environ 4,0 – 4,5 / 5"
         }
       ]
     },
-    "note": "Données App Store — avril 2026. Make Blur combine flou de fond, blur face et filtres dont le bokeh, avec facilité d’usage et modèle freemium."
+    "note": "Données issues de l’App Store — avril 2026. Make Blur : arrière-plan, visages, filtres dont bokeh, prise en main simple et cœur de fonctionnalités en freemium."
   },
   "how_it_works": {
     "title": "Comment flouter l’arrière-plan sur iPhone — guide étape par étape",
@@ -258,31 +240,59 @@
     "faq": [
       {
         "question": "Comment flouter l’arrière-plan sur iPhone ?",
-        "answer": "Téléchargez Make Blur, ouvrez la photo, détection auto ou masque manuel. Choisissez bokeh, flou gaussien, motion blur, etc. ; blur face si besoin. Enregistrez."
+        "answer": "Téléchargez <strong>Make Blur</strong>, ouvrez la photo, laissez l’appli <strong>détecter l’arrière-plan</strong> (ou tracez un <strong>masque</strong> au pinceau). Puis choisissez <strong>bokeh</strong>, <strong>motion blur</strong>, <strong>flou gaussien</strong> ou un autre style parmi <strong>sept</strong>, floutez les <strong>visages</strong> si besoin pour la vie privée, et <strong>enregistrez</strong>."
       },
       {
-        "question": "Quelle est la meilleure app pour flouter le fond d’une photo ?",
-        "answer": "Make Blur : détection auto, blur face, sept effets dont bokeh, motion blur et flou gaussien, interface simple sur iPhone."
+        "question": "Quelle est la meilleure appli pour flouter le fond d’une photo sur iPhone ?",
+        "answer": "<strong>Make Blur</strong> est conçu pour l’<strong>iPhone</strong> : <strong>flou d’arrière-plan</strong> et de <strong>visages</strong>, <strong>détection automatique du fond</strong>, <strong>sept</strong> effets (dont <strong>bokeh</strong>, motion blur, flou gaussien) et un parcours <strong>clairement découpé</strong>. Les premiers retours utilisateurs tournent souvent autour de <strong>4,5/5</strong>."
       },
       {
-        "question": "How to blur a picture on iPhone ?",
-        "answer": "Avec Make Blur : ouvrez la photo, utilisez la détection automatique pour le fond (blur background) ou sélectionnez une zone, appliquez l’effet (motion blur, flou gaussien, etc.) puis enregistrez. C’est rapide et accessible."
+        "question": "Comment flouter une photo sur iPhone ?",
+        "answer": "Avec <strong>Make Blur</strong> : <strong>ouvrez l’image</strong>, ciblez la <strong>zone</strong> à flouter ou activez l’<strong>auto-détection d’arrière-plan</strong> ; en option, <strong>flou des visages</strong>. Puis appliquer <strong>bokeh</strong>, <strong>motion</strong>, <strong>flou gaussien</strong> (sur <strong>sept</strong> possibilités) et <strong>enregistrer</strong> le résultat."
       },
       {
-        "question": "Puis-je flouter gratuitement ?",
-        "answer": "Oui. Gratuit : flou de fond, blur face et sept styles dont bokeh. Certaines options avancées peuvent être en achat intégré."
+        "question": "Puis-je flouter le fond d’une photo gratuitement ?",
+        "answer": "Oui. Téléchargez l’<strong>app gratuitement</strong> : le cœur inclut <strong>flou d’arrière-plan</strong>, <strong>flou de visage</strong> (confidentialité) et <strong>sept</strong> effets, dont <strong>bokeh</strong>, <strong>motion</strong> et <strong>flou gaussien</strong>. Quelques <strong>options avancées</strong> peuvent être proposées en <strong>achat intégré</strong> ; l’<strong>édition de base</strong> reste en règle générale <strong>sans abonnement</strong> obligatoire. Consultez la fiche de l’<strong>App Store</strong> pour l’offre en vigueur."
       },
       {
-        "question": "Qu’est-ce que motion blur ?",
-        "answer": "Motion blur est un effet de flou de mouvement qui ajoute de la dynamique, comme si la scène allait plus vite. Dans Make Blur, vous pouvez appliquer motion blur pour un rendu plus vivant."
+        "question": "Comment flouter une image (fichier) enregistré dans le téléphone (iPhone) ?",
+        "answer": "Installez d’abord <strong>Make Blur</strong> sur l’<strong>App Store</strong>, puis <strong>ouvrez le fichier</strong> depuis la photothèque. <strong>Activez la détection d’arrière-plan</strong> ou <strong>dessinez un masque</strong>, <strong>flou des visages</strong> le cas échéant, choisissez parmi <strong>sept</strong> effets, puis <strong>enregistrez</strong> l’image retouchée sur l’iPhone."
       },
       {
-        "question": "Peut-on faire blur face pour la confidentialité ?",
-        "answer": "Oui. Floutez un visage ou une zone pour la confidentialité, en plus de l’arrière-plan — idéal avant de partager."
+        "question": "Quels effets de flou puis-je utiliser pour l’arrière-plan sur iPhone ?",
+        "answer": "Vous avez notamment <strong>motion blur</strong>, <strong>flou gaussien (gaussian)</strong>, <strong>ghosting</strong>, <strong>pixelate</strong>, <strong>hexagonal</strong>, <strong>crystalize</strong> et <strong>bokeh</strong>. Le <strong>bokeh</strong> évoque une <strong>faible profondeur de champ</strong> avec de doux <strong>halos</strong> dans les zones claires. Les <strong>sept</strong> effets s’appliquent à l’<strong>arrière-plan</strong> ou à des <strong>zones</strong> que vous masquez manuellement."
       },
       {
-        "question": "À quoi sert le filtre bokeh dans Make Blur ?",
-        "answer": "Le bokeh simule une faible profondeur de champ : sujet net, arrière-plan doux avec points lumineux naturels. C’est l’un des sept styles avec motion blur, flou gaussien, ghosting, pixelate, hexagonal et crystalize."
+        "question": "Pourquoi choisir Make Blur plutôt qu’une autre appli de flou ?",
+        "answer": "<strong>Make Blur</strong> s’appuie sur la <strong>détection automatique du fond</strong>, le <strong>flou ciblé des visages</strong>, <strong>sept</strong> effets, dont <strong>bokeh</strong>, et un <strong>modèle freemium</strong> qui laisse d’abord l’<strong>essentiel</strong> accessible. Beaucoup d’<strong>apps concurrentes</strong> bloquent le flou de base derrière <strong>abonnements</strong> ou inondent l’<strong>écran de publicités</strong> ; ici, la logique vise d’abord <strong>le fond, puis le visage si la situation l’impose</strong>."
+      },
+      {
+        "question": "En quoi Make Blur se distingue-t-il du mode Portrait / du flou intégré à l’iPhone ?",
+        "answer": "Le <strong>mode Portrait</strong> d’<strong>iOS</strong> cible le moment de la <strong>prise de vue</strong> et l’<strong>éclairage</strong> réel. <strong>Make Blur</strong> s’ouvre sur <strong>n’importe quelle photo de la galerie</strong>, apporte <strong>sept</strong> profils, <strong>flou de visage</strong> et <strong>détection du fond</strong> un même <strong>flux de travail</strong>, offrant en pratique plus de <strong>variété</strong> qu’un <strong>réglage intégré seul</strong> dans beaucoup de scénarios."
+      },
+      {
+        "question": "Make Blur est-il meilleur que les autres applis de flou ?",
+        "answer": "Tout dépend des <strong>besoins</strong>, mais l’<strong>offre freemium</strong> raisonnable (peu d’<strong>obligation d’abonnement</strong>), <strong>sept</strong> effets, dont <strong>bokeh</strong>, <strong>flou des visages</strong>, <strong>détection d’arrière-plan</strong>, <strong>environ 4,5</strong> sur 5 côté avis et <strong>plus de 10&nbsp;000</strong> <strong>téléchargements</strong> mis en avant pour la <strong>simplicité d’utilisation</strong> sont de notables <strong>atouts</strong>. D’autres <strong>applis</strong> resserrent tôt l’<strong>accès payant</strong> (paywall) ou l’<strong>offre gratuite</strong> raccourcie."
+      },
+      {
+        "question": "Comment flouter des visages sur une photo (sur iPhone) ?",
+        "answer": "Dans <strong>Make Blur</strong> : <strong>ouvrez l’image</strong>, lancez le <strong>flou ciblé des visages</strong>, appliquez l’<strong>effet</strong> sur les <strong>visages détectés</strong> ou <strong>sur une zone que vous avez tracée</strong>, avant <strong>d’enregistrer</strong> — utile pour <strong>respecter la vie privée</strong> sur <strong>photos de groupe</strong> ou vues de rue, <strong>sans enchaîner</strong> par un <strong>logiciel sur ordinateur de bureau</strong>."
+      },
+      {
+        "question": "À quoi sert le filtre Bokeh dans Make Blur ?",
+        "answer": "Le <strong>bokeh</strong> rappelle une <strong>profondeur de champ</strong> courte, façon <strong>objectif portrait</strong> rapide : le <strong>premier plan reste net</strong>, l’<strong>arrière-plan s’amollit</strong> avec de <strong>larges points lumineux</strong> naturels. C’est <strong>l’un</strong> des <strong>sept</strong> préréglages, <strong>à côté</strong> de motion, gaussien, ghosting, pixelate, hexagonal et <strong>crystalize</strong>."
+      },
+      {
+        "question": "Puis-je ne flouter qu’une portion de l’image ?",
+        "answer": "Oui, en mélangeant le <strong>fond</strong> détecté automatiquement et le <strong>masque pinceau</strong> afin d’<strong>accentuer seulement</strong> ce qui mérite d’<strong>être moins net</strong>, éventuellement <strong>en affinant le masque auto</strong> <strong>avant enregistrement</strong>."
+      },
+      {
+        "question": "Est-ce que ça sert à masquer des visages, des plaques d’immatriculation ou d’autres signaux ?",
+        "answer": "Dans le cadre d’une <strong>appli photo</strong> d’<strong>édition</strong> : <strong>flou ciblé</strong> de visage ou <strong>pixelisé / flou</strong> fort peut <strong>réduire l’identifiabilité</strong> d’<strong>une personne</strong> et, <strong>selon la photo</strong> et l’<strong>épaisseur d’effet</strong>, rendre moins <strong>lisible</strong> l’<strong>inscription</strong> d’<strong>une plaque</strong> d’immatriculation. Cela <strong>ne constitue pas</strong> un <strong>conseil juridique</strong> — pour toute exigence <strong>légale stricte</strong>, <strong>sollicitez un professionnel</strong> compétent pour votre <strong>territoire</strong> et <strong>votre cas</strong>."
+      },
+      {
+        "question": "Mes données et mes photos sont-elles en sécurité dans Make Blur ?",
+        "answer": "Le <strong>traitement</strong> vise, selon l’<strong>intention des développeurs</strong>, à se faire <strong>autant que possible</strong> <strong>sur l’iPhone, dans l’appli</strong> — lisez la <strong>politique de confidentialité</strong> la plus <strong>récente</strong> (site et <strong>App Store</strong> ; conditions le cas échéant) pour toute <strong>collecte</strong> ou <strong>transfert</strong> vers d’<strong>autres serveurs</strong> (nuage) avant d’<strong>utiliser</strong> l’app <strong>au quotidien</strong>."
       }
     ],
     "structured_data": {

@@ -10,7 +10,7 @@
     "og_description": "Fundal și fețe estompate: 7 stiluri cu bokeh, motion și gaussian blur — detecție automată și blur pentru fețe.",
     "og_image": "https://makeblur.com/ro/site_preview.png",
     "twitter_url": "https://makeblur.com/ro/",
-    "twitter_title": "Blur fundal pe iPhone | Make Blur",
+    "twitter_title": "Estompare fundal pe iPhone | Make Blur",
     "twitter_description": "Estompare fundal și fețe pe iPhone. Bokeh, motion blur, gaussian — Make Blur.",
     "twitter_image": "https://makeblur.com/ro/site_preview.png",
     "canonical": "https://makeblur.com/ro/"
@@ -70,15 +70,15 @@
       },
       {
         "number": "7",
-        "label": "Efecte blur"
+        "label": "Efecte de estompare"
       }
     ]
   },
   "features": {
     "title": "Blur fundal pe iPhone — editare care livrează rezultate",
     "intro": {
-      "line1": "Știm cât de greu poate fi obține o estompare naturală a fundalului.",
-      "paragraph1": "De aceea ne concentrăm pe <strong>o singură sarcină clară</strong>: estomparea fundalului fotografiilor din galerie, cu pași puți și rezultat previzibil.",
+      "line1": "Știm cât de anevoie poate fi estomparea fundalului pe iPhone — nu doar câteva glisări, ci rezultatul potrivit.",
+      "paragraph1": "De aceea ne concentrăm pe un singur scop: <strong>estomparea fundalului fotografiilor deja din galerie</strong> — câțiva pași, clar, fără meniuri care vă țin departe de rezultat.",
       "paragraph2": "Fără meniuri încărcate — doar instrumente utile pentru a estompa fundalul pe iPhone, fără frustrare."
     },
     "items": [
@@ -165,7 +165,7 @@
         {
           "name": "Model de preț",
           "value1": "Freemium (gratuit + IAP opționale)",
-          "value2": "Des reclame agresive sau paywall",
+          "value2": "Frecvent reclame agresive sau paywall",
           "value3": "Plată unică sau abonament"
         },
         {
@@ -200,12 +200,12 @@
         }
       ]
     },
-    "note": "App Store, aprilie 2026. Make Blur: fundal, fețe, bokeh și ușurință în uz."
+    "note": "Conform informațiilor App Store, aprilie 2026. Make Blur: estompare fundal, fețe pentru intimitate, filtre cu bokeh, cu accent pe ușurință și acces gratuit la instrumentele de bază."
   },
   "how_it_works": {
     "title": "Cum să estompați fundalul pe iPhone — pași simpli",
     "intro": {
-      "line1": "<strong>Pași</strong>: instalare, fotografie, efect, salvare.",
+      "line1": "<strong>Trei pași simpli</strong>: instalați aplicația, deschideți fotografia, alegeți un efect de estompare și salvați.",
       "paragraph1": "Fără straturi complexe din programe desktop — totul pe telefon."
     },
     "steps": [
@@ -244,43 +244,59 @@
     "faq": [
       {
         "question": "Cum estompez fundalul pe iPhone?",
-        "answer": "Descărcați Make Blur, deschideți fotografia, detecție automată sau mască. Alegeți bokeh, gaussian, motion etc.; opțional blur fețe; salvați."
+        "answer": "Descărcați Make Blur, deschideți fotografia, lăsați aplicația să detecteze fundalul automat sau desenați o mască personalizată. Alegeți apoi un efect (bokeh, motion, gaussian sau un alt stil) și salvați. Puteți estompa fețele pentru intimitate în aceeași aplicație."
       },
       {
-        "question": "Care este cea mai bună aplicație pentru blur de fundal pe iPhone?",
-        "answer": "Make Blur: detecție automată, blur fețe, 7 efecte inclusiv bokeh, interfață clară (~4,5★)."
+        "question": "Care este cea mai bună aplicație pentru estomparea fundalului pe iPhone?",
+        "answer": "Make Blur este o aplicație iPhone dedicată estompării fundalului și fețelor: detecție automată a fundalului, estompare a fețelor pentru intimitate, șapte tipuri de estompare incluzând bokeh, motion și gaussian, plus o interfață ușor de folosit. Utilizatorii timpurii o evaluează la aproximativ 4,5 stele."
       },
       {
-        "question": "Pot estompa fundalul gratuit?",
-        "answer": "Da, aplicația se descarcă gratuit și puteți folosi funcțiile de bază pentru blur. Unele opțiuni avansate pot fi contra cost în aplicație — consultați descrierea actuală din App Store."
+        "question": "Cum estompez o fotografie pe iPhone?",
+        "answer": "Folosiți Make Blur: deschideți fotografia, alegeți zona de estompare sau lăsați detecția automată a fundalului, estompați fețele dacă e nevoie, alegeți bokeh, motion, gaussian sau un alt efect și salvați."
       },
       {
-        "question": "În ce diferă de modul Portret pe iPhone?",
-        "answer": "Modul Portret funcționează în general la momentul fotografierii, în anumite condiții. Make Blur deschide <strong>fotografii deja salvate</strong> din galerie, propune mai multe stiluri de blur și combină detecția automată cu pensula manuală."
+        "question": "Pot estompa fundalul unei fotografii gratuit?",
+        "answer": "Da. Puteți descărca Make Blur gratuit, estompa fundalurile și fețele pentru intimitate și aplica șapte efecte, inclusiv bokeh, motion și gaussian. Unele opțiuni avansate pot fi achiziții în aplicație; editarea de bază funcționează fără plată."
       },
       {
-        "question": "Ce efecte de blur există?",
-        "answer": "Motion, gaussian, ghosting, pixelate, hexagonal, crystalize și bokeh — 7 variante. Bokeh dă fundal moale cu puncte de lumină."
+        "question": "Cum estompez o imagine (fișier) pe iPhone?",
+        "answer": "Descărcați Make Blur, deschideți imaginea, detectați fundalul automat sau desenați o mască, aplicați estomparea fețelor dacă doriți intimitate, alegeți bokeh, motion, gaussian sau un alt stil și salvați."
       },
       {
-        "question": "De ce Make Blur față de alte aplicații?",
-        "answer": "Freemium, 7 efecte cu bokeh, blur fețe, detecție fundal și pensulă."
+        "question": "Ce efecte de estompare pot folosi când vreau doar un fundal mai fin pe iPhone?",
+        "answer": "Cu Make Blur puteți folosi motion, gaussian, ghosting, pixelate, hexagonal, crystalize și bokeh. Bokeh conturează o adâncime de câmp redusă, cu zone de lumină defocalizate, în stil portret. Toate cele șapte stiluri se pot aplica cadrului întreg sau unor zone selectate."
       },
       {
-        "question": "Pot estompa doar o parte din fotografie?",
-        "answer": "Da, instrumentul de desen permite să marcați zonele care trebuie să fie mai estompate, alături sau în locul fundalului detectat automat."
+        "question": "De ce să aleg Make Blur în defavoarea altor aplicații de estompare?",
+        "answer": "Make Blur combină detecția automată a fundalului, o rută clară pentru estomparea fețelor, șapte efecte cu bokeh și un model freemium care păstrează instrumentele de bază accesibile. Multe aplicații pun estomparea de bază în spatele abonamentului sau a reclamelor; Make Blur pune pe primul loc fluxul simplu pentru fundal și fețe."
+      },
+      {
+        "question": "Cum se compară Make Blur cu modul Portret / blur-ul integrat al iPhone?",
+        "answer": "Funcțiile implicite ale iPhone funcționează foarte bine la momentul fotografierii în anumite condiții. Make Blur deschide <strong>fotografii deja salvate</strong> din galerie, oferă șapte stiluri, inclusiv bokeh, motion, gaussian, ghosting, pixelate, hexagonal, crystalize, estomparea fețelor și detecție automată a fundalului pe aproape orice imagine. Puteți obține de obicei mai mult control decât doar setările standard."
+      },
+      {
+        "question": "Este Make Blur „mai bun” decât alte aplicații de estompare?",
+        "answer": "Oferă avantaje: un model freemium echitabil fără abonament forțat, șapte tipuri de efecte incluzând bokeh (desea mai multe decât la altele), estomparea fețelor, detecție automată a fundalului, aproximativ 4,5 stele de la utilizatori timpurii și peste 10.000 de descărcări, proiectat să fie ușor de folosit, în vreme ce alte aplicații fie impun abonament, fie lasă funcțiile esențiale în spatele plăților."
+      },
+      {
+        "question": "Cum estompez fețele unei persoane într-o fotografie pe iPhone?",
+        "answer": "În Make Blur: deschideți fotografia, folosiți opțiunea de estompare a fețelor, aplicați pe fețe detectate automat sau selectate de dvs. și salvați. Potrivită pentru poze de grup sau cadre în spații publice când doriți să limitați identificarea, fără a edita pe un computer."
+      },
+      {
+        "question": "Ce face filtrul bokeh din Make Blur?",
+        "answer": "Imită o adâncime de câmp mică: subiectul rămâne clar, fundalul e moale, cu puncte de lumină asemănătoare unui obiectiv portret rapid. Este unul dintre cele șapte stiluri, alături de motion, gaussian, ghosting, pixelate, hexagonal, crystalize."
+      },
+      {
+        "question": "Pot estompa doar o parte a fotografiei?",
+        "answer": "Da, instrumentul de desen permite să marcați zonele care trebuie mai estompate, singure sau combinate cu detecția automată a fundalului."
       },
       {
         "question": "Este potrivit pentru a ascunde fețe sau numere de înmatriculare?",
-        "answer": "Da: blur fețe sau pixelare/blur puternic. Verificați rezultatul; pentru cazuri juridice consultați un expert."
+        "answer": "Da: estomparea fețelor sau o estompare / pixelare puternică. Verificați rezultatul; în situații juridice, consultați un specialist — nu este sfat juridic."
       },
       {
-        "question": "Ce face filtrul bokeh în Make Blur?",
-        "answer": "Imită adâncime de câmp mică: subiect clar, fundal moale cu puncte de lumină naturale. Unul din șapte stiluri."
-      },
-      {
-        "question": "Sunt datele mele în siguranță?",
-        "answer": "Editarea are loc în aplicație pe dispozitiv, conform proiectării dezvoltatorului. Detaliile despre prelucrarea datelor sunt în politica de confidențialitate de pe site."
+        "question": "Sunt datele mele (fotografiile) în siguranță?",
+        "answer": "Editarea are de obicei loc în aplicația de pe dispozitiv, conform proiectării dezvoltatorului. Detalii despre prelucrare în politica de confidențialitate de pe site; dacă se menționează încărcări pe server, urmăriți textul actual al politicii."
       }
     ],
     "structured_data": {

@@ -1,0 +1,13 @@
+key	en-US	ro-RO	notes
+product_name	Make Blur	Make Blur	marcă
+platform	iPhone	iPhone	scriere Apple
+store	App Store	App Store	netradus
+bokeh	Bokeh	bokeh / bokeh	în propoziții: „efect bokeh”
+motion_blur	motion blur	motion blur, estompare de mișcare	termen mixt acceptat în UI
+gaussian	gaussian	gaussian blur, estompare gaussiană	consistent cu restul
+auto_detect	auto-detect background	detecție automată a fundalului, fundal auto	
+face_blur	blur faces	estompare fețe, blur pentru intimitate	
+in_app_purchase	in-app	achiziții în aplicație, IAP	„în aplicație”
+mask custom mask	mască (personalizată)	desen: mască
+register you	dumneavoastră (polite) / imperativ: Descărcați, Alegeți	Copy marketing: dvs. plural
+freemium	freemium	freemium	explic: gratuit + opțiuni plătite
