@@ -1,0 +1,19 @@
+key	en	vi	notes
+product_name	Make Blur	Make Blur	tên thương hiệu
+platform	iPhone	iPhone	viết như Apple
+store	App Store	App Store	không dịch
+cta_download	Download / Download Now	Tải ngay / Tải xuống	giữ khoảng trắng đầu dòng nếu bản gốc có
+cta_get_started	Get started	Bắt đầu
+bokeh	Bokeh	bokeh / Bokeh	giữ Bokeh trong UI; mô tả có thể «hiệu ứng xóa phông»
+motion_blur	motion blur	motion blur	thuật ngữ gốc; có thể thêm «mờ chuyển động» trong câu dài
+gaussian	gaussian blur	gaussian blur; làm mờ Gauss	trong bảng ngắn gọn giữ tên
+auto_detect	background auto-detect; auto-detect	nhận diện nền; tự nhận nền	thống nhất với bản dịch
+face_blur	face blur; blur faces	làm mờ mặt; làm mờ khuôn mặt	không trộn «bạn/các bạn» trong cùng nút
+privacy	blur for privacy; privacy	riêng tư; bảo mật quyền riêng tư	ngắn: «riêng tư» trong FAQ
+in-app purchase	in-app (purchase)	mua trong ứng dụng; IAP có thể giữ
+mask	(custom) mask	mặt nạ chọn vùng; tô mặt nạ	thuật ngữ chỉnh sửa ảnh
+register	user address	bạn	xưng hô thân, phù hợp CTA/landing; tránh lẫn «bạn/các bạn» tùy bối cảnh
+freemium	freemium	freemium; miễn phí, có tùy chọn trả phí	trong câu tiếp Việt có thể giải thích ngắn
+effect_crystallize	Crystallize	Crystallize / kết cấu tinh thể	tên hiệu ứng lấy theo app
+effect_ghosting	Ghosting	Ghosting / chồng ảnh	ngắn trong tiêu đề: Ghosting
+effect_pixelate	Pixelate	pixel hóa; ô vuông	«pixel hóa» trong mô tả
