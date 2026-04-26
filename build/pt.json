@@ -13,14 +13,12 @@
     "twitter_title": "Desfocar o fundo no iPhone — Make Blur",
     "twitter_description": "Desfoque fundo e rostos no iPhone. Bokeh, motion blur, gaussiano — Make Blur.",
     "twitter_image": "https://makeblur.com/pt/site_preview.png",
-    "canonical": "https://makeblur.com/pt/",
-    "app_store_id": "6749166426"
+    "canonical": "https://makeblur.com/pt/"
   },
   "header": {
     "logo_alt": "Make Blur — app para desfocar o fundo no iPhone",
     "app_name": "Make Blur",
-    "download_text": " Descarregar",
-    "download_url": "https://apps.apple.com/app/id6749166426"
+    "download_text": " Descarregar"
   },
   "hero": {
     "title": "Desfocar o fundo no iPhone — transforme as suas fotos sem esforço",
@@ -53,8 +51,7 @@
       "paragraph1": "A Make Blur é um editor de fotos iOS grátis para desfocar fundo e rostos, com sete estilos incluindo bokeh, motion blur e desfoque gaussiano.",
       "paragraph2": "Make Blur torna tudo <strong>simples</strong>: background blur, blur photo, image blur e blur effect no iPhone. Em poucos toques consegue um fundo desfocado com aspeto profissional, pronto para redes sociais."
     },
-    "cta_text": "Descarregar",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "Descarregar"
   },
   "statistics": {
     "title": "Make Blur em números",
@@ -75,8 +72,7 @@
         "number": "7",
         "label": "Efeitos de desfoque"
       }
-    ],
-    "last_updated": "Atualizado: abril 2026"
+    ]
   },
   "features": {
     "title": "Desfocar o fundo no iPhone — edição rápida com resultados que se notam",
@@ -249,13 +245,11 @@
     "paragraph1": "Se quer desfocar o fundo de uma foto e obter um look mais profissional, a Make Blur é o próximo passo perfeito.",
     "paragraph2": "Uma experiência <strong>rápida e simples</strong> para background blur, blur photo, image blur e blur effect.",
     "paragraph3": "<strong>Não adie</strong>: aprenda como desfocar o fundo no iPhone.<br>De “demasiado complicado” para “uau” hoje mesmo.",
-    "cta_text": "Começar",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "Começar"
   },
   "footer": {
     "copyright": "© {year} Make Blur. Todos os direitos reservados.",
     "download_text": "Descarregar Make Blur na App Store",
-    "download_url": "https://apps.apple.com/app/id6749166426",
     "tagline": "Make Blur — fundo e rostos no iPhone. Sete estilos com bokeh, motion blur, blur de rostos e deteção automática."
   },
   "seo": {
@@ -339,8 +333,7 @@
           {
             "@type": "HowToStep",
             "name": "Descarregar Make Blur",
-            "text": "Descarregue a Make Blur na App Store para desfocar o fundo no iPhone.",
-            "url": "https://apps.apple.com/app/id6749166426"
+            "text": "Descarregue a Make Blur na App Store para desfocar o fundo no iPhone."
           },
           {
             "@type": "HowToStep",

@@ -13,14 +13,12 @@
     "twitter_title": "Sfoca lo sfondo su iPhone — Make Blur",
     "twitter_description": "Sfoca sfondo e volti su iPhone. Bokeh, motion blur, gaussiana — Make Blur.",
     "twitter_image": "https://makeblur.com/it/site_preview.png",
-    "canonical": "https://makeblur.com/it/",
-    "app_store_id": "6749166426"
+    "canonical": "https://makeblur.com/it/"
   },
   "header": {
     "logo_alt": "Make Blur — app per sfocare lo sfondo su iPhone",
     "app_name": "Make Blur",
-    "download_text": " Scarica",
-    "download_url": "https://apps.apple.com/app/id6749166426"
+    "download_text": " Scarica"
   },
   "hero": {
     "title": "Sfoca lo sfondo su iPhone — trasforma le tue foto senza fatica",
@@ -53,8 +51,7 @@
       "paragraph1": "Make Blur è un editor foto iOS gratuito per sfocare sfondo e volti, con sette stili inclusi bokeh, motion blur e sfocatura gaussiana.",
       "paragraph2": "Make Blur rende tutto <strong>semplice</strong>: background blur, blur photo, blur image e blur effect su iPhone. In pochi tocchi ottieni una sfocatura dello sfondo pronta per social e portfolio."
     },
-    "cta_text": "Scarica",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "Scarica"
   },
   "statistics": {
     "title": "Make Blur in numeri",
@@ -75,8 +72,7 @@
         "number": "7",
         "label": "Effetti sfocatura"
       }
-    ],
-    "last_updated": "Aggiornato: aprile 2026"
+    ]
   },
   "features": {
     "title": "Sfoca lo sfondo su iPhone — editing veloce con risultati che si vedono",
@@ -253,13 +249,11 @@
     "paragraph1": "Se vuoi sfocare lo sfondo di una foto e ottenere un look più professionale, Make Blur è il prossimo passo perfetto.",
     "paragraph2": "Un’esperienza <strong>rapida e semplice</strong> per background blur, blur photo, blur image e blur effect.",
     "paragraph3": "<strong>Non rimandare</strong>: impara come sfocare lo sfondo su iPhone.<br>Da “troppo complicato” a “wow” già oggi.",
-    "cta_text": "Inizia",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "Inizia"
   },
   "footer": {
     "copyright": "© {year} Make Blur. Tutti i diritti riservati.",
     "download_text": "Scarica Make Blur su App Store",
-    "download_url": "https://apps.apple.com/app/id6749166426",
     "tagline": "Make Blur — sfondo e volti su iPhone. Sette stili con bokeh, motion blur, blur volti e rilevamento automatico."
   },
   "seo": {
@@ -343,8 +337,7 @@
           {
             "@type": "HowToStep",
             "name": "Scarica Make Blur",
-            "text": "Scarica Make Blur dall’App Store per sfocare lo sfondo su iPhone.",
-            "url": "https://apps.apple.com/app/id6749166426"
+            "text": "Scarica Make Blur dall’App Store per sfocare lo sfondo su iPhone."
           },
           {
             "@type": "HowToStep",

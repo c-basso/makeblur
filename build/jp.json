@@ -13,14 +13,12 @@
     "twitter_title": "iPhoneで背景をぼかす - 無料アプリ | Make Blur",
     "twitter_description": "iPhoneで背景と顔をぼかす。ボケ、モーションブラー、ガウシアン — Make Blur。",
     "twitter_image": "https://makeblur.com/jp/site_preview.png",
-    "canonical": "https://makeblur.com/jp/",
-    "app_store_id": "6749166426"
+    "canonical": "https://makeblur.com/jp/"
   },
   "header": {
     "logo_alt": "Make Blur - iPhone用背景ぼかしアプリ",
     "app_name": "Make Blur",
-    "download_text": " 今すぐダウンロード",
-    "download_url": "https://apps.apple.com/app/id6749166426"
+    "download_text": " 今すぐダウンロード"
   },
   "hero": {
     "title": "iPhoneで背景をぼかす - 写真を簡単に美しく仕上げる",
@@ -53,8 +51,7 @@
       "paragraph1": "Make Blurは、背景と顔をぼかせる無料のiOS写真編集アプリです。ボケを含む7種類のブラー、自動検出付き。難しいツールは不要です。",
       "paragraph2": "Make Blurなら、iPhoneで背景をぼかすのも、写真や画像をぼかすのも<strong>かんたん</strong>です。直感的な操作で、すぐにiPhoneの背景をぼかせるようになります—<em>写真の背景をぼかす、もっとも簡単な方法</em>です。"
     },
-    "cta_text": "今すぐダウンロード",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "今すぐダウンロード"
   },
   "statistics": {
     "title": "Make Blurの実績",
@@ -75,8 +72,7 @@
         "number": "7",
         "label": "ブラー効果"
       }
-    ],
-    "last_updated": "最終更新：2026年4月"
+    ]
   },
   "features": {
     "title": "iPhoneで背景をぼかす - 実際に使える簡単な写真編集",
@@ -149,7 +145,7 @@
       }
     ]
   },
-    "comparison": {
+  "comparison": {
     "title": "Make Blur vs 他のブラーアプリ",
     "intro": "Make Blurが他のiPhone用ブラーアプリとどのように比較されるかご覧ください。背景をぼかす最高のアプリを選ぶのに役立つ、事実に基づいた比較をご用意しました。",
     "table": {
@@ -235,13 +231,11 @@
     "paragraph1": "写真の背景をぼかして、<strong>SNSで目を引く素晴らしい写真</strong>を作成したい場合は、アプリをダウンロードすることが<strong>最適な次のステップ</strong>です。",
     "paragraph2": "完璧な背景でiPhoneの背景をぼかす<strong>スムーズな体験</strong>をお楽しみください—<em>複雑なアプリでのストレスはもうありません</em>。",
     "paragraph3": "iPhoneで背景をぼかす方法を学ぶ機会を<strong>逃さないでください</strong>。<br>今日、<strong>使い方に困っていた初心者</strong>から<strong>自信を持って写真を編集できる</strong>ようになりましょう。",
-    "cta_text": "始める",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "始める"
   },
   "footer": {
     "copyright": "© {year} Make Blur. 全著作権所有。",
     "download_text": "App StoreでMake Blurをダウンロード",
-    "download_url": "https://apps.apple.com/app/id6749166426",
     "tagline": "Make Blur - iPhoneで背景と顔をぼかす。ボケ・モーション・ガウシアンなど7種類、自動検出と顔ぼかし。"
   },
   "seo": {
@@ -341,8 +335,7 @@
           {
             "@type": "HowToStep",
             "name": "Make Blurアプリをダウンロード",
-            "text": "iPhoneで背景をぼかすために、App StoreからMake Blurをダウンロードします。",
-            "url": "https://apps.apple.com/app/id6749166426"
+            "text": "iPhoneで背景をぼかすために、App StoreからMake Blurをダウンロードします。"
           },
           {
             "@type": "HowToStep",

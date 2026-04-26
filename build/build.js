@@ -5,7 +5,10 @@ const {
     URLS,
     SITE_URL,
     DEFAULT_LANGUAGE,
-    LANGUAGES
+    LANGUAGES,
+    APP_STORE_ID,
+    APP_STORE_URL,
+    getStatisticsLastUpdated
 } = require('./constants');
 
 (function() {
@@ -89,6 +92,20 @@ const {
                 data.footer.copyright = data.footer.copyright.replace(/\{year\}/g, currentYear.toString());
             }
 
+            // App Store + “last updated” (single source: build/constants.js)
+            data.meta = data.meta || {};
+            data.header = data.header || {};
+            data.hero = data.hero || {};
+            data.statistics = data.statistics || {};
+            data.final_cta = data.final_cta || {};
+            data.footer = data.footer || {};
+            data.meta.app_store_id = APP_STORE_ID;
+            data.header.download_url = APP_STORE_URL;
+            data.hero.cta_url = APP_STORE_URL;
+            data.final_cta.cta_url = APP_STORE_URL;
+            data.footer.download_url = APP_STORE_URL;
+            data.statistics.last_updated = getStatisticsLastUpdated(lang);
+
             // Build JSON-LD objects from translation data to avoid hardcoded strings in template
             const stripHtml = (value) => {
                 if (typeof value !== 'string') return value;
@@ -114,11 +131,17 @@ const {
 
             // HowTo: build steps from how_it_works.steps (strip HTML)
             if (data.seo.structured_data.howto && typeof data.seo.structured_data.howto === 'object' && Array.isArray(data.how_it_works?.steps)) {
-                data.seo.structured_data.howto.step = data.how_it_works.steps.map((s) => ({
-                    "@type": "HowToStep",
-                    "name": stripHtml(s?.title),
-                    "text": stripHtml(s?.description)
-                }));
+                data.seo.structured_data.howto.step = data.how_it_works.steps.map((s, i) => {
+                    const step = {
+                        "@type": "HowToStep",
+                        "name": stripHtml(s?.title),
+                        "text": stripHtml(s?.description)
+                    };
+                    if (i === 0) {
+                        step.url = APP_STORE_URL;
+                    }
+                    return step;
+                });
             }
 
             // FAQPage: build from seo.faq (strip HTML)

@@ -13,14 +13,12 @@
     "twitter_title": "iPhone 背景虚化 - 免费应用 | Make Blur",
     "twitter_description": "在 iPhone 上虚化背景与人脸。散景、动态模糊、高斯模糊 — Make Blur。",
     "twitter_image": "https://makeblur.com/cn/site_preview.png",
-    "canonical": "https://makeblur.com/cn/",
-    "app_store_id": "6749166426"
+    "canonical": "https://makeblur.com/cn/"
   },
   "header": {
     "logo_alt": "Make Blur - iPhone 背景虚化应用",
     "app_name": "Make Blur",
-    "download_text": " 立即下载",
-    "download_url": "https://apps.apple.com/app/id6749166426"
+    "download_text": " 立即下载"
   },
   "hero": {
     "title": "在 iPhone 上虚化背景 — 轻松让照片更出彩",
@@ -53,8 +51,7 @@
       "paragraph1": "Make Blur 是一款免费的 iOS 照片编辑器，可虚化背景与人脸，提供七种模糊风格，包括散景、动态模糊与高斯模糊。在 iPhone 上虚化背景或遮挡人脸，不必再和复杂工具较劲。",
       "paragraph2": "Make Blur 让你<strong>轻松</strong>虚化背景、模糊整张照片或局部区域。用直观操作学会如何在 iPhone 上虚化背景——虚化照片背景的简单方式。"
     },
-    "cta_text": "立即下载",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "立即下载"
   },
   "statistics": {
     "title": "Make Blur 数据一览",
@@ -75,8 +72,7 @@
         "number": "7",
         "label": "种模糊效果"
       }
-    ],
-    "last_updated": "最近更新：2026 年 4 月"
+    ]
   },
   "features": {
     "title": "iPhone 背景虚化 — 简单好用的照片编辑",
@@ -235,13 +231,11 @@
     "paragraph1": "若想虚化照片背景、做出<strong>更适合发社交媒体的成片</strong>，下载本应用是<strong>很合适的一步</strong>。",
     "paragraph2": "在 iPhone 上<strong>顺畅地完成背景虚化</strong>——<em>告别难用的复杂应用</em>。",
     "paragraph3": "<strong>别错过</strong>在 iPhone 上轻松虚化背景的机会。<br>从<strong>无从下手</strong>到<strong>自信出片</strong>，从今天开始。",
-    "cta_text": "开始使用",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "开始使用"
   },
   "footer": {
     "copyright": "© {year} Make Blur。保留所有权利。",
     "download_text": "在 App Store 下载 Make Blur",
-    "download_url": "https://apps.apple.com/app/id6749166426",
     "tagline": "Make Blur — 在 iPhone 上虚化背景与人脸。七种效果含散景、动态与高斯模糊；自动识别背景与隐私人脸模糊。"
   },
   "seo": {
@@ -341,8 +335,7 @@
           {
             "@type": "HowToStep",
             "name": "下载 Make Blur",
-            "text": "从 App Store 下载 Make Blur，在 iPhone 上开始虚化背景。",
-            "url": "https://apps.apple.com/app/id6749166426"
+            "text": "从 App Store 下载 Make Blur，在 iPhone 上开始虚化背景。"
           },
           {
             "@type": "HowToStep",

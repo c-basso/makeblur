@@ -13,14 +13,12 @@
     "twitter_title": "아이폰 배경 블러 무료 앱 | Make Blur",
     "twitter_description": "아이폰에서 배경·얼굴 블러. 보케, 모션, 가우시안 — Make Blur.",
     "twitter_image": "https://makeblur.com/ko/site_preview.png",
-    "canonical": "https://makeblur.com/ko/",
-    "app_store_id": "6749166426"
+    "canonical": "https://makeblur.com/ko/"
   },
   "header": {
     "logo_alt": "Make Blur — 아이폰 사진 배경 블러 앱",
     "app_name": "Make Blur",
-    "download_text": " 앱스토어에서 받기",
-    "download_url": "https://apps.apple.com/app/id6749166426"
+    "download_text": " 앱스토어에서 받기"
   },
   "hero": {
     "title": "아이폰에서 사진 배경을 쉽게 흐리게 — Make Blur",
@@ -53,8 +51,7 @@
       "paragraph1": "<strong>Make Blur</strong>는 배경과 얼굴을 흐리게 할 수 있는 iOS 사진 앱입니다. 보케를 포함한 7가지 블러와 자동 배경 인식을 지원합니다.",
       "paragraph2": "몇 번의 탭으로 배경을 흐리게 하고, 인물·사물을 돋보이게 하세요. 직관적인 화면으로 <strong>처음 사용자도</strong> 빠르게 결과를 얻을 수 있습니다."
     },
-    "cta_text": "앱스토어에서 받기",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "앱스토어에서 받기"
   },
   "statistics": {
     "title": "Make Blur 주요 수치",
@@ -75,8 +72,7 @@
         "number": "7",
         "label": "블러 종류"
       }
-    ],
-    "last_updated": "최종 업데이트: 2026년 4월"
+    ]
   },
   "features": {
     "title": "아이폰 사진 배경 블러 — 간단하지만 확실한 편집",
@@ -235,13 +231,11 @@
     "paragraph1": "사진 한 장으로 인물이 더 돋보이게 하려면, <strong>배경만 흐리게</strong> 하는 것만으로도 충분한 경우가 많습니다.",
     "paragraph2": "Make Blur는 그 작업에 특화된 iOS 앱입니다. 설치 후 바로 사진을 열어 보세요.",
     "paragraph3": "<strong>앱스토어</strong>에서 무료로 받고, 보케 포함 7가지 블러를 확인해 보세요.",
-    "cta_text": "시작하기",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "시작하기"
   },
   "footer": {
     "copyright": "© {year} Make Blur. 무단 복제·배포를 금합니다.",
     "download_text": "App Store에서 Make Blur 받기",
-    "download_url": "https://apps.apple.com/app/id6749166426",
     "tagline": "Make Blur — 배경·얼굴 블러. 보케·모션·가우시안 등 7가지, 자동 인식."
   },
   "seo": {
@@ -337,8 +331,7 @@
           {
             "@type": "HowToStep",
             "name": "Make Blur 설치",
-            "text": "App Store에서 Make Blur를 검색해 설치합니다.",
-            "url": "https://apps.apple.com/app/id6749166426"
+            "text": "App Store에서 Make Blur를 검색해 설치합니다."
           },
           {
             "@type": "HowToStep",

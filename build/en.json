@@ -13,14 +13,12 @@
     "twitter_title": "Blur Background on iPhone - Free App | Make Blur",
     "twitter_description": "Blur backgrounds and faces on iPhone. Bokeh filter, motion & gaussian blur, auto-detect background—Make Blur.",
     "twitter_image": "https://makeblur.com/site_preview.png",
-    "canonical": "https://makeblur.com/",
-    "app_store_id": "6749166426"
+    "canonical": "https://makeblur.com/"
   },
   "header": {
     "logo_alt": "Make Blur - Blur Background App for iPhone",
     "app_name": "Make Blur",
-    "download_text": " Download Now",
-    "download_url": "https://apps.apple.com/app/id6749166426"
+    "download_text": " Download Now"
   },
   "hero": {
     "title": "Blur Background on iPhone - Transform Your Photos Effortlessly",
@@ -53,8 +51,7 @@
       "paragraph1": "Make Blur is a free iOS photo editor for blurring backgrounds and faces, with seven blur styles including Bokeh, motion blur, and gaussian blur. You shouldn't have to wrestle with difficult tools to blur background or obscure faces on iPhone.",
       "paragraph2": "Make Blur makes it <strong>effortless</strong> to blur background, blur photo, and blur image on iPhone. Learn how to blur background on iPhone with our intuitive app—the best way to blur background of photo."
     },
-    "cta_text": "Download Now",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "Download Now"
   },
   "statistics": {
     "title": "Make Blur by the Numbers",
@@ -75,8 +72,7 @@
         "number": "7",
         "label": "Blur Effects"
       }
-    ],
-    "last_updated": "Last updated: April 2026"
+    ]
   },
   "features": {
     "title": "Blur Background on iPhone - Effortless Photo Editing That Actually Works",
@@ -235,13 +231,11 @@
     "paragraph1": "If you want to blur background of photo and create <strong>stunning photos that shine on social media</strong>, downloading our app is the <strong>perfect next step</strong>.",
     "paragraph2": "Enjoy a <strong>seamless experience to blur background on iPhone</strong> with perfect backgrounds—<em>no more frustration with complicated apps</em>.",
     "paragraph3": "<strong>Don't miss out</strong> on learning how to blur background on iPhone.<br>Transform from <strong>frustrated beginner</strong> to <strong>confident photographer</strong> today.",
-    "cta_text": "Get Started",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "Get Started"
   },
   "footer": {
     "copyright": "© {year} Make Blur. All rights reserved.",
     "download_text": "Download Make Blur on the App Store",
-    "download_url": "https://apps.apple.com/app/id6749166426",
     "tagline": "Make Blur - Blur background and faces on iPhone. Seven styles including Bokeh, motion blur, and gaussian blur—auto-detect background and privacy blur."
   },
   "seo": {
@@ -341,8 +335,7 @@
           {
             "@type": "HowToStep",
             "name": "Download Make Blur App",
-            "text": "Download Make Blur from the App Store to blur background on iPhone.",
-            "url": "https://apps.apple.com/app/id6749166426"
+            "text": "Download Make Blur from the App Store to blur background on iPhone."
           },
           {
             "@type": "HowToStep",

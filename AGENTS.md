@@ -9,7 +9,8 @@
 When users ask you to perform tasks, check if any of the available skills below can help complete the task more effectively. Skills provide specialized capabilities and domain knowledge.
 
 How to use skills:
-- Invoke: Bash("openskills read <skill-name>")
+- Invoke: `npx openskills read <skill-name>` (run in your shell)
+  - For multiple: `npx openskills read skill-one,skill-two`
 - The skill content will load with detailed instructions on how to complete the task
 - Base directory provided in output for resolving bundled resources (references/, scripts/, assets/)
 
@@ -22,6 +23,12 @@ Usage notes:
 <available_skills>
 
 <skill>
+<name>app-website-translation</name>
+<description>High-quality, human-in-the-loop UI and marketing copy translation for mobile apps, web apps, and marketing sites. Builds and enforces a project glossary, follows Apple (and web) platform terminology per locale, handles plurals, gender, expansion, and formality. Use when translating in-app strings, website copy, or App Store/Play metadata so it reads at native level and does not break layouts. Triggers for locales, l10n, localization, i18n, strings, xcstrings, po/mo, JSON i18n, and “translate our app/website.”</description>
+<location>project</location>
+</skill>
+
+<skill>
 <name>frontend-design</name>
 <description>Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.</description>
 <location>project</location>
@@ -30,6 +37,12 @@ Usage notes:
 <skill>
 <name>geo-optimization</name>
 <description>"Generative Engine Optimization (GEO) for AI search visibility. Optimize content to appear in ChatGPT, Perplexity, Claude, and Google AI Overviews. Use when optimizing websites, pages, or content for LLM discoverability and citation."</description>
+<location>project</location>
+</skill>
+
+<skill>
+<name>link-building</name>
+<description>When the user wants to build backlinks, acquire links, or improve off-page SEO. Also use when the user mentions "link building," "backlinks," "off-page SEO," "link acquisition," "outreach," "guest posting," "broken link building," "link outreach," "acquire backlinks," "how to build backlinks," or "link building strategy." For profile audit, use backlink-analysis.</description>
 <location>project</location>
 </skill>
 

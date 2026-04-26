@@ -13,14 +13,12 @@
     "twitter_title": "Додаток для розмиття фону | Make Blur",
     "twitter_description": "Розмиття фону й облич на iPhone. Боке, motion blur, gaussian — Make Blur.",
     "twitter_image": "https://makeblur.com/uk/site_preview.png",
-    "canonical": "https://makeblur.com/uk/",
-    "app_store_id": "6749166426"
+    "canonical": "https://makeblur.com/uk/"
   },
   "header": {
     "logo_alt": "Make Blur — додаток для розмиття фону на iPhone",
     "app_name": "Make Blur",
-    "download_text": " Завантажити",
-    "download_url": "https://apps.apple.com/app/id6749166426"
+    "download_text": " Завантажити"
   },
   "hero": {
     "title": "Розмиття фону на iPhone — просто й швидко",
@@ -53,8 +51,7 @@
       "paragraph1": "<strong>Make Blur</strong> — безкоштовний iOS-додаток для розмиття фону й облич, 7 стилів зокрема боке. Без ПК.",
       "paragraph2": "За кілька дотиків фон стає м’якшим, а <strong>об’єкт чи людина у кадрі — виразнішими</strong>. Інтерфейс зручний для швидких постів у соцмережах."
     },
-    "cta_text": "Завантажити зараз",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "Завантажити зараз"
   },
   "statistics": {
     "title": "Make Blur у цифрах",
@@ -75,8 +72,7 @@
         "number": "7",
         "label": "Ефектів blur"
       }
-    ],
-    "last_updated": "Останнє оновлення: квітень 2026"
+    ]
   },
   "features": {
     "title": "Розмиття фону на iPhone — редагування, яке працює",
@@ -235,13 +231,11 @@
     "paragraph1": "Розмитий фон допомагає <strong>портрету чи продукту виділитися</strong> в соцмережах чи альбомі.",
     "paragraph2": "Make Blur створений саме для цього: швидке розмиття на iPhone без зайвих кроків.",
     "paragraph3": "<strong>Завантажте Make Blur</strong> з App Store і спробуйте 7 ефектів з боке.",
-    "cta_text": "Почати",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "Почати"
   },
   "footer": {
     "copyright": "© {year} Make Blur. Усі права захищені.",
     "download_text": "Завантажити Make Blur в App Store",
-    "download_url": "https://apps.apple.com/app/id6749166426",
     "tagline": "Make Blur — фон і обличчя на iPhone. Боке, motion, gaussian та інше; авто-фон."
   },
   "seo": {
@@ -337,8 +331,7 @@
           {
             "@type": "HowToStep",
             "name": "Завантажити Make Blur",
-            "text": "Установіть Make Blur з App Store на iPhone.",
-            "url": "https://apps.apple.com/app/id6749166426"
+            "text": "Установіть Make Blur з App Store на iPhone."
           },
           {
             "@type": "HowToStep",

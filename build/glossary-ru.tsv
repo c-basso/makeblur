@@ -1,0 +1,16 @@
+key	en	ru	notes
+product_name	Make Blur	Make Blur	бренд
+platform	iPhone	iPhone	латинское написание, как в маркетинге Apple
+store	App Store	App Store	без перевода
+cta_download	Download	Скачать	ведущий пробел в JSON как в en
+cta_get_started	Get started	Начать	final_cta
+bokeh	Bokeh	боке/ Bokeh	в тексте: «боке»; в скобках можно Bokeh
+motion_blur	motion blur	motion blur	международный термин; в подписи: «размытие в движении»
+gaussian	gaussian blur	гауссово размытие	согласование с прилагательным/сущ.
+auto_detect	auto-detect background	автоопределение фона; авто-фон	короткая форма «авто-фон» в теге
+face_blur	face blur; blur faces	размытие лиц	
+privacy	privacy	приватность	нейтрально-современный регистр, не «конфиденциальность» в смысле бизнеса
+you_form	—	вы (строчная)	единообразно «на ты» не мешает «вы»; избегать смеси с «Ты» в кнопках
+effect_crystallize	Crystallize / crystalize	кристаллизация	эффект в UI; не «кристаллический» про стиль
+effect_hexagonal	Hexagonal	шестиугольный эффект; «шестиугольники» в заголовке	см. раздел blur_types
+freemium	freemium	freemium	как в en note

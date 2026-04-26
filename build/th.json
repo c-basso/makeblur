@@ -13,14 +13,12 @@
     "twitter_title": "แอปเบลอพื้นหลัง iPhone | Make Blur",
     "twitter_description": "เบลอพื้นหลังและใบหน้าบน iPhone โบเก้ motion gaussian — Make Blur",
     "twitter_image": "https://makeblur.com/th/site_preview.png",
-    "canonical": "https://makeblur.com/th/",
-    "app_store_id": "6749166426"
+    "canonical": "https://makeblur.com/th/"
   },
   "header": {
     "logo_alt": "Make Blur แอปเบลอพื้นหลังสำหรับ iPhone",
     "app_name": "Make Blur",
-    "download_text": " ดาวน์โหลด",
-    "download_url": "https://apps.apple.com/app/id6749166426"
+    "download_text": " ดาวน์โหลด"
   },
   "hero": {
     "title": "เบลอพื้นหลังบน iPhone ง่ายและรวดเร็ว",
@@ -53,8 +51,7 @@
       "paragraph1": "<strong>Make Blur</strong> แอป iOS ฟรีสำหรับเบลอพื้นหลังและใบหน้า มี 7 สไตล์รวมโบเก้ ไม่ต้องใช้คอม",
       "paragraph2": "แตะไม่กี่ครั้งก็เบลอพื้นหลังและให้<strong>วัตถุหรือคนในรูปเด่นขึ้น</strong> เหมาะกับคนที่อยากลงโซเชียลหรือทำภาพโปรไฟล์แบบรวดเร็ว"
     },
-    "cta_text": "ดาวน์โหลดเลย",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "ดาวน์โหลดเลย"
   },
   "statistics": {
     "title": "Make Blur เป็นตัวเลข",
@@ -75,8 +72,7 @@
         "number": "7",
         "label": "แบบเบลอ"
       }
-    ],
-    "last_updated": "อัปเดตล่าสุด: เมษายน 2026"
+    ]
   },
   "features": {
     "title": "เบลอพื้นหลังบน iPhone แต่งจริง ได้ลุคจริง",
@@ -235,13 +231,11 @@
     "paragraph1": "พื้นหลังเบลอช่วยให้<strong>ถ่ายคนหรือสินค้าโดดเด่น</strong>บนโซเชียลหรือในอัลบั้ม",
     "paragraph2": "Make Blur ออกแบบมาเพื่องานนี้โดยเฉพาะ เบลอบน iPhone ได้ไวไม่งุงง",
     "paragraph3": "<strong>ดาวน์โหลด Make Blur</strong> จาก App Store แล้วลองเบลอ 7 แบบรวมโบเก้",
-    "cta_text": "เริ่ม",
-    "cta_url": "https://apps.apple.com/app/id6749166426"
+    "cta_text": "เริ่ม"
   },
   "footer": {
     "copyright": "© {year} Make Blur สงวนลิขสิทธิ์",
     "download_text": "ดาวน์โหลด Make Blur บน App Store",
-    "download_url": "https://apps.apple.com/app/id6749166426",
     "tagline": "Make Blur เบลอพื้นหลังและใบหน้า โบเก้ motion gaussian จับพื้นหลังอัตโนมัติ"
   },
   "seo": {
@@ -337,8 +331,7 @@
           {
             "@type": "HowToStep",
             "name": "ดาวน์โหลด Make Blur",
-            "text": "ติดตั้ง Make Blur จาก App Store บน iPhone",
-            "url": "https://apps.apple.com/app/id6749166426"
+            "text": "ติดตั้ง Make Blur จาก App Store บน iPhone"
           },
           {
             "@type": "HowToStep",
