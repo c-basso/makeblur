@@ -1,0 +1,14 @@
+key	en	uk	notes
+product_name	Make Blur	Make Blur	бренд
+platform	iPhone	iPhone	як у маркетингу Apple
+store	App Store	App Store	без перекладу
+cta	Download	Завантажити/Завантажити зараз	узгоджувати з CTA
+bokeh	Bokeh	боке/боке-ефект	у тексті: «боке»; Bokeh у дужках за потреби
+motion_blur	motion blur	motion blur/розмиття руху	коротко: motion
+gaussian	gaussian blur	гаусове розмиття, gaussian	у списку часто залишають loanword
+auto_detect	background auto-detect	автоматичне визначення (фону)	коротко: авто-фон; не «автораспізнавання»
+face_blur	blur faces	розмиття облич (для приватності)	
+mask	custom mask	маска (ручна)/намалювати маску	
+in-app	in-app (purchase)	покупка в додатку, вдодаткові опції
+install	install	встановити (норм: в-, не у-)
+register	you (formality)	звертання на «ви»; імператив: «оберіть», «завантажте»	freemium, UI
