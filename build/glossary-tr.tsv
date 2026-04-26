@@ -1,0 +1,14 @@
+key	en-US	tr-TR	notes
+product_name	Make Blur	Make Blur	Marka, baş harfler
+platform	iPhone	iPhone	Apple yazımı: küçük i, büyük I değil
+store	App Store	App Store	çevrilmeyen; İng. terim
+cta_download	download, now	indir(ın), hemen indir	başta boşluk: en.json ile
+bokeh	Bokeh	bokeh / bokeh	UI: bokeh; açıklamada «ışık lekeleri»
+motion_blur	motion blur	motion blur, hareket bulanıklığı	kısada: motion
+gaussian	gaussian blur	gaussian, Gauss bulanıklaşması	önek uyumu
+auto_detect	background auto-detect	arka planı otomatik algılamak	«otomatik arka plan» kısası
+face_blur	blur faces	gizlilik için yüz bulanıklaştırma	kısa: yüz bulanıklığı
+in_app_purchase	in-app purchase	uygulama içi satın alma; IAP	şema kısası: IAP
+mask	custom mask	özel / elle çizilen maske	çizim: maske
+register	user (you)	siz, -ın/-nız	CTA: -ın; soru: siz
+freemium	freemium	freemium / ücretsiz + uygulama içi	şema adı: freemium
