@@ -50,6 +50,15 @@ const EXPECTED_JSON_LD_TYPES = [
 ];
 
 const INDEX_NOW_KEY = 'Q8IPzEDH72muy5mKoXE2j5il';
+const GOOGLE_TAG_SCRIPT = `<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L321DN9X6C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L321DN9X6C');
+</script>`;
 const YANDEX_METRIKA_SCRIPT = `<!-- Yandex.Metrika counter -->
 <script type="text/javascript">
     (function(m,e,t,r,i,k,a){
@@ -151,6 +160,7 @@ module.exports = {
     EXPECTED_JSON_LD_TYPES,
     INDEX_NOW_KEY,
     INDEX_NOW_ENGINES,
+    GOOGLE_TAG_SCRIPT,
     YANDEX_METRIKA_SCRIPT,
     ADDITIONAL_URLS,
     APP_STORE_ID,

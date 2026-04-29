@@ -9,6 +9,7 @@ const {
     APP_STORE_ID,
     APP_STORE_URL,
     getStatisticsLastUpdated,
+    GOOGLE_TAG_SCRIPT,
     YANDEX_METRIKA_SCRIPT
 } = require('./constants');
 
@@ -59,6 +60,7 @@ function getRequiredString(obj, keyPath) {
             data.meta.version = buildTimestamp;
             data.meta.alternate_default = SITE_URL;
             data.meta.alternate_languages = URLS;
+            data.meta.google_tag_script = GOOGLE_TAG_SCRIPT;
             data.meta.yandex_metrika_script = YANDEX_METRIKA_SCRIPT;
 
             /** BCP 47 <html lang> (path codes jp/cn are not valid language tags). */
