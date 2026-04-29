@@ -50,6 +50,19 @@ const EXPECTED_JSON_LD_TYPES = [
 ];
 
 const INDEX_NOW_KEY = 'Q8IPzEDH72muy5mKoXE2j5il';
+const YANDEX_METRIKA_SCRIPT = `<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=105338905', 'ym');
+
+    ym(105338905, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/105338905" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->`;
 
 /** @see https://apps.apple.com/app/id6749166426 */
 const APP_STORE_ID = '6749166426';
@@ -138,6 +151,7 @@ module.exports = {
     EXPECTED_JSON_LD_TYPES,
     INDEX_NOW_KEY,
     INDEX_NOW_ENGINES,
+    YANDEX_METRIKA_SCRIPT,
     ADDITIONAL_URLS,
     APP_STORE_ID,
     APP_STORE_URL,

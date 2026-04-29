@@ -87,6 +87,7 @@
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"WebPage","name":"{{editor.meta_title|html_attr}}","description":"{{editor.meta_description|html_attr}}","url":"{{editor.page_url|html_attr}}","inLanguage":"{{meta.html_lang|html_attr}}"}
   </script>
+  {{meta.yandex_metrika_script}}
   <script>
     const imageInput=document.getElementById("imageInput"),canvas=document.getElementById("editorCanvas"),ctx=canvas.getContext("2d"),placeholder=document.getElementById("placeholder"),canvasWrap=document.querySelector(".canvas-wrap"),filterList=document.getElementById("filterList"),strengthRange=document.getElementById("strengthRange"),strengthValue=document.getElementById("strengthValue"),downloadPngBtn=document.getElementById("downloadPngBtn");
     let originalImage=null,activeFilter="gaussian",strength=Number(strengthRange.value);
