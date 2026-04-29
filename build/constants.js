@@ -59,7 +59,7 @@ const APP_STORE_URL = `https://apps.apple.com/app/id${APP_STORE_ID}`;
  * ISO date (UTC) for “content / numbers last updated” in {{statistics.last_updated}}.
  * Edit this when you refresh stats copy; month+year is rendered per locale in `getStatisticsLastUpdated`.
  */
-const SITE_LAST_UPDATED_AT = '2026-04-01';
+const SITE_LAST_UPDATED_AT = new Date().toISOString().slice(0, 10);
 
 /** BCP-47 for Intl where site path `lang` is not a valid tag (jp, cn, …). */
 const INTL_LOCALE_BY_CODE = {

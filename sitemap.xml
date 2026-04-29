@@ -2,9 +2,10 @@
 <urlset 
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+
   <url>
     <loc>https://makeblur.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
@@ -21,6 +22,392 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
     <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/it/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/jp/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/nl/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/pl/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/ro/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/th/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/uk/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/vi/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://makeblur.com/cn/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://makeblur.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://makeblur.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://makeblur.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://makeblur.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://makeblur.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://makeblur.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://makeblur.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://makeblur.com/jp/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://makeblur.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://makeblur.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://makeblur.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://makeblur.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://makeblur.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://makeblur.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://makeblur.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://makeblur.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://makeblur.com/cn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://makeblur.com/" />
+    <lastmod>2026-04-29</lastmod>
     <priority>1.0</priority>
   </url>
 

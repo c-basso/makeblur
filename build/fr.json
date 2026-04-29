@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "fr",
-    "title": "Flouter l’arrière-plan sur iPhone — App gratuite pour flouter le fond d’une photo | Make Blur",
-    "description": "Floutez arrière-plan et visages sur iPhone avec Make Blur. App gratuite : détection auto, filtre bokeh, motion blur et flou gaussien. Téléchargez maintenant.",
+    "title": "Flouter l’arrière-plan sur iPhone | Make Blur",
+    "description": "Floutez fond et visages sur iPhone en quelques secondes. Make Blur propose détection auto, bokeh, motion blur et flou gaussien.",
     "keywords": "bokeh iphone, filtre bokeh, motion blur, blur background, blur face, flouter visage, easy blur, blur image, blur photo, flouter arriere plan, flouter l'arriere plan iphone, flou gaussien, confidentialité photo, application pour flouter",
     "author": "Make Blur",
     "og_url": "https://makeblur.com/fr/",
@@ -46,10 +46,10 @@
       }
     ],
     "intro": {
-      "line1": "Vous voulez flouter l’arrière-plan sur iPhone ?",
-      "line2": "Vous cherchez un easy blur (flou simple) avec un résultat propre ?",
-      "paragraph1": "Make Blur est un éditeur photo iOS gratuit pour flouter fond et visages, avec sept styles dont bokeh, motion blur et flou gaussien. Sans outils compliqués.",
-      "paragraph2": "Make Blur rend ça <strong>ultra simple</strong> : blur background, blur photo, blur image et blur effect sur iPhone. En quelques taps, vous obtenez un flou d’arrière-plan net, idéal pour les réseaux sociaux."
+      "line1": "Vous voulez un rendu portrait avec un fond doux sur iPhone ?",
+      "line2": "Vous cherchez une app simple qui protège aussi la confidentialité ?",
+      "paragraph1": "Make Blur est un éditeur iOS gratuit pour flouter fond et visages, avec sept styles dont bokeh, motion blur et flou gaussien.",
+      "paragraph2": "Ouvrez une photo, laissez l’app détecter le sujet, ajustez au pinceau si besoin puis exportez. Résultat propre en quelques gestes, sans interface compliquée."
     },
     "cta_text": "Télécharger"
   },
@@ -83,8 +83,8 @@
     },
     "items": [
       {
-        "title": "Flouter le fond d’une photo — blur background sans prise de tête",
-        "description": "Obtenez un <strong>blur background</strong> grâce à la <strong>détection automatique</strong>. Parfait pour mettre votre sujet en valeur et obtenir un rendu propre. Si vous cherchez comment flouter le fond d’une photo sur iPhone, c’est la voie la plus simple."
+        "title": "Flou d’arrière-plan en quelques secondes",
+        "description": "Avec la <strong>détection automatique</strong>, l’app sépare rapidement sujet et décor. Idéal pour mettre le sujet en valeur avec un rendu net et naturel."
       },
       {
         "title": "Blur photo & blur image — flou pour style ou confidentialité",
@@ -95,8 +95,8 @@
         "description": "Peignez exactement la zone à flouter. Ce mode vous donne <strong>un contrôle total</strong> pour créer un blur effect précis, que ce soit sur le fond ou sur une zone spécifique."
       },
       {
-        "title": "How to blur a picture on iPhone — simple, même si vous débutez",
-        "description": "Si vous tapez \"how to blur a picture on iphone\" ou que vous cherchez simplement comment flouter sur iPhone, Make Blur est fait pour vous : interface claire, étapes rapides, résultat immédiat."
+        "title": "Simple même si vous débutez",
+        "description": "Interface claire, étapes rapides, résultat immédiat: tout est pensé pour réussir un bon flou sur iPhone sans apprentissage long."
       },
       {
         "title": "Bokeh, motion blur et flou gaussien",

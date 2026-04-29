@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "en",
-    "title": "Blur Background on iPhone - Free App to Blur Photo Background | Make Blur",
-    "description": "Blur background and blur faces on iPhone with Make Blur. Free photo editor with auto-detect background, Bokeh filter, motion blur, gaussian blur, and more. Download now!",
+    "title": "Blur Background on iPhone with Make Blur | Free App",
+    "description": "Blur backgrounds and faces on iPhone in seconds. Make Blur includes auto-detect, Bokeh, motion, and Gaussian effects with simple controls.",
     "keywords": "blur background, blur faces iphone, blur face in photo, bokeh effect iphone, blur background on iphone, blur photo, blur image, motion blur, gaussian blur, bokeh filter, privacy blur faces, blur background of photo, photo blur app, background blur app",
     "author": "Make Blur",
     "og_url": "https://makeblur.com/",
@@ -46,10 +46,10 @@
       }
     ],
     "intro": {
-      "line1": "Want to blur background of photo on iPhone?",
-      "line2": "Looking for the best app to blur background?",
-      "paragraph1": "Make Blur is a free iOS photo editor for blurring backgrounds and faces, with seven blur styles including Bokeh, motion blur, and gaussian blur. You shouldn't have to wrestle with difficult tools to blur background or obscure faces on iPhone.",
-      "paragraph2": "Make Blur makes it <strong>effortless</strong> to blur background, blur photo, and blur image on iPhone. Learn how to blur background on iPhone with our intuitive app—the best way to blur background of photo."
+      "line1": "Want portrait-style background blur on iPhone?",
+      "line2": "Need a simple app that also protects privacy?",
+      "paragraph1": "Make Blur is a free iOS editor for background and face blur with seven styles, including Bokeh, motion, and Gaussian effects. It is built for fast edits without complex controls.",
+      "paragraph2": "Open any photo, let the app detect the subject, refine with brush tools, and export in seconds. You get clean results for social posts, personal shots, and privacy-safe sharing."
     },
     "cta_text": "Download Now"
   },
@@ -75,16 +75,16 @@
     ]
   },
   "features": {
-    "title": "Blur Background on iPhone - Effortless Photo Editing That Actually Works",
+    "title": "Fast iPhone Photo Blur Tools That Actually Work",
     "intro": {
-      "line1": "We understand how complicated it can be to blur background on iPhone.",
-      "paragraph1": "That's why we've created the best app to blur background of photo—transforming you from a <strong>frustrated beginner</strong> into a <strong>confident photographer</strong>.",
-      "paragraph2": "No wrestling with difficult tools—just beautiful results when you blur background on iPhone."
+      "line1": "We know most blur apps feel harder than they should.",
+      "paragraph1": "Make Blur helps you go from <strong>frustrated beginner</strong> to <strong>confident creator</strong> with quick, accurate blur controls.",
+      "paragraph2": "No complicated menus - just polished results in a few taps."
     },
     "items": [
       {
-        "title": "Blur Background of Photo - Effortless Background Blur",
-        "description": "Blur background on iPhone <strong>effortlessly</strong> with our <strong>auto-detect feature</strong>. Perfect for making your subject stand out when you blur background of photo. Create professional-looking images that <strong>shine on social media</strong>. Learn how to blur background on iPhone with just a few taps—<em>the easiest way to blur background of photo</em>."
+        "title": "Background Blur in Seconds",
+        "description": "Use <strong>auto-detect</strong> to separate subject and background instantly. It is ideal for portrait-style edits that keep attention on the person while softly defocusing the scene."
       },
       {
         "title": "Blur Faces for Privacy",
@@ -107,8 +107,8 @@
         "description": "Choose <strong>Bokeh</strong> for a cinematic shallow-depth-of-field look with soft highlight orbs, or use motion blur and gaussian blur to blur background on iPhone. Seven styles in total—mix creativity and control."
       },
       {
-        "title": "Best App to Blur Background - Users Love It",
-        "description": "Specifically designed for iPhone users who want to blur background of photo effortlessly. Make Blur is an easy way to blur background on iPhone, with a <strong>4.5-star rating from early users</strong>. Join others who are starting to transform their photos by learning how to blur background on iPhone."
+        "title": "Built for iPhone Creators",
+        "description": "Make Blur is designed for quick mobile editing with a <strong>4.5-star rating from early users</strong>. Get reliable blur tools without fighting desktop-style workflows."
       }
     ]
   },

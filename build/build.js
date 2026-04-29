@@ -11,6 +11,26 @@ const {
     getStatisticsLastUpdated
 } = require('./constants');
 
+const LEGAL_LINK_LABELS = {
+    en: { privacy: 'Privacy Policy', terms: 'Terms of Use' },
+    ru: { privacy: 'Политика конфиденциальности', terms: 'Условия использования' },
+    es: { privacy: 'Política de privacidad', terms: 'Términos de uso' },
+    fr: { privacy: 'Politique de confidentialité', terms: "Conditions d'utilisation" },
+    de: { privacy: 'Datenschutzerklärung', terms: 'Nutzungsbedingungen' },
+    it: { privacy: 'Informativa sulla privacy', terms: 'Termini di utilizzo' },
+    pt: { privacy: 'Política de Privacidade', terms: 'Termos de uso' },
+    jp: { privacy: 'プライバシーポリシー', terms: '利用規約' },
+    ko: { privacy: '개인정보 처리방침', terms: '이용 약관' },
+    nl: { privacy: 'Privacybeleid', terms: 'Gebruiksvoorwaarden' },
+    pl: { privacy: 'Polityka prywatności', terms: 'Warunki korzystania' },
+    ro: { privacy: 'Politica de confidențialitate', terms: 'Termeni de utilizare' },
+    th: { privacy: 'นโยบายความเป็นส่วนตัว', terms: 'ข้อกำหนดการใช้งาน' },
+    tr: { privacy: 'Gizlilik Politikası', terms: 'Kullanım Koşulları' },
+    uk: { privacy: 'Політика конфіденційності', terms: 'Умови використання' },
+    vi: { privacy: 'Chính sách quyền riêng tư', terms: 'Điều khoản sử dụng' },
+    cn: { privacy: '隐私政策', terms: '使用条款' }
+};
+
 (function() {
     const urlsPath = path.join(__dirname, '..', 'urls.txt');
 
@@ -105,6 +125,9 @@ const {
             data.final_cta.cta_url = APP_STORE_URL;
             data.footer.download_url = APP_STORE_URL;
             data.statistics.last_updated = getStatisticsLastUpdated(lang);
+            const legalLabels = LEGAL_LINK_LABELS[lang] || LEGAL_LINK_LABELS.en;
+            data.footer.privacy_text = data.footer.privacy_text || legalLabels.privacy;
+            data.footer.terms_text = data.footer.terms_text || legalLabels.terms;
 
             // Build JSON-LD objects from translation data to avoid hardcoded strings in template
             const stripHtml = (value) => {
