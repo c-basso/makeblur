@@ -232,7 +232,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. Alle Rechte vorbehalten.",
     "download_text": "Make Blur im App Store laden",
-    "tagline": "Make Blur — Hintergrund und Gesichter unscharf auf dem iPhone. Sieben Stile inkl. Bokeh, motion blur, Face Blur, Auto-Erkennung."
+    "tagline": "Make Blur — Hintergrund und Gesichter unscharf auf dem iPhone. Sieben Stile inkl. Bokeh, motion blur, Face Blur, Auto-Erkennung.",
+    "privacy_text": "Datenschutzerklärung",
+    "terms_text": "Nutzungsbedingungen"
   },
   "seo": {
     "breadcrumb_home": "Startseite",
@@ -358,5 +360,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "foto-hintergrund-online-unscharf-editor.html",
+    "meta_title": "Foto Hintergrund online unscharf machen - kostenloser Gaussian, Pixel & Motion Editor",
+    "meta_description": "Machen Sie den Foto-Hintergrund online kostenlos unscharf. Bild hochladen, Gaussian-, Pixel- oder Motion-Blur anwenden und PNG herunterladen.",
+    "h1": "Foto Hintergrund online unscharf machen - kostenloser Editor",
+    "intro": "Laden Sie ein Foto hoch, wählen Sie Gaussian, Pixel oder Motion Blur, stellen Sie die Stärke ein und exportieren Sie PNG.",
+    "upload_button": "Foto hochladen",
+    "download_button": "PNG herunterladen",
+    "slider_label": "Unschärfe-Stärke",
+    "placeholder_line1": "Noch kein Foto hochgeladen.",
+    "placeholder_line2": "Klicken Sie auf „Foto hochladen“, um zu starten.",
+    "hero_link_text": "Online-Editor für Hintergrund-Unschärfe öffnen (Gaussian, Pixel, Motion)",
+    "seo_heading": "Kostenloser Online-Editor für Foto-Unschärfe",
+    "seo_paragraph": "Verwischen Sie Hintergründe schnell, verbergen Sie Details und erstellen Sie Motion-Effekte ohne Installation.",
+    "back_to_home_text": "Zurück zur Startseite",
+    "app_cta_heading": "Brauchen Sie einen vollständigen Editor mit selektivem Blur?",
+    "app_cta_subtext": "Für volle Bearbeitung, schnelleren Workflow und Profi-Werkzeuge installieren Sie Make Blur auf dem iPhone.",
+    "app_cta_button": "Make Blur App herunterladen"
   }
 }

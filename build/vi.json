@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. Bảo lưu mọi quyền.",
     "download_text": "Tải Make Blur trên App Store",
-    "tagline": "Make Blur — nền và mặt trên iPhone. Bokeh, motion, gaussian; tự nhận nền."
+    "tagline": "Make Blur — nền và mặt trên iPhone. Bokeh, motion, gaussian; tự nhận nền.",
+    "privacy_text": "Chính sách quyền riêng tư",
+    "terms_text": "Điều khoản sử dụng"
   },
   "seo": {
     "breadcrumb_home": "Trang chủ",
@@ -362,5 +364,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "lam-mo-anh-online-editor.html",
+    "meta_title": "Làm mờ nền ảnh online - trình chỉnh sửa miễn phí Gaussian, Pixel và Motion",
+    "meta_description": "Làm mờ nền ảnh online miễn phí. Tải ảnh lên, áp dụng gaussian, pixel hoặc motion blur và tải PNG ngay.",
+    "h1": "Làm mờ nền ảnh online - trình chỉnh sửa miễn phí",
+    "intro": "Tải ảnh từ thiết bị, chọn gaussian, pixel hoặc motion blur, chỉnh độ mạnh và xuất PNG.",
+    "upload_button": "Tải ảnh lên",
+    "download_button": "Tải PNG",
+    "slider_label": "Độ mạnh làm mờ",
+    "placeholder_line1": "Chưa có ảnh nào được tải lên.",
+    "placeholder_line2": "Nhấn \"Tải ảnh lên\" để bắt đầu.",
+    "hero_link_text": "Mở trình làm mờ ảnh online miễn phí (Gaussian, Pixel, Motion)",
+    "seo_heading": "Trình làm mờ ảnh online miễn phí",
+    "seo_paragraph": "Làm mờ nền, ẩn chi tiết và tạo hiệu ứng chuyển động mà không cần cài đặt phần mềm.",
+    "back_to_home_text": "Quay lại trang chủ",
+    "app_cta_heading": "Cần trình chỉnh sửa đầy đủ với làm mờ nền chọn lọc?",
+    "app_cta_subtext": "Để có tính năng nâng cao, quy trình nhanh hơn và kiểm soát tốt hơn, hãy cài ứng dụng Make Blur trên iPhone.",
+    "app_cta_button": "Tải ứng dụng Make Blur"
   }
 }

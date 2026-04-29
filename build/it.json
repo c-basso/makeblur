@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. Tutti i diritti riservati.",
     "download_text": "Scarica Make Blur su App Store",
-    "tagline": "Make Blur — sfondo e volti su iPhone. Sette stili con bokeh, motion blur, blur volti e rilevamento automatico."
+    "tagline": "Make Blur — sfondo e volti su iPhone. Sette stili con bokeh, motion blur, blur volti e rilevamento automatico.",
+    "privacy_text": "Informativa sulla privacy",
+    "terms_text": "Termini di utilizzo"
   },
   "seo": {
     "breadcrumb_home": "Home",
@@ -362,5 +364,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "sfocare-sfondo-foto-online-editor.html",
+    "meta_title": "Sfocare sfondo foto online - editor gratis Gaussian, Pixel e Motion",
+    "meta_description": "Sfoca lo sfondo foto online gratis. Carica un'immagine, applica gaussian, pixel o motion blur e scarica PNG subito.",
+    "h1": "Sfocare sfondo foto online - editor gratis",
+    "intro": "Carica una foto, scegli gaussian, pixel o motion blur, regola l'intensità ed esporta PNG.",
+    "upload_button": "Carica foto",
+    "download_button": "Scarica PNG",
+    "slider_label": "Intensità sfocatura",
+    "placeholder_line1": "Nessuna foto caricata.",
+    "placeholder_line2": "Clicca \"Carica foto\" per iniziare.",
+    "hero_link_text": "Apri editor online sfocatura foto (Gaussian, Pixel, Motion)",
+    "seo_heading": "Editor online gratuito per sfocare foto",
+    "seo_paragraph": "Sfoca lo sfondo, nascondi dettagli e crea effetto movimento senza installare software.",
+    "back_to_home_text": "Torna alla home",
+    "app_cta_heading": "Ti serve un editor completo con sfocatura selettiva?",
+    "app_cta_subtext": "Per funzioni avanzate, flusso più rapido e controllo totale, installa Make Blur su iPhone.",
+    "app_cta_button": "Scarica l'app Make Blur"
   }
 }

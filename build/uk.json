@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. Усі права захищені.",
     "download_text": "Завантажити Make Blur в App Store",
-    "tagline": "Make Blur — фон і обличчя на iPhone. Боке, motion, gaussian та інше; авто-фон."
+    "tagline": "Make Blur — фон і обличчя на iPhone. Боке, motion, gaussian та інше; авто-фон.",
+    "privacy_text": "Політика конфіденційності",
+    "terms_text": "Умови використання"
   },
   "seo": {
     "breadcrumb_home": "Головна",
@@ -362,5 +364,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "rozmyttya-fonu-foto-onlain-redaktor.html",
+    "meta_title": "Розмиття фону фото онлайн - безкоштовний редактор Gaussian, Pixel і Motion",
+    "meta_description": "Розмивайте фон фото онлайн безкоштовно: завантажте зображення, застосуйте gaussian, pixel або motion blur і скачайте PNG.",
+    "h1": "Розмиття фону фото онлайн - безкоштовний редактор",
+    "intro": "Завантажте фото, оберіть gaussian, pixel або motion blur, налаштуйте силу й експортуйте PNG.",
+    "upload_button": "Завантажити фото",
+    "download_button": "Скачати PNG",
+    "slider_label": "Сила розмиття",
+    "placeholder_line1": "Фото ще не завантажено.",
+    "placeholder_line2": "Натисніть «Завантажити фото», щоб почати.",
+    "hero_link_text": "Відкрити онлайн-редактор розмиття фото (Gaussian, Pixel, Motion)",
+    "seo_heading": "Безкоштовний онлайн-редактор розмиття фото",
+    "seo_paragraph": "Швидко розмивайте фон, приховуйте деталі та робіть motion-ефект без встановлення програм.",
+    "back_to_home_text": "Повернутися на головну",
+    "app_cta_heading": "Потрібен повний редактор із вибірковим розмиттям фону?",
+    "app_cta_subtext": "Для розширених функцій, швидшого workflow та повного контролю встановіть Make Blur на iPhone.",
+    "app_cta_button": "Завантажити застосунок Make Blur"
   }
 }

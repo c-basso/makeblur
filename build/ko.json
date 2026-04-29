@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. 무단 복제·배포를 금합니다.",
     "download_text": "App Store에서 Make Blur 받기",
-    "tagline": "Make Blur — 배경·얼굴 블러. 보케·모션·가우시안 등 7가지, 자동 인식."
+    "tagline": "Make Blur — 배경·얼굴 블러. 보케·모션·가우시안 등 7가지, 자동 인식.",
+    "privacy_text": "개인정보 처리방침",
+    "terms_text": "이용 약관"
   },
   "seo": {
     "breadcrumb_home": "홈",
@@ -362,5 +364,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "online-sajin-blur-editor.html",
+    "meta_title": "사진 배경 블러 온라인 - Gaussian, Pixel, Motion 무료 에디터",
+    "meta_description": "사진 배경을 온라인에서 무료로 블러 처리하세요. 이미지를 업로드하고 gaussian, pixel, motion blur 적용 후 PNG 저장.",
+    "h1": "사진 배경 블러 온라인 - 무료 에디터",
+    "intro": "사진을 업로드하고 gaussian, pixel, motion blur를 선택해 강도를 조절한 뒤 PNG로 저장하세요.",
+    "upload_button": "사진 업로드",
+    "download_button": "PNG 다운로드",
+    "slider_label": "블러 강도",
+    "placeholder_line1": "아직 업로드된 사진이 없습니다.",
+    "placeholder_line2": "시작하려면 \"사진 업로드\"를 누르세요.",
+    "hero_link_text": "무료 온라인 사진 블러 에디터 열기 (Gaussian, Pixel, Motion)",
+    "seo_heading": "무료 온라인 사진 블러 에디터",
+    "seo_paragraph": "배경 흐림, 디테일 가리기, 모션 효과를 설치 없이 빠르게 적용하세요.",
+    "back_to_home_text": "홈으로 돌아가기",
+    "app_cta_heading": "선택적 배경 블러가 가능한 전체 편집기가 필요하신가요?",
+    "app_cta_subtext": "고급 기능, 더 빠른 작업 흐름, 정밀한 제어를 위해 iPhone용 Make Blur 앱을 설치하세요.",
+    "app_cta_button": "Make Blur 앱 다운로드"
   }
 }

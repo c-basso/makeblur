@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur สงวนลิขสิทธิ์",
     "download_text": "ดาวน์โหลด Make Blur บน App Store",
-    "tagline": "Make Blur เบลอพื้นหลังและใบหน้า โบเก้ motion gaussian จับพื้นหลังอัตโนมัติ"
+    "tagline": "Make Blur เบลอพื้นหลังและใบหน้า โบเก้ motion gaussian จับพื้นหลังอัตโนมัติ",
+    "privacy_text": "นโยบายความเป็นส่วนตัว",
+    "terms_text": "ข้อกำหนดการใช้งาน"
   },
   "seo": {
     "breadcrumb_home": "หน้าแรก",
@@ -362,5 +364,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "editor-blur-rupphap-online.html",
+    "meta_title": "เบลอพื้นหลังรูปออนไลน์ - เครื่องมือฟรี Gaussian, Pixel และ Motion",
+    "meta_description": "เบลอพื้นหลังรูปออนไลน์ฟรี อัปโหลดรูป ใช้ gaussian, pixel หรือ motion blur แล้วดาวน์โหลด PNG ได้ทันที",
+    "h1": "เบลอพื้นหลังรูปออนไลน์ - เครื่องมือฟรี",
+    "intro": "อัปโหลดรูป เลือก gaussian, pixel หรือ motion blur ปรับความแรง แล้วบันทึกเป็น PNG",
+    "upload_button": "อัปโหลดรูป",
+    "download_button": "ดาวน์โหลด PNG",
+    "slider_label": "ความแรงเบลอ",
+    "placeholder_line1": "ยังไม่ได้อัปโหลดรูปภาพ",
+    "placeholder_line2": "กด \"อัปโหลดรูป\" เพื่อเริ่มใช้งาน",
+    "hero_link_text": "เปิดตัวแก้ไขเบลอภาพออนไลน์ฟรี (Gaussian, Pixel, Motion)",
+    "seo_heading": "เครื่องมือเบลอภาพออนไลน์ฟรี",
+    "seo_paragraph": "เบลอพื้นหลัง ซ่อนรายละเอียด และสร้างเอฟเฟกต์การเคลื่อนไหวได้โดยไม่ต้องติดตั้งแอป",
+    "back_to_home_text": "กลับไปหน้าแรก",
+    "app_cta_heading": "ต้องการตัวแก้ไขเต็มรูปแบบที่เบลอพื้นหลังแบบเลือกได้ไหม?",
+    "app_cta_subtext": "สำหรับฟีเจอร์ขั้นสูง เวิร์กโฟลว์ที่เร็วกว่า และการควบคุมละเอียด ให้ติดตั้งแอป Make Blur บน iPhone",
+    "app_cta_button": "ดาวน์โหลดแอป Make Blur"
   }
 }

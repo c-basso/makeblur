@@ -254,7 +254,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. Все права защищены.",
     "download_text": "Скачать Make Blur в App Store",
-    "tagline": "Make Blur — размытие фона и лиц на iPhone. Семь стилей, включая боке, motion blur и гауссово размытие; авто-фон и приватность."
+    "tagline": "Make Blur — размытие фона и лиц на iPhone. Семь стилей, включая боке, motion blur и гауссово размытие; авто-фон и приватность.",
+    "privacy_text": "Политика конфиденциальности",
+    "terms_text": "Условия использования"
   },
   "seo": {
     "breadcrumb_home": "Главная",
@@ -356,5 +358,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "razmytie-foto-onlain-redaktor.html",
+    "meta_title": "Размытие фото онлайн - бесплатный редактор Gaussian, Pixel и Motion",
+    "meta_description": "Размывайте фото онлайн бесплатно: загрузите изображение, примените gaussian, pixel или motion blur, настройте силу и скачайте PNG.",
+    "h1": "Размытие фото онлайн - бесплатный редактор",
+    "intro": "Загрузите фото с устройства, выберите gaussian, pixel или motion blur, настройте силу и скачайте PNG.",
+    "upload_button": "Загрузить фото",
+    "download_button": "Скачать PNG",
+    "slider_label": "Сила размытия",
+    "placeholder_line1": "Фото пока не загружено.",
+    "placeholder_line2": "Нажмите «Загрузить фото», чтобы начать.",
+    "hero_link_text": "Открыть онлайн-редактор размытия фото (Gaussian, Pixel, Motion)",
+    "seo_heading": "Бесплатный онлайн-редактор размытия фото",
+    "seo_paragraph": "Размывайте фото, скрывайте детали и делайте motion-эффект без установки приложений.",
+    "back_to_home_text": "Назад на главную",
+    "app_cta_heading": "Нужен полный редактор с выборочным размытием фона?",
+    "app_cta_subtext": "Для полноценного редактирования, быстрого workflow и продвинутых инструментов установите Make Blur на iPhone.",
+    "app_cta_button": "Скачать приложение Make Blur"
   }
 }

@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. 全著作権所有。",
     "download_text": "App StoreでMake Blurをダウンロード",
-    "tagline": "Make Blur - iPhoneで背景と顔をぼかす。ボケ・モーション・ガウシアンなど7種類、自動検出と顔ぼかし。"
+    "tagline": "Make Blur - iPhoneで背景と顔をぼかす。ボケ・モーション・ガウシアンなど7種類、自動検出と顔ぼかし。",
+    "privacy_text": "プライバシーポリシー",
+    "terms_text": "利用規約"
   },
   "seo": {
     "breadcrumb_home": "ホーム",
@@ -362,5 +364,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "onrain-shashin-bokashi-editor.html",
+    "meta_title": "写真背景ぼかしオンライン - Gaussian・Pixel・Motion 無料エディター",
+    "meta_description": "写真の背景をオンラインで無料ぼかし。画像をアップロードし、gaussian・pixel・motion blurを適用してPNGを保存。",
+    "h1": "写真背景ぼかしオンライン - 無料エディター",
+    "intro": "写真をアップロードして、gaussian・pixel・motion blurを選択し、強さを調整してPNG保存。",
+    "upload_button": "写真をアップロード",
+    "download_button": "PNGをダウンロード",
+    "slider_label": "ぼかし強度",
+    "placeholder_line1": "まだ写真がアップロードされていません。",
+    "placeholder_line2": "「写真をアップロード」を押して開始。",
+    "hero_link_text": "無料オンライン写真ぼかしエディターを開く (Gaussian / Pixel / Motion)",
+    "seo_heading": "無料オンライン写真ぼかしエディター",
+    "seo_paragraph": "背景ぼかし、細部の非表示、モーション効果をインストール不要で実行。",
+    "back_to_home_text": "トップページに戻る",
+    "app_cta_heading": "選択的な背景ぼかし対応のフル機能版が必要ですか？",
+    "app_cta_subtext": "高度な編集機能、より速いワークフロー、細かな調整には iPhone 用 Make Blur アプリをご利用ください。",
+    "app_cta_button": "Make Blur アプリをダウンロード"
   }
 }

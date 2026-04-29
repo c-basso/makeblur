@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. All rights reserved.",
     "download_text": "Download Make Blur on the App Store",
-    "tagline": "Make Blur - Blur background and faces on iPhone. Seven styles including Bokeh, motion blur, and gaussian blur—auto-detect background and privacy blur."
+    "tagline": "Make Blur - Blur background and faces on iPhone. Seven styles including Bokeh, motion blur, and gaussian blur—auto-detect background and privacy blur.",
+    "privacy_text": "Privacy Policy",
+    "terms_text": "Terms of Use"
   },
   "seo": {
     "breadcrumb_home": "Home",
@@ -350,5 +352,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "photo-blur-editor-online.html",
+    "meta_title": "Photo Blur Editor Online - Free Gaussian, Pixel & Motion Blur",
+    "meta_description": "Blur photos online for free. Upload an image, apply gaussian, pixel, or motion blur, adjust blur strength, and download PNG instantly.",
+    "h1": "Photo Blur Editor Online - Free Blur Tool",
+    "intro": "Upload a photo, choose gaussian, pixel, or motion blur, adjust strength, and export high-quality PNG.",
+    "upload_button": "Upload Photo",
+    "download_button": "Download PNG",
+    "slider_label": "Blur Strength",
+    "placeholder_line1": "No photo uploaded yet.",
+    "placeholder_line2": "Click \"Upload Photo\" to start editing.",
+    "hero_link_text": "Open Free Online Photo Blur Editor (Gaussian, Pixel, Motion)",
+    "seo_heading": "Free Online Photo Blur Editor",
+    "seo_paragraph": "Use this one-page editor to blur photos, hide details, and create motion effects without installing software.",
+    "back_to_home_text": "Back to homepage",
+    "app_cta_heading": "Need full selective background blur and pro tools?",
+    "app_cta_subtext": "For complete editing features, faster workflow, and advanced controls, install the Make Blur app on iPhone.",
+    "app_cta_button": "Download Make Blur App"
   }
 }

@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur。保留所有权利。",
     "download_text": "在 App Store 下载 Make Blur",
-    "tagline": "Make Blur — 在 iPhone 上虚化背景与人脸。七种效果含散景、动态与高斯模糊；自动识别背景与隐私人脸模糊。"
+    "tagline": "Make Blur — 在 iPhone 上虚化背景与人脸。七种效果含散景、动态与高斯模糊；自动识别背景与隐私人脸模糊。",
+    "privacy_text": "隐私政策",
+    "terms_text": "使用条款"
   },
   "seo": {
     "breadcrumb_home": "首页",
@@ -362,5 +364,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "zaixian-tupian-mohu-bianjiqi.html",
+    "meta_title": "在线照片背景模糊 - 免费 Gaussian、Pixel、Motion 编辑器",
+    "meta_description": "免费在线模糊照片背景。上传图片，应用 gaussian、pixel 或 motion blur，调节强度并下载 PNG。",
+    "h1": "在线照片背景模糊 - 免费编辑器",
+    "intro": "上传设备照片，选择 gaussian、pixel 或 motion blur，调节强度后导出 PNG。",
+    "upload_button": "上传照片",
+    "download_button": "下载 PNG",
+    "slider_label": "模糊强度",
+    "placeholder_line1": "尚未上传照片。",
+    "placeholder_line2": "点击“上传照片”开始编辑。",
+    "hero_link_text": "打开免费在线照片模糊编辑器 (Gaussian, Pixel, Motion)",
+    "seo_heading": "免费在线照片模糊编辑器",
+    "seo_paragraph": "无需安装软件即可快速模糊背景、隐藏细节并创建运动模糊效果。",
+    "back_to_home_text": "返回首页",
+    "app_cta_heading": "需要支持选择性背景模糊的完整版编辑器吗？",
+    "app_cta_subtext": "如需完整功能、更快流程和更强控制，请在 iPhone 上安装 Make Blur 应用。",
+    "app_cta_button": "下载 Make Blur 应用"
   }
 }

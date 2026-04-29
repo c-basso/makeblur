@@ -232,7 +232,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. Tous droits réservés.",
     "download_text": "Télécharger Make Blur sur l’App Store",
-    "tagline": "Make Blur — fond et visages sur iPhone. Sept styles dont bokeh, motion blur, blur face et détection auto."
+    "tagline": "Make Blur — fond et visages sur iPhone. Sept styles dont bokeh, motion blur, blur face et détection auto.",
+    "privacy_text": "Politique de confidentialité",
+    "terms_text": "Conditions d'utilisation"
   },
   "seo": {
     "breadcrumb_home": "Accueil",
@@ -358,5 +360,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "flouter-photo-fond-en-ligne-editeur.html",
+    "meta_title": "Flouter le fond d'une photo en ligne - éditeur gratuit Gaussian, Pixel & Motion",
+    "meta_description": "Floutez le fond d'une photo en ligne gratuitement. Importez une image, appliquez gaussian, pixel ou motion blur et téléchargez en PNG.",
+    "h1": "Flouter le fond d'une photo en ligne - éditeur gratuit",
+    "intro": "Importez une photo, choisissez gaussian, pixel ou motion blur, ajustez la force et exportez en PNG.",
+    "upload_button": "Importer une photo",
+    "download_button": "Télécharger PNG",
+    "slider_label": "Intensité du flou",
+    "placeholder_line1": "Aucune photo importée.",
+    "placeholder_line2": "Cliquez sur « Importer une photo » pour commencer.",
+    "hero_link_text": "Ouvrir l'éditeur de flou photo en ligne (Gaussian, Pixel, Motion)",
+    "seo_heading": "Éditeur gratuit de flou photo en ligne",
+    "seo_paragraph": "Floutez rapidement l'arrière-plan, masquez des détails et créez des effets de mouvement sans installer d'application.",
+    "back_to_home_text": "Retour à l'accueil",
+    "app_cta_heading": "Besoin d'un éditeur complet avec flou sélectif ?",
+    "app_cta_subtext": "Pour des outils avancés, un flux plus rapide et un contrôle complet, installez l'app Make Blur sur iPhone.",
+    "app_cta_button": "Télécharger l'app Make Blur"
   }
 }

@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. Tüm hakları saklıdır.",
     "download_text": "Make Blur'ı App Store'dan indirin",
-    "tagline": "Make Blur — arka plan ve yüz bulanıklığı. Bokeh, motion, gaussian; otomatik algılama."
+    "tagline": "Make Blur — arka plan ve yüz bulanıklığı. Bokeh, motion, gaussian; otomatik algılama.",
+    "privacy_text": "Gizlilik Politikası",
+    "terms_text": "Kullanım Koşulları"
   },
   "seo": {
     "breadcrumb_home": "Ana sayfa",
@@ -362,5 +364,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "fotograf-arka-plan-bulaniklastirma-online-editor.html",
+    "meta_title": "Fotoğraf arka plan bulanıklaştırma online - ücretsiz Gaussian, Pixel ve Motion editör",
+    "meta_description": "Fotoğraf arka planını online ücretsiz bulanıklaştırın. Görsel yükleyin, gaussian, pixel veya motion blur uygulayıp PNG indirin.",
+    "h1": "Fotoğraf arka plan bulanıklaştırma online - ücretsiz editör",
+    "intro": "Fotoğraf yükleyin, gaussian, pixel veya motion blur seçin, gücü ayarlayın ve PNG indirin.",
+    "upload_button": "Fotoğraf yükle",
+    "download_button": "PNG indir",
+    "slider_label": "Bulanıklık gücü",
+    "placeholder_line1": "Henüz fotoğraf yüklenmedi.",
+    "placeholder_line2": "Başlamak için \"Fotoğraf yükle\"ye tıklayın.",
+    "hero_link_text": "Online fotoğraf bulanıklaştırma editörünü aç (Gaussian, Pixel, Motion)",
+    "seo_heading": "Ücretsiz online fotoğraf blur editörü",
+    "seo_paragraph": "Arka planı bulanıklaştırın, detayları gizleyin ve hareket efekti oluşturun; kurulum gerekmez.",
+    "back_to_home_text": "Ana sayfaya dön",
+    "app_cta_heading": "Seçimli arka plan bulanıklaştırmalı tam bir editöre mi ihtiyacınız var?",
+    "app_cta_subtext": "Gelişmiş özellikler, daha hızlı iş akışı ve tam kontrol için iPhone'a Make Blur uygulamasını yükleyin.",
+    "app_cta_button": "Make Blur uygulamasını indir"
   }
 }

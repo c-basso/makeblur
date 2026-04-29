@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Foto achtergrond vervagen online - gratis Gaussian, Pixel &amp; Motion editor</title>
+  <meta name="description" content="Vervaag fotoachtergrond online gratis. Upload een afbeelding, pas gaussian, pixel of motion blur toe en download direct PNG." />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <link rel="canonical" href="https://makeblur.com/nl/foto-achtergrond-vervagen-online-editor.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Foto achtergrond vervagen online - gratis Gaussian, Pixel &amp; Motion editor" />
+  <meta property="og:description" content="Vervaag fotoachtergrond online gratis. Upload een afbeelding, pas gaussian, pixel of motion blur toe en download direct PNG." />
+  <meta property="og:url" content="https://makeblur.com/nl/foto-achtergrond-vervagen-online-editor.html" />
+  <meta property="og:image" content="https://makeblur.com/nl/site_preview.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Foto achtergrond vervagen online - gratis Gaussian, Pixel &amp; Motion editor" />
+  <meta name="twitter:description" content="Vervaag fotoachtergrond online gratis. Upload een afbeelding, pas gaussian, pixel of motion blur toe en download direct PNG." />
+  <meta name="twitter:image" content="https://makeblur.com/nl/site_preview.png" />
+  <style>
+    :root { --bg:#0f1115; --card:#1a1f29; --text:#eef2ff; --muted:#aeb7cf; --accent:#7c9cff; --accent-strong:#5f82ff; --border:#2a3242; }
+    *{box-sizing:border-box} body{margin:0;font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;color:var(--text);background:radial-gradient(circle at top,#171c27 0%,var(--bg) 50%);min-height:100vh;padding:20px}
+    .app{max-width:980px;margin:0 auto;display:grid;gap:16px}.panel{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:16px}
+    .header{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}.title{margin:0;font-size:26px;font-weight:700}.sub{margin:8px 0 0;color:var(--muted);font-size:14px;max-width:720px}
+    .top-links{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+    .back-link{color:#c8d7ff;text-decoration:underline;font-size:14px}
+    .button{border:1px solid transparent;background:var(--accent);color:#fff;border-radius:10px;padding:10px 14px;font-size:14px;font-weight:600;cursor:pointer;transition:.2s ease;white-space:nowrap}
+    .button:hover{background:var(--accent-strong)}.button:disabled{opacity:.45;cursor:not-allowed}.button.secondary{background:transparent;border-color:var(--border);color:var(--text)}
+    .canvas-wrap{width:100%;min-height:320px;display:grid;place-items:center;border:1px dashed #3b4560;border-radius:14px;background:#121722;overflow:auto;padding:12px}
+    .canvas-wrap.is-clickable{cursor:pointer}
+    #editorCanvas{max-width:100%;height:auto;border-radius:12px;display:none;background:#10131b}.placeholder{color:var(--muted);text-align:center;line-height:1.5;padding:24px}
+    .filters{display:flex;gap:10px;overflow-x:auto;padding-bottom:4px}.chip{border:1px solid var(--border);background:#111623;color:var(--text);border-radius:999px;padding:8px 14px;font-size:13px;cursor:pointer;white-space:nowrap;transition:.2s ease}
+    .chip.active{background:rgba(124,156,255,.2);border-color:var(--accent);color:#dce5ff}.slider-row{margin-top:14px;display:grid;gap:8px}.slider-head{display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:13px}
+    input[type="range"]{width:100%;accent-color:var(--accent);cursor:pointer}
+    .seo-copy h2{margin:0 0 8px}.seo-copy p{margin:0;color:var(--muted);line-height:1.6}
+    .app-cta{border:1px solid #354262;background:linear-gradient(180deg, rgba(124,156,255,.16), rgba(124,156,255,.06));}
+    .app-cta h2{margin:0 0 8px}
+    .app-cta p{margin:0;color:var(--muted);line-height:1.6}
+    .app-cta .button{margin-top:12px;display:inline-block;text-decoration:none}
+  </style>
+</head>
+<body>
+  <div class="app">
+    <section class="panel header">
+      <div>
+        <div class="top-links">
+          <a class="back-link" href="https://makeblur.com/nl/">Terug naar homepage</a>
+        </div>
+        <h1 class="title">Foto achtergrond vervagen online - gratis editor</h1>
+        <p class="sub">Upload een foto, kies gaussian, pixel of motion blur, stel sterkte in en exporteer PNG.</p>
+      </div>
+      <div style="display:flex; gap:10px; align-items:center;">
+        <label class="button secondary" for="imageInput">Foto uploaden</label>
+        <input id="imageInput" type="file" accept="image/*" style="display:none;" />
+        <button id="downloadPngBtn" class="button" disabled>PNG downloaden</button>
+      </div>
+    </section>
+    <section class="panel">
+      <div class="canvas-wrap">
+        <canvas id="editorCanvas"></canvas>
+        <div id="placeholder" class="placeholder">Nog geen foto geüpload.<br />Klik op "Foto uploaden" om te beginnen.</div>
+      </div>
+    </section>
+    <section class="panel">
+      <div class="filters" id="filterList">
+        <button class="chip active" data-filter="gaussian">gaussian</button>
+        <button class="chip" data-filter="pixel">pixel</button>
+        <button class="chip" data-filter="motion">motion</button>
+      </div>
+      <div class="slider-row">
+        <div class="slider-head">
+          <span>Vervaagsterkte</span>
+          <span id="strengthValue">40</span>
+        </div>
+        <input id="strengthRange" type="range" min="0" max="100" value="40" />
+      </div>
+    </section>
+    <section class="panel seo-copy">
+      <h2>Gratis online foto vervaag-editor</h2>
+      <p>Vervaag achtergronden, verberg details en maak motion-effecten zonder software te installeren.</p>
+    </section>
+    <section class="panel app-cta">
+      <h2>Een volledige editor met selectieve achtergrondblur nodig?</h2>
+      <p>Voor geavanceerde functies, snellere workflow en volledige controle installeer je de Make Blur-app op iPhone.</p>
+      <a class="button" href="https://apps.apple.com/app/id6749166426">Make Blur-app downloaden</a>
+    </section>
+  </div>
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"WebPage","name":"Foto achtergrond vervagen online - gratis Gaussian, Pixel &amp; Motion editor","description":"Vervaag fotoachtergrond online gratis. Upload een afbeelding, pas gaussian, pixel of motion blur toe en download direct PNG.","url":"https://makeblur.com/nl/foto-achtergrond-vervagen-online-editor.html","inLanguage":"nl"}
+  </script>
+  <script>
+    const imageInput=document.getElementById("imageInput"),canvas=document.getElementById("editorCanvas"),ctx=canvas.getContext("2d"),placeholder=document.getElementById("placeholder"),canvasWrap=document.querySelector(".canvas-wrap"),filterList=document.getElementById("filterList"),strengthRange=document.getElementById("strengthRange"),strengthValue=document.getElementById("strengthValue"),downloadPngBtn=document.getElementById("downloadPngBtn");
+    let originalImage=null,activeFilter="gaussian",strength=Number(strengthRange.value);
+    function clamp(v,min,max){return Math.min(max,Math.max(min,v))}
+    function fitCanvasToImage(img){const maxW=900,maxH=1200;let w=img.naturalWidth,h=img.naturalHeight;const scale=Math.min(maxW/w,maxH/h,1);canvas.width=Math.round(w*scale);canvas.height=Math.round(h*scale)}
+    function drawGaussian(img,amount){const blurPx=(amount/100)*22;ctx.save();ctx.filter="blur("+blurPx.toFixed(1)+"px)";ctx.drawImage(img,0,0,canvas.width,canvas.height);ctx.restore()}
+    function drawPixel(img,amount){const downscale=clamp(1-amount/100,.06,1),w=Math.max(1,Math.round(canvas.width*downscale)),h=Math.max(1,Math.round(canvas.height*downscale));const off=document.createElement("canvas");off.width=w;off.height=h;const octx=off.getContext("2d");octx.drawImage(img,0,0,w,h);ctx.imageSmoothingEnabled=false;ctx.drawImage(off,0,0,w,h,0,0,canvas.width,canvas.height);ctx.imageSmoothingEnabled=true}
+    function drawMotion(img,amount){const maxOffset=2+(amount/100)*32,samples=14;ctx.save();ctx.globalAlpha=1/samples;for(let i=0;i<samples;i++){const t=i/(samples-1),offset=-maxOffset/2+t*maxOffset;ctx.drawImage(img,offset,0,canvas.width,canvas.height)}ctx.restore()}
+    function render(){if(!originalImage)return;ctx.clearRect(0,0,canvas.width,canvas.height);if(activeFilter==="gaussian")drawGaussian(originalImage,strength);else if(activeFilter==="pixel")drawPixel(originalImage,strength);else if(activeFilter==="motion")drawMotion(originalImage,strength)}
+    imageInput.addEventListener("change",(e)=>{const file=e.target.files&&e.target.files[0];if(!file)return;const url=URL.createObjectURL(file),img=new Image();img.onload=()=>{originalImage=img;fitCanvasToImage(img);canvas.style.display="block";placeholder.style.display="none";canvasWrap.classList.remove("is-clickable");downloadPngBtn.disabled=false;render();URL.revokeObjectURL(url)};img.src=url});
+    canvasWrap.classList.add("is-clickable");
+    canvasWrap.addEventListener("click",()=>{if(!originalImage)imageInput.click()});
+    filterList.addEventListener("click",(e)=>{const button=e.target.closest(".chip");if(!button)return;activeFilter=button.dataset.filter;for(const chip of filterList.querySelectorAll(".chip"))chip.classList.toggle("active",chip===button);render()});
+    strengthRange.addEventListener("input",()=>{strength=Number(strengthRange.value);strengthValue.textContent=String(strength);render()});
+    downloadPngBtn.addEventListener("click",()=>{if(!originalImage)return;const pngData=canvas.toDataURL("image/png"),link=document.createElement("a");link.href=pngData;link.download="edited-photo.png";link.click()});
+  </script>
+</body>
+</html>

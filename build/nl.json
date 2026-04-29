@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. Alle rechten voorbehouden.",
     "download_text": "Download Make Blur in de App Store",
-    "tagline": "Make Blur — achtergrond en gezichten vervagen. Bokeh, motion, gaussian en meer; auto-detectie."
+    "tagline": "Make Blur — achtergrond en gezichten vervagen. Bokeh, motion, gaussian en meer; auto-detectie.",
+    "privacy_text": "Privacybeleid",
+    "terms_text": "Gebruiksvoorwaarden"
   },
   "seo": {
     "breadcrumb_home": "Home",
@@ -362,5 +364,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "foto-achtergrond-vervagen-online-editor.html",
+    "meta_title": "Foto achtergrond vervagen online - gratis Gaussian, Pixel & Motion editor",
+    "meta_description": "Vervaag fotoachtergrond online gratis. Upload een afbeelding, pas gaussian, pixel of motion blur toe en download direct PNG.",
+    "h1": "Foto achtergrond vervagen online - gratis editor",
+    "intro": "Upload een foto, kies gaussian, pixel of motion blur, stel sterkte in en exporteer PNG.",
+    "upload_button": "Foto uploaden",
+    "download_button": "PNG downloaden",
+    "slider_label": "Vervaagsterkte",
+    "placeholder_line1": "Nog geen foto geüpload.",
+    "placeholder_line2": "Klik op \"Foto uploaden\" om te beginnen.",
+    "hero_link_text": "Open online foto vervaag-editor (Gaussian, Pixel, Motion)",
+    "seo_heading": "Gratis online foto vervaag-editor",
+    "seo_paragraph": "Vervaag achtergronden, verberg details en maak motion-effecten zonder software te installeren.",
+    "back_to_home_text": "Terug naar homepage",
+    "app_cta_heading": "Een volledige editor met selectieve achtergrondblur nodig?",
+    "app_cta_subtext": "Voor geavanceerde functies, snellere workflow en volledige controle installeer je de Make Blur-app op iPhone.",
+    "app_cta_button": "Make Blur-app downloaden"
   }
 }

@@ -11,33 +11,25 @@ const {
     getStatisticsLastUpdated
 } = require('./constants');
 
-const LEGAL_LINK_LABELS = {
-    en: { privacy: 'Privacy Policy', terms: 'Terms of Use' },
-    ru: { privacy: 'Политика конфиденциальности', terms: 'Условия использования' },
-    es: { privacy: 'Política de privacidad', terms: 'Términos de uso' },
-    fr: { privacy: 'Politique de confidentialité', terms: "Conditions d'utilisation" },
-    de: { privacy: 'Datenschutzerklärung', terms: 'Nutzungsbedingungen' },
-    it: { privacy: 'Informativa sulla privacy', terms: 'Termini di utilizzo' },
-    pt: { privacy: 'Política de Privacidade', terms: 'Termos de uso' },
-    jp: { privacy: 'プライバシーポリシー', terms: '利用規約' },
-    ko: { privacy: '개인정보 처리방침', terms: '이용 약관' },
-    nl: { privacy: 'Privacybeleid', terms: 'Gebruiksvoorwaarden' },
-    pl: { privacy: 'Polityka prywatności', terms: 'Warunki korzystania' },
-    ro: { privacy: 'Politica de confidențialitate', terms: 'Termeni de utilizare' },
-    th: { privacy: 'นโยบายความเป็นส่วนตัว', terms: 'ข้อกำหนดการใช้งาน' },
-    tr: { privacy: 'Gizlilik Politikası', terms: 'Kullanım Koşulları' },
-    uk: { privacy: 'Політика конфіденційності', terms: 'Умови використання' },
-    vi: { privacy: 'Chính sách quyền riêng tư', terms: 'Điều khoản sử dụng' },
-    cn: { privacy: '隐私政策', terms: '使用条款' }
-};
+function getRequiredString(obj, keyPath) {
+    const keys = keyPath.split('.');
+    let value = obj;
+    for (const k of keys) {
+        if (value && typeof value === 'object' && k in value) {
+            value = value[k];
+        } else {
+            throw new Error(`Missing required localized field: ${keyPath}`);
+        }
+    }
+    if (typeof value !== 'string' || value.trim() === '') {
+        throw new Error(`Localized field must be non-empty string: ${keyPath}`);
+    }
+    return value;
+}
 
 (function() {
     const urlsPath = path.join(__dirname, '..', 'urls.txt');
-
-    fs.writeFileSync(urlsPath, URLS.map(({url}) => url).join('\n'), 'utf8');
-    console.log(`✅ Successfully built urls.txt file`);
-    console.log(`📁 Output saved to: ${urlsPath}`);
-    console.log()
+    const allUrls = new Set(URLS.map(({ url }) => url));
 
 
     for (const lang of LANGUAGES) {
@@ -46,8 +38,10 @@ const LEGAL_LINK_LABELS = {
 
             // Read the template and JSON files
             const templatePath = path.join(__dirname, 'template.html');
+            const editorTemplatePath = path.join(__dirname, 'editor-template.html');
             const jsonPath = path.join(__dirname, `${lang}.json`);
             const outputPath = path.join(htmlDir, 'index.html');
+            const editorTemplate = fs.readFileSync(editorTemplatePath, 'utf8');
 
             if (!fs.existsSync(htmlDir)) {
                 fs.mkdirSync(htmlDir, { recursive: true });
@@ -125,9 +119,29 @@ const LEGAL_LINK_LABELS = {
             data.final_cta.cta_url = APP_STORE_URL;
             data.footer.download_url = APP_STORE_URL;
             data.statistics.last_updated = getStatisticsLastUpdated(lang);
-            const legalLabels = LEGAL_LINK_LABELS[lang] || LEGAL_LINK_LABELS.en;
-            data.footer.privacy_text = data.footer.privacy_text || legalLabels.privacy;
-            data.footer.terms_text = data.footer.terms_text || legalLabels.terms;
+            getRequiredString(data, 'footer.privacy_text');
+            getRequiredString(data, 'footer.terms_text');
+            data.editor = data.editor || {};
+            getRequiredString(data, 'editor.page_slug');
+            getRequiredString(data, 'editor.meta_title');
+            getRequiredString(data, 'editor.meta_description');
+            getRequiredString(data, 'editor.h1');
+            getRequiredString(data, 'editor.intro');
+            getRequiredString(data, 'editor.upload_button');
+            getRequiredString(data, 'editor.download_button');
+            getRequiredString(data, 'editor.slider_label');
+            getRequiredString(data, 'editor.placeholder_line1');
+            getRequiredString(data, 'editor.placeholder_line2');
+            getRequiredString(data, 'editor.hero_link_text');
+            getRequiredString(data, 'editor.seo_heading');
+            getRequiredString(data, 'editor.seo_paragraph');
+            getRequiredString(data, 'editor.back_to_home_text');
+            getRequiredString(data, 'editor.app_cta_heading');
+            getRequiredString(data, 'editor.app_cta_subtext');
+            getRequiredString(data, 'editor.app_cta_button');
+            const localePrefix = lang === DEFAULT_LANGUAGE ? '' : `${lang}/`;
+            data.editor.page_url = `${SITE_URL}${localePrefix}${data.editor.page_slug}`;
+            allUrls.add(data.editor.page_url);
 
             // Build JSON-LD objects from translation data to avoid hardcoded strings in template
             const stripHtml = (value) => {
@@ -315,13 +329,24 @@ const LEGAL_LINK_LABELS = {
             
             // Write the result to en.html
             fs.writeFileSync(outputPath, result, 'utf8');
+            const editorOutputPath = path.join(htmlDir, data.editor.page_slug);
+            let editorResult = processEachBlocks(editorTemplate, data);
+            editorResult = replaceVariables(editorResult, data);
+            fs.writeFileSync(editorOutputPath, editorResult, 'utf8');
             
             console.log(`✅ Successfully built ${lang}.html from template and ${lang}.json`);
             console.log(`📁 Output saved to: ${outputPath}`);
+            console.log(`✅ Successfully built ${lang} editor page`);
+            console.log(`📁 Output saved to: ${editorOutputPath}`);
             
         } catch (error) {
             console.error('❌ Error building HTML:', error.message);
             process.exit(1);
         }
     }
+
+    fs.writeFileSync(urlsPath, Array.from(allUrls).join('\n'), 'utf8');
+    console.log(`✅ Successfully built urls.txt file`);
+    console.log(`📁 Output saved to: ${urlsPath}`);
+    console.log()
 })();

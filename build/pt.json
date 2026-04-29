@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. Todos os direitos reservados.",
     "download_text": "Descarregar Make Blur na App Store",
-    "tagline": "Make Blur — fundo e rostos no iPhone. Sete estilos com bokeh, motion blur, desfoque de rostos e deteção automática."
+    "tagline": "Make Blur — fundo e rostos no iPhone. Sete estilos com bokeh, motion blur, desfoque de rostos e deteção automática.",
+    "privacy_text": "Política de Privacidade",
+    "terms_text": "Termos de uso"
   },
   "seo": {
     "breadcrumb_home": "Início",
@@ -362,5 +364,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "desfocar-fundo-foto-online-editor.html",
+    "meta_title": "Desfocar fundo de foto online - editor grátis Gaussian, Pixel e Motion",
+    "meta_description": "Desfoque fundo de foto online grátis. Envie uma imagem, aplique gaussian, pixel ou motion blur e baixe PNG na hora.",
+    "h1": "Desfocar fundo de foto online - editor grátis",
+    "intro": "Envie uma foto, escolha gaussian, pixel ou motion blur, ajuste a força e exporte PNG.",
+    "upload_button": "Enviar foto",
+    "download_button": "Baixar PNG",
+    "slider_label": "Força do desfoque",
+    "placeholder_line1": "Nenhuma foto enviada ainda.",
+    "placeholder_line2": "Clique em \"Enviar foto\" para começar.",
+    "hero_link_text": "Abrir editor online de desfoque (Gaussian, Pixel, Motion)",
+    "seo_heading": "Editor online grátis para desfocar fotos",
+    "seo_paragraph": "Desfoque fundos, oculte detalhes e crie efeito de movimento sem instalar aplicativos.",
+    "back_to_home_text": "Voltar para a página inicial",
+    "app_cta_heading": "Precisa de um editor completo com desfoque seletivo?",
+    "app_cta_subtext": "Para recursos avançados, fluxo mais rápido e controle total, instale o app Make Blur no iPhone.",
+    "app_cta_button": "Baixar app Make Blur"
   }
 }

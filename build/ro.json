@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. Toate drepturile rezervate.",
     "download_text": "Descărcați Make Blur din App Store",
-    "tagline": "Make Blur — fundal și fețe pe iPhone. Bokeh, motion, gaussian și altele; detecție automată."
+    "tagline": "Make Blur — fundal și fețe pe iPhone. Bokeh, motion, gaussian și altele; detecție automată.",
+    "privacy_text": "Politica de confidențialitate",
+    "terms_text": "Termeni de utilizare"
   },
   "seo": {
     "breadcrumb_home": "Acasă",
@@ -362,5 +364,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "estompare-fundal-poza-online-editor.html",
+    "meta_title": "Estompare fundal foto online - editor gratuit Gaussian, Pixel și Motion",
+    "meta_description": "Estompează fundalul pozei online gratuit. Încarcă imaginea, aplică gaussian, pixel sau motion blur și descarcă PNG.",
+    "h1": "Estompare fundal foto online - editor gratuit",
+    "intro": "Încarcă o fotografie, alege gaussian, pixel sau motion blur, ajustează intensitatea și exportă PNG.",
+    "upload_button": "Încarcă foto",
+    "download_button": "Descarcă PNG",
+    "slider_label": "Intensitate blur",
+    "placeholder_line1": "Nu există încă fotografie încărcată.",
+    "placeholder_line2": "Apasă „Încarcă foto” pentru a începe.",
+    "hero_link_text": "Deschide editorul online de blur foto (Gaussian, Pixel, Motion)",
+    "seo_heading": "Editor online gratuit pentru blur foto",
+    "seo_paragraph": "Estompează fundalul, ascunde detalii și creează efect de mișcare fără instalare.",
+    "back_to_home_text": "Înapoi la pagina principală",
+    "app_cta_heading": "Ai nevoie de un editor complet cu blur selectiv?",
+    "app_cta_subtext": "Pentru funcții avansate, flux mai rapid și control total, instalează aplicația Make Blur pe iPhone.",
+    "app_cta_button": "Descarcă aplicația Make Blur"
   }
 }

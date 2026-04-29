@@ -236,7 +236,9 @@
   "footer": {
     "copyright": "© {year} Make Blur. Wszelkie prawa zastrzeżone.",
     "download_text": "Pobierz Make Blur w App Store",
-    "tagline": "Make Blur — tło i twarze na iPhone. Bokeh, motion, gaussian i więcej; auto-wykrywanie."
+    "tagline": "Make Blur — tło i twarze na iPhone. Bokeh, motion, gaussian i więcej; auto-wykrywanie.",
+    "privacy_text": "Polityka prywatności",
+    "terms_text": "Warunki korzystania"
   },
   "seo": {
     "breadcrumb_home": "Strona główna",
@@ -362,5 +364,24 @@
         ]
       }
     }
+  },
+  "editor": {
+    "page_slug": "rozmycie-tla-zdjecia-online-edytor.html",
+    "meta_title": "Rozmycie tła zdjęcia online - darmowy edytor Gaussian, Pixel i Motion",
+    "meta_description": "Rozmyj tło zdjęcia online za darmo. Wgraj obraz, zastosuj gaussian, pixel lub motion blur i pobierz PNG.",
+    "h1": "Rozmycie tła zdjęcia online - darmowy edytor",
+    "intro": "Wgraj zdjęcie, wybierz gaussian, pixel lub motion blur, ustaw siłę i eksportuj PNG.",
+    "upload_button": "Wgraj zdjęcie",
+    "download_button": "Pobierz PNG",
+    "slider_label": "Siła rozmycia",
+    "placeholder_line1": "Brak wgranego zdjęcia.",
+    "placeholder_line2": "Kliknij \"Wgraj zdjęcie\", aby zacząć.",
+    "hero_link_text": "Otwórz edytor rozmycia zdjęć online (Gaussian, Pixel, Motion)",
+    "seo_heading": "Darmowy edytor rozmycia zdjęć online",
+    "seo_paragraph": "Rozmywaj tło, ukrywaj detale i twórz efekt ruchu bez instalowania aplikacji.",
+    "back_to_home_text": "Wróć na stronę główną",
+    "app_cta_heading": "Potrzebujesz pełnego edytora z selektywnym rozmyciem tła?",
+    "app_cta_subtext": "Aby korzystać z zaawansowanych funkcji, szybszego workflow i pełnej kontroli, zainstaluj Make Blur na iPhone.",
+    "app_cta_button": "Pobierz aplikację Make Blur"
   }
 }
