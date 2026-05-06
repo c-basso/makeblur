@@ -13,6 +13,9 @@ const MAX_SIZE_BYTES = MAX_SIZE_KB * 1024;
  * плюс то, что нужно для стабильных превью и бренда (длина og:description, og:site_name,
  * og:locale, og:logo, размеры og/twitter image, лимит веса файла и т.д.). Упростить до голого
  * ogp.me можно, ослабив REQUIRED_* и связанные проверки ниже.
+ *
+ * Синтаксис по документации: OGP — теги `og:*` в атрибуте `property` (RDFa), как на ogp.me;
+ * Twitter Cards — теги `twitter:*` в атрибуте `name`. См. validateMetaRdfaConventions().
  */
 
 // Required Open Graph meta tags (project rules; superset of ogp.me core four)
@@ -71,6 +74,50 @@ function extractMetaTags(html) {
     }
   }
   return metaTags;
+}
+
+/**
+ * Open Graph (https://ogp.me/) — разметка через property="og:...".
+ * Twitter / X Cards — через name="twitter:..." (не property).
+ */
+function validateMetaRdfaConventions(html, { lang }) {
+  const errors = [];
+  const re = /<meta\b([^>]*?)>/gi;
+  let m;
+  while ((m = re.exec(html))) {
+    const attrs = m[1];
+    const propMatch = attrs.match(/\bproperty=["']([^"']+)["']/i);
+    const nameMatch = attrs.match(/\bname=["']([^"']+)["']/i);
+    const contentMatch = attrs.match(/\bcontent=["']([^"']*)["']/i);
+    if (!contentMatch) {
+      continue;
+    }
+
+    if (propMatch && nameMatch) {
+      errors.push(
+        `${lang}: one <meta> must not use both property and name (property="${propMatch[1]}", name="${nameMatch[1]}")`
+      );
+      continue;
+    }
+
+    if (propMatch) {
+      const key = propMatch[1];
+      if (key.startsWith('twitter:')) {
+        errors.push(
+          `${lang}: Twitter Card "${key}" must use name=, not property= (X Cards markup)`
+        );
+      }
+    } else if (nameMatch) {
+      const key = nameMatch[1];
+      if (key.startsWith('og:')) {
+        errors.push(
+          `${lang}: Open Graph "${key}" must use property=, not name= (https://ogp.me/)`
+        );
+      }
+    }
+  }
+
+  return errors;
 }
 
 function validateOpenGraphTags(html, { file, lang }) {
@@ -379,6 +426,7 @@ async function validateOpenGraph() {
 
     const html = fs.readFileSync(htmlPath, 'utf8');
     const metaTags = extractMetaTags(html);
+    const rdfaErrors = validateMetaRdfaConventions(html, { lang });
     const tagResult = validateOpenGraphTags(html, { file: htmlPath, lang });
     const twitterResult = validateTwitterTags(html, { file: htmlPath, lang });
     const dimensionErrors = await validateDeclaredImageDimensions(metaTags, projectRoot, {
@@ -387,8 +435,16 @@ async function validateOpenGraph() {
     });
 
     const tagsOk =
-      tagResult.ok && twitterResult.ok && dimensionErrors.length === 0;
-    const mergedErrors = [...tagResult.errors, ...twitterResult.errors, ...dimensionErrors];
+      tagResult.ok &&
+      twitterResult.ok &&
+      dimensionErrors.length === 0 &&
+      rdfaErrors.length === 0;
+    const mergedErrors = [
+      ...rdfaErrors,
+      ...tagResult.errors,
+      ...twitterResult.errors,
+      ...dimensionErrors
+    ];
     const mergedWarnings = [...tagResult.warnings, ...twitterResult.warnings];
 
     if (!tagsOk) {
@@ -491,5 +547,6 @@ module.exports = {
   validateOpenGraphTags,
   validateTwitterTags,
   extractMetaTags,
+  validateMetaRdfaConventions,
   validateDeclaredImageDimensions
 };
