@@ -12,6 +12,7 @@ const {
     GOOGLE_TAG_SCRIPT,
     YANDEX_METRIKA_SCRIPT
 } = require('./constants');
+const { readImageDimensions } = require('./lib/imageDimensions');
 
 function getRequiredString(obj, keyPath) {
     const keys = keyPath.split('.');
@@ -29,7 +30,7 @@ function getRequiredString(obj, keyPath) {
     return value;
 }
 
-(function() {
+(async function() {
     const urlsPath = path.join(__dirname, '..', 'urls.txt');
     const allUrls = new Set(URLS.map(({ url }) => url));
 
@@ -103,6 +104,20 @@ function getRequiredString(obj, keyPath) {
                 };
                 data.meta.og_locale = localeMap[lang] || 'en_US';
             }
+
+            // og/twitter image width & height from the actual preview file (must match meta)
+            const projectRoot = path.join(__dirname, '..');
+            const previewRelative =
+                lang === DEFAULT_LANGUAGE ? 'site_preview.png' : path.join(lang, 'site_preview.png');
+            const previewPath = path.join(projectRoot, previewRelative);
+            if (!fs.existsSync(previewPath)) {
+                throw new Error(`Missing preview image for build: ${previewRelative}`);
+            }
+            const { width: previewW, height: previewH } = await readImageDimensions(previewPath);
+            data.meta.og_image_width = String(previewW);
+            data.meta.og_image_height = String(previewH);
+            data.meta.twitter_image_width = String(previewW);
+            data.meta.twitter_image_height = String(previewH);
             
             // Replace {year} placeholder in footer.copyright with current year
             const currentYear = new Date().getFullYear();
@@ -353,4 +368,7 @@ function getRequiredString(obj, keyPath) {
     console.log(`✅ Successfully built urls.txt file`);
     console.log(`📁 Output saved to: ${urlsPath}`);
     console.log()
-})();
+})().catch((err) => {
+    console.error('❌ Build failed:', err);
+    process.exit(1);
+});
