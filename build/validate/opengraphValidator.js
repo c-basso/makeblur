@@ -61,6 +61,19 @@ const VALID_TWITTER_CARD_TYPES = new Set([
 const OG_DESCRIPTION_MIN_LENGTH = 110;
 const OG_DESCRIPTION_MAX_LENGTH = 160;
 
+/** Match content="..." or content='...' without treating apostrophe inside double quotes as the end. */
+function parseMetaContentAttribute(attrs) {
+  const doubleQuoted = attrs.match(/\bcontent="([^"]*)"/i);
+  if (doubleQuoted) {
+    return doubleQuoted[1];
+  }
+  const singleQuoted = attrs.match(/\bcontent='([^']*)'/i);
+  if (singleQuoted) {
+    return singleQuoted[1];
+  }
+  return null;
+}
+
 function extractMetaTags(html) {
   const metaTags = {};
   const re = /<meta\b([^>]*?)>/gi;
@@ -68,9 +81,9 @@ function extractMetaTags(html) {
   while ((m = re.exec(html))) {
     const attrs = m[1];
     const nameMatch = attrs.match(/\b(?:property|name)=["']([^"']+)["']/i);
-    const contentMatch = attrs.match(/\bcontent=["']([^"']*)["']/i);
-    if (nameMatch && contentMatch) {
-      metaTags[nameMatch[1]] = contentMatch[1];
+    const contentMatch = parseMetaContentAttribute(attrs);
+    if (nameMatch && contentMatch !== null) {
+      metaTags[nameMatch[1]] = contentMatch;
     }
   }
   return metaTags;
@@ -88,8 +101,8 @@ function validateMetaRdfaConventions(html, { lang }) {
     const attrs = m[1];
     const propMatch = attrs.match(/\bproperty=["']([^"']+)["']/i);
     const nameMatch = attrs.match(/\bname=["']([^"']+)["']/i);
-    const contentMatch = attrs.match(/\bcontent=["']([^"']*)["']/i);
-    if (!contentMatch) {
+    const contentMatch = parseMetaContentAttribute(attrs);
+    if (contentMatch === null) {
       continue;
     }
 
