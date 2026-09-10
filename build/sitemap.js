@@ -75,6 +75,25 @@ function xmlEscape(str) {
     appendUrlEntry(url, editorAlternates, xDefaultEditorUrl);
   }
 
+  const enJson = JSON.parse(fs.readFileSync(path.join(__dirname, 'en.json'), 'utf8'));
+  const guidesFilePath = path.join(__dirname, 'guides-en.json');
+  if (fs.existsSync(guidesFilePath)) {
+    const guidesFile = JSON.parse(fs.readFileSync(guidesFilePath, 'utf8'));
+    const items = Array.isArray(guidesFile.items) ? guidesFile.items : [];
+    for (const item of items) {
+      if (!item?.slug) continue;
+      const loc = `${SITE_URL}${item.slug}`;
+      const self = [{ hreflang: 'en', url: loc }];
+      appendUrlEntry(loc, self, loc);
+    }
+  } else if (Array.isArray(enJson?.guides?.items)) {
+    for (const item of enJson.guides.items) {
+      if (!item?.slug) continue;
+      const loc = `${SITE_URL}${item.slug}`;
+      appendUrlEntry(loc, [{ hreflang: 'en', url: loc }], loc);
+    }
+  }
+
   lines.push('</urlset>');
 
   fs.writeFileSync(sitemapPath, lines.join('\n') + '\n', 'utf8');

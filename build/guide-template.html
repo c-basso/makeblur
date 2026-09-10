@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="{{meta.html_lang|html_attr}}">
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://mc.yandex.ru">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://mc.yandex.ru">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+{{meta.google_tag_script}}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <meta name="description" content="{{guide.meta_description|html_attr}}">
+    <meta name="author" content="{{meta.author|html_attr}}">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{guide.page_url|html_attr}}">
+    <meta property="og:title" content="{{guide.og_title|html_attr}}">
+    <meta property="og:description" content="{{guide.og_description|html_attr}}">
+    <meta property="og:image" content="{{meta.og_image|html_attr}}">
+    <meta property="og:image:width" content="{{meta.og_image_width|html_attr}}">
+    <meta property="og:image:height" content="{{meta.og_image_height|html_attr}}">
+    <meta property="og:logo" content="{{meta.og_logo|html_attr}}">
+    <meta property="og:site_name" content="{{meta.og_site_name|html_attr}}">
+    <meta property="og:locale" content="{{meta.og_locale|html_attr}}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="{{guide.page_url|html_attr}}">
+    <meta name="twitter:title" content="{{guide.og_title|html_attr}}">
+    <meta name="twitter:description" content="{{guide.og_description|html_attr}}">
+    <meta name="twitter:image" content="{{meta.twitter_image|html_attr}}">
+    <meta name="theme-color" content="#667eea">
+    <title>{{guide.meta_title|html_attr}}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="canonical" href="{{guide.page_url|html_attr}}">
+    <link rel="alternate" hreflang="en" href="{{guide.page_url|html_attr}}" />
+    <link rel="alternate" hreflang="x-default" href="{{guide.page_url|html_attr}}" />
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="/style.css?v={{meta.version}}">
+</head>
+<body class="guide-page">
+    <header role="banner">
+        <nav class="container">
+            <div class="logo-container">
+                <a class="logo-link" href="{{meta.canonical}}">
+                    <div class="logo">
+                        <img src="/img/logo.webp" alt="{{header.logo_alt}}" width="40" height="40" loading="eager" decoding="async">
+                    </div>
+                    <span class="app-name">{{header.app_name}}</span>
+                </a>
+            </div>
+            <div class="header-actions">
+                <a href="{{header.download_url}}" class="header-download">{{header.download_text}}</a>
+            </div>
+        </nav>
+    </header>
+
+    <main role="main">
+        <article class="guide-article">
+            <div class="container">
+                <nav class="guide-crumbs" aria-label="Breadcrumb">
+                    <a href="{{meta.canonical}}">{{seo.breadcrumb_home}}</a>
+                    <span aria-hidden="true"> / </span>
+                    <span>{{guide.breadcrumb_current}}</span>
+                </nav>
+                <h1>{{guide.h1}}</h1>
+                <p class="guide-updated">{{statistics.last_updated}}</p>
+                <p class="guide-lead">{{guide.intro}}</p>
+                <p class="guide-definition">{{guide.definition}}</p>
+                <figure class="guide-hero-shot">
+                    <img src="{{guide.image}}" alt="{{guide.image_alt}}" width="280" height="606" decoding="async">
+                </figure>
+
+                {{#each guide.sections as |section|}}
+                <section class="guide-section">
+                    <h2>{{section.heading}}</h2>
+                    {{#each section.paragraphs as |para|}}
+                    <p>{{para}}</p>
+                    {{/each}}
+                </section>
+                {{/each}}
+
+                <section class="guide-section">
+                    <h2>{{guide.steps_title}}</h2>
+                    <div class="steps">
+                        {{#each guide.steps as |step|}}
+                        <div class="step">
+                            <div class="step-number">{{step.number}}</div>
+                            <h3>{{step.title}}</h3>
+                            <p>{{step.description}}</p>
+                        </div>
+                        {{/each}}
+                    </div>
+                </section>
+
+                {{#if guide.faq}}
+                <section class="guide-section faq">
+                    <h2>{{guide.faq_title}}</h2>
+                    <div class="faq-list">
+                        {{#each guide.faq as |item|}}
+                        <div class="faq-item">
+                            <h3 class="faq-question">{{item.question}}</h3>
+                            <p class="faq-answer">{{item.answer}}</p>
+                        </div>
+                        {{/each}}
+                    </div>
+                </section>
+                {{/if}}
+
+                {{#if guide.related}}
+                <section class="guide-section">
+                    <h2>{{guides.related_title}}</h2>
+                    <ul class="guide-related">
+                        {{#each guide.related as |rel|}}
+                        <li><a href="{{rel.page_url}}">{{rel.card_title}}</a></li>
+                        {{/each}}
+                    </ul>
+                </section>
+                {{/if}}
+            </div>
+        </article>
+
+        <section class="hero hero--final">
+            <div class="container">
+                <div class="final-cta">
+                    <h2>{{guide.cta_title}}</h2>
+                    <div class="final-cta-body">
+                        <p>{{guide.cta_body}}</p>
+                    </div>
+                    <a href="{{header.download_url}}" class="cta-button">{{guide.cta_text}}</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer role="contentinfo">
+        <div class="container">
+            <p>{{footer.copyright}}</p>
+            <p><a href="{{footer.download_url}}">{{footer.download_text}}</a></p>
+            <p>
+                <a href="/privacy.html">{{footer.privacy_text}}</a> ·
+                <a href="/terms.html">{{footer.terms_text}}</a>
+            </p>
+        </div>
+    </footer>
+
+    <script type="application/ld+json">
+    {{seo.structured_data.software_application|json}}
+    </script>
+    <script type="application/ld+json">
+    {{seo.structured_data.organization|json}}
+    </script>
+    <script type="application/ld+json">
+    {{seo.structured_data.howto|json}}
+    </script>
+    <script type="application/ld+json">
+    {{seo.structured_data.faqpage|json}}
+    </script>
+    <script type="application/ld+json">
+    {{seo.structured_data.breadcrumb_list|json}}
+    </script>
+    <script type="application/ld+json">
+    {{seo.structured_data.article|json}}
+    </script>
+{{meta.yandex_metrika_script}}
+</body>
+</html>

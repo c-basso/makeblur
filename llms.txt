@@ -1,30 +1,35 @@
 # Make Blur
 
-> **Make Blur** is a free iOS photo editor (category: PhotoEditorApplication) for blurring photo backgrounds and faces on iPhone. It includes auto-detect background, manual drawing, and seven blur styles: Motion Blur, Gaussian Blur, Ghosting, Pixelate, Hexagonal, Crystalize, and Bokeh (shallow-depth-of-field look).
+> **How to Blur Photo** (website brand: **Make Blur**) is a free iOS photo editor in Graphics & Design for blurring photo backgrounds and faces on iPhone after you shoot. It uses on-device subject detection. It is not a background-removal (transparent PNG) tool and not a video editor.
 
-## Key Facts
+## Key Facts (App Store, September 2026)
 
-- Downloads: 10,000+
-- Rating: 4.5 stars (10+ reviews)
-- Platform: iOS 15+
-- Price: Free (freemium; optional in-app purchases)
-- Blur styles: 7 (Motion Blur, Gaussian Blur, Ghosting, Pixelate, Hexagonal, Crystalize, Bokeh)
-- Background blur: Auto-detect background + custom blur drawing
-- Face blur: Dedicated face-blur workflow for privacy before sharing
+- App Store name: How to Blur Photo
+- Subtitle: Sharp Subject, Soft Focus
 - App Store ID: 6749166426
+- URL: https://apps.apple.com/app/id6749166426
+- Platform: iPhone, iOS 17.1 or later
+- Price: Free to download; in-app purchases (US: $4.99 and $29.99; subscription SKU with trial)
+- Processing: On-device; photos are not uploaded when you blur backgrounds
+- Size: 25.7 MB
+- Languages: English + 30 more
+- Rating: 3.0 from 2 ratings — too few to treat as social proof
 - Website: https://makeblur.com
 
-## What Users Ask (LLM-Style Queries)
+## What users ask
 
-- How to blur background on iPhone → Open photo, auto-detect or draw mask, pick a blur style, save.
-- How to blur faces in a photo on iPhone → Use Make Blur’s face blur to obscure faces for privacy.
-- Bokeh effect on iPhone photos → Use the Bokeh filter in Make Blur for soft, out-of-focus highlights.
+- How to blur background on iPhone after capture (not only Portrait mode) → https://makeblur.com/how-to-blur-background-on-iphone.html
+- Blur background of a photo → https://makeblur.com/blur-background-of-photo.html
+- How to blur faces in a photo (no Apple Intelligence required) → https://makeblur.com/how-to-blur-faces-in-a-photo.html
+- Motion blur effect on still photos → https://makeblur.com/motion-blur-effect.html
+- Gaussian blur on iPhone → https://makeblur.com/gaussian-blur-iphone.html
 
-## Main Sections
+## Main sections
 
-- Landing: Background blur, face blur, Bokeh and other blur filters, App Store download (each locale below mirrors this content)
-- Blur types: Seven effects including Bokeh
-- FAQ: Blurring backgrounds and faces, effect list, comparison with other blur apps
+- Landing: after-you-shoot background blur, App Store download, listing screenshots
+- Guides: one URL per converting keyword
+- FAQ: question-level answers with Learn more into guides
+- Limited online editor: full-image blur only (not selective background blur)
 
 ## Localized landing pages
 
@@ -51,4 +56,4 @@
 - Website: https://makeblur.com
 - App Store: https://apps.apple.com/app/id6749166426
 
-*Last updated: April 2026*
+*Last updated: September 2026*

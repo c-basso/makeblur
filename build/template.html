@@ -80,6 +80,9 @@
                 <span class="app-name">{{header.app_name}}</span>
             </div>
             <div class="header-actions">
+                {{#if guides.items}}
+                <a href="#guides" class="header-guides">{{guides.nav_text}}</a>
+                {{/if}}
                 <a href="{{header.download_url}}" class="header-download">{{header.download_text}}</a>
             </div>
         </nav>
@@ -116,102 +119,58 @@
                     </div>
                 </div>
                 <div class="hero-visual">
-                    <div class="hero-screens">
-                        {{#each hero.screens as |screen|}}
-                        <img src="{{screen.src}}" alt="{{screen.alt}}" loading="lazy" decoding="async" width="200" height="433">
-                        {{/each}}
+                    <div class="hero-phone">
+                        <img src="{{hero.image.src}}" alt="{{hero.image.alt}}" width="280" height="606" fetchpriority="high" decoding="async">
                     </div>
                 </div>
             </div>
         </div>
     </section>
     
-    <section class="statistics">
+    <section class="download" id="download">
         <div class="container">
-            <h2>{{statistics.title}}</h2>
-            <div class="stats-grid">
-                {{#each statistics.items as |stat|}}
-                <div class="stat">
-                    <div class="stat-number">{{stat.number}}</div>
-                    <div class="stat-label">{{stat.label}}</div>
-                </div>
-                {{/each}}
-            </div>
-            <p class="last-updated">{{statistics.last_updated}}</p>
-        </div>
-    </section>
-    
-    <section class="features">
-        <div class="container">
-            <h2>{{features.title}}</h2>
-            <div class="section-intro section-intro--center">
-                <p class="section-intro-heading">
-                    <strong>{{features.intro.line1}}</strong>
-                </p>
-                <p class="section-intro-body">
-                    {{features.intro.paragraph1}}
-                </p>
-                <p class="section-intro-note">
-                    {{features.intro.paragraph2}}
-                </p>
-            </div>
-            <div class="features-grid">
-                {{#each features.items as |feature|}}
-                <div class="feature-card">
-                    <h3>{{feature.title}}</h3>
-                    <p>{{feature.description}}</p>
-                </div>
-                {{/each}}
-            </div>
-        </div>
-    </section>
-    
-    <section class="blur-types">
-        <div class="container">
-            <h2>{{blur_types.title}}</h2>
-            <div class="blur-grid">
-                {{#each blur_types.items as |blurType|}}
-                <div class="blur-type">
-                    <h3>{{blurType.title}}</h3>
-                    <p>{{blurType.description}}</p>
-                </div>
-                {{/each}}
-            </div>
-        </div>
-    </section>
-    
-    <section class="comparison">
-        <div class="container">
-            <h2>{{comparison.title}}</h2>
-            <div class="section-intro section-intro--center">
-                <p class="section-intro-body">
-                    {{comparison.intro}}
-                </p>
-            </div>
-            <div class="comparison-table-wrapper">
-                <table class="comparison-table">
-                    <thead>
-                        <tr>
-                            <th>{{comparison.table.feature_label}}</th>
-                            {{#each comparison.table.competitors as |competitor|}}
-                            <th>{{competitor.name}}</th>
-                            {{/each}}
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {{#each comparison.table.features as |feature|}}
-                        <tr>
-                            <td class="feature-name"><strong>{{feature.name}}</strong></td>
-                            <td>{{feature.value1}}</td>
-                            <td>{{feature.value2}}</td>
-                            <td>{{feature.value3}}</td>
-                        </tr>
+            <div class="download-card">
+                <img class="download-icon" src="{{download.icon.src}}" alt="{{download.icon.alt}}" width="88" height="88" decoding="async">
+                <div class="download-copy">
+                    {{#if download.kicker}}
+                    <p class="download-kicker">{{download.kicker}}</p>
+                    {{/if}}
+                    <h2>{{download.title}}</h2>
+                    {{#if download.subtitle}}
+                    <p class="download-subtitle">{{download.subtitle}}</p>
+                    {{/if}}
+                    {{#if download.body}}
+                    <p class="download-body">{{download.body}}</p>
+                    {{/if}}
+                    {{#if download.points}}
+                    <ul class="download-points">
+                        {{#each download.points as |point|}}
+                        <li>{{point.text}}</li>
                         {{/each}}
-                    </tbody>
-                </table>
+                    </ul>
+                    {{/if}}
+                    <a href="{{download.cta_url}}" class="cta-button">{{download.cta_text}}</a>
+                    {{#if download.note}}
+                    <p class="download-note">{{download.note}}</p>
+                    {{/if}}
+                </div>
             </div>
-            <div class="comparison-note">
-                <p>{{comparison.note}}</p>
+        </div>
+    </section>
+
+    <section class="screenshots" id="screenshots">
+        <div class="container">
+            <h2>{{screenshots.title}}</h2>
+            {{#if screenshots.intro}}
+            <p class="section-intro-body section-intro--center">{{screenshots.intro}}</p>
+            {{/if}}
+            <div class="screenshot-strip" role="list">
+                {{#each screenshots.items as |shot|}}
+                <figure class="screenshot-card" role="listitem">
+                    <img src="{{shot.src}}" alt="{{shot.alt}}" width="220" height="476" loading="lazy" decoding="async">
+                    <figcaption>{{shot.caption}}</figcaption>
+                </figure>
+                {{/each}}
             </div>
         </div>
     </section>
@@ -238,6 +197,29 @@
             </div>
         </div>
     </section>
+
+    {{#if guides.items}}
+    <section class="guides" id="guides">
+        <div class="container">
+            <h2>{{guides.title}}</h2>
+            <p class="section-intro-body section-intro--center">{{guides.intro}}</p>
+            <div class="guides-grid">
+                {{#each guides.items as |guide|}}
+                <article class="guide-card">
+                    <a href="/{{guide.slug}}" class="guide-card-link">
+                        <img src="{{guide.card_image}}" alt="{{guide.card_image_alt}}" width="220" height="160" loading="lazy" decoding="async">
+                        <div class="guide-card-body">
+                            <h3>{{guide.card_title}}</h3>
+                            <p>{{guide.card_excerpt}}</p>
+                            <span class="guide-card-cta">{{guide.learn_more_text}}</span>
+                        </div>
+                    </a>
+                </article>
+                {{/each}}
+            </div>
+        </div>
+    </section>
+    {{/if}}
     
     <section class="faq">
         <div class="container">
@@ -247,6 +229,9 @@
                 <div class="faq-item">
                     <h3 class="faq-question">{{item.question}}</h3>
                     <p class="faq-answer">{{item.answer}}</p>
+                    {{#if item.learn_more_url}}
+                    <a class="faq-learn-more" href="{{item.learn_more_url}}">{{item.learn_more_text}}</a>
+                    {{/if}}
                 </div>
                 {{/each}}
             </div>
@@ -292,6 +277,9 @@
                 </div>
             </div>
             <p>{{footer.copyright}}</p>
+            {{#if guides.items}}
+            <p><a href="#guides">{{guides.nav_text}}</a></p>
+            {{/if}}
             <p><a href="{{footer.download_url}}">{{footer.download_text}}</a></p>
             <p>
                 <a href="/privacy.html">{{footer.privacy_text}}</a> ·

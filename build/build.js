@@ -8,11 +8,13 @@ const {
     LANGUAGES,
     APP_STORE_ID,
     APP_STORE_URL,
+    SITE_LAST_UPDATED_AT,
     getStatisticsLastUpdated,
     GOOGLE_TAG_SCRIPT,
     YANDEX_METRIKA_SCRIPT
 } = require('./constants');
 const { readImageDimensions } = require('./lib/imageDimensions');
+const { renderTemplate } = require('./lib/template');
 
 function getRequiredString(obj, keyPath) {
     const keys = keyPath.split('.');
@@ -162,6 +164,67 @@ function getRequiredString(obj, keyPath) {
             data.editor.page_url = `${SITE_URL}${localePrefix}${data.editor.page_slug}`;
             allUrls.add(data.editor.page_url);
 
+            data.hero = data.hero || {};
+            if (!data.hero.image) {
+                const firstScreen = Array.isArray(data.hero.screens) ? data.hero.screens[0] : null;
+                data.hero.image = firstScreen
+                    ? { src: firstScreen.src, alt: firstScreen.alt }
+                    : { src: '/img/appstore/01-cover.webp', alt: data.header?.logo_alt || 'How to Blur Photo' };
+            }
+
+            data.download = data.download || {};
+            data.download.cta_url = APP_STORE_URL;
+            if (!Array.isArray(data.download.points)) data.download.points = [];
+            if (!data.download.cta_text) {
+                data.download.cta_text = data.hero?.cta_text || data.header?.download_text || 'Download';
+            }
+            if (!data.download.title) data.download.title = data.hero?.title || '';
+            if (!data.download.subtitle) data.download.subtitle = data.hero?.subtitle || '';
+            if (!data.download.body) data.download.body = data.hero?.intro?.paragraph1 || '';
+            if (!data.download.kicker) data.download.kicker = '';
+            if (!data.download.note) data.download.note = '';
+            if (!data.download.icon) {
+                data.download.icon = {
+                    src: '/img/appstore/icon.webp',
+                    alt: data.header?.logo_alt || 'How to Blur Photo'
+                };
+            }
+
+            if (!data.screenshots || !Array.isArray(data.screenshots.items) || data.screenshots.items.length === 0) {
+                data.screenshots = {
+                    title: data.screenshots?.title || data.hero?.title || '',
+                    intro: data.screenshots?.intro || '',
+                    items: Array.isArray(data.hero?.screens) ? data.hero.screens : []
+                };
+            }
+            data.screenshots.items = (data.screenshots.items || []).map((shot) => ({
+                ...shot,
+                caption: shot.caption || shot.alt || ''
+            }));
+
+            if (lang === DEFAULT_LANGUAGE) {
+                const guidesPath = path.join(__dirname, 'guides-en.json');
+                if (fs.existsSync(guidesPath)) {
+                    const guidesFile = JSON.parse(fs.readFileSync(guidesPath, 'utf8'));
+                    data.guides = { ...(data.guides || {}), ...(guidesFile.hub || {}), items: guidesFile.items || [] };
+                }
+            }
+            if (!data.guides) data.guides = {};
+            if (!Array.isArray(data.guides.items)) data.guides.items = [];
+            data.guides.items = data.guides.items.map((item) => ({
+                ...item,
+                page_url: `${SITE_URL}${localePrefix}${item.slug}`,
+                learn_more_text: item.learn_more_text || data.guides.learn_more_text || 'Learn more',
+                og_title: item.og_title || item.meta_title,
+                og_description: item.og_description || item.meta_description,
+                faq_title: item.faq_title || 'Frequently asked questions',
+                steps_title: item.steps_title || 'How to do it in the app',
+                cta_text: item.cta_text || data.header?.download_text || 'Download'
+            }));
+            for (const item of data.guides.items) {
+                allUrls.add(item.page_url);
+            }
+
             // Build JSON-LD objects from translation data to avoid hardcoded strings in template
             const stripHtml = (value) => {
                 if (typeof value !== 'string') return value;
@@ -202,6 +265,20 @@ function getRequiredString(obj, keyPath) {
 
             // FAQPage: build from seo.faq (strip HTML)
             if (Array.isArray(data.seo.faq)) {
+                const guideByKeyword = new Map(
+                    data.guides.items.map((g) => [String(g.keyword || '').toLowerCase(), g])
+                );
+                data.seo.faq = data.seo.faq.map((f) => {
+                    const faq = { ...f };
+                    if (!faq.learn_more_text) {
+                        faq.learn_more_text = data.guides.learn_more_text || 'Learn more';
+                    }
+                    if (!faq.learn_more_url && faq.guide_keyword) {
+                        const match = guideByKeyword.get(String(faq.guide_keyword).toLowerCase());
+                        if (match) faq.learn_more_url = `/${match.slug}`;
+                    }
+                    return faq;
+                });
                 data.seo.structured_data.faqpage = {
                     "@context": "https://schema.org",
                     "@type": "FAQPage",
@@ -230,128 +307,98 @@ function getRequiredString(obj, keyPath) {
                 ]
             };
             
-            // Function to get value from nested object path
-            function getValue(obj, path) {
-                const keys = path.split('.');
-                let value = obj;
-                
-                for (const k of keys) {
-                    if (value && typeof value === 'object' && k in value) {
-                        value = value[k];
-                    } else {
-                        return undefined;
-                    }
-                }
-                
-                return value;
-            }
+            // Render landing page
+            let result = renderTemplate(template, data);
             
-            /** Escape string for HTML attribute values (content="", href="", etc.). */
-            function escapeHtmlAttr(str) {
-                if (typeof str !== 'string') return str;
-                return str
-                    .replace(/&/g, '&amp;')
-                    .replace(/"/g, '&quot;')
-                    .replace(/'/g, '&#39;')
-                    .replace(/</g, '&lt;')
-                    .replace(/>/g, '&gt;');
-            }
-
-            // Function to replace variables in template
-            function replaceVariables(template, context) {
-                return template.replace(/\{\{([^}]+)\}\}/g, (match, key) => {
-                    const rawKey = key.trim();
-                    const [pathExpression, ...filters] = rawKey
-                        .split('|')
-                        .map(s => s.trim())
-                        .filter(Boolean);
-
-                    let value = getValue(context, pathExpression);
-                    
-                    if (value !== undefined) {
-                        for (const filter of filters) {
-                            if (filter === 'json') {
-                                value = JSON.stringify(value);
-                            } else if (filter === 'html_attr') {
-                                value = escapeHtmlAttr(String(value));
-                            } else {
-                                console.warn(`Warning: Unknown filter "${filter}" in ${rawKey}`);
-                            }
-                        }
-                        return value;
-                    } else {
-                        console.warn(`Warning: Variable ${pathExpression} not found in data`);
-                        return match; // Keep original placeholder if not found
-                    }
-                });
-            }
-            
-            // Function to process #each blocks (handles nested blocks recursively)
-            function processEachBlocks(template, data) {
-                // Pattern to match {{#each path as |varName|}}...{{/each}}
-                const eachPattern = /\{\{#each\s+([^\s]+)\s+as\s+\|([^|]+)\|\}\}([\s\S]*?)\{\{\/each\}\}/;
-                let result = template;
-                let match;
-                
-                // Keep processing until no more #each blocks are found
-                while ((match = result.match(eachPattern)) !== null) {
-                    const fullMatch = match[0];
-                    const arrayPath = match[1].trim();
-                    const varName = match[2].trim();
-                    let blockContent = match[3];
-                    
-                    // Get the array from data
-                    const array = getValue(data, arrayPath);
-                    
-                    if (!Array.isArray(array)) {
-                        console.warn(`Warning: ${arrayPath} is not an array or not found`);
-                        result = result.replace(fullMatch, '');
-                        continue;
-                    }
-                    
-                    // Process each item in the array
-                    let processedBlocks = array.map((item, index) => {
-                        // Create context with the item accessible by varName
-                        const itemContext = { [varName]: item };
-                        const mergedContext = { ...data, ...itemContext };
-                        
-                        // Recursively process nested #each blocks first
-                        let processedContent = processEachBlocks(blockContent, mergedContext);
-                        
-                        // Then process variables in the block content
-                        processedContent = replaceVariables(processedContent, mergedContext);
-                        
-                        return processedContent;
-                    }).join('');
-                    
-                    // Remove trailing comma after the last item in JSON-LD arrays
-                    // Pattern: }, followed by newline, optional whitespace/newlines, then closing bracket
-                    processedBlocks = processedBlocks.replace(/,\s*\n[\s\n]*\]/g, '\n            ]');
-                    // Also handle comma on same line as closing bracket (fallback)
-                    processedBlocks = processedBlocks.replace(/,\s*\]/g, ']');
-                    
-                    // Replace the entire #each block with processed content
-                    result = result.replace(fullMatch, processedBlocks);
-                }
-                
-                return result;
-            }
-            
-            // First process #each blocks, then replace remaining variables
-            let result = processEachBlocks(template, data);
-            result = replaceVariables(result, data);
-            
-            // Final cleanup: remove any trailing commas before closing brackets in JSON-LD
-            // This catches any trailing commas that might have been missed
-            result = result.replace(/,\s*\n[\s\n]*\]/g, '\n            ]');
-            result = result.replace(/,\s*\]/g, ']');
-            
-            // Write the result to en.html
+            // Write the result to index.html
             fs.writeFileSync(outputPath, result, 'utf8');
             const editorOutputPath = path.join(htmlDir, data.editor.page_slug);
-            let editorResult = processEachBlocks(editorTemplate, data);
-            editorResult = replaceVariables(editorResult, data);
+            let editorResult = renderTemplate(editorTemplate, data);
             fs.writeFileSync(editorOutputPath, editorResult, 'utf8');
+
+            if (data.guides.items.length && fs.existsSync(path.join(__dirname, 'guide-template.html'))) {
+                const guideTemplate = fs.readFileSync(path.join(__dirname, 'guide-template.html'), 'utf8');
+                for (const guide of data.guides.items) {
+                    const related = data.guides.items
+                        .filter((g) => g.slug !== guide.slug)
+                        .slice(0, 3)
+                        .map((g) => ({
+                            slug: g.slug,
+                            page_url: g.page_url,
+                            card_title: g.card_title,
+                            card_excerpt: g.card_excerpt
+                        }));
+                    const guideData = {
+                        ...data,
+                        guide: {
+                            ...guide,
+                            related,
+                            breadcrumb_current: guide.card_title || guide.h1
+                        }
+                    };
+                    guideData.seo = { ...data.seo, structured_data: { ...data.seo.structured_data } };
+                    guideData.seo.structured_data.howto = {
+                        "@context": "https://schema.org",
+                        "@type": "HowTo",
+                        "name": stripHtml(guide.h1),
+                        "description": stripHtml(guide.meta_description),
+                        "step": (guide.steps || []).map((s) => ({
+                            "@type": "HowToStep",
+                            "name": stripHtml(s?.title),
+                            "text": stripHtml(s?.description)
+                        }))
+                    };
+                    if (Array.isArray(guide.faq) && guide.faq.length) {
+                        guideData.seo.structured_data.faqpage = {
+                            "@context": "https://schema.org",
+                            "@type": "FAQPage",
+                            "mainEntity": guide.faq.map((f) => ({
+                                "@type": "Question",
+                                "name": stripHtml(f?.question),
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": stripHtml(f?.answer)
+                                }
+                            }))
+                        };
+                    }
+                    guideData.seo.structured_data.breadcrumb_list = {
+                        "@context": "https://schema.org",
+                        "@type": "BreadcrumbList",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": data.seo.breadcrumb_home,
+                                "item": data.meta?.canonical
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": stripHtml(guide.card_title || guide.h1),
+                                "item": guide.page_url
+                            }
+                        ]
+                    };
+                    guideData.seo.structured_data.article = {
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": stripHtml(guide.h1),
+                        "description": stripHtml(guide.meta_description),
+                        "url": guide.page_url,
+                        "inLanguage": data.meta.html_lang || 'en',
+                        "dateModified": SITE_LAST_UPDATED_AT,
+                        "author": {
+                            "@type": "Organization",
+                            "name": "Make Blur"
+                        }
+                    };
+                    const guideHtml = renderTemplate(guideTemplate, guideData);
+                    const guideOut = path.join(htmlDir, guide.slug);
+                    fs.writeFileSync(guideOut, guideHtml, 'utf8');
+                    console.log(`✅ Successfully built guide ${guide.slug}`);
+                }
+            }
             
             console.log(`✅ Successfully built ${lang}.html from template and ${lang}.json`);
             console.log(`📁 Output saved to: ${outputPath}`);
