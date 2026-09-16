@@ -1,31 +1,69 @@
 {
+  "hub": {
+    "nav_text": "Guides",
+    "title": "Guides: one answer per search",
+    "intro": "Each guide answers one question people actually search — how to blur a background, a face, a plate, text, or the whole photo on iPhone — then shows the exact taps in the app.",
+    "learn_more_text": "Read the guide",
+    "related_title": "Related guides",
+    "answer_label": "Short answer",
+    "clusters": [
+      {
+        "id": "background",
+        "title": "Blur the background",
+        "blurb": "Sharp subject, soft background — on photos you already took."
+      },
+      {
+        "id": "privacy",
+        "title": "Hide faces, text, and plates",
+        "blurb": "Privacy blur before you share."
+      },
+      {
+        "id": "effects",
+        "title": "Blur styles",
+        "blurb": "Motion, gaussian, and bokeh looks."
+      },
+      {
+        "id": "photo",
+        "title": "Blur any photo or picture",
+        "blurb": "Whole image, screenshots, saved pictures."
+      }
+    ]
+  },
   "items": [
     {
       "slug": "how-to-blur-background-on-iphone.html",
       "keyword": "how to blur background on iPhone",
+      "cluster": "background",
       "card_title": "How to blur background on iPhone",
-      "card_excerpt": "Portrait mode is capture-only. Blur a background on a photo you already took.",
-      "card_image": "/img/appstore/01-cover.webp",
-      "card_image_alt": "iPhone screenshot showing background blur after capture",
-      "meta_title": "How to Blur Background on iPhone After You Shoot It",
-      "meta_description": "How to blur background on iPhone after you shoot—not only in Portrait mode. Open Recents, detect the subject, save on-device with How to Blur Photo app.",
-      "h1": "How to blur background on iPhone after you already took the photo",
-      "intro": "Searching how to blur background on iPhone usually leads to Portrait mode. That path only works at capture time, on supported cameras, and only if you remembered to turn it on. If the photo is already in Recents, you need an editor that can blur the background after you shoot.",
-      "definition": "How to blur background on iPhone after capture means keeping the subject sharp while softening everything behind it on a photo that already exists. How to Blur Photo (Make Blur) is an iPhone app for that job: subject detection, intensity control, and on-device processing on iOS 17.1 or later.",
-      "image": "/img/appstore/01-cover.webp",
-      "image_alt": "How to Blur Photo keeping a subject sharp while the background goes soft",
+      "card_excerpt": "Portrait mode only works while you shoot. Here is how to blur the background of a photo that is already in your camera roll.",
+      "card_image": "/img/appstore/04-box.webp",
+      "card_image_alt": "iPhone screenshot: subject sharp, background blurred in How to Blur Photo",
+      "meta_title": "How to Blur Background on iPhone After You Took the Photo",
+      "meta_description": "How to blur background on iPhone after the shot, not only in Portrait mode. Open the photo, let the app detect the subject, set Radius, save. Free, on-device.",
+      "h1": "How to blur background on iPhone (after you already took the photo)",
+      "answer": "To blur the background on iPhone after the photo is taken, open it in How to Blur Photo, keep the Background tab selected so the subject is detected automatically, choose Gaussian, drag Radius until the background is as soft as you want, and tap Save. It works on any photo in your library, not only Portrait shots, and processing stays on your iPhone.",
+      "intro": "Most answers to “how to blur background on iPhone” send you to Portrait mode. That is fine if you have not taken the picture yet. If the photo is already in Recents, shot in normal Photo mode, on a front camera, or sent to you by someone else, Portrait mode cannot help. This guide covers what the built-in Photos app can and cannot do, then the exact taps to blur the background of an existing photo.",
+      "image": "/img/appstore/04-box.webp",
+      "image_alt": "Background tab selected in How to Blur Photo with the subject sharp and the wall behind her blurred",
+      "native": {
+        "heading": "What iPhone can do on its own",
+        "paragraphs": [
+          "Portrait mode records depth information at the moment you press the shutter. Later, in Photos → Edit, you can change the f-number to make that background blur stronger or weaker. That only works on photos that were captured in Portrait mode in the first place. A regular Photo-mode picture has no depth map, so the f-number slider is simply not there.",
+          "Markup can draw over a background, and the Clean Up tool on Apple Intelligence iPhones can remove objects, but neither of them produces a photographic blur. If you want a sharp subject in front of a soft background on a photo you already have, you need an editor that separates the subject itself."
+        ]
+      },
       "sections": [
         {
-          "heading": "Why Portrait mode is not the same job",
+          "heading": "Why an after-the-fact blur app is the practical fix",
           "paragraphs": [
-            "iPhone Portrait mode records depth when you press the shutter. If the shot was taken in Photo mode, or the person stepped out of the depth range, Photos has nothing to refocus. Markup can scribble over a background, but that is not a photographic blur.",
-            "A dedicated blur app fills that gap: you open the existing image, the subject is separated, and you choose how strong the background goes. That is the search intent behind how to blur background on iPhone for most people who land here from Google—not a camera tutorial."
+            "How to Blur Photo (the app behind Make Blur) detects the person or object in the frame, keeps it sharp, and applies the blur only to what is behind it. You control the strength with a Radius slider, so a portrait can get a gentle depth-of-field look and a busy street shot can get a heavy one.",
+            "It is free to download from the App Store, needs iPhone with iOS 18.6 or later, and processes everything on the device. Basic background blur is included; extra styles and tools are optional in-app purchases."
           ]
         },
         {
-          "heading": "What you need",
+          "heading": "Picking the right strength",
           "paragraphs": [
-            "An iPhone running iOS 17.1 or later, the How to Blur Photo app (free to download; advanced styles are optional in-app purchases), and a photo in Recents. No internet is required to process the blur—the listing states images stay on the device."
+            "A Radius around 30–45 looks like a wide-aperture lens: the background is soft but still readable. Around 60–80 the background turns into colour and shape only, which is what most people mean by “blurry background” on social posts. Anything above 90 is a stylistic choice for product shots or text overlays. Zoom in on hair and shoulders before saving; if the edge looks fine there, it looks fine everywhere."
           ]
         }
       ],
@@ -33,284 +71,722 @@
       "steps": [
         {
           "number": "1",
-          "title": "Install the app",
-          "description": "Download How to Blur Photo from the App Store. The site brand is Make Blur; the store name matches the how-to query on purpose."
+          "title": "Open the app and pick the photo",
+          "description": "Install How to Blur Photo from the App Store, open it, and choose any photo from your library. Portrait mode is not required — a normal Photo-mode shot works."
         },
         {
           "number": "2",
-          "title": "Open the photo you already took",
-          "description": "Pick a portrait, a full-length shot, or a product photo. Subject detection keeps the person or object sharp while you target the background."
+          "title": "Stay on the Background tab",
+          "description": "The Background tab is selected by default. The app finds the subject and masks it so the person or object stays sharp while everything behind them is targeted."
         },
         {
           "number": "3",
-          "title": "Set strength and save",
-          "description": "Raise blur until the background recedes but edges still look natural. Save back to Photos. Repeat on the next shot without reshooting in Portrait."
+          "title": "Choose a style and set Radius",
+          "description": "Tap Gaussian for the classic soft look (or Motion, Ghosting, Box, and others). Drag Radius until the background is as blurred as you want; the preview updates live."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Tap Save in the top-right corner. The edited photo is written to your library as a new image, so the original is untouched."
         }
       ],
-      "faq_title": "Quick answers",
+      "tips_title": "Tips for a natural result",
+      "tips": [
+        "Photos with clear separation between subject and background (a person against a wall, a cup on a table) mask cleanest.",
+        "If a small region near the edge is missed, switch to the Manual tab and brush it yourself before you save.",
+        "For action photos, Motion with a low Angle reads as speed rather than as an out-of-focus mistake."
+      ],
+      "faq_title": "Questions people ask next",
       "faq": [
         {
-          "question": "Can I blur background on iPhone without Portrait mode?",
-          "answer": "Yes. How to Blur Photo works on photos you already took, including shots that were never captured in Portrait. That is the point of after-the-fact background blur."
+          "question": "Can I blur the background on iPhone without Portrait mode?",
+          "answer": "Yes. How to Blur Photo separates the subject from the background on any photo, including shots taken in normal Photo mode, older pictures, and images you received from someone else."
         },
         {
-          "question": "Does this work on older iPhones?",
-          "answer": "The listing requires iOS 17.1 or later. Check Settings → General → About for your iOS version before you install."
+          "question": "Can I blur the background on an existing photo in the Photos app?",
+          "answer": "Only if the photo was captured in Portrait mode. For everything else, Photos has no background-blur control; you need a third-party editor."
         },
         {
-          "question": "Is a DSLR required?",
-          "answer": "No. The store copy is explicit: use it after you shoot, without a DSLR or desktop suite."
+          "question": "Which iPhones does the app support?",
+          "answer": "Any iPhone running iOS 18.6 or later. There is no requirement for Apple Intelligence hardware."
+        },
+        {
+          "question": "Does it upload my photos?",
+          "answer": "No. The listing states photos are processed on the device and are not uploaded to external servers when you blur backgrounds."
         }
       ],
-      "cta_title": "Blur the next photo on your roll",
-      "cta_body": "Install How to Blur Photo and try background blur on one existing shot. If the subject stays sharp, you have the workflow.",
+      "related": [
+        "how-to-make-background-blurry-on-iphone.html",
+        "blur-background-of-photo.html",
+        "best-app-to-blur-background-on-iphone.html",
+        "gaussian-blur-iphone.html"
+      ],
+      "cta_title": "Blur the background of a photo you already have",
+      "cta_body": "Download How to Blur Photo, open one shot from Recents, and drag Radius. Free to install, on-device, iOS 18.6 or later.",
       "cta_text": "Download on the App Store"
     },
     {
       "slug": "blur-background-of-photo.html",
       "keyword": "blur background of photo",
+      "cluster": "background",
       "card_title": "Blur background of a photo",
-      "card_excerpt": "The result people mean: subject sharp, background soft, on a photo you already have.",
-      "card_image": "/img/appstore/04-box.webp",
-      "card_image_alt": "Controls for blurring the background of a photo on iPhone",
-      "meta_title": "Blur Background of a Photo on iPhone Free App Guide",
-      "meta_description": "Blur background of a photo on iPhone: keep the subject sharp, soften the scene, save on-device. How to Blur Photo works on shots you already took today.",
+      "card_excerpt": "Subject sharp, background soft — in three taps, on any photo already on your iPhone.",
+      "card_image": "/img/appstore/01-cover.webp",
+      "card_image_alt": "How to Blur Photo cover: portrait with blurred background",
+      "meta_title": "Blur Background of a Photo on iPhone — Free App, 3 Taps",
+      "meta_description": "Blur background of a photo on iPhone: the app detects the subject, you set the strength, and save. Works after you shoot, free to download, processed on-device.",
       "h1": "Blur background of a photo on iPhone",
-      "intro": "Blur background of a photo is a result, not a camera setting. You already have the image. You want the person or product to stand out and the clutter behind it to fall away—for a story, a listing, or a message.",
-      "definition": "To blur background of a photo is to soften out-of-focus areas while leaving the main subject readable. How to Blur Photo does that on iPhone after capture, with subject detection and intensity control, without uploading the file to a server to run the blur.",
-      "image": "/img/appstore/04-box.webp",
-      "image_alt": "Precise background blur controls in How to Blur Photo",
+      "answer": "To blur the background of a photo, open it in How to Blur Photo, leave the Background tab selected so the subject is masked automatically, pick a blur style, drag the Radius slider to the strength you want, and tap Save. The app is free to download, works on any photo already on your iPhone, and does not upload the image.",
+      "intro": "“Blur background of photo” is a result people want, not a technique they want to learn: the person or product in front sharp, the clutter behind gone soft. On iPhone that used to mean shooting in Portrait mode or moving the file to a desktop editor. How to Blur Photo does it on the phone, after the shot, with a slider.",
+      "image": "/img/appstore/01-cover.webp",
+      "image_alt": "Portrait with sharp subject and blurred background made in How to Blur Photo",
+      "native": {
+        "heading": "Before you install anything",
+        "paragraphs": [
+          "Check whether the photo was taken in Portrait mode. If it was, Photos → Edit already lets you change the blur with the f-number control. If the photo was shot in the normal Photo mode, on the selfie camera without Portrait, or it is a screenshot or a saved image, Photos offers no background blur at all — the depth data was never recorded."
+        ]
+      },
       "sections": [
         {
-          "heading": "When this is the right tool",
+          "heading": "What the app does with a background",
           "paragraphs": [
-            "Use background blur when the subject should stay identifiable: a face, a pet, a plate of food, a product. If you need a transparent cutout for a shop template, that is background removal—a different product category.",
-            "Social posts and portraits are the listing’s stated use cases. The app is built around one job: blur photo backgrounds with the subject held."
+            "How to Blur Photo builds a mask around the main subject and applies the blur outside that mask. You can choose the kind of blur: Gaussian for a lens-like softness, Motion for directional streaks, Ghosting for a dreamy double image, Box for a flatter digital look, plus Pixelate, Hexagonal, and Crystallize for stylised backgrounds.",
+            "The Radius slider controls strength, and for Motion an Angle slider controls direction. Nothing leaves the phone; the whole pipeline is on-device, which is also why it works without a connection."
           ]
         },
         {
-          "heading": "Control, not a one-tap mystery",
+          "heading": "Where a blurred background helps most",
           "paragraphs": [
-            "The store screenshots show intensity and region control, not only a filter preset. Start milder than you think; it is easier to add blur than to recover a melted edge. Check hair, glasses, and hands against the background before you save."
+            "Profile photos and LinkedIn headshots taken in a kitchen or office. Marketplace product photos where the table and wall distract from the item. Instagram posts where a busy background competes with the person. Group shots where you want attention on one face. In each case the same three taps apply."
           ]
         }
       ],
+      "steps_title": "How to blur the background of a photo in the app",
       "steps": [
         {
           "number": "1",
           "title": "Choose the photo",
-          "description": "Open How to Blur Photo and select the image whose background you want soft."
+          "description": "Open How to Blur Photo and select the image from your library. Any format that Photos can show is fine."
         },
         {
           "number": "2",
-          "title": "Confirm the subject",
-          "description": "Detection should cover the person or object. Refine if a lamp or passer-by was included with the subject."
+          "title": "Let the Background tab find the subject",
+          "description": "Background is the default mode. The subject is masked automatically; the preview shows the blur applied only behind it."
         },
         {
           "number": "3",
-          "title": "Blur, review edges, save",
-          "description": "Apply background blur, zoom the edges, then save on-device."
+          "title": "Set style and strength, then Save",
+          "description": "Tap a style chip (Gaussian is the safe default), drag Radius, check the edges by zooming in, and tap Save to write a copy to Photos."
         }
       ],
+      "tips_title": "Tips",
+      "tips": [
+        "If the app picked the wrong subject in a crowded frame, switch to Manual and brush the areas you want blurred.",
+        "Keep Radius below 50 for headshots; strong blur behind a face looks like a cutout.",
+        "Save once at a moderate setting and once stronger — it is quicker than second-guessing on a small screen."
+      ],
+      "faq_title": "Frequently asked",
       "faq": [
         {
-          "question": "Is blur background of photo free?",
-          "answer": "The app is free to download and includes basic background blur. Advanced styles are in-app purchases listed at $4.99 and $29.99 on the US store (September 2026)."
+          "question": "Is it free to blur the background of a photo?",
+          "answer": "Yes. How to Blur Photo is free to download and includes basic background blur. Advanced styles and tools are optional in-app purchases ($4.99 and $29.99 on the US store)."
         },
         {
-          "question": "Will the subject stay sharp?",
-          "answer": "That is the design: subject detection keeps the person or object, and the background goes soft. Check edges before you export."
+          "question": "Does it work on old photos?",
+          "answer": "Yes. Anything in your library can be opened, including photos imported from a camera or downloaded from the web."
+        },
+        {
+          "question": "Will the original be replaced?",
+          "answer": "No. Save writes a new image to your library and leaves the original untouched."
         }
       ],
-      "cta_title": "Blur the background of one photo today",
-      "cta_body": "Download How to Blur Photo and run background blur on a shot that never had Portrait depth.",
+      "related": [
+        "blur-photo-background.html",
+        "how-to-blur-background-on-iphone.html",
+        "how-to-make-background-blurry-on-iphone.html",
+        "bokeh-effect-iphone.html"
+      ],
+      "cta_title": "Try it on one photo",
+      "cta_body": "Install How to Blur Photo, open a shot with a busy background, and see the subject separate. Free download, iPhone with iOS 18.6 or later.",
+      "cta_text": "Download on the App Store"
+    },
+    {
+      "slug": "blur-photo-background.html",
+      "keyword": "blur photo background",
+      "cluster": "background",
+      "card_title": "Blur photo background for posts and profiles",
+      "card_excerpt": "Make the person pop for Instagram, LinkedIn, or a dating profile — blur the background of a photo you already took.",
+      "card_image": "/img/appstore/04-box.webp",
+      "card_image_alt": "Blurred photo background with the subject in focus",
+      "meta_title": "Blur Photo Background on iPhone for Posts and Profiles",
+      "meta_description": "Blur photo background on iPhone for Instagram, LinkedIn, and profile pictures. Auto subject detection, adjustable strength, free download, no photo uploads.",
+      "h1": "Blur photo background on iPhone for social posts and profile pictures",
+      "answer": "To blur a photo background for a post or profile picture, open the image in How to Blur Photo, keep the Background tab active so the person is kept sharp, choose Gaussian, set Radius between 35 and 60 for a natural depth-of-field look, and tap Save. The blurred copy goes straight to your library, ready to upload.",
+      "intro": "A blurred photo background is the fastest way to make a phone snapshot look intentional. Feeds are full of Portrait-mode photos, so a flat, everything-in-focus picture stands out for the wrong reason. This guide is about the social-media use case: what strength to use, which style flatters faces, and how to do it on the iPhone in under a minute.",
+      "image": "/img/appstore/04-box.webp",
+      "image_alt": "Profile-style photo with a blurred background created in How to Blur Photo",
+      "native": {
+        "heading": "Can Instagram or Photos do this?",
+        "paragraphs": [
+          "Instagram’s editor has no background-blur tool for photos; its blur effects apply to the whole frame or to a radial area. Photos on iPhone only adjusts background blur on Portrait-mode captures. LinkedIn and most dating apps offer no editing at all. So the blur has to happen before you upload, in an editor that understands where the person is."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Which blur style looks right on a face",
+          "paragraphs": [
+            "Gaussian at a moderate Radius is the one that reads as “nice camera”. Bokeh-style softness behind a face is what Portrait mode imitates, and Gaussian gets closest. Motion blur behind a person suggests movement and suits street or gym photos. Ghosting and Crystallize are creative looks for story posts rather than for a profile picture.",
+            "For LinkedIn or a CV photo, keep the blur restrained (Radius 30–45) so the setting is still recognisable as an office or outdoors. For Instagram, go heavier (50–70) — feeds are viewed small and subtle blur disappears."
+          ]
+        },
+        {
+          "heading": "Group photos and multiple people",
+          "paragraphs": [
+            "The Background tab treats detected people as the subject. If you want everyone sharp, that is what you get. If you want only yourself sharp and the rest of the group soft, use the Manual tab and brush over the other people; Radius applies to everything you paint."
+          ]
+        }
+      ],
+      "steps_title": "How to blur a photo background for a post",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Open the photo in How to Blur Photo",
+          "description": "Pick the picture you plan to post. Selfies, full-length shots, and photos someone else took of you all work."
+        },
+        {
+          "number": "2",
+          "title": "Keep Background selected and choose Gaussian",
+          "description": "The person is masked automatically. Gaussian gives the portrait-lens look that suits profile pictures."
+        },
+        {
+          "number": "3",
+          "title": "Set Radius for the platform",
+          "description": "About 40 for LinkedIn or a CV, 50–70 for Instagram and TikTok covers. Zoom in on hair to check the edge."
+        },
+        {
+          "number": "4",
+          "title": "Save and upload",
+          "description": "Tap Save. The new image is in Recents; upload it from the app of your choice as usual."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Crop after blurring, not before — the subject detector has more context in the full frame.",
+        "Avoid maximum Radius on portraits; a face floating on a colour field looks like a cutout.",
+        "For a series of posts, use the same Radius on every photo so the feed looks consistent."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "Does blurring the background reduce photo quality?",
+          "answer": "The subject keeps its original detail; only the background is processed. The saved copy is a full-resolution image, not a compressed preview."
+        },
+        {
+          "question": "Can I blur the background of a selfie?",
+          "answer": "Yes. Front-camera photos are handled like any other image; Portrait mode is not required."
+        },
+        {
+          "question": "Can I use it for a LinkedIn or passport-style photo?",
+          "answer": "For LinkedIn, yes — keep Radius low for a professional look. For passports and official IDs, do not edit the background; those photos must be unretouched."
+        }
+      ],
+      "related": [
+        "blur-background-of-photo.html",
+        "how-to-blur-background-on-iphone.html",
+        "bokeh-effect-iphone.html",
+        "how-to-blur-faces-in-a-photo.html"
+      ],
+      "cta_title": "Make your next post look intentional",
+      "cta_body": "Download How to Blur Photo, blur the background on one photo, and compare it with the original. Free to install, iPhone with iOS 18.6 or later.",
+      "cta_text": "Download on the App Store"
+    },
+    {
+      "slug": "how-to-make-background-blurry-on-iphone.html",
+      "keyword": "how to make background blurry on iPhone",
+      "cluster": "background",
+      "card_title": "How to make the background blurry on iPhone",
+      "card_excerpt": "Beginner walkthrough: what “blurry background” means, what strength to pick, and how to do it on a photo you already have.",
+      "card_image": "/img/appstore/01-cover.webp",
+      "card_image_alt": "Blurry background behind a sharp subject on iPhone",
+      "meta_title": "How to Make Background Blurry on iPhone (Any Photo, Free)",
+      "meta_description": "How to make the background blurry on iPhone, step by step, on photos you already took. No Portrait mode needed: detect the subject, set strength, save. Free.",
+      "h1": "How to make the background blurry on iPhone",
+      "answer": "To make the background blurry on iPhone, either shoot in Portrait mode before you take the photo, or open an existing photo in How to Blur Photo, keep the Background tab selected so the subject stays sharp, drag the Radius slider until the background looks as blurry as you want, and tap Save. The second method works on any photo in your library.",
+      "intro": "If you have ever looked at a photo and thought “I wish the background was blurry”, this is the guide. It is written for people who are not photographers: no talk of f-stops, just what the options are on an iPhone and which one to use depending on whether the photo already exists.",
+      "image": "/img/appstore/01-cover.webp",
+      "image_alt": "How to Blur Photo making the background blurry behind a person",
+      "native": {
+        "heading": "Option 1: before you shoot — Portrait mode",
+        "paragraphs": [
+          "Open Camera, swipe to Portrait, wait for the yellow “Natural Light” label, and take the picture. The background is blurred automatically, and you can adjust the amount later in Photos → Edit with the f-number control. Limitations: you must remember to do it before the shot, the subject has to be within a couple of metres, and it does nothing for photos you already have."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Option 2: after you shoot — How to Blur Photo",
+          "paragraphs": [
+            "For photos that already exist, How to Blur Photo does the job Portrait mode would have done. It finds the subject on its own, and you decide how blurry the background should be with one slider called Radius. There is no masking to learn, and it is free to download for iPhone with iOS 18.6 or later.",
+            "What the Radius numbers mean in plain terms: 20–30 is “slightly out of focus”, 40–60 is what most people picture when they say “blurry background”, and 80+ turns the background into soft colour with no detail."
+          ]
+        },
+        {
+          "heading": "Common mistakes",
+          "paragraphs": [
+            "Blurring the whole photo instead of the background — make sure the Background tab, not Full Photo, is selected. Pushing Radius to the maximum on a portrait — it looks like a sticker. Skipping the zoom check — always pinch in on hair and shoulders before you save."
+          ]
+        }
+      ],
+      "steps_title": "Step by step in How to Blur Photo",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Install and open",
+          "description": "Get How to Blur Photo from the App Store, open it, and choose a photo from your library."
+        },
+        {
+          "number": "2",
+          "title": "Confirm Background is selected",
+          "description": "It is the default tab. The app highlights the subject and applies the blur behind it."
+        },
+        {
+          "number": "3",
+          "title": "Drag Radius until it looks right",
+          "description": "Start around 45. Move the slider and watch the live preview; stop when the background is as blurry as you want."
+        },
+        {
+          "number": "4",
+          "title": "Tap Save",
+          "description": "The blurry-background version is saved as a new photo; the original stays in your library."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Photos with a bit of distance between the person and the background look the most natural when blurred.",
+        "Gaussian is the style to use if you are unsure; it looks like a camera lens did it.",
+        "If you want the background blurry and a face hidden, do the background first, then switch to the Faces tab."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "How do I make the background blurry on a photo I already took?",
+          "answer": "Open it in How to Blur Photo, keep the Background tab selected, drag Radius, and Save. Portrait mode cannot be applied to a photo after the fact."
+        },
+        {
+          "question": "Can I make the background blurry on iPhone for free?",
+          "answer": "Yes. The app is free to download and basic background blur is included; extra styles are optional in-app purchases."
+        },
+        {
+          "question": "Why does Photos not let me blur my background?",
+          "answer": "The f-number control only appears on photos captured in Portrait mode, because it needs the depth data recorded at capture time."
+        }
+      ],
+      "related": [
+        "how-to-blur-background-on-iphone.html",
+        "blur-background-of-photo.html",
+        "how-to-make-a-photo-blurry.html",
+        "gaussian-blur-iphone.html"
+      ],
+      "cta_title": "Make one background blurry right now",
+      "cta_body": "Download How to Blur Photo, pick a photo, drag the slider. Free, on-device, iPhone with iOS 18.6 or later.",
       "cta_text": "Download on the App Store"
     },
     {
       "slug": "how-to-blur-a-photo-on-iphone.html",
       "keyword": "how to blur a photo on iPhone",
+      "cluster": "photo",
       "card_title": "How to blur a photo on iPhone",
-      "card_excerpt": "Camera-roll photos, not a reshoot. Background blur or a full-frame soft look.",
-      "card_image": "/img/appstore/01-cover.webp",
-      "card_image_alt": "Blurring a photo on iPhone with How to Blur Photo",
-      "meta_title": "How to Blur a Photo on iPhone Without Portrait Mode",
-      "meta_description": "How to blur a photo on iPhone from Recents: keep a sharp subject or soften the whole frame. On-device editor, iOS 17.1+, free to download on App Store.",
-      "h1": "How to blur a photo on iPhone (from the camera roll)",
-      "intro": "How to blur a photo on iPhone is a camera-roll problem. The file exists. You either want a portrait-style background or a fully soft frame. Photos’ own tools do not offer a simple background blur for every older shot.",
-      "definition": "Blurring a photo on iPhone means editing an existing image so part or all of it is out of focus. How to Blur Photo handles subject-aware background blur and style filters (motion, gaussian, creative) on-device.",
-      "image": "/img/appstore/01-cover.webp",
-      "image_alt": "Photo on iPhone with a blurred background after editing",
+      "card_excerpt": "Blur the whole picture or just the background — the two options explained, with the taps for each.",
+      "card_image": "/img/appstore/06-ghost.webp",
+      "card_image_alt": "Full Photo tab in How to Blur Photo blurring an entire image",
+      "meta_title": "How to Blur a Photo on iPhone: Whole Image or Background",
+      "meta_description": "How to blur a photo on iPhone in two ways: soften the whole image, or keep the subject sharp and blur only the background. Free app, any photo, on-device.",
+      "h1": "How to blur a photo on iPhone — the whole image or just the background",
+      "answer": "To blur a photo on iPhone, open it in How to Blur Photo and choose what to blur: the Full Photo tab softens the entire image, the Background tab keeps the subject sharp and blurs what is behind it. Pick a style such as Gaussian, drag Radius to set the strength, and tap Save. Photos on iPhone has no blur tool of its own for regular photos.",
+      "intro": "“How to blur a photo on iPhone” covers two different wishes. Some people want the entire picture soft — for a wallpaper, a story background, or to hide detail. Others want a portrait look where only the background is blurred. The built-in Photos app does neither on a normal photo, so this guide shows both in one app and explains when to use which.",
+      "image": "/img/appstore/06-ghost.webp",
+      "image_alt": "How to Blur Photo with the Full Photo tab selected and Radius at 79",
+      "native": {
+        "heading": "What Photos can and cannot do",
+        "paragraphs": [
+          "Photos → Edit offers exposure, colour, crop, and filters, but no blur slider for a regular photo. The only blur control is the f-number on Portrait-mode captures, and it only affects the background of those specific shots. Markup can cover parts of a picture with shapes, which hides rather than blurs. For any real blur — full image or background — you need a dedicated editor."
+        ]
+      },
       "sections": [
         {
-          "heading": "Two different results",
+          "heading": "Which tab to use",
           "paragraphs": [
-            "Background blur: subject readable, scene soft. Full-frame blur: the entire photo looks hazy (privacy, stylized posts, or hiding detail). Decide which you want before you pick a style. Mixing them by accident is how edges look dirty.",
-            "This page is for the photo-on-iPhone query. If you said “picture,” see the sister guide—it covers screenshots and saved images with the same app."
+            "Full Photo: the blur is applied evenly to every pixel. Use it for lock-screen wallpapers, text backgrounds, or when you want to share the mood of a picture without the detail. Background: the app detects the subject and blurs only what is behind it. Use it for portraits, product shots, and anything where a person or object should stand out.",
+            "Both tabs share the same style chips — Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize — and the same Radius slider. Motion adds an Angle slider for direction."
+          ]
+        },
+        {
+          "heading": "Choosing a style",
+          "paragraphs": [
+            "Gaussian is the neutral, lens-like option and the right default. Ghosting produces a dreamy double image that suits full-photo edits for stories. Motion suggests speed. Pixelate, Box, Hexagonal, and Crystallize are stylised and are better for creative posts or privacy than for realism."
           ]
         }
       ],
+      "steps_title": "How to blur a photo in How to Blur Photo",
       "steps": [
         {
           "number": "1",
-          "title": "Download How to Blur Photo",
-          "description": "Install from the App Store on iOS 17.1 or later."
+          "title": "Open the photo",
+          "description": "Launch How to Blur Photo and select a picture from your library. Screenshots and downloaded images work too."
         },
         {
           "number": "2",
-          "title": "Open the photo",
-          "description": "Select the camera-roll image. For background blur, keep detection on the subject."
+          "title": "Choose Full Photo or Background",
+          "description": "Tap Full Photo to blur everything, or leave Background selected to keep the subject sharp."
         },
         {
           "number": "3",
-          "title": "Choose style and export",
-          "description": "Gaussian for a smooth wash, motion for direction, face blur if people in the back should be unreadable. Save to Photos."
-        }
-      ],
-      "faq": [
-        {
-          "question": "Can I blur a photo on iPhone for free?",
-          "answer": "Yes to install and basic background blur. Some styles are optional purchases."
+          "title": "Pick a style and drag Radius",
+          "description": "Gaussian is a safe start. Move Radius until the preview looks right; for a wallpaper go high, for a portrait stay moderate."
         },
         {
-          "question": "Do I need to reshoot?",
-          "answer": "No. The listing’s promise is after you shoot—the photo you already have."
+          "number": "4",
+          "title": "Save",
+          "description": "Tap Save to export the blurred photo to your library."
         }
       ],
-      "cta_title": "Blur a photo you already took",
-      "cta_body": "Skip the recapture. Open Recents in How to Blur Photo and edit the shot you have.",
+      "tips_title": "Tips",
+      "tips": [
+        "For a phone wallpaper, use Full Photo with Gaussian at Radius 70–90 so icons stay readable on top.",
+        "For a portrait, use Background and stay below Radius 60.",
+        "If the app detects the wrong subject, the Manual tab lets you brush the blur exactly where you want it."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "Can I blur a photo in the iPhone Photos app?",
+          "answer": "Not a regular photo. Photos only adjusts the background blur of Portrait-mode captures via the f-number control. Use How to Blur Photo for any other image."
+        },
+        {
+          "question": "How do I blur only part of a photo?",
+          "answer": "Use the Manual tab and brush over the area. See the guide on blurring part of a picture for details."
+        },
+        {
+          "question": "Is the app free?",
+          "answer": "Yes, it is free to download with basic blur included; advanced styles are optional in-app purchases."
+        }
+      ],
+      "related": [
+        "how-to-blur-a-picture-on-iphone.html",
+        "how-to-make-a-photo-blurry.html",
+        "how-to-blur-part-of-a-picture-on-iphone.html",
+        "how-to-blur-background-on-iphone.html"
+      ],
+      "cta_title": "Blur your first photo in under a minute",
+      "cta_body": "Download How to Blur Photo, choose Full Photo or Background, drag one slider, save. Free, iPhone with iOS 18.6 or later.",
       "cta_text": "Download on the App Store"
     },
     {
       "slug": "how-to-blur-a-picture-on-iphone.html",
       "keyword": "how to blur a picture on iPhone",
+      "cluster": "photo",
       "card_title": "How to blur a picture on iPhone",
-      "card_excerpt": "Any picture in Recents: screenshots, saves, exports—not only Camera app shots.",
-      "card_image": "/img/appstore/04-box.webp",
-      "card_image_alt": "Blurring a picture already saved on iPhone",
-      "meta_title": "How to Blur a Picture on iPhone After You Save One",
-      "meta_description": "How to blur a picture on iPhone including screenshots and saved images. Subject-aware background blur in How to Blur Photo, processed on-device today.",
-      "h1": "How to blur a picture on iPhone—including shots you did not take",
-      "intro": "How to blur a picture on iPhone includes more than photos you captured. Recents holds screenshots, WhatsApp saves, cropped exports. Those files have no Portrait depth. You still may want the main object sharp and the rest quiet.",
-      "definition": "A picture on iPhone is any still image in Photos. How to Blur Photo opens those files, detects a subject when one exists, and blurs the background or applies a full-image style without a Mac.",
-      "image": "/img/appstore/04-box.webp",
-      "image_alt": "Editing a saved picture with background blur on iPhone",
+      "card_excerpt": "Screenshots, saved images, pictures someone sent you — how to blur any picture on iPhone, including the parts you choose.",
+      "card_image": "/img/appstore/05-crystalize.webp",
+      "card_image_alt": "Picture blurred on iPhone with a stylised background",
+      "meta_title": "How to Blur a Picture on iPhone (Screenshots & Saved Images)",
+      "meta_description": "How to blur a picture on iPhone, including screenshots and saved images: blur all of it, the background, or brush one area. Free app, no uploads, iOS 18.6+.",
+      "h1": "How to blur a picture on iPhone — including screenshots and images you did not take",
+      "answer": "To blur a picture on iPhone, open it in How to Blur Photo and choose a tab: Full Photo blurs the whole picture, Background keeps the subject sharp, Manual lets you brush over a specific area, and Faces blurs detected faces. Set the strength with Radius and tap Save. It works on screenshots, saved images, and photos from Messages as well as camera photos.",
+      "intro": "A “picture” on iPhone is often not something you photographed: a screenshot of a chat, an image saved from a website, a photo a friend sent. Those files have no depth data and Photos treats them as flat images, so nothing in the built-in editor will blur them. This guide covers every kind of picture and every kind of blur — the whole thing, the background, or one specific area.",
+      "image": "/img/appstore/05-crystalize.webp",
+      "image_alt": "Crystallize style applied to a picture in How to Blur Photo",
+      "native": {
+        "heading": "What the built-in tools do with a picture",
+        "paragraphs": [
+          "Markup (Photos → Edit → pen icon) can draw shapes and scribbles over a picture, which is a way to hide content but not to blur it. Portrait-mode blur is unavailable on anything that was not captured in Portrait mode, which includes every screenshot and every saved image. The Clean Up tool on Apple Intelligence iPhones removes objects; it is not a blur brush."
+        ]
+      },
       "sections": [
         {
-          "heading": "Pictures without depth data",
+          "heading": "Four ways to blur a picture in one app",
           "paragraphs": [
-            "Screenshot of a story, a downloaded JPEG, a frame grabbed from video—none of these have Portrait metadata. Built-in depth editors will not help. An after-the-fact blur app is the practical path.",
-            "If the picture has no clear subject (a texture, a crowd), use a lighter full-frame gaussian instead of forcing a fake portrait. Detection works best when one person or object dominates the frame."
+            "Full Photo softens the entire picture, which is what you want for a background image or to share a vibe without the detail. Background finds the subject and blurs behind it — this works on saved images too, as long as there is a clear subject. Manual gives you a brush: paint over a name in a screenshot, a house number, or a face in the crowd, and only that area is blurred. Faces detects faces automatically and blurs each one.",
+            "All four use the same style chips and the same Radius slider, so once you have done one, you can do the rest."
+          ]
+        },
+        {
+          "heading": "Screenshots specifically",
+          "paragraphs": [
+            "For screenshots of conversations or documents, the Manual tab with Pixelate or Box is the clearest choice: it makes text unreadable rather than merely soft. Use a Radius high enough that individual letters are not distinguishable when zoomed in, then save and share the copy."
           ]
         }
       ],
+      "steps_title": "How to blur a picture in How to Blur Photo",
       "steps": [
         {
           "number": "1",
-          "title": "Save the picture to Photos",
-          "description": "If it lives in Files or another app, save an image to Recents first."
+          "title": "Open the picture",
+          "description": "Launch the app and choose the image — a camera photo, a screenshot, or something saved from Safari or Messages."
         },
         {
           "number": "2",
-          "title": "Open it in How to Blur Photo",
-          "description": "Let detection try. If it misses, use the app’s region controls shown in the store screenshots."
+          "title": "Pick the tab that matches what you want",
+          "description": "Full Photo for the whole picture, Background for a portrait look, Manual to brush an area, Faces for people."
         },
         {
           "number": "3",
-          "title": "Export",
-          "description": "Save a new image. Keep the original if you need an unblurred copy later."
+          "title": "Set style and Radius",
+          "description": "Gaussian for soft, Pixelate or Box for unreadable. Drag Radius and watch the preview."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Tap Save; the blurred picture is exported to your library."
         }
       ],
+      "tips_title": "Tips",
+      "tips": [
+        "For anything sensitive, zoom in before saving and confirm the text or face is unrecognisable.",
+        "Saved images are often low resolution; a lower Radius already looks strong on them.",
+        "Combine tabs: blur the background first, then switch to Manual for a leftover detail."
+      ],
+      "faq_title": "Frequently asked",
       "faq": [
         {
           "question": "Can I blur a screenshot on iPhone?",
-          "answer": "Yes, if it is in Photos. Treat it like any other picture: open in How to Blur Photo and apply background or full-frame blur."
+          "answer": "Yes. Open the screenshot in How to Blur Photo, use the Manual tab to brush the area, or Full Photo to blur all of it, and Save."
         },
         {
-          "question": "What if there is no person in the picture?",
-          "answer": "Detection still needs a dominant object. For flat scenes, a gentle full-image gaussian is usually cleaner than a fake subject mask."
+          "question": "Can I blur a picture someone sent me?",
+          "answer": "Yes. Save it to Photos first, then open it in the app like any other image."
+        },
+        {
+          "question": "How do I blur just one part of a picture?",
+          "answer": "Use the Manual tab and paint over the region; Radius controls how strong the blur is inside the painted area."
         }
       ],
-      "cta_title": "Blur the picture sitting in Recents",
-      "cta_body": "How to Blur Photo is built for images you already have—not only new Camera shots.",
+      "related": [
+        "how-to-blur-part-of-a-picture-on-iphone.html",
+        "how-to-blur-a-photo-on-iphone.html",
+        "how-to-blur-text-in-a-photo.html",
+        "how-to-pixelate-a-photo-on-iphone.html"
+      ],
+      "cta_title": "Blur any picture on your iPhone",
+      "cta_body": "Download How to Blur Photo and open a screenshot or saved image. Full, background, manual, or faces — one slider each. Free, iOS 18.6 or later.",
+      "cta_text": "Download on the App Store"
+    },
+    {
+      "slug": "how-to-make-a-photo-blurry.html",
+      "keyword": "how to make a photo blurry",
+      "cluster": "photo",
+      "card_title": "How to make a photo blurry",
+      "card_excerpt": "Soften the whole image for wallpapers, story backgrounds, or a dreamy look — on iPhone, in one slider.",
+      "card_image": "/img/appstore/06-ghost.webp",
+      "card_image_alt": "Whole photo made blurry with the Ghosting style",
+      "meta_title": "How to Make a Photo Blurry on iPhone (Whole Image, Free)",
+      "meta_description": "How to make a photo blurry on iPhone: open it in a free app, tap Full Photo, pick Gaussian or Ghosting, drag Radius, save. For wallpapers and story backgrounds.",
+      "h1": "How to make a photo blurry on iPhone",
+      "answer": "To make a photo blurry, open it in How to Blur Photo, tap the Full Photo tab so the blur applies to the whole image, choose Gaussian for an even softness or Ghosting for a dreamy look, drag Radius to the strength you want, and tap Save. For a blurry background with a sharp subject, use the Background tab instead.",
+      "intro": "Sometimes the goal is the opposite of a sharp photo: a soft, blurry image for a lock screen, a backdrop behind text in a story, an abstract of a sunset, or a way to share a moment without the detail. iPhone’s Photos app cannot do it, and web tools mean uploading the file. How to Blur Photo does it on the phone with one tab and one slider.",
+      "image": "/img/appstore/06-ghost.webp",
+      "image_alt": "Full Photo tab with Ghosting style making an entire photo blurry",
+      "native": {
+        "heading": "Is there a built-in way?",
+        "paragraphs": [
+          "No. Photos has no blur filter for a regular image. Some people zoom far into a photo and take a screenshot to get a soft result, which destroys resolution. Others use the Portrait f-number slider, which only works on Portrait captures and only on the background. A dedicated blur tool is the clean way."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Styles that suit a fully blurry photo",
+          "paragraphs": [
+            "Gaussian gives an even, out-of-focus look and is best for wallpapers and text backgrounds. Ghosting overlays a shifted copy of the image for a dreamy, slightly surreal result that works well on landscapes and night shots. Motion turns the frame into streaks and suits lights and cityscapes. Crystallize and Hexagonal make abstract, mosaic-like art from any photo.",
+            "Radius controls how far the blur goes. For a wallpaper you want app icons to sit on, 70 or above. For a “soft memory” look where the scene is still recognisable, 25–40."
+          ]
+        },
+        {
+          "heading": "If you actually want only the background blurry",
+          "paragraphs": [
+            "Many people typing “how to make a photo blurry” mean the portrait effect. If that is you, switch to the Background tab: the subject is kept sharp automatically and the same Radius slider controls the background. The guide on blurring the background on iPhone walks through it."
+          ]
+        }
+      ],
+      "steps_title": "How to make a photo blurry in How to Blur Photo",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Open the photo",
+          "description": "Start How to Blur Photo and select the image from your library."
+        },
+        {
+          "number": "2",
+          "title": "Tap Full Photo",
+          "description": "This applies the blur to the entire frame instead of only the background."
+        },
+        {
+          "number": "3",
+          "title": "Choose Gaussian or Ghosting and set Radius",
+          "description": "Drag Radius until the photo is as blurry as you want. The preview is live."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Tap Save to export the blurry version to your library, then set it as a wallpaper or use it in a story."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Blur before you crop to the wallpaper aspect ratio; edges look cleaner.",
+        "For text overlays in stories, a Radius around 60 keeps enough colour variation to look alive.",
+        "Prefer a limited web tool? The free online editor on this site does full-image blur in the browser, without the app."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "How do I make a whole photo blurry on iPhone?",
+          "answer": "Open it in How to Blur Photo, tap Full Photo, choose a style, drag Radius, and Save."
+        },
+        {
+          "question": "Can I make a photo blurry without an app?",
+          "answer": "Not in Photos. This site’s free online editor does full-image blur in a browser if you prefer not to install anything; it does not do subject-aware background blur."
+        },
+        {
+          "question": "Will a blurry photo lose resolution?",
+          "answer": "The exported image keeps the original pixel dimensions; blur removes fine detail but does not downscale the file."
+        }
+      ],
+      "related": [
+        "how-to-blur-a-photo-on-iphone.html",
+        "how-to-blur-background-on-iphone.html",
+        "gaussian-blur-iphone.html",
+        "motion-blur-effect.html"
+      ],
+      "cta_title": "Turn a photo into a soft backdrop",
+      "cta_body": "Download How to Blur Photo, tap Full Photo, and drag Radius. Free, on-device, iPhone with iOS 18.6 or later.",
       "cta_text": "Download on the App Store"
     },
     {
       "slug": "motion-blur-effect.html",
       "keyword": "motion blur effect",
+      "cluster": "effects",
       "card_title": "Motion blur effect on photos",
-      "card_excerpt": "Add directional motion blur to a still photo—action energy without a video app.",
+      "card_excerpt": "Add speed to a still photo: directional blur behind a runner, a car, or a skater, with Radius and Angle control.",
       "card_image": "/img/appstore/02-motion.webp",
-      "card_image_alt": "Motion blur effect screenshot from How to Blur Photo",
-      "meta_title": "Motion Blur Effect on iPhone Photos (After You Shoot)",
-      "meta_description": "Add a motion blur effect to iPhone photos you already took. Keep the subject readable, streak the background. How to Blur Photo, on-device, iOS 17.1+.",
-      "h1": "Motion blur effect on iPhone photos",
-      "intro": "A motion blur effect on a still photo is directional softness—streaks that imply speed. It is not the same as gaussian haze, and it is not video. People search it for action shots, sports, and stylized social frames.",
-      "definition": "A motion blur effect smears pixels along a direction to suggest movement. In How to Blur Photo, you apply that look after capture, typically on the background so the subject still reads as the anchor.",
+      "card_image_alt": "Motion blur effect applied to the background of an action photo",
+      "meta_title": "Motion Blur Effect on iPhone Photos: Add Speed Afterwards",
+      "meta_description": "Add a motion blur effect to iPhone photos after you shoot. Keep the subject sharp, streak the background, set Radius and Angle. Free app, processed on-device.",
+      "h1": "Motion blur effect on iPhone photos — add speed after the shot",
+      "answer": "To add a motion blur effect to a photo on iPhone, open it in How to Blur Photo, keep the Background tab so the subject stays sharp, tap the Motion style, set Radius for the length of the streaks and Angle for their direction, and tap Save. For a full-frame streak, use the Full Photo tab with the same controls.",
+      "intro": "Motion blur is what a camera records when something moves during the exposure: streaks in the direction of travel. Phones freeze motion by default, so action photos often look static. The motion blur effect adds those streaks back — to the background behind a moving subject, or to the whole frame for a panning look — and How to Blur Photo does it on the iPhone with two sliders.",
       "image": "/img/appstore/02-motion.webp",
-      "image_alt": "Motion blur style applied in How to Blur Photo",
+      "image_alt": "Motion style selected in How to Blur Photo with Radius and Angle sliders",
+      "native": {
+        "heading": "Can iPhone do motion blur natively?",
+        "paragraphs": [
+          "Not on a photo you already took. Some iPhone models offer long-exposure effects on Live Photos, which blur anything that moved during the capture — the opposite of what you usually want, since the subject blurs too. Photos has no directional blur filter. The effect has to be added in an editor that can separate the subject from the background."
+        ]
+      },
       "sections": [
         {
-          "heading": "When motion beat gaussian",
+          "heading": "Radius and Angle",
           "paragraphs": [
-            "Gaussian is even and calm. Motion has a heading: left-right for a runner, mild for a cyclist, stronger for a night street. If the photo is a seated portrait, gaussian or bokeh-style looks are usually more honest than fake speed.",
-            "The App Store listing calls out action shots as a use case. Match the effect to the picture you have, not to the keyword alone."
+            "Radius sets how long the streaks are. Around 30–50 reads as a fast pan; 65 and above (the App Store screenshot shows 65) looks like high speed. Angle sets the direction. Match it to the direction of travel: near 0° for a car crossing the frame, around 90° for a jump or a skateboard trick going up, and something in between for a diagonal.",
+            "Because the subject is masked on the Background tab, the person or vehicle stays crisp while the street, track, or crowd streaks behind them — which is exactly how a panned action shot looks."
+          ]
+        },
+        {
+          "heading": "When to use Full Photo instead",
+          "paragraphs": [
+            "If the whole frame should feel like it is moving — a train window, city lights, a dance floor — switch to the Full Photo tab and apply Motion to everything. Keep Radius lower there; full-frame motion blur becomes abstract quickly."
           ]
         }
       ],
+      "steps_title": "How to add a motion blur effect in How to Blur Photo",
       "steps": [
         {
           "number": "1",
-          "title": "Pick an action still",
-          "description": "A photo with implied movement takes motion blur better than a posed headshot."
+          "title": "Open the action photo",
+          "description": "Launch How to Blur Photo and pick the shot — a runner, cyclist, car, pet, or anything with a direction of travel."
         },
         {
           "number": "2",
-          "title": "Keep the subject",
-          "description": "Detection should hold the person or vehicle. Motion on the subject itself can look like a mistake unless that is the intent."
+          "title": "Keep Background and tap Motion",
+          "description": "The subject is detected and kept sharp. Motion appears in the style row alongside Gaussian, Ghosting, and Box."
         },
         {
           "number": "3",
-          "title": "Apply motion blur and save",
-          "description": "Use the motion style from How to Blur Photo, preview at 100%, then save on-device."
-        }
-      ],
-      "faq": [
-        {
-          "question": "Is this for video?",
-          "answer": "No. How to Blur Photo is a photo editor. For clips, use a video app. This page is the still-photo motion blur effect."
+          "title": "Set Radius and Angle",
+          "description": "Drag Radius for streak length and Angle to match the direction of movement. Check the preview at full size."
         },
         {
-          "question": "Can I add motion blur after shooting?",
-          "answer": "Yes. That is the listing’s workflow: select a photo, adjust, save—no need to pan the camera at capture."
+          "number": "4",
+          "title": "Save",
+          "description": "Tap Save to export the photo with the motion blur effect."
         }
       ],
-      "cta_title": "Try motion blur on one action still",
-      "cta_body": "Install How to Blur Photo and open a sports or street shot from Recents.",
+      "tips_title": "Tips",
+      "tips": [
+        "Angle should follow the subject’s direction, not the camera’s; a runner moving left-to-right wants a horizontal streak.",
+        "Slightly lower Radius on the background than you think — a sharp subject in front of moderate streaks reads faster than extreme blur.",
+        "Motion also works as a creative background for portraits: try Angle 90° behind a standing person."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "What is the motion blur effect?",
+          "answer": "It is directional blur that mimics movement during a camera exposure. Applied behind a sharp subject, it makes a still photo look like a fast pan."
+        },
+        {
+          "question": "Can I add motion blur to a photo on iPhone for free?",
+          "answer": "Yes. How to Blur Photo is free to download and includes Motion as a style; advanced options are optional in-app purchases."
+        },
+        {
+          "question": "Does it work on photos that were not action shots?",
+          "answer": "Yes. Any photo with a subject can get a motion blur background; it is a popular creative look for portraits and product photos."
+        }
+      ],
+      "related": [
+        "gaussian-blur-iphone.html",
+        "how-to-blur-background-on-iphone.html",
+        "bokeh-effect-iphone.html",
+        "how-to-make-a-photo-blurry.html"
+      ],
+      "cta_title": "Add speed to your next action shot",
+      "cta_body": "Download How to Blur Photo, tap Motion, and set Radius and Angle. Free, iPhone with iOS 18.6 or later, processed on your device.",
       "cta_text": "Download on the App Store"
     },
     {
       "slug": "gaussian-blur-iphone.html",
       "keyword": "gaussian blur",
+      "cluster": "effects",
       "card_title": "Gaussian blur on iPhone",
-      "card_excerpt": "The smooth, even blur people know from editors—now on a photo you already shot.",
-      "card_image": "/img/appstore/01-cover.webp",
-      "card_image_alt": "Soft gaussian-style background blur on iPhone",
-      "meta_title": "Gaussian Blur on iPhone Photos After You Shoot Now",
-      "meta_description": "Apply gaussian blur on iPhone to soften a photo background after capture. Smooth, even defocus in How to Blur Photo. On-device, iOS 17.1 or later still.",
-      "h1": "Gaussian blur on iPhone photos",
-      "intro": "Gaussian blur is the even, bell-curve softness used in almost every desktop editor. On iPhone, people want that same look on a photo they already took—not a 17-slider pro app.",
-      "definition": "Gaussian blur spreads pixel values with a smooth falloff. In How to Blur Photo it is the style for a calm, soft background while the detected subject stays sharp. Processing stays on the device.",
-      "image": "/img/appstore/01-cover.webp",
-      "image_alt": "Soft gaussian background behind a sharp subject on iPhone",
+      "card_excerpt": "The soft, lens-like blur behind every good portrait — what it is and how to apply it to the background or the whole photo.",
+      "card_image": "/img/appstore/04-box.webp",
+      "card_image_alt": "Gaussian blur applied behind a subject on iPhone",
+      "meta_title": "Gaussian Blur on iPhone Photos: Soft Background in Seconds",
+      "meta_description": "Apply gaussian blur on iPhone to a photo background or the whole image. Subject stays sharp, Radius sets softness, saved on-device. Free app, iOS 18.6 or later.",
+      "h1": "Gaussian blur on iPhone photos — soft background, sharp subject",
+      "answer": "To apply a gaussian blur on iPhone, open the photo in How to Blur Photo, keep the Background tab so the subject stays sharp (or choose Full Photo to blur everything), tap the Gaussian style, drag Radius to set how soft the result is, and tap Save. Gaussian is the smooth, even blur that most closely resembles a camera lens out of focus.",
+      "intro": "Gaussian blur is the standard soft blur in every image editor: each pixel is averaged with its neighbours using a bell-curve weighting, so the result is smooth with no streaks or blocks. On a photo background it looks like shallow depth of field. This guide explains when to choose Gaussian over other blur types and how to apply it on the iPhone without a desktop app.",
+      "image": "/img/appstore/04-box.webp",
+      "image_alt": "Gaussian style in How to Blur Photo with the background softened",
+      "native": {
+        "heading": "Is there a gaussian blur in the Photos app?",
+        "paragraphs": [
+          "No. Photos has no blur filter for a regular photo, gaussian or otherwise. The Portrait f-number control simulates lens blur on Portrait captures only. General photo editors often include a blur tool, but most apply a radial or whole-frame blur rather than detecting the subject for you."
+        ]
+      },
       "sections": [
         {
-          "heading": "Gaussian vs motion vs pixel",
+          "heading": "Gaussian vs the other styles",
           "paragraphs": [
-            "Gaussian: even, photographic, good for portraits and products. Motion: directional, for action. Pixelate/mosaic: privacy or graphic looks, not a lens simulation. Crystalize and ghosting are creative, not a stand-in for a fast prime.",
-            "If you searched only “gaussian blur,” start here, then branch to motion or face blur if that was the real job."
+            "Gaussian is even and directionless — the safe choice for portraits, products, and anything that should look photographic. Box blur is similar but flatter and slightly more digital. Motion adds direction. Ghosting doubles the image. Pixelate, Hexagonal, and Crystallize replace detail with blocks or cells and are stylistic or privacy tools rather than lens simulations.",
+            "In How to Blur Photo, Radius maps to the gaussian radius: how many pixels each point is averaged across. Larger radius, softer result."
+          ]
+        },
+        {
+          "heading": "Typical settings",
+          "paragraphs": [
+            "Headshots: Radius 30–45 keeps the environment readable. Full-length portraits: 45–60. Product photos on a table: 50–70 so the item is the only sharp thing. Full Photo backgrounds for text: 70+."
           ]
         }
       ],
+      "steps_title": "How to apply gaussian blur in How to Blur Photo",
       "steps": [
         {
           "number": "1",
@@ -319,249 +795,685 @@
         },
         {
           "number": "2",
-          "title": "Hold the subject",
-          "description": "Confirm detection. Gaussian on the background should not chew hairlines if the mask is clean."
+          "title": "Choose Background or Full Photo",
+          "description": "Background keeps the detected subject sharp; Full Photo blurs the entire image."
         },
         {
           "number": "3",
-          "title": "Apply gaussian and save",
-          "description": "Increase until the background is quiet, not mushy. Save on-device."
-        }
-      ],
-      "faq": [
-        {
-          "question": "Is gaussian blur the same as Portrait mode?",
-          "answer": "No. Portrait uses depth at capture. Gaussian blur here is an after-the-fact filter on a normal photo."
+          "title": "Tap Gaussian and drag Radius",
+          "description": "Gaussian is in the style row. Move Radius until the blur looks like a lens rather than a filter."
         },
         {
-          "question": "Can I use gaussian blur for privacy?",
-          "answer": "You can soften a region, but faces are clearer with the dedicated face-blur flow. See the face guide."
+          "number": "4",
+          "title": "Save",
+          "description": "Tap Save to export the result to your library."
         }
       ],
-      "cta_title": "Get a smooth gaussian background",
-      "cta_body": "Download How to Blur Photo and apply gaussian-style blur to one existing portrait.",
+      "tips_title": "Tips",
+      "tips": [
+        "Gaussian at high Radius on a bright background creates a bokeh-like glow around highlights.",
+        "Check hair edges at 100% before saving; if needed, touch up with the Manual tab.",
+        "Use the same Radius across a set of product photos for a consistent catalogue look."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "What is gaussian blur?",
+          "answer": "A smooth blur where each pixel is averaged with its neighbours using a bell-curve weighting. It has no direction and is the closest software match to a lens out of focus."
+        },
+        {
+          "question": "Gaussian blur or bokeh — which should I use for a portrait?",
+          "answer": "Gaussian at a moderate Radius gives the portrait look on most photos. Bokeh refers to the shape of out-of-focus highlights; on backgrounds with lights, a stronger Gaussian produces a similar glow."
+        },
+        {
+          "question": "Does the app blur the subject too?",
+          "answer": "Not on the Background tab; the subject is masked automatically. Use Full Photo if you want the whole image soft."
+        }
+      ],
+      "related": [
+        "bokeh-effect-iphone.html",
+        "motion-blur-effect.html",
+        "how-to-blur-background-on-iphone.html",
+        "how-to-make-a-photo-blurry.html"
+      ],
+      "cta_title": "Get the soft-lens look on any photo",
+      "cta_body": "Download How to Blur Photo, tap Gaussian, drag Radius. Free to install, iPhone with iOS 18.6 or later, on-device.",
+      "cta_text": "Download on the App Store"
+    },
+    {
+      "slug": "bokeh-effect-iphone.html",
+      "keyword": "bokeh effect iPhone",
+      "cluster": "effects",
+      "card_title": "Bokeh effect on iPhone photos",
+      "card_excerpt": "The creamy, out-of-focus background of a portrait lens — how to get the look on a photo you already took.",
+      "card_image": "/img/appstore/06-ghost.webp",
+      "card_image_alt": "Soft bokeh-style background on an iPhone photo",
+      "meta_title": "Bokeh Effect on iPhone: Soft Background on Any Photo",
+      "meta_description": "Get a bokeh effect on iPhone photos after you shoot: keep the subject sharp, soften the background with Gaussian or Ghosting, save on-device. Free, iOS 18.6+.",
+      "h1": "Bokeh effect on iPhone — soft, glowing backgrounds on photos you already took",
+      "answer": "To get a bokeh effect on iPhone after the shot, open the photo in How to Blur Photo, keep the Background tab so the subject stays sharp, choose Gaussian for a creamy background or Ghosting for a softer glow, raise Radius until highlights bloom, and tap Save. Portrait mode simulates bokeh only while shooting; this works on any existing photo.",
+      "intro": "Bokeh is the quality of the out-of-focus area in a photo — the soft discs that street lights and sun through leaves turn into behind a portrait. It comes from a wide-aperture lens, which a phone does not have. Portrait mode fakes it at capture time. If the photo is already taken, you can still add the look: this guide shows how, and which style in the app gets closest.",
+      "image": "/img/appstore/06-ghost.webp",
+      "image_alt": "Ghosting style creating a soft bokeh-like background in How to Blur Photo",
+      "native": {
+        "heading": "Bokeh on iPhone without an app",
+        "paragraphs": [
+          "Shoot in Portrait mode and, on supported models, use the f-number slider afterwards to widen the simulated aperture; lower f-numbers give bigger, softer bokeh. Getting physically close to the subject also increases real background blur. Neither helps once a normal photo has been taken, and Photos offers no bokeh filter for existing images."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Which style gives the bokeh look",
+          "paragraphs": [
+            "Gaussian at a higher Radius (55–80) is the closest match to lens bokeh on most backgrounds: highlights soften into glowing patches and colours blend. Ghosting layers a shifted copy of the background, which gives a hazy, romantic glow that suits evening and backlit photos — the App Store listing calls it “soft vibes with bokeh”. Pick Gaussian for realism and Ghosting for mood.",
+            "The subject is masked automatically on the Background tab, so the person stays crisp while the background blooms. That contrast is what makes bokeh read as bokeh."
+          ]
+        },
+        {
+          "heading": "Photos that suit the effect",
+          "paragraphs": [
+            "Backgrounds with point lights — fairy lights, city streets at night, sun through trees — produce the classic discs. Plain walls become smooth gradients, which still isolates the subject but looks less dramatic. A little distance between subject and background makes the result more believable."
+          ]
+        }
+      ],
+      "steps_title": "How to add a bokeh effect in How to Blur Photo",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Open a photo with a lit or busy background",
+          "description": "Launch How to Blur Photo and choose the image. Night portraits and backlit shots work best."
+        },
+        {
+          "number": "2",
+          "title": "Keep Background selected",
+          "description": "The subject is detected and protected from the blur."
+        },
+        {
+          "number": "3",
+          "title": "Tap Gaussian or Ghosting and raise Radius",
+          "description": "Start around 55 and increase until the background highlights bloom the way you like."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Tap Save to export the bokeh version to your library."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Slightly underexposed backgrounds with bright points give the most convincing bokeh.",
+        "Do not push Radius past the point where the subject’s edge starts to glow; step back a little.",
+        "For group photos where only one person should be sharp, use the Manual tab and brush over the others."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "Can I add bokeh to a photo after taking it on iPhone?",
+          "answer": "Yes. How to Blur Photo keeps the subject sharp and softens the background with Gaussian or Ghosting, which produces the bokeh look on any existing photo."
+        },
+        {
+          "question": "What is the difference between bokeh and background blur?",
+          "answer": "Background blur is the general effect; bokeh describes the character of that blur, especially how highlights render. Strong, smooth background blur with glowing highlights is what people mean by a bokeh effect."
+        },
+        {
+          "question": "Does it need Portrait mode or a Pro iPhone?",
+          "answer": "No. It works on any iPhone running iOS 18.6 or later, on photos from any mode."
+        }
+      ],
+      "related": [
+        "gaussian-blur-iphone.html",
+        "blur-photo-background.html",
+        "how-to-blur-background-on-iphone.html",
+        "motion-blur-effect.html"
+      ],
+      "cta_title": "Give your portraits a lens look",
+      "cta_body": "Download How to Blur Photo, choose Gaussian or Ghosting, and raise Radius. Free to install, on-device, iOS 18.6 or later.",
       "cta_text": "Download on the App Store"
     },
     {
       "slug": "how-to-blur-faces-in-a-photo.html",
       "keyword": "how to blur faces in a photo",
+      "cluster": "privacy",
       "card_title": "How to blur faces in a photo",
-      "card_excerpt": "Privacy blur for group shots. Works without Apple Intelligence hardware.",
+      "card_excerpt": "Hide faces before you share a group shot — automatic face detection, no Apple Intelligence hardware required.",
       "card_image": "/img/appstore/03-face.webp",
-      "card_image_alt": "Face blur privacy screenshot from How to Blur Photo",
-      "meta_title": "How to Blur Faces in a Photo on iPhone for Privacy",
-      "meta_description": "How to blur faces in a photo on iPhone before you share. How to Blur Photo face blur does not need Apple Intelligence. On-device, iOS 17.1+ iPhone app.",
+      "card_image_alt": "Faces tab in How to Blur Photo blurring every detected face",
+      "meta_title": "How to Blur Faces in a Photo on iPhone (Auto, Free, Offline)",
+      "meta_description": "How to blur faces in a photo on iPhone: the app detects every face, you set the strength, save. Any iPhone on iOS 18.6+, no Apple Intelligence, no uploads.",
       "h1": "How to blur faces in a photo on iPhone",
-      "intro": "How to blur faces in a photo is a privacy task: kids in the background, a stranger in a street frame, coworkers who did not agree to a story. You need identities unreadable without destroying the rest of the picture.",
-      "definition": "Face blur hides facial features so a person is not easily identified in a still image. How to Blur Photo includes a face-blur flow (see the App Store screenshot). It runs on iOS 17.1+ and does not require Apple Intelligence–only iPhones.",
+      "answer": "To blur faces in a photo on iPhone, open it in How to Blur Photo, tap the Faces tab, and the app detects every face and blurs each one; set Radius for how strong the blur is, choose Pixelate or Gaussian, and tap Save. It works on any iPhone running iOS 18.6 or later, without Apple Intelligence, and the photo never leaves the device.",
+      "intro": "Blurring faces is the polite default before posting a group photo, a class picture, a protest, or a street scene: not everyone in the frame agreed to be online. iPhones with Apple Intelligence gained a way to do this in Photos, but it is limited to recent Pro and 16-series models and certain regions. This guide covers the built-in option, its limits, and a way that works on every supported iPhone.",
       "image": "/img/appstore/03-face.webp",
-      "image_alt": "Face blur applied for privacy in How to Blur Photo",
+      "image_alt": "Grid of detected faces, each blurred, in How to Blur Photo",
+      "native": {
+        "heading": "What the Photos app offers",
+        "paragraphs": [
+          "On iPhone 15 Pro, iPhone 16 and newer models running iOS 18.1 or later with Apple Intelligence enabled, Photos → Edit → Clean Up lets you brush over a face; the tool pixelates or blurs the covered area. It is manual (one face at a time), the strength is not adjustable, and it is unavailable on older iPhones and in some regions and languages. Without Apple Intelligence, Photos can only cover a face with a Markup shape or sticker — hiding, not blurring."
+        ]
+      },
       "sections": [
         {
-          "heading": "Apple Photos Clean Up vs this app",
+          "heading": "Automatic face blur for every supported iPhone",
           "paragraphs": [
-            "iOS 18 Clean Up can pixelate faces, but only on Apple Intelligence hardware (iPhone 15 Pro and iPhone 16 class, plus the software that supports it). Many phones that can run iOS 17.1 cannot use that filter. Markup rectangles look amateur on a feed.",
-            "If your iPhone is not in the Intelligence set, or Clean Up keeps removing the whole head, a dedicated face-blur tool is the reliable path. Blur, then share; do not rely on a platform’s “only me” setting."
+            "How to Blur Photo has a dedicated Faces tab. It detects the faces in the frame and shows them in a grid, each already blurred, so a group photo with a dozen people takes one tap rather than a dozen brush strokes. You choose the style — Pixelate for the classic censored look, Gaussian or Box for a softer one — and Radius for how strong it is. Processing is on-device, which matters when the whole point is privacy.",
+            "The requirement is iOS 18.6 or later on any iPhone; there is no dependency on Apple Intelligence hardware."
           ]
         },
         {
-          "heading": "Do it before you send",
+          "heading": "Blur some faces, keep others",
           "paragraphs": [
-            "Once an unblurred original leaves your phone, you cannot pull it back. Apply face blur, save a copy, and send the copy. Keep the original in a private album if you still need it."
+            "If you want your own face visible and everyone else blurred, use the Manual tab after or instead of Faces: brush over the faces you want hidden and leave yours alone. The same Radius and style apply to the painted area."
+          ]
+        },
+        {
+          "heading": "How strong is strong enough",
+          "paragraphs": [
+            "A face is still recognisable at low blur, especially to people who know the person. For genuine anonymity, use Pixelate or a Gaussian Radius high enough that eyes, nose, and mouth are indistinguishable at full zoom. The App Store screenshot shows Radius 80 for faces; treat that as a sensible starting point, not a maximum."
           ]
         }
       ],
+      "steps_title": "How to blur faces in How to Blur Photo",
       "steps": [
         {
           "number": "1",
-          "title": "Open the group shot",
-          "description": "Launch How to Blur Photo and select the image with faces you must hide."
+          "title": "Open the photo",
+          "description": "Launch How to Blur Photo and pick the group photo, street shot, or screenshot."
         },
         {
           "number": "2",
-          "title": "Apply face blur",
-          "description": "Use the face-blur flow on detected or selected faces. Check small faces at the edge of the frame."
+          "title": "Tap the Faces tab",
+          "description": "Faces are detected automatically and appear in a grid, each blurred."
         },
         {
           "number": "3",
-          "title": "Save the safe copy",
-          "description": "Export, then share that file. Confirm identities are unreadable at story size, not only on a 6.7-inch screen."
-        }
-      ],
-      "faq": [
-        {
-          "question": "Does face blur need Apple Intelligence?",
-          "answer": "No. How to Blur Photo lists iOS 17.1 as the floor, not an Intelligence chip. That is the conversion reason for this guide."
+          "title": "Choose a style and set Radius",
+          "description": "Pixelate for an obvious privacy blur, Gaussian for a softer one. Raise Radius until features are unrecognisable when zoomed in."
         },
         {
-          "question": "Is face blur the same as background blur?",
-          "answer": "No. Background blur keeps faces of the subject; face blur hides identities. You can use both on one photo."
+          "number": "4",
+          "title": "Save and share",
+          "description": "Tap Save. The blurred version is exported to your library and is the one you upload."
         }
       ],
-      "cta_title": "Blur faces before the next share",
-      "cta_body": "Download How to Blur Photo and run face blur on one group photo that should not identify everyone.",
+      "tips_title": "Tips",
+      "tips": [
+        "Zoom in on each face before saving; a blur that looks strong on a small screen may still be recognisable.",
+        "Blur faces before cropping or compressing for a messaging app, so detection has the full-resolution image to work with.",
+        "For children in school or sports photos, combine Faces with Background blur to remove identifiable signs and logos too."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "How do I blur faces on iPhone without Apple Intelligence?",
+          "answer": "Use How to Blur Photo. Its Faces tab detects and blurs faces on any iPhone running iOS 18.6 or later, with no Apple Intelligence requirement."
+        },
+        {
+          "question": "Can I blur multiple faces at once?",
+          "answer": "Yes. All detected faces are blurred together on the Faces tab; strength and style apply to all of them."
+        },
+        {
+          "question": "Is blurring faces reversible by someone else?",
+          "answer": "A strong Pixelate or high-Radius Gaussian removes the underlying detail from the saved copy. Do not share the original, and use a strength that makes features indistinguishable at full zoom."
+        },
+        {
+          "question": "Are the photos uploaded to a server for face detection?",
+          "answer": "No. The listing states processing is on-device and photos are not uploaded."
+        }
+      ],
+      "related": [
+        "how-to-blur-part-of-a-picture-on-iphone.html",
+        "how-to-pixelate-a-photo-on-iphone.html",
+        "how-to-blur-text-in-a-photo.html",
+        "how-to-blur-license-plate-in-photo.html"
+      ],
+      "cta_title": "Share the photo, not the faces",
+      "cta_body": "Download How to Blur Photo, tap Faces, set Radius, save. Free to install, on-device, works on any iPhone with iOS 18.6 or later.",
       "cta_text": "Download on the App Store"
     },
     {
-      "slug": "how-to-make-background-blurry-on-iphone.html",
-      "keyword": "how to make background blurry on iPhone",
-      "card_title": "Make a background blurry on iPhone",
-      "card_excerpt": "Beginner phrasing of the same job: background recedes, subject stays.",
-      "card_image": "/img/appstore/01-cover.webp",
-      "card_image_alt": "Making a photo background blurry on iPhone",
-      "meta_title": "How to Make Background Blurry on iPhone After Shooting",
-      "meta_description": "How to make background blurry on iPhone for a photo you already took. Subject stays sharp. How to Blur Photo, on-device, no Portrait recapture needed.",
-      "h1": "How to make background blurry on iPhone",
-      "intro": "How to make background blurry on iPhone is the beginner wording for shallow depth of field. You do not need the word bokeh. You want the wall, street, or kitchen behind someone to go quiet.",
-      "definition": "Making a background blurry on iPhone means reducing detail behind a sharp subject. How to Blur Photo does this after you shoot, so you are not limited to Portrait mode at capture time.",
-      "image": "/img/appstore/01-cover.webp",
-      "image_alt": "Blurry background with a sharp subject on iPhone",
+      "slug": "how-to-blur-part-of-a-picture-on-iphone.html",
+      "keyword": "how to blur part of a picture on iPhone",
+      "cluster": "privacy",
+      "card_title": "How to blur part of a picture on iPhone",
+      "card_excerpt": "Photos has no blur brush. Here is how to blur just one area — a name, a house number, a person in the crowd — by painting over it.",
+      "card_image": "/img/appstore/05-crystalize.webp",
+      "card_image_alt": "Manual blur over a selected area of a picture on iPhone",
+      "meta_title": "How to Blur Part of a Picture on iPhone (Brush Any Area)",
+      "meta_description": "How to blur part of a picture on iPhone: Photos only covers areas with shapes. Brush the exact region in a free app, set strength, save. Photos and screenshots.",
+      "h1": "How to blur part of a picture on iPhone",
+      "answer": "To blur part of a picture on iPhone, open it in How to Blur Photo, tap the Manual tab, brush with your finger over the area you want hidden, choose Pixelate or Gaussian, drag Radius until the detail is unreadable, and tap Save. The iPhone Photos app has no blur brush; Markup can only cover an area with a solid shape.",
+      "intro": "The most common “blur” question on Apple’s own forums is about blurring a specific part of a picture: an address in a screenshot, a stranger in the background, a credit card on a table, a child’s school badge. Photos cannot do it — Markup draws shapes, and Clean Up (on Apple Intelligence iPhones) is designed to remove objects, not blur them. Here is what actually works, using the Manual mode in How to Blur Photo.",
+      "image": "/img/appstore/05-crystalize.webp",
+      "image_alt": "Manual tab in How to Blur Photo used to blur a chosen region",
+      "native": {
+        "heading": "The built-in workarounds and their limits",
+        "paragraphs": [
+          "Markup (Photos → Edit → pen icon → + → Add Shape) places a filled rectangle or circle over the area. It hides the content, but it looks like a censor bar and, if you use the highlighter or a low-opacity shape, the detail underneath can still be read. On Apple Intelligence iPhones, Clean Up removes what you brush over, which can leave odd artefacts and does not work on older devices. Neither gives you an actual blur with adjustable strength."
+        ]
+      },
       "sections": [
         {
-          "heading": "If Portrait is greyed out",
+          "heading": "Manual mode: a blur brush for any region",
           "paragraphs": [
-            "Portrait needs a compatible camera and enough light and distance. Night shots, wide groups, and photos sent by friends often cannot be converted inside Photos. The after-you-shoot app is for those files.",
-            "Start with a moderate blur. A background that is slightly soft still looks like a photo; an overcooked smear looks like a filter."
+            "How to Blur Photo’s Manual tab turns your finger into a blur brush. Paint over the region; only the painted area is affected. The style chips decide what kind of blur — Pixelate and Box make text unreadable with a clean, deliberate look; Gaussian gives a soft blur that suits faces and objects; Crystallize and Hexagonal are stylised. Radius controls strength, and the live preview shows exactly what will be saved.",
+            "Because you are painting rather than selecting, irregular shapes are easy: a licence plate at an angle, a name badge, a reflection in a window."
+          ]
+        },
+        {
+          "heading": "Screenshots, documents, and chats",
+          "paragraphs": [
+            "For text, use Pixelate or Box with a Radius high enough that letters are not distinguishable when you zoom in. For a person or object in the background, Gaussian at a moderate Radius looks more natural. In both cases, zoom in before saving — a blur that looks sufficient at thumbnail size is often still readable at full size."
           ]
         }
       ],
+      "steps_title": "How to blur part of a picture in How to Blur Photo",
       "steps": [
         {
           "number": "1",
-          "title": "Install How to Blur Photo",
-          "description": "Free download, iPhone, iOS 17.1+."
+          "title": "Open the picture",
+          "description": "Launch How to Blur Photo and choose the photo or screenshot."
         },
         {
           "number": "2",
-          "title": "Select the person or object",
-          "description": "Open the photo. Detection should attach to the subject you want sharp."
+          "title": "Tap Manual",
+          "description": "The Manual tab replaces automatic detection with a brush you control."
         },
         {
           "number": "3",
-          "title": "Soften the background",
-          "description": "Increase blur until the background is quiet. Save. That is how you make the background blurry without reshooting."
-        }
-      ],
-      "faq": [
-        {
-          "question": "Why is my iPhone background not blurry in Photos?",
-          "answer": "The shot likely has no Portrait depth. Use How to Blur Photo on the existing image instead of trying to enable Portrait after the fact."
+          "title": "Brush over the area",
+          "description": "Paint over the region to hide. Pick Pixelate or Box for text, Gaussian for faces and objects, and drag Radius until the detail is gone."
         },
         {
-          "question": "Will this work on a photo someone sent me?",
-          "answer": "If it is in Recents, yes. There is no depth file attached to most shared JPEGs."
+          "number": "4",
+          "title": "Zoom in, then Save",
+          "description": "Pinch to check the area at full size, then tap Save to export the edited copy."
         }
       ],
-      "cta_title": "Make one background blurry today",
-      "cta_body": "Open a normal Photo-mode shot in How to Blur Photo and soften only the background.",
+      "tips_title": "Tips",
+      "tips": [
+        "Paint a little past the edge of the text or object; a tight brush can leave a readable sliver.",
+        "Combine tabs: blur the background automatically first, then use Manual for the one detail the detector left sharp.",
+        "Share the saved copy, not the original, and delete the original from any shared album."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "Can you blur part of a picture in the Photos app?",
+          "answer": "No. Photos has no blur brush. Markup can cover an area with a shape, and Clean Up (Apple Intelligence iPhones only) removes objects, but neither blurs a chosen region with adjustable strength."
+        },
+        {
+          "question": "How do I blur out something in the background of a picture?",
+          "answer": "Open the picture in How to Blur Photo, tap Manual, brush over the object, choose a style, set Radius, and Save."
+        },
+        {
+          "question": "Is it free to blur part of a picture?",
+          "answer": "How to Blur Photo is free to download with basic blur included; some advanced styles and tools are optional in-app purchases."
+        }
+      ],
+      "related": [
+        "how-to-blur-text-in-a-photo.html",
+        "how-to-blur-faces-in-a-photo.html",
+        "how-to-blur-license-plate-in-photo.html",
+        "how-to-blur-a-picture-on-iphone.html"
+      ],
+      "cta_title": "Blur exactly the part you mean",
+      "cta_body": "Download How to Blur Photo, tap Manual, paint over the area, save. Free to install, processed on your iPhone, iOS 18.6 or later.",
       "cta_text": "Download on the App Store"
     },
     {
-      "slug": "blur-photo-background.html",
-      "keyword": "blur photo background",
-      "card_title": "Blur photo background",
-      "card_excerpt": "App-shaped query: a photo background blur you can download and tap.",
+      "slug": "how-to-blur-text-in-a-photo.html",
+      "keyword": "how to blur text in a photo",
+      "cluster": "privacy",
+      "card_title": "How to blur text in a photo or screenshot",
+      "card_excerpt": "Addresses, names, order numbers, chat bubbles — make text unreadable before you share, on iPhone, without uploading anything.",
+      "card_image": "/img/appstore/05-crystalize.webp",
+      "card_image_alt": "Text in a screenshot pixelated on iPhone",
+      "meta_title": "How to Blur Text in a Photo on iPhone (Screenshots Too)",
+      "meta_description": "How to blur text in a photo or screenshot on iPhone so it cannot be read: brush over it, choose Pixelate, set strength, save. Free app, no uploads, iOS 18.6+.",
+      "h1": "How to blur text in a photo or screenshot on iPhone",
+      "answer": "To blur text in a photo on iPhone, open the image in How to Blur Photo, tap Manual, brush over the text, choose Pixelate (or Box), raise Radius until individual letters cannot be distinguished when zoomed in, and tap Save. Do not rely on a light blur or a Markup highlighter — both can leave text readable.",
+      "intro": "Sharing a screenshot of an order confirmation, a group chat, a ticket, or a document almost always means hiding some text first: a full name, an address, a booking reference, a phone number. Doing it properly matters because a weak blur can be read or even reconstructed. This guide shows the right way on iPhone and the settings that make text unrecoverable.",
+      "image": "/img/appstore/05-crystalize.webp",
+      "image_alt": "Manual tab with Pixelate style hiding text in How to Blur Photo",
+      "native": {
+        "heading": "Why Markup is not enough",
+        "paragraphs": [
+          "Markup’s pen and highlighter are semi-transparent by default, and people regularly share screenshots where the “hidden” text is legible through the stroke. A solid Markup shape at full opacity does hide text, but it looks like a redaction bar and has to be drawn and resized for each line. Clean Up on Apple Intelligence iPhones is built for objects and can produce garbled text rather than removing it."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Pixelate versus blur for text",
+          "paragraphs": [
+            "For text, Pixelate is the better choice. It replaces the area with large blocks, so there is no residual shape to reconstruct, and it visibly communicates “this was hidden on purpose”. Box blur is a close second. Gaussian at a very high Radius also works but needs to be pushed further than people expect; at low Radius the word shapes remain readable. In every case, zoom in before saving.",
+            "Radius controls block size for Pixelate. Choose a value where a single block is larger than a letter — for typical screenshot text that means well above 50."
+          ]
+        },
+        {
+          "heading": "Whole screenshots and multiple lines",
+          "paragraphs": [
+            "If most of a screenshot needs hiding, the Full Photo tab with Pixelate obscures everything, and you can crop afterwards to keep only the relevant part. For a few scattered lines, Manual with a wide brush stroke per line is quicker than shapes in Markup."
+          ]
+        }
+      ],
+      "steps_title": "How to blur text in How to Blur Photo",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Open the screenshot or photo",
+          "description": "Launch How to Blur Photo and choose the image with the text."
+        },
+        {
+          "number": "2",
+          "title": "Tap Manual and pick Pixelate",
+          "description": "Manual gives you a brush; Pixelate makes the painted area unreadable."
+        },
+        {
+          "number": "3",
+          "title": "Brush over each line and raise Radius",
+          "description": "Paint slightly beyond the text on all sides. Increase Radius until blocks are larger than letters."
+        },
+        {
+          "number": "4",
+          "title": "Zoom in and Save",
+          "description": "Pinch to confirm nothing is legible, then tap Save to export the safe copy."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Hide the text before you crop; cropping first can leave part of a line at the edge.",
+        "Look for the same information elsewhere in the screenshot — URL bars, notification banners, and app headers often repeat a name or email.",
+        "Share the exported copy, not the original; the original still contains the text."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "Can blurred text be unblurred?",
+          "answer": "Light gaussian blur on text can sometimes be reconstructed. Pixelate with blocks larger than a letter, or a very high Radius, removes the information from the saved image. Never share the original."
+        },
+        {
+          "question": "How do I blur text in a screenshot on iPhone for free?",
+          "answer": "Open it in How to Blur Photo (free to download), tap Manual, choose Pixelate, brush over the text, and Save."
+        },
+        {
+          "question": "Is my screenshot uploaded anywhere?",
+          "answer": "No. The app processes images on the device, which is the point when the content is private."
+        }
+      ],
+      "related": [
+        "how-to-blur-part-of-a-picture-on-iphone.html",
+        "how-to-pixelate-a-photo-on-iphone.html",
+        "how-to-blur-faces-in-a-photo.html",
+        "how-to-blur-license-plate-in-photo.html"
+      ],
+      "cta_title": "Hide the text, keep the screenshot",
+      "cta_body": "Download How to Blur Photo, tap Manual, pixelate the lines, save. Free, on-device, iPhone with iOS 18.6 or later.",
+      "cta_text": "Download on the App Store"
+    },
+    {
+      "slug": "how-to-blur-license-plate-in-photo.html",
+      "keyword": "how to blur license plate in photo",
+      "cluster": "privacy",
+      "card_title": "How to blur a license plate in a photo",
+      "card_excerpt": "Selling a car or posting a road trip? Blur the plate on iPhone in three taps before the photo goes online.",
       "card_image": "/img/appstore/04-box.webp",
-      "card_image_alt": "Photo background blur on iPhone in How to Blur Photo",
-      "meta_title": "Blur Photo Background on iPhone — How to Blur Photo",
-      "meta_description": "Blur photo background on iPhone with How to Blur Photo. After-you-shoot subject detection, on-device processing, optional styles. Free to download now.",
-      "h1": "Blur photo background on iPhone",
-      "intro": "Blur photo background is how people type when they want an app, not a photography class. The App Store listing repeats photo blur background and blur photo background for that reason. This page is the website match: what the app does, what it costs, what it will not do.",
-      "definition": "Photo background blur is a subject-sharp, background-soft edit on a still image. How to Blur Photo is a free-to-download iPhone app (Graphics & Design) that performs that edit on-device after you shoot.",
+      "card_image_alt": "License plate area blurred on an iPhone photo",
+      "meta_title": "How to Blur a License Plate in a Photo on iPhone (Free)",
+      "meta_description": "How to blur a license plate in a photo on iPhone before posting a car for sale or a road trip: brush the plate, choose Pixelate or Box, save. Free, on-device.",
+      "h1": "How to blur a license plate in a photo on iPhone",
+      "answer": "To blur a license plate in a photo on iPhone, open the image in How to Blur Photo, tap Manual, brush over the plate, choose Pixelate or Box, raise Radius until the characters cannot be read, and tap Save. It takes under a minute per photo and the image never leaves your iPhone.",
+      "intro": "Car listings, road-trip albums, dashcam stills, and parking disputes all end up online with plates visible. A plate ties a photo to a registered address and is routinely scraped from marketplaces. Blurring it before upload is quick on iPhone once you have a tool with a brush — the Photos app itself does not have one.",
       "image": "/img/appstore/04-box.webp",
-      "image_alt": "Photo background blur controls on iPhone",
+      "image_alt": "Manual blur over a number plate in How to Blur Photo",
+      "native": {
+        "heading": "Built-in options",
+        "paragraphs": [
+          "Markup can place a solid rectangle over the plate (Photos → Edit → pen → + → Add Shape → fill). It works, but it looks like a black bar, needs rotating to match an angled plate, and is easy to leave semi-transparent by mistake. Clean Up on Apple Intelligence iPhones may try to remove the plate and generate a blank bumper, with mixed results. A blur brush is simpler and looks like a normal edited photo."
+        ]
+      },
       "sections": [
         {
-          "heading": "What you get vs what you pay",
+          "heading": "Pixelate or Box for plates",
           "paragraphs": [
-            "US listing (September 2026): free download, basic background blur included, advanced styles and tools via in-app purchases at $4.99 and $29.99, plus a subscription SKU with a trial for “Make Blur Background Photo Effect.” Check the live store for your country.",
-            "It will not remove a background to transparent PNG. It will not blur video. It is iPhone-first; the listing says only for iPhone."
+            "Plates are high-contrast text, and high-contrast text is the easiest thing to reconstruct from a weak blur. Pixelate at a Radius where each block is larger than a character is the safe choice and is what news outlets use. Box blur at a high Radius is a softer-looking alternative. Gaussian works only if pushed very high; at moderate settings the letter shapes survive.",
+            "For a car listing, blur the plate on every photo in the set, including reflections in bumpers, windows, and wet ground behind the car."
+          ]
+        },
+        {
+          "heading": "Angled plates and multiple cars",
+          "paragraphs": [
+            "Because Manual mode is a brush rather than a rectangle, an angled or partly obscured plate is painted in one stroke. In a car-park photo with several vehicles, paint each plate; Radius applies to all of them at once."
           ]
         }
       ],
+      "steps_title": "How to blur a license plate in How to Blur Photo",
       "steps": [
         {
           "number": "1",
-          "title": "Get the app",
-          "description": "Download How to Blur Photo. Look for the icon used on this page."
+          "title": "Open the car photo",
+          "description": "Launch How to Blur Photo and choose the image."
         },
         {
           "number": "2",
-          "title": "Run background blur",
-          "description": "Open a photo, confirm the subject, blur the photo background, save."
+          "title": "Tap Manual and choose Pixelate or Box",
+          "description": "Manual gives you a brush; Pixelate makes characters unreadable."
         },
         {
           "number": "3",
-          "title": "Add a style if you need it",
-          "description": "Motion, gaussian, and creative looks are there for action and graphic posts. Basic blur may be enough."
-        }
-      ],
-      "faq": [
-        {
-          "question": "What app blurs photo background on iPhone?",
-          "answer": "How to Blur Photo (Make Blur) is built for photo background blur after capture, with on-device processing."
+          "title": "Brush over the plate and raise Radius",
+          "description": "Paint slightly past the plate edges. Increase Radius until no character is legible when zoomed in."
         },
         {
-          "question": "Is it only for new photos?",
-          "answer": "No. The listing repeats that it works on photos you have already taken."
+          "number": "4",
+          "title": "Save",
+          "description": "Tap Save; the exported copy is the one to upload to the listing or album."
         }
       ],
-      "cta_title": "Download the photo background blur app",
-      "cta_body": "How to Blur Photo is the App Store product this site promotes. Install it and blur one photo background from Recents.",
+      "tips_title": "Tips",
+      "tips": [
+        "Check for a second plate: front and rear plates, dealer plates, and the plate in a mirror or window reflection.",
+        "Blur before applying any listing-site filters or compression; some marketplaces re-encode uploads aggressively.",
+        "For a dashcam still, the Faces tab hides pedestrians and the Manual tab hides plates in the same session."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "Should I blur my license plate in photos?",
+          "answer": "For public listings and social posts, yes. A plate links the photo to a registration and location and is easy to scrape; blurring it costs a minute."
+        },
+        {
+          "question": "Can I blur a license plate in the iPhone Photos app?",
+          "answer": "Only by covering it with a Markup shape. Photos has no blur brush; How to Blur Photo’s Manual tab does it with adjustable strength."
+        },
+        {
+          "question": "Which blur style is safest for plates?",
+          "answer": "Pixelate with blocks larger than a character, or Box at a high Radius. Avoid light gaussian blur on plates."
+        }
+      ],
+      "related": [
+        "how-to-blur-part-of-a-picture-on-iphone.html",
+        "how-to-blur-text-in-a-photo.html",
+        "how-to-pixelate-a-photo-on-iphone.html",
+        "how-to-blur-faces-in-a-photo.html"
+      ],
+      "cta_title": "List the car, not the plate",
+      "cta_body": "Download How to Blur Photo, tap Manual, pixelate the plate, save. Free to install, on-device, iOS 18.6 or later.",
       "cta_text": "Download on the App Store"
     },
     {
-      "slug": "how-to-make-a-photo-blurry.html",
-      "keyword": "how to make a photo blurry",
-      "card_title": "How to make a photo blurry",
-      "card_excerpt": "Whole-image softness vs background-only. Pick the result before you tap.",
-      "card_image": "/img/appstore/06-ghost.webp",
-      "card_image_alt": "Creative full-image blur styles in How to Blur Photo",
-      "meta_title": "How to Make a Photo Blurry on iPhone (Whole or Background)",
-      "meta_description": "How to make a photo blurry on iPhone: full-frame softness or background-only. How to Blur Photo for subject-aware edits; limited web tool for whole-image blur.",
-      "h1": "How to make a photo blurry on iPhone",
-      "intro": "How to make a photo blurry can mean two opposite things: hide everything, or hide only the background. If you soften the subject by accident, the photo fails. Decide first.",
-      "definition": "Making a photo blurry means reducing sharpness on purpose. Full-frame blur hides detail across the image. Background blur keeps a sharp subject. How to Blur Photo supports after-capture edits on iPhone; the site’s online editor only applies full-image gaussian, pixel, or motion blur.",
-      "image": "/img/appstore/06-ghost.webp",
-      "image_alt": "Creative blur styles when you want a photo to look blurry",
+      "slug": "how-to-pixelate-a-photo-on-iphone.html",
+      "keyword": "how to pixelate a photo on iPhone",
+      "cluster": "privacy",
+      "card_title": "How to pixelate a photo on iPhone",
+      "card_excerpt": "Pixel privacy in one tap — pixelate faces, text, or the whole image with an adjustable block size.",
+      "card_image": "/img/appstore/05-crystalize.webp",
+      "card_image_alt": "Pixelate style applied to a photo background on iPhone",
+      "meta_title": "How to Pixelate a Photo on iPhone: Faces, Text, Whole Image",
+      "meta_description": "How to pixelate a photo on iPhone: pixelate faces automatically, brush over text, or pixelate the whole image. Adjustable block size, free app, on-device.",
+      "h1": "How to pixelate a photo on iPhone — faces, text, or the whole image",
+      "answer": "To pixelate a photo on iPhone, open it in How to Blur Photo, choose a tab — Faces to pixelate detected faces automatically, Manual to brush over text or an object, Background or Full Photo for larger areas — tap the Pixelate style, drag Radius to set the block size, and tap Save. The Photos app has no pixelate tool for regular photos.",
+      "intro": "Pixelation replaces an area with large square blocks. It is the standard way to hide identity or text because it is obvious, clean, and, done properly, irreversible. It is also a look in its own right — retro, 8-bit, glitchy. On iPhone the Photos app cannot pixelate a normal photo; How to Blur Photo makes it a style you can apply to faces, a brushed region, the background, or the whole frame.",
+      "image": "/img/appstore/05-crystalize.webp",
+      "image_alt": "Pixelate and Crystallize style chips in How to Blur Photo",
+      "native": {
+        "heading": "Pixelate in Photos?",
+        "paragraphs": [
+          "Only via Clean Up on iPhones with Apple Intelligence (iPhone 15 Pro, 16-series and newer, iOS 18.1+), which pixelates or blurs a brushed face with a fixed strength. On other iPhones, and for text or whole-image pixelation, Photos has nothing. Markup shapes cover rather than pixelate."
+        ]
+      },
       "sections": [
         {
-          "heading": "Whole image vs background",
+          "heading": "Block size and Radius",
           "paragraphs": [
-            "Whole image: privacy for a document peeking in frame, a dreamy full-frame look, or hiding a mess. Use a global gaussian or motion style—or the free <a href=\"/photo-blur-editor-online.html\">online photo blur editor</a> if you only need a full-image blur in the browser.",
-            "Background only: that is the app’s main job. Do not use the online editor for selective background blur; it cannot isolate a subject. Install How to Blur Photo for that."
+            "In How to Blur Photo, Radius controls the size of the pixel blocks. Small values give a fine mosaic that hides detail while keeping the general shape; large values give big, obvious squares. For privacy on faces and text, use a block size larger than an eye or a letter. For a retro look on the whole photo, a medium value keeps the scene recognisable.",
+            "Pixelate is one of the style chips next to Gaussian, Motion, Ghosting, Box, Hexagonal, and Crystallize. Hexagonal is the same idea with hex cells; Crystallize uses irregular shards."
+          ]
+        },
+        {
+          "heading": "Four places to pixelate",
+          "paragraphs": [
+            "Faces tab: every detected face is pixelated at once — the App Store listing calls it “pixel privacy in one tap”. Manual tab: brush over a plate, a badge, a screen, or text. Background tab: keep the subject sharp and pixelate everything behind them for a stylised portrait. Full Photo: pixelate the entire image for an abstract or 8-bit version."
           ]
         }
       ],
+      "steps_title": "How to pixelate a photo in How to Blur Photo",
       "steps": [
         {
           "number": "1",
-          "title": "Pick the result",
-          "description": "All-over blur, or subject sharp / background blurry."
+          "title": "Open the photo",
+          "description": "Launch How to Blur Photo and choose the image."
         },
         {
           "number": "2",
-          "title": "Use the matching tool",
-          "description": "Full-image: online editor or a global style in the app. Background: How to Blur Photo with subject detection."
+          "title": "Choose where to pixelate",
+          "description": "Faces for people, Manual to brush an area, Background or Full Photo for larger regions."
         },
         {
           "number": "3",
-          "title": "Save a copy",
-          "description": "Keep the sharp original. Blur is easy to overdo and hard to undo after you share."
-        }
-      ],
-      "faq": [
-        {
-          "question": "Can I make a photo blurry in the browser?",
-          "answer": "Yes, for the whole image, on the photo blur editor page. It is not selective background blur."
+          "title": "Tap Pixelate and drag Radius",
+          "description": "Pixelate is in the style row. Increase Radius until blocks are large enough to hide detail."
         },
         {
-          "question": "I wanted the person sharp. Why is the whole photo blurry?",
-          "answer": "You applied a full-frame style. Use subject detection in How to Blur Photo so only the background goes soft."
+          "number": "4",
+          "title": "Save",
+          "description": "Zoom in to check, then tap Save to export the pixelated photo."
         }
       ],
-      "cta_title": "Make the photo blurry the way you meant",
-      "cta_body": "For background-only blur, download How to Blur Photo. For a quick full-image blur, use the online editor, then come back to the app when you need the subject sharp.",
+      "tips_title": "Tips",
+      "tips": [
+        "For privacy, err on the side of larger blocks; small pixelation on faces is surprisingly recognisable.",
+        "For an 8-bit look, use Full Photo with a medium Radius on a high-contrast image.",
+        "Hexagonal and Crystallize give a similar privacy result with a more decorative pattern."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "How do I pixelate a face on iPhone?",
+          "answer": "Open the photo in How to Blur Photo, tap Faces, tap Pixelate, raise Radius, and Save. All detected faces are pixelated together."
+        },
+        {
+          "question": "Can pixelated photos be reversed?",
+          "answer": "Not when the blocks are larger than the features they cover; the detail is discarded in the saved copy. Keep the original private."
+        },
+        {
+          "question": "Is there a free pixelate app for iPhone?",
+          "answer": "How to Blur Photo is free to download and includes Pixelate as a style; advanced options are optional in-app purchases."
+        }
+      ],
+      "related": [
+        "how-to-blur-faces-in-a-photo.html",
+        "how-to-blur-text-in-a-photo.html",
+        "how-to-blur-part-of-a-picture-on-iphone.html",
+        "how-to-blur-license-plate-in-photo.html"
+      ],
+      "cta_title": "Pixelate in one tap",
+      "cta_body": "Download How to Blur Photo, choose Faces or Manual, tap Pixelate. Free to install, on-device, iPhone with iOS 18.6 or later.",
+      "cta_text": "Download on the App Store"
+    },
+    {
+      "slug": "best-app-to-blur-background-on-iphone.html",
+      "keyword": "best app to blur background on iPhone",
+      "cluster": "background",
+      "card_title": "Best app to blur background on iPhone?",
+      "card_excerpt": "Portrait mode, Markup, Clean Up, web tools, or a dedicated app — an honest comparison of what each can do with a photo you already took.",
+      "card_image": "/img/appstore/01-cover.webp",
+      "card_image_alt": "How to Blur Photo app icon and cover screenshot",
+      "meta_title": "Best App to Blur Background on iPhone After You Shoot (2026)",
+      "meta_description": "Looking for the best app to blur background on iPhone? Compare Portrait mode, Markup, Clean Up, web tools and a dedicated after-the-shot app. Free, on-device.",
+      "h1": "Best app to blur background on iPhone — what to use when the photo is already taken",
+      "answer": "The best app to blur the background on iPhone depends on when you need it: Portrait mode is best before the shot; for photos you already have, a dedicated subject-aware editor such as How to Blur Photo is the practical choice — automatic subject detection, adjustable strength, face and manual modes, free to download, and processed on-device. Markup, Clean Up, and browser tools each solve a different, narrower problem.",
+      "intro": "“Best app to blur background on iPhone” usually returns a list of ten general photo editors. Most people asking do not want ten editors; they want to know which route gets a sharp subject and a soft background on a photo that is already in their library, without a learning curve or an upload. This page compares the real options — including the ones built into iOS — against that job.",
+      "image": "/img/appstore/01-cover.webp",
+      "image_alt": "How to Blur Photo — sharp subject, blurred background",
+      "native": {
+        "heading": "Built-in options first",
+        "paragraphs": [
+          "Portrait mode (Camera): best quality when it works, but only at capture time, only within a couple of metres, and useless for existing photos. Photos f-number slider: adjusts blur on Portrait captures only. Markup: covers areas with shapes; no blur. Clean Up: on Apple Intelligence iPhones, removes objects and can pixelate a brushed face; it does not blur a background. If your photo is already taken in normal mode, none of these blur its background."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "What to look for in a background blur app",
+          "paragraphs": [
+            "Automatic subject detection, so you are not tracing outlines with a finger. Adjustable strength, because a headshot and a product photo need different amounts. A manual brush for the cases detection misses. Privacy options (face blur) in the same tool, since the same photos often need both. On-device processing, so personal photos are not uploaded to a server. A price you can see up front.",
+            "Web-based blur tools tick some of these boxes but require uploading the photo and typically export a compressed or watermarked file on the free tier."
+          ]
+        },
+        {
+          "heading": "How to Blur Photo against that list",
+          "paragraphs": [
+            "How to Blur Photo (published under the Make Blur brand) is built around this one job. It detects the subject on the Background tab, has a Radius slider for strength, a Manual tab with a brush, a Faces tab for privacy, and a Full Photo tab. Styles include Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, and Crystallize. Processing is on-device with no internet required. It is free to download on iPhone with iOS 18.6 or later; basic background blur is included and advanced styles and tools are in-app purchases ($4.99 and $29.99 on the US store).",
+            "What it is not: a general photo editor, a background remover (no transparent cutouts), or a video tool. If you need those, a broader app is the better choice; if you need the background of a photo blurred today, this one is quicker."
+          ]
+        }
+      ],
+      "steps_title": "Try it in three steps",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Install from the App Store",
+          "description": "Search for How to Blur Photo or use the download button on this page. Free to install."
+        },
+        {
+          "number": "2",
+          "title": "Open a photo with a busy background",
+          "description": "The Background tab detects the subject. Pick Gaussian and drag Radius."
+        },
+        {
+          "number": "3",
+          "title": "Save and compare",
+          "description": "Tap Save and look at the original and the edit side by side in Photos."
+        }
+      ],
+      "tips_title": "Deciding quickly",
+      "tips": [
+        "Photo not taken yet → use Portrait mode.",
+        "Photo already taken, need a blurred background or a hidden face → How to Blur Photo.",
+        "Need a transparent cutout or video blur → a different category of app."
+      ],
+      "faq_title": "Frequently asked",
+      "faq": [
+        {
+          "question": "What is the best free app to blur background on iPhone?",
+          "answer": "For photos you already took, How to Blur Photo is free to download, detects the subject automatically, and processes on-device. Basic background blur is included; advanced styles are optional purchases."
+        },
+        {
+          "question": "Can the iPhone blur the background of a photo by itself?",
+          "answer": "Only for photos captured in Portrait mode. For normal photos, screenshots, and received images, iOS has no background-blur tool."
+        },
+        {
+          "question": "Do I need a Pro iPhone or Apple Intelligence?",
+          "answer": "No. The app runs on any iPhone with iOS 18.6 or later."
+        }
+      ],
+      "related": [
+        "how-to-blur-background-on-iphone.html",
+        "blur-background-of-photo.html",
+        "blur-photo-background.html",
+        "how-to-blur-faces-in-a-photo.html"
+      ],
+      "cta_title": "Test it on one photo",
+      "cta_body": "Download How to Blur Photo and blur the background on a shot you already have. Free to install, on-device, iOS 18.6 or later.",
       "cta_text": "Download on the App Store"
     }
   ]

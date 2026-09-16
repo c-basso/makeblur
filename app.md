@@ -1,6 +1,6 @@
 # How to Blur Photo (Make Blur) — App Store source of truth
 
-Pulled from the live [App Store listing](https://apps.apple.com/app/id6749166426) and the iTunes Lookup API (`id=6749166426`, US store) on **10 September 2026**. Website brand remains **Make Blur** (`makeblur.com`); the store display name is **How to Blur Photo**.
+Pulled from the live [App Store listing](https://apps.apple.com/app/id6749166426) and the iTunes Lookup API (`id=6749166426`, US store) on **16 September 2026**. Website brand remains **Make Blur** (`makeblur.com`); the store display name is **How to Blur Photo**.
 
 Do not invent ratings, download counts, or review volume. The listing currently has too few ratings to use as social proof.
 
@@ -18,17 +18,17 @@ Do not invent ratings, download counts, or review volume. The listing currently 
 | Seller / artist | Vladimir Ivakhnenko |
 | Website brand | Make Blur |
 | Domain | https://makeblur.com |
-| Category | Graphics & Design (also Photo & Video) |
+| Category | Graphics & Design |
 | Price | Free, with in-app purchases |
 | Age rating | 4+ |
-| Version | 1.16.3 (released 29 Aug 2026) |
+| Version | 1.16.4 (released 14 Sep 2026) — release notes: “This version of How to Blur Photo includes some bugs fixes and UI improvements” |
 | First release | 18 Nov 2025 |
-| Size | 25.7 MB (`25676800` bytes) |
-| Minimum OS | iOS 17.1 |
+| Size | 25.7 MB (`25717760` bytes) |
+| Minimum OS | **iOS 18.6** (the listing raised this from 17.1; every page on the site must say 18.6) |
 | Platforms | iPhone only (no iPad screenshots; listing says “Only for iPhone”) |
-| Languages | English + 30 more (31 locale codes in the lookup) |
+| Languages | English + 30 more — HR, CS, DA, NL, EN, FI, FR, DE, EL, HE, HU, ID, IT, JA, KO, MS, NB, PL, PT, RO, RU, ZH-Hans, ZH-Hant, SK, ES, SV, TH, TR, UK, VI (+ Filipino per store page) |
 | Average rating | **3.0** from **2** ratings — do not display as a conversion stat |
-| Privacy (App Privacy) | Data not linked to you: Purchases, Identifiers, Diagnostics |
+| Privacy (App Privacy) | Data not linked to you: Purchases, Identifiers, Diagnostics. Accessibility features: not yet indicated by developer. Copyright line on store: © 2026 c-basso |
 | Processing | On-device. Photos are not uploaded to external servers when you blur backgrounds. |
 | Terms | https://makeblur.com/terms.html |
 | Privacy policy | https://makeblur.com/privacy.html |
@@ -52,6 +52,36 @@ Saved under `img/appstore/` (WebP for the site; 1024px PNG icon kept as source):
 | `04-box.webp` | Box / background blur control |
 | `05-crystalize.webp` | Crystalize |
 | `06-ghost.webp` | Ghosting |
+
+Source URLs on Apple's CDN (320x480 thumbs in the lookup API; replace the trailing `320x480bb.jpg` with e.g. `1290x2796bb.png` for full size):
+
+| File | mzstatic path |
+| --- | --- |
+| icon | `Purple211/v4/c6/36/fa/c636fa72-9db2-4620-9f2c-05384218bc10/AppIcon-0-0-1x_U007ephone-0-1-85-220.png` |
+| 01 cover | `PurpleSource211/v4/b9/99/d2/b999d2b8-bffa-9c81-f639-e47d005bd8ef/1_cover_12_framed.png` |
+| 02 motion | `PurpleSource211/v4/4f/5f/7c/4f5f7c08-5c65-5319-175a-cde81554feb2/2_motion_12_framed.png` |
+| 03 face | `PurpleSource221/v4/d2/93/e8/d293e8b7-f397-45f7-2b19-5476b188f7e4/3_face_12_framed.png` |
+| 04 box | `PurpleSource211/v4/42/8a/80/428a80f3-efd6-7c67-5e9e-1d09f820b5f1/4_box_12_framed.png` |
+| 05 crystalize | `PurpleSource211/v4/0e/39/af/0e39af1d-d258-19de-6c9d-9a0c9ee5e01b/5_crys_12_framed.png` |
+| 06 ghost | `PurpleSource211/v4/a9/3c/83/a93c83ff-0d2b-3414-678e-4c18a091a0cf/6_ghost_12_framed.png` |
+
+### Screenshot headlines (verbatim from the framed images)
+
+1. **BLUR — BACKGROUND AND FACES** (cover; shows icon + “Loved by users” laurel — do not reuse the stars on the site)
+2. **ADD — MOTION BLUR TO ACTION SHOTS**
+3. **HIDE — FACES BEFORE YOU SHARE**
+4. **FOCUS — ON THE SUBJECT, BLUR THE REST**
+5. **APPLY — PIXEL PRIVACY IN ONE TAP**
+6. **CREATE — SOFT VIBES WITH BOKEH**
+
+### Real in-app UI (visible in the screenshots — use these labels in guides)
+
+- Top bar: **Close** · **Save**
+- Mode tabs: **Background** · **Full Photo** · **Faces** · **Manual**
+- Style chips: **Motion** · **Gaussian** · **Ghosting** · **Box** · **Pixelate** · **Hexagonal** · **Crystallize** (Bokeh is named in the listing copy and screenshot 6)
+- Sliders: **Radius** (0–100; 65 / 79 / 80 shown) and **Angle** (degrees; shown for Motion)
+- Faces mode shows a grid of detected faces, each blurred individually
+- Manual mode = brush over any region yourself (blur part of a photo, text, plates)
 
 ---
 
@@ -177,7 +207,7 @@ Web SEO note: “remove background” / “background remover” volumes are muc
 
 ### Who converts
 
-Someone who already has a photo on an iPhone and wants the **subject sharp / background soft** (or a face hidden) **after** the shot. Portrait mode only works at capture time and only on supported cameras. Apple Photos Clean Up face blur needs Apple Intelligence hardware. This app’s wedge: **any photo, on-device, after you shoot, iPhone, iOS 17.1+**.
+Someone who already has a photo on an iPhone and wants the **subject sharp / background soft** (or a face hidden) **after** the shot. Portrait mode only works at capture time and only on supported cameras. Apple Photos Clean Up face blur needs Apple Intelligence hardware. This app’s wedge: **any photo, on-device, after you shoot, iPhone, iOS 18.6+**.
 
 ### Who does not convert (do not chase)
 
@@ -214,6 +244,14 @@ Each URL answers the searcher’s question first, then shows the exact taps in t
 | 8 | how to make background blurry on iPhone | How-to (colloquial) | `how-to-make-background-blurry-on-iphone.html` | Beginner phrasing, low KD |
 | 9 | blur photo background | Commercial | `blur-photo-background.html` | ASO 17; app-shaped query |
 | 10 | how to make a photo blurry | How-to (full-image) | `how-to-make-a-photo-blurry.html` | Whole-image blur; can mention limited web editor, CTA to app for subject-aware blur |
+| 11 | how to blur part of a picture on iPhone | How-to (region) | `how-to-blur-part-of-a-picture-on-iphone.html` | Photos has no blur brush; Manual mode is the answer |
+| 12 | how to blur text in a photo | Privacy how-to | `how-to-blur-text-in-a-photo.html` | Screenshots with addresses/chats; Manual + Pixelate |
+| 13 | how to blur license plate in photo | Privacy how-to | `how-to-blur-license-plate-in-photo.html` | Car-sale / marketplace photos; low competition |
+| 14 | how to pixelate a photo on iPhone | Effect / privacy | `how-to-pixelate-a-photo-on-iphone.html` | Pixelate style is a listing screenshot |
+| 15 | bokeh effect iPhone | Effect | `bokeh-effect-iphone.html` | Photographers searching the look |
+| 16 | best app to blur background on iPhone | Commercial | `best-app-to-blur-background-on-iphone.html` | Bottom-of-funnel; compare against native iOS options |
+
+Full research, estimates, and the cannibalization map live in `keywords.md` (September 2026).
 
 ### Mapping: FAQ → guide (Learn more)
 
@@ -231,12 +269,12 @@ Every homepage FAQ is a real ranked question with a “Learn more” link into t
 
 ## Positioning for SEO + conversion
 
-**Entity (GEO):** How to Blur Photo is a free iPhone photo editor (Graphics & Design) that blurs photo backgrounds and faces after you shoot. It runs on iOS 17.1+, processes images on-device, and is listed as How to Blur Photo / branded Make Blur.
+**Entity (GEO):** How to Blur Photo is a free iPhone photo editor (Graphics & Design) that blurs photo backgrounds and faces after you shoot. It runs on iOS 18.6+, processes images on-device, and is listed as How to Blur Photo / branded Make Blur.
 
 **Differentiator vs SERP:** iPhone Portrait mode blurs at capture. This app blurs photos you already took. Face privacy does not require Apple Intelligence hardware.
 
 **CTA:** App Store download. Secondary: relevant guide, then the limited online editor.
 
-**Social proof:** Skip star widgets until rating count is meaningful. Use specifics: on-device, 7 styles (motion, gaussian, ghosting, pixelate, hexagonal, crystalize, bokeh), face blur, iOS 17.1+, 30+ languages.
+**Social proof:** Skip star widgets until rating count is meaningful. Use specifics: on-device, 7 styles (motion, gaussian, ghosting, pixelate, hexagonal, crystalize, bokeh), face blur, iOS 18.6+, 30+ languages.
 
-**Last updated:** September 2026
+**Last updated:** 16 September 2026 (v1.16.4, iOS 18.6+)

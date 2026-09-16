@@ -2,17 +2,21 @@
 <html lang="{{meta.html_lang|html_attr}}">
 <head>
     <meta charset="UTF-8">
-    <link rel="preconnect" href="https://www.googletagmanager.com">
-    <link rel="preconnect" href="https://mc.yandex.ru">
-    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
-    <link rel="dns-prefetch" href="https://mc.yandex.ru">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-{{meta.google_tag_script}}
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <title>{{guide.meta_title|html_attr}}</title>
     <meta name="description" content="{{guide.meta_description|html_attr}}">
     <meta name="author" content="{{meta.author|html_attr}}">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="apple-itunes-app" content="app-id={{meta.app_store_id|html_attr}}">
+    <meta name="theme-color" content="#07070f">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://mc.yandex.ru">
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css?v={{meta.version}}">
+
     <meta property="og:type" content="article">
     <meta property="og:url" content="{{guide.page_url|html_attr}}">
     <meta property="og:title" content="{{guide.og_title|html_attr}}">
@@ -28,50 +32,69 @@
     <meta name="twitter:title" content="{{guide.og_title|html_attr}}">
     <meta name="twitter:description" content="{{guide.og_description|html_attr}}">
     <meta name="twitter:image" content="{{meta.twitter_image|html_attr}}">
-    <meta name="theme-color" content="#667eea">
-    <title>{{guide.meta_title|html_attr}}</title>
-    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
     <link rel="canonical" href="{{guide.page_url|html_attr}}">
     <link rel="alternate" hreflang="en" href="{{guide.page_url|html_attr}}" />
     <link rel="alternate" hreflang="x-default" href="{{guide.page_url|html_attr}}" />
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
     <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
     <link rel="manifest" href="/site.webmanifest">
-    <link rel="stylesheet" href="/style.css?v={{meta.version}}">
+{{meta.google_tag_script}}
 </head>
 <body class="guide-page">
-    <header role="banner">
-        <nav class="container">
-            <div class="logo-container">
-                <a class="logo-link" href="{{meta.canonical}}">
-                    <div class="logo">
-                        <img src="/img/logo.webp" alt="{{header.logo_alt}}" width="40" height="40" loading="eager" decoding="async">
-                    </div>
-                    <span class="app-name">{{header.app_name}}</span>
-                </a>
-            </div>
-            <div class="header-actions">
-                <a href="{{header.download_url}}" class="header-download">{{header.download_text}}</a>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header" role="banner">
+        <nav class="container nav" aria-label="Primary">
+            <a class="brand" href="{{meta.canonical|html_attr}}">
+                <img class="brand-icon" src="/img/appstore/icon.webp" alt="" width="36" height="36" loading="eager" decoding="async">
+                <span class="brand-name">{{header.app_name}}</span>
+            </a>
+            <div class="nav-actions">
+                <a href="{{meta.canonical|html_attr}}#guides" class="nav-link">{{guides.nav_text}}</a>
+                <a href="{{header.download_url}}" class="btn btn--primary btn--sm" rel="noopener">{{header.download_text}}</a>
             </div>
         </nav>
     </header>
 
-    <main role="main">
-        <article class="guide-article">
-            <div class="container">
-                <nav class="guide-crumbs" aria-label="Breadcrumb">
-                    <a href="{{meta.canonical}}">{{seo.breadcrumb_home}}</a>
-                    <span aria-hidden="true"> / </span>
-                    <span>{{guide.breadcrumb_current}}</span>
-                </nav>
-                <h1>{{guide.h1}}</h1>
-                <p class="guide-updated">{{statistics.last_updated}}</p>
+    <main id="main" role="main">
+        <article class="guide">
+            <header class="guide-hero">
+                <div class="hero-glow hero-glow--a" aria-hidden="true"></div>
+                <div class="container guide-hero-grid">
+                    <div class="guide-hero-copy">
+                        <nav class="crumbs" aria-label="Breadcrumb">
+                            <a href="{{meta.canonical|html_attr}}">{{seo.breadcrumb_home}}</a>
+                            <span aria-hidden="true">/</span>
+                            <a href="{{meta.canonical|html_attr}}#guides">{{guides.nav_text}}</a>
+                            <span aria-hidden="true">/</span>
+                            <span aria-current="page">{{guide.breadcrumb_current}}</span>
+                        </nav>
+                        <h1>{{guide.h1}}</h1>
+                        <p class="guide-updated">{{statistics.last_updated}}</p>
+                        <div class="answer-box">
+                            <p class="answer-label">{{guide.answer_label}}</p>
+                            <p class="answer-text">{{guide.answer}}</p>
+                            <a href="{{header.download_url}}" class="btn btn--primary" rel="noopener">{{guide.cta_text}}</a>
+                        </div>
+                    </div>
+                    <figure class="guide-hero-shot phone">
+                        <img src="{{guide.image}}" alt="{{guide.image_alt}}" width="720" height="1558" fetchpriority="high" decoding="async">
+                    </figure>
+                </div>
+            </header>
+
+            <div class="container guide-body">
                 <p class="guide-lead">{{guide.intro}}</p>
-                <p class="guide-definition">{{guide.definition}}</p>
-                <figure class="guide-hero-shot">
-                    <img src="{{guide.image}}" alt="{{guide.image_alt}}" width="280" height="606" decoding="async">
-                </figure>
+
+                {{#if guide.native}}
+                <section class="guide-section guide-section--native">
+                    <h2>{{guide.native.heading}}</h2>
+                    {{#each guide.native.paragraphs as |para|}}
+                    <p>{{para}}</p>
+                    {{/each}}
+                </section>
+                {{/if}}
 
                 {{#each guide.sections as |section|}}
                 <section class="guide-section">
@@ -82,25 +105,44 @@
                 </section>
                 {{/each}}
 
-                <section class="guide-section">
+                <section class="guide-section guide-steps" id="steps">
                     <h2>{{guide.steps_title}}</h2>
-                    <div class="steps">
+                    <ol class="steps steps--vertical">
                         {{#each guide.steps as |step|}}
-                        <div class="step">
-                            <div class="step-number">{{step.number}}</div>
+                        <li class="step">
+                            <span class="step-number" aria-hidden="true">{{step.number}}</span>
                             <h3>{{step.title}}</h3>
                             <p>{{step.description}}</p>
-                        </div>
+                        </li>
                         {{/each}}
+                    </ol>
+                    <div class="inline-cta">
+                        <img src="/img/appstore/icon.webp" alt="" width="48" height="48" loading="lazy" decoding="async">
+                        <div>
+                            <p class="inline-cta-title">{{download.title}}</p>
+                            <p class="inline-cta-note">{{download.note}}</p>
+                        </div>
+                        <a href="{{header.download_url}}" class="btn btn--primary btn--sm" rel="noopener">{{header.download_text}}</a>
                     </div>
                 </section>
 
+                {{#if guide.tips}}
+                <section class="guide-section">
+                    <h2>{{guide.tips_title}}</h2>
+                    <ul class="tips">
+                        {{#each guide.tips as |tip|}}
+                        <li>{{tip}}</li>
+                        {{/each}}
+                    </ul>
+                </section>
+                {{/if}}
+
                 {{#if guide.faq}}
-                <section class="guide-section faq">
+                <section class="guide-section" id="faq">
                     <h2>{{guide.faq_title}}</h2>
-                    <div class="faq-list">
+                    <div class="faq-list faq-list--flat">
                         {{#each guide.faq as |item|}}
-                        <div class="faq-item">
+                        <div class="faq-item faq-item--open">
                             <h3 class="faq-question">{{item.question}}</h3>
                             <p class="faq-answer">{{item.answer}}</p>
                         </div>
@@ -112,37 +154,70 @@
                 {{#if guide.related}}
                 <section class="guide-section">
                     <h2>{{guides.related_title}}</h2>
-                    <ul class="guide-related">
+                    <div class="guides-grid guides-grid--related">
                         {{#each guide.related as |rel|}}
-                        <li><a href="{{rel.page_url}}">{{rel.card_title}}</a></li>
+                        <a class="guide-card" href="/{{rel.slug}}">
+                            <img src="{{rel.card_image}}" alt="" width="720" height="1558" loading="lazy" decoding="async">
+                            <span class="guide-card-body">
+                                <span class="guide-card-title">{{rel.card_title}}</span>
+                                <span class="guide-card-excerpt">{{rel.card_excerpt}}</span>
+                                <span class="guide-card-cta">{{guides.learn_more_text}} →</span>
+                            </span>
+                        </a>
                         {{/each}}
-                    </ul>
+                    </div>
                 </section>
                 {{/if}}
             </div>
         </article>
 
-        <section class="hero hero--final">
+        <section class="final-cta" aria-labelledby="cta-title">
             <div class="container">
-                <div class="final-cta">
-                    <h2>{{guide.cta_title}}</h2>
-                    <div class="final-cta-body">
-                        <p>{{guide.cta_body}}</p>
-                    </div>
-                    <a href="{{header.download_url}}" class="cta-button">{{guide.cta_text}}</a>
+                <div class="final-cta-card">
+                    <img src="/img/appstore/icon.webp" alt="" width="72" height="72" loading="lazy" decoding="async" class="final-cta-icon">
+                    <h2 id="cta-title">{{guide.cta_title}}</h2>
+                    <p>{{guide.cta_body}}</p>
+                    <a href="{{header.download_url}}" class="appstore-badge appstore-badge--lg" rel="noopener" aria-label="{{guide.cta_text|html_attr}}">
+                        <img src="/img/download.svg" alt="{{guide.cta_text|html_attr}}" width="200" height="67" loading="lazy" decoding="async">
+                    </a>
+                    <p class="final-cta-note">{{final_cta.paragraph3}}</p>
                 </div>
             </div>
         </section>
     </main>
 
-    <footer role="contentinfo">
-        <div class="container">
+    <footer class="site-footer" role="contentinfo">
+        <div class="container footer-grid">
+            <div class="footer-brand">
+                <a class="brand" href="{{meta.canonical|html_attr}}">
+                    <img class="brand-icon" src="/img/appstore/icon.webp" alt="" width="36" height="36" loading="lazy" decoding="async">
+                    <span class="brand-name">{{header.app_name}}</span>
+                </a>
+                <p class="footer-tagline">{{footer.tagline}}</p>
+                <a href="{{footer.download_url}}" class="footer-download" rel="noopener">{{footer.download_text}}</a>
+            </div>
+            <nav class="footer-col" aria-label="Guides">
+                <h3>{{guides.nav_text}}</h3>
+                <ul>
+                    {{#each guides.items as |g|}}
+                    <li><a href="/{{g.slug}}">{{g.card_title}}</a></li>
+                    {{/each}}
+                </ul>
+            </nav>
+            <div class="footer-col">
+                <h3>{{footer.more_title}}</h3>
+                <ul>
+                    <li><a href="{{meta.canonical|html_attr}}#how-it-works">{{how_it_works.nav_text}}</a></li>
+                    <li><a href="{{meta.canonical|html_attr}}#faq">{{seo.faq_nav_text}}</a></li>
+                    <li><a href="{{editor.page_url|html_attr}}">{{editor.hero_link_text}}</a></li>
+                    <li><a href="/privacy.html">{{footer.privacy_text}}</a></li>
+                    <li><a href="/terms.html">{{footer.terms_text}}</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="container footer-bottom">
             <p>{{footer.copyright}}</p>
-            <p><a href="{{footer.download_url}}">{{footer.download_text}}</a></p>
-            <p>
-                <a href="/privacy.html">{{footer.privacy_text}}</a> ·
-                <a href="/terms.html">{{footer.terms_text}}</a>
-            </p>
+            <p class="footer-fineprint">{{footer.fineprint}}</p>
         </div>
     </footer>
 

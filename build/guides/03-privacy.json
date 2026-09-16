@@ -1,0 +1,525 @@
+[
+  {
+    "slug": "how-to-blur-faces-in-a-photo.html",
+    "keyword": "how to blur faces in a photo",
+    "cluster": "privacy",
+    "card_title": "How to blur faces in a photo",
+    "card_excerpt": "Hide faces before you share a group shot — automatic face detection, no Apple Intelligence hardware required.",
+    "card_image": "/img/appstore/03-face.webp",
+    "card_image_alt": "Faces tab in How to Blur Photo blurring every detected face",
+    "meta_title": "How to Blur Faces in a Photo on iPhone (Auto, Free, Offline)",
+    "meta_description": "How to blur faces in a photo on iPhone: the app detects every face, you set the strength, save. Any iPhone on iOS 18.6+, no Apple Intelligence, no uploads.",
+    "h1": "How to blur faces in a photo on iPhone",
+    "answer": "To blur faces in a photo on iPhone, open it in How to Blur Photo, tap the Faces tab, and the app detects every face and blurs each one; set Radius for how strong the blur is, choose Pixelate or Gaussian, and tap Save. It works on any iPhone running iOS 18.6 or later, without Apple Intelligence, and the photo never leaves the device.",
+    "intro": "Blurring faces is the polite default before posting a group photo, a class picture, a protest, or a street scene: not everyone in the frame agreed to be online. iPhones with Apple Intelligence gained a way to do this in Photos, but it is limited to recent Pro and 16-series models and certain regions. This guide covers the built-in option, its limits, and a way that works on every supported iPhone.",
+    "image": "/img/appstore/03-face.webp",
+    "image_alt": "Grid of detected faces, each blurred, in How to Blur Photo",
+    "native": {
+      "heading": "What the Photos app offers",
+      "paragraphs": [
+        "On iPhone 15 Pro, iPhone 16 and newer models running iOS 18.1 or later with Apple Intelligence enabled, Photos → Edit → Clean Up lets you brush over a face; the tool pixelates or blurs the covered area. It is manual (one face at a time), the strength is not adjustable, and it is unavailable on older iPhones and in some regions and languages. Without Apple Intelligence, Photos can only cover a face with a Markup shape or sticker — hiding, not blurring."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Automatic face blur for every supported iPhone",
+        "paragraphs": [
+          "How to Blur Photo has a dedicated Faces tab. It detects the faces in the frame and shows them in a grid, each already blurred, so a group photo with a dozen people takes one tap rather than a dozen brush strokes. You choose the style — Pixelate for the classic censored look, Gaussian or Box for a softer one — and Radius for how strong it is. Processing is on-device, which matters when the whole point is privacy.",
+          "The requirement is iOS 18.6 or later on any iPhone; there is no dependency on Apple Intelligence hardware."
+        ]
+      },
+      {
+        "heading": "Blur some faces, keep others",
+        "paragraphs": [
+          "If you want your own face visible and everyone else blurred, use the Manual tab after or instead of Faces: brush over the faces you want hidden and leave yours alone. The same Radius and style apply to the painted area."
+        ]
+      },
+      {
+        "heading": "How strong is strong enough",
+        "paragraphs": [
+          "A face is still recognisable at low blur, especially to people who know the person. For genuine anonymity, use Pixelate or a Gaussian Radius high enough that eyes, nose, and mouth are indistinguishable at full zoom. The App Store screenshot shows Radius 80 for faces; treat that as a sensible starting point, not a maximum."
+        ]
+      }
+    ],
+    "steps_title": "How to blur faces in How to Blur Photo",
+    "steps": [
+      {
+        "title": "Open the photo",
+        "description": "Launch How to Blur Photo and pick the group photo, street shot, or screenshot."
+      },
+      {
+        "title": "Tap the Faces tab",
+        "description": "Faces are detected automatically and appear in a grid, each blurred."
+      },
+      {
+        "title": "Choose a style and set Radius",
+        "description": "Pixelate for an obvious privacy blur, Gaussian for a softer one. Raise Radius until features are unrecognisable when zoomed in."
+      },
+      {
+        "title": "Save and share",
+        "description": "Tap Save. The blurred version is exported to your library and is the one you upload."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Zoom in on each face before saving; a blur that looks strong on a small screen may still be recognisable.",
+      "Blur faces before cropping or compressing for a messaging app, so detection has the full-resolution image to work with.",
+      "For children in school or sports photos, combine Faces with Background blur to remove identifiable signs and logos too."
+    ],
+    "faq_title": "Frequently asked",
+    "faq": [
+      {
+        "question": "How do I blur faces on iPhone without Apple Intelligence?",
+        "answer": "Use How to Blur Photo. Its Faces tab detects and blurs faces on any iPhone running iOS 18.6 or later, with no Apple Intelligence requirement."
+      },
+      {
+        "question": "Can I blur multiple faces at once?",
+        "answer": "Yes. All detected faces are blurred together on the Faces tab; strength and style apply to all of them."
+      },
+      {
+        "question": "Is blurring faces reversible by someone else?",
+        "answer": "A strong Pixelate or high-Radius Gaussian removes the underlying detail from the saved copy. Do not share the original, and use a strength that makes features indistinguishable at full zoom."
+      },
+      {
+        "question": "Are the photos uploaded to a server for face detection?",
+        "answer": "No. The listing states processing is on-device and photos are not uploaded."
+      }
+    ],
+    "related": [
+      "how-to-blur-part-of-a-picture-on-iphone.html",
+      "how-to-pixelate-a-photo-on-iphone.html",
+      "how-to-blur-text-in-a-photo.html",
+      "how-to-blur-license-plate-in-photo.html"
+    ],
+    "cta_title": "Share the photo, not the faces",
+    "cta_body": "Download How to Blur Photo, tap Faces, set Radius, save. Free to install, on-device, works on any iPhone with iOS 18.6 or later.",
+    "cta_text": "Download on the App Store"
+  },
+  {
+    "slug": "how-to-blur-part-of-a-picture-on-iphone.html",
+    "keyword": "how to blur part of a picture on iPhone",
+    "cluster": "privacy",
+    "card_title": "How to blur part of a picture on iPhone",
+    "card_excerpt": "Photos has no blur brush. Here is how to blur just one area — a name, a house number, a person in the crowd — by painting over it.",
+    "card_image": "/img/appstore/05-crystalize.webp",
+    "card_image_alt": "Manual blur over a selected area of a picture on iPhone",
+    "meta_title": "How to Blur Part of a Picture on iPhone (Brush Any Area)",
+    "meta_description": "How to blur part of a picture on iPhone: Photos only covers areas with shapes. Brush the exact region in a free app, set strength, save. Photos and screenshots.",
+    "h1": "How to blur part of a picture on iPhone",
+    "answer": "To blur part of a picture on iPhone, open it in How to Blur Photo, tap the Manual tab, brush with your finger over the area you want hidden, choose Pixelate or Gaussian, drag Radius until the detail is unreadable, and tap Save. The iPhone Photos app has no blur brush; Markup can only cover an area with a solid shape.",
+    "intro": "The most common “blur” question on Apple’s own forums is about blurring a specific part of a picture: an address in a screenshot, a stranger in the background, a credit card on a table, a child’s school badge. Photos cannot do it — Markup draws shapes, and Clean Up (on Apple Intelligence iPhones) is designed to remove objects, not blur them. Here is what actually works, using the Manual mode in How to Blur Photo.",
+    "image": "/img/appstore/05-crystalize.webp",
+    "image_alt": "Manual tab in How to Blur Photo used to blur a chosen region",
+    "native": {
+      "heading": "The built-in workarounds and their limits",
+      "paragraphs": [
+        "Markup (Photos → Edit → pen icon → + → Add Shape) places a filled rectangle or circle over the area. It hides the content, but it looks like a censor bar and, if you use the highlighter or a low-opacity shape, the detail underneath can still be read. On Apple Intelligence iPhones, Clean Up removes what you brush over, which can leave odd artefacts and does not work on older devices. Neither gives you an actual blur with adjustable strength."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Manual mode: a blur brush for any region",
+        "paragraphs": [
+          "How to Blur Photo’s Manual tab turns your finger into a blur brush. Paint over the region; only the painted area is affected. The style chips decide what kind of blur — Pixelate and Box make text unreadable with a clean, deliberate look; Gaussian gives a soft blur that suits faces and objects; Crystallize and Hexagonal are stylised. Radius controls strength, and the live preview shows exactly what will be saved.",
+          "Because you are painting rather than selecting, irregular shapes are easy: a licence plate at an angle, a name badge, a reflection in a window."
+        ]
+      },
+      {
+        "heading": "Screenshots, documents, and chats",
+        "paragraphs": [
+          "For text, use Pixelate or Box with a Radius high enough that letters are not distinguishable when you zoom in. For a person or object in the background, Gaussian at a moderate Radius looks more natural. In both cases, zoom in before saving — a blur that looks sufficient at thumbnail size is often still readable at full size."
+        ]
+      }
+    ],
+    "steps_title": "How to blur part of a picture in How to Blur Photo",
+    "steps": [
+      {
+        "title": "Open the picture",
+        "description": "Launch How to Blur Photo and choose the photo or screenshot."
+      },
+      {
+        "title": "Tap Manual",
+        "description": "The Manual tab replaces automatic detection with a brush you control."
+      },
+      {
+        "title": "Brush over the area",
+        "description": "Paint over the region to hide. Pick Pixelate or Box for text, Gaussian for faces and objects, and drag Radius until the detail is gone."
+      },
+      {
+        "title": "Zoom in, then Save",
+        "description": "Pinch to check the area at full size, then tap Save to export the edited copy."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Paint a little past the edge of the text or object; a tight brush can leave a readable sliver.",
+      "Combine tabs: blur the background automatically first, then use Manual for the one detail the detector left sharp.",
+      "Share the saved copy, not the original, and delete the original from any shared album."
+    ],
+    "faq_title": "Frequently asked",
+    "faq": [
+      {
+        "question": "Can you blur part of a picture in the Photos app?",
+        "answer": "No. Photos has no blur brush. Markup can cover an area with a shape, and Clean Up (Apple Intelligence iPhones only) removes objects, but neither blurs a chosen region with adjustable strength."
+      },
+      {
+        "question": "How do I blur out something in the background of a picture?",
+        "answer": "Open the picture in How to Blur Photo, tap Manual, brush over the object, choose a style, set Radius, and Save."
+      },
+      {
+        "question": "Is it free to blur part of a picture?",
+        "answer": "How to Blur Photo is free to download with basic blur included; some advanced styles and tools are optional in-app purchases."
+      }
+    ],
+    "related": [
+      "how-to-blur-text-in-a-photo.html",
+      "how-to-blur-faces-in-a-photo.html",
+      "how-to-blur-license-plate-in-photo.html",
+      "how-to-blur-a-picture-on-iphone.html"
+    ],
+    "cta_title": "Blur exactly the part you mean",
+    "cta_body": "Download How to Blur Photo, tap Manual, paint over the area, save. Free to install, processed on your iPhone, iOS 18.6 or later.",
+    "cta_text": "Download on the App Store"
+  },
+  {
+    "slug": "how-to-blur-text-in-a-photo.html",
+    "keyword": "how to blur text in a photo",
+    "cluster": "privacy",
+    "card_title": "How to blur text in a photo or screenshot",
+    "card_excerpt": "Addresses, names, order numbers, chat bubbles — make text unreadable before you share, on iPhone, without uploading anything.",
+    "card_image": "/img/appstore/05-crystalize.webp",
+    "card_image_alt": "Text in a screenshot pixelated on iPhone",
+    "meta_title": "How to Blur Text in a Photo on iPhone (Screenshots Too)",
+    "meta_description": "How to blur text in a photo or screenshot on iPhone so it cannot be read: brush over it, choose Pixelate, set strength, save. Free app, no uploads, iOS 18.6+.",
+    "h1": "How to blur text in a photo or screenshot on iPhone",
+    "answer": "To blur text in a photo on iPhone, open the image in How to Blur Photo, tap Manual, brush over the text, choose Pixelate (or Box), raise Radius until individual letters cannot be distinguished when zoomed in, and tap Save. Do not rely on a light blur or a Markup highlighter — both can leave text readable.",
+    "intro": "Sharing a screenshot of an order confirmation, a group chat, a ticket, or a document almost always means hiding some text first: a full name, an address, a booking reference, a phone number. Doing it properly matters because a weak blur can be read or even reconstructed. This guide shows the right way on iPhone and the settings that make text unrecoverable.",
+    "image": "/img/appstore/05-crystalize.webp",
+    "image_alt": "Manual tab with Pixelate style hiding text in How to Blur Photo",
+    "native": {
+      "heading": "Why Markup is not enough",
+      "paragraphs": [
+        "Markup’s pen and highlighter are semi-transparent by default, and people regularly share screenshots where the “hidden” text is legible through the stroke. A solid Markup shape at full opacity does hide text, but it looks like a redaction bar and has to be drawn and resized for each line. Clean Up on Apple Intelligence iPhones is built for objects and can produce garbled text rather than removing it."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Pixelate versus blur for text",
+        "paragraphs": [
+          "For text, Pixelate is the better choice. It replaces the area with large blocks, so there is no residual shape to reconstruct, and it visibly communicates “this was hidden on purpose”. Box blur is a close second. Gaussian at a very high Radius also works but needs to be pushed further than people expect; at low Radius the word shapes remain readable. In every case, zoom in before saving.",
+          "Radius controls block size for Pixelate. Choose a value where a single block is larger than a letter — for typical screenshot text that means well above 50."
+        ]
+      },
+      {
+        "heading": "Whole screenshots and multiple lines",
+        "paragraphs": [
+          "If most of a screenshot needs hiding, the Full Photo tab with Pixelate obscures everything, and you can crop afterwards to keep only the relevant part. For a few scattered lines, Manual with a wide brush stroke per line is quicker than shapes in Markup."
+        ]
+      }
+    ],
+    "steps_title": "How to blur text in How to Blur Photo",
+    "steps": [
+      {
+        "title": "Open the screenshot or photo",
+        "description": "Launch How to Blur Photo and choose the image with the text."
+      },
+      {
+        "title": "Tap Manual and pick Pixelate",
+        "description": "Manual gives you a brush; Pixelate makes the painted area unreadable."
+      },
+      {
+        "title": "Brush over each line and raise Radius",
+        "description": "Paint slightly beyond the text on all sides. Increase Radius until blocks are larger than letters."
+      },
+      {
+        "title": "Zoom in and Save",
+        "description": "Pinch to confirm nothing is legible, then tap Save to export the safe copy."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Hide the text before you crop; cropping first can leave part of a line at the edge.",
+      "Look for the same information elsewhere in the screenshot — URL bars, notification banners, and app headers often repeat a name or email.",
+      "Share the exported copy, not the original; the original still contains the text."
+    ],
+    "faq_title": "Frequently asked",
+    "faq": [
+      {
+        "question": "Can blurred text be unblurred?",
+        "answer": "Light gaussian blur on text can sometimes be reconstructed. Pixelate with blocks larger than a letter, or a very high Radius, removes the information from the saved image. Never share the original."
+      },
+      {
+        "question": "How do I blur text in a screenshot on iPhone for free?",
+        "answer": "Open it in How to Blur Photo (free to download), tap Manual, choose Pixelate, brush over the text, and Save."
+      },
+      {
+        "question": "Is my screenshot uploaded anywhere?",
+        "answer": "No. The app processes images on the device, which is the point when the content is private."
+      }
+    ],
+    "related": [
+      "how-to-blur-part-of-a-picture-on-iphone.html",
+      "how-to-pixelate-a-photo-on-iphone.html",
+      "how-to-blur-faces-in-a-photo.html",
+      "how-to-blur-license-plate-in-photo.html"
+    ],
+    "cta_title": "Hide the text, keep the screenshot",
+    "cta_body": "Download How to Blur Photo, tap Manual, pixelate the lines, save. Free, on-device, iPhone with iOS 18.6 or later.",
+    "cta_text": "Download on the App Store"
+  },
+  {
+    "slug": "how-to-blur-license-plate-in-photo.html",
+    "keyword": "how to blur license plate in photo",
+    "cluster": "privacy",
+    "card_title": "How to blur a license plate in a photo",
+    "card_excerpt": "Selling a car or posting a road trip? Blur the plate on iPhone in three taps before the photo goes online.",
+    "card_image": "/img/appstore/04-box.webp",
+    "card_image_alt": "License plate area blurred on an iPhone photo",
+    "meta_title": "How to Blur a License Plate in a Photo on iPhone (Free)",
+    "meta_description": "How to blur a license plate in a photo on iPhone before posting a car for sale or a road trip: brush the plate, choose Pixelate or Box, save. Free, on-device.",
+    "h1": "How to blur a license plate in a photo on iPhone",
+    "answer": "To blur a license plate in a photo on iPhone, open the image in How to Blur Photo, tap Manual, brush over the plate, choose Pixelate or Box, raise Radius until the characters cannot be read, and tap Save. It takes under a minute per photo and the image never leaves your iPhone.",
+    "intro": "Car listings, road-trip albums, dashcam stills, and parking disputes all end up online with plates visible. A plate ties a photo to a registered address and is routinely scraped from marketplaces. Blurring it before upload is quick on iPhone once you have a tool with a brush — the Photos app itself does not have one.",
+    "image": "/img/appstore/04-box.webp",
+    "image_alt": "Manual blur over a number plate in How to Blur Photo",
+    "native": {
+      "heading": "Built-in options",
+      "paragraphs": [
+        "Markup can place a solid rectangle over the plate (Photos → Edit → pen → + → Add Shape → fill). It works, but it looks like a black bar, needs rotating to match an angled plate, and is easy to leave semi-transparent by mistake. Clean Up on Apple Intelligence iPhones may try to remove the plate and generate a blank bumper, with mixed results. A blur brush is simpler and looks like a normal edited photo."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Pixelate or Box for plates",
+        "paragraphs": [
+          "Plates are high-contrast text, and high-contrast text is the easiest thing to reconstruct from a weak blur. Pixelate at a Radius where each block is larger than a character is the safe choice and is what news outlets use. Box blur at a high Radius is a softer-looking alternative. Gaussian works only if pushed very high; at moderate settings the letter shapes survive.",
+          "For a car listing, blur the plate on every photo in the set, including reflections in bumpers, windows, and wet ground behind the car."
+        ]
+      },
+      {
+        "heading": "Angled plates and multiple cars",
+        "paragraphs": [
+          "Because Manual mode is a brush rather than a rectangle, an angled or partly obscured plate is painted in one stroke. In a car-park photo with several vehicles, paint each plate; Radius applies to all of them at once."
+        ]
+      }
+    ],
+    "steps_title": "How to blur a license plate in How to Blur Photo",
+    "steps": [
+      {
+        "title": "Open the car photo",
+        "description": "Launch How to Blur Photo and choose the image."
+      },
+      {
+        "title": "Tap Manual and choose Pixelate or Box",
+        "description": "Manual gives you a brush; Pixelate makes characters unreadable."
+      },
+      {
+        "title": "Brush over the plate and raise Radius",
+        "description": "Paint slightly past the plate edges. Increase Radius until no character is legible when zoomed in."
+      },
+      {
+        "title": "Save",
+        "description": "Tap Save; the exported copy is the one to upload to the listing or album."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Check for a second plate: front and rear plates, dealer plates, and the plate in a mirror or window reflection.",
+      "Blur before applying any listing-site filters or compression; some marketplaces re-encode uploads aggressively.",
+      "For a dashcam still, the Faces tab hides pedestrians and the Manual tab hides plates in the same session."
+    ],
+    "faq_title": "Frequently asked",
+    "faq": [
+      {
+        "question": "Should I blur my license plate in photos?",
+        "answer": "For public listings and social posts, yes. A plate links the photo to a registration and location and is easy to scrape; blurring it costs a minute."
+      },
+      {
+        "question": "Can I blur a license plate in the iPhone Photos app?",
+        "answer": "Only by covering it with a Markup shape. Photos has no blur brush; How to Blur Photo’s Manual tab does it with adjustable strength."
+      },
+      {
+        "question": "Which blur style is safest for plates?",
+        "answer": "Pixelate with blocks larger than a character, or Box at a high Radius. Avoid light gaussian blur on plates."
+      }
+    ],
+    "related": [
+      "how-to-blur-part-of-a-picture-on-iphone.html",
+      "how-to-blur-text-in-a-photo.html",
+      "how-to-pixelate-a-photo-on-iphone.html",
+      "how-to-blur-faces-in-a-photo.html"
+    ],
+    "cta_title": "List the car, not the plate",
+    "cta_body": "Download How to Blur Photo, tap Manual, pixelate the plate, save. Free to install, on-device, iOS 18.6 or later.",
+    "cta_text": "Download on the App Store"
+  },
+  {
+    "slug": "how-to-pixelate-a-photo-on-iphone.html",
+    "keyword": "how to pixelate a photo on iPhone",
+    "cluster": "privacy",
+    "card_title": "How to pixelate a photo on iPhone",
+    "card_excerpt": "Pixel privacy in one tap — pixelate faces, text, or the whole image with an adjustable block size.",
+    "card_image": "/img/appstore/05-crystalize.webp",
+    "card_image_alt": "Pixelate style applied to a photo background on iPhone",
+    "meta_title": "How to Pixelate a Photo on iPhone: Faces, Text, Whole Image",
+    "meta_description": "How to pixelate a photo on iPhone: pixelate faces automatically, brush over text, or pixelate the whole image. Adjustable block size, free app, on-device.",
+    "h1": "How to pixelate a photo on iPhone — faces, text, or the whole image",
+    "answer": "To pixelate a photo on iPhone, open it in How to Blur Photo, choose a tab — Faces to pixelate detected faces automatically, Manual to brush over text or an object, Background or Full Photo for larger areas — tap the Pixelate style, drag Radius to set the block size, and tap Save. The Photos app has no pixelate tool for regular photos.",
+    "intro": "Pixelation replaces an area with large square blocks. It is the standard way to hide identity or text because it is obvious, clean, and, done properly, irreversible. It is also a look in its own right — retro, 8-bit, glitchy. On iPhone the Photos app cannot pixelate a normal photo; How to Blur Photo makes it a style you can apply to faces, a brushed region, the background, or the whole frame.",
+    "image": "/img/appstore/05-crystalize.webp",
+    "image_alt": "Pixelate and Crystallize style chips in How to Blur Photo",
+    "native": {
+      "heading": "Pixelate in Photos?",
+      "paragraphs": [
+        "Only via Clean Up on iPhones with Apple Intelligence (iPhone 15 Pro, 16-series and newer, iOS 18.1+), which pixelates or blurs a brushed face with a fixed strength. On other iPhones, and for text or whole-image pixelation, Photos has nothing. Markup shapes cover rather than pixelate."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Block size and Radius",
+        "paragraphs": [
+          "In How to Blur Photo, Radius controls the size of the pixel blocks. Small values give a fine mosaic that hides detail while keeping the general shape; large values give big, obvious squares. For privacy on faces and text, use a block size larger than an eye or a letter. For a retro look on the whole photo, a medium value keeps the scene recognisable.",
+          "Pixelate is one of the style chips next to Gaussian, Motion, Ghosting, Box, Hexagonal, and Crystallize. Hexagonal is the same idea with hex cells; Crystallize uses irregular shards."
+        ]
+      },
+      {
+        "heading": "Four places to pixelate",
+        "paragraphs": [
+          "Faces tab: every detected face is pixelated at once — the App Store listing calls it “pixel privacy in one tap”. Manual tab: brush over a plate, a badge, a screen, or text. Background tab: keep the subject sharp and pixelate everything behind them for a stylised portrait. Full Photo: pixelate the entire image for an abstract or 8-bit version."
+        ]
+      }
+    ],
+    "steps_title": "How to pixelate a photo in How to Blur Photo",
+    "steps": [
+      {
+        "title": "Open the photo",
+        "description": "Launch How to Blur Photo and choose the image."
+      },
+      {
+        "title": "Choose where to pixelate",
+        "description": "Faces for people, Manual to brush an area, Background or Full Photo for larger regions."
+      },
+      {
+        "title": "Tap Pixelate and drag Radius",
+        "description": "Pixelate is in the style row. Increase Radius until blocks are large enough to hide detail."
+      },
+      {
+        "title": "Save",
+        "description": "Zoom in to check, then tap Save to export the pixelated photo."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "For privacy, err on the side of larger blocks; small pixelation on faces is surprisingly recognisable.",
+      "For an 8-bit look, use Full Photo with a medium Radius on a high-contrast image.",
+      "Hexagonal and Crystallize give a similar privacy result with a more decorative pattern."
+    ],
+    "faq_title": "Frequently asked",
+    "faq": [
+      {
+        "question": "How do I pixelate a face on iPhone?",
+        "answer": "Open the photo in How to Blur Photo, tap Faces, tap Pixelate, raise Radius, and Save. All detected faces are pixelated together."
+      },
+      {
+        "question": "Can pixelated photos be reversed?",
+        "answer": "Not when the blocks are larger than the features they cover; the detail is discarded in the saved copy. Keep the original private."
+      },
+      {
+        "question": "Is there a free pixelate app for iPhone?",
+        "answer": "How to Blur Photo is free to download and includes Pixelate as a style; advanced options are optional in-app purchases."
+      }
+    ],
+    "related": [
+      "how-to-blur-faces-in-a-photo.html",
+      "how-to-blur-text-in-a-photo.html",
+      "how-to-blur-part-of-a-picture-on-iphone.html",
+      "how-to-blur-license-plate-in-photo.html"
+    ],
+    "cta_title": "Pixelate in one tap",
+    "cta_body": "Download How to Blur Photo, choose Faces or Manual, tap Pixelate. Free to install, on-device, iPhone with iOS 18.6 or later.",
+    "cta_text": "Download on the App Store"
+  },
+  {
+    "slug": "best-app-to-blur-background-on-iphone.html",
+    "keyword": "best app to blur background on iPhone",
+    "cluster": "background",
+    "card_title": "Best app to blur background on iPhone?",
+    "card_excerpt": "Portrait mode, Markup, Clean Up, web tools, or a dedicated app — an honest comparison of what each can do with a photo you already took.",
+    "card_image": "/img/appstore/01-cover.webp",
+    "card_image_alt": "How to Blur Photo app icon and cover screenshot",
+    "meta_title": "Best App to Blur Background on iPhone After You Shoot (2026)",
+    "meta_description": "Looking for the best app to blur background on iPhone? Compare Portrait mode, Markup, Clean Up, web tools and a dedicated after-the-shot app. Free, on-device.",
+    "h1": "Best app to blur background on iPhone — what to use when the photo is already taken",
+    "answer": "The best app to blur the background on iPhone depends on when you need it: Portrait mode is best before the shot; for photos you already have, a dedicated subject-aware editor such as How to Blur Photo is the practical choice — automatic subject detection, adjustable strength, face and manual modes, free to download, and processed on-device. Markup, Clean Up, and browser tools each solve a different, narrower problem.",
+    "intro": "“Best app to blur background on iPhone” usually returns a list of ten general photo editors. Most people asking do not want ten editors; they want to know which route gets a sharp subject and a soft background on a photo that is already in their library, without a learning curve or an upload. This page compares the real options — including the ones built into iOS — against that job.",
+    "image": "/img/appstore/01-cover.webp",
+    "image_alt": "How to Blur Photo — sharp subject, blurred background",
+    "native": {
+      "heading": "Built-in options first",
+      "paragraphs": [
+        "Portrait mode (Camera): best quality when it works, but only at capture time, only within a couple of metres, and useless for existing photos. Photos f-number slider: adjusts blur on Portrait captures only. Markup: covers areas with shapes; no blur. Clean Up: on Apple Intelligence iPhones, removes objects and can pixelate a brushed face; it does not blur a background. If your photo is already taken in normal mode, none of these blur its background."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "What to look for in a background blur app",
+        "paragraphs": [
+          "Automatic subject detection, so you are not tracing outlines with a finger. Adjustable strength, because a headshot and a product photo need different amounts. A manual brush for the cases detection misses. Privacy options (face blur) in the same tool, since the same photos often need both. On-device processing, so personal photos are not uploaded to a server. A price you can see up front.",
+          "Web-based blur tools tick some of these boxes but require uploading the photo and typically export a compressed or watermarked file on the free tier."
+        ]
+      },
+      {
+        "heading": "How to Blur Photo against that list",
+        "paragraphs": [
+          "How to Blur Photo (published under the Make Blur brand) is built around this one job. It detects the subject on the Background tab, has a Radius slider for strength, a Manual tab with a brush, a Faces tab for privacy, and a Full Photo tab. Styles include Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, and Crystallize. Processing is on-device with no internet required. It is free to download on iPhone with iOS 18.6 or later; basic background blur is included and advanced styles and tools are in-app purchases ($4.99 and $29.99 on the US store).",
+          "What it is not: a general photo editor, a background remover (no transparent cutouts), or a video tool. If you need those, a broader app is the better choice; if you need the background of a photo blurred today, this one is quicker."
+        ]
+      }
+    ],
+    "steps_title": "Try it in three steps",
+    "steps": [
+      {
+        "title": "Install from the App Store",
+        "description": "Search for How to Blur Photo or use the download button on this page. Free to install."
+      },
+      {
+        "title": "Open a photo with a busy background",
+        "description": "The Background tab detects the subject. Pick Gaussian and drag Radius."
+      },
+      {
+        "title": "Save and compare",
+        "description": "Tap Save and look at the original and the edit side by side in Photos."
+      }
+    ],
+    "tips_title": "Deciding quickly",
+    "tips": [
+      "Photo not taken yet → use Portrait mode.",
+      "Photo already taken, need a blurred background or a hidden face → How to Blur Photo.",
+      "Need a transparent cutout or video blur → a different category of app."
+    ],
+    "faq_title": "Frequently asked",
+    "faq": [
+      {
+        "question": "What is the best free app to blur background on iPhone?",
+        "answer": "For photos you already took, How to Blur Photo is free to download, detects the subject automatically, and processes on-device. Basic background blur is included; advanced styles are optional purchases."
+      },
+      {
+        "question": "Can the iPhone blur the background of a photo by itself?",
+        "answer": "Only for photos captured in Portrait mode. For normal photos, screenshots, and received images, iOS has no background-blur tool."
+      },
+      {
+        "question": "Do I need a Pro iPhone or Apple Intelligence?",
+        "answer": "No. The app runs on any iPhone with iOS 18.6 or later."
+      }
+    ],
+    "related": [
+      "how-to-blur-background-on-iphone.html",
+      "blur-background-of-photo.html",
+      "blur-photo-background.html",
+      "how-to-blur-faces-in-a-photo.html"
+    ],
+    "cta_title": "Test it on one photo",
+    "cta_body": "Download How to Blur Photo and blur the background on a shot you already have. Free to install, on-device, iOS 18.6 or later.",
+    "cta_text": "Download on the App Store"
+  }
+]

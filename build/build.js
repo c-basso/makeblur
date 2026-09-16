@@ -15,6 +15,7 @@ const {
 } = require('./constants');
 const { readImageDimensions } = require('./lib/imageDimensions');
 const { renderTemplate } = require('./lib/template');
+const { mergeGuides } = require('./merge-guides');
 
 function getRequiredString(obj, keyPath) {
     const keys = keyPath.split('.');
@@ -172,6 +173,23 @@ function getRequiredString(obj, keyPath) {
                     : { src: '/img/appstore/01-cover.webp', alt: data.header?.logo_alt || 'How to Blur Photo' };
             }
 
+            // Optional fields introduced by the 2026 template (locales may not have them yet)
+            data.hero.eyebrow = data.hero.eyebrow || '';
+            data.hero.secondary_cta_text = data.hero.secondary_cta_text || '';
+            if (!Array.isArray(data.hero.chips)) data.hero.chips = [];
+            if (!Array.isArray(data.hero.float_cards)) data.hero.float_cards = [];
+            data.how_it_works = data.how_it_works || {};
+            data.how_it_works.nav_text = data.how_it_works.nav_text || '';
+            data.seo = data.seo || {};
+            data.seo.faq_nav_text = data.seo.faq_nav_text || '';
+            data.seo.faq_intro = data.seo.faq_intro || '';
+            data.modes = data.modes || {};
+            if (!Array.isArray(data.modes.items)) data.modes.items = [];
+            data.modes.styles_line = data.modes.styles_line || '';
+            data.footer.more_title = data.footer.more_title || '';
+            data.footer.fineprint = data.footer.fineprint || '';
+            data.footer.tagline = data.footer.tagline || '';
+
             data.download = data.download || {};
             data.download.cta_url = APP_STORE_URL;
             if (!Array.isArray(data.download.points)) data.download.points = [];
@@ -203,11 +221,9 @@ function getRequiredString(obj, keyPath) {
             }));
 
             if (lang === DEFAULT_LANGUAGE) {
-                const guidesPath = path.join(__dirname, 'guides-en.json');
-                if (fs.existsSync(guidesPath)) {
-                    const guidesFile = JSON.parse(fs.readFileSync(guidesPath, 'utf8'));
-                    data.guides = { ...(data.guides || {}), ...(guidesFile.hub || {}), items: guidesFile.items || [] };
-                }
+                // build/guides/*.json → build/guides-en.json (merged every build)
+                const guidesFile = mergeGuides();
+                data.guides = { ...(data.guides || {}), ...(guidesFile.hub || {}), items: guidesFile.items || [] };
             }
             if (!data.guides) data.guides = {};
             if (!Array.isArray(data.guides.items)) data.guides.items = [];
@@ -219,11 +235,27 @@ function getRequiredString(obj, keyPath) {
                 og_description: item.og_description || item.meta_description,
                 faq_title: item.faq_title || 'Frequently asked questions',
                 steps_title: item.steps_title || 'How to do it in the app',
-                cta_text: item.cta_text || data.header?.download_text || 'Download'
+                tips_title: item.tips_title || 'Tips',
+                cta_text: item.cta_text || data.header?.download_text || 'Download',
+                answer_label: item.answer_label || data.guides.answer_label || 'Short answer'
             }));
             for (const item of data.guides.items) {
                 allUrls.add(item.page_url);
             }
+            // Group guides by cluster for the homepage hub (falls back to one flat group)
+            const clusterDefs = Array.isArray(data.guides.clusters) ? data.guides.clusters : [];
+            data.guides.groups = clusterDefs
+                .map((c) => ({
+                    ...c,
+                    items: data.guides.items.filter((g) => g.cluster === c.id)
+                }))
+                .filter((c) => c.items.length > 0);
+            const clustered = new Set(data.guides.groups.flatMap((c) => c.items.map((g) => g.slug)));
+            const leftovers = data.guides.items.filter((g) => !clustered.has(g.slug));
+            if (leftovers.length) {
+                data.guides.groups.push({ id: 'more', title: data.guides.title || 'Guides', blurb: '', items: leftovers });
+            }
+            data.guides.count = data.guides.items.length;
 
             // Build JSON-LD objects from translation data to avoid hardcoded strings in template
             const stripHtml = (value) => {
@@ -318,15 +350,21 @@ function getRequiredString(obj, keyPath) {
 
             if (data.guides.items.length && fs.existsSync(path.join(__dirname, 'guide-template.html'))) {
                 const guideTemplate = fs.readFileSync(path.join(__dirname, 'guide-template.html'), 'utf8');
+                const guideBySlug = new Map(data.guides.items.map((g) => [g.slug, g]));
                 for (const guide of data.guides.items) {
-                    const related = data.guides.items
-                        .filter((g) => g.slug !== guide.slug)
-                        .slice(0, 3)
+                    const relatedSlugs = Array.isArray(guide.related) && guide.related.length
+                        ? guide.related
+                        : data.guides.items.filter((g) => g.slug !== guide.slug).slice(0, 3).map((g) => g.slug);
+                    const related = relatedSlugs
+                        .map((slug) => guideBySlug.get(slug))
+                        .filter(Boolean)
                         .map((g) => ({
                             slug: g.slug,
                             page_url: g.page_url,
                             card_title: g.card_title,
-                            card_excerpt: g.card_excerpt
+                            card_excerpt: g.card_excerpt,
+                            card_image: g.card_image,
+                            card_image_alt: g.card_image_alt
                         }));
                     const guideData = {
                         ...data,
@@ -342,8 +380,12 @@ function getRequiredString(obj, keyPath) {
                         "@type": "HowTo",
                         "name": stripHtml(guide.h1),
                         "description": stripHtml(guide.meta_description),
-                        "step": (guide.steps || []).map((s) => ({
+                        "image": `${SITE_URL}${String(guide.image || '').replace(/^\//, '')}`,
+                        "totalTime": "PT2M",
+                        "tool": [{ "@type": "HowToTool", "name": "How to Blur Photo (iPhone app)" }],
+                        "step": (guide.steps || []).map((s, i) => ({
                             "@type": "HowToStep",
+                            "position": i + 1,
                             "name": stripHtml(s?.title),
                             "text": stripHtml(s?.description)
                         }))
@@ -386,6 +428,8 @@ function getRequiredString(obj, keyPath) {
                         "headline": stripHtml(guide.h1),
                         "description": stripHtml(guide.meta_description),
                         "url": guide.page_url,
+                        "mainEntityOfPage": guide.page_url,
+                        "image": `${SITE_URL}${String(guide.image || '').replace(/^\//, '')}`,
                         "inLanguage": data.meta.html_lang || 'en',
                         "dateModified": SITE_LAST_UPDATED_AT,
                         "author": {

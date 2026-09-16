@@ -1,0 +1,30 @@
+{
+  "nav_text": "Guides",
+  "title": "Guides: one answer per search",
+  "intro": "Each guide answers one question people actually search — how to blur a background, a face, a plate, text, or the whole photo on iPhone — then shows the exact taps in the app.",
+  "learn_more_text": "Read the guide",
+  "related_title": "Related guides",
+  "answer_label": "Short answer",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "Blur the background",
+      "blurb": "Sharp subject, soft background — on photos you already took."
+    },
+    {
+      "id": "privacy",
+      "title": "Hide faces, text, and plates",
+      "blurb": "Privacy blur before you share."
+    },
+    {
+      "id": "effects",
+      "title": "Blur styles",
+      "blurb": "Motion, gaussian, and bokeh looks."
+    },
+    {
+      "id": "photo",
+      "title": "Blur any photo or picture",
+      "blurb": "Whole image, screenshots, saved pictures."
+    }
+  ]
+}

@@ -2,24 +2,27 @@
 <html lang="{{meta.html_lang|html_attr}}">
 <head>
     <meta charset="UTF-8">
-    
-    <!-- Preconnect to external domains for performance -->
-    <link rel="preconnect" href="https://www.googletagmanager.com">
-    <link rel="preconnect" href="https://mc.yandex.ru">
-    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
-    <link rel="dns-prefetch" href="https://mc.yandex.ru">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    
-{{meta.google_tag_script}}
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <title>{{meta.title|html_attr}}</title>
     <meta name="description" content="{{meta.description|html_attr}}">
     <meta name="keywords" content="{{meta.keywords|html_attr}}">
     <meta name="author" content="{{meta.author|html_attr}}">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="googlebot" content="index, follow">
     <meta name="bingbot" content="index, follow">
-    
+    <meta name="apple-itunes-app" content="app-id={{meta.app_store_id|html_attr}}">
+    <meta name="theme-color" content="#07070f">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://mc.yandex.ru">
+    <link rel="preload" as="image" href="{{hero.image.src|html_attr}}" fetchpriority="high">
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css?v={{meta.version}}">
+
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{meta.og_url|html_attr}}">
@@ -31,8 +34,8 @@
     <meta property="og:logo" content="{{meta.og_logo|html_attr}}">
     <meta property="og:site_name" content="{{meta.og_site_name|html_attr}}">
     <meta property="og:locale" content="{{meta.og_locale|html_attr}}">
-    
-    <!-- Twitter / X (use name= per card docs; many validators ignore property=twitter:*) -->
+
+    <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="{{meta.twitter_url|html_attr}}">
     <meta name="twitter:title" content="{{meta.twitter_title|html_attr}}">
@@ -40,280 +43,321 @@
     <meta name="twitter:image" content="{{meta.twitter_image|html_attr}}">
     <meta name="twitter:image:width" content="{{meta.twitter_image_width|html_attr}}">
     <meta name="twitter:image:height" content="{{meta.twitter_image_height|html_attr}}">
-    
-    <!-- Additional SEO Meta Tags -->
-    <meta name="theme-color" content="#667eea">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    
-    <title>{{meta.title|html_attr}}</title>
-    
-    <!-- Typography -->
-    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    
+
     <link rel="canonical" href="{{meta.canonical|html_attr}}">
     {{#each meta.alternate_languages as |lang|}}
     <link rel="alternate" hreflang="{{lang.hreflang|html_attr}}" href="{{lang.url|html_attr}}" />
     {{/each}}
     <link rel="alternate" hreflang="x-default" href="{{meta.alternate_default|html_attr}}" />
-    
+
     <!-- Favicons -->
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
     <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
     <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
-    
-    <!-- Web App Manifest -->
     <link rel="manifest" href="/site.webmanifest">
-    <link rel="icon" type="image/png" sizes="192x192" href="/img/web-app-manifest-192x192.png">
-    <link rel="icon" type="image/png" sizes="512x512" href="/img/web-app-manifest-512x512.png">
-    
-    <link rel="stylesheet" href="/style.css?v={{meta.version}}">
+
+{{meta.google_tag_script}}
 </head>
 <body>
-    <header role="banner">
-        <nav class="container">
-            <div class="logo-container">
-                <div class="logo">
-                    <img src="/img/logo.webp" alt="{{header.logo_alt}}" width="40" height="40" loading="eager" decoding="async">
-                </div>
-                <span class="app-name">{{header.app_name}}</span>
-            </div>
-            <div class="header-actions">
-                {{#if guides.items}}
-                <a href="#guides" class="header-guides">{{guides.nav_text}}</a>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header" role="banner">
+        <nav class="container nav" aria-label="Primary">
+            <a class="brand" href="{{meta.canonical|html_attr}}">
+                <img class="brand-icon" src="/img/appstore/icon.webp" alt="" width="36" height="36" loading="eager" decoding="async">
+                <span class="brand-name">{{header.app_name}}</span>
+            </a>
+            <div class="nav-actions">
+                {{#if how_it_works.nav_text}}
+                <a href="#how-it-works" class="nav-link nav-link--hide-sm">{{how_it_works.nav_text}}</a>
                 {{/if}}
-                <a href="{{header.download_url}}" class="header-download">{{header.download_text}}</a>
+                {{#if guides.items}}
+                <a href="#guides" class="nav-link">{{guides.nav_text}}</a>
+                {{/if}}
+                {{#if seo.faq_nav_text}}
+                <a href="#faq" class="nav-link nav-link--hide-sm">{{seo.faq_nav_text}}</a>
+                {{/if}}
+                <a href="{{header.download_url}}" class="btn btn--primary btn--sm" rel="noopener">{{header.download_text}}</a>
             </div>
         </nav>
     </header>
-    
-    <main role="main">
-    <section class="hero">
-        <div class="container">
-            <div class="hero-layout">
-                <div class="hero-copy">
-                    <h1>{{hero.title}}</h1>
-                    <p class="subtitle">{{hero.subtitle}}</p>
-                    <div class="hero-intro">
-                        <p class="hero-intro-highlight">
-                            <strong>{{hero.intro.line1}}</strong><br>
-                            <strong>{{hero.intro.line2}}</strong>
-                        </p>
-                        <p class="hero-intro-body">
-                            {{hero.intro.paragraph1}}
-                        </p>
-                        <p class="hero-intro-body">
-                            {{hero.intro.paragraph2}}
-                        </p>
-                    </div>
-                    <div class="hero-cta">
-                        <a href="{{hero.cta_url}}" class="hero-download-link">
-                            <img src="/img/download.svg" alt="{{hero.cta_text}}" width="240" height="80" loading="eager" decoding="async">
-                        </a>
-                        <p style="margin-top: 12px;">
-                            <a href="{{editor.page_url|html_attr}}" style="color: #c8d7ff; text-decoration: underline;">
-                                {{editor.hero_link_text}}
-                            </a>
-                        </p>
-                    </div>
+
+    <main id="main" role="main">
+
+    <!-- ============ HERO ============ -->
+    <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-glow hero-glow--a" aria-hidden="true"></div>
+        <div class="hero-glow hero-glow--b" aria-hidden="true"></div>
+        <div class="container hero-grid">
+            <div class="hero-copy">
+                {{#if hero.eyebrow}}
+                <p class="eyebrow">{{hero.eyebrow}}</p>
+                {{/if}}
+                <h1 id="hero-title">{{hero.title}}</h1>
+                <p class="hero-sub">{{hero.subtitle}}</p>
+                <p class="hero-lead">{{hero.intro.paragraph1}}</p>
+                <div class="hero-actions">
+                    <a href="{{hero.cta_url}}" class="appstore-badge" rel="noopener" aria-label="{{hero.cta_text|html_attr}}">
+                        <img src="/img/download.svg" alt="{{hero.cta_text|html_attr}}" width="180" height="60" loading="eager" decoding="async">
+                    </a>
+                    {{#if hero.secondary_cta_text}}
+                    <a href="#how-it-works" class="btn btn--ghost">{{hero.secondary_cta_text}}</a>
+                    {{/if}}
                 </div>
-                <div class="hero-visual">
-                    <div class="hero-phone">
-                        <img src="{{hero.image.src}}" alt="{{hero.image.alt}}" width="280" height="606" fetchpriority="high" decoding="async">
-                    </div>
+                {{#if hero.chips}}
+                <ul class="trust-chips" aria-label="Key facts">
+                    {{#each hero.chips as |chip|}}
+                    <li>{{chip.text}}</li>
+                    {{/each}}
+                </ul>
+                {{/if}}
+            </div>
+            <div class="hero-visual">
+                <figure class="phone">
+                    <img src="{{hero.image.src}}" alt="{{hero.image.alt}}" width="720" height="1558" fetchpriority="high" decoding="async">
+                </figure>
+                {{#if hero.float_cards}}
+                {{#each hero.float_cards as |card|}}
+                <div class="float-card float-card--{{card.pos}}" aria-hidden="true">
+                    <span class="float-card-label">{{card.label}}</span>
+                    <span class="float-card-value">{{card.value}}</span>
                 </div>
+                {{/each}}
+                {{/if}}
             </div>
         </div>
     </section>
-    
-    <section class="download" id="download">
+
+    <!-- ============ DOWNLOAD ============ -->
+    <section class="download" id="download" aria-labelledby="download-title">
         <div class="container">
             <div class="download-card">
-                <img class="download-icon" src="{{download.icon.src}}" alt="{{download.icon.alt}}" width="88" height="88" decoding="async">
+                <img class="download-icon" src="{{download.icon.src}}" alt="{{download.icon.alt}}" width="96" height="96" loading="lazy" decoding="async">
                 <div class="download-copy">
                     {{#if download.kicker}}
-                    <p class="download-kicker">{{download.kicker}}</p>
+                    <p class="eyebrow">{{download.kicker}}</p>
                     {{/if}}
-                    <h2>{{download.title}}</h2>
+                    <h2 id="download-title">{{download.title}}</h2>
                     {{#if download.subtitle}}
                     <p class="download-subtitle">{{download.subtitle}}</p>
                     {{/if}}
-                    {{#if download.body}}
-                    <p class="download-body">{{download.body}}</p>
-                    {{/if}}
                     {{#if download.points}}
-                    <ul class="download-points">
+                    <ul class="check-list">
                         {{#each download.points as |point|}}
                         <li>{{point.text}}</li>
                         {{/each}}
                     </ul>
                     {{/if}}
-                    <a href="{{download.cta_url}}" class="cta-button">{{download.cta_text}}</a>
-                    {{#if download.note}}
-                    <p class="download-note">{{download.note}}</p>
+                    <div class="download-actions">
+                        <a href="{{download.cta_url}}" class="btn btn--primary" rel="noopener">{{download.cta_text}}</a>
+                        {{#if download.note}}
+                        <p class="download-note">{{download.note}}</p>
+                        {{/if}}
+                    </div>
+                    {{#if download.body}}
+                    <p class="download-body">{{download.body}}</p>
                     {{/if}}
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="screenshots" id="screenshots">
+    <!-- ============ SCREENSHOTS ============ -->
+    <section class="screenshots" id="screenshots" aria-labelledby="screens-title">
         <div class="container">
-            <h2>{{screenshots.title}}</h2>
-            {{#if screenshots.intro}}
-            <p class="section-intro-body section-intro--center">{{screenshots.intro}}</p>
-            {{/if}}
-            <div class="screenshot-strip" role="list">
-                {{#each screenshots.items as |shot|}}
-                <figure class="screenshot-card" role="listitem">
-                    <img src="{{shot.src}}" alt="{{shot.alt}}" width="220" height="476" loading="lazy" decoding="async">
-                    <figcaption>{{shot.caption}}</figcaption>
-                </figure>
-                {{/each}}
+            <div class="section-head">
+                <h2 id="screens-title">{{screenshots.title}}</h2>
+                {{#if screenshots.intro}}
+                <p class="section-intro">{{screenshots.intro}}</p>
+                {{/if}}
             </div>
         </div>
+        <div class="screenshot-strip" role="list">
+            {{#each screenshots.items as |shot|}}
+            <figure class="screenshot-card" role="listitem">
+                <img src="{{shot.src}}" alt="{{shot.alt}}" width="720" height="1558" loading="lazy" decoding="async">
+                <figcaption>{{shot.caption}}</figcaption>
+            </figure>
+            {{/each}}
+        </div>
     </section>
-    
-    <section class="how-it-works">
+
+    <!-- ============ HOW IT WORKS ============ -->
+    <section class="how-it-works" id="how-it-works" aria-labelledby="how-title">
         <div class="container">
-            <h2>{{how_it_works.title}}</h2>
-            <div class="section-intro section-intro--center">
-                <p class="section-intro-heading">
-                    {{how_it_works.intro.line1}}
-                </p>
-                <p class="section-intro-note">
-                    {{how_it_works.intro.paragraph1}}
-                </p>
+            <div class="section-head">
+                <h2 id="how-title">{{how_it_works.title}}</h2>
+                <p class="section-intro">{{how_it_works.intro.paragraph1}}</p>
             </div>
-            <div class="steps">
+            <ol class="steps">
                 {{#each how_it_works.steps as |step|}}
-                <div class="step">
-                    <div class="step-number">{{step.number}}</div>
+                <li class="step">
+                    <span class="step-number" aria-hidden="true">{{step.number}}</span>
                     <h3>{{step.title}}</h3>
                     <p>{{step.description}}</p>
-                </div>
+                </li>
                 {{/each}}
+            </ol>
+
+            {{#if modes.items}}
+            <div class="modes">
+                <h3 class="modes-title">{{modes.title}}</h3>
+                <div class="modes-grid">
+                    {{#each modes.items as |mode|}}
+                    <a class="mode-card" href="{{mode.url}}">
+                        <span class="mode-tab">{{mode.tab}}</span>
+                        <span class="mode-name">{{mode.name}}</span>
+                        <span class="mode-desc">{{mode.description}}</span>
+                        <span class="mode-link">{{mode.link_text}}</span>
+                    </a>
+                    {{/each}}
+                </div>
+                {{#if modes.styles_line}}
+                <p class="modes-styles">{{modes.styles_line}}</p>
+                {{/if}}
             </div>
+            {{/if}}
         </div>
     </section>
 
+    <!-- ============ GUIDES ============ -->
     {{#if guides.items}}
-    <section class="guides" id="guides">
+    <section class="guides" id="guides" aria-labelledby="guides-title">
         <div class="container">
-            <h2>{{guides.title}}</h2>
-            <p class="section-intro-body section-intro--center">{{guides.intro}}</p>
-            <div class="guides-grid">
-                {{#each guides.items as |guide|}}
-                <article class="guide-card">
-                    <a href="/{{guide.slug}}" class="guide-card-link">
-                        <img src="{{guide.card_image}}" alt="{{guide.card_image_alt}}" width="220" height="160" loading="lazy" decoding="async">
-                        <div class="guide-card-body">
-                            <h3>{{guide.card_title}}</h3>
-                            <p>{{guide.card_excerpt}}</p>
-                            <span class="guide-card-cta">{{guide.learn_more_text}}</span>
-                        </div>
-                    </a>
-                </article>
-                {{/each}}
+            <div class="section-head">
+                <h2 id="guides-title">{{guides.title}}</h2>
+                <p class="section-intro">{{guides.intro}}</p>
             </div>
-        </div>
-    </section>
-    {{/if}}
-    
-    <section class="faq">
-        <div class="container">
-            <h2>{{seo.faq_title}}</h2>
-            <div class="faq-list">
-                {{#each seo.faq as |item|}}
-                <div class="faq-item">
-                    <h3 class="faq-question">{{item.question}}</h3>
-                    <p class="faq-answer">{{item.answer}}</p>
-                    {{#if item.learn_more_url}}
-                    <a class="faq-learn-more" href="{{item.learn_more_url}}">{{item.learn_more_text}}</a>
-                    {{/if}}
+            {{#each guides.groups as |group|}}
+            <div class="guide-group">
+                <div class="guide-group-head">
+                    <h3>{{group.title}}</h3>
+                    {{#if group.blurb}}<p>{{group.blurb}}</p>{{/if}}
                 </div>
-                {{/each}}
-            </div>
-        </div>
-    </section>
-    
-    <section class="hero hero--final">
-        <div class="container">
-            <div class="final-cta">
-                <h2>{{final_cta.title}}</h2>
-                <div class="final-cta-body">
-                    <p>
-                        {{final_cta.paragraph1}}
-                    </p>
-                    <p>
-                        {{final_cta.paragraph2}}
-                    </p>
-                    <p class="final-cta-note">
-                        {{final_cta.paragraph3}}
-                    </p>
-                </div>
-                <a href="{{final_cta.cta_url}}" class="cta-button">{{final_cta.cta_text}}</a>
-            </div>
-        </div>
-    </section>
-    </main>
-    
-    <footer role="contentinfo">
-        <div class="container">
-            <div class="language-selector" data-current-lang="{{meta.lang|html_attr}}">
-                <button class="language-selector-button" type="button" aria-label="Select language" aria-expanded="false">
-                    <span class="language-code">{{meta.lang|html_attr}}</span>
-                    <svg class="language-chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2 4L6 8L10 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>
-                </button>
-                <div class="language-dropdown" role="menu">
-                    {{#each meta.alternate_languages as |lang|}}
-                    <a href="{{lang.url}}" class="language-option" data-lang="{{lang.code|html_attr}}" role="menuitem">
-                        <span class="language-code">{{lang.code|html_attr}}</span>
+                <div class="guides-grid">
+                    {{#each group.items as |guide|}}
+                    <a class="guide-card" href="/{{guide.slug}}">
+                        <img src="{{guide.card_image}}" alt="" width="720" height="1558" loading="lazy" decoding="async">
+                        <span class="guide-card-body">
+                            <span class="guide-card-title">{{guide.card_title}}</span>
+                            <span class="guide-card-excerpt">{{guide.card_excerpt}}</span>
+                            <span class="guide-card-cta">{{guide.learn_more_text}} →</span>
+                        </span>
                     </a>
                     {{/each}}
                 </div>
             </div>
-            <p>{{footer.copyright}}</p>
+            {{/each}}
+        </div>
+    </section>
+    {{/if}}
+
+    <!-- ============ FAQ ============ -->
+    <section class="faq" id="faq" aria-labelledby="faq-title">
+        <div class="container faq-layout">
+            <div class="faq-head">
+                <h2 id="faq-title">{{seo.faq_title}}</h2>
+                {{#if seo.faq_intro}}
+                <p class="section-intro">{{seo.faq_intro}}</p>
+                {{/if}}
+            </div>
+            <div class="faq-list">
+                {{#each seo.faq as |item|}}
+                <details class="faq-item">
+                    <summary class="faq-question"><h3>{{item.question}}</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <div class="faq-answer">
+                        <p>{{item.answer}}</p>
+                        {{#if item.learn_more_url}}
+                        <a class="faq-learn-more" href="{{item.learn_more_url}}">{{item.learn_more_text}} →</a>
+                        {{/if}}
+                    </div>
+                </details>
+                {{/each}}
+            </div>
+        </div>
+    </section>
+
+    <!-- ============ FINAL CTA ============ -->
+    <section class="final-cta" aria-labelledby="cta-title">
+        <div class="container">
+            <div class="final-cta-card">
+                <img src="{{download.icon.src}}" alt="" width="72" height="72" loading="lazy" decoding="async" class="final-cta-icon">
+                <h2 id="cta-title">{{final_cta.title}}</h2>
+                <p>{{final_cta.paragraph1}}</p>
+                <p>{{final_cta.paragraph2}}</p>
+                <a href="{{final_cta.cta_url}}" class="appstore-badge appstore-badge--lg" rel="noopener" aria-label="{{final_cta.cta_text|html_attr}}">
+                    <img src="/img/download.svg" alt="{{final_cta.cta_text|html_attr}}" width="200" height="67" loading="lazy" decoding="async">
+                </a>
+                <p class="final-cta-note">{{final_cta.paragraph3}}</p>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- ============ FOOTER ============ -->
+    <footer class="site-footer" role="contentinfo">
+        <div class="container footer-grid">
+            <div class="footer-brand">
+                <a class="brand" href="{{meta.canonical|html_attr}}">
+                    <img class="brand-icon" src="/img/appstore/icon.webp" alt="" width="36" height="36" loading="lazy" decoding="async">
+                    <span class="brand-name">{{header.app_name}}</span>
+                </a>
+                <p class="footer-tagline">{{footer.tagline}}</p>
+                <a href="{{footer.download_url}}" class="footer-download" rel="noopener">{{footer.download_text}}</a>
+            </div>
             {{#if guides.items}}
-            <p><a href="#guides">{{guides.nav_text}}</a></p>
+            <nav class="footer-col" aria-label="Guides">
+                <h3>{{guides.nav_text}}</h3>
+                <ul>
+                    {{#each guides.items as |guide|}}
+                    <li><a href="/{{guide.slug}}">{{guide.card_title}}</a></li>
+                    {{/each}}
+                </ul>
+            </nav>
             {{/if}}
-            <p><a href="{{footer.download_url}}">{{footer.download_text}}</a></p>
-            <p>
-                <a href="/privacy.html">{{footer.privacy_text}}</a> ·
-                <a href="/terms.html">{{footer.terms_text}}</a>
-            </p>
-            <p style="margin-top: 1rem; font-size: 0.9rem; opacity: 0.8;">
-                {{footer.tagline}}
-            </p>
+            <div class="footer-col">
+                {{#if footer.more_title}}<h3>{{footer.more_title}}</h3>{{/if}}
+                <ul>
+                    {{#if how_it_works.nav_text}}<li><a href="#how-it-works">{{how_it_works.nav_text}}</a></li>{{/if}}
+                    {{#if seo.faq_nav_text}}<li><a href="#faq">{{seo.faq_nav_text}}</a></li>{{/if}}
+                    <li><a href="{{editor.page_url|html_attr}}">{{editor.hero_link_text}}</a></li>
+                    <li><a href="/privacy.html">{{footer.privacy_text}}</a></li>
+                    <li><a href="/terms.html">{{footer.terms_text}}</a></li>
+                </ul>
+                <div class="language-selector" data-current-lang="{{meta.lang|html_attr}}">
+                    <button class="language-selector-button" type="button" aria-label="Select language" aria-expanded="false">
+                        <span class="language-code">{{meta.lang|html_attr}}</span>
+                        <svg class="language-chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M2 4L6 8L10 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="language-dropdown" role="menu">
+                        {{#each meta.alternate_languages as |lang|}}
+                        <a href="{{lang.url}}" class="language-option" data-lang="{{lang.code|html_attr}}" role="menuitem" hreflang="{{lang.hreflang|html_attr}}"><span class="language-code">{{lang.code|html_attr}}</span></a>
+                        {{/each}}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container footer-bottom">
+            <p>{{footer.copyright}}</p>
+            {{#if footer.fineprint}}<p class="footer-fineprint">{{footer.fineprint}}</p>{{/if}}
         </div>
     </footer>
 
-
-    <!-- Structured Data (JSON-LD) for SEO -->
+    <!-- Structured Data (JSON-LD) -->
     <script type="application/ld+json">
     {{seo.structured_data.software_application|json}}
     </script>
-    
     <script type="application/ld+json">
     {{seo.structured_data.organization|json}}
     </script>
-    
     <script type="application/ld+json">
     {{seo.structured_data.website|json}}
     </script>
-    
     <script type="application/ld+json">
     {{seo.structured_data.howto|json}}
     </script>
-    
     <script type="application/ld+json">
     {{seo.structured_data.faqpage|json}}
     </script>
-    
-    <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
     {{seo.structured_data.breadcrumb_list|json}}
     </script>
@@ -321,46 +365,29 @@
 {{meta.yandex_metrika_script}}
 
 <script>
-(function() {
-    // Language selector functionality
-    const languageSelector = document.querySelector('.language-selector');
-    if (!languageSelector) return;
-    
-    const button = languageSelector.querySelector('.language-selector-button');
-    const dropdown = languageSelector.querySelector('.language-dropdown');
-    const currentLang = languageSelector.getAttribute('data-current-lang');
-    const options = dropdown.querySelectorAll('.language-option');
-    
-    // Hide current language from dropdown
-    options.forEach(option => {
-        if (option.getAttribute('data-lang') === currentLang) {
-            option.style.display = 'none';
-        }
+(function () {
+    var sel = document.querySelector('.language-selector');
+    if (!sel) return;
+    var btn = sel.querySelector('.language-selector-button');
+    var cur = sel.getAttribute('data-current-lang');
+    sel.querySelectorAll('.language-option').forEach(function (o) {
+        if (o.getAttribute('data-lang') === cur) o.style.display = 'none';
     });
-    
-    // Toggle dropdown
-    button.addEventListener('click', function(e) {
+    btn.addEventListener('click', function (e) {
         e.stopPropagation();
-        const isExpanded = button.getAttribute('aria-expanded') === 'true';
-        button.setAttribute('aria-expanded', !isExpanded);
-        languageSelector.classList.toggle('is-open', !isExpanded);
+        var open = btn.getAttribute('aria-expanded') === 'true';
+        btn.setAttribute('aria-expanded', String(!open));
+        sel.classList.toggle('is-open', !open);
     });
-    
-    // Close dropdown when clicking outside
-    document.addEventListener('click', function(e) {
-        if (!languageSelector.contains(e.target)) {
-            button.setAttribute('aria-expanded', 'false');
-            languageSelector.classList.remove('is-open');
-        }
+    document.addEventListener('click', function (e) {
+        if (!sel.contains(e.target)) { btn.setAttribute('aria-expanded', 'false'); sel.classList.remove('is-open'); }
     });
-    
-    // Close dropdown on escape key
-    document.addEventListener('keydown', function(e) {
-        if (e.key === 'Escape' && languageSelector.classList.contains('is-open')) {
-            button.setAttribute('aria-expanded', 'false');
-            languageSelector.classList.remove('is-open');
-        }
+    document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') { btn.setAttribute('aria-expanded', 'false'); sel.classList.remove('is-open'); }
     });
+    // Open the first FAQ item by default
+    var first = document.querySelector('.faq-item');
+    if (first) first.open = true;
 })();
 </script>
 </body>
