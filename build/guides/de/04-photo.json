@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "foto-unscharf-machen-iphone.html",
+    "keyword": "Foto unscharf machen",
+    "cluster": "photo",
+    "card_title": "Foto unscharf machen am iPhone",
+    "card_excerpt": "Das ganze Bild weichzeichnen – für Hintergrundbilder, Stories oder einen abstrakten Look. Am iPhone und online.",
+    "card_image": "/img/appstore/de/06-ghost.webp",
+    "card_image_alt": "Ganzes Foto mit dem Effekt Ghosting unscharf",
+    "meta_title": "Foto unscharf machen am iPhone: das ganze Bild weichzeichnen",
+    "meta_description": "Ein ganzes Foto am iPhone unscharf machen: für Hintergrundbilder, Stories oder einen abstrakten Look. Stile Gaussian, Motion, Ghosting und eine Online-Option.",
+    "h1": "Ein ganzes Foto unscharf machen",
+    "answer": "Um ein ganzes Foto unscharf zu machen, öffnen Sie es in MakeBlur, wählen den Tab Full Photo (ganzes Foto) und einen Stil – Gaussian für Weichheit, Motion für Dynamik oder Ghosting für einen verträumten Look – und erhöhen Radius. Save tippen. Ohne Installation macht auch der Online-Editor dieser Website das ganze Foto unscharf.",
+    "intro": "Manchmal soll nicht der Hintergrund hinter einer Person verschwimmen, sondern das ganze Bild: Sperrbildschirm-Hintergrund, Hintergrund für Text in einer Story, abstraktes Cover oder ein „Teaser“ vor dem eigentlichen Post. Das ist die einfachste Unschärfe – und die einzige, die kein Motiv erkennen muss.",
+    "image": "/img/appstore/de/06-ghost.webp",
+    "image_alt": "Tab Full Photo und Stil Ghosting, Radius 79",
+    "native": {
+      "heading": "Kann man ein Foto in Fotos unscharf machen?",
+      "paragraphs": [
+        "Nein: Weder Filter noch Anpassungen in Fotos bieten Unschärfe. Der Sperrbildschirm von iOS kann das Hintergrundbild unter Widgets weichzeichnen, aber das ist ein Systemeffekt, kein neues Bild zum Teilen."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Welcher Stil wofür",
+        "paragraphs": [
+          "Gaussian: gleichmäßige Weichheit, der beste Hintergrund für Text. Motion: Tempo-Gefühl, ideal für Sport-Cover. Ghosting: doppelter „Geister“-Effekt, wie im Screenshot „Sanfte Vibes mit Bokeh“ (Radius 79). Pixelate und Crystallize: abstraktes Mosaik."
+        ]
+      },
+      {
+        "heading": "Online-Option",
+        "paragraphs": [
+          "Auf dieser Website gibt es einen kostenlosen Online-Editor: Foto hochladen, Gaussian, Pixel oder Motion wählen und als PNG herunterladen. Er macht nur das ganze Bild unscharf; gezielte Unschärfe von Hintergrund oder Gesichtern übernimmt die App."
+        ]
+      }
+    ],
+    "steps_title": "Das ganze Foto in der App unscharf machen",
+    "steps": [
+      {
+        "title": "Foto öffnen",
+        "description": "Bild in MakeBlur auswählen."
+      },
+      {
+        "title": "Tab Full Photo",
+        "description": "Die Unschärfe gilt fürs ganze Bild."
+      },
+      {
+        "title": "Stil und Radius",
+        "description": "Gaussian, Motion oder Ghosting in gewünschter Stärke."
+      },
+      {
+        "title": "Save",
+        "description": "Die unscharfe Kopie landet in der Mediathek."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Für Text-Hintergründe farbenfrohe Fotos wählen: Nach dem Weichzeichnen bleiben schöne Farbflecken.",
+      "Für den Sperrbildschirm eine Version mit starkem Gaussian sichern – Uhrzeit und Symbole bleiben gut lesbar.",
+      "Post-Teaser: erst die stark unscharfe Version posten, dann das Original."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Wie mache ich ein Foto online unscharf?",
+        "answer": "Mit dem kostenlosen Online-Editor dieser Website: Foto hochladen, Stil und Stärke wählen, PNG herunterladen. Er macht nur das ganze Bild unscharf."
+      },
+      {
+        "question": "Was ist der Unterschied zwischen Full Photo und Background?",
+        "answer": "Full Photo macht das ganze Bild unscharf, Background nur den Hintergrund – das Motiv bleibt scharf."
+      },
+      {
+        "question": "Sinkt die Auflösung?",
+        "answer": "Nein, die Kopie wird in Originalgröße gesichert."
+      }
+    ],
+    "related": [
+      "blur-effekt-foto.html",
+      "gausscher-weichzeichner-iphone.html",
+      "motion-blur-foto.html",
+      "bokeh-effekt-iphone.html"
+    ],
+    "cta_title": "Unscharfes Foto in Sekunden",
+    "cta_body": "„Hintergrund unscharf machen“ laden, Full Photo und einen Stil wählen. Kostenlos, ohne Upload.",
+    "cta_text": "Laden im App Store"
+  },
+  {
+    "slug": "blur-effekt-foto.html",
+    "keyword": "Blur Effekt Foto",
+    "cluster": "photo",
+    "card_title": "Blur-Effekt auf Fotos",
+    "card_excerpt": "Was der Blur-Effekt ist, welche Stile es gibt und welcher auf Hintergrund, Gesichter oder ganzes Foto passt.",
+    "card_image": "/img/appstore/de/02-motion.webp",
+    "card_image_alt": "Blur-Effekt auf einem Foto am iPhone",
+    "meta_title": "Blur-Effekt auf Fotos am iPhone: Stile und Anleitung",
+    "meta_description": "Was ist der Blur-Effekt und wie wenden Sie ihn am iPhone an: auf Hintergrund, Gesichter, einen Bereich oder das ganze Bild, mit Gaussian, Motion oder Pixelate.",
+    "h1": "Blur-Effekt auf Fotos: was er ist und wie er am iPhone geht",
+    "answer": "Der Blur-Effekt macht ein Foto ganz oder teilweise unscharf. Am iPhone wenden Sie ihn mit MakeBlur an: wählen, wo (Background für den Hintergrund, Faces für Gesichter, Manual für einen Bereich, Full Photo fürs ganze Bild), einen Stil wie Gaussian, Motion oder Ghosting, Radius einstellen und Save tippen.",
+    "intro": "„Blur“ ist das englische Wort für Unschärfe, und in Deutschland wird oft genau so gesucht: „blur effect“, „blur app“, „face blur“ – die Suche nach „blur background photo effect“ ist im letzten Jahr um 350 % gestiegen. Dahinter steckt meist einer von vier Wünschen: weicher Hintergrund hinter einer Person, Gesichter verbergen, ein Stück mit Text oder Kennzeichen unkenntlich machen oder das ganze Foto weichzeichnen. Der iPhone-Editor kann bei einem normalen Foto keinen davon erfüllen.",
+    "image": "/img/appstore/de/02-motion.webp",
+    "image_alt": "Stil Motion: Blur-Effekt im Hintergrund",
+    "native": {
+      "heading": "Was das iPhone ab Werk bietet",
+      "paragraphs": [
+        "Blur im Hintergrund: nur mit dem Porträtmodus, beim Fotografieren. Unschärfe-Pinsel in Fotos: gibt es nicht. Markieren: Stift und Formen zum Abdecken, nicht zum Weichzeichnen. Bereinigen (Apple Intelligence): entfernt Objekte und kann ein Gesicht verpixeln, nur ab iPhone 15 Pro."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Die Blur-Stile",
+        "paragraphs": [
+          "Gaussian: weiche, natürliche Unschärfe. Motion: Wischeffekt mit einstellbarer Richtung. Ghosting: verträumter „Geister“-Effekt. Box: gleichmäßige Unschärfe. Pixelate, Hexagonal und Crystallize: Mosaike, nützlich für Datenschutz oder als grafischer Effekt."
+        ]
+      },
+      {
+        "heading": "Wo anwenden",
+        "paragraphs": [
+          "Background hält das Motiv scharf und legt den Blur auf den Hintergrund. Faces auf alle Gesichter. Manual auf den Bereich, den Sie mit dem Finger malen. Full Photo aufs ganze Bild. Das funktioniert mit Kamerafotos, Screenshots und Bildern aus WhatsApp oder Telegram, die in der Mediathek liegen."
+        ]
+      }
+    ],
+    "steps_title": "Blur-Effekt in der App anwenden",
+    "steps": [
+      {
+        "title": "Foto oder Screenshot öffnen",
+        "description": "Bild in MakeBlur auswählen."
+      },
+      {
+        "title": "Modus wählen",
+        "description": "Background, Faces, Manual oder Full Photo."
+      },
+      {
+        "title": "Stil und Radius",
+        "description": "Art der Unschärfe und Stärke festlegen."
+      },
+      {
+        "title": "Save",
+        "description": "Die Kopie mit Effekt wird in der Mediathek gesichert."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Für die Optik: Gaussian oder Ghosting; für den Datenschutz: Pixelate.",
+      "Modi kombinieren: erst Background für den Hintergrund, dann Manual für ein störendes Detail.",
+      "Mehrere Stärken sichern und die beste in der Mediathek behalten."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Wie mache ich einen Blur-Effekt ohne App?",
+        "answer": "Bei einem normalen Foto geht es in Fotos nicht. Sie können mit Formen in „Markieren“ abdecken oder das ganze Foto mit dem Online-Editor dieser Website unscharf machen."
+      },
+      {
+        "question": "Kann ich einen Screenshot blurren?",
+        "answer": "Ja, Screenshots öffnen sich in der App wie jedes andere Foto."
+      },
+      {
+        "question": "Ist das kostenlos?",
+        "answer": "Der Download ist kostenlos, die einfache Unschärfe ist enthalten; erweiterte Stile sind optional über In-App-Käufe erhältlich."
+      }
+    ],
+    "related": [
+      "foto-unscharf-machen-iphone.html",
+      "hintergrund-unscharf-machen-iphone.html",
+      "teil-foto-unscharf-machen-iphone.html",
+      "motion-blur-foto.html"
+    ],
+    "cta_title": "Blur-Effekt in einer Minute",
+    "cta_body": "„Hintergrund unscharf machen“ laden und Hintergrund, Gesichter oder das ganze Foto weichzeichnen. Kostenlos, iPhone mit iOS 18.6.",
+    "cta_text": "Laden im App Store"
+  }
+]

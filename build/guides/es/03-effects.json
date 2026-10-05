@@ -1,0 +1,260 @@
+[
+  {
+    "slug": "motion-blur-foto.html",
+    "keyword": "motion blur en fotos",
+    "cluster": "effects",
+    "card_title": "Motion blur en fotos",
+    "card_excerpt": "Efecto de movimiento en una foto ya hecha: sujeto nítido y fondo barrido en la dirección que elijas.",
+    "card_image": "/img/appstore/es/02-motion.webp",
+    "card_image_alt": "Motion blur detrás de una chica, Radius 65",
+    "meta_title": "Motion blur en fotos con iPhone: efecto movimiento fácil",
+    "meta_description": "Cómo hacer motion blur (efecto movimiento) en una foto con iPhone: barrido del fondo con dirección ajustable y el sujeto nítido. Gratis, en tu dispositivo.",
+    "h1": "Motion blur en fotos: cómo hacer el efecto movimiento en iPhone",
+    "answer": "Para hacer motion blur en una foto, ábrela en Desenfocar Fondo de Foto, deja la pestaña Background y elige el estilo Motion. El deslizador Radius marca la longitud del barrido y Angle la dirección. El sujeto queda nítido y el fondo «se mueve». Pulsa Save.",
+    "intro": "El motion blur o desenfoque de movimiento es el barrido que aparece con una velocidad de obturación lenta o al seguir con la cámara a algo que se mueve: la persona o el coche nítidos y el fondo estirado en líneas. Es el término de desenfoque más buscado en España, por encima incluso de «blur background». Con el móvil es difícil de conseguir al disparar, pero se puede añadir después y elegir tú la dirección.",
+    "image": "/img/appstore/es/02-motion.webp",
+    "image_alt": "Estilo Motion: fondo barrido detrás de la chica, cara nítida",
+    "native": {
+      "heading": "Lo que hace el iPhone al disparar",
+      "paragraphs": [
+        "En Fotos, las Live Photos tienen el efecto «Exposición larga»: difumina todo lo que se movía en la escena, como agua, coches o gente. Pero solo funciona con Live Photos y difumina el movimiento real, no el fondo detrás de alguien quieto. Añadir motion blur a una foto normal no es posible con las herramientas integradas."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Cómo ajustar el barrido",
+        "paragraphs": [
+          "Radius controla la longitud: valores bajos dan algo de dinamismo, altos dan sensación de velocidad. Angle fija la dirección: horizontal para un corredor o un coche, diagonal para un encuadre más tenso. En la captura del App Store el efecto aparece con Radius 65.",
+          "En la pestaña Background solo se barre el fondo; en Full Photo, toda la imagen, para un efecto de «foto en marcha»."
+        ]
+      },
+      {
+        "heading": "Dónde queda mejor",
+        "paragraphs": [
+          "Deporte, bici, skate, coches, baile, retratos urbanos de noche. Funciona peor en retratos tranquilos en la naturaleza: ahí queda más natural un Gaussian suave."
+        ]
+      }
+    ],
+    "steps_title": "Cómo añadir motion blur en la app",
+    "steps": [
+      {
+        "title": "Abre la foto",
+        "description": "Mejor una en la que el sujeto ya sugiera movimiento."
+      },
+      {
+        "title": "Background + Motion",
+        "description": "El sujeto se detecta solo y el fondo se barre."
+      },
+      {
+        "title": "Radius y Angle",
+        "description": "Fija la longitud del barrido y la dirección del movimiento."
+      },
+      {
+        "title": "Save",
+        "description": "Guarda la copia en Fotos."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "Orienta el barrido en la dirección en que se mueve el sujeto: así parece natural.",
+      "No te pases con Radius en retratos: un barrido fuerte se come el borde del pelo.",
+      "Para stories prueba Full Photo + Motion: fondo dinámico para poner texto encima."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Cómo hago motion blur en iPhone?",
+        "answer": "Con el estilo Motion de Desenfocar Fondo de Foto: Radius para la longitud y Angle para la dirección."
+      },
+      {
+        "question": "¿Puedo barrer solo el fondo?",
+        "answer": "Sí, en la pestaña Background el sujeto queda nítido y solo se mueve el fondo."
+      },
+      {
+        "question": "¿Funciona con Live Photos?",
+        "answer": "Sí, la app trabaja con el fotograma de la Live Photo como con cualquier foto."
+      }
+    ],
+    "related": [
+      "desenfoque-gaussiano-iphone.html",
+      "efecto-bokeh-iphone.html",
+      "efecto-blur-fotos.html",
+      "como-desenfocar-fondo-foto-iphone.html"
+    ],
+    "cta_title": "Añade movimiento a tu foto",
+    "cta_body": "Descarga Desenfocar Fondo de Foto, elige Motion y ajusta Radius y Angle. Gratis y en tu iPhone.",
+    "cta_text": "Descargar en el App Store"
+  },
+  {
+    "slug": "efecto-bokeh-iphone.html",
+    "keyword": "efecto bokeh en iPhone",
+    "cluster": "effects",
+    "card_title": "Efecto bokeh en iPhone",
+    "card_excerpt": "Fondo suave como con un objetivo luminoso, en fotos hechas sin Modo Retrato.",
+    "card_image": "/img/appstore/es/06-ghost.webp",
+    "card_image_alt": "Aire suave y desenfocado en una foto",
+    "meta_title": "Efecto bokeh en iPhone en una foto ya hecha, gratis",
+    "meta_description": "Cómo conseguir el efecto bokeh en iPhone: qué es, cuándo basta el Modo Retrato y cómo lograr un fondo suave en una foto normal después de hacerla. Gratis.",
+    "h1": "Efecto bokeh en iPhone: cómo conseguir un fondo suave",
+    "answer": "La forma más fácil de lograr el efecto bokeh en iPhone es abrir la foto en Desenfocar Fondo de Foto, dejar la pestaña Background, elegir el estilo suave Gaussian y subir Radius: el fondo se convierte en manchas de color y la persona queda nítida. Para un aire más soñador, prueba Ghosting en la pestaña Full Photo.",
+    "intro": "Bokeh es el aspecto de la zona desenfocada: manchas suaves de luz y color detrás del sujeto. Los fotógrafos lo consiguen con objetivos luminosos y el iPhone lo imita con el Modo Retrato. Si la foto ya está hecha sin retrato, puedes conseguir un fondo suave parecido después.",
+    "image": "/img/appstore/es/06-ghost.webp",
+    "image_alt": "Estilo Ghosting en toda la foto: aire suave y difuminado",
+    "native": {
+      "heading": "Bokeh con el Modo Retrato",
+      "paragraphs": [
+        "En Modo Retrato el iPhone desenfoca el fondo y añade las manchas típicas de las fuentes de luz. En Fotos → Editar puedes cambiar la intensidad con el control de apertura. Los límites son los de siempre: solo al disparar, a cierta distancia del sujeto y con mapa de profundidad."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Bokeh frente a desenfoque simple",
+        "paragraphs": [
+          "El bokeh óptico real depende del objetivo: forma de las manchas, remolinos, halos en las farolas. Un desenfoque por software no lo replica del todo, pero sí consigue lo principal: separar al sujeto de un fondo suave. En redes sociales la diferencia apenas se nota.",
+          "El aspecto más «bokeh» sale en fotos con luces en el fondo: guirnaldas, luces de la ciudad, sol entre las hojas."
+        ]
+      },
+      {
+        "heading": "Qué estilo elegir",
+        "paragraphs": [
+          "Gaussian en Background: fondo clásico de retrato. Ghosting en Full Photo: toda la imagen se vuelve suave y etérea, como en la captura «Vibes suaves con bokeh». Box: un desenfoque algo más gráfico."
+        ]
+      }
+    ],
+    "steps_title": "Cómo hacer un fondo bokeh en la app",
+    "steps": [
+      {
+        "title": "Abre la foto",
+        "description": "Mejor una con luces o un fondo con color."
+      },
+      {
+        "title": "Background + Gaussian",
+        "description": "El sujeto se detecta solo y el fondo se suaviza."
+      },
+      {
+        "title": "Ajusta Radius",
+        "description": "Súbelo hasta que los detalles del fondo sean manchas de color."
+      },
+      {
+        "title": "Save",
+        "description": "Guarda la copia y compárala con la original."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "Las fotos de noche con luces dan el desenfoque más parecido al bokeh.",
+      "Si el fondo es liso, el bokeh apenas se nota: prueba Ghosting en toda la foto.",
+      "No desenfoques demasiado un selfie hecho con el brazo extendido: parece artificial."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Puedo hacer bokeh en una foto antigua?",
+        "answer": "Sí, la app funciona con cualquier foto de la fototeca, sin datos de profundidad."
+      },
+      {
+        "question": "¿Necesito un iPhone con cámara de retrato?",
+        "answer": "No, sirve cualquier iPhone con iOS 18.6 o posterior."
+      },
+      {
+        "question": "¿Es gratis?",
+        "answer": "Se descarga gratis y el desenfoque de fondo básico está incluido; los estilos avanzados son opcionales."
+      }
+    ],
+    "related": [
+      "desenfoque-gaussiano-iphone.html",
+      "desenfocar-fondo-de-foto.html",
+      "motion-blur-foto.html",
+      "como-desenfocar-fondo-foto-iphone.html"
+    ],
+    "cta_title": "Fondo suave sin Modo Retrato",
+    "cta_body": "Descarga Desenfocar Fondo de Foto, elige Gaussian y sube Radius. Gratis, en iPhone con iOS 18.6.",
+    "cta_text": "Descargar en el App Store"
+  },
+  {
+    "slug": "desenfoque-gaussiano-iphone.html",
+    "keyword": "desenfoque gaussiano",
+    "cluster": "effects",
+    "card_title": "Desenfoque gaussiano en iPhone",
+    "card_excerpt": "El desenfoque más natural: qué es y cómo aplicarlo al fondo o a toda la foto.",
+    "card_image": "/img/appstore/es/04-box.webp",
+    "card_image_alt": "Fondo suavizado detrás de una chica",
+    "meta_title": "Desenfoque gaussiano en iPhone: fondo o foto completa",
+    "meta_description": "Desenfoque gaussiano en iPhone: qué es este filtro, en qué se diferencia del bokeh y de Box, y cómo aplicarlo al fondo, a caras o a toda la foto. Gratis.",
+    "h1": "Desenfoque gaussiano en iPhone",
+    "answer": "El desenfoque gaussiano es un difuminado suave y uniforme, parecido a un objetivo fuera de foco. En iPhone puedes aplicarlo con Desenfocar Fondo de Foto: elige qué desenfocar (Background, Faces, Manual o Full Photo), el estilo Gaussian y la intensidad con Radius, y pulsa Save.",
+    "intro": "El «desenfoque gaussiano» suena a Photoshop o Lightroom: es la forma más neutra de suavizar una imagen, sin rayas, cuadros ni halos. El editor estándar del móvil no tiene este filtro, pero puedes aplicarlo, y no solo a toda la imagen, sino solo al fondo.",
+    "image": "/img/appstore/es/04-box.webp",
+    "image_alt": "Fondo desenfocado en iPhone con el sujeto nítido",
+    "native": {
+      "heading": "¿Fotos tiene desenfoque gaussiano?",
+      "paragraphs": [
+        "No. Fotos tiene filtros de color y un ajuste de nitidez, pero no de desenfoque. El Modo Retrato desenfoca el fondo de forma parecida, pero solo al disparar y con mapa de profundidad."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "En qué se diferencia de otros estilos",
+        "paragraphs": [
+          "Gaussian suaviza de forma progresiva y los bordes se disuelven con suavidad: por eso parece «de cámara». Box es más uniforme y algo más duro. Motion estira la imagen en una dirección. Pixelate, Hexagonal y Crystallize ya no son desenfoque, sino mosaico.",
+          "Para un fondo de retrato y fondos de pantalla suaves, elige Gaussian. Para privacidad, Pixelate: con poca intensidad un gaussiano puede dejar reconocibles una cara o un texto."
+        ]
+      },
+      {
+        "heading": "Intensidad",
+        "paragraphs": [
+          "Radius fija el radio del desenfoque. Valores bajos eliminan el ruido y los detalles pequeños, medios dan un fondo de retrato y altos convierten el fondo en manchas de color."
+        ]
+      }
+    ],
+    "steps_title": "Cómo aplicar el gaussiano en la app",
+    "steps": [
+      {
+        "title": "Abre la foto",
+        "description": "Elige la imagen en la app."
+      },
+      {
+        "title": "Modo",
+        "description": "Background para el fondo, Full Photo para toda la foto, Manual para una zona."
+      },
+      {
+        "title": "Gaussian y Radius",
+        "description": "Elige el estilo y ajusta la intensidad."
+      },
+      {
+        "title": "Save",
+        "description": "Guarda el resultado en tu fototeca."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "Para la foto de perfil basta un Radius bajo: el fondo se reconoce pero no distrae.",
+      "Un gaussiano fuerte en Full Photo es la forma más rápida de crear un fondo para texto en stories.",
+      "Para ocultar datos no uses Gaussian: mejor Pixelate."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Qué es el desenfoque gaussiano en pocas palabras?",
+        "answer": "Un difuminado en el que cada píxel se mezcla con sus vecinos: la imagen se suaviza sin transiciones bruscas, como fuera de foco."
+      },
+      {
+        "question": "¿Puedo aplicar el gaussiano solo al fondo?",
+        "answer": "Sí, en la pestaña Background el sujeto queda nítido."
+      },
+      {
+        "question": "¿Necesito ordenador?",
+        "answer": "No, se hace todo en el iPhone."
+      }
+    ],
+    "related": [
+      "efecto-bokeh-iphone.html",
+      "motion-blur-foto.html",
+      "fondo-borroso-en-fotos.html",
+      "efecto-blur-fotos.html"
+    ],
+    "cta_title": "Gaussiano en dos toques",
+    "cta_body": "Descarga Desenfocar Fondo de Foto, elige Gaussian y ajusta Radius. Gratis y sin subir fotos.",
+    "cta_text": "Descargar en el App Store"
+  }
+]

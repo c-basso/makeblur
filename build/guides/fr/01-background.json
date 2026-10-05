@@ -1,0 +1,358 @@
+[
+  {
+    "slug": "flouter-arriere-plan-photo-iphone.html",
+    "keyword": "comment flouter l'arrière-plan d'une photo sur iPhone",
+    "cluster": "background",
+    "card_title": "Flouter l'arrière-plan d'une photo sur iPhone",
+    "card_excerpt": "Le mode Portrait ne marche qu'à la prise de vue. Voici comment flouter le fond d'une photo déjà dans votre photothèque.",
+    "card_image": "/img/appstore/fr/04-box.webp",
+    "card_image_alt": "Onglet Background : jeune femme nette, arrière-plan flouté",
+    "meta_title": "Flouter l'arrière-plan d'une photo sur iPhone (après coup)",
+    "meta_description": "Comment flouter l'arrière-plan d'une photo sur iPhone après la prise de vue : l'app détecte le sujet, vous réglez l'intensité et enregistrez. Sans Portrait.",
+    "h1": "Comment flouter l'arrière-plan d'une photo sur iPhone après la prise de vue",
+    "answer": "Pour flouter l'arrière-plan d'une photo sur iPhone après la prise de vue, ouvrez-la dans l'app Arrière Plan Flou Photo, laissez l'onglet Background (arrière-plan) pour que le sujet soit détecté, choisissez le style Gaussian, augmentez le curseur Radius jusqu'au flou voulu et touchez Save. Cela fonctionne avec n'importe quelle photo de votre photothèque, pas seulement les portraits, et tout est traité sur l'iPhone.",
+    "intro": "La plupart des réponses à « comment flouter l'arrière-plan sur iPhone » renvoient au mode Portrait. Bon conseil si la photo n'est pas encore prise. Mais si elle a été faite en mode Photo, reçue sur WhatsApp ou s'il s'agit d'une capture d'écran, le mode Portrait ne sert à rien. Voyons ce que l'iPhone sait faire seul, où il s'arrête et comment flouter le fond en trente secondes.",
+    "image": "/img/appstore/fr/04-box.webp",
+    "image_alt": "Onglet Background dans l'app : la jeune femme est nette, le mur de briques et les fleurs derrière elle sont floutés",
+    "native": {
+      "heading": "Ce que l'iPhone sait faire tout seul",
+      "paragraphs": [
+        "Le mode Portrait enregistre une carte de profondeur au moment de la prise de vue. Ensuite, dans Photos → Modifier, vous pouvez renforcer ou réduire le flou avec le réglage d'ouverture. Mais seulement pour les photos prises en mode Portrait avec un appareil compatible : une photo classique, un selfie sans Portrait, une capture d'écran ou une image reçue n'ont pas de carte de profondeur, et ce réglage n'apparaît pas.",
+        "Sur les iPhone récents, certaines photos classiques peuvent passer en Portrait si l'appareil a enregistré des données de profondeur au déclenchement. Cela ne marche pas pour toutes les photos ni sur tous les modèles, et vous ne choisissez pas le sujet."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Flouter l'arrière-plan sans mode Portrait",
+        "paragraphs": [
+          "Il faut un éditeur capable de séparer le sujet du fond à partir de l'image déjà prise. Dans Arrière Plan Flou Photo, c'est le rôle de l'onglet Background : il détecte la personne ou l'objet principal, le garde net et floute tout le reste. Pas besoin de données de profondeur : l'app travaille sur les pixels de la photo, donc n'importe quelle image convient.",
+          "L'intensité se règle avec le curseur Radius, le type de flou avec le style : Gaussian donne un fond doux façon objectif, Box un flou un peu plus uniforme, Motion un filé de mouvement. Tout est traité sur l'iPhone, sans Internet."
+        ]
+      },
+      {
+        "heading": "Quelle intensité choisir",
+        "paragraphs": [
+          "Pour une photo de profil ou de CV, un flou léger suffit : on reconnaît le décor, mais il ne distrait plus. Pour les stories et les posts, vous pouvez aller plus loin : le fond devient des taches de couleur et la personne « sort » de l'image. Commencez par un Radius moyen et zoomez sur les cheveux : si un halo apparaît, baissez l'intensité."
+        ]
+      }
+    ],
+    "steps_title": "Flouter l'arrière-plan dans l'app",
+    "steps": [
+      {
+        "title": "Ouvrez la photo",
+        "description": "Lancez Arrière Plan Flou Photo et choisissez l'image dans votre photothèque : photo classique, selfie ou capture."
+      },
+      {
+        "title": "Gardez l'onglet Background",
+        "description": "L'app détecte le sujet et repère l'arrière-plan à flouter."
+      },
+      {
+        "title": "Choisissez le style et Radius",
+        "description": "Gaussian pour le rendu portrait classique. Faites glisser Radius jusqu'à la douceur voulue."
+      },
+      {
+        "title": "Touchez Save",
+        "description": "La copie floutée est enregistrée dans Photos, l'originale reste intacte."
+      }
+    ],
+    "tips_title": "Conseils",
+    "tips": [
+      "Le détourage est meilleur quand le sujet se détache bien du fond : une personne devant un mur, une tasse sur une table.",
+      "Zoomez sur les cheveux et les doigts avant d'enregistrer : avec un Radius très élevé, un halo peut apparaître.",
+      "Floutez d'abord, recadrez ensuite : l'app dispose de plus de pixels pour un détourage précis."
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Peut-on flouter l'arrière-plan sur iPhone sans mode Portrait ?",
+        "answer": "Oui. Photos ne le fait pas sans données de profondeur, mais Arrière Plan Flou Photo sépare le sujet à partir de l'image elle-même et floute le fond de n'importe quelle photo."
+      },
+      {
+        "question": "Comment flouter le fond d'une vieille photo ?",
+        "answer": "De la même façon : ouvrez-la dans l'app, onglet Background, réglez Radius et enregistrez. La date et le modèle d'appareil n'ont pas d'importance."
+      },
+      {
+        "question": "La photo perd-elle en qualité ?",
+        "answer": "Le sujet garde sa résolution d'origine ; seul l'arrière-plan est flouté. Une nouvelle copie est enregistrée, l'originale ne change pas."
+      },
+      {
+        "question": "Faut-il une connexion Internet ?",
+        "answer": "Non. Tout est traité sur l'iPhone et les photos ne sont pas envoyées sur des serveurs."
+      }
+    ],
+    "related": [
+      "arriere-plan-flou-photo.html",
+      "flouter-fond-photo.html",
+      "application-flouter-arriere-plan-iphone.html",
+      "flou-gaussien-iphone.html"
+    ],
+    "cta_title": "Floutez l'arrière-plan d'une photo déjà prise",
+    "cta_body": "Téléchargez Arrière Plan Flou Photo, ouvrez l'image, réglez Radius et enregistrez. Gratuit, sur l'appareil, sur tout iPhone sous iOS 18.6 ou ultérieur.",
+    "cta_text": "Télécharger dans l'App Store"
+  },
+  {
+    "slug": "flouter-fond-photo.html",
+    "keyword": "flouter le fond d'une photo",
+    "cluster": "background",
+    "card_title": "Flouter le fond d'une photo",
+    "card_excerpt": "Sujet net, fond doux : en trois gestes, sur n'importe quelle photo déjà sur votre iPhone.",
+    "card_image": "/img/appstore/fr/04-box.webp",
+    "card_image_alt": "Fond flouté derrière une jeune femme nette",
+    "meta_title": "Flouter le fond d'une photo sur iPhone : gratuit, 3 gestes",
+    "meta_description": "Flouter le fond d'une photo sur iPhone : l'app sépare la personne du décor, vous choisissez le style et l'intensité. Pour profil, posts et stories. Gratuit.",
+    "h1": "Flouter le fond d'une photo sur iPhone",
+    "answer": "Pour flouter le fond d'une photo, ouvrez-la dans Arrière Plan Flou Photo : l'onglet Background trouve seul la personne ou l'objet, vous choisissez un style (Gaussian, Box ou Motion), réglez l'intensité avec Radius et touchez Save. Moins d'une minute, et la photo ne quitte pas votre iPhone.",
+    "intro": "Un fond flou est le moyen le plus rapide de rendre une photo plus soignée : la personne ressort et les détails derrière elle cessent de distraire. Sur un appareil photo, c'est le travail d'un objectif lumineux ; sur téléphone, celui du mode Portrait. Si la photo est déjà prise sans lui, vous pouvez flouter le fond après coup et obtenir le rendu voulu.",
+    "image": "/img/appstore/fr/04-box.webp",
+    "image_alt": "Exemple de fond flou : jeune femme nette devant un mur et des fleurs floutés",
+    "native": {
+      "heading": "Pourquoi Photos n'y arrive pas",
+      "paragraphs": [
+        "L'éditeur intégré ne modifie la profondeur que des photos en mode Portrait. Pour les autres, il n'y a ni pinceau ni filtre de flou : Annoter permet de couvrir une zone avec une forme, mais ce n'est pas un flou d'arrière-plan."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Fond flou ou arrière-plan flou ?",
+        "paragraphs": [
+          "C'est la même chose : « fond » est plus courant à l'oral, « arrière-plan » plus photo. Les deux désignent le rendu sujet net, décor doux, et les deux se font avec l'onglet Background."
+        ]
+      },
+      {
+        "heading": "À quoi sert un fond flou",
+        "paragraphs": [
+          "Photo de profil WhatsApp ou Instagram, photo de CV ou LinkedIn, profil d'appli de rencontre, photo d'un objet pour Leboncoin, post : partout où l'image a un sujet principal. Le flou efface le superflu : passants, enseignes, désordre.",
+          "Pour une photo de profil, un flou doux suffit ; pour une story, montez jusqu'à ce que le fond ne soit plus que des taches de couleur."
+        ]
+      },
+      {
+        "heading": "Quel style choisir",
+        "paragraphs": [
+          "Gaussian est un flou progressif, comme un objectif hors mise au point : il convient presque toujours. Box est plus uniforme et graphique. Motion est un filé de mouvement pour les photos de sport ou de rue. Pixelate et Crystallize transforment le fond en mosaïque, un parti pris plus créatif."
+        ]
+      }
+    ],
+    "steps_title": "Flouter le fond dans l'app",
+    "steps": [
+      {
+        "title": "Choisissez la photo",
+        "description": "Ouvrez l'app et sélectionnez l'image dans votre photothèque."
+      },
+      {
+        "title": "Vérifiez l'onglet Background",
+        "description": "Le sujet est détecté automatiquement ; seul le fond sera flouté."
+      },
+      {
+        "title": "Style et Radius",
+        "description": "Choisissez Gaussian ou un autre style et réglez l'intensité avec Radius."
+      },
+      {
+        "title": "Save",
+        "description": "La copie prête apparaît dans Photos, à publier tout de suite."
+      }
+    ],
+    "tips_title": "Conseils",
+    "tips": [
+      "Pour une photo de profil, restez sur un flou doux : sur un petit cercle, un flou fort paraît artificiel.",
+      "Si le fond et les vêtements ont la même couleur, zoomez et vérifiez le contour avant d'enregistrer.",
+      "Enregistrez une version pour le post et une pour la story : chaque format demande une intensité différente."
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Est-ce gratuit ?",
+        "answer": "L'app se télécharge gratuitement et le flou d'arrière-plan de base est inclus. Les styles avancés sont optionnels, via des achats intégrés."
+      },
+      {
+        "question": "Peut-on flouter le fond d'une photo avec plusieurs personnes ?",
+        "answer": "Oui. Background garde nets les sujets détectés et floute le reste. Pour ne garder qu'une personne nette, peignez la zone avec l'onglet Manual."
+      },
+      {
+        "question": "Les photos sont-elles envoyées quelque part ?",
+        "answer": "Non. Tout est traité sur l'iPhone, sans Internet."
+      }
+    ],
+    "related": [
+      "flouter-arriere-plan-photo-iphone.html",
+      "arriere-plan-flou-photo.html",
+      "effet-bokeh-iphone.html",
+      "application-flouter-arriere-plan-iphone.html"
+    ],
+    "cta_title": "Un fond flou en une minute",
+    "cta_body": "Téléchargez Arrière Plan Flou Photo, ouvrez l'image, choisissez style et intensité, enregistrez. Gratuit, sur iPhone sous iOS 18.6 ou ultérieur.",
+    "cta_text": "Télécharger dans l'App Store"
+  },
+  {
+    "slug": "arriere-plan-flou-photo.html",
+    "keyword": "arrière-plan flou photo",
+    "cluster": "background",
+    "card_title": "Arrière-plan flou sur une photo",
+    "card_excerpt": "Pour débuter : ce qu'est un arrière-plan flou, quelle intensité choisir et comment le faire sur une photo déjà prise.",
+    "card_image": "/img/appstore/fr/02-motion.webp",
+    "card_image_alt": "Arrière-plan flou derrière une jeune femme sur iPhone",
+    "meta_title": "Arrière-plan flou photo sur iPhone : le guide pour débuter",
+    "meta_description": "Comment obtenir un arrière-plan flou sur vos photos iPhone : ce que c'est, quelle intensité choisir et comment le faire en une minute sur une photo déjà prise.",
+    "h1": "Arrière-plan flou sur une photo iPhone : l'explication simple",
+    "answer": "Un arrière-plan flou, c'est quand la personne est nette et que tout ce qui est derrière elle est doux. Sur iPhone, vous pouvez l'obtenir sur une photo déjà prise : ouvrez-la dans l'app Arrière Plan Flou Photo, gardez l'onglet Background, réglez l'intensité avec Radius et touchez Save. Ni mode Portrait ni connaissances en photo ne sont nécessaires.",
+    "intro": "« Je veux un arrière-plan flou comme sur les photos pro » : c'est l'une des demandes les plus fréquentes, et la réponse est simple. Un fond flou détache la personne de son environnement et rend l'image plus calme. Voici à quoi ressemblent différentes intensités et comment faire sur iPhone sans être photographe.",
+    "image": "/img/appstore/fr/04-box.webp",
+    "image_alt": "Jeune femme nette avec un arrière-plan flou sur iPhone",
+    "native": {
+      "heading": "Comment l'appareil photo de l'iPhone s'y prend",
+      "paragraphs": [
+        "En mode Portrait, l'appareil enregistre une carte de profondeur et floute le fond immédiatement. Vous pouvez ensuite changer l'intensité dans Photos → Modifier. Si la photo a été prise en mode Photo, ce réglage n'existe pas et le fond restera net tant que vous ne la retouchez pas dans une autre app."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "À quoi ressemble chaque intensité",
+        "paragraphs": [
+          "Léger : on reconnaît le décor (un café, un parc), mais il ne fait plus concurrence à la personne. Idéal pour une photo de profil ou de CV.",
+          "Moyen : le fond devient des formes et des couleurs. C'est le rendu le plus « portrait » pour un post.",
+          "Fort : il ne reste que des taches de couleur. Parfait pour une story ou quand le décor est vraiment moche."
+        ]
+      },
+      {
+        "heading": "Si le contour est irrégulier",
+        "paragraphs": [
+          "Cela arrive surtout avec des cheveux détachés ou un fond de la même couleur que les vêtements. Baissez un peu Radius : à intensité plus faible, le contour se voit moins. Au besoin, l'onglet Manual permet de peindre à la main la zone à flouter."
+        ]
+      }
+    ],
+    "steps_title": "Obtenir un arrière-plan flou dans l'app",
+    "steps": [
+      {
+        "title": "Ouvrez la photo",
+        "description": "Choisissez l'image dans Arrière Plan Flou Photo."
+      },
+      {
+        "title": "Onglet Background",
+        "description": "L'app trouve la personne et repère l'arrière-plan."
+      },
+      {
+        "title": "Réglez l'intensité",
+        "description": "Faites glisser Radius du léger au fort et arrêtez-vous quand le fond ne distrait plus."
+      },
+      {
+        "title": "Enregistrez",
+        "description": "Touchez Save : la copie avec arrière-plan flou apparaît dans votre photothèque."
+      }
+    ],
+    "tips_title": "Conseils",
+    "tips": [
+      "Commencez par une intensité moyenne : il est facile de l'augmenter, et un flou excessif paraît faux.",
+      "Sur une photo de groupe, vérifiez que toutes les personnes restent nettes.",
+      "Ne floutez pas le fond quand il compte, par exemple un monument de voyage."
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Comment avoir un arrière-plan flou si la photo est déjà prise ?",
+        "answer": "Ouvrez-la dans l'app, onglet Background, réglez Radius et enregistrez. Inutile de refaire la photo."
+      },
+      {
+        "question": "Faut-il un iPhone récent ?",
+        "answer": "Non. Tout iPhone sous iOS 18.6 ou ultérieur convient."
+      },
+      {
+        "question": "Peut-on retrouver le fond net ?",
+        "answer": "Oui : l'app enregistre une nouvelle copie, l'originale reste dans votre photothèque."
+      }
+    ],
+    "related": [
+      "flouter-arriere-plan-photo-iphone.html",
+      "flouter-fond-photo.html",
+      "flou-gaussien-iphone.html",
+      "effet-bokeh-iphone.html"
+    ],
+    "cta_title": "Un arrière-plan flou en une minute",
+    "cta_body": "Téléchargez Arrière Plan Flou Photo, ouvrez l'image, choisissez l'intensité et enregistrez. Gratuit, sans envoi de photos.",
+    "cta_text": "Télécharger dans l'App Store"
+  },
+  {
+    "slug": "application-flouter-arriere-plan-iphone.html",
+    "keyword": "application pour flouter l'arrière-plan sur iPhone",
+    "cluster": "background",
+    "card_title": "Application pour flouter l'arrière-plan sur iPhone",
+    "card_excerpt": "Portrait, Annoter, Clean Up, sites web ou app dédiée : comparaison honnête pour les photos déjà prises.",
+    "card_image": "/img/appstore/fr/04-box.webp",
+    "card_image_alt": "Application pour flouter l'arrière-plan sur iPhone en action",
+    "meta_title": "Application pour flouter l'arrière-plan sur iPhone : choix",
+    "meta_description": "Quelle application pour flouter l'arrière-plan sur iPhone ? Mode Portrait, Annoter, Clean Up, sites en ligne et éditeur dédié comparés pour les photos prises.",
+    "h1": "Application pour flouter l'arrière-plan sur iPhone : que choisir",
+    "answer": "Si la photo n'a pas été prise en mode Portrait, les outils de l'iPhone ne floutent pas l'arrière-plan : il faut une app qui détecte le sujet seule. Arrière Plan Flou Photo le fait sur l'appareil, sans rien envoyer en ligne, et floute aussi les visages, des zones précises et la photo entière. Les sites web conviennent si vous acceptez d'envoyer la photo sur un serveur tiers.",
+    "intro": "L'App Store compte des dizaines d'apps avec « flou » ou « arrière-plan » dans leur nom, et choisir à l'aveugle n'est pas pratique. Plutôt qu'un classement d'apps tierces, voici une comparaison des méthodes : ce que l'iPhone fait seul, ce que proposent les sites et les fonctions à rechercher dans une app.",
+    "image": "/img/appstore/fr/04-box.webp",
+    "image_alt": "Jeune femme nette sur fond flou : résultat d'une app iPhone",
+    "native": {
+      "heading": "Options intégrées et leurs limites",
+      "paragraphs": [
+        "Mode Portrait : le meilleur résultat, mais uniquement à la prise de vue et à quelques mètres du sujet. Photos → Modifier → profondeur : seulement pour les portraits. Annoter : couvre une zone avec une forme ou un feutre ; ce n'est pas un flou. Clean Up (Apple Intelligence) : uniquement sur iPhone 15 Pro et ultérieurs, et conçu pour effacer des objets, pas pour flouter un arrière-plan."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Sites pour flouter en ligne",
+        "paragraphs": [
+          "Ils fonctionnent dans le navigateur, mais il faut envoyer la photo sur leur serveur, souvent avec filigrane ou résolution limitée. Pour des photos personnelles, d'enfants ou de documents, ce n'est pas idéal. Ce site propose aussi un éditeur en ligne, mais il ne floute que la photo entière : le flou sélectif de l'arrière-plan, c'est l'app."
+        ]
+      },
+      {
+        "heading": "Ce qu'une bonne app doit faire",
+        "paragraphs": [
+          "Trouver le sujet sur n'importe quelle photo, pas seulement en Portrait. Régler l'intensité, pas un effet unique. Travailler sur l'appareil. Flouter les visages et des zones libres : pour la confidentialité, on s'en sert autant que pour un joli fond.",
+          "Arrière Plan Flou Photo coche toutes ces cases : onglets Background, Faces, Manual et Full Photo, sept styles, curseur Radius et traitement hors ligne sur iPhone sous iOS 18.6 ou ultérieur."
+        ]
+      }
+    ],
+    "steps_title": "L'essayer en une minute",
+    "steps": [
+      {
+        "title": "Téléchargez l'app",
+        "description": "Arrière Plan Flou Photo, gratuite sur l'App Store."
+      },
+      {
+        "title": "Ouvrez n'importe quelle photo",
+        "description": "Idéalement une où le mode Portrait a échoué."
+      },
+      {
+        "title": "Background et Radius",
+        "description": "Le sujet est détecté seul ; réglez l'intensité avec le curseur."
+      },
+      {
+        "title": "Save",
+        "description": "Comparez le résultat à l'originale dans votre photothèque."
+      }
+    ],
+    "tips_title": "Conseils",
+    "tips": [
+      "Testez l'app sur une photo difficile : cheveux détachés et fond de couleur proche.",
+      "Regardez où la photo est traitée : sur l'appareil ou sur un serveur.",
+      "Évaluez aussi les modes visages et zones libres : vous finirez par vous en servir."
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Existe-t-il une application gratuite pour flouter l'arrière-plan sur iPhone ?",
+        "answer": "Oui, Arrière Plan Flou Photo se télécharge gratuitement et inclut le flou d'arrière-plan de base. Les styles avancés sont optionnels, via des achats intégrés."
+      },
+      {
+        "question": "Peut-on s'en passer ?",
+        "answer": "Seulement pour les photos en mode Portrait. Pour les autres, l'éditeur intégré ne propose aucun flou d'arrière-plan."
+      },
+      {
+        "question": "Sur quels iPhone fonctionne-t-elle ?",
+        "answer": "Sur tout iPhone sous iOS 18.6 ou ultérieur, sans Apple Intelligence ni appareil photo Portrait."
+      }
+    ],
+    "related": [
+      "flouter-arriere-plan-photo-iphone.html",
+      "flouter-fond-photo.html",
+      "flouter-visage-photo.html",
+      "flouter-partie-photo-iphone.html"
+    ],
+    "cta_title": "Essayez avec votre propre photo",
+    "cta_body": "Téléchargez Arrière Plan Flou Photo et floutez le fond de cette photo où le mode Portrait n'a pas marché. Gratuit, sans envoi en ligne.",
+    "cta_text": "Télécharger dans l'App Store"
+  }
+]

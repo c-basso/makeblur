@@ -1,0 +1,260 @@
+[
+  {
+    "slug": "motion-blur-foto.html",
+    "keyword": "Motion Blur Foto",
+    "cluster": "effects",
+    "card_title": "Motion Blur (Bewegungsunschärfe) auf Fotos",
+    "card_excerpt": "Bewegungseffekt auf einem fertigen Foto: Motiv scharf, Hintergrund verwischt in der Richtung Ihrer Wahl.",
+    "card_image": "/img/appstore/de/02-motion.webp",
+    "card_image_alt": "Motion Blur hinter einer Frau, Radius 65",
+    "meta_title": "Motion Blur Foto am iPhone: Bewegungsunschärfe hinzufügen",
+    "meta_description": "Motion Blur (Bewegungsunschärfe) nachträglich auf ein Foto am iPhone: Hintergrund mit einstellbarer Richtung verwischen, Motiv bleibt scharf. Kostenlos.",
+    "h1": "Motion Blur auf Fotos: Bewegungsunschärfe am iPhone hinzufügen",
+    "answer": "Um Motion Blur auf ein Foto zu legen, öffnen Sie es in MakeBlur, lassen den Tab Background und wählen den Stil Motion. Der Regler Radius bestimmt die Länge des Wischeffekts, Angle die Richtung. Das Motiv bleibt scharf, der Hintergrund „bewegt sich“. Save tippen.",
+    "intro": "Motion Blur oder Bewegungsunschärfe ist der Wischeffekt, der bei langer Belichtungszeit oder beim Mitziehen der Kamera entsteht: Person oder Auto scharf, die Umgebung zu Streifen gezogen. In Deutschland ist es der meistgesuchte Unschärfe-Begriff überhaupt – noch vor „blur background“. Mit dem Smartphone gelingt er beim Fotografieren selten, lässt sich aber nachträglich hinzufügen, inklusive selbst gewählter Richtung.",
+    "image": "/img/appstore/de/02-motion.webp",
+    "image_alt": "Stil Motion: Hintergrund hinter der Frau verwischt, Gesicht scharf",
+    "native": {
+      "heading": "Was das iPhone beim Fotografieren kann",
+      "paragraphs": [
+        "In Fotos bieten Live Photos den Effekt „Langzeitbelichtung“: Er verwischt alles, was sich in der Szene bewegt hat, etwa Wasser, Autos oder Passanten. Das geht aber nur mit Live Photos und verwischt echte Bewegung, nicht den Hintergrund hinter einer stillstehenden Person. Motion Blur auf ein normales Foto legen ist mit den Bordmitteln nicht möglich."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Den Wischeffekt einstellen",
+        "paragraphs": [
+          "Radius regelt die Länge: niedrige Werte bringen etwas Dynamik, hohe ein Gefühl von Tempo. Angle legt die Richtung fest: waagerecht für Läufer oder Auto, diagonal für eine spannungsreichere Bildwirkung. Im App-Store-Screenshot steht der Effekt auf Radius 65.",
+          "Im Tab Background wird nur der Hintergrund verwischt; in Full Photo das ganze Bild – für einen „aus der Bewegung fotografiert“-Look."
+        ]
+      },
+      {
+        "heading": "Wo es am besten wirkt",
+        "paragraphs": [
+          "Sport, Fahrrad, Skateboard, Autos, Tanz, urbane Porträts bei Nacht. Weniger bei ruhigen Porträts in der Natur: Dort wirkt ein weiches Gaussian natürlicher."
+        ]
+      }
+    ],
+    "steps_title": "Motion Blur in der App hinzufügen",
+    "steps": [
+      {
+        "title": "Foto öffnen",
+        "description": "Am besten eines, bei dem das Motiv schon Bewegung andeutet."
+      },
+      {
+        "title": "Background + Motion",
+        "description": "Das Motiv wird erkannt, der Hintergrund verwischt."
+      },
+      {
+        "title": "Radius und Angle",
+        "description": "Länge des Wischeffekts und Bewegungsrichtung einstellen."
+      },
+      {
+        "title": "Save",
+        "description": "Kopie in Fotos sichern."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Den Effekt in Bewegungsrichtung des Motivs legen – so wirkt er natürlich.",
+      "Bei Porträts Radius nicht übertreiben: Starkes Verwischen frisst die Haarkante.",
+      "Für Stories Full Photo + Motion ausprobieren: ein dynamischer Hintergrund für Text."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Wie mache ich Motion Blur am iPhone?",
+        "answer": "Mit dem Stil Motion in MakeBlur: Radius für die Länge, Angle für die Richtung."
+      },
+      {
+        "question": "Kann ich nur den Hintergrund verwischen?",
+        "answer": "Ja, im Tab Background bleibt das Motiv scharf und nur der Hintergrund bewegt sich."
+      },
+      {
+        "question": "Geht das mit Live Photos?",
+        "answer": "Ja, die App bearbeitet das Bild des Live Photos wie ein normales Foto."
+      }
+    ],
+    "related": [
+      "gausscher-weichzeichner-iphone.html",
+      "bokeh-effekt-iphone.html",
+      "blur-effekt-foto.html",
+      "hintergrund-unscharf-machen-iphone.html"
+    ],
+    "cta_title": "Bringen Sie Bewegung ins Foto",
+    "cta_body": "„Hintergrund unscharf machen“ laden, Motion wählen und Radius sowie Angle einstellen. Kostenlos, direkt auf dem iPhone.",
+    "cta_text": "Laden im App Store"
+  },
+  {
+    "slug": "bokeh-effekt-iphone.html",
+    "keyword": "Bokeh Effekt iPhone",
+    "cluster": "effects",
+    "card_title": "Bokeh-Effekt am iPhone",
+    "card_excerpt": "Ein weicher Hintergrund wie mit lichtstarkem Objektiv – bei Fotos ohne Porträtmodus.",
+    "card_image": "/img/appstore/de/06-ghost.webp",
+    "card_image_alt": "Weicher, verträumter Look auf einem Foto",
+    "meta_title": "Bokeh-Effekt am iPhone – nachträglich und kostenlos",
+    "meta_description": "Bokeh-Effekt am iPhone: was das ist, wann der Porträtmodus reicht und wie ein normales Foto nachträglich einen weichen Hintergrund bekommt. Kostenlos, offline.",
+    "h1": "Bokeh-Effekt am iPhone: so bekommen Sie einen weichen Hintergrund",
+    "answer": "Am einfachsten gelingt der Bokeh-Effekt am iPhone so: Foto in MakeBlur öffnen, Tab Background lassen, den weichen Stil Gaussian wählen und Radius erhöhen – der Hintergrund wird zu Farbflecken, die Person bleibt scharf. Für einen verträumteren Look probieren Sie Ghosting im Tab Full Photo.",
+    "intro": "Bokeh beschreibt das Aussehen des unscharfen Bereichs: weiche Licht- und Farbflecken hinter dem Motiv. Fotografen erreichen es mit lichtstarken Objektiven, das iPhone imitiert es mit dem Porträtmodus. Ist das Foto ohne Porträt entstanden, lässt sich ein ähnlich weicher Hintergrund nachträglich erzeugen.",
+    "image": "/img/appstore/de/06-ghost.webp",
+    "image_alt": "Stil Ghosting auf dem ganzen Foto: weicher, verträumter Look",
+    "native": {
+      "heading": "Bokeh mit dem Porträtmodus",
+      "paragraphs": [
+        "Im Porträtmodus macht das iPhone den Hintergrund unscharf und fügt die typischen Lichtflecken hinzu. In Fotos → Bearbeiten ändert der Blendenregler die Stärke. Die Grenzen bleiben: nur beim Fotografieren, in passendem Abstand zum Motiv und mit Tiefenkarte."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Bokeh und einfache Unschärfe",
+        "paragraphs": [
+          "Echtes optisches Bokeh hängt vom Objektiv ab: Form der Flecken, Wirbel, Säume um Laternen. Software-Unschärfe bildet das nicht vollständig nach, erreicht aber das Wesentliche: das Motiv vor einem weichen Hintergrund freizustellen. In sozialen Netzwerken fällt der Unterschied kaum auf.",
+          "Am meisten nach Bokeh sieht es bei Fotos mit Lichtern im Hintergrund aus: Lichterketten, Stadtlichter, Sonne durch Blätter."
+        ]
+      },
+      {
+        "heading": "Welcher Stil",
+        "paragraphs": [
+          "Gaussian im Tab Background: klassischer Porträt-Hintergrund. Ghosting in Full Photo: Das ganze Bild wird weich und luftig, wie im Screenshot „Sanfte Vibes mit Bokeh“. Box: eine etwas grafischere Unschärfe."
+        ]
+      }
+    ],
+    "steps_title": "Bokeh-Hintergrund in der App",
+    "steps": [
+      {
+        "title": "Foto öffnen",
+        "description": "Ideal: ein Foto mit Lichtern oder farbigem Hintergrund."
+      },
+      {
+        "title": "Background + Gaussian",
+        "description": "Das Motiv wird erkannt, der Hintergrund weich."
+      },
+      {
+        "title": "Radius einstellen",
+        "description": "Erhöhen, bis Details im Hintergrund zu Farbflecken werden."
+      },
+      {
+        "title": "Save",
+        "description": "Kopie sichern und mit dem Original vergleichen."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Abendfotos mit Lichtern liefern die bokeh-ähnlichste Unschärfe.",
+      "Bei einfarbigem Hintergrund ist Bokeh kaum zu sehen – dann Ghosting aufs ganze Foto probieren.",
+      "Selfies auf Armlänge nicht zu stark weichzeichnen – das wirkt künstlich."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Geht Bokeh auch bei alten Fotos?",
+        "answer": "Ja, die App funktioniert mit jedem Foto der Mediathek, ohne Tiefendaten."
+      },
+      {
+        "question": "Brauche ich ein iPhone mit Porträtmodus?",
+        "answer": "Nein, jedes iPhone mit iOS 18.6 oder neuer reicht."
+      },
+      {
+        "question": "Ist das kostenlos?",
+        "answer": "Der Download ist kostenlos, die einfache Hintergrund-Unschärfe ist enthalten; erweiterte Stile sind optional."
+      }
+    ],
+    "related": [
+      "gausscher-weichzeichner-iphone.html",
+      "foto-hintergrund-unscharf-machen.html",
+      "motion-blur-foto.html",
+      "hintergrund-unscharf-machen-iphone.html"
+    ],
+    "cta_title": "Weicher Hintergrund ohne Porträtmodus",
+    "cta_body": "„Hintergrund unscharf machen“ laden, Gaussian wählen und Radius erhöhen. Kostenlos, iPhone mit iOS 18.6.",
+    "cta_text": "Laden im App Store"
+  },
+  {
+    "slug": "gausscher-weichzeichner-iphone.html",
+    "keyword": "Gaußscher Weichzeichner",
+    "cluster": "effects",
+    "card_title": "Gaußscher Weichzeichner am iPhone",
+    "card_excerpt": "Die natürlichste Unschärfe: was sie ist und wie Sie sie auf Hintergrund oder ganzes Foto anwenden.",
+    "card_image": "/img/appstore/de/04-box.webp",
+    "card_image_alt": "Weichgezeichneter Hintergrund hinter einer Frau",
+    "meta_title": "Gaußscher Weichzeichner am iPhone: Hintergrund oder Foto",
+    "meta_description": "Gaußscher Weichzeichner am iPhone: was der Filter ist, wie er sich von Bokeh und Box unterscheidet und wie Sie ihn auf Hintergrund, Gesicht oder Foto anwenden.",
+    "h1": "Gaußscher Weichzeichner am iPhone",
+    "answer": "Der Gaußsche Weichzeichner ist eine weiche, gleichmäßige Unschärfe, ähnlich einem unscharf gestellten Objektiv. Am iPhone wenden Sie ihn mit MakeBlur an: auswählen, was unscharf wird (Background, Faces, Manual oder Full Photo), Stil Gaussian und die Stärke mit Radius, dann Save tippen.",
+    "intro": "Den „Gaußschen Weichzeichner“ kennt man aus Photoshop oder Lightroom: Er ist die neutralste Art, ein Bild weicher zu machen – ohne Streifen, Kästchen oder Säume. Der Standard-Editor des iPhone hat diesen Filter nicht, Sie können ihn aber anwenden – und zwar nicht nur aufs ganze Bild, sondern gezielt auf den Hintergrund.",
+    "image": "/img/appstore/de/04-box.webp",
+    "image_alt": "Unscharfer Hintergrund am iPhone, Motiv scharf",
+    "native": {
+      "heading": "Hat Fotos einen Gaußschen Weichzeichner?",
+      "paragraphs": [
+        "Nein. Fotos bietet Farbfilter und einen Schärferegler, aber keine Unschärfe. Der Porträtmodus macht den Hintergrund ähnlich weich, aber nur beim Fotografieren und mit Tiefenkarte."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Unterschied zu anderen Stilen",
+        "paragraphs": [
+          "Gaussian zeichnet fließend weich, Kanten verlaufen sanft – deshalb wirkt er „fotografisch“. Box ist gleichmäßiger und etwas härter. Motion zieht das Bild in eine Richtung. Pixelate, Hexagonal und Crystallize sind keine Unschärfe mehr, sondern Mosaik.",
+          "Für Porträt-Hintergründe und weiche Hintergrundbilder Gaussian wählen. Für Datenschutz Pixelate: Bei geringer Stärke kann ein Gauß-Effekt Gesicht oder Text erkennbar lassen."
+        ]
+      },
+      {
+        "heading": "Stärke",
+        "paragraphs": [
+          "Radius legt den Radius der Unschärfe fest. Niedrige Werte glätten Rauschen und kleine Details, mittlere ergeben einen Porträt-Hintergrund, hohe machen den Hintergrund zu Farbflecken."
+        ]
+      }
+    ],
+    "steps_title": "Gaußschen Weichzeichner in der App anwenden",
+    "steps": [
+      {
+        "title": "Foto öffnen",
+        "description": "Bild in der App auswählen."
+      },
+      {
+        "title": "Modus",
+        "description": "Background für den Hintergrund, Full Photo fürs ganze Bild, Manual für einen Bereich."
+      },
+      {
+        "title": "Gaussian und Radius",
+        "description": "Stil wählen und Stärke einstellen."
+      },
+      {
+        "title": "Save",
+        "description": "Ergebnis in der Mediathek sichern."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Für Profilbilder genügt ein niedriger Radius: Die Umgebung ist erkennbar, lenkt aber nicht ab.",
+      "Starker Gauß auf Full Photo ist der schnellste Weg zu einem Text-Hintergrund für Stories.",
+      "Zum Verbergen von Daten kein Gaussian nehmen – lieber Pixelate."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Was ist der Gaußsche Weichzeichner, kurz erklärt?",
+        "answer": "Eine Unschärfe, bei der jedes Pixel mit seinen Nachbarn verrechnet wird: Das Bild wird ohne harte Übergänge weich, wie außer Fokus."
+      },
+      {
+        "question": "Kann ich den Gauß nur auf den Hintergrund anwenden?",
+        "answer": "Ja, im Tab Background bleibt das Motiv scharf."
+      },
+      {
+        "question": "Brauche ich einen Computer?",
+        "answer": "Nein, alles geht am iPhone."
+      }
+    ],
+    "related": [
+      "bokeh-effekt-iphone.html",
+      "motion-blur-foto.html",
+      "hintergrund-verschwommen-machen.html",
+      "blur-effekt-foto.html"
+    ],
+    "cta_title": "Gauß in zwei Tipps",
+    "cta_body": "„Hintergrund unscharf machen“ laden, Gaussian wählen und Radius einstellen. Kostenlos, ohne Upload.",
+    "cta_text": "Laden im App Store"
+  }
+]

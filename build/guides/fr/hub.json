@@ -1,0 +1,30 @@
+{
+  "nav_text": "Guides",
+  "title": "Guides pas à pas",
+  "intro": "Flouter un arrière-plan, masquer un visage, cacher une plaque ou un texte, adoucir une photo entière : chaque guide montre les gestes exacts sur iPhone.",
+  "learn_more_text": "En savoir plus",
+  "related_title": "Guides associés",
+  "answer_label": "En bref",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "Flouter l'arrière-plan",
+      "blurb": "Sujet net, fond doux, sur les photos déjà prises."
+    },
+    {
+      "id": "privacy",
+      "title": "Masquer visages, plaques et textes",
+      "blurb": "Flou de confidentialité avant de partager."
+    },
+    {
+      "id": "effects",
+      "title": "Effets de flou",
+      "blurb": "Mouvement, bokeh et flou gaussien."
+    },
+    {
+      "id": "photo",
+      "title": "Flouter n'importe quelle photo",
+      "blurb": "Photo entière et effet flou expliqué."
+    }
+  ]
+}

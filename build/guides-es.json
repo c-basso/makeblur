@@ -1,0 +1,1313 @@
+{
+  "hub": {
+    "nav_text": "Guías",
+    "title": "Guías paso a paso",
+    "intro": "Desenfoca un fondo, oculta un rostro, tapa una matrícula o un texto, o suaviza una foto entera: cada guía muestra los toques exactos en el iPhone.",
+    "learn_more_text": "Más información",
+    "related_title": "Guías relacionadas",
+    "answer_label": "Respuesta corta",
+    "clusters": [
+      {
+        "id": "background",
+        "title": "Desenfocar el fondo",
+        "blurb": "Sujeto nítido, fondo suave, en fotos que ya hiciste."
+      },
+      {
+        "id": "privacy",
+        "title": "Ocultar rostros, matrículas y texto",
+        "blurb": "Desenfoque de privacidad antes de compartir."
+      },
+      {
+        "id": "effects",
+        "title": "Efectos de desenfoque",
+        "blurb": "Movimiento, bokeh y gaussiano."
+      },
+      {
+        "id": "photo",
+        "title": "Desenfocar cualquier foto",
+        "blurb": "Foto completa y el efecto blur explicado."
+      }
+    ]
+  },
+  "items": [
+    {
+      "slug": "como-desenfocar-fondo-foto-iphone.html",
+      "keyword": "cómo desenfocar el fondo de una foto en iPhone",
+      "cluster": "background",
+      "card_title": "Cómo desenfocar el fondo de una foto en iPhone",
+      "card_excerpt": "El Modo Retrato solo sirve al disparar. Así desenfocas el fondo de una foto que ya está en tu fototeca.",
+      "card_image": "/img/appstore/es/04-box.webp",
+      "card_image_alt": "Pestaña Background: chica nítida y fondo desenfocado",
+      "meta_title": "Cómo desenfocar el fondo de una foto en iPhone (ya hecha)",
+      "meta_description": "Cómo desenfocar el fondo de una foto en iPhone después de hacerla: la app detecta al sujeto, eliges la intensidad y guardas. Sin Modo Retrato, gratis.",
+      "h1": "Cómo desenfocar el fondo de una foto en iPhone después de hacerla",
+      "answer": "Para desenfocar el fondo de una foto en iPhone después de hacerla, ábrela en la app Desenfocar Fondo de Foto, deja la pestaña Background (fondo) para que detecte al sujeto, elige el estilo Gaussian, sube el deslizador Radius hasta que el fondo esté tan suave como quieras y pulsa Save. Funciona con cualquier foto de tu fototeca, no solo con las de Modo Retrato, y todo se procesa en el iPhone.",
+      "intro": "Casi todas las respuestas a «cómo desenfocar el fondo en iPhone» te mandan al Modo Retrato. Es buen consejo si aún no has hecho la foto. Pero si ya la hiciste en modo normal, te la mandaron por WhatsApp o es una captura, el Modo Retrato no sirve de nada. Veamos qué hace el iPhone por sí solo, dónde se queda corto y cómo desenfocar el fondo en medio minuto.",
+      "image": "/img/appstore/es/04-box.webp",
+      "image_alt": "Pestaña Background en la app: la chica nítida y la pared de ladrillo y las flores detrás, desenfocadas",
+      "native": {
+        "heading": "Lo que hace el iPhone por sí solo",
+        "paragraphs": [
+          "El Modo Retrato guarda un mapa de profundidad al hacer la foto. Después, en Fotos → Editar, puedes aumentar o reducir el desenfoque con el control de apertura. Pero solo en fotos hechas en Modo Retrato con una cámara compatible: una foto normal, un selfie sin retrato, una captura o una imagen de WhatsApp no tienen mapa de profundidad y ese control no aparece.",
+          "En los iPhone más recientes algunas fotos normales se pueden convertir en retrato si la cámara guardó datos de profundidad al disparar. No funciona con todas las fotos ni en todos los modelos, y no puedes elegir el sujeto."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Cómo desenfocar el fondo sin Modo Retrato",
+          "paragraphs": [
+            "Necesitas un editor que separe al sujeto del fondo a partir de la imagen ya hecha. En Desenfocar Fondo de Foto lo hace la pestaña Background: detecta a la persona o el objeto principal, lo mantiene nítido y difumina todo lo demás. No necesita datos de profundidad de la cámara: trabaja sobre los píxeles de la foto, así que sirve cualquier imagen.",
+            "La intensidad la controla el deslizador Radius y el tipo de desenfoque, el estilo: Gaussian da un fondo suave de objetivo, Box uno algo más uniforme y Motion un barrido de movimiento. Todo se procesa en el iPhone, sin internet."
+          ]
+        },
+        {
+          "heading": "Cuánto desenfoque aplicar",
+          "paragraphs": [
+            "Para una foto de perfil o de currículum basta un desenfoque ligero: el fondo se reconoce, pero no distrae. Para stories y publicaciones puedes subirlo: el fondo se convierte en manchas de color y la persona «sale» de la imagen. Empieza con valores medios de Radius y amplía la foto en el pelo: si aparece un halo, baja la intensidad."
+          ]
+        }
+      ],
+      "steps_title": "Cómo desenfocar el fondo en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Abre la foto",
+          "description": "Abre Desenfocar Fondo de Foto y elige la imagen de tu fototeca: normal, selfie o captura."
+        },
+        {
+          "number": "2",
+          "title": "Deja la pestaña Background",
+          "description": "La app detecta al sujeto y marca el fondo que se va a desenfocar."
+        },
+        {
+          "number": "3",
+          "title": "Elige estilo y Radius",
+          "description": "Gaussian para el look clásico de retrato. Mueve Radius hasta la suavidad que buscas."
+        },
+        {
+          "number": "4",
+          "title": "Pulsa Save",
+          "description": "La copia desenfocada se guarda en Fotos; la original no se toca."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "La máscara sale mejor cuando el sujeto se separa claramente del fondo: una persona delante de una pared, una taza sobre la mesa.",
+        "Amplía el pelo y los dedos antes de guardar: con un Radius muy alto puede aparecer un halo.",
+        "Desenfoca primero y recorta después: la app tiene más píxeles para hacer una máscara precisa."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Se puede desenfocar el fondo en iPhone sin Modo Retrato?",
+          "answer": "Sí. Fotos no lo hace sin datos de profundidad, pero Desenfocar Fondo de Foto separa al sujeto a partir de la propia imagen y desenfoca el fondo de cualquier foto."
+        },
+        {
+          "question": "¿Cómo desenfoco el fondo de una foto antigua?",
+          "answer": "Igual: ábrela en la app, pestaña Background, ajusta Radius y guarda. La fecha de la foto y el modelo de cámara no importan."
+        },
+        {
+          "question": "¿Pierde calidad la foto?",
+          "answer": "El sujeto se mantiene en su resolución original; solo se difumina el fondo. Se guarda una copia nueva y la original no cambia."
+        },
+        {
+          "question": "¿Necesito internet?",
+          "answer": "No. Todo se procesa en el iPhone y las fotos no se suben a servidores."
+        }
+      ],
+      "related": [
+        "fondo-borroso-en-fotos.html",
+        "desenfocar-fondo-de-foto.html",
+        "app-desenfocar-fondo-iphone.html",
+        "desenfoque-gaussiano-iphone.html"
+      ],
+      "cta_title": "Desenfoca el fondo de una foto que ya hiciste",
+      "cta_body": "Descarga Desenfocar Fondo de Foto, abre la imagen, ajusta Radius y guarda. Gratis, en tu dispositivo, en cualquier iPhone con iOS 18.6 o posterior.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "desenfocar-fondo-de-foto.html",
+      "keyword": "desenfocar fondo de foto",
+      "cluster": "background",
+      "card_title": "Desenfocar fondo de foto",
+      "card_excerpt": "Sujeto nítido, fondo suave: en tres toques y en cualquier foto que ya tengas en el iPhone.",
+      "card_image": "/img/appstore/es/04-box.webp",
+      "card_image_alt": "Fondo difuminado detrás de una chica enfocada",
+      "meta_title": "Desenfocar fondo de foto en iPhone: gratis y en 3 toques",
+      "meta_description": "Desenfocar o difuminar el fondo de una foto en iPhone: la app separa a la persona del fondo, eliges estilo e intensidad. Para perfil, posts y stories. Gratis.",
+      "h1": "Desenfocar el fondo de una foto en iPhone",
+      "answer": "Para desenfocar el fondo de una foto, ábrela en Desenfocar Fondo de Foto: la pestaña Background encuentra sola a la persona o el objeto, eliges un estilo (Gaussian, Box o Motion), ajustas la intensidad con Radius y pulsas Save. Tardas menos de un minuto y la foto no sale de tu iPhone.",
+      "intro": "Un fondo desenfocado es la forma más rápida de que una foto parezca más cuidada: la persona destaca y los detalles de detrás dejan de distraer. En una cámara lo consigue un objetivo luminoso; en el móvil, el Modo Retrato. Si la foto ya está hecha sin él, puedes desenfocar o difuminar el fondo después y que quede como si lo hubieras planeado.",
+      "image": "/img/appstore/es/04-box.webp",
+      "image_alt": "Ejemplo de fondo desenfocado: chica enfocada delante de una pared y flores difuminadas",
+      "native": {
+        "heading": "Por qué no se puede en Fotos",
+        "paragraphs": [
+          "El editor integrado solo cambia la profundidad de las fotos de Modo Retrato. Para el resto no hay pincel ni filtro de desenfoque: Marcación permite tapar una zona con una forma, pero eso no difumina el fondo."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "¿Desenfocar o difuminar el fondo?",
+          "paragraphs": [
+            "Es lo mismo: «desenfocar» se usa más en España y «difuminar» en muchos países de Latinoamérica, y los dos describen el efecto de sujeto nítido y fondo suave. En la app los dos se hacen con la pestaña Background."
+          ]
+        },
+        {
+          "heading": "Para qué se desenfoca el fondo",
+          "paragraphs": [
+            "Foto de perfil para WhatsApp o Instagram, foto para el currículum o LinkedIn, perfil de una app de citas, la foto de un producto para Wallapop, un post: en cualquier imagen con un protagonista. El fondo desenfocado elimina lo que sobra: gente detrás, carteles, desorden.",
+            "Para fotos de perfil basta un desenfoque suave; para stories puedes subirlo hasta que el fondo sean manchas de color."
+          ]
+        },
+        {
+          "heading": "Qué estilo elegir",
+          "paragraphs": [
+            "Gaussian es un desenfoque progresivo, como un objetivo desenfocado, y sirve casi siempre. Box es más uniforme y gráfico. Motion es un barrido de movimiento para fotos de deporte o de calle. Pixelate y Crystallize convierten el fondo en mosaico, un recurso más creativo."
+          ]
+        }
+      ],
+      "steps_title": "Cómo desenfocar el fondo en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Elige la foto",
+          "description": "Abre la app y selecciona la imagen de tu fototeca."
+        },
+        {
+          "number": "2",
+          "title": "Comprueba la pestaña Background",
+          "description": "El sujeto se detecta solo; solo se desenfoca el fondo."
+        },
+        {
+          "number": "3",
+          "title": "Estilo y Radius",
+          "description": "Elige Gaussian u otro estilo y ajusta la intensidad con Radius."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "La copia lista aparece en Fotos para publicarla."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "En la foto de perfil usa un desenfoque suave: en un círculo pequeño, uno fuerte parece artificial.",
+        "Si el fondo y la ropa son del mismo color, amplía y revisa el borde antes de guardar.",
+        "Guarda una versión para el post y otra para stories: cada formato pide una intensidad distinta."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Es gratis?",
+          "answer": "La app se descarga gratis y el desenfoque de fondo básico está incluido. Los estilos avanzados son opcionales, mediante compras dentro de la app."
+        },
+        {
+          "question": "¿Puedo desenfocar el fondo de una foto con varias personas?",
+          "answer": "Sí. Background mantiene nítidos los sujetos detectados y difumina el resto. Si quieres dejar solo a una persona, pinta la zona con la pestaña Manual."
+        },
+        {
+          "question": "¿Se suben las fotos a algún sitio?",
+          "answer": "No. Todo se procesa en el iPhone, sin internet."
+        }
+      ],
+      "related": [
+        "como-desenfocar-fondo-foto-iphone.html",
+        "fondo-borroso-en-fotos.html",
+        "efecto-bokeh-iphone.html",
+        "app-desenfocar-fondo-iphone.html"
+      ],
+      "cta_title": "Fondo desenfocado en un minuto",
+      "cta_body": "Descarga Desenfocar Fondo de Foto, abre la imagen, elige estilo e intensidad y guarda. Gratis, en iPhone con iOS 18.6 o posterior.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "fondo-borroso-en-fotos.html",
+      "keyword": "fondo borroso en fotos",
+      "cluster": "background",
+      "card_title": "Fondo borroso en fotos",
+      "card_excerpt": "Para empezar: qué es un fondo borroso, qué intensidad elegir y cómo hacerlo en una foto ya hecha.",
+      "card_image": "/img/appstore/es/02-motion.webp",
+      "card_image_alt": "Fondo borroso detrás de una chica en iPhone",
+      "meta_title": "Fondo borroso en fotos con iPhone: guía fácil para empezar",
+      "meta_description": "Cómo poner el fondo borroso en tus fotos con iPhone: qué es, qué intensidad elegir y cómo hacerlo en una foto ya hecha. App gratis y sin subir fotos.",
+      "h1": "Fondo borroso en fotos con iPhone: explicado fácil",
+      "answer": "Un fondo borroso es cuando la persona de la foto está nítida y todo lo de detrás se ve suave. En iPhone puedes conseguirlo en una foto ya hecha: ábrela en la app Desenfocar Fondo de Foto (en México, «Fondo Borroso en Fotos»), deja la pestaña Background, ajusta la intensidad con Radius y pulsa Save. No necesitas Modo Retrato ni saber de fotografía.",
+      "intro": "«Quiero el fondo borroso como en las fotos profesionales» es una de las peticiones más comunes, y detrás hay algo sencillo: el fondo borroso separa a la persona de su entorno y hace la imagen más limpia. Aquí verás cómo se ve con distintas intensidades y cómo hacerlo en el iPhone sin conocimientos técnicos.",
+      "image": "/img/appstore/es/04-box.webp",
+      "image_alt": "Chica enfocada con el fondo borroso en iPhone",
+      "native": {
+        "heading": "Cómo lo hace la cámara del iPhone",
+        "paragraphs": [
+          "En Modo Retrato la cámara guarda un mapa de profundidad y pone el fondo borroso al momento. Después puedes cambiar la intensidad en Fotos → Editar. Si la foto se hizo en modo normal, ese ajuste no existe y el fondo seguirá nítido hasta que la edites con otra app."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Cómo se ve cada intensidad",
+          "paragraphs": [
+            "Suave: el fondo se reconoce (una cafetería, un parque), pero ya no compite con la persona. Ideal para foto de perfil o currículum.",
+            "Media: el fondo se convierte en formas y colores. Es la opción más «de retrato» para publicaciones.",
+            "Fuerte: del fondo quedan manchas de color. Va bien en stories o cuando el fondo es feo."
+          ]
+        },
+        {
+          "heading": "Si el borde sale irregular",
+          "paragraphs": [
+            "Suele pasar con el pelo suelto o cuando el fondo es del mismo color que la ropa. Baja un poco Radius: con menos intensidad el borde se nota menos. Si hace falta, con la pestaña Manual puedes pintar a mano la zona que debe quedar borrosa."
+          ]
+        }
+      ],
+      "steps_title": "Cómo poner el fondo borroso en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Abre la foto",
+          "description": "Elige la imagen en Desenfocar Fondo de Foto."
+        },
+        {
+          "number": "2",
+          "title": "Pestaña Background",
+          "description": "La app encuentra a la persona y marca el fondo."
+        },
+        {
+          "number": "3",
+          "title": "Ajusta la intensidad",
+          "description": "Mueve Radius de suave a fuerte y para cuando el fondo deje de distraer."
+        },
+        {
+          "number": "4",
+          "title": "Guarda",
+          "description": "Pulsa Save: la copia con fondo borroso aparece en tu fototeca."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "Empieza con intensidad media: es fácil subirla, y un desenfoque excesivo parece falso.",
+        "En fotos de grupo comprueba que todas las personas siguen nítidas.",
+        "No desenfoques el fondo cuando es importante, por ejemplo un monumento de un viaje."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Cómo pongo el fondo borroso si la foto ya está hecha?",
+          "answer": "Ábrela en la app, pestaña Background, ajusta Radius y guarda. No hace falta repetir la foto."
+        },
+        {
+          "question": "¿Necesito un iPhone nuevo?",
+          "answer": "No. Sirve cualquier iPhone con iOS 18.6 o posterior."
+        },
+        {
+          "question": "¿Puedo recuperar el fondo nítido?",
+          "answer": "Sí: la app guarda una copia nueva y la original sigue en tu fototeca."
+        }
+      ],
+      "related": [
+        "como-desenfocar-fondo-foto-iphone.html",
+        "desenfocar-fondo-de-foto.html",
+        "desenfoque-gaussiano-iphone.html",
+        "efecto-bokeh-iphone.html"
+      ],
+      "cta_title": "Fondo borroso en un minuto",
+      "cta_body": "Descarga Desenfocar Fondo de Foto, abre la imagen, elige la intensidad y guarda. Gratis y sin subir fotos.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "app-desenfocar-fondo-iphone.html",
+      "keyword": "app para desenfocar fondo en iPhone",
+      "cluster": "background",
+      "card_title": "App para desenfocar fondo en iPhone",
+      "card_excerpt": "Modo Retrato, Marcación, Limpiar, webs o una app: comparación honesta para fotos que ya hiciste.",
+      "card_image": "/img/appstore/es/04-box.webp",
+      "card_image_alt": "App para desenfocar fondo en iPhone en uso",
+      "meta_title": "App para desenfocar fondo en iPhone: ¿cuál elegir?",
+      "meta_description": "Qué app para desenfocar fondo en iPhone elegir: comparamos Modo Retrato, Marcación, Limpiar, webs online y un editor dedicado para fotos ya hechas.",
+      "h1": "App para desenfocar fondo en iPhone: qué elegir",
+      "answer": "Si la foto no se hizo en Modo Retrato, las herramientas del iPhone no desenfocan el fondo: necesitas una app que detecte al sujeto por sí sola. Desenfocar Fondo de Foto lo hace en el dispositivo, sin subir nada, y además difumina rostros, zonas concretas y la foto entera. Las webs online sirven si aceptas subir la foto a un servidor ajeno.",
+      "intro": "En el App Store hay decenas de apps con «desenfocar fondo» en el nombre y elegir a ciegas es incómodo. En lugar de un ranking de apps ajenas, aquí tienes una comparación de métodos: qué hace el iPhone por sí solo, qué ofrecen las webs y qué funciones conviene buscar en una app.",
+      "image": "/img/appstore/es/04-box.webp",
+      "image_alt": "Chica enfocada sobre fondo desenfocado: resultado de una app para iPhone",
+      "native": {
+        "heading": "Opciones integradas y sus límites",
+        "paragraphs": [
+          "Modo Retrato: el mejor resultado, pero solo al disparar y a un par de metros del sujeto. Fotos → Editar → profundidad: solo para fotos de retrato. Marcación: tapa una zona con una forma o rotulador; no es desenfoque. Limpiar (Apple Intelligence): solo en iPhone 15 Pro y posteriores, y sirve para borrar objetos, no para desenfocar el fondo."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Webs para desenfocar online",
+          "paragraphs": [
+            "Funcionan en el navegador, pero tienes que subir la foto a su servidor, a menudo con marca de agua o resolución limitada. Para fotos personales, de niños o documentos no es lo ideal. En esta web también hay un editor online, pero desenfoca solo la foto completa: el desenfoque selectivo del fondo lo hace la app."
+          ]
+        },
+        {
+          "heading": "Qué debe hacer una buena app",
+          "paragraphs": [
+            "Encontrar al sujeto en cualquier foto, no solo en retratos. Permitir regular la intensidad, no un único efecto fijo. Trabajar en el dispositivo. Difuminar rostros y zonas libres: para la privacidad se usa tanto como para un fondo bonito.",
+            "Desenfocar Fondo de Foto cumple todo eso: pestañas Background, Faces, Manual y Full Photo, siete estilos, deslizador Radius y procesamiento sin internet en iPhone con iOS 18.6 o posterior."
+          ]
+        }
+      ],
+      "steps_title": "Cómo probarla en un minuto",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Descarga la app",
+          "description": "Desenfocar Fondo de Foto, gratis en el App Store."
+        },
+        {
+          "number": "2",
+          "title": "Abre cualquier foto",
+          "description": "Mejor una en la que el Modo Retrato no funcionó."
+        },
+        {
+          "number": "3",
+          "title": "Background y Radius",
+          "description": "El sujeto se detecta solo; ajusta la intensidad con el deslizador."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Compara el resultado con la original en tu fototeca."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "Prueba la app con una foto difícil: pelo suelto y fondo de color parecido.",
+        "Fíjate en dónde se procesa la foto: en el dispositivo o en un servidor.",
+        "Valora también los modos para rostros y zonas libres: los acabarás usando."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Hay alguna app gratis para desenfocar el fondo en iPhone?",
+          "answer": "Sí, Desenfocar Fondo de Foto se descarga gratis e incluye el desenfoque de fondo básico. Los estilos avanzados son opcionales, mediante compras dentro de la app."
+        },
+        {
+          "question": "¿Se puede hacer sin app?",
+          "answer": "Solo con fotos de Modo Retrato. Para las demás, el editor integrado no ofrece desenfoque de fondo."
+        },
+        {
+          "question": "¿En qué iPhone funciona?",
+          "answer": "En cualquier iPhone con iOS 18.6 o posterior, sin Apple Intelligence ni cámara de retrato."
+        }
+      ],
+      "related": [
+        "como-desenfocar-fondo-foto-iphone.html",
+        "desenfocar-fondo-de-foto.html",
+        "como-difuminar-cara-foto.html",
+        "como-desenfocar-parte-foto-iphone.html"
+      ],
+      "cta_title": "Pruébala con tu propia foto",
+      "cta_body": "Descarga Desenfocar Fondo de Foto y desenfoca el fondo de esa foto en la que falló el Modo Retrato. Gratis y sin subir nada.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "como-difuminar-cara-foto.html",
+      "keyword": "cómo difuminar una cara en una foto",
+      "cluster": "privacy",
+      "card_title": "Cómo difuminar una cara en una foto",
+      "card_excerpt": "Oculta rostros antes de publicar: automático, en cualquier iPhone, sin Apple Intelligence.",
+      "card_image": "/img/appstore/es/03-face.webp",
+      "card_image_alt": "Pestaña Faces difuminando todos los rostros detectados",
+      "meta_title": "Cómo difuminar una cara en una foto en iPhone (auto)",
+      "meta_description": "Cómo difuminar una cara en una foto en iPhone: la app detecta todos los rostros, eliges la intensidad y guardas. Cualquier iPhone, sin Apple Intelligence.",
+      "h1": "Cómo difuminar una cara en una foto en iPhone",
+      "answer": "Para difuminar una cara en una foto, ábrela en Desenfocar Fondo de Foto y ve a la pestaña Faces (rostros): la app detecta todas las caras y difumina cada una. Elige estilo —Pixelate para una censura clara o Gaussian para algo más suave—, sube Radius hasta que los rasgos no se reconozcan y pulsa Save. Funciona en cualquier iPhone con iOS 18.6, sin Apple Intelligence.",
+      "intro": "Difuminar caras es la cortesía básica antes de publicar una foto de grupo, de la función del cole o de la calle: no todos los que salen aceptaron estar en internet. Búsquedas como «blur face» han crecido un 70 % en España en el último año. iOS tiene una opción integrada, pero solo en algunos iPhone. Te contamos sus límites y cómo hacerlo en cualquier modelo.",
+      "image": "/img/appstore/es/03-face.webp",
+      "image_alt": "Cuadrícula de rostros detectados, cada uno difuminado, en la pestaña Faces",
+      "native": {
+        "heading": "Lo que ofrece la app Fotos",
+        "paragraphs": [
+          "En iPhone 15 Pro, iPhone 16 y posteriores con Apple Intelligence activado, Fotos → Editar → Limpiar permite repasar una cara con el dedo para pixelarla. Es manual (cara por cara), la intensidad no se ajusta y no existe en iPhone anteriores. Sin Apple Intelligence, Fotos solo deja tapar una cara con una forma o un sticker en Marcación: la oculta, pero no la difumina."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Difuminado automático de caras en cualquier iPhone",
+          "paragraphs": [
+            "Desenfocar Fondo de Foto tiene una pestaña Faces específica. Detecta los rostros de la imagen y los muestra en una cuadrícula ya difuminados, así que una foto de grupo con doce personas se resuelve con un toque, no con doce trazos. Tú eliges el estilo —Pixelate para el mosaico clásico, Gaussian o Box para algo más suave— y la intensidad con Radius.",
+            "Todo se procesa en el iPhone, sin internet: importante cuando el objetivo es precisamente la privacidad."
+          ]
+        },
+        {
+          "heading": "Difuminar unas caras y dejar otras",
+          "paragraphs": [
+            "Si quieres que tu cara se vea y las demás no, usa la pestaña Manual: pinta solo las caras que quieres ocultar. Se aplican el mismo estilo y el mismo Radius a la zona pintada."
+          ]
+        },
+        {
+          "heading": "Cuánto difuminar",
+          "paragraphs": [
+            "Con poco desenfoque, quien conoce a la persona la sigue reconociendo. Para un anonimato real usa Pixelate o Gaussian con un Radius suficiente para que ojos, nariz y boca no se distingan con el zoom al máximo. En la captura del App Store los rostros usan Radius 80: buen punto de partida."
+          ]
+        }
+      ],
+      "steps_title": "Cómo difuminar caras en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Abre la foto",
+          "description": "De grupo, de calle o una captura: cualquiera de tu fototeca."
+        },
+        {
+          "number": "2",
+          "title": "Pestaña Faces",
+          "description": "Los rostros se detectan solos y aparecen en la cuadrícula ya difuminados."
+        },
+        {
+          "number": "3",
+          "title": "Estilo y Radius",
+          "description": "Pixelate para una privacidad clara, Gaussian para algo más suave. Sube Radius hasta que no se reconozcan los rasgos."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Publica la copia guardada, no la original."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "Amplía cada cara antes de guardar: un difuminado que parece fuerte en pantalla pequeña puede seguir siendo reconocible.",
+        "Difumina antes de comprimir la foto para enviarla: la detección necesita la imagen completa.",
+        "En fotos del cole o de deporte, difumina también uniformes, dorsales o carteles que identifiquen el lugar."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Cómo difumino caras en iPhone sin Apple Intelligence?",
+          "answer": "Con Desenfocar Fondo de Foto: la pestaña Faces detecta y difumina rostros en cualquier iPhone con iOS 18.6 o posterior."
+        },
+        {
+          "question": "¿Puedo difuminar varias caras a la vez?",
+          "answer": "Sí. Todos los rostros detectados se difuminan juntos con el mismo estilo e intensidad."
+        },
+        {
+          "question": "¿Se puede deshacer el difuminado de una foto publicada?",
+          "answer": "Un pixelado fuerte o un Radius alto eliminan los detalles de la copia guardada. No publiques la original y usa una intensidad con la que no se distingan los rasgos al ampliar."
+        },
+        {
+          "question": "¿Se envían las fotos a un servidor para detectar caras?",
+          "answer": "No, todo ocurre en el dispositivo."
+        }
+      ],
+      "related": [
+        "como-desenfocar-parte-foto-iphone.html",
+        "como-pixelar-foto-iphone.html",
+        "como-censurar-texto-captura.html",
+        "como-tapar-matricula-foto.html"
+      ],
+      "cta_title": "Comparte la foto, no las caras",
+      "cta_body": "Descarga Desenfocar Fondo de Foto, abre Faces, ajusta Radius y guarda. Gratis, en tu dispositivo, en cualquier iPhone con iOS 18.6.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "como-desenfocar-parte-foto-iphone.html",
+      "keyword": "cómo desenfocar parte de una foto en iPhone",
+      "cluster": "privacy",
+      "card_title": "Cómo desenfocar parte de una foto en iPhone",
+      "card_excerpt": "Fotos no tiene pincel de desenfoque. Así pintas una zona con el dedo y difuminas solo esa parte.",
+      "card_image": "/img/appstore/es/05-crystalize.webp",
+      "card_image_alt": "Desenfoque de una zona concreta de la foto en iPhone",
+      "meta_title": "Cómo desenfocar parte de una foto en iPhone con el dedo",
+      "meta_description": "Cómo desenfocar parte de una foto en iPhone: en Fotos solo hay formas de Marcación. Pinta la zona con el dedo en la app, elige intensidad y guarda. Gratis.",
+      "h1": "Cómo desenfocar parte de una foto en iPhone",
+      "answer": "Para desenfocar parte de una foto en iPhone, ábrela en Desenfocar Fondo de Foto, ve a la pestaña Manual (pincel) y pasa el dedo por la zona que quieres ocultar. Elige un estilo —Pixelate, Gaussian o Box—, ajusta la intensidad con Radius y pulsa Save. Solo se difumina lo que pintas; el resto queda nítido.",
+      "intro": "El número de un portal, la cara de alguien que pasaba, una dirección en un sobre, un niño ajeno al fondo: muchas veces no hay que desenfocar la foto ni el fondo entero, sino una zona concreta. El editor del iPhone no lo resuelve y casi todos los consejos en internet proponen taparla con un rectángulo. Hay una forma más limpia.",
+      "image": "/img/appstore/es/05-crystalize.webp",
+      "image_alt": "Zona de la foto difuminada con el estilo Crystallize",
+      "native": {
+        "heading": "Lo que ofrece Fotos",
+        "paragraphs": [
+          "Fotos no tiene pincel de desenfoque. Con Marcación puedes dibujar una forma encima o tapar con el rotulador, pero es un parche opaco, no un desenfoque, y llama la atención. Limpiar (Apple Intelligence) borra objetos y solo está en iPhone 15 Pro y posteriores."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Pincel de desenfoque manual",
+          "paragraphs": [
+            "La pestaña Manual de Desenfocar Fondo de Foto es un pincel: pasas el dedo y debajo aparece el desenfoque del estilo elegido. Puedes pintar varias zonas seguidas: un texto en una esquina, una cara entre la gente, una matrícula.",
+            "El estilo cambia el aspecto: Pixelate y Box para privacidad clara, Gaussian para un difuminado suave casi invisible, Crystallize y Hexagonal para un mosaico decorativo."
+          ]
+        },
+        {
+          "heading": "Cuándo usar otros modos",
+          "paragraphs": [
+            "Si hay que ocultar todas las caras, Faces es más rápido. Si quieres difuminar todo lo que rodea a una persona, usa Background. Manual es ideal cuando la zona es libre y la detección automática no puede adivinarla."
+          ]
+        }
+      ],
+      "steps_title": "Cómo desenfocar una parte en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Abre la foto",
+          "description": "Elige la foto o la captura en la app."
+        },
+        {
+          "number": "2",
+          "title": "Pestaña Manual",
+          "description": "Pasa el dedo por la zona que quieres desenfocar."
+        },
+        {
+          "number": "3",
+          "title": "Estilo e intensidad",
+          "description": "Pixelate para privacidad o Gaussian para un efecto suave; Radius marca la intensidad."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Guarda la copia y revísala ampliada."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "Amplía la foto con dos dedos para pintar bien los detalles pequeños.",
+        "Pinta un poco más allá del objeto: así el borde no delata lo que hay debajo.",
+        "Para textos y matrículas usa Pixelate con Radius alto: un Gaussian suave a veces deja leer las letras."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Se puede desenfocar parte de una foto con las herramientas del iPhone?",
+          "answer": "No. Fotos no tiene pincel de desenfoque, solo formas y rotulador en Marcación."
+        },
+        {
+          "question": "¿Puedo desenfocar varias zonas?",
+          "answer": "Sí, en Manual puedes pintar todas las zonas que quieras y se difuminan con el mismo estilo."
+        },
+        {
+          "question": "¿Sirve para capturas de pantalla?",
+          "answer": "Sí, Manual funciona con cualquier imagen de tu fototeca, incluidas las capturas."
+        }
+      ],
+      "related": [
+        "como-censurar-texto-captura.html",
+        "como-tapar-matricula-foto.html",
+        "como-difuminar-cara-foto.html",
+        "como-pixelar-foto-iphone.html"
+      ],
+      "cta_title": "Desenfoca justo lo que necesitas",
+      "cta_body": "Descarga Desenfocar Fondo de Foto, abre Manual y pinta la zona con el dedo. Gratis, sin subir fotos.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "como-tapar-matricula-foto.html",
+      "keyword": "cómo tapar una matrícula en una foto",
+      "cluster": "privacy",
+      "card_title": "Cómo tapar una matrícula en una foto",
+      "card_excerpt": "Para Wallapop, coches.net o Milanuncios: la matrícula no se lee y el anuncio queda limpio.",
+      "card_image": "/img/appstore/es/05-crystalize.webp",
+      "card_image_alt": "Matrícula oculta con pixelado en una foto",
+      "meta_title": "Cómo tapar la matrícula en una foto con iPhone (Wallapop)",
+      "meta_description": "Cómo tapar o pixelar la matrícula (o placa) de un coche en una foto para Wallapop o coches.net: pinta, pixela y guarda. En iPhone, gratis y sin subir nada.",
+      "h1": "Cómo tapar la matrícula de un coche en una foto con iPhone",
+      "answer": "Para tapar una matrícula en una foto, ábrela en Desenfocar Fondo de Foto, elige la pestaña Manual, pasa el dedo por la matrícula, selecciona el estilo Pixelate o Box y sube Radius hasta que no se lea ningún carácter. Pulsa Save y sube esa copia al anuncio.",
+      "intro": "Quien vende su coche en Wallapop, coches.net o Milanuncios —o en Mercado Libre, donde se habla de «placa»— suele ocultar la matrícula: así hay menos riesgo de que alguien use los datos del vehículo para clonarla o para estafas. Pero el anuncio tiene que verse cuidado: un rectángulo negro sobre el parachoques causa mala impresión. Un pixelado limpio resuelve las dos cosas.",
+      "image": "/img/appstore/es/05-crystalize.webp",
+      "image_alt": "Pixelado de una zona de la foto en la app",
+      "native": {
+        "heading": "Lo que puedes hacer en Fotos",
+        "paragraphs": [
+          "En Marcación puedes tapar la matrícula con una forma o pintarla con el rotulador. Queda oculta, pero el parche se ve tosco y el rotulador semitransparente a veces deja leer los caracteres. El editor integrado no sabe desenfocar ni pixelar una zona."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "¿Pixelar o desenfocar?",
+          "paragraphs": [
+            "Para matrículas lo más seguro es Pixelate o Box con un Radius alto: los bloques grandes eliminan los caracteres. Un Gaussian suave con poca intensidad puede dejar la matrícula adivinable, sobre todo en fotos de alta resolución.",
+            "Crystallize también la oculta, pero queda decorativo; para un anuncio es mejor un pixelado neutro."
+          ]
+        },
+        {
+          "heading": "Si son muchas fotos",
+          "paragraphs": [
+            "Un anuncio suele llevar entre 10 y 20 fotos y la matrícula aparece en tres o cuatro. Edítalas una a una: abrir, Manual, pintar, Save; medio minuto cada una. Revisa también los reflejos: a veces la matrícula se ve en un escaparate o en una foto del interior a través del cristal."
+          ]
+        }
+      ],
+      "steps_title": "Cómo tapar la matrícula en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Abre la foto del coche",
+          "description": "Elige una foto en la que se vea la matrícula."
+        },
+        {
+          "number": "2",
+          "title": "Pestaña Manual",
+          "description": "Amplía la imagen y pinta la matrícula con el dedo, con un poco de margen."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate y Radius",
+          "description": "Sube la intensidad hasta que ningún carácter se lea al ampliar."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Sube al anuncio la copia guardada."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "Tapa toda la placa, no solo los caracteres: por la longitud se puede deducir el formato.",
+        "Revisa las fotos delanteras y traseras: hay matrícula en los dos parachoques.",
+        "Si en alguna foto se ve el número de bastidor o la documentación, ocúltalos igual."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Hay que ocultar la matrícula en un anuncio de venta?",
+          "answer": "No es obligatorio, pero muchos vendedores lo hacen para que nadie use los datos del coche. La decisión es tuya."
+        },
+        {
+          "question": "¿Se puede recuperar una matrícula pixelada?",
+          "answer": "Con bloques grandes, no: los detalles se eliminan de la copia guardada. No publiques la original."
+        },
+        {
+          "question": "¿Se suben las fotos a algún sitio?",
+          "answer": "No, todo se procesa en el iPhone sin internet."
+        }
+      ],
+      "related": [
+        "como-desenfocar-parte-foto-iphone.html",
+        "como-pixelar-foto-iphone.html",
+        "como-censurar-texto-captura.html",
+        "como-difuminar-cara-foto.html"
+      ],
+      "cta_title": "Matrícula oculta, anuncio impecable",
+      "cta_body": "Descarga Desenfocar Fondo de Foto, pinta la matrícula en Manual y guarda. Gratis y en tu iPhone.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "como-censurar-texto-captura.html",
+      "keyword": "cómo censurar texto en una captura",
+      "cluster": "privacy",
+      "card_title": "Cómo censurar texto en una captura",
+      "card_excerpt": "Chats, direcciones, pedidos o teléfonos: ocúltalos para que no se puedan leer.",
+      "card_image": "/img/appstore/es/05-crystalize.webp",
+      "card_image_alt": "Texto de una captura oculto con pixelado",
+      "meta_title": "Cómo censurar texto en una captura en iPhone, de verdad",
+      "meta_description": "Cómo censurar texto en una captura de pantalla en iPhone para que no se pueda leer: pincel, pixelado y revisión con zoom. Gratis y sin subir la captura.",
+      "h1": "Cómo censurar texto en una captura de pantalla en iPhone",
+      "answer": "Para censurar texto en una captura, ábrela en Desenfocar Fondo de Foto, elige la pestaña Manual y pinta con el dedo las líneas que quieres ocultar. Elige el estilo Pixelate, sube Radius hasta que las letras no se adivinen al ampliar y pulsa Save. Comparte la copia guardada.",
+      "intro": "Una captura de un chat, un ticket, un número de seguimiento o una entrada casi siempre lleva algo de más: un nombre, un teléfono, una dirección, un importe. El rotulador del iPhone no oculta bien el texto: sus trazos semitransparentes a veces dejan ver las letras si se sube el brillo o el contraste. Así se oculta de forma que no se pueda recuperar.",
+      "image": "/img/appstore/es/05-crystalize.webp",
+      "image_alt": "Pixelado de una zona de la imagen en iPhone",
+      "native": {
+        "heading": "Por qué el rotulador de Marcación no basta",
+        "paragraphs": [
+          "Al hacer una captura puedes tocar la miniatura y tachar el texto con el rotulador. El problema es que es semitransparente: con más exposición o contraste las letras a veces se ven. Una forma opaca es más segura, pero queda tosca. iOS no tiene desenfoque ni pixelado de una zona. WhatsApp incluye una herramienta de desenfoque al editar una foto antes de enviarla, pero solo para ese envío."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Cómo ocultar el texto de forma segura",
+          "paragraphs": [
+            "Un pixelado de bloques grandes sustituye las letras por cuadrados de un solo color: la información desaparece de la copia guardada. En la pestaña Manual de Desenfocar Fondo de Foto pintas las líneas, eliges Pixelate y subes Radius. Para texto pequeño el bloque debe ser mayor que la altura de las letras.",
+            "Gaussian queda bonito, pero con texto es arriesgado: con poca intensidad las palabras se leen por su silueta."
+          ]
+        },
+        {
+          "heading": "Qué conviene ocultar",
+          "paragraphs": [
+            "Teléfonos, números de tarjeta y cuentas, direcciones, nombres completos, números de pedido y de seguimiento, fotos de perfil, códigos QR y de barras de entradas. En capturas de chats, el nombre y la foto de la otra persona si no ha dado permiso para publicarlo."
+          ]
+        }
+      ],
+      "steps_title": "Cómo censurar texto en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Abre la captura",
+          "description": "Selecciónala de tu fototeca desde la app."
+        },
+        {
+          "number": "2",
+          "title": "Pestaña Manual",
+          "description": "Amplía y pinta las líneas de texto, cubriendo bien los bordes."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate y Radius",
+          "description": "Sube la intensidad hasta que las letras sean bloques."
+        },
+        {
+          "number": "4",
+          "title": "Save y revisión",
+          "description": "Abre la copia guardada, amplía y comprueba que no se lee nada."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "Oculta la línea entera: por la longitud de una palabra a veces se adivina un nombre o un importe.",
+        "No reenvíes la captura original «para ti mismo»: queda guardada en la nube de la app de mensajería.",
+        "Tapa los códigos QR y de barras por completo: un código parcialmente visible puede leerse."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Se puede leer el texto tachado con el rotulador del iPhone?",
+          "answer": "A veces sí: el rotulador de Marcación es semitransparente. Es más seguro un pixelado de bloques grandes."
+        },
+        {
+          "question": "¿Sirve para fotos de documentos?",
+          "answer": "Sí, Manual funciona con cualquier imagen: DNI, tickets, contratos."
+        },
+        {
+          "question": "¿Necesito internet?",
+          "answer": "No, se procesa en el dispositivo y la captura no se envía a ningún sitio."
+        }
+      ],
+      "related": [
+        "como-desenfocar-parte-foto-iphone.html",
+        "como-pixelar-foto-iphone.html",
+        "como-tapar-matricula-foto.html",
+        "como-difuminar-cara-foto.html"
+      ],
+      "cta_title": "Capturas sin datos de más",
+      "cta_body": "Descarga Desenfocar Fondo de Foto, pinta el texto en Manual y guarda una copia. Gratis y en tu dispositivo.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "como-pixelar-foto-iphone.html",
+      "keyword": "cómo pixelar una foto en iPhone",
+      "cluster": "privacy",
+      "card_title": "Cómo pixelar una foto en iPhone",
+      "card_excerpt": "Mosaico para privacidad o como efecto retro: en una cara, el fondo o la foto entera.",
+      "card_image": "/img/appstore/es/05-crystalize.webp",
+      "card_image_alt": "Efecto mosaico en el fondo de una foto",
+      "meta_title": "Cómo pixelar una foto en iPhone: mosaico gratis",
+      "meta_description": "Cómo pixelar una foto en iPhone: mosaico en el fondo, en caras, en una zona o en toda la imagen. Estilos Pixelate, Hexagonal y Crystallize. Gratis, sin nube.",
+      "h1": "Cómo pixelar una foto en iPhone",
+      "answer": "Para pixelar una foto en iPhone, ábrela en Desenfocar Fondo de Foto, elige qué quieres tratar —el fondo (Background), las caras (Faces), una zona con el pincel (Manual) o toda la imagen (Full Photo)— y el estilo Pixelate. El tamaño de los bloques lo marca Radius. Pulsa Save y la copia pixelada se guarda en tu fototeca.",
+      "intro": "Pixelar es convertir una zona de la imagen en un mosaico de cuadrados de color. Se usa para la privacidad (caras, matrículas, texto) y como efecto: retro, estilo videojuego, fondo abstracto. El iPhone no trae un filtro de pixelado, pero se hace en un par de toques.",
+      "image": "/img/appstore/es/05-crystalize.webp",
+      "image_alt": "Fondo de la foto convertido en mosaico",
+      "native": {
+        "heading": "¿Fotos tiene pixelado?",
+        "paragraphs": [
+          "No. Entre los filtros de Fotos no hay mosaico, y Marcación solo dibuja y tapa con formas. Limpiar, de Apple Intelligence, puede pixelar una cara que repases a mano, pero solo en iPhone 15 Pro y posteriores."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Tres tipos de mosaico",
+          "paragraphs": [
+            "Pixelate: bloques cuadrados, la censura clásica. Hexagonal: celdas hexagonales, más suave y decorativo. Crystallize: cristales irregulares, como en la captura «Pixel privacy en un toque» del App Store. Para privacidad usa Pixelate; como efecto, cualquiera."
+          ]
+        },
+        {
+          "heading": "Dónde aplicarlo",
+          "paragraphs": [
+            "Background: el sujeto queda nítido y el fondo se vuelve mosaico, ideal para posts. Faces: pixela todas las caras. Manual: una zona concreta como una matrícula, un texto o un cartel. Full Photo: toda la imagen, por ejemplo para una portada o un fondo abstracto."
+          ]
+        }
+      ],
+      "steps_title": "Cómo pixelar en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Abre la foto",
+          "description": "Elige la imagen en Desenfocar Fondo de Foto."
+        },
+        {
+          "number": "2",
+          "title": "Elige el modo",
+          "description": "Background, Faces, Manual o Full Photo, según lo que quieras ocultar."
+        },
+        {
+          "number": "3",
+          "title": "Estilo Pixelate",
+          "description": "Radius cambia el tamaño de los bloques."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "La copia pixelada se guarda en tu fototeca."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "Para privacidad, el bloque debe ser más grande que un ojo o una letra; si no, se adivina el detalle.",
+        "Como efecto, prueba Hexagonal en el fondo: persona nítida y fondo de panal.",
+        "Un mosaico en toda la foto sirve como portada desenfocada para stories."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Cómo pixelo una cara?",
+          "answer": "Pestaña Faces + estilo Pixelate: todos los rostros detectados quedan en mosaico."
+        },
+        {
+          "question": "¿Se puede despixelar una foto?",
+          "answer": "No, si los bloques son más grandes que los detalles: la información se elimina de la copia guardada."
+        },
+        {
+          "question": "¿Se suben las fotos a la nube?",
+          "answer": "No. Todo se procesa en el iPhone y no hace falta internet."
+        }
+      ],
+      "related": [
+        "como-difuminar-cara-foto.html",
+        "como-censurar-texto-captura.html",
+        "como-tapar-matricula-foto.html",
+        "como-desenfocar-parte-foto-iphone.html"
+      ],
+      "cta_title": "Mosaico en un toque",
+      "cta_body": "Descarga Desenfocar Fondo de Foto, elige Pixelate y ajusta el tamaño de los bloques. Gratis y sin subir fotos.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "motion-blur-foto.html",
+      "keyword": "motion blur en fotos",
+      "cluster": "effects",
+      "card_title": "Motion blur en fotos",
+      "card_excerpt": "Efecto de movimiento en una foto ya hecha: sujeto nítido y fondo barrido en la dirección que elijas.",
+      "card_image": "/img/appstore/es/02-motion.webp",
+      "card_image_alt": "Motion blur detrás de una chica, Radius 65",
+      "meta_title": "Motion blur en fotos con iPhone: efecto movimiento fácil",
+      "meta_description": "Cómo hacer motion blur (efecto movimiento) en una foto con iPhone: barrido del fondo con dirección ajustable y el sujeto nítido. Gratis, en tu dispositivo.",
+      "h1": "Motion blur en fotos: cómo hacer el efecto movimiento en iPhone",
+      "answer": "Para hacer motion blur en una foto, ábrela en Desenfocar Fondo de Foto, deja la pestaña Background y elige el estilo Motion. El deslizador Radius marca la longitud del barrido y Angle la dirección. El sujeto queda nítido y el fondo «se mueve». Pulsa Save.",
+      "intro": "El motion blur o desenfoque de movimiento es el barrido que aparece con una velocidad de obturación lenta o al seguir con la cámara a algo que se mueve: la persona o el coche nítidos y el fondo estirado en líneas. Es el término de desenfoque más buscado en España, por encima incluso de «blur background». Con el móvil es difícil de conseguir al disparar, pero se puede añadir después y elegir tú la dirección.",
+      "image": "/img/appstore/es/02-motion.webp",
+      "image_alt": "Estilo Motion: fondo barrido detrás de la chica, cara nítida",
+      "native": {
+        "heading": "Lo que hace el iPhone al disparar",
+        "paragraphs": [
+          "En Fotos, las Live Photos tienen el efecto «Exposición larga»: difumina todo lo que se movía en la escena, como agua, coches o gente. Pero solo funciona con Live Photos y difumina el movimiento real, no el fondo detrás de alguien quieto. Añadir motion blur a una foto normal no es posible con las herramientas integradas."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Cómo ajustar el barrido",
+          "paragraphs": [
+            "Radius controla la longitud: valores bajos dan algo de dinamismo, altos dan sensación de velocidad. Angle fija la dirección: horizontal para un corredor o un coche, diagonal para un encuadre más tenso. En la captura del App Store el efecto aparece con Radius 65.",
+            "En la pestaña Background solo se barre el fondo; en Full Photo, toda la imagen, para un efecto de «foto en marcha»."
+          ]
+        },
+        {
+          "heading": "Dónde queda mejor",
+          "paragraphs": [
+            "Deporte, bici, skate, coches, baile, retratos urbanos de noche. Funciona peor en retratos tranquilos en la naturaleza: ahí queda más natural un Gaussian suave."
+          ]
+        }
+      ],
+      "steps_title": "Cómo añadir motion blur en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Abre la foto",
+          "description": "Mejor una en la que el sujeto ya sugiera movimiento."
+        },
+        {
+          "number": "2",
+          "title": "Background + Motion",
+          "description": "El sujeto se detecta solo y el fondo se barre."
+        },
+        {
+          "number": "3",
+          "title": "Radius y Angle",
+          "description": "Fija la longitud del barrido y la dirección del movimiento."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Guarda la copia en Fotos."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "Orienta el barrido en la dirección en que se mueve el sujeto: así parece natural.",
+        "No te pases con Radius en retratos: un barrido fuerte se come el borde del pelo.",
+        "Para stories prueba Full Photo + Motion: fondo dinámico para poner texto encima."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Cómo hago motion blur en iPhone?",
+          "answer": "Con el estilo Motion de Desenfocar Fondo de Foto: Radius para la longitud y Angle para la dirección."
+        },
+        {
+          "question": "¿Puedo barrer solo el fondo?",
+          "answer": "Sí, en la pestaña Background el sujeto queda nítido y solo se mueve el fondo."
+        },
+        {
+          "question": "¿Funciona con Live Photos?",
+          "answer": "Sí, la app trabaja con el fotograma de la Live Photo como con cualquier foto."
+        }
+      ],
+      "related": [
+        "desenfoque-gaussiano-iphone.html",
+        "efecto-bokeh-iphone.html",
+        "efecto-blur-fotos.html",
+        "como-desenfocar-fondo-foto-iphone.html"
+      ],
+      "cta_title": "Añade movimiento a tu foto",
+      "cta_body": "Descarga Desenfocar Fondo de Foto, elige Motion y ajusta Radius y Angle. Gratis y en tu iPhone.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "efecto-bokeh-iphone.html",
+      "keyword": "efecto bokeh en iPhone",
+      "cluster": "effects",
+      "card_title": "Efecto bokeh en iPhone",
+      "card_excerpt": "Fondo suave como con un objetivo luminoso, en fotos hechas sin Modo Retrato.",
+      "card_image": "/img/appstore/es/06-ghost.webp",
+      "card_image_alt": "Aire suave y desenfocado en una foto",
+      "meta_title": "Efecto bokeh en iPhone en una foto ya hecha, gratis",
+      "meta_description": "Cómo conseguir el efecto bokeh en iPhone: qué es, cuándo basta el Modo Retrato y cómo lograr un fondo suave en una foto normal después de hacerla. Gratis.",
+      "h1": "Efecto bokeh en iPhone: cómo conseguir un fondo suave",
+      "answer": "La forma más fácil de lograr el efecto bokeh en iPhone es abrir la foto en Desenfocar Fondo de Foto, dejar la pestaña Background, elegir el estilo suave Gaussian y subir Radius: el fondo se convierte en manchas de color y la persona queda nítida. Para un aire más soñador, prueba Ghosting en la pestaña Full Photo.",
+      "intro": "Bokeh es el aspecto de la zona desenfocada: manchas suaves de luz y color detrás del sujeto. Los fotógrafos lo consiguen con objetivos luminosos y el iPhone lo imita con el Modo Retrato. Si la foto ya está hecha sin retrato, puedes conseguir un fondo suave parecido después.",
+      "image": "/img/appstore/es/06-ghost.webp",
+      "image_alt": "Estilo Ghosting en toda la foto: aire suave y difuminado",
+      "native": {
+        "heading": "Bokeh con el Modo Retrato",
+        "paragraphs": [
+          "En Modo Retrato el iPhone desenfoca el fondo y añade las manchas típicas de las fuentes de luz. En Fotos → Editar puedes cambiar la intensidad con el control de apertura. Los límites son los de siempre: solo al disparar, a cierta distancia del sujeto y con mapa de profundidad."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Bokeh frente a desenfoque simple",
+          "paragraphs": [
+            "El bokeh óptico real depende del objetivo: forma de las manchas, remolinos, halos en las farolas. Un desenfoque por software no lo replica del todo, pero sí consigue lo principal: separar al sujeto de un fondo suave. En redes sociales la diferencia apenas se nota.",
+            "El aspecto más «bokeh» sale en fotos con luces en el fondo: guirnaldas, luces de la ciudad, sol entre las hojas."
+          ]
+        },
+        {
+          "heading": "Qué estilo elegir",
+          "paragraphs": [
+            "Gaussian en Background: fondo clásico de retrato. Ghosting en Full Photo: toda la imagen se vuelve suave y etérea, como en la captura «Vibes suaves con bokeh». Box: un desenfoque algo más gráfico."
+          ]
+        }
+      ],
+      "steps_title": "Cómo hacer un fondo bokeh en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Abre la foto",
+          "description": "Mejor una con luces o un fondo con color."
+        },
+        {
+          "number": "2",
+          "title": "Background + Gaussian",
+          "description": "El sujeto se detecta solo y el fondo se suaviza."
+        },
+        {
+          "number": "3",
+          "title": "Ajusta Radius",
+          "description": "Súbelo hasta que los detalles del fondo sean manchas de color."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Guarda la copia y compárala con la original."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "Las fotos de noche con luces dan el desenfoque más parecido al bokeh.",
+        "Si el fondo es liso, el bokeh apenas se nota: prueba Ghosting en toda la foto.",
+        "No desenfoques demasiado un selfie hecho con el brazo extendido: parece artificial."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Puedo hacer bokeh en una foto antigua?",
+          "answer": "Sí, la app funciona con cualquier foto de la fototeca, sin datos de profundidad."
+        },
+        {
+          "question": "¿Necesito un iPhone con cámara de retrato?",
+          "answer": "No, sirve cualquier iPhone con iOS 18.6 o posterior."
+        },
+        {
+          "question": "¿Es gratis?",
+          "answer": "Se descarga gratis y el desenfoque de fondo básico está incluido; los estilos avanzados son opcionales."
+        }
+      ],
+      "related": [
+        "desenfoque-gaussiano-iphone.html",
+        "desenfocar-fondo-de-foto.html",
+        "motion-blur-foto.html",
+        "como-desenfocar-fondo-foto-iphone.html"
+      ],
+      "cta_title": "Fondo suave sin Modo Retrato",
+      "cta_body": "Descarga Desenfocar Fondo de Foto, elige Gaussian y sube Radius. Gratis, en iPhone con iOS 18.6.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "desenfoque-gaussiano-iphone.html",
+      "keyword": "desenfoque gaussiano",
+      "cluster": "effects",
+      "card_title": "Desenfoque gaussiano en iPhone",
+      "card_excerpt": "El desenfoque más natural: qué es y cómo aplicarlo al fondo o a toda la foto.",
+      "card_image": "/img/appstore/es/04-box.webp",
+      "card_image_alt": "Fondo suavizado detrás de una chica",
+      "meta_title": "Desenfoque gaussiano en iPhone: fondo o foto completa",
+      "meta_description": "Desenfoque gaussiano en iPhone: qué es este filtro, en qué se diferencia del bokeh y de Box, y cómo aplicarlo al fondo, a caras o a toda la foto. Gratis.",
+      "h1": "Desenfoque gaussiano en iPhone",
+      "answer": "El desenfoque gaussiano es un difuminado suave y uniforme, parecido a un objetivo fuera de foco. En iPhone puedes aplicarlo con Desenfocar Fondo de Foto: elige qué desenfocar (Background, Faces, Manual o Full Photo), el estilo Gaussian y la intensidad con Radius, y pulsa Save.",
+      "intro": "El «desenfoque gaussiano» suena a Photoshop o Lightroom: es la forma más neutra de suavizar una imagen, sin rayas, cuadros ni halos. El editor estándar del móvil no tiene este filtro, pero puedes aplicarlo, y no solo a toda la imagen, sino solo al fondo.",
+      "image": "/img/appstore/es/04-box.webp",
+      "image_alt": "Fondo desenfocado en iPhone con el sujeto nítido",
+      "native": {
+        "heading": "¿Fotos tiene desenfoque gaussiano?",
+        "paragraphs": [
+          "No. Fotos tiene filtros de color y un ajuste de nitidez, pero no de desenfoque. El Modo Retrato desenfoca el fondo de forma parecida, pero solo al disparar y con mapa de profundidad."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "En qué se diferencia de otros estilos",
+          "paragraphs": [
+            "Gaussian suaviza de forma progresiva y los bordes se disuelven con suavidad: por eso parece «de cámara». Box es más uniforme y algo más duro. Motion estira la imagen en una dirección. Pixelate, Hexagonal y Crystallize ya no son desenfoque, sino mosaico.",
+            "Para un fondo de retrato y fondos de pantalla suaves, elige Gaussian. Para privacidad, Pixelate: con poca intensidad un gaussiano puede dejar reconocibles una cara o un texto."
+          ]
+        },
+        {
+          "heading": "Intensidad",
+          "paragraphs": [
+            "Radius fija el radio del desenfoque. Valores bajos eliminan el ruido y los detalles pequeños, medios dan un fondo de retrato y altos convierten el fondo en manchas de color."
+          ]
+        }
+      ],
+      "steps_title": "Cómo aplicar el gaussiano en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Abre la foto",
+          "description": "Elige la imagen en la app."
+        },
+        {
+          "number": "2",
+          "title": "Modo",
+          "description": "Background para el fondo, Full Photo para toda la foto, Manual para una zona."
+        },
+        {
+          "number": "3",
+          "title": "Gaussian y Radius",
+          "description": "Elige el estilo y ajusta la intensidad."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Guarda el resultado en tu fototeca."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "Para la foto de perfil basta un Radius bajo: el fondo se reconoce pero no distrae.",
+        "Un gaussiano fuerte en Full Photo es la forma más rápida de crear un fondo para texto en stories.",
+        "Para ocultar datos no uses Gaussian: mejor Pixelate."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Qué es el desenfoque gaussiano en pocas palabras?",
+          "answer": "Un difuminado en el que cada píxel se mezcla con sus vecinos: la imagen se suaviza sin transiciones bruscas, como fuera de foco."
+        },
+        {
+          "question": "¿Puedo aplicar el gaussiano solo al fondo?",
+          "answer": "Sí, en la pestaña Background el sujeto queda nítido."
+        },
+        {
+          "question": "¿Necesito ordenador?",
+          "answer": "No, se hace todo en el iPhone."
+        }
+      ],
+      "related": [
+        "efecto-bokeh-iphone.html",
+        "motion-blur-foto.html",
+        "fondo-borroso-en-fotos.html",
+        "efecto-blur-fotos.html"
+      ],
+      "cta_title": "Gaussiano en dos toques",
+      "cta_body": "Descarga Desenfocar Fondo de Foto, elige Gaussian y ajusta Radius. Gratis y sin subir fotos.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "como-poner-borrosa-una-foto.html",
+      "keyword": "cómo poner borrosa una foto",
+      "cluster": "photo",
+      "card_title": "Cómo poner borrosa una foto",
+      "card_excerpt": "Desenfocar la imagen entera para fondos de pantalla, stories o una versión abstracta. En iPhone y online.",
+      "card_image": "/img/appstore/es/06-ghost.webp",
+      "card_image_alt": "Foto entera desenfocada con el efecto Ghosting",
+      "meta_title": "Cómo poner borrosa una foto en iPhone: la imagen entera",
+      "meta_description": "Cómo poner borrosa una foto entera: para fondos de pantalla, stories o abstracto. Estilos Gaussian, Motion y Ghosting en iPhone, y una opción online gratis.",
+      "h1": "Cómo poner borrosa una foto entera",
+      "answer": "Para poner borrosa una foto entera, ábrela en Desenfocar Fondo de Foto, elige la pestaña Full Photo (foto completa) y un estilo —Gaussian para suavidad, Motion para dinamismo o Ghosting para un aire etéreo— y sube Radius hasta donde quieras. Pulsa Save. Si no quieres instalar nada, el editor online de esta web también desenfoca la foto completa.",
+      "intro": "A veces no buscas un fondo desenfocado detrás de alguien, sino una imagen completamente borrosa: un fondo de pantalla de bloqueo, un fondo para poner texto en stories, una portada abstracta o un «adelanto» antes de publicar. Es el desenfoque más sencillo y el único que no necesita detectar al sujeto.",
+      "image": "/img/appstore/es/06-ghost.webp",
+      "image_alt": "Pestaña Full Photo y estilo Ghosting, Radius 79",
+      "native": {
+        "heading": "¿Se puede poner borrosa una foto en Fotos?",
+        "paragraphs": [
+          "No: entre los filtros y ajustes de Fotos no hay desenfoque. La pantalla de bloqueo de iOS puede difuminar el fondo bajo los widgets, pero es un efecto del sistema, no una imagen nueva que puedas enviar."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Qué estilo para cada uso",
+          "paragraphs": [
+            "Gaussian: suavidad uniforme, el mejor fondo para texto. Motion: sensación de velocidad, ideal para portadas deportivas. Ghosting: efecto «fantasma» duplicado, como en la captura «Vibes suaves con bokeh» (Radius 79). Pixelate y Crystallize: mosaico abstracto."
+          ]
+        },
+        {
+          "heading": "Opción online",
+          "paragraphs": [
+            "En esta web hay un editor online gratis: sube la foto, elige Gaussian, Pixel o Motion y descarga un PNG. Solo desenfoca la imagen completa; el desenfoque selectivo del fondo o de las caras lo hace la app."
+          ]
+        }
+      ],
+      "steps_title": "Cómo desenfocar la foto entera en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Abre la foto",
+          "description": "Elige la imagen en Desenfocar Fondo de Foto."
+        },
+        {
+          "number": "2",
+          "title": "Pestaña Full Photo",
+          "description": "El desenfoque se aplica a toda la imagen."
+        },
+        {
+          "number": "3",
+          "title": "Estilo y Radius",
+          "description": "Gaussian, Motion o Ghosting, con la intensidad que necesites."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "La copia borrosa se guarda en tu fototeca."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "Para fondos de texto elige fotos con colores vivos: tras el desenfoque quedan manchas de color bonitas.",
+        "Para fondo de pantalla guarda una versión con Gaussian fuerte: la hora y los iconos se leen mejor.",
+        "Adelanto de un post: publica primero la versión muy borrosa y después la original."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Cómo pongo borrosa una foto online?",
+          "answer": "Con el editor online gratis de esta web: sube la foto, elige estilo e intensidad y descarga el PNG. Desenfoca solo la imagen completa."
+        },
+        {
+          "question": "¿En qué se diferencia Full Photo de Background?",
+          "answer": "Full Photo desenfoca toda la imagen; Background solo el fondo, con el sujeto nítido."
+        },
+        {
+          "question": "¿Baja la resolución?",
+          "answer": "No, se guarda una copia con el tamaño original."
+        }
+      ],
+      "related": [
+        "efecto-blur-fotos.html",
+        "desenfoque-gaussiano-iphone.html",
+        "motion-blur-foto.html",
+        "efecto-bokeh-iphone.html"
+      ],
+      "cta_title": "Foto borrosa en segundos",
+      "cta_body": "Descarga Desenfocar Fondo de Foto, elige Full Photo y un estilo. Gratis y sin subir fotos.",
+      "cta_text": "Descargar en el App Store"
+    },
+    {
+      "slug": "efecto-blur-fotos.html",
+      "keyword": "efecto blur en fotos",
+      "cluster": "photo",
+      "card_title": "Efecto blur en fotos",
+      "card_excerpt": "Qué es el efecto blur, sus estilos y cuál usar en el fondo, en caras o en toda la foto.",
+      "card_image": "/img/appstore/es/02-motion.webp",
+      "card_image_alt": "Efecto blur aplicado a una foto en iPhone",
+      "meta_title": "Efecto blur en fotos con iPhone: estilos y cómo usarlo",
+      "meta_description": "Qué es el efecto blur en fotos y cómo aplicarlo en iPhone: fondo, caras, una zona o toda la imagen, con estilos Gaussian, Motion, Ghosting o Pixelate. Gratis.",
+      "h1": "Efecto blur en fotos: qué es y cómo aplicarlo en iPhone",
+      "answer": "El efecto blur es el desenfoque de toda o parte de una foto. En iPhone puedes aplicarlo con Desenfocar Fondo de Foto: elige dónde (Background para el fondo, Faces para las caras, Manual para una zona, Full Photo para toda la imagen), elige un estilo como Gaussian, Motion o Ghosting, ajusta Radius y pulsa Save.",
+      "intro": "«Blur» es la palabra inglesa para desenfoque, y en España muchos la buscan tal cual: «efecto blur», «blur photo», «blur face». Detrás suele haber una de cuatro necesidades: que el fondo quede suave detrás de una persona, ocultar caras, tapar un trozo con texto o una matrícula, o difuminar la foto entera. El editor del iPhone no hace ninguna de ellas con una foto normal.",
+      "image": "/img/appstore/es/02-motion.webp",
+      "image_alt": "Estilo Motion: efecto blur en el fondo",
+      "native": {
+        "heading": "Lo que trae el iPhone de serie",
+        "paragraphs": [
+          "Blur de fondo: solo con el Modo Retrato al disparar. Pincel de desenfoque en Fotos: no existe. Marcación: rotulador y formas para tapar, no para desenfocar. Limpiar (Apple Intelligence): borra objetos y puede pixelar una cara, solo en iPhone 15 Pro y posteriores."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Los estilos de blur",
+          "paragraphs": [
+            "Gaussian: desenfoque suave y natural. Motion: barrido de movimiento con dirección ajustable. Ghosting: efecto «fantasma» etéreo. Box: desenfoque uniforme. Pixelate, Hexagonal y Crystallize: mosaicos, útiles para privacidad o como efecto gráfico."
+          ]
+        },
+        {
+          "heading": "Dónde aplicarlo",
+          "paragraphs": [
+            "Background mantiene nítido al sujeto y aplica el blur al fondo. Faces lo aplica a todas las caras. Manual, a la zona que pintes con el dedo. Full Photo, a la imagen entera. Funciona con fotos de la cámara, capturas e imágenes de WhatsApp o Telegram guardadas en la fototeca."
+          ]
+        }
+      ],
+      "steps_title": "Cómo aplicar el efecto blur en la app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Abre la foto o la captura",
+          "description": "Elige la imagen en Desenfocar Fondo de Foto."
+        },
+        {
+          "number": "2",
+          "title": "Elige el modo",
+          "description": "Background, Faces, Manual o Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Estilo y Radius",
+          "description": "Escoge el tipo de blur y su intensidad."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "La copia con el efecto se guarda en tu fototeca."
+        }
+      ],
+      "tips_title": "Consejos",
+      "tips": [
+        "Para estética: Gaussian o Ghosting; para privacidad: Pixelate.",
+        "Combina modos: primero Background para el fondo y después Manual para un detalle que sobre.",
+        "Guarda versiones con distinta intensidad y elige la mejor en la fototeca."
+      ],
+      "faq_title": "Preguntas frecuentes",
+      "faq": [
+        {
+          "question": "¿Cómo pongo efecto blur sin apps?",
+          "answer": "Con una foto normal no se puede en Fotos. Puedes tapar con formas en Marcación o desenfocar la foto entera con el editor online de esta web."
+        },
+        {
+          "question": "¿Puedo aplicar blur a una captura?",
+          "answer": "Sí, las capturas se abren en la app como cualquier foto."
+        },
+        {
+          "question": "¿Es gratis?",
+          "answer": "Se descarga gratis y el desenfoque básico está incluido; los estilos avanzados son opcionales mediante compras dentro de la app."
+        }
+      ],
+      "related": [
+        "como-poner-borrosa-una-foto.html",
+        "como-desenfocar-fondo-foto-iphone.html",
+        "como-desenfocar-parte-foto-iphone.html",
+        "motion-blur-foto.html"
+      ],
+      "cta_title": "Efecto blur en un minuto",
+      "cta_body": "Descarga Desenfocar Fondo de Foto y aplica blur al fondo, a las caras o a toda la foto. Gratis, en iPhone con iOS 18.6.",
+      "cta_text": "Descargar en el App Store"
+    }
+  ]
+}

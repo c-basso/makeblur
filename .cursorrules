@@ -17,7 +17,7 @@
 - `build/guide-template.html` - Template for guide pages
 - `keywords.md` / `app.md` - keyword research and App Store source of truth
 - `build/guides/ru/*.json` (+ `hub.json`) - Russian guide pages, merged into `build/guides-ru.json` and built to `/ru/<slug>`; any `build/guides/<lang>/hub.json` enables guides for that locale
-- `keywords-ru.md` / `app-ru.md` - Russian keyword research and RU App Store source of truth (RU screenshots in `img/appstore/ru/`)
+- `keywords-ru.md` / `app-ru.md`, `keywords-es.md` / `app-es.md` - per-locale keyword research and App Store source of truth (localized screenshots in `img/appstore/<lang>/`; guides in `build/guides/<lang>/`)
 - `ui` object in `build/<lang>.json` - localized template strings (aria labels, guide meta, CTA notes); English defaults live in `build/build.js`
 - `build/*.json` - Translation files for multiple languages (en, ru, es, fr, de, it, pt, jp, ko, nl, pl, ro, th, tr, uk, vi, cn)
 - `index.html` - Generated file for English (do not edit directly)

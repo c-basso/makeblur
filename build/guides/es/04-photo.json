@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "como-poner-borrosa-una-foto.html",
+    "keyword": "cómo poner borrosa una foto",
+    "cluster": "photo",
+    "card_title": "Cómo poner borrosa una foto",
+    "card_excerpt": "Desenfocar la imagen entera para fondos de pantalla, stories o una versión abstracta. En iPhone y online.",
+    "card_image": "/img/appstore/es/06-ghost.webp",
+    "card_image_alt": "Foto entera desenfocada con el efecto Ghosting",
+    "meta_title": "Cómo poner borrosa una foto en iPhone: la imagen entera",
+    "meta_description": "Cómo poner borrosa una foto entera: para fondos de pantalla, stories o abstracto. Estilos Gaussian, Motion y Ghosting en iPhone, y una opción online gratis.",
+    "h1": "Cómo poner borrosa una foto entera",
+    "answer": "Para poner borrosa una foto entera, ábrela en Desenfocar Fondo de Foto, elige la pestaña Full Photo (foto completa) y un estilo —Gaussian para suavidad, Motion para dinamismo o Ghosting para un aire etéreo— y sube Radius hasta donde quieras. Pulsa Save. Si no quieres instalar nada, el editor online de esta web también desenfoca la foto completa.",
+    "intro": "A veces no buscas un fondo desenfocado detrás de alguien, sino una imagen completamente borrosa: un fondo de pantalla de bloqueo, un fondo para poner texto en stories, una portada abstracta o un «adelanto» antes de publicar. Es el desenfoque más sencillo y el único que no necesita detectar al sujeto.",
+    "image": "/img/appstore/es/06-ghost.webp",
+    "image_alt": "Pestaña Full Photo y estilo Ghosting, Radius 79",
+    "native": {
+      "heading": "¿Se puede poner borrosa una foto en Fotos?",
+      "paragraphs": [
+        "No: entre los filtros y ajustes de Fotos no hay desenfoque. La pantalla de bloqueo de iOS puede difuminar el fondo bajo los widgets, pero es un efecto del sistema, no una imagen nueva que puedas enviar."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Qué estilo para cada uso",
+        "paragraphs": [
+          "Gaussian: suavidad uniforme, el mejor fondo para texto. Motion: sensación de velocidad, ideal para portadas deportivas. Ghosting: efecto «fantasma» duplicado, como en la captura «Vibes suaves con bokeh» (Radius 79). Pixelate y Crystallize: mosaico abstracto."
+        ]
+      },
+      {
+        "heading": "Opción online",
+        "paragraphs": [
+          "En esta web hay un editor online gratis: sube la foto, elige Gaussian, Pixel o Motion y descarga un PNG. Solo desenfoca la imagen completa; el desenfoque selectivo del fondo o de las caras lo hace la app."
+        ]
+      }
+    ],
+    "steps_title": "Cómo desenfocar la foto entera en la app",
+    "steps": [
+      {
+        "title": "Abre la foto",
+        "description": "Elige la imagen en Desenfocar Fondo de Foto."
+      },
+      {
+        "title": "Pestaña Full Photo",
+        "description": "El desenfoque se aplica a toda la imagen."
+      },
+      {
+        "title": "Estilo y Radius",
+        "description": "Gaussian, Motion o Ghosting, con la intensidad que necesites."
+      },
+      {
+        "title": "Save",
+        "description": "La copia borrosa se guarda en tu fototeca."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "Para fondos de texto elige fotos con colores vivos: tras el desenfoque quedan manchas de color bonitas.",
+      "Para fondo de pantalla guarda una versión con Gaussian fuerte: la hora y los iconos se leen mejor.",
+      "Adelanto de un post: publica primero la versión muy borrosa y después la original."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Cómo pongo borrosa una foto online?",
+        "answer": "Con el editor online gratis de esta web: sube la foto, elige estilo e intensidad y descarga el PNG. Desenfoca solo la imagen completa."
+      },
+      {
+        "question": "¿En qué se diferencia Full Photo de Background?",
+        "answer": "Full Photo desenfoca toda la imagen; Background solo el fondo, con el sujeto nítido."
+      },
+      {
+        "question": "¿Baja la resolución?",
+        "answer": "No, se guarda una copia con el tamaño original."
+      }
+    ],
+    "related": [
+      "efecto-blur-fotos.html",
+      "desenfoque-gaussiano-iphone.html",
+      "motion-blur-foto.html",
+      "efecto-bokeh-iphone.html"
+    ],
+    "cta_title": "Foto borrosa en segundos",
+    "cta_body": "Descarga Desenfocar Fondo de Foto, elige Full Photo y un estilo. Gratis y sin subir fotos.",
+    "cta_text": "Descargar en el App Store"
+  },
+  {
+    "slug": "efecto-blur-fotos.html",
+    "keyword": "efecto blur en fotos",
+    "cluster": "photo",
+    "card_title": "Efecto blur en fotos",
+    "card_excerpt": "Qué es el efecto blur, sus estilos y cuál usar en el fondo, en caras o en toda la foto.",
+    "card_image": "/img/appstore/es/02-motion.webp",
+    "card_image_alt": "Efecto blur aplicado a una foto en iPhone",
+    "meta_title": "Efecto blur en fotos con iPhone: estilos y cómo usarlo",
+    "meta_description": "Qué es el efecto blur en fotos y cómo aplicarlo en iPhone: fondo, caras, una zona o toda la imagen, con estilos Gaussian, Motion, Ghosting o Pixelate. Gratis.",
+    "h1": "Efecto blur en fotos: qué es y cómo aplicarlo en iPhone",
+    "answer": "El efecto blur es el desenfoque de toda o parte de una foto. En iPhone puedes aplicarlo con Desenfocar Fondo de Foto: elige dónde (Background para el fondo, Faces para las caras, Manual para una zona, Full Photo para toda la imagen), elige un estilo como Gaussian, Motion o Ghosting, ajusta Radius y pulsa Save.",
+    "intro": "«Blur» es la palabra inglesa para desenfoque, y en España muchos la buscan tal cual: «efecto blur», «blur photo», «blur face». Detrás suele haber una de cuatro necesidades: que el fondo quede suave detrás de una persona, ocultar caras, tapar un trozo con texto o una matrícula, o difuminar la foto entera. El editor del iPhone no hace ninguna de ellas con una foto normal.",
+    "image": "/img/appstore/es/02-motion.webp",
+    "image_alt": "Estilo Motion: efecto blur en el fondo",
+    "native": {
+      "heading": "Lo que trae el iPhone de serie",
+      "paragraphs": [
+        "Blur de fondo: solo con el Modo Retrato al disparar. Pincel de desenfoque en Fotos: no existe. Marcación: rotulador y formas para tapar, no para desenfocar. Limpiar (Apple Intelligence): borra objetos y puede pixelar una cara, solo en iPhone 15 Pro y posteriores."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Los estilos de blur",
+        "paragraphs": [
+          "Gaussian: desenfoque suave y natural. Motion: barrido de movimiento con dirección ajustable. Ghosting: efecto «fantasma» etéreo. Box: desenfoque uniforme. Pixelate, Hexagonal y Crystallize: mosaicos, útiles para privacidad o como efecto gráfico."
+        ]
+      },
+      {
+        "heading": "Dónde aplicarlo",
+        "paragraphs": [
+          "Background mantiene nítido al sujeto y aplica el blur al fondo. Faces lo aplica a todas las caras. Manual, a la zona que pintes con el dedo. Full Photo, a la imagen entera. Funciona con fotos de la cámara, capturas e imágenes de WhatsApp o Telegram guardadas en la fototeca."
+        ]
+      }
+    ],
+    "steps_title": "Cómo aplicar el efecto blur en la app",
+    "steps": [
+      {
+        "title": "Abre la foto o la captura",
+        "description": "Elige la imagen en Desenfocar Fondo de Foto."
+      },
+      {
+        "title": "Elige el modo",
+        "description": "Background, Faces, Manual o Full Photo."
+      },
+      {
+        "title": "Estilo y Radius",
+        "description": "Escoge el tipo de blur y su intensidad."
+      },
+      {
+        "title": "Save",
+        "description": "La copia con el efecto se guarda en tu fototeca."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "Para estética: Gaussian o Ghosting; para privacidad: Pixelate.",
+      "Combina modos: primero Background para el fondo y después Manual para un detalle que sobre.",
+      "Guarda versiones con distinta intensidad y elige la mejor en la fototeca."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Cómo pongo efecto blur sin apps?",
+        "answer": "Con una foto normal no se puede en Fotos. Puedes tapar con formas en Marcación o desenfocar la foto entera con el editor online de esta web."
+      },
+      {
+        "question": "¿Puedo aplicar blur a una captura?",
+        "answer": "Sí, las capturas se abren en la app como cualquier foto."
+      },
+      {
+        "question": "¿Es gratis?",
+        "answer": "Se descarga gratis y el desenfoque básico está incluido; los estilos avanzados son opcionales mediante compras dentro de la app."
+      }
+    ],
+    "related": [
+      "como-poner-borrosa-una-foto.html",
+      "como-desenfocar-fondo-foto-iphone.html",
+      "como-desenfocar-parte-foto-iphone.html",
+      "motion-blur-foto.html"
+    ],
+    "cta_title": "Efecto blur en un minuto",
+    "cta_body": "Descarga Desenfocar Fondo de Foto y aplica blur al fondo, a las caras o a toda la foto. Gratis, en iPhone con iOS 18.6.",
+    "cta_text": "Descargar en el App Store"
+  }
+]

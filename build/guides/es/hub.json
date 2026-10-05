@@ -1,0 +1,30 @@
+{
+  "nav_text": "Guías",
+  "title": "Guías paso a paso",
+  "intro": "Desenfoca un fondo, oculta un rostro, tapa una matrícula o un texto, o suaviza una foto entera: cada guía muestra los toques exactos en el iPhone.",
+  "learn_more_text": "Más información",
+  "related_title": "Guías relacionadas",
+  "answer_label": "Respuesta corta",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "Desenfocar el fondo",
+      "blurb": "Sujeto nítido, fondo suave, en fotos que ya hiciste."
+    },
+    {
+      "id": "privacy",
+      "title": "Ocultar rostros, matrículas y texto",
+      "blurb": "Desenfoque de privacidad antes de compartir."
+    },
+    {
+      "id": "effects",
+      "title": "Efectos de desenfoque",
+      "blurb": "Movimiento, bokeh y gaussiano."
+    },
+    {
+      "id": "photo",
+      "title": "Desenfocar cualquier foto",
+      "blurb": "Foto completa y el efecto blur explicado."
+    }
+  ]
+}

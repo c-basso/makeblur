@@ -1,0 +1,441 @@
+[
+  {
+    "slug": "gesicht-unkenntlich-machen-foto.html",
+    "keyword": "Gesicht unkenntlich machen",
+    "cluster": "privacy",
+    "card_title": "Gesicht auf Foto unkenntlich machen",
+    "card_excerpt": "Gesichter vor dem Posten verbergen: automatisch, auf jedem iPhone, ohne Apple Intelligence.",
+    "card_image": "/img/appstore/de/03-face.webp",
+    "card_image_alt": "Tab Faces macht alle erkannten Gesichter unscharf",
+    "meta_title": "Gesicht auf Foto unkenntlich machen am iPhone (automatisch)",
+    "meta_description": "Gesicht auf einem Foto unkenntlich machen am iPhone: Die App erkennt alle Gesichter, Sie wählen die Stärke und sichern. Jedes iPhone, ohne Apple Intelligence.",
+    "h1": "Gesicht auf einem Foto unkenntlich machen am iPhone",
+    "answer": "Um ein Gesicht auf einem Foto unkenntlich zu machen, öffnen Sie es in MakeBlur und wechseln zum Tab Faces (Gesichter): Die App erkennt alle Gesichter und macht jedes unscharf. Wählen Sie einen Stil – Pixelate für klares Verpixeln oder Gaussian für weichere Unschärfe –, erhöhen Sie Radius, bis die Gesichtszüge nicht mehr erkennbar sind, und tippen Sie auf Save. Das klappt auf jedem iPhone mit iOS 18.6, ohne Apple Intelligence.",
+    "intro": "Gesichter unkenntlich machen gehört zum guten Ton, bevor man ein Gruppenfoto, ein Bild vom Schulfest oder eine Straßenszene postet – nicht jeder hat zugestimmt, im Netz zu erscheinen, und in Deutschland gilt das Recht am eigenen Bild. iOS bietet inzwischen eine eingebaute Möglichkeit, aber nur auf manchen iPhones. Hier die Grenzen und der Weg für jedes Modell.",
+    "image": "/img/appstore/de/03-face.webp",
+    "image_alt": "Raster erkannter Gesichter, jedes unscharf, im Tab Faces",
+    "native": {
+      "heading": "Was die Fotos-App bietet",
+      "paragraphs": [
+        "Auf iPhone 15 Pro, iPhone 16 und neuer mit aktivierter Apple Intelligence lässt sich in Fotos → Bearbeiten → „Bereinigen“ ein Gesicht umkreisen; die Funktion Identitätsschutz verpixelt es dann. Das geht Gesicht für Gesicht und fehlt auf älteren iPhones. Ohne Apple Intelligence bleibt nur „Markieren“: Das Gesicht wird mit einer Form oder einem Sticker abgedeckt – versteckt, aber nicht unscharf."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Automatische Gesichtsunschärfe auf jedem iPhone",
+        "paragraphs": [
+          "MakeBlur hat einen eigenen Tab Faces. Er erkennt die Gesichter im Bild und zeigt sie bereits unscharf in einem Raster – ein Gruppenfoto mit zwölf Personen ist also ein Tipp statt zwölf Pinselstriche. Den Stil wählen Sie: Pixelate für das klassische Mosaik, Gaussian oder Box für einen weicheren Look; die Stärke regelt Radius.",
+          "Alles läuft auf dem iPhone, ohne Internet – wichtig, wenn es genau um Datenschutz geht."
+        ]
+      },
+      {
+        "heading": "Manche Gesichter unscharf, andere nicht",
+        "paragraphs": [
+          "Soll Ihr eigenes Gesicht sichtbar bleiben und die anderen nicht, nehmen Sie den Tab Manual: nur die Gesichter übermalen, die verborgen werden sollen. Stil und Radius gelten für den übermalten Bereich."
+        ]
+      },
+      {
+        "heading": "Wie stark unscharf",
+        "paragraphs": [
+          "Bei leichter Unschärfe erkennen Bekannte die Person noch. Für echte Anonymität Pixelate oder Gaussian mit so hohem Radius wählen, dass Augen, Nase und Mund auch bei maximalem Zoom nicht mehr zu unterscheiden sind. Im App-Store-Screenshot stehen Gesichter auf Radius 80 – ein guter Startwert."
+        ]
+      }
+    ],
+    "steps_title": "Gesichter in der App unkenntlich machen",
+    "steps": [
+      {
+        "title": "Foto öffnen",
+        "description": "Gruppenfoto, Straßenszene oder Screenshot – jedes Bild aus der Mediathek."
+      },
+      {
+        "title": "Tab Faces",
+        "description": "Die Gesichter werden automatisch erkannt und erscheinen unscharf im Raster."
+      },
+      {
+        "title": "Stil und Radius",
+        "description": "Pixelate für deutlichen Datenschutz, Gaussian für weichere Unschärfe. Radius erhöhen, bis die Züge nicht mehr erkennbar sind."
+      },
+      {
+        "title": "Save",
+        "description": "Die gesicherte Kopie posten, nicht das Original."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Jedes Gesicht vor dem Sichern heranzoomen: Was auf dem kleinen Display stark wirkt, kann noch erkennbar sein.",
+      "Erst unscharf machen, dann für den Messenger komprimieren – die Erkennung braucht das volle Bild.",
+      "Bei Schul- oder Sportfotos auch Trikots, Startnummern oder Schilder unkenntlich machen, die den Ort verraten."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Wie mache ich ein Gesicht ohne Apple Intelligence unkenntlich?",
+        "answer": "Mit MakeBlur: Der Tab Faces erkennt und verpixelt Gesichter auf jedem iPhone mit iOS 18.6 oder neuer."
+      },
+      {
+        "question": "Kann ich mehrere Gesichter auf einmal unkenntlich machen?",
+        "answer": "Ja. Alle erkannten Gesichter werden zusammen mit demselben Stil und derselben Stärke unscharf."
+      },
+      {
+        "question": "Lässt sich die Unschärfe auf einem geposteten Foto rückgängig machen?",
+        "answer": "Starkes Verpixeln oder ein hoher Radius entfernen die Details aus der gesicherten Kopie. Posten Sie nicht das Original und wählen Sie eine Stärke, bei der die Züge beim Zoomen nicht mehr erkennbar sind."
+      },
+      {
+        "question": "Werden Fotos zur Gesichtserkennung an einen Server geschickt?",
+        "answer": "Nein, alles passiert auf dem Gerät."
+      }
+    ],
+    "related": [
+      "teil-foto-unscharf-machen-iphone.html",
+      "bild-verpixeln-iphone.html",
+      "text-screenshot-schwaerzen-iphone.html",
+      "kennzeichen-unkenntlich-machen-foto.html"
+    ],
+    "cta_title": "Teilen Sie das Foto, nicht die Gesichter",
+    "cta_body": "„Hintergrund unscharf machen“ laden, Faces öffnen, Radius einstellen, sichern. Kostenlos, auf dem Gerät, auf jedem iPhone mit iOS 18.6.",
+    "cta_text": "Laden im App Store"
+  },
+  {
+    "slug": "teil-foto-unscharf-machen-iphone.html",
+    "keyword": "Teil eines Fotos unscharf machen iPhone",
+    "cluster": "privacy",
+    "card_title": "Teil eines Fotos unscharf machen",
+    "card_excerpt": "Fotos hat keinen Unschärfe-Pinsel. So malen Sie einen Bereich mit dem Finger an und machen nur ihn unscharf.",
+    "card_image": "/img/appstore/de/05-crystalize.webp",
+    "card_image_alt": "Unschärfe auf einem bestimmten Bereich des Fotos am iPhone",
+    "meta_title": "Teil eines Fotos unscharf machen am iPhone – mit dem Finger",
+    "meta_description": "Teil eines Fotos am iPhone unscharf machen: Fotos bietet nur Formen in Markieren. In der App den Bereich mit dem Finger übermalen, Stärke wählen, sichern.",
+    "h1": "Teil eines Fotos am iPhone unscharf machen",
+    "answer": "Um einen Teil eines Fotos am iPhone unscharf zu machen, öffnen Sie es in MakeBlur, wechseln zum Tab Manual (Pinsel) und fahren mit dem Finger über den Bereich, der verschwinden soll. Wählen Sie einen Stil – Pixelate, Gaussian oder Box –, stellen Sie die Stärke mit Radius ein und tippen Sie auf Save. Nur der übermalte Bereich wird unscharf, der Rest bleibt scharf.",
+    "intro": "Hausnummer, Gesicht eines Passanten, Adresse auf einem Umschlag, ein fremdes Kind im Hintergrund: Oft soll weder das ganze Foto noch der ganze Hintergrund unscharf werden, sondern nur ein bestimmter Bereich. Der iPhone-Editor kann das nicht, und die meisten Tipps im Netz empfehlen ein Rechteck darüber. Es geht sauberer.",
+    "image": "/img/appstore/de/05-crystalize.webp",
+    "image_alt": "Bereich des Fotos mit dem Stil Crystallize unscharf gemacht",
+    "native": {
+      "heading": "Was Fotos bietet",
+      "paragraphs": [
+        "Fotos hat keinen Unschärfe-Pinsel. Mit „Markieren“ können Sie eine Form darüberlegen oder mit dem Stift übermalen – ein deckender Flicken, keine Unschärfe, und er fällt auf. „Bereinigen“ (Apple Intelligence) entfernt Objekte und gibt es nur ab iPhone 15 Pro."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Ein manueller Unschärfe-Pinsel",
+        "paragraphs": [
+          "Der Tab Manual in MakeBlur ist ein Pinsel: Finger darüberziehen, darunter erscheint die Unschärfe des gewählten Stils. Mehrere Bereiche nacheinander sind möglich – Text in der Ecke, ein Gesicht in der Menge, ein Kennzeichen.",
+          "Der Stil bestimmt den Look: Pixelate und Box für klaren Datenschutz, Gaussian für eine weiche, fast unsichtbare Unschärfe, Crystallize und Hexagonal für ein dekoratives Mosaik."
+        ]
+      },
+      {
+        "heading": "Wann andere Modi besser passen",
+        "paragraphs": [
+          "Sollen alle Gesichter weg, ist Faces schneller. Soll alles rund um eine Person unscharf werden, nehmen Sie Background. Manual ist ideal, wenn der Bereich frei gewählt ist und die Automatik ihn nicht erraten kann."
+        ]
+      }
+    ],
+    "steps_title": "Einen Teil in der App unscharf machen",
+    "steps": [
+      {
+        "title": "Foto öffnen",
+        "description": "Foto oder Screenshot in der App wählen."
+      },
+      {
+        "title": "Tab Manual",
+        "description": "Mit dem Finger über den Bereich fahren, der unscharf werden soll."
+      },
+      {
+        "title": "Stil und Stärke",
+        "description": "Pixelate für Datenschutz oder Gaussian für einen weichen Effekt; Radius regelt die Stärke."
+      },
+      {
+        "title": "Save",
+        "description": "Kopie sichern und vergrößert prüfen."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Mit zwei Fingern heranzoomen, um kleine Details sauber zu übermalen.",
+      "Etwas über das Objekt hinaus malen – so verrät die Kante nicht, was darunter ist.",
+      "Für Texte und Kennzeichen Pixelate mit hohem Radius nehmen: Ein leichtes Gaussian lässt Buchstaben manchmal lesbar."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Kann man mit den iPhone-Werkzeugen einen Teil eines Fotos unscharf machen?",
+        "answer": "Nein. Fotos hat keinen Unschärfe-Pinsel, nur Formen und Stift in „Markieren“."
+      },
+      {
+        "question": "Kann ich mehrere Bereiche unscharf machen?",
+        "answer": "Ja, in Manual beliebig viele Bereiche übermalen – sie werden im selben Stil unscharf."
+      },
+      {
+        "question": "Geht das mit Screenshots?",
+        "answer": "Ja, Manual funktioniert mit allen Bildern der Mediathek, auch mit Screenshots."
+      }
+    ],
+    "related": [
+      "text-screenshot-schwaerzen-iphone.html",
+      "kennzeichen-unkenntlich-machen-foto.html",
+      "gesicht-unkenntlich-machen-foto.html",
+      "bild-verpixeln-iphone.html"
+    ],
+    "cta_title": "Genau das unscharf machen, was nötig ist",
+    "cta_body": "„Hintergrund unscharf machen“ laden, Manual öffnen und den Bereich mit dem Finger übermalen. Kostenlos, ohne Upload.",
+    "cta_text": "Laden im App Store"
+  },
+  {
+    "slug": "kennzeichen-unkenntlich-machen-foto.html",
+    "keyword": "Kennzeichen unkenntlich machen",
+    "cluster": "privacy",
+    "card_title": "Kennzeichen auf Foto unkenntlich machen",
+    "card_excerpt": "Für mobile.de, Kleinanzeigen oder AutoScout24: Das Kennzeichen ist unlesbar, die Anzeige bleibt sauber.",
+    "card_image": "/img/appstore/de/05-crystalize.webp",
+    "card_image_alt": "Kennzeichen durch Verpixeln unkenntlich gemacht",
+    "meta_title": "Kennzeichen auf Foto unkenntlich machen am iPhone (gratis)",
+    "meta_description": "Kennzeichen auf einem Foto unkenntlich machen für mobile.de, Kleinanzeigen oder AutoScout24: übermalen, verpixeln, sichern. Am iPhone, kostenlos, offline.",
+    "h1": "Kennzeichen auf einem Foto unkenntlich machen am iPhone",
+    "answer": "Um ein Kennzeichen auf einem Foto unkenntlich zu machen, öffnen Sie das Bild in MakeBlur, wählen den Tab Manual, fahren mit dem Finger über das Kennzeichen, wählen den Stil Pixelate oder Box und erhöhen Radius, bis kein Zeichen mehr lesbar ist. Tippen Sie auf Save und laden Sie diese Kopie in die Anzeige hoch.",
+    "intro": "Wer sein Auto auf mobile.de, Kleinanzeigen oder AutoScout24 verkauft – oder es einfach auf Instagram zeigt –, macht das Kennzeichen oft unkenntlich: Das senkt das Risiko, dass jemand die Daten für Kennzeichen-Missbrauch oder Betrug nutzt. Ob das rechtlich nötig ist, wird unterschiedlich gesehen; viele machen es einfach sicherheitshalber. Die Anzeige soll trotzdem gepflegt aussehen – ein schwarzer Balken auf der Stoßstange wirkt billig. Sauberes Verpixeln löst beides.",
+    "image": "/img/appstore/de/05-crystalize.webp",
+    "image_alt": "Verpixeln eines Bildbereichs in der App",
+    "native": {
+      "heading": "Was mit Fotos geht",
+      "paragraphs": [
+        "In „Markieren“ können Sie das Kennzeichen mit einer Form abdecken oder mit dem Stift übermalen. Es ist dann versteckt, aber der Flicken wirkt grob, und der halbtransparente Stift lässt Zeichen manchmal durchscheinen. Einen Bereich unscharf machen oder verpixeln kann der eingebaute Editor nicht."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Verpixeln oder weichzeichnen?",
+        "paragraphs": [
+          "Für Kennzeichen am sichersten: Pixelate oder Box mit hohem Radius – große Blöcke löschen die Zeichen. Leichtes Gaussian kann das Kennzeichen erratbar lassen, besonders bei hochauflösenden Fotos.",
+          "Crystallize verbirgt es ebenfalls, wirkt aber dekorativ; für eine Anzeige ist neutrales Verpixeln besser."
+        ]
+      },
+      {
+        "heading": "Wenn es viele Fotos sind",
+        "paragraphs": [
+          "Eine Anzeige hat oft 10 bis 20 Fotos, das Kennzeichen ist auf drei oder vier zu sehen. Nacheinander bearbeiten: öffnen, Manual, übermalen, Save – je eine halbe Minute. Auch Spiegelungen prüfen: Das Kennzeichen ist manchmal in einem Schaufenster oder durch die Scheibe auf einem Innenraumfoto zu sehen."
+        ]
+      }
+    ],
+    "steps_title": "Kennzeichen in der App unkenntlich machen",
+    "steps": [
+      {
+        "title": "Foto des Autos öffnen",
+        "description": "Ein Foto wählen, auf dem das Kennzeichen zu sehen ist."
+      },
+      {
+        "title": "Tab Manual",
+        "description": "Heranzoomen und das Kennzeichen mit etwas Rand übermalen."
+      },
+      {
+        "title": "Pixelate und Radius",
+        "description": "Stärke erhöhen, bis beim Zoomen kein Zeichen mehr lesbar ist."
+      },
+      {
+        "title": "Save",
+        "description": "Die gesicherte Kopie in die Anzeige hochladen."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Das ganze Schild abdecken, nicht nur die Zeichen – das Euro-Feld und die Plakette verraten schon einiges.",
+      "Front- und Heckfotos prüfen: An beiden Stoßstangen ist ein Kennzeichen.",
+      "Sind Fahrgestellnummer oder Fahrzeugschein im Bild, genauso unkenntlich machen."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Muss ich das Kennzeichen in einer Verkaufsanzeige unkenntlich machen?",
+        "answer": "Pflicht ist es nicht eindeutig, aber viele Verkäufer machen es, damit niemand die Fahrzeugdaten nutzt. Das entscheiden Sie. Dies ist keine Rechtsberatung."
+      },
+      {
+        "question": "Lässt sich ein verpixeltes Kennzeichen wiederherstellen?",
+        "answer": "Bei großen Blöcken nicht: Die Details werden aus der gesicherten Kopie entfernt. Posten Sie nicht das Original."
+      },
+      {
+        "question": "Werden die Fotos irgendwohin hochgeladen?",
+        "answer": "Nein, alles läuft auf dem iPhone, ohne Internet."
+      }
+    ],
+    "related": [
+      "teil-foto-unscharf-machen-iphone.html",
+      "bild-verpixeln-iphone.html",
+      "text-screenshot-schwaerzen-iphone.html",
+      "gesicht-unkenntlich-machen-foto.html"
+    ],
+    "cta_title": "Kennzeichen weg, Anzeige sauber",
+    "cta_body": "„Hintergrund unscharf machen“ laden, Kennzeichen in Manual übermalen und sichern. Kostenlos, direkt auf dem iPhone.",
+    "cta_text": "Laden im App Store"
+  },
+  {
+    "slug": "text-screenshot-schwaerzen-iphone.html",
+    "keyword": "Text auf Screenshot schwärzen",
+    "cluster": "privacy",
+    "card_title": "Text auf Screenshot schwärzen",
+    "card_excerpt": "Chats, Adressen, Bestellungen oder Nummern: so unkenntlich machen, dass nichts mehr lesbar ist.",
+    "card_image": "/img/appstore/de/05-crystalize.webp",
+    "card_image_alt": "Text auf einem Screenshot durch Verpixeln geschwärzt",
+    "meta_title": "Text auf Screenshot schwärzen am iPhone – wirklich sicher",
+    "meta_description": "Text auf einem Screenshot am iPhone schwärzen, sodass er nicht mehr lesbar ist: Pinsel, Verpixeln und Prüfung per Zoom. Kostenlos und offline auf dem Gerät.",
+    "h1": "Text auf einem Screenshot am iPhone schwärzen",
+    "answer": "Um Text auf einem Screenshot zu schwärzen, öffnen Sie ihn in MakeBlur, wählen den Tab Manual und übermalen mit dem Finger die Zeilen, die weg sollen. Stil Pixelate wählen, Radius erhöhen, bis die Buchstaben beim Zoomen nicht mehr erkennbar sind, und Save tippen. Teilen Sie die gesicherte Kopie.",
+    "intro": "Ein Screenshot von Chat, Bestellung, Sendungsnummer oder Ticket enthält fast immer etwas zu viel: einen Namen, eine Nummer, eine Adresse, einen Betrag. Der Markierstift des iPhone verbirgt Text schlecht: Seine halbtransparenten Striche lassen Buchstaben manchmal durchscheinen, wenn man Helligkeit oder Kontrast erhöht. So machen Sie Text dauerhaft unlesbar.",
+    "image": "/img/appstore/de/05-crystalize.webp",
+    "image_alt": "Verpixeln eines Bildbereichs am iPhone",
+    "native": {
+      "heading": "Warum der Markierstift nicht reicht",
+      "paragraphs": [
+        "Nach einem Screenshot können Sie auf die Vorschau tippen und den Text mit dem Stift übermalen. Problem: Der Markierstift ist halbtransparent, bei mehr Belichtung oder Kontrast werden Buchstaben manchmal wieder sichtbar. Eine deckende Form ist sicherer, aber grob. Unschärfe oder Verpixeln eines Bereichs bietet iOS nicht."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Text sicher unkenntlich machen",
+        "paragraphs": [
+          "Verpixeln mit großen Blöcken ersetzt Buchstaben durch einfarbige Quadrate – die Information verschwindet aus der gesicherten Kopie. Im Tab Manual von MakeBlur die Zeilen übermalen, Pixelate wählen und Radius erhöhen. Bei kleinem Text muss der Block größer sein als die Buchstabenhöhe.",
+          "Gaussian sieht schön aus, ist bei Text aber riskant: Bei geringer Stärke lassen sich Wörter an ihrer Form erkennen."
+        ]
+      },
+      {
+        "heading": "Was man besser schwärzt",
+        "paragraphs": [
+          "Telefon-, Karten- und Kontonummern (IBAN), Adressen, vollständige Namen, Bestell- und Sendungsnummern, Profilbilder, QR- und Barcodes von Tickets. Bei Chat-Screenshots Namen und Bild des Gegenübers, wenn es nicht zugestimmt hat."
+        ]
+      }
+    ],
+    "steps_title": "Text in der App schwärzen",
+    "steps": [
+      {
+        "title": "Screenshot öffnen",
+        "description": "In der App aus der Mediathek auswählen."
+      },
+      {
+        "title": "Tab Manual",
+        "description": "Heranzoomen und die Textzeilen inklusive Rand übermalen."
+      },
+      {
+        "title": "Pixelate und Radius",
+        "description": "Stärke erhöhen, bis die Buchstaben zu Blöcken werden."
+      },
+      {
+        "title": "Save und prüfen",
+        "description": "Gesicherte Kopie öffnen, zoomen und sicherstellen, dass nichts lesbar ist."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Die ganze Zeile schwärzen: An der Wortlänge lässt sich manchmal ein Name oder Betrag erraten.",
+      "Den Original-Screenshot nicht „zur Sicherheit“ an sich selbst schicken – er bleibt in der Cloud des Messengers.",
+      "QR- und Barcodes komplett abdecken: Auch teilweise sichtbare Codes können noch lesbar sein."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Kann man mit dem iPhone-Stift übermalten Text lesen?",
+        "answer": "Manchmal ja: Der Markierstift in „Markieren“ ist halbtransparent. Verpixeln mit großen Blöcken ist sicherer."
+      },
+      {
+        "question": "Geht das auch bei Fotos von Dokumenten?",
+        "answer": "Ja, Manual funktioniert mit allen Bildern: Ausweis, Kassenbon, Vertrag."
+      },
+      {
+        "question": "Brauche ich Internet?",
+        "answer": "Nein, alles läuft auf dem Gerät, der Screenshot wird nirgendwohin gesendet."
+      }
+    ],
+    "related": [
+      "teil-foto-unscharf-machen-iphone.html",
+      "bild-verpixeln-iphone.html",
+      "kennzeichen-unkenntlich-machen-foto.html",
+      "gesicht-unkenntlich-machen-foto.html"
+    ],
+    "cta_title": "Screenshots ohne zu viele Daten",
+    "cta_body": "„Hintergrund unscharf machen“ laden, Text in Manual übermalen und eine Kopie sichern. Kostenlos, auf dem Gerät.",
+    "cta_text": "Laden im App Store"
+  },
+  {
+    "slug": "bild-verpixeln-iphone.html",
+    "keyword": "Bild verpixeln iPhone",
+    "cluster": "privacy",
+    "card_title": "Bild verpixeln am iPhone",
+    "card_excerpt": "Mosaik für den Datenschutz oder als Retro-Effekt: auf Gesicht, Hintergrund oder ganzem Foto.",
+    "card_image": "/img/appstore/de/05-crystalize.webp",
+    "card_image_alt": "Mosaik-Effekt im Hintergrund eines Fotos",
+    "meta_title": "Bild verpixeln am iPhone: Mosaik kostenlos und offline",
+    "meta_description": "Bild am iPhone verpixeln: Mosaik auf Hintergrund, Gesichtern, einem Bereich oder dem ganzen Foto. Stile Pixelate, Hexagonal und Crystallize. Kostenlos, offline.",
+    "h1": "Bild verpixeln am iPhone",
+    "answer": "Um ein Bild am iPhone zu verpixeln, öffnen Sie es in MakeBlur, wählen, was bearbeitet wird – Hintergrund (Background), Gesichter (Faces), ein Bereich per Pinsel (Manual) oder das ganze Bild (Full Photo) –, und dann den Stil Pixelate. Die Blockgröße regelt Radius. Save tippen – die verpixelte Kopie landet in der Mediathek.",
+    "intro": "Verpixeln heißt, einen Bildbereich in ein Mosaik aus Farbquadraten zu verwandeln. Das dient dem Datenschutz (Gesichter, Kennzeichen, Text) und als Effekt: Retro, Videospiel-Look, abstrakter Hintergrund. Einen Verpixeln-Filter hat das iPhone nicht, aber es sind nur zwei Tipps.",
+    "image": "/img/appstore/de/05-crystalize.webp",
+    "image_alt": "Hintergrund des Fotos in ein Mosaik verwandelt",
+    "native": {
+      "heading": "Kann Fotos verpixeln?",
+      "paragraphs": [
+        "Als Filter nicht. In „Markieren“ lässt sich nur zeichnen und mit Formen abdecken. „Bereinigen“ mit Identitätsschutz (Apple Intelligence) verpixelt ein von Hand markiertes Gesicht, aber nur auf iPhone 15 Pro und neuer."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Drei Arten von Mosaik",
+        "paragraphs": [
+          "Pixelate: quadratische Blöcke, die klassische Zensur. Hexagonal: sechseckige Waben, weicher und dekorativer. Crystallize: unregelmäßige Kristalle, wie im App-Store-Screenshot „Pixel-Privacy mit einem Tipp“. Für Datenschutz Pixelate, als Effekt nach Geschmack."
+        ]
+      },
+      {
+        "heading": "Wo anwenden",
+        "paragraphs": [
+          "Background: Motiv bleibt scharf, Hintergrund wird zum Mosaik – stark für Posts. Faces: alle Gesichter verpixelt. Manual: ein bestimmter Bereich wie Kennzeichen, Text oder Schild. Full Photo: das ganze Bild, etwa als Cover oder abstrakter Hintergrund."
+        ]
+      }
+    ],
+    "steps_title": "In der App verpixeln",
+    "steps": [
+      {
+        "title": "Foto öffnen",
+        "description": "Bild in MakeBlur auswählen."
+      },
+      {
+        "title": "Modus wählen",
+        "description": "Background, Faces, Manual oder Full Photo – je nachdem, was verschwinden soll."
+      },
+      {
+        "title": "Stil Pixelate",
+        "description": "Radius ändert die Blockgröße."
+      },
+      {
+        "title": "Save",
+        "description": "Die verpixelte Kopie wird in der Mediathek gesichert."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Für Datenschutz muss ein Block größer sein als ein Auge oder ein Buchstabe – sonst lässt sich das Detail erraten.",
+      "Als Effekt: Hexagonal im Hintergrund probieren – Person scharf, Hintergrund als Wabenmuster.",
+      "Ein Mosaik übers ganze Foto ergibt ein perfektes unscharfes Story-Cover."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Wie verpixele ich ein Gesicht?",
+        "answer": "Tab Faces + Stil Pixelate: Alle erkannten Gesichter werden zum Mosaik."
+      },
+      {
+        "question": "Kann man ein verpixeltes Bild wiederherstellen?",
+        "answer": "Nicht, wenn die Blöcke größer als die Details sind: Die Information wird aus der gesicherten Kopie entfernt."
+      },
+      {
+        "question": "Landen die Fotos in der Cloud?",
+        "answer": "Nein. Alles wird auf dem iPhone verarbeitet, ohne Internet."
+      }
+    ],
+    "related": [
+      "gesicht-unkenntlich-machen-foto.html",
+      "text-screenshot-schwaerzen-iphone.html",
+      "kennzeichen-unkenntlich-machen-foto.html",
+      "teil-foto-unscharf-machen-iphone.html"
+    ],
+    "cta_title": "Mosaik mit einem Tipp",
+    "cta_body": "„Hintergrund unscharf machen“ laden, Pixelate wählen und die Blockgröße einstellen. Kostenlos, ohne Upload.",
+    "cta_text": "Laden im App Store"
+  }
+]

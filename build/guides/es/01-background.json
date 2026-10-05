@@ -1,0 +1,358 @@
+[
+  {
+    "slug": "como-desenfocar-fondo-foto-iphone.html",
+    "keyword": "cómo desenfocar el fondo de una foto en iPhone",
+    "cluster": "background",
+    "card_title": "Cómo desenfocar el fondo de una foto en iPhone",
+    "card_excerpt": "El Modo Retrato solo sirve al disparar. Así desenfocas el fondo de una foto que ya está en tu fototeca.",
+    "card_image": "/img/appstore/es/04-box.webp",
+    "card_image_alt": "Pestaña Background: chica nítida y fondo desenfocado",
+    "meta_title": "Cómo desenfocar el fondo de una foto en iPhone (ya hecha)",
+    "meta_description": "Cómo desenfocar el fondo de una foto en iPhone después de hacerla: la app detecta al sujeto, eliges la intensidad y guardas. Sin Modo Retrato, gratis.",
+    "h1": "Cómo desenfocar el fondo de una foto en iPhone después de hacerla",
+    "answer": "Para desenfocar el fondo de una foto en iPhone después de hacerla, ábrela en la app Desenfocar Fondo de Foto, deja la pestaña Background (fondo) para que detecte al sujeto, elige el estilo Gaussian, sube el deslizador Radius hasta que el fondo esté tan suave como quieras y pulsa Save. Funciona con cualquier foto de tu fototeca, no solo con las de Modo Retrato, y todo se procesa en el iPhone.",
+    "intro": "Casi todas las respuestas a «cómo desenfocar el fondo en iPhone» te mandan al Modo Retrato. Es buen consejo si aún no has hecho la foto. Pero si ya la hiciste en modo normal, te la mandaron por WhatsApp o es una captura, el Modo Retrato no sirve de nada. Veamos qué hace el iPhone por sí solo, dónde se queda corto y cómo desenfocar el fondo en medio minuto.",
+    "image": "/img/appstore/es/04-box.webp",
+    "image_alt": "Pestaña Background en la app: la chica nítida y la pared de ladrillo y las flores detrás, desenfocadas",
+    "native": {
+      "heading": "Lo que hace el iPhone por sí solo",
+      "paragraphs": [
+        "El Modo Retrato guarda un mapa de profundidad al hacer la foto. Después, en Fotos → Editar, puedes aumentar o reducir el desenfoque con el control de apertura. Pero solo en fotos hechas en Modo Retrato con una cámara compatible: una foto normal, un selfie sin retrato, una captura o una imagen de WhatsApp no tienen mapa de profundidad y ese control no aparece.",
+        "En los iPhone más recientes algunas fotos normales se pueden convertir en retrato si la cámara guardó datos de profundidad al disparar. No funciona con todas las fotos ni en todos los modelos, y no puedes elegir el sujeto."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Cómo desenfocar el fondo sin Modo Retrato",
+        "paragraphs": [
+          "Necesitas un editor que separe al sujeto del fondo a partir de la imagen ya hecha. En Desenfocar Fondo de Foto lo hace la pestaña Background: detecta a la persona o el objeto principal, lo mantiene nítido y difumina todo lo demás. No necesita datos de profundidad de la cámara: trabaja sobre los píxeles de la foto, así que sirve cualquier imagen.",
+          "La intensidad la controla el deslizador Radius y el tipo de desenfoque, el estilo: Gaussian da un fondo suave de objetivo, Box uno algo más uniforme y Motion un barrido de movimiento. Todo se procesa en el iPhone, sin internet."
+        ]
+      },
+      {
+        "heading": "Cuánto desenfoque aplicar",
+        "paragraphs": [
+          "Para una foto de perfil o de currículum basta un desenfoque ligero: el fondo se reconoce, pero no distrae. Para stories y publicaciones puedes subirlo: el fondo se convierte en manchas de color y la persona «sale» de la imagen. Empieza con valores medios de Radius y amplía la foto en el pelo: si aparece un halo, baja la intensidad."
+        ]
+      }
+    ],
+    "steps_title": "Cómo desenfocar el fondo en la app",
+    "steps": [
+      {
+        "title": "Abre la foto",
+        "description": "Abre Desenfocar Fondo de Foto y elige la imagen de tu fototeca: normal, selfie o captura."
+      },
+      {
+        "title": "Deja la pestaña Background",
+        "description": "La app detecta al sujeto y marca el fondo que se va a desenfocar."
+      },
+      {
+        "title": "Elige estilo y Radius",
+        "description": "Gaussian para el look clásico de retrato. Mueve Radius hasta la suavidad que buscas."
+      },
+      {
+        "title": "Pulsa Save",
+        "description": "La copia desenfocada se guarda en Fotos; la original no se toca."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "La máscara sale mejor cuando el sujeto se separa claramente del fondo: una persona delante de una pared, una taza sobre la mesa.",
+      "Amplía el pelo y los dedos antes de guardar: con un Radius muy alto puede aparecer un halo.",
+      "Desenfoca primero y recorta después: la app tiene más píxeles para hacer una máscara precisa."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Se puede desenfocar el fondo en iPhone sin Modo Retrato?",
+        "answer": "Sí. Fotos no lo hace sin datos de profundidad, pero Desenfocar Fondo de Foto separa al sujeto a partir de la propia imagen y desenfoca el fondo de cualquier foto."
+      },
+      {
+        "question": "¿Cómo desenfoco el fondo de una foto antigua?",
+        "answer": "Igual: ábrela en la app, pestaña Background, ajusta Radius y guarda. La fecha de la foto y el modelo de cámara no importan."
+      },
+      {
+        "question": "¿Pierde calidad la foto?",
+        "answer": "El sujeto se mantiene en su resolución original; solo se difumina el fondo. Se guarda una copia nueva y la original no cambia."
+      },
+      {
+        "question": "¿Necesito internet?",
+        "answer": "No. Todo se procesa en el iPhone y las fotos no se suben a servidores."
+      }
+    ],
+    "related": [
+      "fondo-borroso-en-fotos.html",
+      "desenfocar-fondo-de-foto.html",
+      "app-desenfocar-fondo-iphone.html",
+      "desenfoque-gaussiano-iphone.html"
+    ],
+    "cta_title": "Desenfoca el fondo de una foto que ya hiciste",
+    "cta_body": "Descarga Desenfocar Fondo de Foto, abre la imagen, ajusta Radius y guarda. Gratis, en tu dispositivo, en cualquier iPhone con iOS 18.6 o posterior.",
+    "cta_text": "Descargar en el App Store"
+  },
+  {
+    "slug": "desenfocar-fondo-de-foto.html",
+    "keyword": "desenfocar fondo de foto",
+    "cluster": "background",
+    "card_title": "Desenfocar fondo de foto",
+    "card_excerpt": "Sujeto nítido, fondo suave: en tres toques y en cualquier foto que ya tengas en el iPhone.",
+    "card_image": "/img/appstore/es/04-box.webp",
+    "card_image_alt": "Fondo difuminado detrás de una chica enfocada",
+    "meta_title": "Desenfocar fondo de foto en iPhone: gratis y en 3 toques",
+    "meta_description": "Desenfocar o difuminar el fondo de una foto en iPhone: la app separa a la persona del fondo, eliges estilo e intensidad. Para perfil, posts y stories. Gratis.",
+    "h1": "Desenfocar el fondo de una foto en iPhone",
+    "answer": "Para desenfocar el fondo de una foto, ábrela en Desenfocar Fondo de Foto: la pestaña Background encuentra sola a la persona o el objeto, eliges un estilo (Gaussian, Box o Motion), ajustas la intensidad con Radius y pulsas Save. Tardas menos de un minuto y la foto no sale de tu iPhone.",
+    "intro": "Un fondo desenfocado es la forma más rápida de que una foto parezca más cuidada: la persona destaca y los detalles de detrás dejan de distraer. En una cámara lo consigue un objetivo luminoso; en el móvil, el Modo Retrato. Si la foto ya está hecha sin él, puedes desenfocar o difuminar el fondo después y que quede como si lo hubieras planeado.",
+    "image": "/img/appstore/es/04-box.webp",
+    "image_alt": "Ejemplo de fondo desenfocado: chica enfocada delante de una pared y flores difuminadas",
+    "native": {
+      "heading": "Por qué no se puede en Fotos",
+      "paragraphs": [
+        "El editor integrado solo cambia la profundidad de las fotos de Modo Retrato. Para el resto no hay pincel ni filtro de desenfoque: Marcación permite tapar una zona con una forma, pero eso no difumina el fondo."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "¿Desenfocar o difuminar el fondo?",
+        "paragraphs": [
+          "Es lo mismo: «desenfocar» se usa más en España y «difuminar» en muchos países de Latinoamérica, y los dos describen el efecto de sujeto nítido y fondo suave. En la app los dos se hacen con la pestaña Background."
+        ]
+      },
+      {
+        "heading": "Para qué se desenfoca el fondo",
+        "paragraphs": [
+          "Foto de perfil para WhatsApp o Instagram, foto para el currículum o LinkedIn, perfil de una app de citas, la foto de un producto para Wallapop, un post: en cualquier imagen con un protagonista. El fondo desenfocado elimina lo que sobra: gente detrás, carteles, desorden.",
+          "Para fotos de perfil basta un desenfoque suave; para stories puedes subirlo hasta que el fondo sean manchas de color."
+        ]
+      },
+      {
+        "heading": "Qué estilo elegir",
+        "paragraphs": [
+          "Gaussian es un desenfoque progresivo, como un objetivo desenfocado, y sirve casi siempre. Box es más uniforme y gráfico. Motion es un barrido de movimiento para fotos de deporte o de calle. Pixelate y Crystallize convierten el fondo en mosaico, un recurso más creativo."
+        ]
+      }
+    ],
+    "steps_title": "Cómo desenfocar el fondo en la app",
+    "steps": [
+      {
+        "title": "Elige la foto",
+        "description": "Abre la app y selecciona la imagen de tu fototeca."
+      },
+      {
+        "title": "Comprueba la pestaña Background",
+        "description": "El sujeto se detecta solo; solo se desenfoca el fondo."
+      },
+      {
+        "title": "Estilo y Radius",
+        "description": "Elige Gaussian u otro estilo y ajusta la intensidad con Radius."
+      },
+      {
+        "title": "Save",
+        "description": "La copia lista aparece en Fotos para publicarla."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "En la foto de perfil usa un desenfoque suave: en un círculo pequeño, uno fuerte parece artificial.",
+      "Si el fondo y la ropa son del mismo color, amplía y revisa el borde antes de guardar.",
+      "Guarda una versión para el post y otra para stories: cada formato pide una intensidad distinta."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Es gratis?",
+        "answer": "La app se descarga gratis y el desenfoque de fondo básico está incluido. Los estilos avanzados son opcionales, mediante compras dentro de la app."
+      },
+      {
+        "question": "¿Puedo desenfocar el fondo de una foto con varias personas?",
+        "answer": "Sí. Background mantiene nítidos los sujetos detectados y difumina el resto. Si quieres dejar solo a una persona, pinta la zona con la pestaña Manual."
+      },
+      {
+        "question": "¿Se suben las fotos a algún sitio?",
+        "answer": "No. Todo se procesa en el iPhone, sin internet."
+      }
+    ],
+    "related": [
+      "como-desenfocar-fondo-foto-iphone.html",
+      "fondo-borroso-en-fotos.html",
+      "efecto-bokeh-iphone.html",
+      "app-desenfocar-fondo-iphone.html"
+    ],
+    "cta_title": "Fondo desenfocado en un minuto",
+    "cta_body": "Descarga Desenfocar Fondo de Foto, abre la imagen, elige estilo e intensidad y guarda. Gratis, en iPhone con iOS 18.6 o posterior.",
+    "cta_text": "Descargar en el App Store"
+  },
+  {
+    "slug": "fondo-borroso-en-fotos.html",
+    "keyword": "fondo borroso en fotos",
+    "cluster": "background",
+    "card_title": "Fondo borroso en fotos",
+    "card_excerpt": "Para empezar: qué es un fondo borroso, qué intensidad elegir y cómo hacerlo en una foto ya hecha.",
+    "card_image": "/img/appstore/es/02-motion.webp",
+    "card_image_alt": "Fondo borroso detrás de una chica en iPhone",
+    "meta_title": "Fondo borroso en fotos con iPhone: guía fácil para empezar",
+    "meta_description": "Cómo poner el fondo borroso en tus fotos con iPhone: qué es, qué intensidad elegir y cómo hacerlo en una foto ya hecha. App gratis y sin subir fotos.",
+    "h1": "Fondo borroso en fotos con iPhone: explicado fácil",
+    "answer": "Un fondo borroso es cuando la persona de la foto está nítida y todo lo de detrás se ve suave. En iPhone puedes conseguirlo en una foto ya hecha: ábrela en la app Desenfocar Fondo de Foto (en México, «Fondo Borroso en Fotos»), deja la pestaña Background, ajusta la intensidad con Radius y pulsa Save. No necesitas Modo Retrato ni saber de fotografía.",
+    "intro": "«Quiero el fondo borroso como en las fotos profesionales» es una de las peticiones más comunes, y detrás hay algo sencillo: el fondo borroso separa a la persona de su entorno y hace la imagen más limpia. Aquí verás cómo se ve con distintas intensidades y cómo hacerlo en el iPhone sin conocimientos técnicos.",
+    "image": "/img/appstore/es/04-box.webp",
+    "image_alt": "Chica enfocada con el fondo borroso en iPhone",
+    "native": {
+      "heading": "Cómo lo hace la cámara del iPhone",
+      "paragraphs": [
+        "En Modo Retrato la cámara guarda un mapa de profundidad y pone el fondo borroso al momento. Después puedes cambiar la intensidad en Fotos → Editar. Si la foto se hizo en modo normal, ese ajuste no existe y el fondo seguirá nítido hasta que la edites con otra app."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Cómo se ve cada intensidad",
+        "paragraphs": [
+          "Suave: el fondo se reconoce (una cafetería, un parque), pero ya no compite con la persona. Ideal para foto de perfil o currículum.",
+          "Media: el fondo se convierte en formas y colores. Es la opción más «de retrato» para publicaciones.",
+          "Fuerte: del fondo quedan manchas de color. Va bien en stories o cuando el fondo es feo."
+        ]
+      },
+      {
+        "heading": "Si el borde sale irregular",
+        "paragraphs": [
+          "Suele pasar con el pelo suelto o cuando el fondo es del mismo color que la ropa. Baja un poco Radius: con menos intensidad el borde se nota menos. Si hace falta, con la pestaña Manual puedes pintar a mano la zona que debe quedar borrosa."
+        ]
+      }
+    ],
+    "steps_title": "Cómo poner el fondo borroso en la app",
+    "steps": [
+      {
+        "title": "Abre la foto",
+        "description": "Elige la imagen en Desenfocar Fondo de Foto."
+      },
+      {
+        "title": "Pestaña Background",
+        "description": "La app encuentra a la persona y marca el fondo."
+      },
+      {
+        "title": "Ajusta la intensidad",
+        "description": "Mueve Radius de suave a fuerte y para cuando el fondo deje de distraer."
+      },
+      {
+        "title": "Guarda",
+        "description": "Pulsa Save: la copia con fondo borroso aparece en tu fototeca."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "Empieza con intensidad media: es fácil subirla, y un desenfoque excesivo parece falso.",
+      "En fotos de grupo comprueba que todas las personas siguen nítidas.",
+      "No desenfoques el fondo cuando es importante, por ejemplo un monumento de un viaje."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Cómo pongo el fondo borroso si la foto ya está hecha?",
+        "answer": "Ábrela en la app, pestaña Background, ajusta Radius y guarda. No hace falta repetir la foto."
+      },
+      {
+        "question": "¿Necesito un iPhone nuevo?",
+        "answer": "No. Sirve cualquier iPhone con iOS 18.6 o posterior."
+      },
+      {
+        "question": "¿Puedo recuperar el fondo nítido?",
+        "answer": "Sí: la app guarda una copia nueva y la original sigue en tu fototeca."
+      }
+    ],
+    "related": [
+      "como-desenfocar-fondo-foto-iphone.html",
+      "desenfocar-fondo-de-foto.html",
+      "desenfoque-gaussiano-iphone.html",
+      "efecto-bokeh-iphone.html"
+    ],
+    "cta_title": "Fondo borroso en un minuto",
+    "cta_body": "Descarga Desenfocar Fondo de Foto, abre la imagen, elige la intensidad y guarda. Gratis y sin subir fotos.",
+    "cta_text": "Descargar en el App Store"
+  },
+  {
+    "slug": "app-desenfocar-fondo-iphone.html",
+    "keyword": "app para desenfocar fondo en iPhone",
+    "cluster": "background",
+    "card_title": "App para desenfocar fondo en iPhone",
+    "card_excerpt": "Modo Retrato, Marcación, Limpiar, webs o una app: comparación honesta para fotos que ya hiciste.",
+    "card_image": "/img/appstore/es/04-box.webp",
+    "card_image_alt": "App para desenfocar fondo en iPhone en uso",
+    "meta_title": "App para desenfocar fondo en iPhone: ¿cuál elegir?",
+    "meta_description": "Qué app para desenfocar fondo en iPhone elegir: comparamos Modo Retrato, Marcación, Limpiar, webs online y un editor dedicado para fotos ya hechas.",
+    "h1": "App para desenfocar fondo en iPhone: qué elegir",
+    "answer": "Si la foto no se hizo en Modo Retrato, las herramientas del iPhone no desenfocan el fondo: necesitas una app que detecte al sujeto por sí sola. Desenfocar Fondo de Foto lo hace en el dispositivo, sin subir nada, y además difumina rostros, zonas concretas y la foto entera. Las webs online sirven si aceptas subir la foto a un servidor ajeno.",
+    "intro": "En el App Store hay decenas de apps con «desenfocar fondo» en el nombre y elegir a ciegas es incómodo. En lugar de un ranking de apps ajenas, aquí tienes una comparación de métodos: qué hace el iPhone por sí solo, qué ofrecen las webs y qué funciones conviene buscar en una app.",
+    "image": "/img/appstore/es/04-box.webp",
+    "image_alt": "Chica enfocada sobre fondo desenfocado: resultado de una app para iPhone",
+    "native": {
+      "heading": "Opciones integradas y sus límites",
+      "paragraphs": [
+        "Modo Retrato: el mejor resultado, pero solo al disparar y a un par de metros del sujeto. Fotos → Editar → profundidad: solo para fotos de retrato. Marcación: tapa una zona con una forma o rotulador; no es desenfoque. Limpiar (Apple Intelligence): solo en iPhone 15 Pro y posteriores, y sirve para borrar objetos, no para desenfocar el fondo."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Webs para desenfocar online",
+        "paragraphs": [
+          "Funcionan en el navegador, pero tienes que subir la foto a su servidor, a menudo con marca de agua o resolución limitada. Para fotos personales, de niños o documentos no es lo ideal. En esta web también hay un editor online, pero desenfoca solo la foto completa: el desenfoque selectivo del fondo lo hace la app."
+        ]
+      },
+      {
+        "heading": "Qué debe hacer una buena app",
+        "paragraphs": [
+          "Encontrar al sujeto en cualquier foto, no solo en retratos. Permitir regular la intensidad, no un único efecto fijo. Trabajar en el dispositivo. Difuminar rostros y zonas libres: para la privacidad se usa tanto como para un fondo bonito.",
+          "Desenfocar Fondo de Foto cumple todo eso: pestañas Background, Faces, Manual y Full Photo, siete estilos, deslizador Radius y procesamiento sin internet en iPhone con iOS 18.6 o posterior."
+        ]
+      }
+    ],
+    "steps_title": "Cómo probarla en un minuto",
+    "steps": [
+      {
+        "title": "Descarga la app",
+        "description": "Desenfocar Fondo de Foto, gratis en el App Store."
+      },
+      {
+        "title": "Abre cualquier foto",
+        "description": "Mejor una en la que el Modo Retrato no funcionó."
+      },
+      {
+        "title": "Background y Radius",
+        "description": "El sujeto se detecta solo; ajusta la intensidad con el deslizador."
+      },
+      {
+        "title": "Save",
+        "description": "Compara el resultado con la original en tu fototeca."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "Prueba la app con una foto difícil: pelo suelto y fondo de color parecido.",
+      "Fíjate en dónde se procesa la foto: en el dispositivo o en un servidor.",
+      "Valora también los modos para rostros y zonas libres: los acabarás usando."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Hay alguna app gratis para desenfocar el fondo en iPhone?",
+        "answer": "Sí, Desenfocar Fondo de Foto se descarga gratis e incluye el desenfoque de fondo básico. Los estilos avanzados son opcionales, mediante compras dentro de la app."
+      },
+      {
+        "question": "¿Se puede hacer sin app?",
+        "answer": "Solo con fotos de Modo Retrato. Para las demás, el editor integrado no ofrece desenfoque de fondo."
+      },
+      {
+        "question": "¿En qué iPhone funciona?",
+        "answer": "En cualquier iPhone con iOS 18.6 o posterior, sin Apple Intelligence ni cámara de retrato."
+      }
+    ],
+    "related": [
+      "como-desenfocar-fondo-foto-iphone.html",
+      "desenfocar-fondo-de-foto.html",
+      "como-difuminar-cara-foto.html",
+      "como-desenfocar-parte-foto-iphone.html"
+    ],
+    "cta_title": "Pruébala con tu propia foto",
+    "cta_body": "Descarga Desenfocar Fondo de Foto y desenfoca el fondo de esa foto en la que falló el Modo Retrato. Gratis y sin subir nada.",
+    "cta_text": "Descargar en el App Store"
+  }
+]

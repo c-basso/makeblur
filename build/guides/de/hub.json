@@ -1,0 +1,30 @@
+{
+  "nav_text": "Anleitungen",
+  "title": "Schritt-für-Schritt-Anleitungen",
+  "intro": "Hintergrund unscharf machen, ein Gesicht verbergen, Kennzeichen oder Text unkenntlich machen, ein ganzes Foto weichzeichnen – jede Anleitung zeigt die genauen Schritte am iPhone.",
+  "learn_more_text": "Mehr erfahren",
+  "related_title": "Ähnliche Anleitungen",
+  "answer_label": "Kurz gesagt",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "Hintergrund unscharf machen",
+      "blurb": "Scharfes Motiv, weicher Hintergrund – bei Fotos, die schon gemacht sind."
+    },
+    {
+      "id": "privacy",
+      "title": "Gesichter, Kennzeichen und Text verbergen",
+      "blurb": "Unschärfe für den Datenschutz vor dem Teilen."
+    },
+    {
+      "id": "effects",
+      "title": "Unschärfe-Effekte",
+      "blurb": "Bewegung, Bokeh und Gauß."
+    },
+    {
+      "id": "photo",
+      "title": "Jedes Foto unscharf machen",
+      "blurb": "Ganzes Bild und der Blur-Effekt erklärt."
+    }
+  ]
+}

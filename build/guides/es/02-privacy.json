@@ -1,0 +1,441 @@
+[
+  {
+    "slug": "como-difuminar-cara-foto.html",
+    "keyword": "cómo difuminar una cara en una foto",
+    "cluster": "privacy",
+    "card_title": "Cómo difuminar una cara en una foto",
+    "card_excerpt": "Oculta rostros antes de publicar: automático, en cualquier iPhone, sin Apple Intelligence.",
+    "card_image": "/img/appstore/es/03-face.webp",
+    "card_image_alt": "Pestaña Faces difuminando todos los rostros detectados",
+    "meta_title": "Cómo difuminar una cara en una foto en iPhone (auto)",
+    "meta_description": "Cómo difuminar una cara en una foto en iPhone: la app detecta todos los rostros, eliges la intensidad y guardas. Cualquier iPhone, sin Apple Intelligence.",
+    "h1": "Cómo difuminar una cara en una foto en iPhone",
+    "answer": "Para difuminar una cara en una foto, ábrela en Desenfocar Fondo de Foto y ve a la pestaña Faces (rostros): la app detecta todas las caras y difumina cada una. Elige estilo —Pixelate para una censura clara o Gaussian para algo más suave—, sube Radius hasta que los rasgos no se reconozcan y pulsa Save. Funciona en cualquier iPhone con iOS 18.6, sin Apple Intelligence.",
+    "intro": "Difuminar caras es la cortesía básica antes de publicar una foto de grupo, de la función del cole o de la calle: no todos los que salen aceptaron estar en internet. Búsquedas como «blur face» han crecido un 70 % en España en el último año. iOS tiene una opción integrada, pero solo en algunos iPhone. Te contamos sus límites y cómo hacerlo en cualquier modelo.",
+    "image": "/img/appstore/es/03-face.webp",
+    "image_alt": "Cuadrícula de rostros detectados, cada uno difuminado, en la pestaña Faces",
+    "native": {
+      "heading": "Lo que ofrece la app Fotos",
+      "paragraphs": [
+        "En iPhone 15 Pro, iPhone 16 y posteriores con Apple Intelligence activado, Fotos → Editar → Limpiar permite repasar una cara con el dedo para pixelarla. Es manual (cara por cara), la intensidad no se ajusta y no existe en iPhone anteriores. Sin Apple Intelligence, Fotos solo deja tapar una cara con una forma o un sticker en Marcación: la oculta, pero no la difumina."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Difuminado automático de caras en cualquier iPhone",
+        "paragraphs": [
+          "Desenfocar Fondo de Foto tiene una pestaña Faces específica. Detecta los rostros de la imagen y los muestra en una cuadrícula ya difuminados, así que una foto de grupo con doce personas se resuelve con un toque, no con doce trazos. Tú eliges el estilo —Pixelate para el mosaico clásico, Gaussian o Box para algo más suave— y la intensidad con Radius.",
+          "Todo se procesa en el iPhone, sin internet: importante cuando el objetivo es precisamente la privacidad."
+        ]
+      },
+      {
+        "heading": "Difuminar unas caras y dejar otras",
+        "paragraphs": [
+          "Si quieres que tu cara se vea y las demás no, usa la pestaña Manual: pinta solo las caras que quieres ocultar. Se aplican el mismo estilo y el mismo Radius a la zona pintada."
+        ]
+      },
+      {
+        "heading": "Cuánto difuminar",
+        "paragraphs": [
+          "Con poco desenfoque, quien conoce a la persona la sigue reconociendo. Para un anonimato real usa Pixelate o Gaussian con un Radius suficiente para que ojos, nariz y boca no se distingan con el zoom al máximo. En la captura del App Store los rostros usan Radius 80: buen punto de partida."
+        ]
+      }
+    ],
+    "steps_title": "Cómo difuminar caras en la app",
+    "steps": [
+      {
+        "title": "Abre la foto",
+        "description": "De grupo, de calle o una captura: cualquiera de tu fototeca."
+      },
+      {
+        "title": "Pestaña Faces",
+        "description": "Los rostros se detectan solos y aparecen en la cuadrícula ya difuminados."
+      },
+      {
+        "title": "Estilo y Radius",
+        "description": "Pixelate para una privacidad clara, Gaussian para algo más suave. Sube Radius hasta que no se reconozcan los rasgos."
+      },
+      {
+        "title": "Save",
+        "description": "Publica la copia guardada, no la original."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "Amplía cada cara antes de guardar: un difuminado que parece fuerte en pantalla pequeña puede seguir siendo reconocible.",
+      "Difumina antes de comprimir la foto para enviarla: la detección necesita la imagen completa.",
+      "En fotos del cole o de deporte, difumina también uniformes, dorsales o carteles que identifiquen el lugar."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Cómo difumino caras en iPhone sin Apple Intelligence?",
+        "answer": "Con Desenfocar Fondo de Foto: la pestaña Faces detecta y difumina rostros en cualquier iPhone con iOS 18.6 o posterior."
+      },
+      {
+        "question": "¿Puedo difuminar varias caras a la vez?",
+        "answer": "Sí. Todos los rostros detectados se difuminan juntos con el mismo estilo e intensidad."
+      },
+      {
+        "question": "¿Se puede deshacer el difuminado de una foto publicada?",
+        "answer": "Un pixelado fuerte o un Radius alto eliminan los detalles de la copia guardada. No publiques la original y usa una intensidad con la que no se distingan los rasgos al ampliar."
+      },
+      {
+        "question": "¿Se envían las fotos a un servidor para detectar caras?",
+        "answer": "No, todo ocurre en el dispositivo."
+      }
+    ],
+    "related": [
+      "como-desenfocar-parte-foto-iphone.html",
+      "como-pixelar-foto-iphone.html",
+      "como-censurar-texto-captura.html",
+      "como-tapar-matricula-foto.html"
+    ],
+    "cta_title": "Comparte la foto, no las caras",
+    "cta_body": "Descarga Desenfocar Fondo de Foto, abre Faces, ajusta Radius y guarda. Gratis, en tu dispositivo, en cualquier iPhone con iOS 18.6.",
+    "cta_text": "Descargar en el App Store"
+  },
+  {
+    "slug": "como-desenfocar-parte-foto-iphone.html",
+    "keyword": "cómo desenfocar parte de una foto en iPhone",
+    "cluster": "privacy",
+    "card_title": "Cómo desenfocar parte de una foto en iPhone",
+    "card_excerpt": "Fotos no tiene pincel de desenfoque. Así pintas una zona con el dedo y difuminas solo esa parte.",
+    "card_image": "/img/appstore/es/05-crystalize.webp",
+    "card_image_alt": "Desenfoque de una zona concreta de la foto en iPhone",
+    "meta_title": "Cómo desenfocar parte de una foto en iPhone con el dedo",
+    "meta_description": "Cómo desenfocar parte de una foto en iPhone: en Fotos solo hay formas de Marcación. Pinta la zona con el dedo en la app, elige intensidad y guarda. Gratis.",
+    "h1": "Cómo desenfocar parte de una foto en iPhone",
+    "answer": "Para desenfocar parte de una foto en iPhone, ábrela en Desenfocar Fondo de Foto, ve a la pestaña Manual (pincel) y pasa el dedo por la zona que quieres ocultar. Elige un estilo —Pixelate, Gaussian o Box—, ajusta la intensidad con Radius y pulsa Save. Solo se difumina lo que pintas; el resto queda nítido.",
+    "intro": "El número de un portal, la cara de alguien que pasaba, una dirección en un sobre, un niño ajeno al fondo: muchas veces no hay que desenfocar la foto ni el fondo entero, sino una zona concreta. El editor del iPhone no lo resuelve y casi todos los consejos en internet proponen taparla con un rectángulo. Hay una forma más limpia.",
+    "image": "/img/appstore/es/05-crystalize.webp",
+    "image_alt": "Zona de la foto difuminada con el estilo Crystallize",
+    "native": {
+      "heading": "Lo que ofrece Fotos",
+      "paragraphs": [
+        "Fotos no tiene pincel de desenfoque. Con Marcación puedes dibujar una forma encima o tapar con el rotulador, pero es un parche opaco, no un desenfoque, y llama la atención. Limpiar (Apple Intelligence) borra objetos y solo está en iPhone 15 Pro y posteriores."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Pincel de desenfoque manual",
+        "paragraphs": [
+          "La pestaña Manual de Desenfocar Fondo de Foto es un pincel: pasas el dedo y debajo aparece el desenfoque del estilo elegido. Puedes pintar varias zonas seguidas: un texto en una esquina, una cara entre la gente, una matrícula.",
+          "El estilo cambia el aspecto: Pixelate y Box para privacidad clara, Gaussian para un difuminado suave casi invisible, Crystallize y Hexagonal para un mosaico decorativo."
+        ]
+      },
+      {
+        "heading": "Cuándo usar otros modos",
+        "paragraphs": [
+          "Si hay que ocultar todas las caras, Faces es más rápido. Si quieres difuminar todo lo que rodea a una persona, usa Background. Manual es ideal cuando la zona es libre y la detección automática no puede adivinarla."
+        ]
+      }
+    ],
+    "steps_title": "Cómo desenfocar una parte en la app",
+    "steps": [
+      {
+        "title": "Abre la foto",
+        "description": "Elige la foto o la captura en la app."
+      },
+      {
+        "title": "Pestaña Manual",
+        "description": "Pasa el dedo por la zona que quieres desenfocar."
+      },
+      {
+        "title": "Estilo e intensidad",
+        "description": "Pixelate para privacidad o Gaussian para un efecto suave; Radius marca la intensidad."
+      },
+      {
+        "title": "Save",
+        "description": "Guarda la copia y revísala ampliada."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "Amplía la foto con dos dedos para pintar bien los detalles pequeños.",
+      "Pinta un poco más allá del objeto: así el borde no delata lo que hay debajo.",
+      "Para textos y matrículas usa Pixelate con Radius alto: un Gaussian suave a veces deja leer las letras."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Se puede desenfocar parte de una foto con las herramientas del iPhone?",
+        "answer": "No. Fotos no tiene pincel de desenfoque, solo formas y rotulador en Marcación."
+      },
+      {
+        "question": "¿Puedo desenfocar varias zonas?",
+        "answer": "Sí, en Manual puedes pintar todas las zonas que quieras y se difuminan con el mismo estilo."
+      },
+      {
+        "question": "¿Sirve para capturas de pantalla?",
+        "answer": "Sí, Manual funciona con cualquier imagen de tu fototeca, incluidas las capturas."
+      }
+    ],
+    "related": [
+      "como-censurar-texto-captura.html",
+      "como-tapar-matricula-foto.html",
+      "como-difuminar-cara-foto.html",
+      "como-pixelar-foto-iphone.html"
+    ],
+    "cta_title": "Desenfoca justo lo que necesitas",
+    "cta_body": "Descarga Desenfocar Fondo de Foto, abre Manual y pinta la zona con el dedo. Gratis, sin subir fotos.",
+    "cta_text": "Descargar en el App Store"
+  },
+  {
+    "slug": "como-tapar-matricula-foto.html",
+    "keyword": "cómo tapar una matrícula en una foto",
+    "cluster": "privacy",
+    "card_title": "Cómo tapar una matrícula en una foto",
+    "card_excerpt": "Para Wallapop, coches.net o Milanuncios: la matrícula no se lee y el anuncio queda limpio.",
+    "card_image": "/img/appstore/es/05-crystalize.webp",
+    "card_image_alt": "Matrícula oculta con pixelado en una foto",
+    "meta_title": "Cómo tapar la matrícula en una foto con iPhone (Wallapop)",
+    "meta_description": "Cómo tapar o pixelar la matrícula (o placa) de un coche en una foto para Wallapop o coches.net: pinta, pixela y guarda. En iPhone, gratis y sin subir nada.",
+    "h1": "Cómo tapar la matrícula de un coche en una foto con iPhone",
+    "answer": "Para tapar una matrícula en una foto, ábrela en Desenfocar Fondo de Foto, elige la pestaña Manual, pasa el dedo por la matrícula, selecciona el estilo Pixelate o Box y sube Radius hasta que no se lea ningún carácter. Pulsa Save y sube esa copia al anuncio.",
+    "intro": "Quien vende su coche en Wallapop, coches.net o Milanuncios —o en Mercado Libre, donde se habla de «placa»— suele ocultar la matrícula: así hay menos riesgo de que alguien use los datos del vehículo para clonarla o para estafas. Pero el anuncio tiene que verse cuidado: un rectángulo negro sobre el parachoques causa mala impresión. Un pixelado limpio resuelve las dos cosas.",
+    "image": "/img/appstore/es/05-crystalize.webp",
+    "image_alt": "Pixelado de una zona de la foto en la app",
+    "native": {
+      "heading": "Lo que puedes hacer en Fotos",
+      "paragraphs": [
+        "En Marcación puedes tapar la matrícula con una forma o pintarla con el rotulador. Queda oculta, pero el parche se ve tosco y el rotulador semitransparente a veces deja leer los caracteres. El editor integrado no sabe desenfocar ni pixelar una zona."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "¿Pixelar o desenfocar?",
+        "paragraphs": [
+          "Para matrículas lo más seguro es Pixelate o Box con un Radius alto: los bloques grandes eliminan los caracteres. Un Gaussian suave con poca intensidad puede dejar la matrícula adivinable, sobre todo en fotos de alta resolución.",
+          "Crystallize también la oculta, pero queda decorativo; para un anuncio es mejor un pixelado neutro."
+        ]
+      },
+      {
+        "heading": "Si son muchas fotos",
+        "paragraphs": [
+          "Un anuncio suele llevar entre 10 y 20 fotos y la matrícula aparece en tres o cuatro. Edítalas una a una: abrir, Manual, pintar, Save; medio minuto cada una. Revisa también los reflejos: a veces la matrícula se ve en un escaparate o en una foto del interior a través del cristal."
+        ]
+      }
+    ],
+    "steps_title": "Cómo tapar la matrícula en la app",
+    "steps": [
+      {
+        "title": "Abre la foto del coche",
+        "description": "Elige una foto en la que se vea la matrícula."
+      },
+      {
+        "title": "Pestaña Manual",
+        "description": "Amplía la imagen y pinta la matrícula con el dedo, con un poco de margen."
+      },
+      {
+        "title": "Pixelate y Radius",
+        "description": "Sube la intensidad hasta que ningún carácter se lea al ampliar."
+      },
+      {
+        "title": "Save",
+        "description": "Sube al anuncio la copia guardada."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "Tapa toda la placa, no solo los caracteres: por la longitud se puede deducir el formato.",
+      "Revisa las fotos delanteras y traseras: hay matrícula en los dos parachoques.",
+      "Si en alguna foto se ve el número de bastidor o la documentación, ocúltalos igual."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Hay que ocultar la matrícula en un anuncio de venta?",
+        "answer": "No es obligatorio, pero muchos vendedores lo hacen para que nadie use los datos del coche. La decisión es tuya."
+      },
+      {
+        "question": "¿Se puede recuperar una matrícula pixelada?",
+        "answer": "Con bloques grandes, no: los detalles se eliminan de la copia guardada. No publiques la original."
+      },
+      {
+        "question": "¿Se suben las fotos a algún sitio?",
+        "answer": "No, todo se procesa en el iPhone sin internet."
+      }
+    ],
+    "related": [
+      "como-desenfocar-parte-foto-iphone.html",
+      "como-pixelar-foto-iphone.html",
+      "como-censurar-texto-captura.html",
+      "como-difuminar-cara-foto.html"
+    ],
+    "cta_title": "Matrícula oculta, anuncio impecable",
+    "cta_body": "Descarga Desenfocar Fondo de Foto, pinta la matrícula en Manual y guarda. Gratis y en tu iPhone.",
+    "cta_text": "Descargar en el App Store"
+  },
+  {
+    "slug": "como-censurar-texto-captura.html",
+    "keyword": "cómo censurar texto en una captura",
+    "cluster": "privacy",
+    "card_title": "Cómo censurar texto en una captura",
+    "card_excerpt": "Chats, direcciones, pedidos o teléfonos: ocúltalos para que no se puedan leer.",
+    "card_image": "/img/appstore/es/05-crystalize.webp",
+    "card_image_alt": "Texto de una captura oculto con pixelado",
+    "meta_title": "Cómo censurar texto en una captura en iPhone, de verdad",
+    "meta_description": "Cómo censurar texto en una captura de pantalla en iPhone para que no se pueda leer: pincel, pixelado y revisión con zoom. Gratis y sin subir la captura.",
+    "h1": "Cómo censurar texto en una captura de pantalla en iPhone",
+    "answer": "Para censurar texto en una captura, ábrela en Desenfocar Fondo de Foto, elige la pestaña Manual y pinta con el dedo las líneas que quieres ocultar. Elige el estilo Pixelate, sube Radius hasta que las letras no se adivinen al ampliar y pulsa Save. Comparte la copia guardada.",
+    "intro": "Una captura de un chat, un ticket, un número de seguimiento o una entrada casi siempre lleva algo de más: un nombre, un teléfono, una dirección, un importe. El rotulador del iPhone no oculta bien el texto: sus trazos semitransparentes a veces dejan ver las letras si se sube el brillo o el contraste. Así se oculta de forma que no se pueda recuperar.",
+    "image": "/img/appstore/es/05-crystalize.webp",
+    "image_alt": "Pixelado de una zona de la imagen en iPhone",
+    "native": {
+      "heading": "Por qué el rotulador de Marcación no basta",
+      "paragraphs": [
+        "Al hacer una captura puedes tocar la miniatura y tachar el texto con el rotulador. El problema es que es semitransparente: con más exposición o contraste las letras a veces se ven. Una forma opaca es más segura, pero queda tosca. iOS no tiene desenfoque ni pixelado de una zona. WhatsApp incluye una herramienta de desenfoque al editar una foto antes de enviarla, pero solo para ese envío."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Cómo ocultar el texto de forma segura",
+        "paragraphs": [
+          "Un pixelado de bloques grandes sustituye las letras por cuadrados de un solo color: la información desaparece de la copia guardada. En la pestaña Manual de Desenfocar Fondo de Foto pintas las líneas, eliges Pixelate y subes Radius. Para texto pequeño el bloque debe ser mayor que la altura de las letras.",
+          "Gaussian queda bonito, pero con texto es arriesgado: con poca intensidad las palabras se leen por su silueta."
+        ]
+      },
+      {
+        "heading": "Qué conviene ocultar",
+        "paragraphs": [
+          "Teléfonos, números de tarjeta y cuentas, direcciones, nombres completos, números de pedido y de seguimiento, fotos de perfil, códigos QR y de barras de entradas. En capturas de chats, el nombre y la foto de la otra persona si no ha dado permiso para publicarlo."
+        ]
+      }
+    ],
+    "steps_title": "Cómo censurar texto en la app",
+    "steps": [
+      {
+        "title": "Abre la captura",
+        "description": "Selecciónala de tu fototeca desde la app."
+      },
+      {
+        "title": "Pestaña Manual",
+        "description": "Amplía y pinta las líneas de texto, cubriendo bien los bordes."
+      },
+      {
+        "title": "Pixelate y Radius",
+        "description": "Sube la intensidad hasta que las letras sean bloques."
+      },
+      {
+        "title": "Save y revisión",
+        "description": "Abre la copia guardada, amplía y comprueba que no se lee nada."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "Oculta la línea entera: por la longitud de una palabra a veces se adivina un nombre o un importe.",
+      "No reenvíes la captura original «para ti mismo»: queda guardada en la nube de la app de mensajería.",
+      "Tapa los códigos QR y de barras por completo: un código parcialmente visible puede leerse."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Se puede leer el texto tachado con el rotulador del iPhone?",
+        "answer": "A veces sí: el rotulador de Marcación es semitransparente. Es más seguro un pixelado de bloques grandes."
+      },
+      {
+        "question": "¿Sirve para fotos de documentos?",
+        "answer": "Sí, Manual funciona con cualquier imagen: DNI, tickets, contratos."
+      },
+      {
+        "question": "¿Necesito internet?",
+        "answer": "No, se procesa en el dispositivo y la captura no se envía a ningún sitio."
+      }
+    ],
+    "related": [
+      "como-desenfocar-parte-foto-iphone.html",
+      "como-pixelar-foto-iphone.html",
+      "como-tapar-matricula-foto.html",
+      "como-difuminar-cara-foto.html"
+    ],
+    "cta_title": "Capturas sin datos de más",
+    "cta_body": "Descarga Desenfocar Fondo de Foto, pinta el texto en Manual y guarda una copia. Gratis y en tu dispositivo.",
+    "cta_text": "Descargar en el App Store"
+  },
+  {
+    "slug": "como-pixelar-foto-iphone.html",
+    "keyword": "cómo pixelar una foto en iPhone",
+    "cluster": "privacy",
+    "card_title": "Cómo pixelar una foto en iPhone",
+    "card_excerpt": "Mosaico para privacidad o como efecto retro: en una cara, el fondo o la foto entera.",
+    "card_image": "/img/appstore/es/05-crystalize.webp",
+    "card_image_alt": "Efecto mosaico en el fondo de una foto",
+    "meta_title": "Cómo pixelar una foto en iPhone: mosaico gratis",
+    "meta_description": "Cómo pixelar una foto en iPhone: mosaico en el fondo, en caras, en una zona o en toda la imagen. Estilos Pixelate, Hexagonal y Crystallize. Gratis, sin nube.",
+    "h1": "Cómo pixelar una foto en iPhone",
+    "answer": "Para pixelar una foto en iPhone, ábrela en Desenfocar Fondo de Foto, elige qué quieres tratar —el fondo (Background), las caras (Faces), una zona con el pincel (Manual) o toda la imagen (Full Photo)— y el estilo Pixelate. El tamaño de los bloques lo marca Radius. Pulsa Save y la copia pixelada se guarda en tu fototeca.",
+    "intro": "Pixelar es convertir una zona de la imagen en un mosaico de cuadrados de color. Se usa para la privacidad (caras, matrículas, texto) y como efecto: retro, estilo videojuego, fondo abstracto. El iPhone no trae un filtro de pixelado, pero se hace en un par de toques.",
+    "image": "/img/appstore/es/05-crystalize.webp",
+    "image_alt": "Fondo de la foto convertido en mosaico",
+    "native": {
+      "heading": "¿Fotos tiene pixelado?",
+      "paragraphs": [
+        "No. Entre los filtros de Fotos no hay mosaico, y Marcación solo dibuja y tapa con formas. Limpiar, de Apple Intelligence, puede pixelar una cara que repases a mano, pero solo en iPhone 15 Pro y posteriores."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Tres tipos de mosaico",
+        "paragraphs": [
+          "Pixelate: bloques cuadrados, la censura clásica. Hexagonal: celdas hexagonales, más suave y decorativo. Crystallize: cristales irregulares, como en la captura «Pixel privacy en un toque» del App Store. Para privacidad usa Pixelate; como efecto, cualquiera."
+        ]
+      },
+      {
+        "heading": "Dónde aplicarlo",
+        "paragraphs": [
+          "Background: el sujeto queda nítido y el fondo se vuelve mosaico, ideal para posts. Faces: pixela todas las caras. Manual: una zona concreta como una matrícula, un texto o un cartel. Full Photo: toda la imagen, por ejemplo para una portada o un fondo abstracto."
+        ]
+      }
+    ],
+    "steps_title": "Cómo pixelar en la app",
+    "steps": [
+      {
+        "title": "Abre la foto",
+        "description": "Elige la imagen en Desenfocar Fondo de Foto."
+      },
+      {
+        "title": "Elige el modo",
+        "description": "Background, Faces, Manual o Full Photo, según lo que quieras ocultar."
+      },
+      {
+        "title": "Estilo Pixelate",
+        "description": "Radius cambia el tamaño de los bloques."
+      },
+      {
+        "title": "Save",
+        "description": "La copia pixelada se guarda en tu fototeca."
+      }
+    ],
+    "tips_title": "Consejos",
+    "tips": [
+      "Para privacidad, el bloque debe ser más grande que un ojo o una letra; si no, se adivina el detalle.",
+      "Como efecto, prueba Hexagonal en el fondo: persona nítida y fondo de panal.",
+      "Un mosaico en toda la foto sirve como portada desenfocada para stories."
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Cómo pixelo una cara?",
+        "answer": "Pestaña Faces + estilo Pixelate: todos los rostros detectados quedan en mosaico."
+      },
+      {
+        "question": "¿Se puede despixelar una foto?",
+        "answer": "No, si los bloques son más grandes que los detalles: la información se elimina de la copia guardada."
+      },
+      {
+        "question": "¿Se suben las fotos a la nube?",
+        "answer": "No. Todo se procesa en el iPhone y no hace falta internet."
+      }
+    ],
+    "related": [
+      "como-difuminar-cara-foto.html",
+      "como-censurar-texto-captura.html",
+      "como-tapar-matricula-foto.html",
+      "como-desenfocar-parte-foto-iphone.html"
+    ],
+    "cta_title": "Mosaico en un toque",
+    "cta_body": "Descarga Desenfocar Fondo de Foto, elige Pixelate y ajusta el tamaño de los bloques. Gratis y sin subir fotos.",
+    "cta_text": "Descargar en el App Store"
+  }
+]

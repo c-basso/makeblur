@@ -1,0 +1,1313 @@
+{
+  "hub": {
+    "nav_text": "Guides",
+    "title": "Guides pas à pas",
+    "intro": "Flouter un arrière-plan, masquer un visage, cacher une plaque ou un texte, adoucir une photo entière : chaque guide montre les gestes exacts sur iPhone.",
+    "learn_more_text": "En savoir plus",
+    "related_title": "Guides associés",
+    "answer_label": "En bref",
+    "clusters": [
+      {
+        "id": "background",
+        "title": "Flouter l'arrière-plan",
+        "blurb": "Sujet net, fond doux, sur les photos déjà prises."
+      },
+      {
+        "id": "privacy",
+        "title": "Masquer visages, plaques et textes",
+        "blurb": "Flou de confidentialité avant de partager."
+      },
+      {
+        "id": "effects",
+        "title": "Effets de flou",
+        "blurb": "Mouvement, bokeh et flou gaussien."
+      },
+      {
+        "id": "photo",
+        "title": "Flouter n'importe quelle photo",
+        "blurb": "Photo entière et effet flou expliqué."
+      }
+    ]
+  },
+  "items": [
+    {
+      "slug": "flouter-arriere-plan-photo-iphone.html",
+      "keyword": "comment flouter l'arrière-plan d'une photo sur iPhone",
+      "cluster": "background",
+      "card_title": "Flouter l'arrière-plan d'une photo sur iPhone",
+      "card_excerpt": "Le mode Portrait ne marche qu'à la prise de vue. Voici comment flouter le fond d'une photo déjà dans votre photothèque.",
+      "card_image": "/img/appstore/fr/04-box.webp",
+      "card_image_alt": "Onglet Background : jeune femme nette, arrière-plan flouté",
+      "meta_title": "Flouter l'arrière-plan d'une photo sur iPhone (après coup)",
+      "meta_description": "Comment flouter l'arrière-plan d'une photo sur iPhone après la prise de vue : l'app détecte le sujet, vous réglez l'intensité et enregistrez. Sans Portrait.",
+      "h1": "Comment flouter l'arrière-plan d'une photo sur iPhone après la prise de vue",
+      "answer": "Pour flouter l'arrière-plan d'une photo sur iPhone après la prise de vue, ouvrez-la dans l'app Arrière Plan Flou Photo, laissez l'onglet Background (arrière-plan) pour que le sujet soit détecté, choisissez le style Gaussian, augmentez le curseur Radius jusqu'au flou voulu et touchez Save. Cela fonctionne avec n'importe quelle photo de votre photothèque, pas seulement les portraits, et tout est traité sur l'iPhone.",
+      "intro": "La plupart des réponses à « comment flouter l'arrière-plan sur iPhone » renvoient au mode Portrait. Bon conseil si la photo n'est pas encore prise. Mais si elle a été faite en mode Photo, reçue sur WhatsApp ou s'il s'agit d'une capture d'écran, le mode Portrait ne sert à rien. Voyons ce que l'iPhone sait faire seul, où il s'arrête et comment flouter le fond en trente secondes.",
+      "image": "/img/appstore/fr/04-box.webp",
+      "image_alt": "Onglet Background dans l'app : la jeune femme est nette, le mur de briques et les fleurs derrière elle sont floutés",
+      "native": {
+        "heading": "Ce que l'iPhone sait faire tout seul",
+        "paragraphs": [
+          "Le mode Portrait enregistre une carte de profondeur au moment de la prise de vue. Ensuite, dans Photos → Modifier, vous pouvez renforcer ou réduire le flou avec le réglage d'ouverture. Mais seulement pour les photos prises en mode Portrait avec un appareil compatible : une photo classique, un selfie sans Portrait, une capture d'écran ou une image reçue n'ont pas de carte de profondeur, et ce réglage n'apparaît pas.",
+          "Sur les iPhone récents, certaines photos classiques peuvent passer en Portrait si l'appareil a enregistré des données de profondeur au déclenchement. Cela ne marche pas pour toutes les photos ni sur tous les modèles, et vous ne choisissez pas le sujet."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Flouter l'arrière-plan sans mode Portrait",
+          "paragraphs": [
+            "Il faut un éditeur capable de séparer le sujet du fond à partir de l'image déjà prise. Dans Arrière Plan Flou Photo, c'est le rôle de l'onglet Background : il détecte la personne ou l'objet principal, le garde net et floute tout le reste. Pas besoin de données de profondeur : l'app travaille sur les pixels de la photo, donc n'importe quelle image convient.",
+            "L'intensité se règle avec le curseur Radius, le type de flou avec le style : Gaussian donne un fond doux façon objectif, Box un flou un peu plus uniforme, Motion un filé de mouvement. Tout est traité sur l'iPhone, sans Internet."
+          ]
+        },
+        {
+          "heading": "Quelle intensité choisir",
+          "paragraphs": [
+            "Pour une photo de profil ou de CV, un flou léger suffit : on reconnaît le décor, mais il ne distrait plus. Pour les stories et les posts, vous pouvez aller plus loin : le fond devient des taches de couleur et la personne « sort » de l'image. Commencez par un Radius moyen et zoomez sur les cheveux : si un halo apparaît, baissez l'intensité."
+          ]
+        }
+      ],
+      "steps_title": "Flouter l'arrière-plan dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ouvrez la photo",
+          "description": "Lancez Arrière Plan Flou Photo et choisissez l'image dans votre photothèque : photo classique, selfie ou capture."
+        },
+        {
+          "number": "2",
+          "title": "Gardez l'onglet Background",
+          "description": "L'app détecte le sujet et repère l'arrière-plan à flouter."
+        },
+        {
+          "number": "3",
+          "title": "Choisissez le style et Radius",
+          "description": "Gaussian pour le rendu portrait classique. Faites glisser Radius jusqu'à la douceur voulue."
+        },
+        {
+          "number": "4",
+          "title": "Touchez Save",
+          "description": "La copie floutée est enregistrée dans Photos, l'originale reste intacte."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Le détourage est meilleur quand le sujet se détache bien du fond : une personne devant un mur, une tasse sur une table.",
+        "Zoomez sur les cheveux et les doigts avant d'enregistrer : avec un Radius très élevé, un halo peut apparaître.",
+        "Floutez d'abord, recadrez ensuite : l'app dispose de plus de pixels pour un détourage précis."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Peut-on flouter l'arrière-plan sur iPhone sans mode Portrait ?",
+          "answer": "Oui. Photos ne le fait pas sans données de profondeur, mais Arrière Plan Flou Photo sépare le sujet à partir de l'image elle-même et floute le fond de n'importe quelle photo."
+        },
+        {
+          "question": "Comment flouter le fond d'une vieille photo ?",
+          "answer": "De la même façon : ouvrez-la dans l'app, onglet Background, réglez Radius et enregistrez. La date et le modèle d'appareil n'ont pas d'importance."
+        },
+        {
+          "question": "La photo perd-elle en qualité ?",
+          "answer": "Le sujet garde sa résolution d'origine ; seul l'arrière-plan est flouté. Une nouvelle copie est enregistrée, l'originale ne change pas."
+        },
+        {
+          "question": "Faut-il une connexion Internet ?",
+          "answer": "Non. Tout est traité sur l'iPhone et les photos ne sont pas envoyées sur des serveurs."
+        }
+      ],
+      "related": [
+        "arriere-plan-flou-photo.html",
+        "flouter-fond-photo.html",
+        "application-flouter-arriere-plan-iphone.html",
+        "flou-gaussien-iphone.html"
+      ],
+      "cta_title": "Floutez l'arrière-plan d'une photo déjà prise",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo, ouvrez l'image, réglez Radius et enregistrez. Gratuit, sur l'appareil, sur tout iPhone sous iOS 18.6 ou ultérieur.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "flouter-fond-photo.html",
+      "keyword": "flouter le fond d'une photo",
+      "cluster": "background",
+      "card_title": "Flouter le fond d'une photo",
+      "card_excerpt": "Sujet net, fond doux : en trois gestes, sur n'importe quelle photo déjà sur votre iPhone.",
+      "card_image": "/img/appstore/fr/04-box.webp",
+      "card_image_alt": "Fond flouté derrière une jeune femme nette",
+      "meta_title": "Flouter le fond d'une photo sur iPhone : gratuit, 3 gestes",
+      "meta_description": "Flouter le fond d'une photo sur iPhone : l'app sépare la personne du décor, vous choisissez le style et l'intensité. Pour profil, posts et stories. Gratuit.",
+      "h1": "Flouter le fond d'une photo sur iPhone",
+      "answer": "Pour flouter le fond d'une photo, ouvrez-la dans Arrière Plan Flou Photo : l'onglet Background trouve seul la personne ou l'objet, vous choisissez un style (Gaussian, Box ou Motion), réglez l'intensité avec Radius et touchez Save. Moins d'une minute, et la photo ne quitte pas votre iPhone.",
+      "intro": "Un fond flou est le moyen le plus rapide de rendre une photo plus soignée : la personne ressort et les détails derrière elle cessent de distraire. Sur un appareil photo, c'est le travail d'un objectif lumineux ; sur téléphone, celui du mode Portrait. Si la photo est déjà prise sans lui, vous pouvez flouter le fond après coup et obtenir le rendu voulu.",
+      "image": "/img/appstore/fr/04-box.webp",
+      "image_alt": "Exemple de fond flou : jeune femme nette devant un mur et des fleurs floutés",
+      "native": {
+        "heading": "Pourquoi Photos n'y arrive pas",
+        "paragraphs": [
+          "L'éditeur intégré ne modifie la profondeur que des photos en mode Portrait. Pour les autres, il n'y a ni pinceau ni filtre de flou : Annoter permet de couvrir une zone avec une forme, mais ce n'est pas un flou d'arrière-plan."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Fond flou ou arrière-plan flou ?",
+          "paragraphs": [
+            "C'est la même chose : « fond » est plus courant à l'oral, « arrière-plan » plus photo. Les deux désignent le rendu sujet net, décor doux, et les deux se font avec l'onglet Background."
+          ]
+        },
+        {
+          "heading": "À quoi sert un fond flou",
+          "paragraphs": [
+            "Photo de profil WhatsApp ou Instagram, photo de CV ou LinkedIn, profil d'appli de rencontre, photo d'un objet pour Leboncoin, post : partout où l'image a un sujet principal. Le flou efface le superflu : passants, enseignes, désordre.",
+            "Pour une photo de profil, un flou doux suffit ; pour une story, montez jusqu'à ce que le fond ne soit plus que des taches de couleur."
+          ]
+        },
+        {
+          "heading": "Quel style choisir",
+          "paragraphs": [
+            "Gaussian est un flou progressif, comme un objectif hors mise au point : il convient presque toujours. Box est plus uniforme et graphique. Motion est un filé de mouvement pour les photos de sport ou de rue. Pixelate et Crystallize transforment le fond en mosaïque, un parti pris plus créatif."
+          ]
+        }
+      ],
+      "steps_title": "Flouter le fond dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Choisissez la photo",
+          "description": "Ouvrez l'app et sélectionnez l'image dans votre photothèque."
+        },
+        {
+          "number": "2",
+          "title": "Vérifiez l'onglet Background",
+          "description": "Le sujet est détecté automatiquement ; seul le fond sera flouté."
+        },
+        {
+          "number": "3",
+          "title": "Style et Radius",
+          "description": "Choisissez Gaussian ou un autre style et réglez l'intensité avec Radius."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "La copie prête apparaît dans Photos, à publier tout de suite."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Pour une photo de profil, restez sur un flou doux : sur un petit cercle, un flou fort paraît artificiel.",
+        "Si le fond et les vêtements ont la même couleur, zoomez et vérifiez le contour avant d'enregistrer.",
+        "Enregistrez une version pour le post et une pour la story : chaque format demande une intensité différente."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Est-ce gratuit ?",
+          "answer": "L'app se télécharge gratuitement et le flou d'arrière-plan de base est inclus. Les styles avancés sont optionnels, via des achats intégrés."
+        },
+        {
+          "question": "Peut-on flouter le fond d'une photo avec plusieurs personnes ?",
+          "answer": "Oui. Background garde nets les sujets détectés et floute le reste. Pour ne garder qu'une personne nette, peignez la zone avec l'onglet Manual."
+        },
+        {
+          "question": "Les photos sont-elles envoyées quelque part ?",
+          "answer": "Non. Tout est traité sur l'iPhone, sans Internet."
+        }
+      ],
+      "related": [
+        "flouter-arriere-plan-photo-iphone.html",
+        "arriere-plan-flou-photo.html",
+        "effet-bokeh-iphone.html",
+        "application-flouter-arriere-plan-iphone.html"
+      ],
+      "cta_title": "Un fond flou en une minute",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo, ouvrez l'image, choisissez style et intensité, enregistrez. Gratuit, sur iPhone sous iOS 18.6 ou ultérieur.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "arriere-plan-flou-photo.html",
+      "keyword": "arrière-plan flou photo",
+      "cluster": "background",
+      "card_title": "Arrière-plan flou sur une photo",
+      "card_excerpt": "Pour débuter : ce qu'est un arrière-plan flou, quelle intensité choisir et comment le faire sur une photo déjà prise.",
+      "card_image": "/img/appstore/fr/02-motion.webp",
+      "card_image_alt": "Arrière-plan flou derrière une jeune femme sur iPhone",
+      "meta_title": "Arrière-plan flou photo sur iPhone : le guide pour débuter",
+      "meta_description": "Comment obtenir un arrière-plan flou sur vos photos iPhone : ce que c'est, quelle intensité choisir et comment le faire en une minute sur une photo déjà prise.",
+      "h1": "Arrière-plan flou sur une photo iPhone : l'explication simple",
+      "answer": "Un arrière-plan flou, c'est quand la personne est nette et que tout ce qui est derrière elle est doux. Sur iPhone, vous pouvez l'obtenir sur une photo déjà prise : ouvrez-la dans l'app Arrière Plan Flou Photo, gardez l'onglet Background, réglez l'intensité avec Radius et touchez Save. Ni mode Portrait ni connaissances en photo ne sont nécessaires.",
+      "intro": "« Je veux un arrière-plan flou comme sur les photos pro » : c'est l'une des demandes les plus fréquentes, et la réponse est simple. Un fond flou détache la personne de son environnement et rend l'image plus calme. Voici à quoi ressemblent différentes intensités et comment faire sur iPhone sans être photographe.",
+      "image": "/img/appstore/fr/04-box.webp",
+      "image_alt": "Jeune femme nette avec un arrière-plan flou sur iPhone",
+      "native": {
+        "heading": "Comment l'appareil photo de l'iPhone s'y prend",
+        "paragraphs": [
+          "En mode Portrait, l'appareil enregistre une carte de profondeur et floute le fond immédiatement. Vous pouvez ensuite changer l'intensité dans Photos → Modifier. Si la photo a été prise en mode Photo, ce réglage n'existe pas et le fond restera net tant que vous ne la retouchez pas dans une autre app."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "À quoi ressemble chaque intensité",
+          "paragraphs": [
+            "Léger : on reconnaît le décor (un café, un parc), mais il ne fait plus concurrence à la personne. Idéal pour une photo de profil ou de CV.",
+            "Moyen : le fond devient des formes et des couleurs. C'est le rendu le plus « portrait » pour un post.",
+            "Fort : il ne reste que des taches de couleur. Parfait pour une story ou quand le décor est vraiment moche."
+          ]
+        },
+        {
+          "heading": "Si le contour est irrégulier",
+          "paragraphs": [
+            "Cela arrive surtout avec des cheveux détachés ou un fond de la même couleur que les vêtements. Baissez un peu Radius : à intensité plus faible, le contour se voit moins. Au besoin, l'onglet Manual permet de peindre à la main la zone à flouter."
+          ]
+        }
+      ],
+      "steps_title": "Obtenir un arrière-plan flou dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ouvrez la photo",
+          "description": "Choisissez l'image dans Arrière Plan Flou Photo."
+        },
+        {
+          "number": "2",
+          "title": "Onglet Background",
+          "description": "L'app trouve la personne et repère l'arrière-plan."
+        },
+        {
+          "number": "3",
+          "title": "Réglez l'intensité",
+          "description": "Faites glisser Radius du léger au fort et arrêtez-vous quand le fond ne distrait plus."
+        },
+        {
+          "number": "4",
+          "title": "Enregistrez",
+          "description": "Touchez Save : la copie avec arrière-plan flou apparaît dans votre photothèque."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Commencez par une intensité moyenne : il est facile de l'augmenter, et un flou excessif paraît faux.",
+        "Sur une photo de groupe, vérifiez que toutes les personnes restent nettes.",
+        "Ne floutez pas le fond quand il compte, par exemple un monument de voyage."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Comment avoir un arrière-plan flou si la photo est déjà prise ?",
+          "answer": "Ouvrez-la dans l'app, onglet Background, réglez Radius et enregistrez. Inutile de refaire la photo."
+        },
+        {
+          "question": "Faut-il un iPhone récent ?",
+          "answer": "Non. Tout iPhone sous iOS 18.6 ou ultérieur convient."
+        },
+        {
+          "question": "Peut-on retrouver le fond net ?",
+          "answer": "Oui : l'app enregistre une nouvelle copie, l'originale reste dans votre photothèque."
+        }
+      ],
+      "related": [
+        "flouter-arriere-plan-photo-iphone.html",
+        "flouter-fond-photo.html",
+        "flou-gaussien-iphone.html",
+        "effet-bokeh-iphone.html"
+      ],
+      "cta_title": "Un arrière-plan flou en une minute",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo, ouvrez l'image, choisissez l'intensité et enregistrez. Gratuit, sans envoi de photos.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "application-flouter-arriere-plan-iphone.html",
+      "keyword": "application pour flouter l'arrière-plan sur iPhone",
+      "cluster": "background",
+      "card_title": "Application pour flouter l'arrière-plan sur iPhone",
+      "card_excerpt": "Portrait, Annoter, Clean Up, sites web ou app dédiée : comparaison honnête pour les photos déjà prises.",
+      "card_image": "/img/appstore/fr/04-box.webp",
+      "card_image_alt": "Application pour flouter l'arrière-plan sur iPhone en action",
+      "meta_title": "Application pour flouter l'arrière-plan sur iPhone : choix",
+      "meta_description": "Quelle application pour flouter l'arrière-plan sur iPhone ? Mode Portrait, Annoter, Clean Up, sites en ligne et éditeur dédié comparés pour les photos prises.",
+      "h1": "Application pour flouter l'arrière-plan sur iPhone : que choisir",
+      "answer": "Si la photo n'a pas été prise en mode Portrait, les outils de l'iPhone ne floutent pas l'arrière-plan : il faut une app qui détecte le sujet seule. Arrière Plan Flou Photo le fait sur l'appareil, sans rien envoyer en ligne, et floute aussi les visages, des zones précises et la photo entière. Les sites web conviennent si vous acceptez d'envoyer la photo sur un serveur tiers.",
+      "intro": "L'App Store compte des dizaines d'apps avec « flou » ou « arrière-plan » dans leur nom, et choisir à l'aveugle n'est pas pratique. Plutôt qu'un classement d'apps tierces, voici une comparaison des méthodes : ce que l'iPhone fait seul, ce que proposent les sites et les fonctions à rechercher dans une app.",
+      "image": "/img/appstore/fr/04-box.webp",
+      "image_alt": "Jeune femme nette sur fond flou : résultat d'une app iPhone",
+      "native": {
+        "heading": "Options intégrées et leurs limites",
+        "paragraphs": [
+          "Mode Portrait : le meilleur résultat, mais uniquement à la prise de vue et à quelques mètres du sujet. Photos → Modifier → profondeur : seulement pour les portraits. Annoter : couvre une zone avec une forme ou un feutre ; ce n'est pas un flou. Clean Up (Apple Intelligence) : uniquement sur iPhone 15 Pro et ultérieurs, et conçu pour effacer des objets, pas pour flouter un arrière-plan."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Sites pour flouter en ligne",
+          "paragraphs": [
+            "Ils fonctionnent dans le navigateur, mais il faut envoyer la photo sur leur serveur, souvent avec filigrane ou résolution limitée. Pour des photos personnelles, d'enfants ou de documents, ce n'est pas idéal. Ce site propose aussi un éditeur en ligne, mais il ne floute que la photo entière : le flou sélectif de l'arrière-plan, c'est l'app."
+          ]
+        },
+        {
+          "heading": "Ce qu'une bonne app doit faire",
+          "paragraphs": [
+            "Trouver le sujet sur n'importe quelle photo, pas seulement en Portrait. Régler l'intensité, pas un effet unique. Travailler sur l'appareil. Flouter les visages et des zones libres : pour la confidentialité, on s'en sert autant que pour un joli fond.",
+            "Arrière Plan Flou Photo coche toutes ces cases : onglets Background, Faces, Manual et Full Photo, sept styles, curseur Radius et traitement hors ligne sur iPhone sous iOS 18.6 ou ultérieur."
+          ]
+        }
+      ],
+      "steps_title": "L'essayer en une minute",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Téléchargez l'app",
+          "description": "Arrière Plan Flou Photo, gratuite sur l'App Store."
+        },
+        {
+          "number": "2",
+          "title": "Ouvrez n'importe quelle photo",
+          "description": "Idéalement une où le mode Portrait a échoué."
+        },
+        {
+          "number": "3",
+          "title": "Background et Radius",
+          "description": "Le sujet est détecté seul ; réglez l'intensité avec le curseur."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Comparez le résultat à l'originale dans votre photothèque."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Testez l'app sur une photo difficile : cheveux détachés et fond de couleur proche.",
+        "Regardez où la photo est traitée : sur l'appareil ou sur un serveur.",
+        "Évaluez aussi les modes visages et zones libres : vous finirez par vous en servir."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Existe-t-il une application gratuite pour flouter l'arrière-plan sur iPhone ?",
+          "answer": "Oui, Arrière Plan Flou Photo se télécharge gratuitement et inclut le flou d'arrière-plan de base. Les styles avancés sont optionnels, via des achats intégrés."
+        },
+        {
+          "question": "Peut-on s'en passer ?",
+          "answer": "Seulement pour les photos en mode Portrait. Pour les autres, l'éditeur intégré ne propose aucun flou d'arrière-plan."
+        },
+        {
+          "question": "Sur quels iPhone fonctionne-t-elle ?",
+          "answer": "Sur tout iPhone sous iOS 18.6 ou ultérieur, sans Apple Intelligence ni appareil photo Portrait."
+        }
+      ],
+      "related": [
+        "flouter-arriere-plan-photo-iphone.html",
+        "flouter-fond-photo.html",
+        "flouter-visage-photo.html",
+        "flouter-partie-photo-iphone.html"
+      ],
+      "cta_title": "Essayez avec votre propre photo",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo et floutez le fond de cette photo où le mode Portrait n'a pas marché. Gratuit, sans envoi en ligne.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "flouter-visage-photo.html",
+      "keyword": "comment flouter un visage sur une photo",
+      "cluster": "privacy",
+      "card_title": "Comment flouter un visage sur une photo",
+      "card_excerpt": "Masquez les visages avant de publier : automatique, sur tout iPhone, sans Apple Intelligence.",
+      "card_image": "/img/appstore/fr/03-face.webp",
+      "card_image_alt": "Onglet Faces floutant tous les visages détectés",
+      "meta_title": "Comment flouter un visage sur une photo iPhone (auto)",
+      "meta_description": "Comment flouter un visage sur une photo iPhone : l'app détecte tous les visages, vous réglez l'intensité et enregistrez. Tout iPhone, sans Apple Intelligence.",
+      "h1": "Comment flouter un visage sur une photo avec un iPhone",
+      "answer": "Pour flouter un visage sur une photo, ouvrez-la dans Arrière Plan Flou Photo et passez à l'onglet Faces (visages) : l'app détecte tous les visages et floute chacun d'eux. Choisissez un style — Pixelate pour une censure nette ou Gaussian pour plus de douceur —, augmentez Radius jusqu'à ce que les traits ne soient plus reconnaissables et touchez Save. Cela marche sur tout iPhone sous iOS 18.6, sans Apple Intelligence.",
+      "intro": "Flouter les visages, c'est la politesse de base avant de publier une photo de groupe, de la kermesse de l'école ou une scène de rue : tout le monde n'a pas accepté d'apparaître en ligne. Les recherches « blur face » ont d'ailleurs progressé de 50 % en France sur un an. iOS propose une option intégrée, mais seulement sur certains iPhone. Voici ses limites et comment faire sur n'importe quel modèle.",
+      "image": "/img/appstore/fr/03-face.webp",
+      "image_alt": "Grille de visages détectés, chacun flouté, dans l'onglet Faces",
+      "native": {
+        "heading": "Ce que propose l'app Photos",
+        "paragraphs": [
+          "Sur iPhone 15 Pro, iPhone 16 et ultérieurs avec Apple Intelligence activé, l'outil Clean Up (icône de gomme dans Photos → Modifier) permet d'entourer un visage pour le pixeliser. C'est manuel (visage par visage), l'intensité n'est pas réglable et l'outil n'existe pas sur les iPhone plus anciens. Sans Apple Intelligence, Photos ne permet que de couvrir un visage avec une forme ou un autocollant dans Annoter : il est caché, pas flouté."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Flou automatique des visages sur n'importe quel iPhone",
+          "paragraphs": [
+            "Arrière Plan Flou Photo a un onglet Faces dédié. Il détecte les visages de l'image et les affiche dans une grille, déjà floutés : une photo de groupe de douze personnes se règle en un geste, pas en douze coups de pinceau. Vous choisissez le style — Pixelate pour la mosaïque classique, Gaussian ou Box pour plus de douceur — et l'intensité avec Radius.",
+            "Tout est traité sur l'iPhone, sans Internet : un point important quand le but est justement la confidentialité."
+          ]
+        },
+        {
+          "heading": "Flouter certains visages et pas d'autres",
+          "paragraphs": [
+            "Si votre visage doit rester visible et pas les autres, utilisez l'onglet Manual : peignez seulement les visages à masquer. Le même style et le même Radius s'appliquent à la zone peinte."
+          ]
+        },
+        {
+          "heading": "Jusqu'où flouter",
+          "paragraphs": [
+            "Avec un flou léger, ceux qui connaissent la personne la reconnaissent encore. Pour un vrai anonymat, utilisez Pixelate ou Gaussian avec un Radius suffisant pour que les yeux, le nez et la bouche ne se distinguent plus en zoomant au maximum. Sur la capture de l'App Store, les visages sont à Radius 80 : un bon point de départ."
+          ]
+        }
+      ],
+      "steps_title": "Flouter des visages dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ouvrez la photo",
+          "description": "Photo de groupe, de rue ou capture : n'importe laquelle de votre photothèque."
+        },
+        {
+          "number": "2",
+          "title": "Onglet Faces",
+          "description": "Les visages sont détectés seuls et apparaissent dans la grille déjà floutés."
+        },
+        {
+          "number": "3",
+          "title": "Style et Radius",
+          "description": "Pixelate pour une confidentialité nette, Gaussian pour plus de douceur. Montez Radius jusqu'à ce que les traits soient méconnaissables."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Publiez la copie enregistrée, pas l'originale."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Zoomez sur chaque visage avant d'enregistrer : un flou qui semble fort sur petit écran peut rester reconnaissable.",
+        "Floutez avant de compresser la photo pour une messagerie : la détection a besoin de l'image complète.",
+        "Sur les photos d'école ou de sport, floutez aussi les tenues, dossards ou panneaux qui permettent d'identifier le lieu."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Comment flouter un visage sur iPhone sans Apple Intelligence ?",
+          "answer": "Avec Arrière Plan Flou Photo : l'onglet Faces détecte et floute les visages sur tout iPhone sous iOS 18.6 ou ultérieur."
+        },
+        {
+          "question": "Peut-on flouter plusieurs visages à la fois ?",
+          "answer": "Oui. Tous les visages détectés sont floutés ensemble, avec le même style et la même intensité."
+        },
+        {
+          "question": "Peut-on annuler le flou d'une photo publiée ?",
+          "answer": "Une forte pixelisation ou un Radius élevé suppriment les détails de la copie enregistrée. Ne publiez pas l'originale et choisissez une intensité où les traits ne se distinguent plus au zoom."
+        },
+        {
+          "question": "Les photos sont-elles envoyées sur un serveur pour détecter les visages ?",
+          "answer": "Non, tout se passe sur l'appareil."
+        }
+      ],
+      "related": [
+        "flouter-partie-photo-iphone.html",
+        "pixeliser-photo-iphone.html",
+        "masquer-texte-capture-ecran-iphone.html",
+        "flouter-plaque-immatriculation-photo.html"
+      ],
+      "cta_title": "Partagez la photo, pas les visages",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo, ouvrez Faces, réglez Radius et enregistrez. Gratuit, sur l'appareil, sur tout iPhone sous iOS 18.6.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "flouter-partie-photo-iphone.html",
+      "keyword": "flouter une partie d'une photo sur iPhone",
+      "cluster": "privacy",
+      "card_title": "Flouter une partie d'une photo sur iPhone",
+      "card_excerpt": "Photos n'a pas de pinceau de flou. Voici comment peindre une zone du doigt et flouter seulement elle.",
+      "card_image": "/img/appstore/fr/05-crystalize.webp",
+      "card_image_alt": "Flou d'une zone précise de la photo sur iPhone",
+      "meta_title": "Flouter une partie d'une photo sur iPhone, au doigt",
+      "meta_description": "Comment flouter une partie d'une photo sur iPhone : Photos n'offre que les formes d'Annoter. Peignez la zone au doigt dans l'app, réglez le flou, enregistrez.",
+      "h1": "Comment flouter une partie d'une photo sur iPhone",
+      "answer": "Pour flouter une partie d'une photo sur iPhone, ouvrez-la dans Arrière Plan Flou Photo, passez à l'onglet Manual (pinceau) et faites glisser le doigt sur la zone à masquer. Choisissez un style — Pixelate, Gaussian ou Box —, réglez l'intensité avec Radius et touchez Save. Seul ce que vous peignez est flouté ; le reste reste net.",
+      "intro": "Un numéro de rue, le visage d'un passant, une adresse sur une enveloppe, un enfant inconnu à l'arrière-plan : souvent, il ne faut flouter ni toute la photo ni tout le fond, mais une zone précise. L'éditeur de l'iPhone ne le permet pas, et la plupart des conseils en ligne proposent de la cacher sous un rectangle. Il existe plus propre.",
+      "image": "/img/appstore/fr/05-crystalize.webp",
+      "image_alt": "Zone de la photo floutée avec le style Crystallize",
+      "native": {
+        "heading": "Ce que propose Photos",
+        "paragraphs": [
+          "Photos n'a pas de pinceau de flou. Avec Annoter, vous pouvez dessiner une forme par-dessus ou passer le feutre, mais c'est un cache opaque, pas un flou, et il attire l'œil. Clean Up (Apple Intelligence) efface des objets et n'existe que sur iPhone 15 Pro et ultérieurs."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Un pinceau de flou manuel",
+          "paragraphs": [
+            "L'onglet Manual d'Arrière Plan Flou Photo est un pinceau : vous passez le doigt, et le flou du style choisi apparaît dessous. Vous pouvez peindre plusieurs zones d'affilée : un texte dans un coin, un visage dans la foule, une plaque.",
+            "Le style change l'aspect : Pixelate et Box pour une confidentialité nette, Gaussian pour un flou doux presque invisible, Crystallize et Hexagonal pour une mosaïque décorative."
+          ]
+        },
+        {
+          "heading": "Quand préférer d'autres modes",
+          "paragraphs": [
+            "Pour masquer tous les visages, Faces est plus rapide. Pour flouter tout ce qui entoure une personne, utilisez Background. Manual est idéal quand la zone est libre et que la détection automatique ne peut pas la deviner."
+          ]
+        }
+      ],
+      "steps_title": "Flouter une partie dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ouvrez la photo",
+          "description": "Choisissez la photo ou la capture dans l'app."
+        },
+        {
+          "number": "2",
+          "title": "Onglet Manual",
+          "description": "Passez le doigt sur la zone à flouter."
+        },
+        {
+          "number": "3",
+          "title": "Style et intensité",
+          "description": "Pixelate pour la confidentialité ou Gaussian pour un effet doux ; Radius règle l'intensité."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Enregistrez la copie et vérifiez-la en zoomant."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Zoomez à deux doigts pour peindre proprement les petits détails.",
+        "Débordez un peu de l'objet : le contour ne trahira pas ce qui est dessous.",
+        "Pour les textes et les plaques, utilisez Pixelate avec un Radius élevé : un Gaussian léger laisse parfois lire les lettres."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Peut-on flouter une partie d'une photo avec les outils de l'iPhone ?",
+          "answer": "Non. Photos n'a pas de pinceau de flou, seulement des formes et un feutre dans Annoter."
+        },
+        {
+          "question": "Peut-on flouter plusieurs zones ?",
+          "answer": "Oui, dans Manual vous peignez autant de zones que vous voulez, floutées avec le même style."
+        },
+        {
+          "question": "Ça marche pour les captures d'écran ?",
+          "answer": "Oui, Manual fonctionne avec toutes les images de votre photothèque, captures comprises."
+        }
+      ],
+      "related": [
+        "masquer-texte-capture-ecran-iphone.html",
+        "flouter-plaque-immatriculation-photo.html",
+        "flouter-visage-photo.html",
+        "pixeliser-photo-iphone.html"
+      ],
+      "cta_title": "Floutez exactement ce qu'il faut",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo, ouvrez Manual et peignez la zone du doigt. Gratuit, sans envoi de photos.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "flouter-plaque-immatriculation-photo.html",
+      "keyword": "flouter une plaque d'immatriculation sur une photo",
+      "cluster": "privacy",
+      "card_title": "Flouter une plaque d'immatriculation",
+      "card_excerpt": "Pour Leboncoin, La Centrale ou ParuVendu : la plaque est illisible et l'annonce reste propre.",
+      "card_image": "/img/appstore/fr/05-crystalize.webp",
+      "card_image_alt": "Plaque d'immatriculation masquée par pixelisation",
+      "meta_title": "Flouter une plaque d'immatriculation sur photo (Leboncoin)",
+      "meta_description": "Comment flouter une plaque d'immatriculation sur une photo pour Leboncoin ou La Centrale : peignez, pixelisez, enregistrez. Sur iPhone, gratuit et hors ligne.",
+      "h1": "Comment flouter une plaque d'immatriculation sur une photo avec un iPhone",
+      "answer": "Pour flouter une plaque d'immatriculation, ouvrez la photo dans Arrière Plan Flou Photo, choisissez l'onglet Manual, passez le doigt sur la plaque, sélectionnez le style Pixelate ou Box et augmentez Radius jusqu'à ce qu'aucun caractère ne soit lisible. Touchez Save et publiez cette copie dans l'annonce.",
+      "intro": "Quand on vend sa voiture sur Leboncoin, La Centrale ou ParuVendu, beaucoup choisissent de masquer la plaque : cela limite le risque d'usurpation (doublette) ou d'arnaque avec les données du véhicule. Mais l'annonce doit rester soignée : un rectangle noir sur le pare-chocs fait mauvaise impression. Une pixelisation propre règle les deux problèmes.",
+      "image": "/img/appstore/fr/05-crystalize.webp",
+      "image_alt": "Pixelisation d'une zone de la photo dans l'app",
+      "native": {
+        "heading": "Ce que permet Photos",
+        "paragraphs": [
+          "Dans Annoter, vous pouvez couvrir la plaque avec une forme ou la gribouiller au feutre. Elle est cachée, mais le cache est grossier et le feutre semi-transparent laisse parfois lire les caractères. L'éditeur intégré ne sait ni flouter ni pixeliser une zone."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Pixeliser ou flouter ?",
+          "paragraphs": [
+            "Pour une plaque, le plus sûr est Pixelate ou Box avec un Radius élevé : de gros blocs effacent les caractères. Un Gaussian léger peut laisser la plaque devinable, surtout sur une photo haute résolution.",
+            "Crystallize la masque aussi, mais le rendu est décoratif ; pour une annonce, une pixelisation neutre est préférable."
+          ]
+        },
+        {
+          "heading": "S'il y a beaucoup de photos",
+          "paragraphs": [
+            "Une annonce compte souvent 10 à 20 photos, et la plaque apparaît sur trois ou quatre. Traitez-les une par une : ouvrir, Manual, peindre, Save — trente secondes chacune. Pensez aux reflets : la plaque se voit parfois dans une vitrine ou à travers la vitre sur une photo de l'habitacle."
+          ]
+        }
+      ],
+      "steps_title": "Flouter la plaque dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ouvrez la photo de la voiture",
+          "description": "Choisissez une photo où la plaque est visible."
+        },
+        {
+          "number": "2",
+          "title": "Onglet Manual",
+          "description": "Zoomez et peignez la plaque du doigt, avec un peu de marge."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate et Radius",
+          "description": "Augmentez l'intensité jusqu'à ce qu'aucun caractère ne soit lisible au zoom."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Publiez la copie enregistrée dans l'annonce."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Masquez toute la plaque, pas seulement les caractères : la bande bleue et le format renseignent déjà.",
+        "Vérifiez les photos avant et arrière : il y a une plaque sur chaque pare-chocs.",
+        "Si le numéro de série (VIN) ou la carte grise apparaissent, masquez-les de la même façon."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Faut-il masquer sa plaque dans une annonce ?",
+          "answer": "Ce n'est pas obligatoire, mais beaucoup de vendeurs le font pour éviter que les données du véhicule soient réutilisées. C'est votre choix."
+        },
+        {
+          "question": "Peut-on retrouver une plaque pixelisée ?",
+          "answer": "Avec de gros blocs, non : les détails sont supprimés de la copie enregistrée. Ne publiez pas l'originale."
+        },
+        {
+          "question": "Les photos sont-elles envoyées quelque part ?",
+          "answer": "Non, tout est traité sur l'iPhone, sans Internet."
+        }
+      ],
+      "related": [
+        "flouter-partie-photo-iphone.html",
+        "pixeliser-photo-iphone.html",
+        "masquer-texte-capture-ecran-iphone.html",
+        "flouter-visage-photo.html"
+      ],
+      "cta_title": "Plaque masquée, annonce impeccable",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo, peignez la plaque dans Manual et enregistrez. Gratuit, sur votre iPhone.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "masquer-texte-capture-ecran-iphone.html",
+      "keyword": "masquer un texte sur une capture d'écran",
+      "cluster": "privacy",
+      "card_title": "Masquer un texte sur une capture d'écran",
+      "card_excerpt": "Conversations, adresses, commandes ou numéros : masquez-les pour qu'on ne puisse plus les lire.",
+      "card_image": "/img/appstore/fr/05-crystalize.webp",
+      "card_image_alt": "Texte d'une capture masqué par pixelisation",
+      "meta_title": "Masquer un texte sur une capture d'écran iPhone, vraiment",
+      "meta_description": "Comment masquer un texte sur une capture d'écran iPhone pour qu'il soit illisible : pinceau, pixelisation et vérification au zoom. Gratuit et hors ligne.",
+      "h1": "Comment masquer un texte sur une capture d'écran iPhone",
+      "answer": "Pour masquer un texte sur une capture d'écran, ouvrez-la dans Arrière Plan Flou Photo, choisissez l'onglet Manual et peignez du doigt les lignes à cacher. Sélectionnez le style Pixelate, montez Radius jusqu'à ce que les lettres ne se devinent plus en zoomant et touchez Save. Partagez la copie enregistrée.",
+      "intro": "Une capture de conversation, de ticket, de numéro de suivi ou de billet contient presque toujours quelque chose de trop : un nom, un numéro, une adresse, un montant. Le feutre de l'iPhone masque mal : ses traits semi-transparents laissent parfois apparaître les lettres si l'on monte la luminosité ou le contraste. Voici comment masquer un texte de façon irrécupérable.",
+      "image": "/img/appstore/fr/05-crystalize.webp",
+      "image_alt": "Pixelisation d'une zone d'image sur iPhone",
+      "native": {
+        "heading": "Pourquoi le feutre d'Annoter ne suffit pas",
+        "paragraphs": [
+          "Après une capture, vous pouvez toucher la vignette et rayer le texte au feutre. Le problème : il est semi-transparent, et en poussant l'exposition ou le contraste les lettres réapparaissent parfois. Une forme opaque est plus sûre, mais grossière. iOS ne propose ni flou ni pixelisation d'une zone."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Masquer un texte de façon sûre",
+          "paragraphs": [
+            "Une pixelisation à gros blocs remplace les lettres par des carrés unis : l'information disparaît de la copie enregistrée. Dans l'onglet Manual d'Arrière Plan Flou Photo, vous peignez les lignes, choisissez Pixelate et montez Radius. Pour un petit texte, le bloc doit être plus grand que la hauteur des lettres.",
+            "Gaussian est joli, mais risqué pour du texte : avec une faible intensité, les mots se lisent à leur silhouette."
+          ]
+        },
+        {
+          "heading": "Ce qu'il vaut mieux masquer",
+          "paragraphs": [
+            "Numéros de téléphone, de carte ou de compte, adresses, noms complets, numéros de commande et de suivi, photos de profil, QR codes et codes-barres de billets. Sur une capture de conversation, le nom et la photo de l'interlocuteur s'il n'a pas donné son accord."
+          ]
+        }
+      ],
+      "steps_title": "Masquer un texte dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ouvrez la capture",
+          "description": "Sélectionnez-la dans votre photothèque depuis l'app."
+        },
+        {
+          "number": "2",
+          "title": "Onglet Manual",
+          "description": "Zoomez et peignez les lignes de texte en couvrant bien les bords."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate et Radius",
+          "description": "Montez l'intensité jusqu'à ce que les lettres deviennent des blocs."
+        },
+        {
+          "number": "4",
+          "title": "Save et vérification",
+          "description": "Ouvrez la copie enregistrée, zoomez et vérifiez que rien n'est lisible."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Masquez la ligne entière : la longueur d'un mot suffit parfois à deviner un nom ou un montant.",
+        "Ne vous renvoyez pas la capture originale « pour la garder » : elle reste dans le cloud de la messagerie.",
+        "Masquez entièrement QR codes et codes-barres : un code partiellement visible peut encore se lire."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Peut-on lire un texte rayé au feutre sur iPhone ?",
+          "answer": "Parfois oui : le feutre d'Annoter est semi-transparent. Une pixelisation à gros blocs est plus sûre."
+        },
+        {
+          "question": "Ça marche pour des photos de documents ?",
+          "answer": "Oui, Manual fonctionne avec toutes les images : carte d'identité, ticket, contrat."
+        },
+        {
+          "question": "Faut-il Internet ?",
+          "answer": "Non, tout est traité sur l'appareil et la capture n'est envoyée nulle part."
+        }
+      ],
+      "related": [
+        "flouter-partie-photo-iphone.html",
+        "pixeliser-photo-iphone.html",
+        "flouter-plaque-immatriculation-photo.html",
+        "flouter-visage-photo.html"
+      ],
+      "cta_title": "Des captures sans données de trop",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo, peignez le texte dans Manual et enregistrez une copie. Gratuit, sur l'appareil.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "pixeliser-photo-iphone.html",
+      "keyword": "pixeliser une photo sur iPhone",
+      "cluster": "privacy",
+      "card_title": "Pixeliser une photo sur iPhone",
+      "card_excerpt": "Mosaïque pour la confidentialité ou effet rétro : sur un visage, le fond ou toute la photo.",
+      "card_image": "/img/appstore/fr/05-crystalize.webp",
+      "card_image_alt": "Effet mosaïque sur l'arrière-plan d'une photo",
+      "meta_title": "Pixeliser une photo sur iPhone : mosaïque gratuite",
+      "meta_description": "Comment pixeliser une photo sur iPhone : mosaïque sur l'arrière-plan, les visages, une zone ou toute l'image. Styles Pixelate, Hexagonal, Crystallize. Gratuit.",
+      "h1": "Comment pixeliser une photo sur iPhone",
+      "answer": "Pour pixeliser une photo sur iPhone, ouvrez-la dans Arrière Plan Flou Photo, choisissez ce qu'il faut traiter — l'arrière-plan (Background), les visages (Faces), une zone au pinceau (Manual) ou toute l'image (Full Photo) — puis le style Pixelate. La taille des blocs se règle avec Radius. Touchez Save : la copie pixelisée est enregistrée.",
+      "intro": "Pixeliser, c'est transformer une zone de l'image en mosaïque de carrés de couleur. On s'en sert pour la confidentialité (visages, plaques, textes) et comme effet : rétro, style jeu vidéo, fond abstrait. L'iPhone n'a pas de filtre de pixelisation, mais deux gestes suffisent.",
+      "image": "/img/appstore/fr/05-crystalize.webp",
+      "image_alt": "Arrière-plan de la photo transformé en mosaïque",
+      "native": {
+        "heading": "Photos sait-il pixeliser ?",
+        "paragraphs": [
+          "Non. Les filtres de Photos ne proposent pas de mosaïque, et Annoter ne fait que dessiner ou couvrir avec des formes. Clean Up (Apple Intelligence) peut pixeliser un visage entouré à la main, mais uniquement sur iPhone 15 Pro et ultérieurs."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Trois types de mosaïque",
+          "paragraphs": [
+            "Pixelate : blocs carrés, la censure classique. Hexagonal : alvéoles hexagonales, plus douces et décoratives. Crystallize : cristaux irréguliers, comme sur la capture « Pixel privacy en un geste » de l'App Store. Pour la confidentialité, Pixelate ; pour l'effet, au choix."
+          ]
+        },
+        {
+          "heading": "Où l'appliquer",
+          "paragraphs": [
+            "Background : le sujet reste net, le fond devient mosaïque, idéal pour un post. Faces : tous les visages pixelisés. Manual : une zone précise, comme une plaque, un texte ou une enseigne. Full Photo : toute l'image, par exemple pour une couverture ou un fond abstrait."
+          ]
+        }
+      ],
+      "steps_title": "Pixeliser dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ouvrez la photo",
+          "description": "Choisissez l'image dans Arrière Plan Flou Photo."
+        },
+        {
+          "number": "2",
+          "title": "Choisissez le mode",
+          "description": "Background, Faces, Manual ou Full Photo, selon ce qu'il faut masquer."
+        },
+        {
+          "number": "3",
+          "title": "Style Pixelate",
+          "description": "Radius change la taille des blocs."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "La copie pixelisée est enregistrée dans votre photothèque."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Pour la confidentialité, un bloc doit être plus grand qu'un œil ou qu'une lettre ; sinon le détail se devine.",
+        "Comme effet, essayez Hexagonal sur l'arrière-plan : personne nette, fond en nid d'abeille.",
+        "Une mosaïque sur toute la photo fait une couverture floutée parfaite pour une story."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Comment pixeliser un visage ?",
+          "answer": "Onglet Faces + style Pixelate : tous les visages détectés passent en mosaïque."
+        },
+        {
+          "question": "Peut-on dépixeliser une photo ?",
+          "answer": "Non, si les blocs sont plus grands que les détails : l'information est supprimée de la copie enregistrée."
+        },
+        {
+          "question": "Les photos partent-elles dans le cloud ?",
+          "answer": "Non. Tout est traité sur l'iPhone, sans connexion."
+        }
+      ],
+      "related": [
+        "flouter-visage-photo.html",
+        "masquer-texte-capture-ecran-iphone.html",
+        "flouter-plaque-immatriculation-photo.html",
+        "flouter-partie-photo-iphone.html"
+      ],
+      "cta_title": "La mosaïque en un geste",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo, choisissez Pixelate et réglez la taille des blocs. Gratuit, sans envoi de photos.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "motion-blur-photo.html",
+      "keyword": "motion blur photo",
+      "cluster": "effects",
+      "card_title": "Motion blur sur une photo",
+      "card_excerpt": "Effet de mouvement sur une photo déjà prise : sujet net et fond filé dans la direction de votre choix.",
+      "card_image": "/img/appstore/fr/02-motion.webp",
+      "card_image_alt": "Motion blur derrière une jeune femme, Radius 65",
+      "meta_title": "Motion blur photo sur iPhone : effet de mouvement facile",
+      "meta_description": "Comment faire un motion blur (effet de mouvement) sur une photo avec un iPhone : fond filé à direction réglable, sujet net. Gratuit et sur l'appareil.",
+      "h1": "Motion blur sur une photo : faire un effet de mouvement sur iPhone",
+      "answer": "Pour faire un motion blur sur une photo, ouvrez-la dans Arrière Plan Flou Photo, gardez l'onglet Background et choisissez le style Motion. Le curseur Radius règle la longueur du filé, Angle la direction. Le sujet reste net et le fond « bouge ». Touchez Save.",
+      "intro": "Le motion blur, ou flou de mouvement, c'est le filé qu'on obtient avec une vitesse d'obturation lente ou en suivant un sujet en mouvement : la personne ou la voiture nette, le décor étiré en lignes. C'est le terme de flou le plus recherché en France, devant « blur background ». Au téléphone, c'est difficile à réussir à la prise de vue, mais on peut l'ajouter après et choisir soi-même la direction.",
+      "image": "/img/appstore/fr/02-motion.webp",
+      "image_alt": "Style Motion : arrière-plan filé derrière la jeune femme, visage net",
+      "native": {
+        "heading": "Ce que fait l'iPhone à la prise de vue",
+        "paragraphs": [
+          "Dans Photos, les Live Photos proposent l'effet « Pose longue » : il floute tout ce qui bougeait dans la scène, comme l'eau, les voitures ou les passants. Mais il ne marche qu'avec les Live Photos et floute le mouvement réel, pas le fond derrière une personne immobile. Ajouter un motion blur à une photo classique est impossible avec les outils intégrés."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Régler le filé",
+          "paragraphs": [
+            "Radius contrôle la longueur : des valeurs basses donnent un peu de dynamisme, des valeurs hautes une impression de vitesse. Angle fixe la direction : horizontale pour un coureur ou une voiture, diagonale pour un cadrage plus tendu. Sur la capture de l'App Store, l'effet est à Radius 65.",
+            "Dans l'onglet Background, seul le fond est filé ; dans Full Photo, toute l'image, pour un effet « pris en mouvement »."
+          ]
+        },
+        {
+          "heading": "Où ça rend le mieux",
+          "paragraphs": [
+            "Sport, vélo, skate, voitures, danse, portraits urbains de nuit. Moins bien sur des portraits calmes en pleine nature : un Gaussian doux y est plus naturel."
+          ]
+        }
+      ],
+      "steps_title": "Ajouter un motion blur dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ouvrez la photo",
+          "description": "Idéalement une où le sujet suggère déjà le mouvement."
+        },
+        {
+          "number": "2",
+          "title": "Background + Motion",
+          "description": "Le sujet est détecté seul et le fond est filé."
+        },
+        {
+          "number": "3",
+          "title": "Radius et Angle",
+          "description": "Réglez la longueur du filé et la direction du mouvement."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Enregistrez la copie dans Photos."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Orientez le filé dans le sens du déplacement du sujet : le rendu paraît naturel.",
+        "N'abusez pas de Radius sur un portrait : un filé fort mange le contour des cheveux.",
+        "Pour une story, essayez Full Photo + Motion : un fond dynamique pour poser du texte."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Comment faire un motion blur sur iPhone ?",
+          "answer": "Avec le style Motion d'Arrière Plan Flou Photo : Radius pour la longueur, Angle pour la direction."
+        },
+        {
+          "question": "Peut-on filer seulement l'arrière-plan ?",
+          "answer": "Oui, dans l'onglet Background le sujet reste net et seul le fond bouge."
+        },
+        {
+          "question": "Ça marche avec les Live Photos ?",
+          "answer": "Oui, l'app traite l'image de la Live Photo comme une photo classique."
+        }
+      ],
+      "related": [
+        "flou-gaussien-iphone.html",
+        "effet-bokeh-iphone.html",
+        "effet-flou-photo.html",
+        "flouter-arriere-plan-photo-iphone.html"
+      ],
+      "cta_title": "Ajoutez du mouvement à votre photo",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo, choisissez Motion et réglez Radius et Angle. Gratuit, sur votre iPhone.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "effet-bokeh-iphone.html",
+      "keyword": "effet bokeh iPhone",
+      "cluster": "effects",
+      "card_title": "Effet bokeh sur iPhone",
+      "card_excerpt": "Un fond doux comme avec un objectif lumineux, sur des photos prises sans mode Portrait.",
+      "card_image": "/img/appstore/fr/06-ghost.webp",
+      "card_image_alt": "Rendu doux et vaporeux sur une photo",
+      "meta_title": "Effet bokeh sur iPhone, sur une photo déjà prise : gratuit",
+      "meta_description": "Comment obtenir un effet bokeh sur iPhone : ce que c'est, quand le mode Portrait suffit et comment avoir un fond doux sur une photo classique après coup.",
+      "h1": "Effet bokeh sur iPhone : obtenir un fond doux",
+      "answer": "Le plus simple pour un effet bokeh sur iPhone : ouvrez la photo dans Arrière Plan Flou Photo, gardez l'onglet Background, choisissez le style doux Gaussian et montez Radius — le fond devient des taches de couleur et la personne reste nette. Pour un rendu plus rêveur, essayez Ghosting dans l'onglet Full Photo.",
+      "intro": "Le bokeh, c'est l'aspect de la zone floue : des taches douces de lumière et de couleur derrière le sujet. Les photographes l'obtiennent avec des objectifs lumineux, l'iPhone l'imite avec le mode Portrait. Si la photo est déjà prise sans Portrait, on peut obtenir un fond doux comparable après coup.",
+      "image": "/img/appstore/fr/06-ghost.webp",
+      "image_alt": "Style Ghosting sur toute la photo : rendu doux et vaporeux",
+      "native": {
+        "heading": "Le bokeh avec le mode Portrait",
+        "paragraphs": [
+          "En mode Portrait, l'iPhone floute le fond et ajoute les taches typiques des sources de lumière. Dans Photos → Modifier, le réglage d'ouverture change l'intensité. Les limites restent les mêmes : seulement à la prise de vue, à bonne distance du sujet et avec une carte de profondeur."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Bokeh et simple flou",
+          "paragraphs": [
+            "Le vrai bokeh optique dépend de l'objectif : forme des taches, tourbillons, halos autour des lampadaires. Un flou logiciel ne le reproduit pas entièrement, mais il obtient l'essentiel : détacher le sujet d'un fond doux. Sur les réseaux, la différence se voit à peine.",
+            "Le rendu le plus « bokeh » vient des photos avec des lumières en arrière-plan : guirlandes, lumières de la ville, soleil à travers les feuilles."
+          ]
+        },
+        {
+          "heading": "Quel style choisir",
+          "paragraphs": [
+            "Gaussian dans Background : arrière-plan de portrait classique. Ghosting dans Full Photo : toute l'image devient douce et aérienne, comme sur la capture « Doux vibes avec bokeh ». Box : un flou un peu plus graphique."
+          ]
+        }
+      ],
+      "steps_title": "Un fond bokeh dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ouvrez la photo",
+          "description": "Idéalement une photo avec des lumières ou un fond coloré."
+        },
+        {
+          "number": "2",
+          "title": "Background + Gaussian",
+          "description": "Le sujet est détecté seul et le fond s'adoucit."
+        },
+        {
+          "number": "3",
+          "title": "Réglez Radius",
+          "description": "Montez jusqu'à ce que les détails du fond deviennent des taches de couleur."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Enregistrez la copie et comparez-la à l'originale."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Les photos de nuit avec des lumières donnent le flou le plus proche du bokeh.",
+        "Si le fond est uni, le bokeh se voit à peine : essayez Ghosting sur toute la photo.",
+        "Ne floutez pas trop un selfie pris à bout de bras : le rendu paraît artificiel."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Peut-on faire un bokeh sur une vieille photo ?",
+          "answer": "Oui, l'app fonctionne avec n'importe quelle photo de la photothèque, sans données de profondeur."
+        },
+        {
+          "question": "Faut-il un iPhone avec mode Portrait ?",
+          "answer": "Non, tout iPhone sous iOS 18.6 ou ultérieur convient."
+        },
+        {
+          "question": "C'est gratuit ?",
+          "answer": "Le téléchargement est gratuit et le flou d'arrière-plan de base est inclus ; les styles avancés sont optionnels."
+        }
+      ],
+      "related": [
+        "flou-gaussien-iphone.html",
+        "flouter-fond-photo.html",
+        "motion-blur-photo.html",
+        "flouter-arriere-plan-photo-iphone.html"
+      ],
+      "cta_title": "Un fond doux sans mode Portrait",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo, choisissez Gaussian et montez Radius. Gratuit, sur iPhone sous iOS 18.6.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "flou-gaussien-iphone.html",
+      "keyword": "flou gaussien",
+      "cluster": "effects",
+      "card_title": "Flou gaussien sur iPhone",
+      "card_excerpt": "Le flou le plus naturel : ce que c'est et comment l'appliquer au fond ou à toute la photo.",
+      "card_image": "/img/appstore/fr/04-box.webp",
+      "card_image_alt": "Arrière-plan adouci derrière une jeune femme",
+      "meta_title": "Flou gaussien sur iPhone : arrière-plan ou photo entière",
+      "meta_description": "Flou gaussien sur iPhone : ce qu'est ce filtre, en quoi il diffère du bokeh et de Box, et comment l'appliquer au fond, aux visages ou à toute la photo.",
+      "h1": "Flou gaussien sur iPhone",
+      "answer": "Le flou gaussien est un flou doux et uniforme, proche d'un objectif hors mise au point. Sur iPhone, vous pouvez l'appliquer avec Arrière Plan Flou Photo : choisissez quoi flouter (Background, Faces, Manual ou Full Photo), le style Gaussian et l'intensité avec Radius, puis touchez Save.",
+      "intro": "Le « flou gaussien » évoque Photoshop ou Lightroom : c'est la façon la plus neutre d'adoucir une image, sans traînées, carrés ni halos. L'éditeur standard du téléphone n'a pas ce filtre, mais vous pouvez l'appliquer, et pas seulement à toute l'image : uniquement à l'arrière-plan.",
+      "image": "/img/appstore/fr/04-box.webp",
+      "image_alt": "Arrière-plan flouté sur iPhone, sujet net",
+      "native": {
+        "heading": "Photos a-t-il un flou gaussien ?",
+        "paragraphs": [
+          "Non. Photos a des filtres de couleur et un réglage de netteté, mais pas de flou. Le mode Portrait floute le fond de façon comparable, mais uniquement à la prise de vue et avec une carte de profondeur."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "En quoi il diffère des autres styles",
+          "paragraphs": [
+            "Gaussian adoucit progressivement et les contours se fondent en douceur : c'est pour cela qu'il paraît « photographique ». Box est plus uniforme et un peu plus dur. Motion étire l'image dans une direction. Pixelate, Hexagonal et Crystallize ne sont plus du flou, mais de la mosaïque.",
+            "Pour un fond de portrait et des fonds d'écran doux, choisissez Gaussian. Pour la confidentialité, Pixelate : à faible intensité, un gaussien peut laisser un visage ou un texte reconnaissable."
+          ]
+        },
+        {
+          "heading": "Intensité",
+          "paragraphs": [
+            "Radius fixe le rayon du flou. Des valeurs basses gomment le bruit et les petits détails, moyennes donnent un fond de portrait, élevées transforment le fond en taches de couleur."
+          ]
+        }
+      ],
+      "steps_title": "Appliquer le flou gaussien dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ouvrez la photo",
+          "description": "Choisissez l'image dans l'app."
+        },
+        {
+          "number": "2",
+          "title": "Mode",
+          "description": "Background pour le fond, Full Photo pour toute la photo, Manual pour une zone."
+        },
+        {
+          "number": "3",
+          "title": "Gaussian et Radius",
+          "description": "Choisissez le style et réglez l'intensité."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Enregistrez le résultat dans votre photothèque."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Pour une photo de profil, un Radius faible suffit : le décor se reconnaît mais ne distrait pas.",
+        "Un gaussien fort en Full Photo est le moyen le plus rapide de créer un fond pour du texte en story.",
+        "Pour masquer des données, évitez Gaussian : préférez Pixelate."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Le flou gaussien, en deux mots ?",
+          "answer": "Un flou où chaque pixel se mélange à ses voisins : l'image s'adoucit sans transitions brusques, comme hors mise au point."
+        },
+        {
+          "question": "Peut-on appliquer le gaussien seulement à l'arrière-plan ?",
+          "answer": "Oui, dans l'onglet Background le sujet reste net."
+        },
+        {
+          "question": "Faut-il un ordinateur ?",
+          "answer": "Non, tout se fait sur l'iPhone."
+        }
+      ],
+      "related": [
+        "effet-bokeh-iphone.html",
+        "motion-blur-photo.html",
+        "arriere-plan-flou-photo.html",
+        "effet-flou-photo.html"
+      ],
+      "cta_title": "Le flou gaussien en deux gestes",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo, choisissez Gaussian et réglez Radius. Gratuit, sans envoi de photos.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "flouter-photo-iphone.html",
+      "keyword": "comment flouter une photo sur iPhone",
+      "cluster": "photo",
+      "card_title": "Comment flouter une photo sur iPhone",
+      "card_excerpt": "Flouter l'image entière pour un fond d'écran, une story ou un rendu abstrait. Sur iPhone et en ligne.",
+      "card_image": "/img/appstore/fr/06-ghost.webp",
+      "card_image_alt": "Photo entière floutée avec l'effet Ghosting",
+      "meta_title": "Comment flouter une photo sur iPhone : l'image entière",
+      "meta_description": "Comment flouter une photo entière sur iPhone : pour un fond d'écran, une story ou un rendu abstrait. Styles Gaussian, Motion, Ghosting, et une option en ligne.",
+      "h1": "Comment flouter une photo entière sur iPhone",
+      "answer": "Pour flouter une photo entière sur iPhone, ouvrez-la dans Arrière Plan Flou Photo, choisissez l'onglet Full Photo (photo entière) et un style — Gaussian pour la douceur, Motion pour le dynamisme ou Ghosting pour un rendu vaporeux — puis montez Radius. Touchez Save. Sans rien installer, l'éditeur en ligne de ce site floute aussi la photo entière.",
+      "intro": "Parfois, on ne cherche pas un fond flou derrière quelqu'un, mais une image entièrement floue : fond d'écran de verrouillage, fond pour du texte en story, couverture abstraite ou « teaser » avant une publication. La requête « how to blur a picture on iphone » a d'ailleurs bondi de 140 % en France. C'est le flou le plus simple, et le seul qui n'a pas besoin de détecter le sujet.",
+      "image": "/img/appstore/fr/06-ghost.webp",
+      "image_alt": "Onglet Full Photo et style Ghosting, Radius 79",
+      "native": {
+        "heading": "Peut-on flouter une photo dans Photos ?",
+        "paragraphs": [
+          "Non : ni les filtres ni les réglages de Photos ne proposent de flou. L'écran verrouillé d'iOS peut flouter le fond d'écran sous les widgets, mais c'est un effet du système, pas une nouvelle image à partager."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Quel style pour quel usage",
+          "paragraphs": [
+            "Gaussian : douceur uniforme, le meilleur fond pour du texte. Motion : sensation de vitesse, idéal pour une couverture sportive. Ghosting : effet « fantôme » dédoublé, comme sur la capture « Doux vibes avec bokeh » (Radius 79). Pixelate et Crystallize : mosaïque abstraite."
+          ]
+        },
+        {
+          "heading": "Option en ligne",
+          "paragraphs": [
+            "Ce site propose un éditeur en ligne gratuit : importez la photo, choisissez Gaussian, Pixel ou Motion et téléchargez un PNG. Il ne floute que l'image entière ; le flou sélectif de l'arrière-plan ou des visages, c'est l'app."
+          ]
+        }
+      ],
+      "steps_title": "Flouter toute la photo dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ouvrez la photo",
+          "description": "Choisissez l'image dans Arrière Plan Flou Photo."
+        },
+        {
+          "number": "2",
+          "title": "Onglet Full Photo",
+          "description": "Le flou s'applique à toute l'image."
+        },
+        {
+          "number": "3",
+          "title": "Style et Radius",
+          "description": "Gaussian, Motion ou Ghosting, avec l'intensité voulue."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "La copie floue est enregistrée dans votre photothèque."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Pour un fond de texte, choisissez une photo aux couleurs vives : après le flou, il reste de belles taches de couleur.",
+        "Pour un fond d'écran, gardez une version avec un Gaussian fort : l'heure et les icônes restent lisibles.",
+        "Teaser de post : publiez d'abord la version très floue, puis l'originale."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Comment flouter une photo en ligne ?",
+          "answer": "Avec l'éditeur en ligne gratuit de ce site : importez la photo, choisissez le style et l'intensité, téléchargez le PNG. Il floute uniquement l'image entière."
+        },
+        {
+          "question": "Quelle différence entre Full Photo et Background ?",
+          "answer": "Full Photo floute toute l'image ; Background seulement l'arrière-plan, sujet net."
+        },
+        {
+          "question": "La résolution baisse-t-elle ?",
+          "answer": "Non, la copie est enregistrée à la taille d'origine."
+        }
+      ],
+      "related": [
+        "effet-flou-photo.html",
+        "flou-gaussien-iphone.html",
+        "motion-blur-photo.html",
+        "effet-bokeh-iphone.html"
+      ],
+      "cta_title": "Une photo floue en quelques secondes",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo, choisissez Full Photo et un style. Gratuit, sans envoi de photos.",
+      "cta_text": "Télécharger dans l'App Store"
+    },
+    {
+      "slug": "effet-flou-photo.html",
+      "keyword": "effet flou photo",
+      "cluster": "photo",
+      "card_title": "Effet flou photo",
+      "card_excerpt": "Ce qu'est l'effet flou (blur), ses styles et lequel utiliser sur le fond, les visages ou toute la photo.",
+      "card_image": "/img/appstore/fr/02-motion.webp",
+      "card_image_alt": "Effet flou appliqué à une photo sur iPhone",
+      "meta_title": "Effet flou photo sur iPhone : styles et mode d'emploi",
+      "meta_description": "Qu'est-ce que l'effet flou photo et comment l'appliquer sur iPhone : arrière-plan, visages, zone ou image entière, en Gaussian, Motion, Ghosting ou Pixelate.",
+      "h1": "Effet flou photo : ce que c'est et comment l'appliquer sur iPhone",
+      "answer": "L'effet flou (ou blur) consiste à rendre floue tout ou partie d'une photo. Sur iPhone, vous pouvez l'appliquer avec Arrière Plan Flou Photo : choisissez où (Background pour le fond, Faces pour les visages, Manual pour une zone, Full Photo pour toute l'image), un style comme Gaussian, Motion ou Ghosting, réglez Radius et touchez Save.",
+      "intro": "« Blur » est le mot anglais pour flou, et beaucoup le tapent tel quel en France : « le blur », « blur effect », « blur photo ». Derrière, il y a presque toujours l'un de ces quatre besoins : un fond doux derrière une personne, masquer des visages, cacher un morceau avec du texte ou une plaque, ou flouter toute la photo. L'éditeur de l'iPhone ne fait aucun des quatre sur une photo classique.",
+      "image": "/img/appstore/fr/02-motion.webp",
+      "image_alt": "Style Motion : effet flou sur l'arrière-plan",
+      "native": {
+        "heading": "Ce que l'iPhone propose d'origine",
+        "paragraphs": [
+          "Flou d'arrière-plan : seulement avec le mode Portrait, à la prise de vue. Pinceau de flou dans Photos : il n'existe pas. Annoter : feutre et formes pour cacher, pas pour flouter. Clean Up (Apple Intelligence) : efface des objets et peut pixeliser un visage, uniquement sur iPhone 15 Pro et ultérieurs."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Les styles de flou",
+          "paragraphs": [
+            "Gaussian : flou doux et naturel. Motion : filé de mouvement à direction réglable. Ghosting : effet « fantôme » vaporeux. Box : flou uniforme. Pixelate, Hexagonal et Crystallize : mosaïques, utiles pour la confidentialité ou comme effet graphique."
+          ]
+        },
+        {
+          "heading": "Où l'appliquer",
+          "paragraphs": [
+            "Background garde le sujet net et floute le fond. Faces floute tous les visages. Manual, la zone que vous peignez au doigt. Full Photo, l'image entière. Cela marche avec les photos de l'appareil, les captures d'écran et les images WhatsApp ou Messenger enregistrées dans la photothèque."
+          ]
+        }
+      ],
+      "steps_title": "Appliquer l'effet flou dans l'app",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ouvrez la photo ou la capture",
+          "description": "Choisissez l'image dans Arrière Plan Flou Photo."
+        },
+        {
+          "number": "2",
+          "title": "Choisissez le mode",
+          "description": "Background, Faces, Manual ou Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Style et Radius",
+          "description": "Choisissez le type de flou et son intensité."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "La copie avec l'effet est enregistrée dans votre photothèque."
+        }
+      ],
+      "tips_title": "Conseils",
+      "tips": [
+        "Pour l'esthétique : Gaussian ou Ghosting ; pour la confidentialité : Pixelate.",
+        "Combinez les modes : d'abord Background pour le fond, puis Manual pour un détail de trop.",
+        "Enregistrez plusieurs intensités et gardez la meilleure dans la photothèque."
+      ],
+      "faq_title": "Questions fréquentes",
+      "faq": [
+        {
+          "question": "Comment faire un effet flou sans application ?",
+          "answer": "Sur une photo classique, Photos ne le permet pas. Vous pouvez couvrir avec des formes dans Annoter ou flouter toute la photo avec l'éditeur en ligne de ce site."
+        },
+        {
+          "question": "Peut-on flouter une capture d'écran ?",
+          "answer": "Oui, les captures s'ouvrent dans l'app comme n'importe quelle photo."
+        },
+        {
+          "question": "C'est gratuit ?",
+          "answer": "Le téléchargement est gratuit et le flou de base est inclus ; les styles avancés sont optionnels via des achats intégrés."
+        }
+      ],
+      "related": [
+        "flouter-photo-iphone.html",
+        "flouter-arriere-plan-photo-iphone.html",
+        "flouter-partie-photo-iphone.html",
+        "motion-blur-photo.html"
+      ],
+      "cta_title": "L'effet flou en une minute",
+      "cta_body": "Téléchargez Arrière Plan Flou Photo et floutez le fond, les visages ou toute la photo. Gratuit, sur iPhone sous iOS 18.6.",
+      "cta_text": "Télécharger dans l'App Store"
+    }
+  ]
+}

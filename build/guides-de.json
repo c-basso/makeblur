@@ -1,0 +1,1313 @@
+{
+  "hub": {
+    "nav_text": "Anleitungen",
+    "title": "Schritt-für-Schritt-Anleitungen",
+    "intro": "Hintergrund unscharf machen, ein Gesicht verbergen, Kennzeichen oder Text unkenntlich machen, ein ganzes Foto weichzeichnen – jede Anleitung zeigt die genauen Schritte am iPhone.",
+    "learn_more_text": "Mehr erfahren",
+    "related_title": "Ähnliche Anleitungen",
+    "answer_label": "Kurz gesagt",
+    "clusters": [
+      {
+        "id": "background",
+        "title": "Hintergrund unscharf machen",
+        "blurb": "Scharfes Motiv, weicher Hintergrund – bei Fotos, die schon gemacht sind."
+      },
+      {
+        "id": "privacy",
+        "title": "Gesichter, Kennzeichen und Text verbergen",
+        "blurb": "Unschärfe für den Datenschutz vor dem Teilen."
+      },
+      {
+        "id": "effects",
+        "title": "Unschärfe-Effekte",
+        "blurb": "Bewegung, Bokeh und Gauß."
+      },
+      {
+        "id": "photo",
+        "title": "Jedes Foto unscharf machen",
+        "blurb": "Ganzes Bild und der Blur-Effekt erklärt."
+      }
+    ]
+  },
+  "items": [
+    {
+      "slug": "hintergrund-unscharf-machen-iphone.html",
+      "keyword": "Hintergrund unscharf machen iPhone",
+      "cluster": "background",
+      "card_title": "Hintergrund unscharf machen am iPhone",
+      "card_excerpt": "Der Porträtmodus wirkt nur beim Fotografieren. So machen Sie den Hintergrund eines Fotos aus der Mediathek unscharf.",
+      "card_image": "/img/appstore/de/04-box.webp",
+      "card_image_alt": "Tab Background: Frau scharf, Hintergrund unscharf",
+      "meta_title": "Hintergrund unscharf machen am iPhone – auch nachträglich",
+      "meta_description": "Hintergrund unscharf machen am iPhone, wenn das Foto schon gemacht ist: Die App erkennt das Motiv, Sie wählen die Stärke und sichern. Ohne Porträtmodus.",
+      "h1": "Hintergrund unscharf machen am iPhone – auch nach der Aufnahme",
+      "answer": "Um den Hintergrund am iPhone nach der Aufnahme unscharf zu machen, öffnen Sie das Foto in MakeBlur („Hintergrund unscharf machen“), lassen den Tab Background (Hintergrund) ausgewählt, damit das Motiv erkannt wird, wählen den Stil Gaussian, erhöhen den Regler Radius bis zur gewünschten Weichheit und tippen auf Save. Das funktioniert mit jedem Foto aus der Mediathek, nicht nur mit Porträts, und alles läuft auf dem iPhone.",
+      "intro": "Die meisten Antworten auf „Hintergrund unscharf machen iPhone“ verweisen auf den Porträtmodus. Guter Tipp, wenn das Foto noch nicht gemacht ist. Wurde es aber im normalen Fotomodus aufgenommen, per WhatsApp geschickt oder ist es ein Screenshot, hilft der Porträtmodus nicht. Hier sehen Sie, was das iPhone selbst kann, wo es aufhört und wie Sie den Hintergrund in einer halben Minute unscharf machen.",
+      "image": "/img/appstore/de/04-box.webp",
+      "image_alt": "Tab Background in der App: Die Frau ist scharf, Backsteinwand und Blumen dahinter sind unscharf",
+      "native": {
+        "heading": "Was das iPhone selbst kann",
+        "paragraphs": [
+          "Der Porträtmodus speichert beim Auslösen eine Tiefenkarte. Später können Sie in Fotos → Bearbeiten die Unschärfe mit dem Blendenregler verstärken oder abschwächen. Aber nur bei Fotos, die im Porträtmodus mit einer passenden Kamera entstanden sind: Ein normales Foto, ein Selfie ohne Porträt, ein Screenshot oder ein empfangenes Bild hat keine Tiefenkarte – der Regler erscheint dann gar nicht.",
+          "Neuere iPhones können manche normale Fotos nachträglich in ein Porträt umwandeln, wenn beim Auslösen Tiefendaten gespeichert wurden. Das klappt nicht bei jedem Foto und nicht auf jedem Modell, und das Motiv können Sie nicht selbst wählen."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Hintergrund unscharf machen ohne Porträtmodus",
+          "paragraphs": [
+            "Dafür braucht es einen Editor, der das Motiv anhand des fertigen Bildes vom Hintergrund trennt. In MakeBlur übernimmt das der Tab Background: Er erkennt die Person oder das Hauptobjekt, hält es scharf und zeichnet alles andere weich. Tiefendaten der Kamera sind nicht nötig – die App arbeitet mit den Pixeln des Fotos, also passt jedes Bild.",
+            "Die Stärke regelt der Regler Radius, die Art der Unschärfe der Stil: Gaussian ergibt einen weichen Objektiv-Look, Box eine etwas gleichmäßigere Unschärfe, Motion einen Wischeffekt. Alles läuft auf dem iPhone, ohne Internet."
+          ]
+        },
+        {
+          "heading": "Welche Stärke passt",
+          "paragraphs": [
+            "Für Profil- oder Bewerbungsfotos reicht leichte Unschärfe: Man erkennt die Umgebung, sie lenkt aber nicht ab. Für Stories und Posts darf es mehr sein – der Hintergrund wird zu Farbflecken und die Person tritt hervor. Starten Sie mit mittlerem Radius und zoomen Sie an die Haare: Zeigt sich ein Lichtsaum, Stärke reduzieren."
+          ]
+        }
+      ],
+      "steps_title": "Hintergrund unscharf machen in der App",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Foto öffnen",
+          "description": "MakeBlur starten und das Bild aus der Mediathek wählen – normales Foto, Selfie oder Screenshot."
+        },
+        {
+          "number": "2",
+          "title": "Tab Background lassen",
+          "description": "Die App erkennt das Motiv und markiert den Hintergrund, der unscharf wird."
+        },
+        {
+          "number": "3",
+          "title": "Stil und Radius wählen",
+          "description": "Gaussian für den klassischen Porträt-Look. Radius ziehen, bis der Hintergrund weich genug ist."
+        },
+        {
+          "number": "4",
+          "title": "Save tippen",
+          "description": "Die unscharfe Kopie landet in Fotos, das Original bleibt unverändert."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Die Maske gelingt am besten, wenn sich das Motiv klar abhebt: eine Person vor einer Wand, eine Tasse auf dem Tisch.",
+        "Vor dem Sichern Haare und Finger heranzoomen – bei sehr hohem Radius kann ein Saum entstehen.",
+        "Erst unscharf machen, dann zuschneiden: Die App hat mehr Pixel für eine genaue Maske."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Kann man am iPhone den Hintergrund ohne Porträtmodus unscharf machen?",
+          "answer": "Ja. Fotos kann es ohne Tiefendaten nicht, aber MakeBlur trennt das Motiv anhand des Bildes selbst und macht den Hintergrund jedes Fotos unscharf."
+        },
+        {
+          "question": "Wie mache ich den Hintergrund eines alten Fotos unscharf?",
+          "answer": "Genauso: in der App öffnen, Tab Background, Radius einstellen und sichern. Aufnahmedatum und Kameramodell spielen keine Rolle."
+        },
+        {
+          "question": "Verliert das Foto an Qualität?",
+          "answer": "Das Motiv behält seine Originalauflösung, nur der Hintergrund wird weichgezeichnet. Es wird eine neue Kopie gesichert, das Original bleibt."
+        },
+        {
+          "question": "Braucht die App Internet?",
+          "answer": "Nein. Alles läuft auf dem iPhone, Fotos werden nicht auf Server hochgeladen."
+        }
+      ],
+      "related": [
+        "hintergrund-verschwommen-machen.html",
+        "foto-hintergrund-unscharf-machen.html",
+        "blur-app-iphone.html",
+        "gausscher-weichzeichner-iphone.html"
+      ],
+      "cta_title": "Hintergrund unscharf – bei Fotos, die Sie schon haben",
+      "cta_body": "„Hintergrund unscharf machen“ laden, Foto öffnen, Radius einstellen, sichern. Kostenlos, auf dem Gerät, auf jedem iPhone mit iOS 18.6 oder neuer.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "foto-hintergrund-unscharf-machen.html",
+      "keyword": "Foto Hintergrund unscharf machen",
+      "cluster": "background",
+      "card_title": "Foto-Hintergrund unscharf machen",
+      "card_excerpt": "Scharfes Motiv, weicher Hintergrund – mit drei Tipps bei jedem Foto, das schon auf dem iPhone ist.",
+      "card_image": "/img/appstore/de/04-box.webp",
+      "card_image_alt": "Weichgezeichneter Hintergrund hinter einer scharfen Frau",
+      "meta_title": "Foto-Hintergrund unscharf machen: kostenlos, in 3 Schritten",
+      "meta_description": "Foto-Hintergrund unscharf machen oder weichzeichnen am iPhone: Die App trennt Person und Hintergrund, Sie wählen Stil und Stärke. Für Profil, Posts, Stories.",
+      "h1": "Foto-Hintergrund unscharf machen am iPhone",
+      "answer": "Um den Hintergrund eines Fotos unscharf zu machen, öffnen Sie es in MakeBlur: Der Tab Background findet Person oder Objekt automatisch, Sie wählen einen Stil (Gaussian, Box oder Motion), stellen die Stärke mit Radius ein und tippen auf Save. Das dauert unter einer Minute, und das Foto verlässt Ihr iPhone nicht.",
+      "intro": "Ein unscharfer Hintergrund ist der schnellste Weg zu einem hochwertigeren Foto: Die Person tritt hervor, Details dahinter lenken nicht mehr ab. In der Kamera macht das ein lichtstarkes Objektiv, am Smartphone der Porträtmodus. Ist das Foto ohne ihn entstanden, lässt sich der Hintergrund nachträglich weichzeichnen – mit einem Ergebnis, als wäre es so geplant gewesen.",
+      "image": "/img/appstore/de/04-box.webp",
+      "image_alt": "Beispiel für unscharfen Hintergrund: scharfe Frau vor weichgezeichneter Wand und Blumen",
+      "native": {
+        "heading": "Warum es in Fotos nicht geht",
+        "paragraphs": [
+          "Der eingebaute Editor ändert die Tiefe nur bei Porträtfotos. Für alle anderen gibt es weder Pinsel noch Unschärfe-Filter: Mit „Markieren“ lässt sich ein Bereich mit einer Form abdecken, aber das ist keine Hintergrund-Unschärfe."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Unscharf machen oder weichzeichnen?",
+          "paragraphs": [
+            "Das ist dasselbe: „unscharf machen“ sagt man im Alltag, „weichzeichnen“ ist der Fotografen-Begriff. Beides meint scharfes Motiv und weichen Hintergrund – und beides erledigt der Tab Background."
+          ]
+        },
+        {
+          "heading": "Wofür ein unscharfer Hintergrund gut ist",
+          "paragraphs": [
+            "Profilbild für WhatsApp oder Instagram, Bewerbungsfoto oder LinkedIn, Dating-Profil, Produktfoto für Kleinanzeigen, ein Post: überall, wo ein Bild ein Hauptmotiv hat. Die Unschärfe entfernt Überflüssiges – Passanten, Schilder, Unordnung.",
+            "Für Profilbilder reicht weiche Unschärfe; für Stories darf der Hintergrund zu Farbflecken werden."
+          ]
+        },
+        {
+          "heading": "Welcher Stil",
+          "paragraphs": [
+            "Gaussian ist eine weiche, fließende Unschärfe wie bei einem unscharf gestellten Objektiv – passt fast immer. Box ist gleichmäßiger und grafischer. Motion ist ein Wischeffekt für Sport- oder Straßenfotos. Pixelate und Crystallize machen den Hintergrund zum Mosaik – eher ein kreatives Stilmittel."
+          ]
+        }
+      ],
+      "steps_title": "Foto-Hintergrund unscharf machen in der App",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Foto wählen",
+          "description": "App öffnen und das Bild aus der Mediathek auswählen."
+        },
+        {
+          "number": "2",
+          "title": "Tab Background prüfen",
+          "description": "Das Motiv wird automatisch erkannt; nur der Hintergrund wird unscharf."
+        },
+        {
+          "number": "3",
+          "title": "Stil und Radius",
+          "description": "Gaussian oder einen anderen Stil wählen und die Stärke mit Radius einstellen."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Die fertige Kopie erscheint in Fotos und kann sofort geteilt werden."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Beim Profilbild weich bleiben: Auf einem kleinen Kreis wirkt starke Unschärfe künstlich.",
+        "Haben Hintergrund und Kleidung dieselbe Farbe, vor dem Sichern die Kante heranzoomen.",
+        "Je eine Version für Post und Story sichern – jedes Format verträgt eine andere Stärke."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Ist das kostenlos?",
+          "answer": "Die App lädt kostenlos, die einfache Hintergrund-Unschärfe ist enthalten. Erweiterte Stile sind optional über In-App-Käufe erhältlich."
+        },
+        {
+          "question": "Geht das auch bei Fotos mit mehreren Personen?",
+          "answer": "Ja. Background hält erkannte Motive scharf und zeichnet den Rest weich. Soll nur eine Person scharf bleiben, den Bereich mit dem Tab Manual übermalen."
+        },
+        {
+          "question": "Werden Fotos irgendwohin hochgeladen?",
+          "answer": "Nein. Alles läuft auf dem iPhone, ohne Internet."
+        }
+      ],
+      "related": [
+        "hintergrund-unscharf-machen-iphone.html",
+        "hintergrund-verschwommen-machen.html",
+        "bokeh-effekt-iphone.html",
+        "blur-app-iphone.html"
+      ],
+      "cta_title": "Unscharfer Hintergrund in einer Minute",
+      "cta_body": "„Hintergrund unscharf machen“ laden, Foto öffnen, Stil und Stärke wählen, sichern. Kostenlos, iPhone mit iOS 18.6 oder neuer.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "hintergrund-verschwommen-machen.html",
+      "keyword": "Hintergrund verschwommen machen",
+      "cluster": "background",
+      "card_title": "Hintergrund verschwommen machen",
+      "card_excerpt": "Für Einsteiger: was ein verschwommener Hintergrund ist, welche Stärke passt und wie es bei einem fertigen Foto geht.",
+      "card_image": "/img/appstore/de/02-motion.webp",
+      "card_image_alt": "Verschwommener Hintergrund hinter einer Frau am iPhone",
+      "meta_title": "Hintergrund verschwommen machen am iPhone: einfach erklärt",
+      "meta_description": "Hintergrund verschwommen machen am iPhone: was das ist, welche Stärke passt und wie es bei einem bereits aufgenommenen Foto in einer Minute geht. Kostenlos.",
+      "h1": "Hintergrund verschwommen machen am iPhone: einfach erklärt",
+      "answer": "Ein verschwommener Hintergrund heißt: Die Person ist scharf, alles dahinter weich. Am iPhone klappt das auch bei einem fertigen Foto: Öffnen Sie es in MakeBlur („Hintergrund unscharf machen“), lassen Sie den Tab Background, stellen Sie die Stärke mit Radius ein und tippen Sie auf Save. Porträtmodus oder Fotowissen sind nicht nötig.",
+      "intro": "„Ich will den Hintergrund verschwommen wie auf Profi-Fotos“ – ein häufiger Wunsch mit einfacher Antwort. Ein verschwommener Hintergrund löst die Person von ihrer Umgebung und macht das Bild ruhiger. Hier sehen Sie, wie verschiedene Stärken wirken und wie es am iPhone ohne Fotokenntnisse geht.",
+      "image": "/img/appstore/de/04-box.webp",
+      "image_alt": "Frau scharf, Hintergrund verschwommen am iPhone",
+      "native": {
+        "heading": "So macht es die iPhone-Kamera",
+        "paragraphs": [
+          "Im Porträtmodus speichert die Kamera eine Tiefenkarte und lässt den Hintergrund sofort verschwimmen. Die Stärke lässt sich später in Fotos → Bearbeiten ändern. Wurde das Foto im normalen Modus aufgenommen, fehlt diese Einstellung – der Hintergrund bleibt scharf, bis Sie es in einer anderen App bearbeiten."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "So wirkt jede Stärke",
+          "paragraphs": [
+            "Leicht: Die Umgebung ist erkennbar (Café, Park), konkurriert aber nicht mehr mit der Person. Ideal für Profil- und Bewerbungsfotos.",
+            "Mittel: Der Hintergrund wird zu Formen und Farben. Der typischste Porträt-Look für Posts.",
+            "Stark: Vom Hintergrund bleiben Farbflecken. Gut für Stories oder wenn die Umgebung wirklich stört."
+          ]
+        },
+        {
+          "heading": "Wenn die Kante unsauber ist",
+          "paragraphs": [
+            "Das passiert vor allem bei offenen Haaren oder wenn Hintergrund und Kleidung dieselbe Farbe haben. Radius etwas senken – bei geringerer Stärke fällt die Kante weniger auf. Bei Bedarf können Sie mit dem Tab Manual den Bereich, der verschwimmen soll, von Hand übermalen."
+          ]
+        }
+      ],
+      "steps_title": "Hintergrund verschwommen machen in der App",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Foto öffnen",
+          "description": "Bild in MakeBlur auswählen."
+        },
+        {
+          "number": "2",
+          "title": "Tab Background",
+          "description": "Die App findet die Person und markiert den Hintergrund."
+        },
+        {
+          "number": "3",
+          "title": "Stärke einstellen",
+          "description": "Radius von leicht nach stark ziehen und aufhören, wenn der Hintergrund nicht mehr ablenkt."
+        },
+        {
+          "number": "4",
+          "title": "Sichern",
+          "description": "Save tippen – die Kopie mit verschwommenem Hintergrund liegt in der Mediathek."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Mit mittlerer Stärke beginnen: Erhöhen ist leicht, zu viel Unschärfe wirkt unecht.",
+        "Bei Gruppenfotos prüfen, ob alle Personen scharf bleiben.",
+        "Den Hintergrund nicht verschwimmen lassen, wenn er wichtig ist – etwa ein Wahrzeichen im Urlaub."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Wie bekomme ich einen verschwommenen Hintergrund, wenn das Foto schon gemacht ist?",
+          "answer": "In der App öffnen, Tab Background, Radius einstellen und sichern. Eine neue Aufnahme ist nicht nötig."
+        },
+        {
+          "question": "Brauche ich ein neues iPhone?",
+          "answer": "Nein. Jedes iPhone mit iOS 18.6 oder neuer reicht."
+        },
+        {
+          "question": "Kann ich den scharfen Hintergrund zurückholen?",
+          "answer": "Ja – die App sichert eine neue Kopie, das Original bleibt in der Mediathek."
+        }
+      ],
+      "related": [
+        "hintergrund-unscharf-machen-iphone.html",
+        "foto-hintergrund-unscharf-machen.html",
+        "gausscher-weichzeichner-iphone.html",
+        "bokeh-effekt-iphone.html"
+      ],
+      "cta_title": "Verschwommener Hintergrund in einer Minute",
+      "cta_body": "„Hintergrund unscharf machen“ laden, Foto öffnen, Stärke wählen, sichern. Kostenlos und ohne Upload.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "blur-app-iphone.html",
+      "keyword": "Blur App iPhone",
+      "cluster": "background",
+      "card_title": "Blur App fürs iPhone",
+      "card_excerpt": "Porträtmodus, Markieren, Bereinigen, Websites oder eigene App – ein ehrlicher Vergleich für Fotos, die schon gemacht sind.",
+      "card_image": "/img/appstore/de/04-box.webp",
+      "card_image_alt": "Blur App für das iPhone im Einsatz",
+      "meta_title": "Blur App fürs iPhone: Hintergrund unscharf – was nehmen?",
+      "meta_description": "Welche Blur App fürs iPhone? Porträtmodus, Markieren, Bereinigen, Online-Tools und eine eigene App zum Hintergrund unscharf machen im ehrlichen Vergleich.",
+      "h1": "Blur App fürs iPhone: Was wirklich hilft",
+      "answer": "Ist das Foto nicht im Porträtmodus entstanden, machen die iPhone-Werkzeuge den Hintergrund nicht unscharf – dafür braucht es eine Blur App, die das Motiv selbst erkennt. MakeBlur („Hintergrund unscharf machen“) erledigt das auf dem Gerät, ohne Upload, und macht zusätzlich Gesichter, Bereiche und ganze Fotos unscharf. Online-Tools passen, wenn Sie das Foto auf einen fremden Server laden möchten.",
+      "intro": "Im App Store gibt es Dutzende Apps mit „Blur“ oder „unscharf“ im Namen, und blind auswählen ist mühsam. Statt einer Rangliste fremder Apps hier ein Vergleich der Methoden: was das iPhone selbst kann, was Websites bieten und auf welche Funktionen Sie bei einer App achten sollten.",
+      "image": "/img/appstore/de/04-box.webp",
+      "image_alt": "Scharfe Frau vor unscharfem Hintergrund: Ergebnis einer iPhone-App",
+      "native": {
+        "heading": "Eingebaute Optionen und ihre Grenzen",
+        "paragraphs": [
+          "Porträtmodus: das beste Ergebnis, aber nur beim Fotografieren und auf ein paar Meter Abstand. Fotos → Bearbeiten → Tiefe: nur bei Porträtfotos. Markieren: deckt einen Bereich mit Form oder Stift ab – keine Unschärfe. Bereinigen (Apple Intelligence): nur ab iPhone 15 Pro und gedacht zum Entfernen von Objekten, nicht zum Weichzeichnen des Hintergrunds."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Online-Tools",
+          "paragraphs": [
+            "Sie funktionieren im Browser, aber das Foto muss auf deren Server, oft mit Wasserzeichen oder begrenzter Auflösung. Für private Fotos, Kinderfotos oder Dokumente nicht ideal – auch mit Blick auf die DSGVO. Auf dieser Website gibt es ebenfalls einen Online-Editor, der aber nur das ganze Foto unscharf macht: Die gezielte Hintergrund-Unschärfe übernimmt die App."
+          ]
+        },
+        {
+          "heading": "Was eine gute Blur App können sollte",
+          "paragraphs": [
+            "Das Motiv auf jedem Foto finden, nicht nur bei Porträts. Die Stärke regelbar machen statt eines festen Effekts. Auf dem Gerät arbeiten. Gesichter und freie Bereiche unscharf machen – für den Datenschutz braucht man das so oft wie einen schönen Hintergrund.",
+            "MakeBlur erfüllt all das: Tabs Background, Faces, Manual und Full Photo, sieben Stile, Regler Radius und Offline-Verarbeitung auf iPhones mit iOS 18.6 oder neuer."
+          ]
+        }
+      ],
+      "steps_title": "In einer Minute ausprobieren",
+      "steps": [
+        {
+          "number": "1",
+          "title": "App laden",
+          "description": "„Hintergrund unscharf machen“ (MakeBlur), kostenlos im App Store."
+        },
+        {
+          "number": "2",
+          "title": "Beliebiges Foto öffnen",
+          "description": "Am besten eines, bei dem der Porträtmodus nicht geklappt hat."
+        },
+        {
+          "number": "3",
+          "title": "Background und Radius",
+          "description": "Das Motiv wird erkannt; Stärke mit dem Regler einstellen."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Ergebnis mit dem Original in der Mediathek vergleichen."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Testen Sie eine App mit einem schwierigen Foto: offene Haare und ähnlich farbiger Hintergrund.",
+        "Achten Sie darauf, wo das Foto verarbeitet wird: auf dem Gerät oder auf einem Server.",
+        "Prüfen Sie auch die Modi für Gesichter und freie Bereiche – Sie werden sie brauchen."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Gibt es eine kostenlose Blur App fürs iPhone?",
+          "answer": "Ja, „Hintergrund unscharf machen“ (MakeBlur) lädt kostenlos und enthält die einfache Hintergrund-Unschärfe. Erweiterte Stile sind optional über In-App-Käufe erhältlich."
+        },
+        {
+          "question": "Geht es auch ohne App?",
+          "answer": "Nur bei Porträtfotos. Für alle anderen bietet der eingebaute Editor keine Hintergrund-Unschärfe."
+        },
+        {
+          "question": "Auf welchen iPhones läuft die App?",
+          "answer": "Auf jedem iPhone mit iOS 18.6 oder neuer, ohne Apple Intelligence oder Porträt-Kamera."
+        }
+      ],
+      "related": [
+        "hintergrund-unscharf-machen-iphone.html",
+        "foto-hintergrund-unscharf-machen.html",
+        "gesicht-unkenntlich-machen-foto.html",
+        "teil-foto-unscharf-machen-iphone.html"
+      ],
+      "cta_title": "Mit Ihrem eigenen Foto testen",
+      "cta_body": "„Hintergrund unscharf machen“ laden und den Hintergrund des Fotos weichzeichnen, bei dem der Porträtmodus versagt hat. Kostenlos und ohne Upload.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "gesicht-unkenntlich-machen-foto.html",
+      "keyword": "Gesicht unkenntlich machen",
+      "cluster": "privacy",
+      "card_title": "Gesicht auf Foto unkenntlich machen",
+      "card_excerpt": "Gesichter vor dem Posten verbergen: automatisch, auf jedem iPhone, ohne Apple Intelligence.",
+      "card_image": "/img/appstore/de/03-face.webp",
+      "card_image_alt": "Tab Faces macht alle erkannten Gesichter unscharf",
+      "meta_title": "Gesicht auf Foto unkenntlich machen am iPhone (automatisch)",
+      "meta_description": "Gesicht auf einem Foto unkenntlich machen am iPhone: Die App erkennt alle Gesichter, Sie wählen die Stärke und sichern. Jedes iPhone, ohne Apple Intelligence.",
+      "h1": "Gesicht auf einem Foto unkenntlich machen am iPhone",
+      "answer": "Um ein Gesicht auf einem Foto unkenntlich zu machen, öffnen Sie es in MakeBlur und wechseln zum Tab Faces (Gesichter): Die App erkennt alle Gesichter und macht jedes unscharf. Wählen Sie einen Stil – Pixelate für klares Verpixeln oder Gaussian für weichere Unschärfe –, erhöhen Sie Radius, bis die Gesichtszüge nicht mehr erkennbar sind, und tippen Sie auf Save. Das klappt auf jedem iPhone mit iOS 18.6, ohne Apple Intelligence.",
+      "intro": "Gesichter unkenntlich machen gehört zum guten Ton, bevor man ein Gruppenfoto, ein Bild vom Schulfest oder eine Straßenszene postet – nicht jeder hat zugestimmt, im Netz zu erscheinen, und in Deutschland gilt das Recht am eigenen Bild. iOS bietet inzwischen eine eingebaute Möglichkeit, aber nur auf manchen iPhones. Hier die Grenzen und der Weg für jedes Modell.",
+      "image": "/img/appstore/de/03-face.webp",
+      "image_alt": "Raster erkannter Gesichter, jedes unscharf, im Tab Faces",
+      "native": {
+        "heading": "Was die Fotos-App bietet",
+        "paragraphs": [
+          "Auf iPhone 15 Pro, iPhone 16 und neuer mit aktivierter Apple Intelligence lässt sich in Fotos → Bearbeiten → „Bereinigen“ ein Gesicht umkreisen; die Funktion Identitätsschutz verpixelt es dann. Das geht Gesicht für Gesicht und fehlt auf älteren iPhones. Ohne Apple Intelligence bleibt nur „Markieren“: Das Gesicht wird mit einer Form oder einem Sticker abgedeckt – versteckt, aber nicht unscharf."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Automatische Gesichtsunschärfe auf jedem iPhone",
+          "paragraphs": [
+            "MakeBlur hat einen eigenen Tab Faces. Er erkennt die Gesichter im Bild und zeigt sie bereits unscharf in einem Raster – ein Gruppenfoto mit zwölf Personen ist also ein Tipp statt zwölf Pinselstriche. Den Stil wählen Sie: Pixelate für das klassische Mosaik, Gaussian oder Box für einen weicheren Look; die Stärke regelt Radius.",
+            "Alles läuft auf dem iPhone, ohne Internet – wichtig, wenn es genau um Datenschutz geht."
+          ]
+        },
+        {
+          "heading": "Manche Gesichter unscharf, andere nicht",
+          "paragraphs": [
+            "Soll Ihr eigenes Gesicht sichtbar bleiben und die anderen nicht, nehmen Sie den Tab Manual: nur die Gesichter übermalen, die verborgen werden sollen. Stil und Radius gelten für den übermalten Bereich."
+          ]
+        },
+        {
+          "heading": "Wie stark unscharf",
+          "paragraphs": [
+            "Bei leichter Unschärfe erkennen Bekannte die Person noch. Für echte Anonymität Pixelate oder Gaussian mit so hohem Radius wählen, dass Augen, Nase und Mund auch bei maximalem Zoom nicht mehr zu unterscheiden sind. Im App-Store-Screenshot stehen Gesichter auf Radius 80 – ein guter Startwert."
+          ]
+        }
+      ],
+      "steps_title": "Gesichter in der App unkenntlich machen",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Foto öffnen",
+          "description": "Gruppenfoto, Straßenszene oder Screenshot – jedes Bild aus der Mediathek."
+        },
+        {
+          "number": "2",
+          "title": "Tab Faces",
+          "description": "Die Gesichter werden automatisch erkannt und erscheinen unscharf im Raster."
+        },
+        {
+          "number": "3",
+          "title": "Stil und Radius",
+          "description": "Pixelate für deutlichen Datenschutz, Gaussian für weichere Unschärfe. Radius erhöhen, bis die Züge nicht mehr erkennbar sind."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Die gesicherte Kopie posten, nicht das Original."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Jedes Gesicht vor dem Sichern heranzoomen: Was auf dem kleinen Display stark wirkt, kann noch erkennbar sein.",
+        "Erst unscharf machen, dann für den Messenger komprimieren – die Erkennung braucht das volle Bild.",
+        "Bei Schul- oder Sportfotos auch Trikots, Startnummern oder Schilder unkenntlich machen, die den Ort verraten."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Wie mache ich ein Gesicht ohne Apple Intelligence unkenntlich?",
+          "answer": "Mit MakeBlur: Der Tab Faces erkennt und verpixelt Gesichter auf jedem iPhone mit iOS 18.6 oder neuer."
+        },
+        {
+          "question": "Kann ich mehrere Gesichter auf einmal unkenntlich machen?",
+          "answer": "Ja. Alle erkannten Gesichter werden zusammen mit demselben Stil und derselben Stärke unscharf."
+        },
+        {
+          "question": "Lässt sich die Unschärfe auf einem geposteten Foto rückgängig machen?",
+          "answer": "Starkes Verpixeln oder ein hoher Radius entfernen die Details aus der gesicherten Kopie. Posten Sie nicht das Original und wählen Sie eine Stärke, bei der die Züge beim Zoomen nicht mehr erkennbar sind."
+        },
+        {
+          "question": "Werden Fotos zur Gesichtserkennung an einen Server geschickt?",
+          "answer": "Nein, alles passiert auf dem Gerät."
+        }
+      ],
+      "related": [
+        "teil-foto-unscharf-machen-iphone.html",
+        "bild-verpixeln-iphone.html",
+        "text-screenshot-schwaerzen-iphone.html",
+        "kennzeichen-unkenntlich-machen-foto.html"
+      ],
+      "cta_title": "Teilen Sie das Foto, nicht die Gesichter",
+      "cta_body": "„Hintergrund unscharf machen“ laden, Faces öffnen, Radius einstellen, sichern. Kostenlos, auf dem Gerät, auf jedem iPhone mit iOS 18.6.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "teil-foto-unscharf-machen-iphone.html",
+      "keyword": "Teil eines Fotos unscharf machen iPhone",
+      "cluster": "privacy",
+      "card_title": "Teil eines Fotos unscharf machen",
+      "card_excerpt": "Fotos hat keinen Unschärfe-Pinsel. So malen Sie einen Bereich mit dem Finger an und machen nur ihn unscharf.",
+      "card_image": "/img/appstore/de/05-crystalize.webp",
+      "card_image_alt": "Unschärfe auf einem bestimmten Bereich des Fotos am iPhone",
+      "meta_title": "Teil eines Fotos unscharf machen am iPhone – mit dem Finger",
+      "meta_description": "Teil eines Fotos am iPhone unscharf machen: Fotos bietet nur Formen in Markieren. In der App den Bereich mit dem Finger übermalen, Stärke wählen, sichern.",
+      "h1": "Teil eines Fotos am iPhone unscharf machen",
+      "answer": "Um einen Teil eines Fotos am iPhone unscharf zu machen, öffnen Sie es in MakeBlur, wechseln zum Tab Manual (Pinsel) und fahren mit dem Finger über den Bereich, der verschwinden soll. Wählen Sie einen Stil – Pixelate, Gaussian oder Box –, stellen Sie die Stärke mit Radius ein und tippen Sie auf Save. Nur der übermalte Bereich wird unscharf, der Rest bleibt scharf.",
+      "intro": "Hausnummer, Gesicht eines Passanten, Adresse auf einem Umschlag, ein fremdes Kind im Hintergrund: Oft soll weder das ganze Foto noch der ganze Hintergrund unscharf werden, sondern nur ein bestimmter Bereich. Der iPhone-Editor kann das nicht, und die meisten Tipps im Netz empfehlen ein Rechteck darüber. Es geht sauberer.",
+      "image": "/img/appstore/de/05-crystalize.webp",
+      "image_alt": "Bereich des Fotos mit dem Stil Crystallize unscharf gemacht",
+      "native": {
+        "heading": "Was Fotos bietet",
+        "paragraphs": [
+          "Fotos hat keinen Unschärfe-Pinsel. Mit „Markieren“ können Sie eine Form darüberlegen oder mit dem Stift übermalen – ein deckender Flicken, keine Unschärfe, und er fällt auf. „Bereinigen“ (Apple Intelligence) entfernt Objekte und gibt es nur ab iPhone 15 Pro."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Ein manueller Unschärfe-Pinsel",
+          "paragraphs": [
+            "Der Tab Manual in MakeBlur ist ein Pinsel: Finger darüberziehen, darunter erscheint die Unschärfe des gewählten Stils. Mehrere Bereiche nacheinander sind möglich – Text in der Ecke, ein Gesicht in der Menge, ein Kennzeichen.",
+            "Der Stil bestimmt den Look: Pixelate und Box für klaren Datenschutz, Gaussian für eine weiche, fast unsichtbare Unschärfe, Crystallize und Hexagonal für ein dekoratives Mosaik."
+          ]
+        },
+        {
+          "heading": "Wann andere Modi besser passen",
+          "paragraphs": [
+            "Sollen alle Gesichter weg, ist Faces schneller. Soll alles rund um eine Person unscharf werden, nehmen Sie Background. Manual ist ideal, wenn der Bereich frei gewählt ist und die Automatik ihn nicht erraten kann."
+          ]
+        }
+      ],
+      "steps_title": "Einen Teil in der App unscharf machen",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Foto öffnen",
+          "description": "Foto oder Screenshot in der App wählen."
+        },
+        {
+          "number": "2",
+          "title": "Tab Manual",
+          "description": "Mit dem Finger über den Bereich fahren, der unscharf werden soll."
+        },
+        {
+          "number": "3",
+          "title": "Stil und Stärke",
+          "description": "Pixelate für Datenschutz oder Gaussian für einen weichen Effekt; Radius regelt die Stärke."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Kopie sichern und vergrößert prüfen."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Mit zwei Fingern heranzoomen, um kleine Details sauber zu übermalen.",
+        "Etwas über das Objekt hinaus malen – so verrät die Kante nicht, was darunter ist.",
+        "Für Texte und Kennzeichen Pixelate mit hohem Radius nehmen: Ein leichtes Gaussian lässt Buchstaben manchmal lesbar."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Kann man mit den iPhone-Werkzeugen einen Teil eines Fotos unscharf machen?",
+          "answer": "Nein. Fotos hat keinen Unschärfe-Pinsel, nur Formen und Stift in „Markieren“."
+        },
+        {
+          "question": "Kann ich mehrere Bereiche unscharf machen?",
+          "answer": "Ja, in Manual beliebig viele Bereiche übermalen – sie werden im selben Stil unscharf."
+        },
+        {
+          "question": "Geht das mit Screenshots?",
+          "answer": "Ja, Manual funktioniert mit allen Bildern der Mediathek, auch mit Screenshots."
+        }
+      ],
+      "related": [
+        "text-screenshot-schwaerzen-iphone.html",
+        "kennzeichen-unkenntlich-machen-foto.html",
+        "gesicht-unkenntlich-machen-foto.html",
+        "bild-verpixeln-iphone.html"
+      ],
+      "cta_title": "Genau das unscharf machen, was nötig ist",
+      "cta_body": "„Hintergrund unscharf machen“ laden, Manual öffnen und den Bereich mit dem Finger übermalen. Kostenlos, ohne Upload.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "kennzeichen-unkenntlich-machen-foto.html",
+      "keyword": "Kennzeichen unkenntlich machen",
+      "cluster": "privacy",
+      "card_title": "Kennzeichen auf Foto unkenntlich machen",
+      "card_excerpt": "Für mobile.de, Kleinanzeigen oder AutoScout24: Das Kennzeichen ist unlesbar, die Anzeige bleibt sauber.",
+      "card_image": "/img/appstore/de/05-crystalize.webp",
+      "card_image_alt": "Kennzeichen durch Verpixeln unkenntlich gemacht",
+      "meta_title": "Kennzeichen auf Foto unkenntlich machen am iPhone (gratis)",
+      "meta_description": "Kennzeichen auf einem Foto unkenntlich machen für mobile.de, Kleinanzeigen oder AutoScout24: übermalen, verpixeln, sichern. Am iPhone, kostenlos, offline.",
+      "h1": "Kennzeichen auf einem Foto unkenntlich machen am iPhone",
+      "answer": "Um ein Kennzeichen auf einem Foto unkenntlich zu machen, öffnen Sie das Bild in MakeBlur, wählen den Tab Manual, fahren mit dem Finger über das Kennzeichen, wählen den Stil Pixelate oder Box und erhöhen Radius, bis kein Zeichen mehr lesbar ist. Tippen Sie auf Save und laden Sie diese Kopie in die Anzeige hoch.",
+      "intro": "Wer sein Auto auf mobile.de, Kleinanzeigen oder AutoScout24 verkauft – oder es einfach auf Instagram zeigt –, macht das Kennzeichen oft unkenntlich: Das senkt das Risiko, dass jemand die Daten für Kennzeichen-Missbrauch oder Betrug nutzt. Ob das rechtlich nötig ist, wird unterschiedlich gesehen; viele machen es einfach sicherheitshalber. Die Anzeige soll trotzdem gepflegt aussehen – ein schwarzer Balken auf der Stoßstange wirkt billig. Sauberes Verpixeln löst beides.",
+      "image": "/img/appstore/de/05-crystalize.webp",
+      "image_alt": "Verpixeln eines Bildbereichs in der App",
+      "native": {
+        "heading": "Was mit Fotos geht",
+        "paragraphs": [
+          "In „Markieren“ können Sie das Kennzeichen mit einer Form abdecken oder mit dem Stift übermalen. Es ist dann versteckt, aber der Flicken wirkt grob, und der halbtransparente Stift lässt Zeichen manchmal durchscheinen. Einen Bereich unscharf machen oder verpixeln kann der eingebaute Editor nicht."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Verpixeln oder weichzeichnen?",
+          "paragraphs": [
+            "Für Kennzeichen am sichersten: Pixelate oder Box mit hohem Radius – große Blöcke löschen die Zeichen. Leichtes Gaussian kann das Kennzeichen erratbar lassen, besonders bei hochauflösenden Fotos.",
+            "Crystallize verbirgt es ebenfalls, wirkt aber dekorativ; für eine Anzeige ist neutrales Verpixeln besser."
+          ]
+        },
+        {
+          "heading": "Wenn es viele Fotos sind",
+          "paragraphs": [
+            "Eine Anzeige hat oft 10 bis 20 Fotos, das Kennzeichen ist auf drei oder vier zu sehen. Nacheinander bearbeiten: öffnen, Manual, übermalen, Save – je eine halbe Minute. Auch Spiegelungen prüfen: Das Kennzeichen ist manchmal in einem Schaufenster oder durch die Scheibe auf einem Innenraumfoto zu sehen."
+          ]
+        }
+      ],
+      "steps_title": "Kennzeichen in der App unkenntlich machen",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Foto des Autos öffnen",
+          "description": "Ein Foto wählen, auf dem das Kennzeichen zu sehen ist."
+        },
+        {
+          "number": "2",
+          "title": "Tab Manual",
+          "description": "Heranzoomen und das Kennzeichen mit etwas Rand übermalen."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate und Radius",
+          "description": "Stärke erhöhen, bis beim Zoomen kein Zeichen mehr lesbar ist."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Die gesicherte Kopie in die Anzeige hochladen."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Das ganze Schild abdecken, nicht nur die Zeichen – das Euro-Feld und die Plakette verraten schon einiges.",
+        "Front- und Heckfotos prüfen: An beiden Stoßstangen ist ein Kennzeichen.",
+        "Sind Fahrgestellnummer oder Fahrzeugschein im Bild, genauso unkenntlich machen."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Muss ich das Kennzeichen in einer Verkaufsanzeige unkenntlich machen?",
+          "answer": "Pflicht ist es nicht eindeutig, aber viele Verkäufer machen es, damit niemand die Fahrzeugdaten nutzt. Das entscheiden Sie. Dies ist keine Rechtsberatung."
+        },
+        {
+          "question": "Lässt sich ein verpixeltes Kennzeichen wiederherstellen?",
+          "answer": "Bei großen Blöcken nicht: Die Details werden aus der gesicherten Kopie entfernt. Posten Sie nicht das Original."
+        },
+        {
+          "question": "Werden die Fotos irgendwohin hochgeladen?",
+          "answer": "Nein, alles läuft auf dem iPhone, ohne Internet."
+        }
+      ],
+      "related": [
+        "teil-foto-unscharf-machen-iphone.html",
+        "bild-verpixeln-iphone.html",
+        "text-screenshot-schwaerzen-iphone.html",
+        "gesicht-unkenntlich-machen-foto.html"
+      ],
+      "cta_title": "Kennzeichen weg, Anzeige sauber",
+      "cta_body": "„Hintergrund unscharf machen“ laden, Kennzeichen in Manual übermalen und sichern. Kostenlos, direkt auf dem iPhone.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "text-screenshot-schwaerzen-iphone.html",
+      "keyword": "Text auf Screenshot schwärzen",
+      "cluster": "privacy",
+      "card_title": "Text auf Screenshot schwärzen",
+      "card_excerpt": "Chats, Adressen, Bestellungen oder Nummern: so unkenntlich machen, dass nichts mehr lesbar ist.",
+      "card_image": "/img/appstore/de/05-crystalize.webp",
+      "card_image_alt": "Text auf einem Screenshot durch Verpixeln geschwärzt",
+      "meta_title": "Text auf Screenshot schwärzen am iPhone – wirklich sicher",
+      "meta_description": "Text auf einem Screenshot am iPhone schwärzen, sodass er nicht mehr lesbar ist: Pinsel, Verpixeln und Prüfung per Zoom. Kostenlos und offline auf dem Gerät.",
+      "h1": "Text auf einem Screenshot am iPhone schwärzen",
+      "answer": "Um Text auf einem Screenshot zu schwärzen, öffnen Sie ihn in MakeBlur, wählen den Tab Manual und übermalen mit dem Finger die Zeilen, die weg sollen. Stil Pixelate wählen, Radius erhöhen, bis die Buchstaben beim Zoomen nicht mehr erkennbar sind, und Save tippen. Teilen Sie die gesicherte Kopie.",
+      "intro": "Ein Screenshot von Chat, Bestellung, Sendungsnummer oder Ticket enthält fast immer etwas zu viel: einen Namen, eine Nummer, eine Adresse, einen Betrag. Der Markierstift des iPhone verbirgt Text schlecht: Seine halbtransparenten Striche lassen Buchstaben manchmal durchscheinen, wenn man Helligkeit oder Kontrast erhöht. So machen Sie Text dauerhaft unlesbar.",
+      "image": "/img/appstore/de/05-crystalize.webp",
+      "image_alt": "Verpixeln eines Bildbereichs am iPhone",
+      "native": {
+        "heading": "Warum der Markierstift nicht reicht",
+        "paragraphs": [
+          "Nach einem Screenshot können Sie auf die Vorschau tippen und den Text mit dem Stift übermalen. Problem: Der Markierstift ist halbtransparent, bei mehr Belichtung oder Kontrast werden Buchstaben manchmal wieder sichtbar. Eine deckende Form ist sicherer, aber grob. Unschärfe oder Verpixeln eines Bereichs bietet iOS nicht."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Text sicher unkenntlich machen",
+          "paragraphs": [
+            "Verpixeln mit großen Blöcken ersetzt Buchstaben durch einfarbige Quadrate – die Information verschwindet aus der gesicherten Kopie. Im Tab Manual von MakeBlur die Zeilen übermalen, Pixelate wählen und Radius erhöhen. Bei kleinem Text muss der Block größer sein als die Buchstabenhöhe.",
+            "Gaussian sieht schön aus, ist bei Text aber riskant: Bei geringer Stärke lassen sich Wörter an ihrer Form erkennen."
+          ]
+        },
+        {
+          "heading": "Was man besser schwärzt",
+          "paragraphs": [
+            "Telefon-, Karten- und Kontonummern (IBAN), Adressen, vollständige Namen, Bestell- und Sendungsnummern, Profilbilder, QR- und Barcodes von Tickets. Bei Chat-Screenshots Namen und Bild des Gegenübers, wenn es nicht zugestimmt hat."
+          ]
+        }
+      ],
+      "steps_title": "Text in der App schwärzen",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Screenshot öffnen",
+          "description": "In der App aus der Mediathek auswählen."
+        },
+        {
+          "number": "2",
+          "title": "Tab Manual",
+          "description": "Heranzoomen und die Textzeilen inklusive Rand übermalen."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate und Radius",
+          "description": "Stärke erhöhen, bis die Buchstaben zu Blöcken werden."
+        },
+        {
+          "number": "4",
+          "title": "Save und prüfen",
+          "description": "Gesicherte Kopie öffnen, zoomen und sicherstellen, dass nichts lesbar ist."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Die ganze Zeile schwärzen: An der Wortlänge lässt sich manchmal ein Name oder Betrag erraten.",
+        "Den Original-Screenshot nicht „zur Sicherheit“ an sich selbst schicken – er bleibt in der Cloud des Messengers.",
+        "QR- und Barcodes komplett abdecken: Auch teilweise sichtbare Codes können noch lesbar sein."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Kann man mit dem iPhone-Stift übermalten Text lesen?",
+          "answer": "Manchmal ja: Der Markierstift in „Markieren“ ist halbtransparent. Verpixeln mit großen Blöcken ist sicherer."
+        },
+        {
+          "question": "Geht das auch bei Fotos von Dokumenten?",
+          "answer": "Ja, Manual funktioniert mit allen Bildern: Ausweis, Kassenbon, Vertrag."
+        },
+        {
+          "question": "Brauche ich Internet?",
+          "answer": "Nein, alles läuft auf dem Gerät, der Screenshot wird nirgendwohin gesendet."
+        }
+      ],
+      "related": [
+        "teil-foto-unscharf-machen-iphone.html",
+        "bild-verpixeln-iphone.html",
+        "kennzeichen-unkenntlich-machen-foto.html",
+        "gesicht-unkenntlich-machen-foto.html"
+      ],
+      "cta_title": "Screenshots ohne zu viele Daten",
+      "cta_body": "„Hintergrund unscharf machen“ laden, Text in Manual übermalen und eine Kopie sichern. Kostenlos, auf dem Gerät.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "bild-verpixeln-iphone.html",
+      "keyword": "Bild verpixeln iPhone",
+      "cluster": "privacy",
+      "card_title": "Bild verpixeln am iPhone",
+      "card_excerpt": "Mosaik für den Datenschutz oder als Retro-Effekt: auf Gesicht, Hintergrund oder ganzem Foto.",
+      "card_image": "/img/appstore/de/05-crystalize.webp",
+      "card_image_alt": "Mosaik-Effekt im Hintergrund eines Fotos",
+      "meta_title": "Bild verpixeln am iPhone: Mosaik kostenlos und offline",
+      "meta_description": "Bild am iPhone verpixeln: Mosaik auf Hintergrund, Gesichtern, einem Bereich oder dem ganzen Foto. Stile Pixelate, Hexagonal und Crystallize. Kostenlos, offline.",
+      "h1": "Bild verpixeln am iPhone",
+      "answer": "Um ein Bild am iPhone zu verpixeln, öffnen Sie es in MakeBlur, wählen, was bearbeitet wird – Hintergrund (Background), Gesichter (Faces), ein Bereich per Pinsel (Manual) oder das ganze Bild (Full Photo) –, und dann den Stil Pixelate. Die Blockgröße regelt Radius. Save tippen – die verpixelte Kopie landet in der Mediathek.",
+      "intro": "Verpixeln heißt, einen Bildbereich in ein Mosaik aus Farbquadraten zu verwandeln. Das dient dem Datenschutz (Gesichter, Kennzeichen, Text) und als Effekt: Retro, Videospiel-Look, abstrakter Hintergrund. Einen Verpixeln-Filter hat das iPhone nicht, aber es sind nur zwei Tipps.",
+      "image": "/img/appstore/de/05-crystalize.webp",
+      "image_alt": "Hintergrund des Fotos in ein Mosaik verwandelt",
+      "native": {
+        "heading": "Kann Fotos verpixeln?",
+        "paragraphs": [
+          "Als Filter nicht. In „Markieren“ lässt sich nur zeichnen und mit Formen abdecken. „Bereinigen“ mit Identitätsschutz (Apple Intelligence) verpixelt ein von Hand markiertes Gesicht, aber nur auf iPhone 15 Pro und neuer."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Drei Arten von Mosaik",
+          "paragraphs": [
+            "Pixelate: quadratische Blöcke, die klassische Zensur. Hexagonal: sechseckige Waben, weicher und dekorativer. Crystallize: unregelmäßige Kristalle, wie im App-Store-Screenshot „Pixel-Privacy mit einem Tipp“. Für Datenschutz Pixelate, als Effekt nach Geschmack."
+          ]
+        },
+        {
+          "heading": "Wo anwenden",
+          "paragraphs": [
+            "Background: Motiv bleibt scharf, Hintergrund wird zum Mosaik – stark für Posts. Faces: alle Gesichter verpixelt. Manual: ein bestimmter Bereich wie Kennzeichen, Text oder Schild. Full Photo: das ganze Bild, etwa als Cover oder abstrakter Hintergrund."
+          ]
+        }
+      ],
+      "steps_title": "In der App verpixeln",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Foto öffnen",
+          "description": "Bild in MakeBlur auswählen."
+        },
+        {
+          "number": "2",
+          "title": "Modus wählen",
+          "description": "Background, Faces, Manual oder Full Photo – je nachdem, was verschwinden soll."
+        },
+        {
+          "number": "3",
+          "title": "Stil Pixelate",
+          "description": "Radius ändert die Blockgröße."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Die verpixelte Kopie wird in der Mediathek gesichert."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Für Datenschutz muss ein Block größer sein als ein Auge oder ein Buchstabe – sonst lässt sich das Detail erraten.",
+        "Als Effekt: Hexagonal im Hintergrund probieren – Person scharf, Hintergrund als Wabenmuster.",
+        "Ein Mosaik übers ganze Foto ergibt ein perfektes unscharfes Story-Cover."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Wie verpixele ich ein Gesicht?",
+          "answer": "Tab Faces + Stil Pixelate: Alle erkannten Gesichter werden zum Mosaik."
+        },
+        {
+          "question": "Kann man ein verpixeltes Bild wiederherstellen?",
+          "answer": "Nicht, wenn die Blöcke größer als die Details sind: Die Information wird aus der gesicherten Kopie entfernt."
+        },
+        {
+          "question": "Landen die Fotos in der Cloud?",
+          "answer": "Nein. Alles wird auf dem iPhone verarbeitet, ohne Internet."
+        }
+      ],
+      "related": [
+        "gesicht-unkenntlich-machen-foto.html",
+        "text-screenshot-schwaerzen-iphone.html",
+        "kennzeichen-unkenntlich-machen-foto.html",
+        "teil-foto-unscharf-machen-iphone.html"
+      ],
+      "cta_title": "Mosaik mit einem Tipp",
+      "cta_body": "„Hintergrund unscharf machen“ laden, Pixelate wählen und die Blockgröße einstellen. Kostenlos, ohne Upload.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "motion-blur-foto.html",
+      "keyword": "Motion Blur Foto",
+      "cluster": "effects",
+      "card_title": "Motion Blur (Bewegungsunschärfe) auf Fotos",
+      "card_excerpt": "Bewegungseffekt auf einem fertigen Foto: Motiv scharf, Hintergrund verwischt in der Richtung Ihrer Wahl.",
+      "card_image": "/img/appstore/de/02-motion.webp",
+      "card_image_alt": "Motion Blur hinter einer Frau, Radius 65",
+      "meta_title": "Motion Blur Foto am iPhone: Bewegungsunschärfe hinzufügen",
+      "meta_description": "Motion Blur (Bewegungsunschärfe) nachträglich auf ein Foto am iPhone: Hintergrund mit einstellbarer Richtung verwischen, Motiv bleibt scharf. Kostenlos.",
+      "h1": "Motion Blur auf Fotos: Bewegungsunschärfe am iPhone hinzufügen",
+      "answer": "Um Motion Blur auf ein Foto zu legen, öffnen Sie es in MakeBlur, lassen den Tab Background und wählen den Stil Motion. Der Regler Radius bestimmt die Länge des Wischeffekts, Angle die Richtung. Das Motiv bleibt scharf, der Hintergrund „bewegt sich“. Save tippen.",
+      "intro": "Motion Blur oder Bewegungsunschärfe ist der Wischeffekt, der bei langer Belichtungszeit oder beim Mitziehen der Kamera entsteht: Person oder Auto scharf, die Umgebung zu Streifen gezogen. In Deutschland ist es der meistgesuchte Unschärfe-Begriff überhaupt – noch vor „blur background“. Mit dem Smartphone gelingt er beim Fotografieren selten, lässt sich aber nachträglich hinzufügen, inklusive selbst gewählter Richtung.",
+      "image": "/img/appstore/de/02-motion.webp",
+      "image_alt": "Stil Motion: Hintergrund hinter der Frau verwischt, Gesicht scharf",
+      "native": {
+        "heading": "Was das iPhone beim Fotografieren kann",
+        "paragraphs": [
+          "In Fotos bieten Live Photos den Effekt „Langzeitbelichtung“: Er verwischt alles, was sich in der Szene bewegt hat, etwa Wasser, Autos oder Passanten. Das geht aber nur mit Live Photos und verwischt echte Bewegung, nicht den Hintergrund hinter einer stillstehenden Person. Motion Blur auf ein normales Foto legen ist mit den Bordmitteln nicht möglich."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Den Wischeffekt einstellen",
+          "paragraphs": [
+            "Radius regelt die Länge: niedrige Werte bringen etwas Dynamik, hohe ein Gefühl von Tempo. Angle legt die Richtung fest: waagerecht für Läufer oder Auto, diagonal für eine spannungsreichere Bildwirkung. Im App-Store-Screenshot steht der Effekt auf Radius 65.",
+            "Im Tab Background wird nur der Hintergrund verwischt; in Full Photo das ganze Bild – für einen „aus der Bewegung fotografiert“-Look."
+          ]
+        },
+        {
+          "heading": "Wo es am besten wirkt",
+          "paragraphs": [
+            "Sport, Fahrrad, Skateboard, Autos, Tanz, urbane Porträts bei Nacht. Weniger bei ruhigen Porträts in der Natur: Dort wirkt ein weiches Gaussian natürlicher."
+          ]
+        }
+      ],
+      "steps_title": "Motion Blur in der App hinzufügen",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Foto öffnen",
+          "description": "Am besten eines, bei dem das Motiv schon Bewegung andeutet."
+        },
+        {
+          "number": "2",
+          "title": "Background + Motion",
+          "description": "Das Motiv wird erkannt, der Hintergrund verwischt."
+        },
+        {
+          "number": "3",
+          "title": "Radius und Angle",
+          "description": "Länge des Wischeffekts und Bewegungsrichtung einstellen."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Kopie in Fotos sichern."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Den Effekt in Bewegungsrichtung des Motivs legen – so wirkt er natürlich.",
+        "Bei Porträts Radius nicht übertreiben: Starkes Verwischen frisst die Haarkante.",
+        "Für Stories Full Photo + Motion ausprobieren: ein dynamischer Hintergrund für Text."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Wie mache ich Motion Blur am iPhone?",
+          "answer": "Mit dem Stil Motion in MakeBlur: Radius für die Länge, Angle für die Richtung."
+        },
+        {
+          "question": "Kann ich nur den Hintergrund verwischen?",
+          "answer": "Ja, im Tab Background bleibt das Motiv scharf und nur der Hintergrund bewegt sich."
+        },
+        {
+          "question": "Geht das mit Live Photos?",
+          "answer": "Ja, die App bearbeitet das Bild des Live Photos wie ein normales Foto."
+        }
+      ],
+      "related": [
+        "gausscher-weichzeichner-iphone.html",
+        "bokeh-effekt-iphone.html",
+        "blur-effekt-foto.html",
+        "hintergrund-unscharf-machen-iphone.html"
+      ],
+      "cta_title": "Bringen Sie Bewegung ins Foto",
+      "cta_body": "„Hintergrund unscharf machen“ laden, Motion wählen und Radius sowie Angle einstellen. Kostenlos, direkt auf dem iPhone.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "bokeh-effekt-iphone.html",
+      "keyword": "Bokeh Effekt iPhone",
+      "cluster": "effects",
+      "card_title": "Bokeh-Effekt am iPhone",
+      "card_excerpt": "Ein weicher Hintergrund wie mit lichtstarkem Objektiv – bei Fotos ohne Porträtmodus.",
+      "card_image": "/img/appstore/de/06-ghost.webp",
+      "card_image_alt": "Weicher, verträumter Look auf einem Foto",
+      "meta_title": "Bokeh-Effekt am iPhone – nachträglich und kostenlos",
+      "meta_description": "Bokeh-Effekt am iPhone: was das ist, wann der Porträtmodus reicht und wie ein normales Foto nachträglich einen weichen Hintergrund bekommt. Kostenlos, offline.",
+      "h1": "Bokeh-Effekt am iPhone: so bekommen Sie einen weichen Hintergrund",
+      "answer": "Am einfachsten gelingt der Bokeh-Effekt am iPhone so: Foto in MakeBlur öffnen, Tab Background lassen, den weichen Stil Gaussian wählen und Radius erhöhen – der Hintergrund wird zu Farbflecken, die Person bleibt scharf. Für einen verträumteren Look probieren Sie Ghosting im Tab Full Photo.",
+      "intro": "Bokeh beschreibt das Aussehen des unscharfen Bereichs: weiche Licht- und Farbflecken hinter dem Motiv. Fotografen erreichen es mit lichtstarken Objektiven, das iPhone imitiert es mit dem Porträtmodus. Ist das Foto ohne Porträt entstanden, lässt sich ein ähnlich weicher Hintergrund nachträglich erzeugen.",
+      "image": "/img/appstore/de/06-ghost.webp",
+      "image_alt": "Stil Ghosting auf dem ganzen Foto: weicher, verträumter Look",
+      "native": {
+        "heading": "Bokeh mit dem Porträtmodus",
+        "paragraphs": [
+          "Im Porträtmodus macht das iPhone den Hintergrund unscharf und fügt die typischen Lichtflecken hinzu. In Fotos → Bearbeiten ändert der Blendenregler die Stärke. Die Grenzen bleiben: nur beim Fotografieren, in passendem Abstand zum Motiv und mit Tiefenkarte."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Bokeh und einfache Unschärfe",
+          "paragraphs": [
+            "Echtes optisches Bokeh hängt vom Objektiv ab: Form der Flecken, Wirbel, Säume um Laternen. Software-Unschärfe bildet das nicht vollständig nach, erreicht aber das Wesentliche: das Motiv vor einem weichen Hintergrund freizustellen. In sozialen Netzwerken fällt der Unterschied kaum auf.",
+            "Am meisten nach Bokeh sieht es bei Fotos mit Lichtern im Hintergrund aus: Lichterketten, Stadtlichter, Sonne durch Blätter."
+          ]
+        },
+        {
+          "heading": "Welcher Stil",
+          "paragraphs": [
+            "Gaussian im Tab Background: klassischer Porträt-Hintergrund. Ghosting in Full Photo: Das ganze Bild wird weich und luftig, wie im Screenshot „Sanfte Vibes mit Bokeh“. Box: eine etwas grafischere Unschärfe."
+          ]
+        }
+      ],
+      "steps_title": "Bokeh-Hintergrund in der App",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Foto öffnen",
+          "description": "Ideal: ein Foto mit Lichtern oder farbigem Hintergrund."
+        },
+        {
+          "number": "2",
+          "title": "Background + Gaussian",
+          "description": "Das Motiv wird erkannt, der Hintergrund weich."
+        },
+        {
+          "number": "3",
+          "title": "Radius einstellen",
+          "description": "Erhöhen, bis Details im Hintergrund zu Farbflecken werden."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Kopie sichern und mit dem Original vergleichen."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Abendfotos mit Lichtern liefern die bokeh-ähnlichste Unschärfe.",
+        "Bei einfarbigem Hintergrund ist Bokeh kaum zu sehen – dann Ghosting aufs ganze Foto probieren.",
+        "Selfies auf Armlänge nicht zu stark weichzeichnen – das wirkt künstlich."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Geht Bokeh auch bei alten Fotos?",
+          "answer": "Ja, die App funktioniert mit jedem Foto der Mediathek, ohne Tiefendaten."
+        },
+        {
+          "question": "Brauche ich ein iPhone mit Porträtmodus?",
+          "answer": "Nein, jedes iPhone mit iOS 18.6 oder neuer reicht."
+        },
+        {
+          "question": "Ist das kostenlos?",
+          "answer": "Der Download ist kostenlos, die einfache Hintergrund-Unschärfe ist enthalten; erweiterte Stile sind optional."
+        }
+      ],
+      "related": [
+        "gausscher-weichzeichner-iphone.html",
+        "foto-hintergrund-unscharf-machen.html",
+        "motion-blur-foto.html",
+        "hintergrund-unscharf-machen-iphone.html"
+      ],
+      "cta_title": "Weicher Hintergrund ohne Porträtmodus",
+      "cta_body": "„Hintergrund unscharf machen“ laden, Gaussian wählen und Radius erhöhen. Kostenlos, iPhone mit iOS 18.6.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "gausscher-weichzeichner-iphone.html",
+      "keyword": "Gaußscher Weichzeichner",
+      "cluster": "effects",
+      "card_title": "Gaußscher Weichzeichner am iPhone",
+      "card_excerpt": "Die natürlichste Unschärfe: was sie ist und wie Sie sie auf Hintergrund oder ganzes Foto anwenden.",
+      "card_image": "/img/appstore/de/04-box.webp",
+      "card_image_alt": "Weichgezeichneter Hintergrund hinter einer Frau",
+      "meta_title": "Gaußscher Weichzeichner am iPhone: Hintergrund oder Foto",
+      "meta_description": "Gaußscher Weichzeichner am iPhone: was der Filter ist, wie er sich von Bokeh und Box unterscheidet und wie Sie ihn auf Hintergrund, Gesicht oder Foto anwenden.",
+      "h1": "Gaußscher Weichzeichner am iPhone",
+      "answer": "Der Gaußsche Weichzeichner ist eine weiche, gleichmäßige Unschärfe, ähnlich einem unscharf gestellten Objektiv. Am iPhone wenden Sie ihn mit MakeBlur an: auswählen, was unscharf wird (Background, Faces, Manual oder Full Photo), Stil Gaussian und die Stärke mit Radius, dann Save tippen.",
+      "intro": "Den „Gaußschen Weichzeichner“ kennt man aus Photoshop oder Lightroom: Er ist die neutralste Art, ein Bild weicher zu machen – ohne Streifen, Kästchen oder Säume. Der Standard-Editor des iPhone hat diesen Filter nicht, Sie können ihn aber anwenden – und zwar nicht nur aufs ganze Bild, sondern gezielt auf den Hintergrund.",
+      "image": "/img/appstore/de/04-box.webp",
+      "image_alt": "Unscharfer Hintergrund am iPhone, Motiv scharf",
+      "native": {
+        "heading": "Hat Fotos einen Gaußschen Weichzeichner?",
+        "paragraphs": [
+          "Nein. Fotos bietet Farbfilter und einen Schärferegler, aber keine Unschärfe. Der Porträtmodus macht den Hintergrund ähnlich weich, aber nur beim Fotografieren und mit Tiefenkarte."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Unterschied zu anderen Stilen",
+          "paragraphs": [
+            "Gaussian zeichnet fließend weich, Kanten verlaufen sanft – deshalb wirkt er „fotografisch“. Box ist gleichmäßiger und etwas härter. Motion zieht das Bild in eine Richtung. Pixelate, Hexagonal und Crystallize sind keine Unschärfe mehr, sondern Mosaik.",
+            "Für Porträt-Hintergründe und weiche Hintergrundbilder Gaussian wählen. Für Datenschutz Pixelate: Bei geringer Stärke kann ein Gauß-Effekt Gesicht oder Text erkennbar lassen."
+          ]
+        },
+        {
+          "heading": "Stärke",
+          "paragraphs": [
+            "Radius legt den Radius der Unschärfe fest. Niedrige Werte glätten Rauschen und kleine Details, mittlere ergeben einen Porträt-Hintergrund, hohe machen den Hintergrund zu Farbflecken."
+          ]
+        }
+      ],
+      "steps_title": "Gaußschen Weichzeichner in der App anwenden",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Foto öffnen",
+          "description": "Bild in der App auswählen."
+        },
+        {
+          "number": "2",
+          "title": "Modus",
+          "description": "Background für den Hintergrund, Full Photo fürs ganze Bild, Manual für einen Bereich."
+        },
+        {
+          "number": "3",
+          "title": "Gaussian und Radius",
+          "description": "Stil wählen und Stärke einstellen."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Ergebnis in der Mediathek sichern."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Für Profilbilder genügt ein niedriger Radius: Die Umgebung ist erkennbar, lenkt aber nicht ab.",
+        "Starker Gauß auf Full Photo ist der schnellste Weg zu einem Text-Hintergrund für Stories.",
+        "Zum Verbergen von Daten kein Gaussian nehmen – lieber Pixelate."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Was ist der Gaußsche Weichzeichner, kurz erklärt?",
+          "answer": "Eine Unschärfe, bei der jedes Pixel mit seinen Nachbarn verrechnet wird: Das Bild wird ohne harte Übergänge weich, wie außer Fokus."
+        },
+        {
+          "question": "Kann ich den Gauß nur auf den Hintergrund anwenden?",
+          "answer": "Ja, im Tab Background bleibt das Motiv scharf."
+        },
+        {
+          "question": "Brauche ich einen Computer?",
+          "answer": "Nein, alles geht am iPhone."
+        }
+      ],
+      "related": [
+        "bokeh-effekt-iphone.html",
+        "motion-blur-foto.html",
+        "hintergrund-verschwommen-machen.html",
+        "blur-effekt-foto.html"
+      ],
+      "cta_title": "Gauß in zwei Tipps",
+      "cta_body": "„Hintergrund unscharf machen“ laden, Gaussian wählen und Radius einstellen. Kostenlos, ohne Upload.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "foto-unscharf-machen-iphone.html",
+      "keyword": "Foto unscharf machen",
+      "cluster": "photo",
+      "card_title": "Foto unscharf machen am iPhone",
+      "card_excerpt": "Das ganze Bild weichzeichnen – für Hintergrundbilder, Stories oder einen abstrakten Look. Am iPhone und online.",
+      "card_image": "/img/appstore/de/06-ghost.webp",
+      "card_image_alt": "Ganzes Foto mit dem Effekt Ghosting unscharf",
+      "meta_title": "Foto unscharf machen am iPhone: das ganze Bild weichzeichnen",
+      "meta_description": "Ein ganzes Foto am iPhone unscharf machen: für Hintergrundbilder, Stories oder einen abstrakten Look. Stile Gaussian, Motion, Ghosting und eine Online-Option.",
+      "h1": "Ein ganzes Foto unscharf machen",
+      "answer": "Um ein ganzes Foto unscharf zu machen, öffnen Sie es in MakeBlur, wählen den Tab Full Photo (ganzes Foto) und einen Stil – Gaussian für Weichheit, Motion für Dynamik oder Ghosting für einen verträumten Look – und erhöhen Radius. Save tippen. Ohne Installation macht auch der Online-Editor dieser Website das ganze Foto unscharf.",
+      "intro": "Manchmal soll nicht der Hintergrund hinter einer Person verschwimmen, sondern das ganze Bild: Sperrbildschirm-Hintergrund, Hintergrund für Text in einer Story, abstraktes Cover oder ein „Teaser“ vor dem eigentlichen Post. Das ist die einfachste Unschärfe – und die einzige, die kein Motiv erkennen muss.",
+      "image": "/img/appstore/de/06-ghost.webp",
+      "image_alt": "Tab Full Photo und Stil Ghosting, Radius 79",
+      "native": {
+        "heading": "Kann man ein Foto in Fotos unscharf machen?",
+        "paragraphs": [
+          "Nein: Weder Filter noch Anpassungen in Fotos bieten Unschärfe. Der Sperrbildschirm von iOS kann das Hintergrundbild unter Widgets weichzeichnen, aber das ist ein Systemeffekt, kein neues Bild zum Teilen."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Welcher Stil wofür",
+          "paragraphs": [
+            "Gaussian: gleichmäßige Weichheit, der beste Hintergrund für Text. Motion: Tempo-Gefühl, ideal für Sport-Cover. Ghosting: doppelter „Geister“-Effekt, wie im Screenshot „Sanfte Vibes mit Bokeh“ (Radius 79). Pixelate und Crystallize: abstraktes Mosaik."
+          ]
+        },
+        {
+          "heading": "Online-Option",
+          "paragraphs": [
+            "Auf dieser Website gibt es einen kostenlosen Online-Editor: Foto hochladen, Gaussian, Pixel oder Motion wählen und als PNG herunterladen. Er macht nur das ganze Bild unscharf; gezielte Unschärfe von Hintergrund oder Gesichtern übernimmt die App."
+          ]
+        }
+      ],
+      "steps_title": "Das ganze Foto in der App unscharf machen",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Foto öffnen",
+          "description": "Bild in MakeBlur auswählen."
+        },
+        {
+          "number": "2",
+          "title": "Tab Full Photo",
+          "description": "Die Unschärfe gilt fürs ganze Bild."
+        },
+        {
+          "number": "3",
+          "title": "Stil und Radius",
+          "description": "Gaussian, Motion oder Ghosting in gewünschter Stärke."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Die unscharfe Kopie landet in der Mediathek."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Für Text-Hintergründe farbenfrohe Fotos wählen: Nach dem Weichzeichnen bleiben schöne Farbflecken.",
+        "Für den Sperrbildschirm eine Version mit starkem Gaussian sichern – Uhrzeit und Symbole bleiben gut lesbar.",
+        "Post-Teaser: erst die stark unscharfe Version posten, dann das Original."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Wie mache ich ein Foto online unscharf?",
+          "answer": "Mit dem kostenlosen Online-Editor dieser Website: Foto hochladen, Stil und Stärke wählen, PNG herunterladen. Er macht nur das ganze Bild unscharf."
+        },
+        {
+          "question": "Was ist der Unterschied zwischen Full Photo und Background?",
+          "answer": "Full Photo macht das ganze Bild unscharf, Background nur den Hintergrund – das Motiv bleibt scharf."
+        },
+        {
+          "question": "Sinkt die Auflösung?",
+          "answer": "Nein, die Kopie wird in Originalgröße gesichert."
+        }
+      ],
+      "related": [
+        "blur-effekt-foto.html",
+        "gausscher-weichzeichner-iphone.html",
+        "motion-blur-foto.html",
+        "bokeh-effekt-iphone.html"
+      ],
+      "cta_title": "Unscharfes Foto in Sekunden",
+      "cta_body": "„Hintergrund unscharf machen“ laden, Full Photo und einen Stil wählen. Kostenlos, ohne Upload.",
+      "cta_text": "Laden im App Store"
+    },
+    {
+      "slug": "blur-effekt-foto.html",
+      "keyword": "Blur Effekt Foto",
+      "cluster": "photo",
+      "card_title": "Blur-Effekt auf Fotos",
+      "card_excerpt": "Was der Blur-Effekt ist, welche Stile es gibt und welcher auf Hintergrund, Gesichter oder ganzes Foto passt.",
+      "card_image": "/img/appstore/de/02-motion.webp",
+      "card_image_alt": "Blur-Effekt auf einem Foto am iPhone",
+      "meta_title": "Blur-Effekt auf Fotos am iPhone: Stile und Anleitung",
+      "meta_description": "Was ist der Blur-Effekt und wie wenden Sie ihn am iPhone an: auf Hintergrund, Gesichter, einen Bereich oder das ganze Bild, mit Gaussian, Motion oder Pixelate.",
+      "h1": "Blur-Effekt auf Fotos: was er ist und wie er am iPhone geht",
+      "answer": "Der Blur-Effekt macht ein Foto ganz oder teilweise unscharf. Am iPhone wenden Sie ihn mit MakeBlur an: wählen, wo (Background für den Hintergrund, Faces für Gesichter, Manual für einen Bereich, Full Photo fürs ganze Bild), einen Stil wie Gaussian, Motion oder Ghosting, Radius einstellen und Save tippen.",
+      "intro": "„Blur“ ist das englische Wort für Unschärfe, und in Deutschland wird oft genau so gesucht: „blur effect“, „blur app“, „face blur“ – die Suche nach „blur background photo effect“ ist im letzten Jahr um 350 % gestiegen. Dahinter steckt meist einer von vier Wünschen: weicher Hintergrund hinter einer Person, Gesichter verbergen, ein Stück mit Text oder Kennzeichen unkenntlich machen oder das ganze Foto weichzeichnen. Der iPhone-Editor kann bei einem normalen Foto keinen davon erfüllen.",
+      "image": "/img/appstore/de/02-motion.webp",
+      "image_alt": "Stil Motion: Blur-Effekt im Hintergrund",
+      "native": {
+        "heading": "Was das iPhone ab Werk bietet",
+        "paragraphs": [
+          "Blur im Hintergrund: nur mit dem Porträtmodus, beim Fotografieren. Unschärfe-Pinsel in Fotos: gibt es nicht. Markieren: Stift und Formen zum Abdecken, nicht zum Weichzeichnen. Bereinigen (Apple Intelligence): entfernt Objekte und kann ein Gesicht verpixeln, nur ab iPhone 15 Pro."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Die Blur-Stile",
+          "paragraphs": [
+            "Gaussian: weiche, natürliche Unschärfe. Motion: Wischeffekt mit einstellbarer Richtung. Ghosting: verträumter „Geister“-Effekt. Box: gleichmäßige Unschärfe. Pixelate, Hexagonal und Crystallize: Mosaike, nützlich für Datenschutz oder als grafischer Effekt."
+          ]
+        },
+        {
+          "heading": "Wo anwenden",
+          "paragraphs": [
+            "Background hält das Motiv scharf und legt den Blur auf den Hintergrund. Faces auf alle Gesichter. Manual auf den Bereich, den Sie mit dem Finger malen. Full Photo aufs ganze Bild. Das funktioniert mit Kamerafotos, Screenshots und Bildern aus WhatsApp oder Telegram, die in der Mediathek liegen."
+          ]
+        }
+      ],
+      "steps_title": "Blur-Effekt in der App anwenden",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Foto oder Screenshot öffnen",
+          "description": "Bild in MakeBlur auswählen."
+        },
+        {
+          "number": "2",
+          "title": "Modus wählen",
+          "description": "Background, Faces, Manual oder Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Stil und Radius",
+          "description": "Art der Unschärfe und Stärke festlegen."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Die Kopie mit Effekt wird in der Mediathek gesichert."
+        }
+      ],
+      "tips_title": "Tipps",
+      "tips": [
+        "Für die Optik: Gaussian oder Ghosting; für den Datenschutz: Pixelate.",
+        "Modi kombinieren: erst Background für den Hintergrund, dann Manual für ein störendes Detail.",
+        "Mehrere Stärken sichern und die beste in der Mediathek behalten."
+      ],
+      "faq_title": "Häufige Fragen",
+      "faq": [
+        {
+          "question": "Wie mache ich einen Blur-Effekt ohne App?",
+          "answer": "Bei einem normalen Foto geht es in Fotos nicht. Sie können mit Formen in „Markieren“ abdecken oder das ganze Foto mit dem Online-Editor dieser Website unscharf machen."
+        },
+        {
+          "question": "Kann ich einen Screenshot blurren?",
+          "answer": "Ja, Screenshots öffnen sich in der App wie jedes andere Foto."
+        },
+        {
+          "question": "Ist das kostenlos?",
+          "answer": "Der Download ist kostenlos, die einfache Unschärfe ist enthalten; erweiterte Stile sind optional über In-App-Käufe erhältlich."
+        }
+      ],
+      "related": [
+        "foto-unscharf-machen-iphone.html",
+        "hintergrund-unscharf-machen-iphone.html",
+        "teil-foto-unscharf-machen-iphone.html",
+        "motion-blur-foto.html"
+      ],
+      "cta_title": "Blur-Effekt in einer Minute",
+      "cta_body": "„Hintergrund unscharf machen“ laden und Hintergrund, Gesichter oder das ganze Foto weichzeichnen. Kostenlos, iPhone mit iOS 18.6.",
+      "cta_text": "Laden im App Store"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+[
+  {
+    "slug": "motion-blur-photo.html",
+    "keyword": "motion blur photo",
+    "cluster": "effects",
+    "card_title": "Motion blur sur une photo",
+    "card_excerpt": "Effet de mouvement sur une photo déjà prise : sujet net et fond filé dans la direction de votre choix.",
+    "card_image": "/img/appstore/fr/02-motion.webp",
+    "card_image_alt": "Motion blur derrière une jeune femme, Radius 65",
+    "meta_title": "Motion blur photo sur iPhone : effet de mouvement facile",
+    "meta_description": "Comment faire un motion blur (effet de mouvement) sur une photo avec un iPhone : fond filé à direction réglable, sujet net. Gratuit et sur l'appareil.",
+    "h1": "Motion blur sur une photo : faire un effet de mouvement sur iPhone",
+    "answer": "Pour faire un motion blur sur une photo, ouvrez-la dans Arrière Plan Flou Photo, gardez l'onglet Background et choisissez le style Motion. Le curseur Radius règle la longueur du filé, Angle la direction. Le sujet reste net et le fond « bouge ». Touchez Save.",
+    "intro": "Le motion blur, ou flou de mouvement, c'est le filé qu'on obtient avec une vitesse d'obturation lente ou en suivant un sujet en mouvement : la personne ou la voiture nette, le décor étiré en lignes. C'est le terme de flou le plus recherché en France, devant « blur background ». Au téléphone, c'est difficile à réussir à la prise de vue, mais on peut l'ajouter après et choisir soi-même la direction.",
+    "image": "/img/appstore/fr/02-motion.webp",
+    "image_alt": "Style Motion : arrière-plan filé derrière la jeune femme, visage net",
+    "native": {
+      "heading": "Ce que fait l'iPhone à la prise de vue",
+      "paragraphs": [
+        "Dans Photos, les Live Photos proposent l'effet « Pose longue » : il floute tout ce qui bougeait dans la scène, comme l'eau, les voitures ou les passants. Mais il ne marche qu'avec les Live Photos et floute le mouvement réel, pas le fond derrière une personne immobile. Ajouter un motion blur à une photo classique est impossible avec les outils intégrés."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Régler le filé",
+        "paragraphs": [
+          "Radius contrôle la longueur : des valeurs basses donnent un peu de dynamisme, des valeurs hautes une impression de vitesse. Angle fixe la direction : horizontale pour un coureur ou une voiture, diagonale pour un cadrage plus tendu. Sur la capture de l'App Store, l'effet est à Radius 65.",
+          "Dans l'onglet Background, seul le fond est filé ; dans Full Photo, toute l'image, pour un effet « pris en mouvement »."
+        ]
+      },
+      {
+        "heading": "Où ça rend le mieux",
+        "paragraphs": [
+          "Sport, vélo, skate, voitures, danse, portraits urbains de nuit. Moins bien sur des portraits calmes en pleine nature : un Gaussian doux y est plus naturel."
+        ]
+      }
+    ],
+    "steps_title": "Ajouter un motion blur dans l'app",
+    "steps": [
+      {
+        "title": "Ouvrez la photo",
+        "description": "Idéalement une où le sujet suggère déjà le mouvement."
+      },
+      {
+        "title": "Background + Motion",
+        "description": "Le sujet est détecté seul et le fond est filé."
+      },
+      {
+        "title": "Radius et Angle",
+        "description": "Réglez la longueur du filé et la direction du mouvement."
+      },
+      {
+        "title": "Save",
+        "description": "Enregistrez la copie dans Photos."
+      }
+    ],
+    "tips_title": "Conseils",
+    "tips": [
+      "Orientez le filé dans le sens du déplacement du sujet : le rendu paraît naturel.",
+      "N'abusez pas de Radius sur un portrait : un filé fort mange le contour des cheveux.",
+      "Pour une story, essayez Full Photo + Motion : un fond dynamique pour poser du texte."
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Comment faire un motion blur sur iPhone ?",
+        "answer": "Avec le style Motion d'Arrière Plan Flou Photo : Radius pour la longueur, Angle pour la direction."
+      },
+      {
+        "question": "Peut-on filer seulement l'arrière-plan ?",
+        "answer": "Oui, dans l'onglet Background le sujet reste net et seul le fond bouge."
+      },
+      {
+        "question": "Ça marche avec les Live Photos ?",
+        "answer": "Oui, l'app traite l'image de la Live Photo comme une photo classique."
+      }
+    ],
+    "related": [
+      "flou-gaussien-iphone.html",
+      "effet-bokeh-iphone.html",
+      "effet-flou-photo.html",
+      "flouter-arriere-plan-photo-iphone.html"
+    ],
+    "cta_title": "Ajoutez du mouvement à votre photo",
+    "cta_body": "Téléchargez Arrière Plan Flou Photo, choisissez Motion et réglez Radius et Angle. Gratuit, sur votre iPhone.",
+    "cta_text": "Télécharger dans l'App Store"
+  },
+  {
+    "slug": "effet-bokeh-iphone.html",
+    "keyword": "effet bokeh iPhone",
+    "cluster": "effects",
+    "card_title": "Effet bokeh sur iPhone",
+    "card_excerpt": "Un fond doux comme avec un objectif lumineux, sur des photos prises sans mode Portrait.",
+    "card_image": "/img/appstore/fr/06-ghost.webp",
+    "card_image_alt": "Rendu doux et vaporeux sur une photo",
+    "meta_title": "Effet bokeh sur iPhone, sur une photo déjà prise : gratuit",
+    "meta_description": "Comment obtenir un effet bokeh sur iPhone : ce que c'est, quand le mode Portrait suffit et comment avoir un fond doux sur une photo classique après coup.",
+    "h1": "Effet bokeh sur iPhone : obtenir un fond doux",
+    "answer": "Le plus simple pour un effet bokeh sur iPhone : ouvrez la photo dans Arrière Plan Flou Photo, gardez l'onglet Background, choisissez le style doux Gaussian et montez Radius — le fond devient des taches de couleur et la personne reste nette. Pour un rendu plus rêveur, essayez Ghosting dans l'onglet Full Photo.",
+    "intro": "Le bokeh, c'est l'aspect de la zone floue : des taches douces de lumière et de couleur derrière le sujet. Les photographes l'obtiennent avec des objectifs lumineux, l'iPhone l'imite avec le mode Portrait. Si la photo est déjà prise sans Portrait, on peut obtenir un fond doux comparable après coup.",
+    "image": "/img/appstore/fr/06-ghost.webp",
+    "image_alt": "Style Ghosting sur toute la photo : rendu doux et vaporeux",
+    "native": {
+      "heading": "Le bokeh avec le mode Portrait",
+      "paragraphs": [
+        "En mode Portrait, l'iPhone floute le fond et ajoute les taches typiques des sources de lumière. Dans Photos → Modifier, le réglage d'ouverture change l'intensité. Les limites restent les mêmes : seulement à la prise de vue, à bonne distance du sujet et avec une carte de profondeur."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Bokeh et simple flou",
+        "paragraphs": [
+          "Le vrai bokeh optique dépend de l'objectif : forme des taches, tourbillons, halos autour des lampadaires. Un flou logiciel ne le reproduit pas entièrement, mais il obtient l'essentiel : détacher le sujet d'un fond doux. Sur les réseaux, la différence se voit à peine.",
+          "Le rendu le plus « bokeh » vient des photos avec des lumières en arrière-plan : guirlandes, lumières de la ville, soleil à travers les feuilles."
+        ]
+      },
+      {
+        "heading": "Quel style choisir",
+        "paragraphs": [
+          "Gaussian dans Background : arrière-plan de portrait classique. Ghosting dans Full Photo : toute l'image devient douce et aérienne, comme sur la capture « Doux vibes avec bokeh ». Box : un flou un peu plus graphique."
+        ]
+      }
+    ],
+    "steps_title": "Un fond bokeh dans l'app",
+    "steps": [
+      {
+        "title": "Ouvrez la photo",
+        "description": "Idéalement une photo avec des lumières ou un fond coloré."
+      },
+      {
+        "title": "Background + Gaussian",
+        "description": "Le sujet est détecté seul et le fond s'adoucit."
+      },
+      {
+        "title": "Réglez Radius",
+        "description": "Montez jusqu'à ce que les détails du fond deviennent des taches de couleur."
+      },
+      {
+        "title": "Save",
+        "description": "Enregistrez la copie et comparez-la à l'originale."
+      }
+    ],
+    "tips_title": "Conseils",
+    "tips": [
+      "Les photos de nuit avec des lumières donnent le flou le plus proche du bokeh.",
+      "Si le fond est uni, le bokeh se voit à peine : essayez Ghosting sur toute la photo.",
+      "Ne floutez pas trop un selfie pris à bout de bras : le rendu paraît artificiel."
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Peut-on faire un bokeh sur une vieille photo ?",
+        "answer": "Oui, l'app fonctionne avec n'importe quelle photo de la photothèque, sans données de profondeur."
+      },
+      {
+        "question": "Faut-il un iPhone avec mode Portrait ?",
+        "answer": "Non, tout iPhone sous iOS 18.6 ou ultérieur convient."
+      },
+      {
+        "question": "C'est gratuit ?",
+        "answer": "Le téléchargement est gratuit et le flou d'arrière-plan de base est inclus ; les styles avancés sont optionnels."
+      }
+    ],
+    "related": [
+      "flou-gaussien-iphone.html",
+      "flouter-fond-photo.html",
+      "motion-blur-photo.html",
+      "flouter-arriere-plan-photo-iphone.html"
+    ],
+    "cta_title": "Un fond doux sans mode Portrait",
+    "cta_body": "Téléchargez Arrière Plan Flou Photo, choisissez Gaussian et montez Radius. Gratuit, sur iPhone sous iOS 18.6.",
+    "cta_text": "Télécharger dans l'App Store"
+  },
+  {
+    "slug": "flou-gaussien-iphone.html",
+    "keyword": "flou gaussien",
+    "cluster": "effects",
+    "card_title": "Flou gaussien sur iPhone",
+    "card_excerpt": "Le flou le plus naturel : ce que c'est et comment l'appliquer au fond ou à toute la photo.",
+    "card_image": "/img/appstore/fr/04-box.webp",
+    "card_image_alt": "Arrière-plan adouci derrière une jeune femme",
+    "meta_title": "Flou gaussien sur iPhone : arrière-plan ou photo entière",
+    "meta_description": "Flou gaussien sur iPhone : ce qu'est ce filtre, en quoi il diffère du bokeh et de Box, et comment l'appliquer au fond, aux visages ou à toute la photo.",
+    "h1": "Flou gaussien sur iPhone",
+    "answer": "Le flou gaussien est un flou doux et uniforme, proche d'un objectif hors mise au point. Sur iPhone, vous pouvez l'appliquer avec Arrière Plan Flou Photo : choisissez quoi flouter (Background, Faces, Manual ou Full Photo), le style Gaussian et l'intensité avec Radius, puis touchez Save.",
+    "intro": "Le « flou gaussien » évoque Photoshop ou Lightroom : c'est la façon la plus neutre d'adoucir une image, sans traînées, carrés ni halos. L'éditeur standard du téléphone n'a pas ce filtre, mais vous pouvez l'appliquer, et pas seulement à toute l'image : uniquement à l'arrière-plan.",
+    "image": "/img/appstore/fr/04-box.webp",
+    "image_alt": "Arrière-plan flouté sur iPhone, sujet net",
+    "native": {
+      "heading": "Photos a-t-il un flou gaussien ?",
+      "paragraphs": [
+        "Non. Photos a des filtres de couleur et un réglage de netteté, mais pas de flou. Le mode Portrait floute le fond de façon comparable, mais uniquement à la prise de vue et avec une carte de profondeur."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "En quoi il diffère des autres styles",
+        "paragraphs": [
+          "Gaussian adoucit progressivement et les contours se fondent en douceur : c'est pour cela qu'il paraît « photographique ». Box est plus uniforme et un peu plus dur. Motion étire l'image dans une direction. Pixelate, Hexagonal et Crystallize ne sont plus du flou, mais de la mosaïque.",
+          "Pour un fond de portrait et des fonds d'écran doux, choisissez Gaussian. Pour la confidentialité, Pixelate : à faible intensité, un gaussien peut laisser un visage ou un texte reconnaissable."
+        ]
+      },
+      {
+        "heading": "Intensité",
+        "paragraphs": [
+          "Radius fixe le rayon du flou. Des valeurs basses gomment le bruit et les petits détails, moyennes donnent un fond de portrait, élevées transforment le fond en taches de couleur."
+        ]
+      }
+    ],
+    "steps_title": "Appliquer le flou gaussien dans l'app",
+    "steps": [
+      {
+        "title": "Ouvrez la photo",
+        "description": "Choisissez l'image dans l'app."
+      },
+      {
+        "title": "Mode",
+        "description": "Background pour le fond, Full Photo pour toute la photo, Manual pour une zone."
+      },
+      {
+        "title": "Gaussian et Radius",
+        "description": "Choisissez le style et réglez l'intensité."
+      },
+      {
+        "title": "Save",
+        "description": "Enregistrez le résultat dans votre photothèque."
+      }
+    ],
+    "tips_title": "Conseils",
+    "tips": [
+      "Pour une photo de profil, un Radius faible suffit : le décor se reconnaît mais ne distrait pas.",
+      "Un gaussien fort en Full Photo est le moyen le plus rapide de créer un fond pour du texte en story.",
+      "Pour masquer des données, évitez Gaussian : préférez Pixelate."
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Le flou gaussien, en deux mots ?",
+        "answer": "Un flou où chaque pixel se mélange à ses voisins : l'image s'adoucit sans transitions brusques, comme hors mise au point."
+      },
+      {
+        "question": "Peut-on appliquer le gaussien seulement à l'arrière-plan ?",
+        "answer": "Oui, dans l'onglet Background le sujet reste net."
+      },
+      {
+        "question": "Faut-il un ordinateur ?",
+        "answer": "Non, tout se fait sur l'iPhone."
+      }
+    ],
+    "related": [
+      "effet-bokeh-iphone.html",
+      "motion-blur-photo.html",
+      "arriere-plan-flou-photo.html",
+      "effet-flou-photo.html"
+    ],
+    "cta_title": "Le flou gaussien en deux gestes",
+    "cta_body": "Téléchargez Arrière Plan Flou Photo, choisissez Gaussian et réglez Radius. Gratuit, sans envoi de photos.",
+    "cta_text": "Télécharger dans l'App Store"
+  }
+]

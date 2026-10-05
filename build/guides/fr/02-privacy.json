@@ -1,0 +1,441 @@
+[
+  {
+    "slug": "flouter-visage-photo.html",
+    "keyword": "comment flouter un visage sur une photo",
+    "cluster": "privacy",
+    "card_title": "Comment flouter un visage sur une photo",
+    "card_excerpt": "Masquez les visages avant de publier : automatique, sur tout iPhone, sans Apple Intelligence.",
+    "card_image": "/img/appstore/fr/03-face.webp",
+    "card_image_alt": "Onglet Faces floutant tous les visages détectés",
+    "meta_title": "Comment flouter un visage sur une photo iPhone (auto)",
+    "meta_description": "Comment flouter un visage sur une photo iPhone : l'app détecte tous les visages, vous réglez l'intensité et enregistrez. Tout iPhone, sans Apple Intelligence.",
+    "h1": "Comment flouter un visage sur une photo avec un iPhone",
+    "answer": "Pour flouter un visage sur une photo, ouvrez-la dans Arrière Plan Flou Photo et passez à l'onglet Faces (visages) : l'app détecte tous les visages et floute chacun d'eux. Choisissez un style — Pixelate pour une censure nette ou Gaussian pour plus de douceur —, augmentez Radius jusqu'à ce que les traits ne soient plus reconnaissables et touchez Save. Cela marche sur tout iPhone sous iOS 18.6, sans Apple Intelligence.",
+    "intro": "Flouter les visages, c'est la politesse de base avant de publier une photo de groupe, de la kermesse de l'école ou une scène de rue : tout le monde n'a pas accepté d'apparaître en ligne. Les recherches « blur face » ont d'ailleurs progressé de 50 % en France sur un an. iOS propose une option intégrée, mais seulement sur certains iPhone. Voici ses limites et comment faire sur n'importe quel modèle.",
+    "image": "/img/appstore/fr/03-face.webp",
+    "image_alt": "Grille de visages détectés, chacun flouté, dans l'onglet Faces",
+    "native": {
+      "heading": "Ce que propose l'app Photos",
+      "paragraphs": [
+        "Sur iPhone 15 Pro, iPhone 16 et ultérieurs avec Apple Intelligence activé, l'outil Clean Up (icône de gomme dans Photos → Modifier) permet d'entourer un visage pour le pixeliser. C'est manuel (visage par visage), l'intensité n'est pas réglable et l'outil n'existe pas sur les iPhone plus anciens. Sans Apple Intelligence, Photos ne permet que de couvrir un visage avec une forme ou un autocollant dans Annoter : il est caché, pas flouté."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Flou automatique des visages sur n'importe quel iPhone",
+        "paragraphs": [
+          "Arrière Plan Flou Photo a un onglet Faces dédié. Il détecte les visages de l'image et les affiche dans une grille, déjà floutés : une photo de groupe de douze personnes se règle en un geste, pas en douze coups de pinceau. Vous choisissez le style — Pixelate pour la mosaïque classique, Gaussian ou Box pour plus de douceur — et l'intensité avec Radius.",
+          "Tout est traité sur l'iPhone, sans Internet : un point important quand le but est justement la confidentialité."
+        ]
+      },
+      {
+        "heading": "Flouter certains visages et pas d'autres",
+        "paragraphs": [
+          "Si votre visage doit rester visible et pas les autres, utilisez l'onglet Manual : peignez seulement les visages à masquer. Le même style et le même Radius s'appliquent à la zone peinte."
+        ]
+      },
+      {
+        "heading": "Jusqu'où flouter",
+        "paragraphs": [
+          "Avec un flou léger, ceux qui connaissent la personne la reconnaissent encore. Pour un vrai anonymat, utilisez Pixelate ou Gaussian avec un Radius suffisant pour que les yeux, le nez et la bouche ne se distinguent plus en zoomant au maximum. Sur la capture de l'App Store, les visages sont à Radius 80 : un bon point de départ."
+        ]
+      }
+    ],
+    "steps_title": "Flouter des visages dans l'app",
+    "steps": [
+      {
+        "title": "Ouvrez la photo",
+        "description": "Photo de groupe, de rue ou capture : n'importe laquelle de votre photothèque."
+      },
+      {
+        "title": "Onglet Faces",
+        "description": "Les visages sont détectés seuls et apparaissent dans la grille déjà floutés."
+      },
+      {
+        "title": "Style et Radius",
+        "description": "Pixelate pour une confidentialité nette, Gaussian pour plus de douceur. Montez Radius jusqu'à ce que les traits soient méconnaissables."
+      },
+      {
+        "title": "Save",
+        "description": "Publiez la copie enregistrée, pas l'originale."
+      }
+    ],
+    "tips_title": "Conseils",
+    "tips": [
+      "Zoomez sur chaque visage avant d'enregistrer : un flou qui semble fort sur petit écran peut rester reconnaissable.",
+      "Floutez avant de compresser la photo pour une messagerie : la détection a besoin de l'image complète.",
+      "Sur les photos d'école ou de sport, floutez aussi les tenues, dossards ou panneaux qui permettent d'identifier le lieu."
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Comment flouter un visage sur iPhone sans Apple Intelligence ?",
+        "answer": "Avec Arrière Plan Flou Photo : l'onglet Faces détecte et floute les visages sur tout iPhone sous iOS 18.6 ou ultérieur."
+      },
+      {
+        "question": "Peut-on flouter plusieurs visages à la fois ?",
+        "answer": "Oui. Tous les visages détectés sont floutés ensemble, avec le même style et la même intensité."
+      },
+      {
+        "question": "Peut-on annuler le flou d'une photo publiée ?",
+        "answer": "Une forte pixelisation ou un Radius élevé suppriment les détails de la copie enregistrée. Ne publiez pas l'originale et choisissez une intensité où les traits ne se distinguent plus au zoom."
+      },
+      {
+        "question": "Les photos sont-elles envoyées sur un serveur pour détecter les visages ?",
+        "answer": "Non, tout se passe sur l'appareil."
+      }
+    ],
+    "related": [
+      "flouter-partie-photo-iphone.html",
+      "pixeliser-photo-iphone.html",
+      "masquer-texte-capture-ecran-iphone.html",
+      "flouter-plaque-immatriculation-photo.html"
+    ],
+    "cta_title": "Partagez la photo, pas les visages",
+    "cta_body": "Téléchargez Arrière Plan Flou Photo, ouvrez Faces, réglez Radius et enregistrez. Gratuit, sur l'appareil, sur tout iPhone sous iOS 18.6.",
+    "cta_text": "Télécharger dans l'App Store"
+  },
+  {
+    "slug": "flouter-partie-photo-iphone.html",
+    "keyword": "flouter une partie d'une photo sur iPhone",
+    "cluster": "privacy",
+    "card_title": "Flouter une partie d'une photo sur iPhone",
+    "card_excerpt": "Photos n'a pas de pinceau de flou. Voici comment peindre une zone du doigt et flouter seulement elle.",
+    "card_image": "/img/appstore/fr/05-crystalize.webp",
+    "card_image_alt": "Flou d'une zone précise de la photo sur iPhone",
+    "meta_title": "Flouter une partie d'une photo sur iPhone, au doigt",
+    "meta_description": "Comment flouter une partie d'une photo sur iPhone : Photos n'offre que les formes d'Annoter. Peignez la zone au doigt dans l'app, réglez le flou, enregistrez.",
+    "h1": "Comment flouter une partie d'une photo sur iPhone",
+    "answer": "Pour flouter une partie d'une photo sur iPhone, ouvrez-la dans Arrière Plan Flou Photo, passez à l'onglet Manual (pinceau) et faites glisser le doigt sur la zone à masquer. Choisissez un style — Pixelate, Gaussian ou Box —, réglez l'intensité avec Radius et touchez Save. Seul ce que vous peignez est flouté ; le reste reste net.",
+    "intro": "Un numéro de rue, le visage d'un passant, une adresse sur une enveloppe, un enfant inconnu à l'arrière-plan : souvent, il ne faut flouter ni toute la photo ni tout le fond, mais une zone précise. L'éditeur de l'iPhone ne le permet pas, et la plupart des conseils en ligne proposent de la cacher sous un rectangle. Il existe plus propre.",
+    "image": "/img/appstore/fr/05-crystalize.webp",
+    "image_alt": "Zone de la photo floutée avec le style Crystallize",
+    "native": {
+      "heading": "Ce que propose Photos",
+      "paragraphs": [
+        "Photos n'a pas de pinceau de flou. Avec Annoter, vous pouvez dessiner une forme par-dessus ou passer le feutre, mais c'est un cache opaque, pas un flou, et il attire l'œil. Clean Up (Apple Intelligence) efface des objets et n'existe que sur iPhone 15 Pro et ultérieurs."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Un pinceau de flou manuel",
+        "paragraphs": [
+          "L'onglet Manual d'Arrière Plan Flou Photo est un pinceau : vous passez le doigt, et le flou du style choisi apparaît dessous. Vous pouvez peindre plusieurs zones d'affilée : un texte dans un coin, un visage dans la foule, une plaque.",
+          "Le style change l'aspect : Pixelate et Box pour une confidentialité nette, Gaussian pour un flou doux presque invisible, Crystallize et Hexagonal pour une mosaïque décorative."
+        ]
+      },
+      {
+        "heading": "Quand préférer d'autres modes",
+        "paragraphs": [
+          "Pour masquer tous les visages, Faces est plus rapide. Pour flouter tout ce qui entoure une personne, utilisez Background. Manual est idéal quand la zone est libre et que la détection automatique ne peut pas la deviner."
+        ]
+      }
+    ],
+    "steps_title": "Flouter une partie dans l'app",
+    "steps": [
+      {
+        "title": "Ouvrez la photo",
+        "description": "Choisissez la photo ou la capture dans l'app."
+      },
+      {
+        "title": "Onglet Manual",
+        "description": "Passez le doigt sur la zone à flouter."
+      },
+      {
+        "title": "Style et intensité",
+        "description": "Pixelate pour la confidentialité ou Gaussian pour un effet doux ; Radius règle l'intensité."
+      },
+      {
+        "title": "Save",
+        "description": "Enregistrez la copie et vérifiez-la en zoomant."
+      }
+    ],
+    "tips_title": "Conseils",
+    "tips": [
+      "Zoomez à deux doigts pour peindre proprement les petits détails.",
+      "Débordez un peu de l'objet : le contour ne trahira pas ce qui est dessous.",
+      "Pour les textes et les plaques, utilisez Pixelate avec un Radius élevé : un Gaussian léger laisse parfois lire les lettres."
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Peut-on flouter une partie d'une photo avec les outils de l'iPhone ?",
+        "answer": "Non. Photos n'a pas de pinceau de flou, seulement des formes et un feutre dans Annoter."
+      },
+      {
+        "question": "Peut-on flouter plusieurs zones ?",
+        "answer": "Oui, dans Manual vous peignez autant de zones que vous voulez, floutées avec le même style."
+      },
+      {
+        "question": "Ça marche pour les captures d'écran ?",
+        "answer": "Oui, Manual fonctionne avec toutes les images de votre photothèque, captures comprises."
+      }
+    ],
+    "related": [
+      "masquer-texte-capture-ecran-iphone.html",
+      "flouter-plaque-immatriculation-photo.html",
+      "flouter-visage-photo.html",
+      "pixeliser-photo-iphone.html"
+    ],
+    "cta_title": "Floutez exactement ce qu'il faut",
+    "cta_body": "Téléchargez Arrière Plan Flou Photo, ouvrez Manual et peignez la zone du doigt. Gratuit, sans envoi de photos.",
+    "cta_text": "Télécharger dans l'App Store"
+  },
+  {
+    "slug": "flouter-plaque-immatriculation-photo.html",
+    "keyword": "flouter une plaque d'immatriculation sur une photo",
+    "cluster": "privacy",
+    "card_title": "Flouter une plaque d'immatriculation",
+    "card_excerpt": "Pour Leboncoin, La Centrale ou ParuVendu : la plaque est illisible et l'annonce reste propre.",
+    "card_image": "/img/appstore/fr/05-crystalize.webp",
+    "card_image_alt": "Plaque d'immatriculation masquée par pixelisation",
+    "meta_title": "Flouter une plaque d'immatriculation sur photo (Leboncoin)",
+    "meta_description": "Comment flouter une plaque d'immatriculation sur une photo pour Leboncoin ou La Centrale : peignez, pixelisez, enregistrez. Sur iPhone, gratuit et hors ligne.",
+    "h1": "Comment flouter une plaque d'immatriculation sur une photo avec un iPhone",
+    "answer": "Pour flouter une plaque d'immatriculation, ouvrez la photo dans Arrière Plan Flou Photo, choisissez l'onglet Manual, passez le doigt sur la plaque, sélectionnez le style Pixelate ou Box et augmentez Radius jusqu'à ce qu'aucun caractère ne soit lisible. Touchez Save et publiez cette copie dans l'annonce.",
+    "intro": "Quand on vend sa voiture sur Leboncoin, La Centrale ou ParuVendu, beaucoup choisissent de masquer la plaque : cela limite le risque d'usurpation (doublette) ou d'arnaque avec les données du véhicule. Mais l'annonce doit rester soignée : un rectangle noir sur le pare-chocs fait mauvaise impression. Une pixelisation propre règle les deux problèmes.",
+    "image": "/img/appstore/fr/05-crystalize.webp",
+    "image_alt": "Pixelisation d'une zone de la photo dans l'app",
+    "native": {
+      "heading": "Ce que permet Photos",
+      "paragraphs": [
+        "Dans Annoter, vous pouvez couvrir la plaque avec une forme ou la gribouiller au feutre. Elle est cachée, mais le cache est grossier et le feutre semi-transparent laisse parfois lire les caractères. L'éditeur intégré ne sait ni flouter ni pixeliser une zone."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Pixeliser ou flouter ?",
+        "paragraphs": [
+          "Pour une plaque, le plus sûr est Pixelate ou Box avec un Radius élevé : de gros blocs effacent les caractères. Un Gaussian léger peut laisser la plaque devinable, surtout sur une photo haute résolution.",
+          "Crystallize la masque aussi, mais le rendu est décoratif ; pour une annonce, une pixelisation neutre est préférable."
+        ]
+      },
+      {
+        "heading": "S'il y a beaucoup de photos",
+        "paragraphs": [
+          "Une annonce compte souvent 10 à 20 photos, et la plaque apparaît sur trois ou quatre. Traitez-les une par une : ouvrir, Manual, peindre, Save — trente secondes chacune. Pensez aux reflets : la plaque se voit parfois dans une vitrine ou à travers la vitre sur une photo de l'habitacle."
+        ]
+      }
+    ],
+    "steps_title": "Flouter la plaque dans l'app",
+    "steps": [
+      {
+        "title": "Ouvrez la photo de la voiture",
+        "description": "Choisissez une photo où la plaque est visible."
+      },
+      {
+        "title": "Onglet Manual",
+        "description": "Zoomez et peignez la plaque du doigt, avec un peu de marge."
+      },
+      {
+        "title": "Pixelate et Radius",
+        "description": "Augmentez l'intensité jusqu'à ce qu'aucun caractère ne soit lisible au zoom."
+      },
+      {
+        "title": "Save",
+        "description": "Publiez la copie enregistrée dans l'annonce."
+      }
+    ],
+    "tips_title": "Conseils",
+    "tips": [
+      "Masquez toute la plaque, pas seulement les caractères : la bande bleue et le format renseignent déjà.",
+      "Vérifiez les photos avant et arrière : il y a une plaque sur chaque pare-chocs.",
+      "Si le numéro de série (VIN) ou la carte grise apparaissent, masquez-les de la même façon."
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Faut-il masquer sa plaque dans une annonce ?",
+        "answer": "Ce n'est pas obligatoire, mais beaucoup de vendeurs le font pour éviter que les données du véhicule soient réutilisées. C'est votre choix."
+      },
+      {
+        "question": "Peut-on retrouver une plaque pixelisée ?",
+        "answer": "Avec de gros blocs, non : les détails sont supprimés de la copie enregistrée. Ne publiez pas l'originale."
+      },
+      {
+        "question": "Les photos sont-elles envoyées quelque part ?",
+        "answer": "Non, tout est traité sur l'iPhone, sans Internet."
+      }
+    ],
+    "related": [
+      "flouter-partie-photo-iphone.html",
+      "pixeliser-photo-iphone.html",
+      "masquer-texte-capture-ecran-iphone.html",
+      "flouter-visage-photo.html"
+    ],
+    "cta_title": "Plaque masquée, annonce impeccable",
+    "cta_body": "Téléchargez Arrière Plan Flou Photo, peignez la plaque dans Manual et enregistrez. Gratuit, sur votre iPhone.",
+    "cta_text": "Télécharger dans l'App Store"
+  },
+  {
+    "slug": "masquer-texte-capture-ecran-iphone.html",
+    "keyword": "masquer un texte sur une capture d'écran",
+    "cluster": "privacy",
+    "card_title": "Masquer un texte sur une capture d'écran",
+    "card_excerpt": "Conversations, adresses, commandes ou numéros : masquez-les pour qu'on ne puisse plus les lire.",
+    "card_image": "/img/appstore/fr/05-crystalize.webp",
+    "card_image_alt": "Texte d'une capture masqué par pixelisation",
+    "meta_title": "Masquer un texte sur une capture d'écran iPhone, vraiment",
+    "meta_description": "Comment masquer un texte sur une capture d'écran iPhone pour qu'il soit illisible : pinceau, pixelisation et vérification au zoom. Gratuit et hors ligne.",
+    "h1": "Comment masquer un texte sur une capture d'écran iPhone",
+    "answer": "Pour masquer un texte sur une capture d'écran, ouvrez-la dans Arrière Plan Flou Photo, choisissez l'onglet Manual et peignez du doigt les lignes à cacher. Sélectionnez le style Pixelate, montez Radius jusqu'à ce que les lettres ne se devinent plus en zoomant et touchez Save. Partagez la copie enregistrée.",
+    "intro": "Une capture de conversation, de ticket, de numéro de suivi ou de billet contient presque toujours quelque chose de trop : un nom, un numéro, une adresse, un montant. Le feutre de l'iPhone masque mal : ses traits semi-transparents laissent parfois apparaître les lettres si l'on monte la luminosité ou le contraste. Voici comment masquer un texte de façon irrécupérable.",
+    "image": "/img/appstore/fr/05-crystalize.webp",
+    "image_alt": "Pixelisation d'une zone d'image sur iPhone",
+    "native": {
+      "heading": "Pourquoi le feutre d'Annoter ne suffit pas",
+      "paragraphs": [
+        "Après une capture, vous pouvez toucher la vignette et rayer le texte au feutre. Le problème : il est semi-transparent, et en poussant l'exposition ou le contraste les lettres réapparaissent parfois. Une forme opaque est plus sûre, mais grossière. iOS ne propose ni flou ni pixelisation d'une zone."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Masquer un texte de façon sûre",
+        "paragraphs": [
+          "Une pixelisation à gros blocs remplace les lettres par des carrés unis : l'information disparaît de la copie enregistrée. Dans l'onglet Manual d'Arrière Plan Flou Photo, vous peignez les lignes, choisissez Pixelate et montez Radius. Pour un petit texte, le bloc doit être plus grand que la hauteur des lettres.",
+          "Gaussian est joli, mais risqué pour du texte : avec une faible intensité, les mots se lisent à leur silhouette."
+        ]
+      },
+      {
+        "heading": "Ce qu'il vaut mieux masquer",
+        "paragraphs": [
+          "Numéros de téléphone, de carte ou de compte, adresses, noms complets, numéros de commande et de suivi, photos de profil, QR codes et codes-barres de billets. Sur une capture de conversation, le nom et la photo de l'interlocuteur s'il n'a pas donné son accord."
+        ]
+      }
+    ],
+    "steps_title": "Masquer un texte dans l'app",
+    "steps": [
+      {
+        "title": "Ouvrez la capture",
+        "description": "Sélectionnez-la dans votre photothèque depuis l'app."
+      },
+      {
+        "title": "Onglet Manual",
+        "description": "Zoomez et peignez les lignes de texte en couvrant bien les bords."
+      },
+      {
+        "title": "Pixelate et Radius",
+        "description": "Montez l'intensité jusqu'à ce que les lettres deviennent des blocs."
+      },
+      {
+        "title": "Save et vérification",
+        "description": "Ouvrez la copie enregistrée, zoomez et vérifiez que rien n'est lisible."
+      }
+    ],
+    "tips_title": "Conseils",
+    "tips": [
+      "Masquez la ligne entière : la longueur d'un mot suffit parfois à deviner un nom ou un montant.",
+      "Ne vous renvoyez pas la capture originale « pour la garder » : elle reste dans le cloud de la messagerie.",
+      "Masquez entièrement QR codes et codes-barres : un code partiellement visible peut encore se lire."
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Peut-on lire un texte rayé au feutre sur iPhone ?",
+        "answer": "Parfois oui : le feutre d'Annoter est semi-transparent. Une pixelisation à gros blocs est plus sûre."
+      },
+      {
+        "question": "Ça marche pour des photos de documents ?",
+        "answer": "Oui, Manual fonctionne avec toutes les images : carte d'identité, ticket, contrat."
+      },
+      {
+        "question": "Faut-il Internet ?",
+        "answer": "Non, tout est traité sur l'appareil et la capture n'est envoyée nulle part."
+      }
+    ],
+    "related": [
+      "flouter-partie-photo-iphone.html",
+      "pixeliser-photo-iphone.html",
+      "flouter-plaque-immatriculation-photo.html",
+      "flouter-visage-photo.html"
+    ],
+    "cta_title": "Des captures sans données de trop",
+    "cta_body": "Téléchargez Arrière Plan Flou Photo, peignez le texte dans Manual et enregistrez une copie. Gratuit, sur l'appareil.",
+    "cta_text": "Télécharger dans l'App Store"
+  },
+  {
+    "slug": "pixeliser-photo-iphone.html",
+    "keyword": "pixeliser une photo sur iPhone",
+    "cluster": "privacy",
+    "card_title": "Pixeliser une photo sur iPhone",
+    "card_excerpt": "Mosaïque pour la confidentialité ou effet rétro : sur un visage, le fond ou toute la photo.",
+    "card_image": "/img/appstore/fr/05-crystalize.webp",
+    "card_image_alt": "Effet mosaïque sur l'arrière-plan d'une photo",
+    "meta_title": "Pixeliser une photo sur iPhone : mosaïque gratuite",
+    "meta_description": "Comment pixeliser une photo sur iPhone : mosaïque sur l'arrière-plan, les visages, une zone ou toute l'image. Styles Pixelate, Hexagonal, Crystallize. Gratuit.",
+    "h1": "Comment pixeliser une photo sur iPhone",
+    "answer": "Pour pixeliser une photo sur iPhone, ouvrez-la dans Arrière Plan Flou Photo, choisissez ce qu'il faut traiter — l'arrière-plan (Background), les visages (Faces), une zone au pinceau (Manual) ou toute l'image (Full Photo) — puis le style Pixelate. La taille des blocs se règle avec Radius. Touchez Save : la copie pixelisée est enregistrée.",
+    "intro": "Pixeliser, c'est transformer une zone de l'image en mosaïque de carrés de couleur. On s'en sert pour la confidentialité (visages, plaques, textes) et comme effet : rétro, style jeu vidéo, fond abstrait. L'iPhone n'a pas de filtre de pixelisation, mais deux gestes suffisent.",
+    "image": "/img/appstore/fr/05-crystalize.webp",
+    "image_alt": "Arrière-plan de la photo transformé en mosaïque",
+    "native": {
+      "heading": "Photos sait-il pixeliser ?",
+      "paragraphs": [
+        "Non. Les filtres de Photos ne proposent pas de mosaïque, et Annoter ne fait que dessiner ou couvrir avec des formes. Clean Up (Apple Intelligence) peut pixeliser un visage entouré à la main, mais uniquement sur iPhone 15 Pro et ultérieurs."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Trois types de mosaïque",
+        "paragraphs": [
+          "Pixelate : blocs carrés, la censure classique. Hexagonal : alvéoles hexagonales, plus douces et décoratives. Crystallize : cristaux irréguliers, comme sur la capture « Pixel privacy en un geste » de l'App Store. Pour la confidentialité, Pixelate ; pour l'effet, au choix."
+        ]
+      },
+      {
+        "heading": "Où l'appliquer",
+        "paragraphs": [
+          "Background : le sujet reste net, le fond devient mosaïque, idéal pour un post. Faces : tous les visages pixelisés. Manual : une zone précise, comme une plaque, un texte ou une enseigne. Full Photo : toute l'image, par exemple pour une couverture ou un fond abstrait."
+        ]
+      }
+    ],
+    "steps_title": "Pixeliser dans l'app",
+    "steps": [
+      {
+        "title": "Ouvrez la photo",
+        "description": "Choisissez l'image dans Arrière Plan Flou Photo."
+      },
+      {
+        "title": "Choisissez le mode",
+        "description": "Background, Faces, Manual ou Full Photo, selon ce qu'il faut masquer."
+      },
+      {
+        "title": "Style Pixelate",
+        "description": "Radius change la taille des blocs."
+      },
+      {
+        "title": "Save",
+        "description": "La copie pixelisée est enregistrée dans votre photothèque."
+      }
+    ],
+    "tips_title": "Conseils",
+    "tips": [
+      "Pour la confidentialité, un bloc doit être plus grand qu'un œil ou qu'une lettre ; sinon le détail se devine.",
+      "Comme effet, essayez Hexagonal sur l'arrière-plan : personne nette, fond en nid d'abeille.",
+      "Une mosaïque sur toute la photo fait une couverture floutée parfaite pour une story."
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Comment pixeliser un visage ?",
+        "answer": "Onglet Faces + style Pixelate : tous les visages détectés passent en mosaïque."
+      },
+      {
+        "question": "Peut-on dépixeliser une photo ?",
+        "answer": "Non, si les blocs sont plus grands que les détails : l'information est supprimée de la copie enregistrée."
+      },
+      {
+        "question": "Les photos partent-elles dans le cloud ?",
+        "answer": "Non. Tout est traité sur l'iPhone, sans connexion."
+      }
+    ],
+    "related": [
+      "flouter-visage-photo.html",
+      "masquer-texte-capture-ecran-iphone.html",
+      "flouter-plaque-immatriculation-photo.html",
+      "flouter-partie-photo-iphone.html"
+    ],
+    "cta_title": "La mosaïque en un geste",
+    "cta_body": "Téléchargez Arrière Plan Flou Photo, choisissez Pixelate et réglez la taille des blocs. Gratuit, sans envoi de photos.",
+    "cta_text": "Télécharger dans l'App Store"
+  }
+]

@@ -1,0 +1,358 @@
+[
+  {
+    "slug": "hintergrund-unscharf-machen-iphone.html",
+    "keyword": "Hintergrund unscharf machen iPhone",
+    "cluster": "background",
+    "card_title": "Hintergrund unscharf machen am iPhone",
+    "card_excerpt": "Der Porträtmodus wirkt nur beim Fotografieren. So machen Sie den Hintergrund eines Fotos aus der Mediathek unscharf.",
+    "card_image": "/img/appstore/de/04-box.webp",
+    "card_image_alt": "Tab Background: Frau scharf, Hintergrund unscharf",
+    "meta_title": "Hintergrund unscharf machen am iPhone – auch nachträglich",
+    "meta_description": "Hintergrund unscharf machen am iPhone, wenn das Foto schon gemacht ist: Die App erkennt das Motiv, Sie wählen die Stärke und sichern. Ohne Porträtmodus.",
+    "h1": "Hintergrund unscharf machen am iPhone – auch nach der Aufnahme",
+    "answer": "Um den Hintergrund am iPhone nach der Aufnahme unscharf zu machen, öffnen Sie das Foto in MakeBlur („Hintergrund unscharf machen“), lassen den Tab Background (Hintergrund) ausgewählt, damit das Motiv erkannt wird, wählen den Stil Gaussian, erhöhen den Regler Radius bis zur gewünschten Weichheit und tippen auf Save. Das funktioniert mit jedem Foto aus der Mediathek, nicht nur mit Porträts, und alles läuft auf dem iPhone.",
+    "intro": "Die meisten Antworten auf „Hintergrund unscharf machen iPhone“ verweisen auf den Porträtmodus. Guter Tipp, wenn das Foto noch nicht gemacht ist. Wurde es aber im normalen Fotomodus aufgenommen, per WhatsApp geschickt oder ist es ein Screenshot, hilft der Porträtmodus nicht. Hier sehen Sie, was das iPhone selbst kann, wo es aufhört und wie Sie den Hintergrund in einer halben Minute unscharf machen.",
+    "image": "/img/appstore/de/04-box.webp",
+    "image_alt": "Tab Background in der App: Die Frau ist scharf, Backsteinwand und Blumen dahinter sind unscharf",
+    "native": {
+      "heading": "Was das iPhone selbst kann",
+      "paragraphs": [
+        "Der Porträtmodus speichert beim Auslösen eine Tiefenkarte. Später können Sie in Fotos → Bearbeiten die Unschärfe mit dem Blendenregler verstärken oder abschwächen. Aber nur bei Fotos, die im Porträtmodus mit einer passenden Kamera entstanden sind: Ein normales Foto, ein Selfie ohne Porträt, ein Screenshot oder ein empfangenes Bild hat keine Tiefenkarte – der Regler erscheint dann gar nicht.",
+        "Neuere iPhones können manche normale Fotos nachträglich in ein Porträt umwandeln, wenn beim Auslösen Tiefendaten gespeichert wurden. Das klappt nicht bei jedem Foto und nicht auf jedem Modell, und das Motiv können Sie nicht selbst wählen."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Hintergrund unscharf machen ohne Porträtmodus",
+        "paragraphs": [
+          "Dafür braucht es einen Editor, der das Motiv anhand des fertigen Bildes vom Hintergrund trennt. In MakeBlur übernimmt das der Tab Background: Er erkennt die Person oder das Hauptobjekt, hält es scharf und zeichnet alles andere weich. Tiefendaten der Kamera sind nicht nötig – die App arbeitet mit den Pixeln des Fotos, also passt jedes Bild.",
+          "Die Stärke regelt der Regler Radius, die Art der Unschärfe der Stil: Gaussian ergibt einen weichen Objektiv-Look, Box eine etwas gleichmäßigere Unschärfe, Motion einen Wischeffekt. Alles läuft auf dem iPhone, ohne Internet."
+        ]
+      },
+      {
+        "heading": "Welche Stärke passt",
+        "paragraphs": [
+          "Für Profil- oder Bewerbungsfotos reicht leichte Unschärfe: Man erkennt die Umgebung, sie lenkt aber nicht ab. Für Stories und Posts darf es mehr sein – der Hintergrund wird zu Farbflecken und die Person tritt hervor. Starten Sie mit mittlerem Radius und zoomen Sie an die Haare: Zeigt sich ein Lichtsaum, Stärke reduzieren."
+        ]
+      }
+    ],
+    "steps_title": "Hintergrund unscharf machen in der App",
+    "steps": [
+      {
+        "title": "Foto öffnen",
+        "description": "MakeBlur starten und das Bild aus der Mediathek wählen – normales Foto, Selfie oder Screenshot."
+      },
+      {
+        "title": "Tab Background lassen",
+        "description": "Die App erkennt das Motiv und markiert den Hintergrund, der unscharf wird."
+      },
+      {
+        "title": "Stil und Radius wählen",
+        "description": "Gaussian für den klassischen Porträt-Look. Radius ziehen, bis der Hintergrund weich genug ist."
+      },
+      {
+        "title": "Save tippen",
+        "description": "Die unscharfe Kopie landet in Fotos, das Original bleibt unverändert."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Die Maske gelingt am besten, wenn sich das Motiv klar abhebt: eine Person vor einer Wand, eine Tasse auf dem Tisch.",
+      "Vor dem Sichern Haare und Finger heranzoomen – bei sehr hohem Radius kann ein Saum entstehen.",
+      "Erst unscharf machen, dann zuschneiden: Die App hat mehr Pixel für eine genaue Maske."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Kann man am iPhone den Hintergrund ohne Porträtmodus unscharf machen?",
+        "answer": "Ja. Fotos kann es ohne Tiefendaten nicht, aber MakeBlur trennt das Motiv anhand des Bildes selbst und macht den Hintergrund jedes Fotos unscharf."
+      },
+      {
+        "question": "Wie mache ich den Hintergrund eines alten Fotos unscharf?",
+        "answer": "Genauso: in der App öffnen, Tab Background, Radius einstellen und sichern. Aufnahmedatum und Kameramodell spielen keine Rolle."
+      },
+      {
+        "question": "Verliert das Foto an Qualität?",
+        "answer": "Das Motiv behält seine Originalauflösung, nur der Hintergrund wird weichgezeichnet. Es wird eine neue Kopie gesichert, das Original bleibt."
+      },
+      {
+        "question": "Braucht die App Internet?",
+        "answer": "Nein. Alles läuft auf dem iPhone, Fotos werden nicht auf Server hochgeladen."
+      }
+    ],
+    "related": [
+      "hintergrund-verschwommen-machen.html",
+      "foto-hintergrund-unscharf-machen.html",
+      "blur-app-iphone.html",
+      "gausscher-weichzeichner-iphone.html"
+    ],
+    "cta_title": "Hintergrund unscharf – bei Fotos, die Sie schon haben",
+    "cta_body": "„Hintergrund unscharf machen“ laden, Foto öffnen, Radius einstellen, sichern. Kostenlos, auf dem Gerät, auf jedem iPhone mit iOS 18.6 oder neuer.",
+    "cta_text": "Laden im App Store"
+  },
+  {
+    "slug": "foto-hintergrund-unscharf-machen.html",
+    "keyword": "Foto Hintergrund unscharf machen",
+    "cluster": "background",
+    "card_title": "Foto-Hintergrund unscharf machen",
+    "card_excerpt": "Scharfes Motiv, weicher Hintergrund – mit drei Tipps bei jedem Foto, das schon auf dem iPhone ist.",
+    "card_image": "/img/appstore/de/04-box.webp",
+    "card_image_alt": "Weichgezeichneter Hintergrund hinter einer scharfen Frau",
+    "meta_title": "Foto-Hintergrund unscharf machen: kostenlos, in 3 Schritten",
+    "meta_description": "Foto-Hintergrund unscharf machen oder weichzeichnen am iPhone: Die App trennt Person und Hintergrund, Sie wählen Stil und Stärke. Für Profil, Posts, Stories.",
+    "h1": "Foto-Hintergrund unscharf machen am iPhone",
+    "answer": "Um den Hintergrund eines Fotos unscharf zu machen, öffnen Sie es in MakeBlur: Der Tab Background findet Person oder Objekt automatisch, Sie wählen einen Stil (Gaussian, Box oder Motion), stellen die Stärke mit Radius ein und tippen auf Save. Das dauert unter einer Minute, und das Foto verlässt Ihr iPhone nicht.",
+    "intro": "Ein unscharfer Hintergrund ist der schnellste Weg zu einem hochwertigeren Foto: Die Person tritt hervor, Details dahinter lenken nicht mehr ab. In der Kamera macht das ein lichtstarkes Objektiv, am Smartphone der Porträtmodus. Ist das Foto ohne ihn entstanden, lässt sich der Hintergrund nachträglich weichzeichnen – mit einem Ergebnis, als wäre es so geplant gewesen.",
+    "image": "/img/appstore/de/04-box.webp",
+    "image_alt": "Beispiel für unscharfen Hintergrund: scharfe Frau vor weichgezeichneter Wand und Blumen",
+    "native": {
+      "heading": "Warum es in Fotos nicht geht",
+      "paragraphs": [
+        "Der eingebaute Editor ändert die Tiefe nur bei Porträtfotos. Für alle anderen gibt es weder Pinsel noch Unschärfe-Filter: Mit „Markieren“ lässt sich ein Bereich mit einer Form abdecken, aber das ist keine Hintergrund-Unschärfe."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Unscharf machen oder weichzeichnen?",
+        "paragraphs": [
+          "Das ist dasselbe: „unscharf machen“ sagt man im Alltag, „weichzeichnen“ ist der Fotografen-Begriff. Beides meint scharfes Motiv und weichen Hintergrund – und beides erledigt der Tab Background."
+        ]
+      },
+      {
+        "heading": "Wofür ein unscharfer Hintergrund gut ist",
+        "paragraphs": [
+          "Profilbild für WhatsApp oder Instagram, Bewerbungsfoto oder LinkedIn, Dating-Profil, Produktfoto für Kleinanzeigen, ein Post: überall, wo ein Bild ein Hauptmotiv hat. Die Unschärfe entfernt Überflüssiges – Passanten, Schilder, Unordnung.",
+          "Für Profilbilder reicht weiche Unschärfe; für Stories darf der Hintergrund zu Farbflecken werden."
+        ]
+      },
+      {
+        "heading": "Welcher Stil",
+        "paragraphs": [
+          "Gaussian ist eine weiche, fließende Unschärfe wie bei einem unscharf gestellten Objektiv – passt fast immer. Box ist gleichmäßiger und grafischer. Motion ist ein Wischeffekt für Sport- oder Straßenfotos. Pixelate und Crystallize machen den Hintergrund zum Mosaik – eher ein kreatives Stilmittel."
+        ]
+      }
+    ],
+    "steps_title": "Foto-Hintergrund unscharf machen in der App",
+    "steps": [
+      {
+        "title": "Foto wählen",
+        "description": "App öffnen und das Bild aus der Mediathek auswählen."
+      },
+      {
+        "title": "Tab Background prüfen",
+        "description": "Das Motiv wird automatisch erkannt; nur der Hintergrund wird unscharf."
+      },
+      {
+        "title": "Stil und Radius",
+        "description": "Gaussian oder einen anderen Stil wählen und die Stärke mit Radius einstellen."
+      },
+      {
+        "title": "Save",
+        "description": "Die fertige Kopie erscheint in Fotos und kann sofort geteilt werden."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Beim Profilbild weich bleiben: Auf einem kleinen Kreis wirkt starke Unschärfe künstlich.",
+      "Haben Hintergrund und Kleidung dieselbe Farbe, vor dem Sichern die Kante heranzoomen.",
+      "Je eine Version für Post und Story sichern – jedes Format verträgt eine andere Stärke."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Ist das kostenlos?",
+        "answer": "Die App lädt kostenlos, die einfache Hintergrund-Unschärfe ist enthalten. Erweiterte Stile sind optional über In-App-Käufe erhältlich."
+      },
+      {
+        "question": "Geht das auch bei Fotos mit mehreren Personen?",
+        "answer": "Ja. Background hält erkannte Motive scharf und zeichnet den Rest weich. Soll nur eine Person scharf bleiben, den Bereich mit dem Tab Manual übermalen."
+      },
+      {
+        "question": "Werden Fotos irgendwohin hochgeladen?",
+        "answer": "Nein. Alles läuft auf dem iPhone, ohne Internet."
+      }
+    ],
+    "related": [
+      "hintergrund-unscharf-machen-iphone.html",
+      "hintergrund-verschwommen-machen.html",
+      "bokeh-effekt-iphone.html",
+      "blur-app-iphone.html"
+    ],
+    "cta_title": "Unscharfer Hintergrund in einer Minute",
+    "cta_body": "„Hintergrund unscharf machen“ laden, Foto öffnen, Stil und Stärke wählen, sichern. Kostenlos, iPhone mit iOS 18.6 oder neuer.",
+    "cta_text": "Laden im App Store"
+  },
+  {
+    "slug": "hintergrund-verschwommen-machen.html",
+    "keyword": "Hintergrund verschwommen machen",
+    "cluster": "background",
+    "card_title": "Hintergrund verschwommen machen",
+    "card_excerpt": "Für Einsteiger: was ein verschwommener Hintergrund ist, welche Stärke passt und wie es bei einem fertigen Foto geht.",
+    "card_image": "/img/appstore/de/02-motion.webp",
+    "card_image_alt": "Verschwommener Hintergrund hinter einer Frau am iPhone",
+    "meta_title": "Hintergrund verschwommen machen am iPhone: einfach erklärt",
+    "meta_description": "Hintergrund verschwommen machen am iPhone: was das ist, welche Stärke passt und wie es bei einem bereits aufgenommenen Foto in einer Minute geht. Kostenlos.",
+    "h1": "Hintergrund verschwommen machen am iPhone: einfach erklärt",
+    "answer": "Ein verschwommener Hintergrund heißt: Die Person ist scharf, alles dahinter weich. Am iPhone klappt das auch bei einem fertigen Foto: Öffnen Sie es in MakeBlur („Hintergrund unscharf machen“), lassen Sie den Tab Background, stellen Sie die Stärke mit Radius ein und tippen Sie auf Save. Porträtmodus oder Fotowissen sind nicht nötig.",
+    "intro": "„Ich will den Hintergrund verschwommen wie auf Profi-Fotos“ – ein häufiger Wunsch mit einfacher Antwort. Ein verschwommener Hintergrund löst die Person von ihrer Umgebung und macht das Bild ruhiger. Hier sehen Sie, wie verschiedene Stärken wirken und wie es am iPhone ohne Fotokenntnisse geht.",
+    "image": "/img/appstore/de/04-box.webp",
+    "image_alt": "Frau scharf, Hintergrund verschwommen am iPhone",
+    "native": {
+      "heading": "So macht es die iPhone-Kamera",
+      "paragraphs": [
+        "Im Porträtmodus speichert die Kamera eine Tiefenkarte und lässt den Hintergrund sofort verschwimmen. Die Stärke lässt sich später in Fotos → Bearbeiten ändern. Wurde das Foto im normalen Modus aufgenommen, fehlt diese Einstellung – der Hintergrund bleibt scharf, bis Sie es in einer anderen App bearbeiten."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "So wirkt jede Stärke",
+        "paragraphs": [
+          "Leicht: Die Umgebung ist erkennbar (Café, Park), konkurriert aber nicht mehr mit der Person. Ideal für Profil- und Bewerbungsfotos.",
+          "Mittel: Der Hintergrund wird zu Formen und Farben. Der typischste Porträt-Look für Posts.",
+          "Stark: Vom Hintergrund bleiben Farbflecken. Gut für Stories oder wenn die Umgebung wirklich stört."
+        ]
+      },
+      {
+        "heading": "Wenn die Kante unsauber ist",
+        "paragraphs": [
+          "Das passiert vor allem bei offenen Haaren oder wenn Hintergrund und Kleidung dieselbe Farbe haben. Radius etwas senken – bei geringerer Stärke fällt die Kante weniger auf. Bei Bedarf können Sie mit dem Tab Manual den Bereich, der verschwimmen soll, von Hand übermalen."
+        ]
+      }
+    ],
+    "steps_title": "Hintergrund verschwommen machen in der App",
+    "steps": [
+      {
+        "title": "Foto öffnen",
+        "description": "Bild in MakeBlur auswählen."
+      },
+      {
+        "title": "Tab Background",
+        "description": "Die App findet die Person und markiert den Hintergrund."
+      },
+      {
+        "title": "Stärke einstellen",
+        "description": "Radius von leicht nach stark ziehen und aufhören, wenn der Hintergrund nicht mehr ablenkt."
+      },
+      {
+        "title": "Sichern",
+        "description": "Save tippen – die Kopie mit verschwommenem Hintergrund liegt in der Mediathek."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Mit mittlerer Stärke beginnen: Erhöhen ist leicht, zu viel Unschärfe wirkt unecht.",
+      "Bei Gruppenfotos prüfen, ob alle Personen scharf bleiben.",
+      "Den Hintergrund nicht verschwimmen lassen, wenn er wichtig ist – etwa ein Wahrzeichen im Urlaub."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Wie bekomme ich einen verschwommenen Hintergrund, wenn das Foto schon gemacht ist?",
+        "answer": "In der App öffnen, Tab Background, Radius einstellen und sichern. Eine neue Aufnahme ist nicht nötig."
+      },
+      {
+        "question": "Brauche ich ein neues iPhone?",
+        "answer": "Nein. Jedes iPhone mit iOS 18.6 oder neuer reicht."
+      },
+      {
+        "question": "Kann ich den scharfen Hintergrund zurückholen?",
+        "answer": "Ja – die App sichert eine neue Kopie, das Original bleibt in der Mediathek."
+      }
+    ],
+    "related": [
+      "hintergrund-unscharf-machen-iphone.html",
+      "foto-hintergrund-unscharf-machen.html",
+      "gausscher-weichzeichner-iphone.html",
+      "bokeh-effekt-iphone.html"
+    ],
+    "cta_title": "Verschwommener Hintergrund in einer Minute",
+    "cta_body": "„Hintergrund unscharf machen“ laden, Foto öffnen, Stärke wählen, sichern. Kostenlos und ohne Upload.",
+    "cta_text": "Laden im App Store"
+  },
+  {
+    "slug": "blur-app-iphone.html",
+    "keyword": "Blur App iPhone",
+    "cluster": "background",
+    "card_title": "Blur App fürs iPhone",
+    "card_excerpt": "Porträtmodus, Markieren, Bereinigen, Websites oder eigene App – ein ehrlicher Vergleich für Fotos, die schon gemacht sind.",
+    "card_image": "/img/appstore/de/04-box.webp",
+    "card_image_alt": "Blur App für das iPhone im Einsatz",
+    "meta_title": "Blur App fürs iPhone: Hintergrund unscharf – was nehmen?",
+    "meta_description": "Welche Blur App fürs iPhone? Porträtmodus, Markieren, Bereinigen, Online-Tools und eine eigene App zum Hintergrund unscharf machen im ehrlichen Vergleich.",
+    "h1": "Blur App fürs iPhone: Was wirklich hilft",
+    "answer": "Ist das Foto nicht im Porträtmodus entstanden, machen die iPhone-Werkzeuge den Hintergrund nicht unscharf – dafür braucht es eine Blur App, die das Motiv selbst erkennt. MakeBlur („Hintergrund unscharf machen“) erledigt das auf dem Gerät, ohne Upload, und macht zusätzlich Gesichter, Bereiche und ganze Fotos unscharf. Online-Tools passen, wenn Sie das Foto auf einen fremden Server laden möchten.",
+    "intro": "Im App Store gibt es Dutzende Apps mit „Blur“ oder „unscharf“ im Namen, und blind auswählen ist mühsam. Statt einer Rangliste fremder Apps hier ein Vergleich der Methoden: was das iPhone selbst kann, was Websites bieten und auf welche Funktionen Sie bei einer App achten sollten.",
+    "image": "/img/appstore/de/04-box.webp",
+    "image_alt": "Scharfe Frau vor unscharfem Hintergrund: Ergebnis einer iPhone-App",
+    "native": {
+      "heading": "Eingebaute Optionen und ihre Grenzen",
+      "paragraphs": [
+        "Porträtmodus: das beste Ergebnis, aber nur beim Fotografieren und auf ein paar Meter Abstand. Fotos → Bearbeiten → Tiefe: nur bei Porträtfotos. Markieren: deckt einen Bereich mit Form oder Stift ab – keine Unschärfe. Bereinigen (Apple Intelligence): nur ab iPhone 15 Pro und gedacht zum Entfernen von Objekten, nicht zum Weichzeichnen des Hintergrunds."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Online-Tools",
+        "paragraphs": [
+          "Sie funktionieren im Browser, aber das Foto muss auf deren Server, oft mit Wasserzeichen oder begrenzter Auflösung. Für private Fotos, Kinderfotos oder Dokumente nicht ideal – auch mit Blick auf die DSGVO. Auf dieser Website gibt es ebenfalls einen Online-Editor, der aber nur das ganze Foto unscharf macht: Die gezielte Hintergrund-Unschärfe übernimmt die App."
+        ]
+      },
+      {
+        "heading": "Was eine gute Blur App können sollte",
+        "paragraphs": [
+          "Das Motiv auf jedem Foto finden, nicht nur bei Porträts. Die Stärke regelbar machen statt eines festen Effekts. Auf dem Gerät arbeiten. Gesichter und freie Bereiche unscharf machen – für den Datenschutz braucht man das so oft wie einen schönen Hintergrund.",
+          "MakeBlur erfüllt all das: Tabs Background, Faces, Manual und Full Photo, sieben Stile, Regler Radius und Offline-Verarbeitung auf iPhones mit iOS 18.6 oder neuer."
+        ]
+      }
+    ],
+    "steps_title": "In einer Minute ausprobieren",
+    "steps": [
+      {
+        "title": "App laden",
+        "description": "„Hintergrund unscharf machen“ (MakeBlur), kostenlos im App Store."
+      },
+      {
+        "title": "Beliebiges Foto öffnen",
+        "description": "Am besten eines, bei dem der Porträtmodus nicht geklappt hat."
+      },
+      {
+        "title": "Background und Radius",
+        "description": "Das Motiv wird erkannt; Stärke mit dem Regler einstellen."
+      },
+      {
+        "title": "Save",
+        "description": "Ergebnis mit dem Original in der Mediathek vergleichen."
+      }
+    ],
+    "tips_title": "Tipps",
+    "tips": [
+      "Testen Sie eine App mit einem schwierigen Foto: offene Haare und ähnlich farbiger Hintergrund.",
+      "Achten Sie darauf, wo das Foto verarbeitet wird: auf dem Gerät oder auf einem Server.",
+      "Prüfen Sie auch die Modi für Gesichter und freie Bereiche – Sie werden sie brauchen."
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Gibt es eine kostenlose Blur App fürs iPhone?",
+        "answer": "Ja, „Hintergrund unscharf machen“ (MakeBlur) lädt kostenlos und enthält die einfache Hintergrund-Unschärfe. Erweiterte Stile sind optional über In-App-Käufe erhältlich."
+      },
+      {
+        "question": "Geht es auch ohne App?",
+        "answer": "Nur bei Porträtfotos. Für alle anderen bietet der eingebaute Editor keine Hintergrund-Unschärfe."
+      },
+      {
+        "question": "Auf welchen iPhones läuft die App?",
+        "answer": "Auf jedem iPhone mit iOS 18.6 oder neuer, ohne Apple Intelligence oder Porträt-Kamera."
+      }
+    ],
+    "related": [
+      "hintergrund-unscharf-machen-iphone.html",
+      "foto-hintergrund-unscharf-machen.html",
+      "gesicht-unkenntlich-machen-foto.html",
+      "teil-foto-unscharf-machen-iphone.html"
+    ],
+    "cta_title": "Mit Ihrem eigenen Foto testen",
+    "cta_body": "„Hintergrund unscharf machen“ laden und den Hintergrund des Fotos weichzeichnen, bei dem der Porträtmodus versagt hat. Kostenlos und ohne Upload.",
+    "cta_text": "Laden im App Store"
+  }
+]
