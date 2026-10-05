@@ -9,7 +9,7 @@
 - App Store ID: 6749166426
 - URL: https://apps.apple.com/app/id6749166426
 - Platform: iPhone, iOS 18.6 or later
-- Price: Free to download; in-app purchases (US: $4.99 and $29.99; subscription SKU with trial)
+- Price: Free to download; optional in-app purchases for advanced styles and tools
 - Processing: On-device; photos are not uploaded when you blur backgrounds
 - Size: 25.7 MB
 - Languages: English + 30 more

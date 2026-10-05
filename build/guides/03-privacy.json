@@ -445,14 +445,14 @@
     "cluster": "background",
     "card_title": "Best app to blur background on iPhone?",
     "card_excerpt": "Portrait mode, Markup, Clean Up, web tools, or a dedicated app — an honest comparison of what each can do with a photo you already took.",
-    "card_image": "/img/appstore/01-cover.webp",
-    "card_image_alt": "How to Blur Photo app icon and cover screenshot",
+    "card_image": "/img/appstore/04-box.webp",
+    "card_image_alt": "How to Blur Photo on iPhone: subject sharp, background blurred",
     "meta_title": "Best App to Blur Background on iPhone After You Shoot (2026)",
     "meta_description": "Looking for the best app to blur background on iPhone? Compare Portrait mode, Markup, Clean Up, web tools and a dedicated after-the-shot app. Free, on-device.",
     "h1": "Best app to blur background on iPhone — what to use when the photo is already taken",
     "answer": "The best app to blur the background on iPhone depends on when you need it: Portrait mode is best before the shot; for photos you already have, a dedicated subject-aware editor such as How to Blur Photo is the practical choice — automatic subject detection, adjustable strength, face and manual modes, free to download, and processed on-device. Markup, Clean Up, and browser tools each solve a different, narrower problem.",
     "intro": "“Best app to blur background on iPhone” usually returns a list of ten general photo editors. Most people asking do not want ten editors; they want to know which route gets a sharp subject and a soft background on a photo that is already in their library, without a learning curve or an upload. This page compares the real options — including the ones built into iOS — against that job.",
-    "image": "/img/appstore/01-cover.webp",
+    "image": "/img/appstore/04-box.webp",
     "image_alt": "How to Blur Photo — sharp subject, blurred background",
     "native": {
       "heading": "Built-in options first",
@@ -471,7 +471,7 @@
       {
         "heading": "How to Blur Photo against that list",
         "paragraphs": [
-          "How to Blur Photo (published under the Make Blur brand) is built around this one job. It detects the subject on the Background tab, has a Radius slider for strength, a Manual tab with a brush, a Faces tab for privacy, and a Full Photo tab. Styles include Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, and Crystallize. Processing is on-device with no internet required. It is free to download on iPhone with iOS 18.6 or later; basic background blur is included and advanced styles and tools are in-app purchases ($4.99 and $29.99 on the US store).",
+          "How to Blur Photo (published under the Make Blur brand) is built around this one job. It detects the subject on the Background tab, has a Radius slider for strength, a Manual tab with a brush, a Faces tab for privacy, and a Full Photo tab. Styles include Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, and Crystallize. Processing is on-device with no internet required. It is free to download on iPhone with iOS 18.6 or later; basic background blur is included and advanced styles and tools are optional in-app purchases.",
           "What it is not: a general photo editor, a background remover (no transparent cutouts), or a video tool. If you need those, a broader app is the better choice; if you need the background of a photo blurred today, this one is quicker."
         ]
       }

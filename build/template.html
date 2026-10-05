@@ -90,36 +90,38 @@
         <div class="container hero-grid">
             <div class="hero-copy">
                 {{#if hero.eyebrow}}
-                <p class="eyebrow">{{hero.eyebrow}}</p>
+                <p class="hero-badge"><img src="/img/appstore/icon-180.webp" alt="" width="22" height="22" loading="eager" decoding="async"><span>{{hero.eyebrow}}</span></p>
                 {{/if}}
-                <h1 id="hero-title">{{hero.title}}</h1>
+                <h1 id="hero-title">{{hero.title}}{{#if hero.title_accent}} <span class="hero-title-accent">{{hero.title_accent}}</span>{{/if}}</h1>
                 <p class="hero-sub">{{hero.subtitle}}</p>
-                <p class="hero-lead">{{hero.intro.paragraph1}}</p>
+                {{#if hero.lead}}
+                <p class="hero-lead">{{hero.lead}}</p>
+                {{/if}}
                 <div class="hero-actions">
-                    <a href="{{hero.cta_url}}" class="appstore-badge" rel="noopener" aria-label="{{hero.cta_text|html_attr}}">
+                    <a href="{{hero.cta_url}}" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="{{hero.cta_text|html_attr}}">
                         <img src="/img/download.svg" alt="{{hero.cta_text|html_attr}}" width="180" height="60" loading="eager" decoding="async">
                     </a>
                     {{#if hero.secondary_cta_text}}
-                    <a href="#how-it-works" class="btn btn--ghost">{{hero.secondary_cta_text}}</a>
+                    <a href="#how-it-works" class="hero-link">{{hero.secondary_cta_text}}<span aria-hidden="true">→</span></a>
                     {{/if}}
                 </div>
                 {{#if hero.chips}}
-                <ul class="trust-chips" aria-label="Key facts">
+                <ul class="hero-facts" aria-label="Key facts">
                     {{#each hero.chips as |chip|}}
-                    <li>{{chip.text}}</li>
+                    <li><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>{{chip.text}}</li>
                     {{/each}}
                 </ul>
                 {{/if}}
             </div>
             <div class="hero-visual">
-                <figure class="phone">
-                    <img src="{{hero.image.src}}" alt="{{hero.image.alt}}" width="720" height="1558" fetchpriority="high" decoding="async">
+                <figure class="device">
+                    <img src="{{hero.image.src}}" alt="{{hero.image.alt}}" width="{{hero.image.width}}" height="{{hero.image.height}}" fetchpriority="high" decoding="async">
                 </figure>
                 {{#if hero.float_cards}}
                 {{#each hero.float_cards as |card|}}
                 <div class="float-card float-card--{{card.pos}}" aria-hidden="true">
-                    <span class="float-card-label">{{card.label}}</span>
-                    <span class="float-card-value">{{card.value}}</span>
+                    <span class="float-card-dot"></span>
+                    <span class="float-card-text"><span class="float-card-label">{{card.label}}</span><span class="float-card-value">{{card.value}}</span></span>
                 </div>
                 {{/each}}
                 {{/if}}
@@ -131,32 +133,45 @@
     <section class="download" id="download" aria-labelledby="download-title">
         <div class="container">
             <div class="download-card">
-                <img class="download-icon" src="{{download.icon.src}}" alt="{{download.icon.alt}}" width="96" height="96" loading="lazy" decoding="async">
-                <div class="download-copy">
-                    {{#if download.kicker}}
-                    <p class="eyebrow">{{download.kicker}}</p>
-                    {{/if}}
-                    <h2 id="download-title">{{download.title}}</h2>
+                <div class="download-main">
+                    <div class="download-head">
+                        <img class="download-icon" src="{{download.icon.src}}" alt="{{download.icon.alt}}" width="96" height="96" loading="lazy" decoding="async">
+                        <div>
+                            {{#if download.kicker}}
+                            <p class="eyebrow">{{download.kicker}}</p>
+                            {{/if}}
+                            <h2 id="download-title">{{download.title}}</h2>
+                        </div>
+                    </div>
                     {{#if download.subtitle}}
                     <p class="download-subtitle">{{download.subtitle}}</p>
                     {{/if}}
-                    {{#if download.points}}
-                    <ul class="check-list">
-                        {{#each download.points as |point|}}
-                        <li>{{point.text}}</li>
-                        {{/each}}
-                    </ul>
-                    {{/if}}
                     <div class="download-actions">
-                        <a href="{{download.cta_url}}" class="btn btn--primary" rel="noopener">{{download.cta_text}}</a>
-                        {{#if download.note}}
-                        <p class="download-note">{{download.note}}</p>
-                        {{/if}}
+                        <a href="{{download.cta_url}}" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="{{download.cta_text|html_attr}}">
+                            <img src="/img/download.svg" alt="{{download.cta_text|html_attr}}" width="180" height="60" loading="lazy" decoding="async">
+                        </a>
                     </div>
+                    {{#if download.specs}}
+                    <dl class="download-specs">
+                        {{#each download.specs as |spec|}}
+                        <div><dt>{{spec.label}}</dt><dd>{{spec.value}}</dd></div>
+                        {{/each}}
+                    </dl>
+                    {{/if}}
+                    {{#if download.note}}
+                    <p class="download-note">{{download.note}}</p>
+                    {{/if}}
                     {{#if download.body}}
                     <p class="download-body">{{download.body}}</p>
                     {{/if}}
                 </div>
+                {{#if download.points}}
+                <ul class="download-features">
+                    {{#each download.points as |point|}}
+                    <li><span class="download-feature-icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>{{point.text}}</span></li>
+                    {{/each}}
+                </ul>
+                {{/if}}
             </div>
         </div>
     </section>
@@ -185,13 +200,16 @@
     <section class="how-it-works" id="how-it-works" aria-labelledby="how-title">
         <div class="container">
             <div class="section-head">
+                {{#if how_it_works.intro.line1}}
+                <p class="eyebrow">{{how_it_works.intro.line1}}</p>
+                {{/if}}
                 <h2 id="how-title">{{how_it_works.title}}</h2>
                 <p class="section-intro">{{how_it_works.intro.paragraph1}}</p>
             </div>
-            <ol class="steps">
+            <ol class="steps steps--timeline">
                 {{#each how_it_works.steps as |step|}}
                 <li class="step">
-                    <span class="step-number" aria-hidden="true">{{step.number}}</span>
+                    <div class="step-marker" aria-hidden="true"><span class="step-number">{{step.number}}</span></div>
                     <h3>{{step.title}}</h3>
                     <p>{{step.description}}</p>
                 </li>
@@ -204,13 +222,26 @@
                 <div class="modes-grid">
                     {{#each modes.items as |mode|}}
                     <a class="mode-card" href="{{mode.url}}">
-                        <span class="mode-tab">{{mode.tab}}</span>
+                        <span class="mode-top"><span class="mode-icon" aria-hidden="true"></span><span class="mode-tab">{{mode.tab}}</span></span>
                         <span class="mode-name">{{mode.name}}</span>
                         <span class="mode-desc">{{mode.description}}</span>
-                        <span class="mode-link">{{mode.link_text}}</span>
+                        <span class="mode-link">{{mode.link_text}}<span aria-hidden="true">→</span></span>
                     </a>
                     {{/each}}
                 </div>
+                {{#if modes.styles}}
+                <div class="modes-styles-row">
+                    <span class="modes-styles-label">{{modes.styles_label}}</span>
+                    <ul class="modes-style-chips">
+                        {{#each modes.styles as |style|}}
+                        <li>{{style}}</li>
+                        {{/each}}
+                    </ul>
+                    {{#if modes.styles_note}}
+                    <span class="modes-styles-note">{{modes.styles_note}}</span>
+                    {{/if}}
+                </div>
+                {{/if}}
                 {{#if modes.styles_line}}
                 <p class="modes-styles">{{modes.styles_line}}</p>
                 {{/if}}
@@ -227,26 +258,32 @@
                 <h2 id="guides-title">{{guides.title}}</h2>
                 <p class="section-intro">{{guides.intro}}</p>
             </div>
+            <div class="guide-hub">
             {{#each guides.groups as |group|}}
-            <div class="guide-group">
-                <div class="guide-group-head">
-                    <h3>{{group.title}}</h3>
-                    {{#if group.blurb}}<p>{{group.blurb}}</p>{{/if}}
+            <div class="guide-panel">
+                <div class="guide-panel-head">
+                    <span class="guide-panel-icon" aria-hidden="true"></span>
+                    <div>
+                        <h3>{{group.title}}</h3>
+                        {{#if group.blurb}}<p>{{group.blurb}}</p>{{/if}}
+                    </div>
                 </div>
-                <div class="guides-grid">
+                <ul class="guide-list">
                     {{#each group.items as |guide|}}
-                    <a class="guide-card" href="/{{guide.slug}}">
-                        <img src="{{guide.card_image}}" alt="" width="720" height="1558" loading="lazy" decoding="async">
-                        <span class="guide-card-body">
-                            <span class="guide-card-title">{{guide.card_title}}</span>
-                            <span class="guide-card-excerpt">{{guide.card_excerpt}}</span>
-                            <span class="guide-card-cta">{{guide.learn_more_text}} →</span>
-                        </span>
-                    </a>
+                    <li>
+                        <a class="guide-row" href="/{{guide.slug}}">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">{{guide.card_title}}</span>
+                                <span class="guide-row-excerpt">{{guide.card_excerpt}}</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
                     {{/each}}
-                </div>
+                </ul>
             </div>
             {{/each}}
+            </div>
         </div>
     </section>
     {{/if}}
@@ -280,14 +317,32 @@
     <section class="final-cta" aria-labelledby="cta-title">
         <div class="container">
             <div class="final-cta-card">
-                <img src="{{download.icon.src}}" alt="" width="72" height="72" loading="lazy" decoding="async" class="final-cta-icon">
-                <h2 id="cta-title">{{final_cta.title}}</h2>
-                <p>{{final_cta.paragraph1}}</p>
-                <p>{{final_cta.paragraph2}}</p>
-                <a href="{{final_cta.cta_url}}" class="appstore-badge appstore-badge--lg" rel="noopener" aria-label="{{final_cta.cta_text|html_attr}}">
-                    <img src="/img/download.svg" alt="{{final_cta.cta_text|html_attr}}" width="200" height="67" loading="lazy" decoding="async">
-                </a>
-                <p class="final-cta-note">{{final_cta.paragraph3}}</p>
+                <div class="final-cta-copy">
+                    <img src="{{download.icon.src}}" alt="" width="72" height="72" loading="lazy" decoding="async" class="final-cta-icon">
+                    {{#if final_cta.eyebrow}}
+                    <p class="eyebrow">{{final_cta.eyebrow}}</p>
+                    {{/if}}
+                    <h2 id="cta-title">{{final_cta.title}}</h2>
+                    {{#if final_cta.paragraph1}}
+                    <p>{{final_cta.paragraph1}}</p>
+                    {{/if}}
+                    {{#if final_cta.paragraph2}}
+                    <p>{{final_cta.paragraph2}}</p>
+                    {{/if}}
+                    <a href="{{final_cta.cta_url}}" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="{{final_cta.cta_text|html_attr}}">
+                        <img src="/img/download.svg" alt="{{final_cta.cta_text|html_attr}}" width="180" height="60" loading="lazy" decoding="async">
+                    </a>
+                    {{#if final_cta.paragraph3}}
+                    <p class="final-cta-note">{{final_cta.paragraph3}}</p>
+                    {{/if}}
+                </div>
+                {{#if final_cta.images}}
+                <div class="final-cta-visual" aria-hidden="true">
+                    {{#each final_cta.images as |img|}}
+                    <img src="{{img}}" alt="" width="720" height="1558" loading="lazy" decoding="async">
+                    {{/each}}
+                </div>
+                {{/if}}
             </div>
         </div>
     </section>
@@ -302,42 +357,43 @@
                     <span class="brand-name">{{header.app_name}}</span>
                 </a>
                 <p class="footer-tagline">{{footer.tagline}}</p>
-                <a href="{{footer.download_url}}" class="footer-download" rel="noopener">{{footer.download_text}}</a>
+                <a href="{{footer.download_url}}" class="appstore-badge footer-badge" rel="noopener" aria-label="{{footer.download_text|html_attr}}">
+                    <img src="/img/download.svg" alt="{{footer.download_text|html_attr}}" width="135" height="45" loading="lazy" decoding="async">
+                </a>
             </div>
-            {{#if guides.items}}
-            <nav class="footer-col" aria-label="Guides">
-                <h3>{{guides.nav_text}}</h3>
-                <ul>
-                    {{#each guides.items as |guide|}}
-                    <li><a href="/{{guide.slug}}">{{guide.card_title}}</a></li>
-                    {{/each}}
-                </ul>
+            {{#if guides.groups}}
+            <nav class="footer-guides" aria-label="{{guides.nav_text|html_attr}}">
+                {{#each guides.groups as |group|}}
+                <div class="footer-col">
+                    <h3>{{group.title}}</h3>
+                    <ul>
+                        {{#each group.items as |g|}}
+                        <li><a href="/{{g.slug}}">{{g.card_title}}</a></li>
+                        {{/each}}
+                    </ul>
+                </div>
+                {{/each}}
             </nav>
             {{/if}}
-            <div class="footer-col">
-                {{#if footer.more_title}}<h3>{{footer.more_title}}</h3>{{/if}}
-                <ul>
-                    {{#if how_it_works.nav_text}}<li><a href="#how-it-works">{{how_it_works.nav_text}}</a></li>{{/if}}
-                    {{#if seo.faq_nav_text}}<li><a href="#faq">{{seo.faq_nav_text}}</a></li>{{/if}}
+        </div>
+        <div class="container footer-bottom">
+            <div class="footer-bottom-row">
+                <p class="footer-copy">{{footer.copyright}}</p>
+                <ul class="footer-links">
+                    {{#if how_it_works.nav_text}}<li><a href="{{meta.canonical|html_attr}}#how-it-works">{{how_it_works.nav_text}}</a></li>{{/if}}
+                    {{#if seo.faq_nav_text}}<li><a href="{{meta.canonical|html_attr}}#faq">{{seo.faq_nav_text}}</a></li>{{/if}}
                     <li><a href="{{editor.page_url|html_attr}}">{{editor.hero_link_text}}</a></li>
                     <li><a href="/privacy.html">{{footer.privacy_text}}</a></li>
                     <li><a href="/terms.html">{{footer.terms_text}}</a></li>
                 </ul>
-                <div class="language-selector" data-current-lang="{{meta.lang|html_attr}}">
-                    <button class="language-selector-button" type="button" aria-label="Select language" aria-expanded="false">
-                        <span class="language-code">{{meta.lang|html_attr}}</span>
-                        <svg class="language-chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M2 4L6 8L10 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                    </button>
-                    <div class="language-dropdown" role="menu">
-                        {{#each meta.alternate_languages as |lang|}}
-                        <a href="{{lang.url}}" class="language-option" data-lang="{{lang.code|html_attr}}" role="menuitem" hreflang="{{lang.hreflang|html_attr}}"><span class="language-code">{{lang.code|html_attr}}</span></a>
-                        {{/each}}
-                    </div>
-                </div>
             </div>
-        </div>
-        <div class="container footer-bottom">
-            <p>{{footer.copyright}}</p>
+            <nav class="footer-langs" aria-label="Language">
+                <ul>
+                    {{#each meta.alternate_languages as |lang|}}
+                    <li>{{#if lang.current}}<a href="{{lang.url}}" hreflang="{{lang.hreflang|html_attr}}" lang="{{lang.hreflang|html_attr}}" title="{{lang.name|html_attr}}" aria-current="page">{{lang.label}}</a>{{/if}}{{#if lang.other}}<a href="{{lang.url}}" hreflang="{{lang.hreflang|html_attr}}" lang="{{lang.hreflang|html_attr}}" title="{{lang.name|html_attr}}">{{lang.label}}</a>{{/if}}</li>
+                    {{/each}}
+                </ul>
+            </nav>
             {{#if footer.fineprint}}<p class="footer-fineprint">{{footer.fineprint}}</p>{{/if}}
         </div>
     </footer>
@@ -366,25 +422,6 @@
 
 <script>
 (function () {
-    var sel = document.querySelector('.language-selector');
-    if (!sel) return;
-    var btn = sel.querySelector('.language-selector-button');
-    var cur = sel.getAttribute('data-current-lang');
-    sel.querySelectorAll('.language-option').forEach(function (o) {
-        if (o.getAttribute('data-lang') === cur) o.style.display = 'none';
-    });
-    btn.addEventListener('click', function (e) {
-        e.stopPropagation();
-        var open = btn.getAttribute('aria-expanded') === 'true';
-        btn.setAttribute('aria-expanded', String(!open));
-        sel.classList.toggle('is-open', !open);
-    });
-    document.addEventListener('click', function (e) {
-        if (!sel.contains(e.target)) { btn.setAttribute('aria-expanded', 'false'); sel.classList.remove('is-open'); }
-    });
-    document.addEventListener('keydown', function (e) {
-        if (e.key === 'Escape') { btn.setAttribute('aria-expanded', 'false'); sel.classList.remove('is-open'); }
-    });
     // Open the first FAQ item by default
     var first = document.querySelector('.faq-item');
     if (first) first.open = true;

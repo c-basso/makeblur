@@ -71,116 +71,164 @@
                             <span aria-current="page">{{guide.breadcrumb_current}}</span>
                         </nav>
                         <h1>{{guide.h1}}</h1>
-                        <p class="guide-updated">{{statistics.last_updated}}</p>
+                        <ul class="guide-meta">
+                            <li>{{statistics.last_updated}}</li>
+                            {{#if guide.read_time_text}}<li>{{guide.read_time_text}}</li>{{/if}}
+                            <li>iPhone · iOS 18.6+</li>
+                        </ul>
                         <div class="answer-box">
-                            <p class="answer-label">{{guide.answer_label}}</p>
+                            <p class="answer-label"><svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M8 1.5l1.6 4.1 4.4.3-3.4 2.8 1.1 4.3L8 10.6 4.3 13l1.1-4.3L2 5.9l4.4-.3z" fill="currentColor"/></svg>{{guide.answer_label}}</p>
                             <p class="answer-text">{{guide.answer}}</p>
-                            <a href="{{header.download_url}}" class="btn btn--primary" rel="noopener">{{guide.cta_text}}</a>
+                            <div class="answer-actions">
+                                <a href="{{header.download_url}}" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="{{guide.cta_text|html_attr}}">
+                                    <img src="/img/download.svg" alt="{{guide.cta_text|html_attr}}" width="180" height="60" loading="eager" decoding="async">
+                                </a>
+                                <span class="answer-note">Free · No uploads · Works on photos you already took</span>
+                            </div>
                         </div>
                     </div>
-                    <figure class="guide-hero-shot phone">
+                    <figure class="guide-hero-shot">
                         <img src="{{guide.image}}" alt="{{guide.image_alt}}" width="720" height="1558" fetchpriority="high" decoding="async">
                     </figure>
                 </div>
             </header>
 
-            <div class="container guide-body">
-                <p class="guide-lead">{{guide.intro}}</p>
+            <div class="container guide-layout">
+                <div class="guide-body">
+                    <p class="guide-lead">{{guide.intro}}</p>
 
-                {{#if guide.native}}
-                <section class="guide-section guide-section--native">
-                    <h2>{{guide.native.heading}}</h2>
-                    {{#each guide.native.paragraphs as |para|}}
-                    <p>{{para}}</p>
+                    {{#if guide.native}}
+                    <section class="guide-section guide-callout" id="{{guide.native.id}}">
+                        <p class="guide-callout-label"><svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><rect x="4" y="1.5" width="8" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M7 12.5h2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>Built into iPhone</p>
+                        <h2>{{guide.native.heading}}</h2>
+                        {{#each guide.native.paragraphs as |para|}}
+                        <p>{{para}}</p>
+                        {{/each}}
+                    </section>
+                    {{/if}}
+
+                    {{#each guide.sections as |section|}}
+                    <section class="guide-section" id="{{section.id}}">
+                        <h2>{{section.heading}}</h2>
+                        {{#each section.paragraphs as |para|}}
+                        <p>{{para}}</p>
+                        {{/each}}
+                    </section>
                     {{/each}}
-                </section>
-                {{/if}}
 
-                {{#each guide.sections as |section|}}
-                <section class="guide-section">
-                    <h2>{{section.heading}}</h2>
-                    {{#each section.paragraphs as |para|}}
-                    <p>{{para}}</p>
-                    {{/each}}
-                </section>
-                {{/each}}
-
-                <section class="guide-section guide-steps" id="steps">
-                    <h2>{{guide.steps_title}}</h2>
-                    <ol class="steps steps--vertical">
-                        {{#each guide.steps as |step|}}
-                        <li class="step">
-                            <span class="step-number" aria-hidden="true">{{step.number}}</span>
-                            <h3>{{step.title}}</h3>
-                            <p>{{step.description}}</p>
-                        </li>
-                        {{/each}}
-                    </ol>
-                    <div class="inline-cta">
-                        <img src="/img/appstore/icon.webp" alt="" width="48" height="48" loading="lazy" decoding="async">
-                        <div>
-                            <p class="inline-cta-title">{{download.title}}</p>
-                            <p class="inline-cta-note">{{download.note}}</p>
+                    <section class="guide-section guide-steps" id="steps">
+                        <h2>{{guide.steps_title}}</h2>
+                        <ol class="steps steps--vertical">
+                            {{#each guide.steps as |step|}}
+                            <li class="step">
+                                <span class="step-number" aria-hidden="true">{{step.number}}</span>
+                                <h3>{{step.title}}</h3>
+                                <p>{{step.description}}</p>
+                            </li>
+                            {{/each}}
+                        </ol>
+                        <div class="inline-cta">
+                            <img src="/img/appstore/icon.webp" alt="" width="56" height="56" loading="lazy" decoding="async">
+                            <div class="inline-cta-copy">
+                                <p class="inline-cta-title">{{download.title}}</p>
+                                <p class="inline-cta-note">Free · iPhone with iOS 18.6+ · No uploads</p>
+                            </div>
+                            <a href="{{header.download_url}}" class="appstore-badge" rel="noopener" aria-label="{{header.download_text|html_attr}}">
+                                <img src="/img/download.svg" alt="{{header.download_text|html_attr}}" width="135" height="45" loading="lazy" decoding="async">
+                            </a>
                         </div>
-                        <a href="{{header.download_url}}" class="btn btn--primary btn--sm" rel="noopener">{{header.download_text}}</a>
-                    </div>
-                </section>
+                    </section>
 
-                {{#if guide.tips}}
-                <section class="guide-section">
-                    <h2>{{guide.tips_title}}</h2>
-                    <ul class="tips">
-                        {{#each guide.tips as |tip|}}
-                        <li>{{tip}}</li>
-                        {{/each}}
-                    </ul>
-                </section>
-                {{/if}}
+                    {{#if guide.tips}}
+                    <section class="guide-section" id="tips">
+                        <h2>{{guide.tips_title}}</h2>
+                        <ul class="tips">
+                            {{#each guide.tips as |tip|}}
+                            <li><span class="tip-number" aria-hidden="true">{{tip.number}}</span><p>{{tip.text}}</p></li>
+                            {{/each}}
+                        </ul>
+                    </section>
+                    {{/if}}
 
-                {{#if guide.faq}}
-                <section class="guide-section" id="faq">
-                    <h2>{{guide.faq_title}}</h2>
-                    <div class="faq-list faq-list--flat">
-                        {{#each guide.faq as |item|}}
-                        <div class="faq-item faq-item--open">
-                            <h3 class="faq-question">{{item.question}}</h3>
-                            <p class="faq-answer">{{item.answer}}</p>
+                    {{#if guide.faq}}
+                    <section class="guide-section" id="faq">
+                        <h2>{{guide.faq_title}}</h2>
+                        <div class="guide-faq">
+                            {{#each guide.faq as |item|}}
+                            <div class="guide-faq-item">
+                                <h3>{{item.question}}</h3>
+                                <p>{{item.answer}}</p>
+                            </div>
+                            {{/each}}
                         </div>
-                        {{/each}}
-                    </div>
-                </section>
-                {{/if}}
+                    </section>
+                    {{/if}}
 
-                {{#if guide.related}}
-                <section class="guide-section">
-                    <h2>{{guides.related_title}}</h2>
-                    <div class="guides-grid guides-grid--related">
-                        {{#each guide.related as |rel|}}
-                        <a class="guide-card" href="/{{rel.slug}}">
-                            <img src="{{rel.card_image}}" alt="" width="720" height="1558" loading="lazy" decoding="async">
-                            <span class="guide-card-body">
-                                <span class="guide-card-title">{{rel.card_title}}</span>
-                                <span class="guide-card-excerpt">{{rel.card_excerpt}}</span>
-                                <span class="guide-card-cta">{{guides.learn_more_text}} →</span>
-                            </span>
+                    {{#if guide.related}}
+                    <section class="guide-section">
+                        <h2>{{guides.related_title}}</h2>
+                        <ul class="guide-list guide-list--related">
+                            {{#each guide.related as |rel|}}
+                            <li>
+                                <a class="guide-row" href="/{{rel.slug}}">
+                                    <span class="guide-row-text">
+                                        <span class="guide-row-title">{{rel.card_title}}</span>
+                                        <span class="guide-row-excerpt">{{rel.card_excerpt}}</span>
+                                    </span>
+                                    <span class="guide-row-arrow" aria-hidden="true">→</span>
+                                </a>
+                            </li>
+                            {{/each}}
+                        </ul>
+                    </section>
+                    {{/if}}
+                </div>
+
+                <aside class="guide-aside" aria-label="On this page">
+                    <div class="guide-aside-inner">
+                        <p class="guide-aside-title">On this page</p>
+                        <ul class="guide-toc">
+                            {{#each guide.toc as |item|}}
+                            <li><a href="#{{item.id}}">{{item.title}}</a></li>
+                            {{/each}}
+                        </ul>
+                        <div class="guide-aside-app">
+                            <img src="/img/appstore/icon.webp" alt="" width="44" height="44" loading="lazy" decoding="async">
+                            <div>
+                                <p class="guide-aside-app-name">How to Blur Photo</p>
+                                <p class="guide-aside-app-note">Free · iOS 18.6+</p>
+                            </div>
+                        </div>
+                        <a href="{{header.download_url}}" class="appstore-badge" rel="noopener" aria-label="{{header.download_text|html_attr}}">
+                            <img src="/img/download.svg" alt="{{header.download_text|html_attr}}" width="135" height="45" loading="lazy" decoding="async">
                         </a>
-                        {{/each}}
                     </div>
-                </section>
-                {{/if}}
+                </aside>
             </div>
         </article>
 
         <section class="final-cta" aria-labelledby="cta-title">
             <div class="container">
                 <div class="final-cta-card">
-                    <img src="/img/appstore/icon.webp" alt="" width="72" height="72" loading="lazy" decoding="async" class="final-cta-icon">
-                    <h2 id="cta-title">{{guide.cta_title}}</h2>
-                    <p>{{guide.cta_body}}</p>
-                    <a href="{{header.download_url}}" class="appstore-badge appstore-badge--lg" rel="noopener" aria-label="{{guide.cta_text|html_attr}}">
-                        <img src="/img/download.svg" alt="{{guide.cta_text|html_attr}}" width="200" height="67" loading="lazy" decoding="async">
-                    </a>
-                    <p class="final-cta-note">{{final_cta.paragraph3}}</p>
+                    <div class="final-cta-copy">
+                        <img src="/img/appstore/icon.webp" alt="" width="72" height="72" loading="lazy" decoding="async" class="final-cta-icon">
+                        {{#if final_cta.eyebrow}}
+                        <p class="eyebrow">{{final_cta.eyebrow}}</p>
+                        {{/if}}
+                        <h2 id="cta-title">{{guide.cta_title}}</h2>
+                        <p>{{guide.cta_body}}</p>
+                        <a href="{{header.download_url}}" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="{{guide.cta_text|html_attr}}">
+                            <img src="/img/download.svg" alt="{{guide.cta_text|html_attr}}" width="180" height="60" loading="lazy" decoding="async">
+                        </a>
+                        <p class="final-cta-note">{{final_cta.paragraph3}}</p>
+                    </div>
+                    {{#if final_cta.images}}
+                    <div class="final-cta-visual" aria-hidden="true">
+                        {{#each final_cta.images as |img|}}
+                        <img src="{{img}}" alt="" width="720" height="1558" loading="lazy" decoding="async">
+                        {{/each}}
+                    </div>
+                    {{/if}}
                 </div>
             </div>
         </section>
@@ -194,30 +242,37 @@
                     <span class="brand-name">{{header.app_name}}</span>
                 </a>
                 <p class="footer-tagline">{{footer.tagline}}</p>
-                <a href="{{footer.download_url}}" class="footer-download" rel="noopener">{{footer.download_text}}</a>
+                <a href="{{footer.download_url}}" class="appstore-badge footer-badge" rel="noopener" aria-label="{{footer.download_text|html_attr}}">
+                    <img src="/img/download.svg" alt="{{footer.download_text|html_attr}}" width="135" height="45" loading="lazy" decoding="async">
+                </a>
             </div>
-            <nav class="footer-col" aria-label="Guides">
-                <h3>{{guides.nav_text}}</h3>
-                <ul>
-                    {{#each guides.items as |g|}}
-                    <li><a href="/{{g.slug}}">{{g.card_title}}</a></li>
-                    {{/each}}
-                </ul>
+            {{#if guides.groups}}
+            <nav class="footer-guides" aria-label="{{guides.nav_text|html_attr}}">
+                {{#each guides.groups as |group|}}
+                <div class="footer-col">
+                    <h3>{{group.title}}</h3>
+                    <ul>
+                        {{#each group.items as |g|}}
+                        <li><a href="/{{g.slug}}">{{g.card_title}}</a></li>
+                        {{/each}}
+                    </ul>
+                </div>
+                {{/each}}
             </nav>
-            <div class="footer-col">
-                <h3>{{footer.more_title}}</h3>
-                <ul>
-                    <li><a href="{{meta.canonical|html_attr}}#how-it-works">{{how_it_works.nav_text}}</a></li>
-                    <li><a href="{{meta.canonical|html_attr}}#faq">{{seo.faq_nav_text}}</a></li>
+            {{/if}}
+        </div>
+        <div class="container footer-bottom">
+            <div class="footer-bottom-row">
+                <p class="footer-copy">{{footer.copyright}}</p>
+                <ul class="footer-links">
+                    {{#if how_it_works.nav_text}}<li><a href="{{meta.canonical|html_attr}}#how-it-works">{{how_it_works.nav_text}}</a></li>{{/if}}
+                    {{#if seo.faq_nav_text}}<li><a href="{{meta.canonical|html_attr}}#faq">{{seo.faq_nav_text}}</a></li>{{/if}}
                     <li><a href="{{editor.page_url|html_attr}}">{{editor.hero_link_text}}</a></li>
                     <li><a href="/privacy.html">{{footer.privacy_text}}</a></li>
                     <li><a href="/terms.html">{{footer.terms_text}}</a></li>
                 </ul>
             </div>
-        </div>
-        <div class="container footer-bottom">
-            <p>{{footer.copyright}}</p>
-            <p class="footer-fineprint">{{footer.fineprint}}</p>
+            {{#if footer.fineprint}}<p class="footer-fineprint">{{footer.fineprint}}</p>{{/if}}
         </div>
     </footer>
 

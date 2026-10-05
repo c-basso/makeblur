@@ -63,7 +63,18 @@ function getRequiredString(obj, keyPath) {
             }
             data.meta.version = buildTimestamp;
             data.meta.alternate_default = SITE_URL;
-            data.meta.alternate_languages = URLS;
+            const LANGUAGE_LABELS = {
+                en: ['EN', 'English'], ru: ['RU', 'Русский'], es: ['ES', 'Español'], fr: ['FR', 'Français'],
+                de: ['DE', 'Deutsch'], it: ['IT', 'Italiano'], pt: ['PT', 'Português'], jp: ['JA', '日本語'],
+                ko: ['KO', '한국어'], nl: ['NL', 'Nederlands'], pl: ['PL', 'Polski'], ro: ['RO', 'Română'],
+                th: ['TH', 'ไทย'], tr: ['TR', 'Türkçe'], uk: ['UK', 'Українська'], vi: ['VI', 'Tiếng Việt'],
+                cn: ['ZH', '简体中文']
+            };
+            data.meta.alternate_languages = URLS.map((u) => {
+                const [label, name] = LANGUAGE_LABELS[u.code] || [u.code.toUpperCase(), u.code];
+                const isCurrent = u.code === lang;
+                return { ...u, label, name, current: isCurrent ? 'true' : '', other: isCurrent ? '' : 'true' };
+            });
             data.meta.google_tag_script = GOOGLE_TAG_SCRIPT;
             data.meta.yandex_metrika_script = YANDEX_METRIKA_SCRIPT;
 
@@ -139,6 +150,10 @@ function getRequiredString(obj, keyPath) {
             data.header.download_url = APP_STORE_URL;
             data.hero.cta_url = APP_STORE_URL;
             data.final_cta.cta_url = APP_STORE_URL;
+            if (!Array.isArray(data.final_cta.images)) data.final_cta.images = [];
+            data.final_cta.eyebrow = data.final_cta.eyebrow || '';
+            data.final_cta.paragraph2 = data.final_cta.paragraph2 || '';
+            data.final_cta.paragraph3 = data.final_cta.paragraph3 || '';
             data.footer.download_url = APP_STORE_URL;
             data.statistics.last_updated = getStatisticsLastUpdated(lang);
             getRequiredString(data, 'footer.privacy_text');
@@ -174,6 +189,10 @@ function getRequiredString(obj, keyPath) {
             }
 
             // Optional fields introduced by the 2026 template (locales may not have them yet)
+            if (data.hero.lead === undefined) data.hero.lead = data.hero.intro?.paragraph1 || '';
+            data.hero.title_accent = data.hero.title_accent || '';
+            data.hero.image.width = data.hero.image.width || 720;
+            data.hero.image.height = data.hero.image.height || 1558;
             data.hero.eyebrow = data.hero.eyebrow || '';
             data.hero.secondary_cta_text = data.hero.secondary_cta_text || '';
             if (!Array.isArray(data.hero.chips)) data.hero.chips = [];
@@ -185,7 +204,10 @@ function getRequiredString(obj, keyPath) {
             data.seo.faq_intro = data.seo.faq_intro || '';
             data.modes = data.modes || {};
             if (!Array.isArray(data.modes.items)) data.modes.items = [];
-            data.modes.styles_line = data.modes.styles_line || '';
+            if (!Array.isArray(data.modes.styles)) data.modes.styles = [];
+            data.modes.styles_label = data.modes.styles_label || '';
+            data.modes.styles_note = data.modes.styles_note || '';
+            data.modes.styles_line = data.modes.styles.length ? '' : (data.modes.styles_line || '');
             data.footer.more_title = data.footer.more_title || '';
             data.footer.fineprint = data.footer.fineprint || '';
             data.footer.tagline = data.footer.tagline || '';
@@ -193,6 +215,8 @@ function getRequiredString(obj, keyPath) {
             data.download = data.download || {};
             data.download.cta_url = APP_STORE_URL;
             if (!Array.isArray(data.download.points)) data.download.points = [];
+            if (!Array.isArray(data.download.specs)) data.download.specs = [];
+            data.download.note = data.download.specs.length ? '' : (data.download.note || '');
             if (!data.download.cta_text) {
                 data.download.cta_text = data.hero?.cta_text || data.header?.download_text || 'Download';
             }
@@ -237,7 +261,11 @@ function getRequiredString(obj, keyPath) {
                 steps_title: item.steps_title || 'How to do it in the app',
                 tips_title: item.tips_title || 'Tips',
                 cta_text: item.cta_text || data.header?.download_text || 'Download',
-                answer_label: item.answer_label || data.guides.answer_label || 'Short answer'
+                answer_label: item.answer_label || data.guides.answer_label || 'Short answer',
+                read_time_text: item.read_time_text || (() => {
+                    const words = JSON.stringify(item).replace(/<[^>]*>|"[a-z_]+":|[{}\[\],"]/g, ' ').split(/\s+/).filter(Boolean).length;
+                    return `${Math.max(2, Math.round(words / 220))} min read`;
+                })()
             }));
             for (const item of data.guides.items) {
                 allUrls.add(item.page_url);
@@ -366,10 +394,24 @@ function getRequiredString(obj, keyPath) {
                             card_image: g.card_image,
                             card_image_alt: g.card_image_alt
                         }));
+                    const slugify = (t) => String(t || '').toLowerCase().replace(/<[^>]*>/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 60);
+                    const native = guide.native ? { ...guide.native, id: slugify(guide.native.heading) || 'native' } : null;
+                    const sections = (guide.sections || []).map((s, i) => ({ ...s, id: slugify(s.heading) || `section-${i + 1}` }));
+                    const toc = [];
+                    if (native) toc.push({ id: native.id, title: native.heading });
+                    for (const s of sections) toc.push({ id: s.id, title: s.heading });
+                    toc.push({ id: 'steps', title: guide.steps_title });
+                    if (Array.isArray(guide.tips) && guide.tips.length) toc.push({ id: 'tips', title: guide.tips_title });
+                    if (Array.isArray(guide.faq) && guide.faq.length) toc.push({ id: 'faq', title: guide.faq_title });
+                    const tips = (guide.tips || []).map((text, i) => ({ text, number: String(i + 1).padStart(2, '0') }));
                     const guideData = {
                         ...data,
                         guide: {
                             ...guide,
+                            native,
+                            sections,
+                            toc,
+                            tips,
                             related,
                             breadcrumb_current: guide.card_title || guide.h1
                         }

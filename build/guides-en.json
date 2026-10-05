@@ -1,9 +1,9 @@
 {
   "hub": {
     "nav_text": "Guides",
-    "title": "Guides: one answer per search",
-    "intro": "Each guide answers one question people actually search — how to blur a background, a face, a plate, text, or the whole photo on iPhone — then shows the exact taps in the app.",
-    "learn_more_text": "Read the guide",
+    "title": "Step-by-step guides",
+    "intro": "Blur a background, hide a face, cover a license plate or text, or soften a whole photo — each guide shows the exact taps on iPhone.",
+    "learn_more_text": "Learn more",
     "related_title": "Related guides",
     "answer_label": "Short answer",
     "clusters": [
@@ -131,14 +131,14 @@
       "cluster": "background",
       "card_title": "Blur background of a photo",
       "card_excerpt": "Subject sharp, background soft — in three taps, on any photo already on your iPhone.",
-      "card_image": "/img/appstore/01-cover.webp",
-      "card_image_alt": "How to Blur Photo cover: portrait with blurred background",
+      "card_image": "/img/appstore/04-box.webp",
+      "card_image_alt": "Background tab in How to Blur Photo: subject sharp, background blurred",
       "meta_title": "Blur Background of a Photo on iPhone — Free App, 3 Taps",
       "meta_description": "Blur background of a photo on iPhone: the app detects the subject, you set the strength, and save. Works after you shoot, free to download, processed on-device.",
       "h1": "Blur background of a photo on iPhone",
       "answer": "To blur the background of a photo, open it in How to Blur Photo, leave the Background tab selected so the subject is masked automatically, pick a blur style, drag the Radius slider to the strength you want, and tap Save. The app is free to download, works on any photo already on your iPhone, and does not upload the image.",
       "intro": "“Blur background of photo” is a result people want, not a technique they want to learn: the person or product in front sharp, the clutter behind gone soft. On iPhone that used to mean shooting in Portrait mode or moving the file to a desktop editor. How to Blur Photo does it on the phone, after the shot, with a slider.",
-      "image": "/img/appstore/01-cover.webp",
+      "image": "/img/appstore/04-box.webp",
       "image_alt": "Portrait with sharp subject and blurred background made in How to Blur Photo",
       "native": {
         "heading": "Before you install anything",
@@ -189,7 +189,7 @@
       "faq": [
         {
           "question": "Is it free to blur the background of a photo?",
-          "answer": "Yes. How to Blur Photo is free to download and includes basic background blur. Advanced styles and tools are optional in-app purchases ($4.99 and $29.99 on the US store)."
+          "answer": "Yes. How to Blur Photo is free to download and includes basic background blur. Advanced styles and tools are optional in-app purchases."
         },
         {
           "question": "Does it work on old photos?",
@@ -306,14 +306,14 @@
       "cluster": "background",
       "card_title": "How to make the background blurry on iPhone",
       "card_excerpt": "Beginner walkthrough: what “blurry background” means, what strength to pick, and how to do it on a photo you already have.",
-      "card_image": "/img/appstore/01-cover.webp",
+      "card_image": "/img/appstore/04-box.webp",
       "card_image_alt": "Blurry background behind a sharp subject on iPhone",
       "meta_title": "How to Make Background Blurry on iPhone (Any Photo, Free)",
       "meta_description": "How to make the background blurry on iPhone, step by step, on photos you already took. No Portrait mode needed: detect the subject, set strength, save. Free.",
       "h1": "How to make the background blurry on iPhone",
       "answer": "To make the background blurry on iPhone, either shoot in Portrait mode before you take the photo, or open an existing photo in How to Blur Photo, keep the Background tab selected so the subject stays sharp, drag the Radius slider until the background looks as blurry as you want, and tap Save. The second method works on any photo in your library.",
       "intro": "If you have ever looked at a photo and thought “I wish the background was blurry”, this is the guide. It is written for people who are not photographers: no talk of f-stops, just what the options are on an iPhone and which one to use depending on whether the photo already exists.",
-      "image": "/img/appstore/01-cover.webp",
+      "image": "/img/appstore/04-box.webp",
       "image_alt": "How to Blur Photo making the background blurry behind a person",
       "native": {
         "heading": "Option 1: before you shoot — Portrait mode",
@@ -1396,14 +1396,14 @@
       "cluster": "background",
       "card_title": "Best app to blur background on iPhone?",
       "card_excerpt": "Portrait mode, Markup, Clean Up, web tools, or a dedicated app — an honest comparison of what each can do with a photo you already took.",
-      "card_image": "/img/appstore/01-cover.webp",
-      "card_image_alt": "How to Blur Photo app icon and cover screenshot",
+      "card_image": "/img/appstore/04-box.webp",
+      "card_image_alt": "How to Blur Photo on iPhone: subject sharp, background blurred",
       "meta_title": "Best App to Blur Background on iPhone After You Shoot (2026)",
       "meta_description": "Looking for the best app to blur background on iPhone? Compare Portrait mode, Markup, Clean Up, web tools and a dedicated after-the-shot app. Free, on-device.",
       "h1": "Best app to blur background on iPhone — what to use when the photo is already taken",
       "answer": "The best app to blur the background on iPhone depends on when you need it: Portrait mode is best before the shot; for photos you already have, a dedicated subject-aware editor such as How to Blur Photo is the practical choice — automatic subject detection, adjustable strength, face and manual modes, free to download, and processed on-device. Markup, Clean Up, and browser tools each solve a different, narrower problem.",
       "intro": "“Best app to blur background on iPhone” usually returns a list of ten general photo editors. Most people asking do not want ten editors; they want to know which route gets a sharp subject and a soft background on a photo that is already in their library, without a learning curve or an upload. This page compares the real options — including the ones built into iOS — against that job.",
-      "image": "/img/appstore/01-cover.webp",
+      "image": "/img/appstore/04-box.webp",
       "image_alt": "How to Blur Photo — sharp subject, blurred background",
       "native": {
         "heading": "Built-in options first",
@@ -1422,7 +1422,7 @@
         {
           "heading": "How to Blur Photo against that list",
           "paragraphs": [
-            "How to Blur Photo (published under the Make Blur brand) is built around this one job. It detects the subject on the Background tab, has a Radius slider for strength, a Manual tab with a brush, a Faces tab for privacy, and a Full Photo tab. Styles include Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, and Crystallize. Processing is on-device with no internet required. It is free to download on iPhone with iOS 18.6 or later; basic background blur is included and advanced styles and tools are in-app purchases ($4.99 and $29.99 on the US store).",
+            "How to Blur Photo (published under the Make Blur brand) is built around this one job. It detects the subject on the Background tab, has a Radius slider for strength, a Manual tab with a brush, a Faces tab for privacy, and a Full Photo tab. Styles include Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, and Crystallize. Processing is on-device with no internet required. It is free to download on iPhone with iOS 18.6 or later; basic background blur is included and advanced styles and tools are optional in-app purchases.",
             "What it is not: a general photo editor, a background remover (no transparent cutouts), or a video tool. If you need those, a broader app is the better choice; if you need the background of a photo blurred today, this one is quicker."
           ]
         }
