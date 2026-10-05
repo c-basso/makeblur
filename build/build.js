@@ -15,7 +15,7 @@ const {
 } = require('./constants');
 const { readImageDimensions } = require('./lib/imageDimensions');
 const { renderTemplate } = require('./lib/template');
-const { mergeGuides } = require('./merge-guides');
+const { mergeGuides, hasGuides } = require('./merge-guides');
 
 function getRequiredString(obj, keyPath) {
     const keys = keyPath.split('.');
@@ -244,9 +244,28 @@ function getRequiredString(obj, keyPath) {
                 caption: shot.caption || shot.alt || ''
             }));
 
-            if (lang === DEFAULT_LANGUAGE) {
-                // build/guides/*.json → build/guides-en.json (merged every build)
-                const guidesFile = mergeGuides();
+            // UI strings used by templates (English defaults; locales override via `ui` in <lang>.json)
+            data.ui = {
+                skip_link: 'Skip to content',
+                nav_label: 'Primary',
+                key_facts_label: 'Key facts',
+                language_label: 'Language',
+                breadcrumb_label: 'Breadcrumb',
+                on_this_page: 'On this page',
+                built_into_iphone: 'Built into iPhone',
+                guide_meta_device: 'iPhone · iOS 18.6+',
+                answer_note: 'Free · No uploads · Works on photos you already took',
+                inline_cta_note: 'Free · iPhone with iOS 18.6+ · No uploads',
+                aside_app_name: 'How to Blur Photo',
+                aside_app_note: 'Free · iOS 18.6+',
+                read_time: '{n} min read',
+                howto_tool: 'How to Blur Photo (iPhone app)',
+                ...(data.ui || {})
+            };
+
+            if (hasGuides(lang)) {
+                // build/guides[/<lang>]/*.json → build/guides-<lang>.json (merged every build)
+                const guidesFile = mergeGuides(lang);
                 data.guides = { ...(data.guides || {}), ...(guidesFile.hub || {}), items: guidesFile.items || [] };
             }
             if (!data.guides) data.guides = {};
@@ -254,6 +273,7 @@ function getRequiredString(obj, keyPath) {
             data.guides.items = data.guides.items.map((item) => ({
                 ...item,
                 page_url: `${SITE_URL}${localePrefix}${item.slug}`,
+                path: `/${localePrefix}${item.slug}`,
                 learn_more_text: item.learn_more_text || data.guides.learn_more_text || 'Learn more',
                 og_title: item.og_title || item.meta_title,
                 og_description: item.og_description || item.meta_description,
@@ -264,7 +284,7 @@ function getRequiredString(obj, keyPath) {
                 answer_label: item.answer_label || data.guides.answer_label || 'Short answer',
                 read_time_text: item.read_time_text || (() => {
                     const words = JSON.stringify(item).replace(/<[^>]*>|"[a-z_]+":|[{}\[\],"]/g, ' ').split(/\s+/).filter(Boolean).length;
-                    return `${Math.max(2, Math.round(words / 220))} min read`;
+                    return (data.ui?.read_time || '{n} min read').replace('{n}', String(Math.max(2, Math.round(words / 220))));
                 })()
             }));
             for (const item of data.guides.items) {
@@ -335,7 +355,7 @@ function getRequiredString(obj, keyPath) {
                     }
                     if (!faq.learn_more_url && faq.guide_keyword) {
                         const match = guideByKeyword.get(String(faq.guide_keyword).toLowerCase());
-                        if (match) faq.learn_more_url = `/${match.slug}`;
+                        if (match) faq.learn_more_url = match.path;
                     }
                     return faq;
                 });
@@ -388,6 +408,7 @@ function getRequiredString(obj, keyPath) {
                         .filter(Boolean)
                         .map((g) => ({
                             slug: g.slug,
+                            path: g.path,
                             page_url: g.page_url,
                             card_title: g.card_title,
                             card_excerpt: g.card_excerpt,
@@ -424,7 +445,7 @@ function getRequiredString(obj, keyPath) {
                         "description": stripHtml(guide.meta_description),
                         "image": `${SITE_URL}${String(guide.image || '').replace(/^\//, '')}`,
                         "totalTime": "PT2M",
-                        "tool": [{ "@type": "HowToTool", "name": "How to Blur Photo (iPhone app)" }],
+                        "tool": [{ "@type": "HowToTool", "name": data.ui.howto_tool }],
                         "step": (guide.steps || []).map((s, i) => ({
                             "@type": "HowToStep",
                             "position": i + 1,

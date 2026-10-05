@@ -59,9 +59,9 @@
 {{meta.google_tag_script}}
 </head>
 <body>
-    <a class="skip-link" href="#main">Skip to content</a>
+    <a class="skip-link" href="#main">{{ui.skip_link}}</a>
     <header class="site-header" role="banner">
-        <nav class="container nav" aria-label="Primary">
+        <nav class="container nav" aria-label="{{ui.nav_label|html_attr}}">
             <a class="brand" href="{{meta.canonical|html_attr}}">
                 <img class="brand-icon" src="/img/appstore/icon.webp" alt="" width="36" height="36" loading="eager" decoding="async">
                 <span class="brand-name">{{header.app_name}}</span>
@@ -106,7 +106,7 @@
                     {{/if}}
                 </div>
                 {{#if hero.chips}}
-                <ul class="hero-facts" aria-label="Key facts">
+                <ul class="hero-facts" aria-label="{{ui.key_facts_label|html_attr}}">
                     {{#each hero.chips as |chip|}}
                     <li><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>{{chip.text}}</li>
                     {{/each}}
@@ -271,7 +271,7 @@
                 <ul class="guide-list">
                     {{#each group.items as |guide|}}
                     <li>
-                        <a class="guide-row" href="/{{guide.slug}}">
+                        <a class="guide-row" href="{{guide.path}}">
                             <span class="guide-row-text">
                                 <span class="guide-row-title">{{guide.card_title}}</span>
                                 <span class="guide-row-excerpt">{{guide.card_excerpt}}</span>
@@ -368,7 +368,7 @@
                     <h3>{{group.title}}</h3>
                     <ul>
                         {{#each group.items as |g|}}
-                        <li><a href="/{{g.slug}}">{{g.card_title}}</a></li>
+                        <li><a href="{{g.path}}">{{g.card_title}}</a></li>
                         {{/each}}
                     </ul>
                 </div>
@@ -387,7 +387,7 @@
                     <li><a href="/terms.html">{{footer.terms_text}}</a></li>
                 </ul>
             </div>
-            <nav class="footer-langs" aria-label="Language">
+            <nav class="footer-langs" aria-label="{{ui.language_label|html_attr}}">
                 <ul>
                     {{#each meta.alternate_languages as |lang|}}
                     <li>{{#if lang.current}}<a href="{{lang.url}}" hreflang="{{lang.hreflang|html_attr}}" lang="{{lang.hreflang|html_attr}}" title="{{lang.name|html_attr}}" aria-current="page">{{lang.label}}</a>{{/if}}{{#if lang.other}}<a href="{{lang.url}}" hreflang="{{lang.hreflang|html_attr}}" lang="{{lang.hreflang|html_attr}}" title="{{lang.name|html_attr}}">{{lang.label}}</a>{{/if}}</li>

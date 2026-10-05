@@ -34,7 +34,7 @@
     <meta name="twitter:image" content="{{meta.twitter_image|html_attr}}">
 
     <link rel="canonical" href="{{guide.page_url|html_attr}}">
-    <link rel="alternate" hreflang="en" href="{{guide.page_url|html_attr}}" />
+    <link rel="alternate" hreflang="{{meta.html_lang|html_attr}}" href="{{guide.page_url|html_attr}}" />
     <link rel="alternate" hreflang="x-default" href="{{guide.page_url|html_attr}}" />
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
@@ -43,9 +43,9 @@
 {{meta.google_tag_script}}
 </head>
 <body class="guide-page">
-    <a class="skip-link" href="#main">Skip to content</a>
+    <a class="skip-link" href="#main">{{ui.skip_link}}</a>
     <header class="site-header" role="banner">
-        <nav class="container nav" aria-label="Primary">
+        <nav class="container nav" aria-label="{{ui.nav_label|html_attr}}">
             <a class="brand" href="{{meta.canonical|html_attr}}">
                 <img class="brand-icon" src="/img/appstore/icon.webp" alt="" width="36" height="36" loading="eager" decoding="async">
                 <span class="brand-name">{{header.app_name}}</span>
@@ -63,7 +63,7 @@
                 <div class="hero-glow hero-glow--a" aria-hidden="true"></div>
                 <div class="container guide-hero-grid">
                     <div class="guide-hero-copy">
-                        <nav class="crumbs" aria-label="Breadcrumb">
+                        <nav class="crumbs" aria-label="{{ui.breadcrumb_label|html_attr}}">
                             <a href="{{meta.canonical|html_attr}}">{{seo.breadcrumb_home}}</a>
                             <span aria-hidden="true">/</span>
                             <a href="{{meta.canonical|html_attr}}#guides">{{guides.nav_text}}</a>
@@ -74,7 +74,7 @@
                         <ul class="guide-meta">
                             <li>{{statistics.last_updated}}</li>
                             {{#if guide.read_time_text}}<li>{{guide.read_time_text}}</li>{{/if}}
-                            <li>iPhone · iOS 18.6+</li>
+                            <li>{{ui.guide_meta_device}}</li>
                         </ul>
                         <div class="answer-box">
                             <p class="answer-label"><svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M8 1.5l1.6 4.1 4.4.3-3.4 2.8 1.1 4.3L8 10.6 4.3 13l1.1-4.3L2 5.9l4.4-.3z" fill="currentColor"/></svg>{{guide.answer_label}}</p>
@@ -83,7 +83,7 @@
                                 <a href="{{header.download_url}}" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="{{guide.cta_text|html_attr}}">
                                     <img src="/img/download.svg" alt="{{guide.cta_text|html_attr}}" width="180" height="60" loading="eager" decoding="async">
                                 </a>
-                                <span class="answer-note">Free · No uploads · Works on photos you already took</span>
+                                <span class="answer-note">{{ui.answer_note}}</span>
                             </div>
                         </div>
                     </div>
@@ -99,7 +99,7 @@
 
                     {{#if guide.native}}
                     <section class="guide-section guide-callout" id="{{guide.native.id}}">
-                        <p class="guide-callout-label"><svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><rect x="4" y="1.5" width="8" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M7 12.5h2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>Built into iPhone</p>
+                        <p class="guide-callout-label"><svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><rect x="4" y="1.5" width="8" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M7 12.5h2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>{{ui.built_into_iphone}}</p>
                         <h2>{{guide.native.heading}}</h2>
                         {{#each guide.native.paragraphs as |para|}}
                         <p>{{para}}</p>
@@ -131,7 +131,7 @@
                             <img src="/img/appstore/icon.webp" alt="" width="56" height="56" loading="lazy" decoding="async">
                             <div class="inline-cta-copy">
                                 <p class="inline-cta-title">{{download.title}}</p>
-                                <p class="inline-cta-note">Free · iPhone with iOS 18.6+ · No uploads</p>
+                                <p class="inline-cta-note">{{ui.inline_cta_note}}</p>
                             </div>
                             <a href="{{header.download_url}}" class="appstore-badge" rel="noopener" aria-label="{{header.download_text|html_attr}}">
                                 <img src="/img/download.svg" alt="{{header.download_text|html_attr}}" width="135" height="45" loading="lazy" decoding="async">
@@ -170,7 +170,7 @@
                         <ul class="guide-list guide-list--related">
                             {{#each guide.related as |rel|}}
                             <li>
-                                <a class="guide-row" href="/{{rel.slug}}">
+                                <a class="guide-row" href="{{rel.path}}">
                                     <span class="guide-row-text">
                                         <span class="guide-row-title">{{rel.card_title}}</span>
                                         <span class="guide-row-excerpt">{{rel.card_excerpt}}</span>
@@ -184,9 +184,9 @@
                     {{/if}}
                 </div>
 
-                <aside class="guide-aside" aria-label="On this page">
+                <aside class="guide-aside" aria-label="{{ui.on_this_page|html_attr}}">
                     <div class="guide-aside-inner">
-                        <p class="guide-aside-title">On this page</p>
+                        <p class="guide-aside-title">{{ui.on_this_page}}</p>
                         <ul class="guide-toc">
                             {{#each guide.toc as |item|}}
                             <li><a href="#{{item.id}}">{{item.title}}</a></li>
@@ -195,8 +195,8 @@
                         <div class="guide-aside-app">
                             <img src="/img/appstore/icon.webp" alt="" width="44" height="44" loading="lazy" decoding="async">
                             <div>
-                                <p class="guide-aside-app-name">How to Blur Photo</p>
-                                <p class="guide-aside-app-note">Free · iOS 18.6+</p>
+                                <p class="guide-aside-app-name">{{ui.aside_app_name}}</p>
+                                <p class="guide-aside-app-note">{{ui.aside_app_note}}</p>
                             </div>
                         </div>
                         <a href="{{header.download_url}}" class="appstore-badge" rel="noopener" aria-label="{{header.download_text|html_attr}}">
@@ -253,7 +253,7 @@
                     <h3>{{group.title}}</h3>
                     <ul>
                         {{#each group.items as |g|}}
-                        <li><a href="/{{g.slug}}">{{g.card_title}}</a></li>
+                        <li><a href="{{g.path}}">{{g.card_title}}</a></li>
                         {{/each}}
                     </ul>
                 </div>

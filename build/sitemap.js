@@ -75,22 +75,18 @@ function xmlEscape(str) {
     appendUrlEntry(url, editorAlternates, xDefaultEditorUrl);
   }
 
-  const enJson = JSON.parse(fs.readFileSync(path.join(__dirname, 'en.json'), 'utf8'));
-  const guidesFilePath = path.join(__dirname, 'guides-en.json');
-  if (fs.existsSync(guidesFilePath)) {
+  // Guide pages: build/guides-<lang>.json (one per locale that has guides)
+  for (const lang of LANGUAGES) {
+    const guidesFilePath = path.join(__dirname, `guides-${lang}.json`);
+    if (!fs.existsSync(guidesFilePath)) continue;
     const guidesFile = JSON.parse(fs.readFileSync(guidesFilePath, 'utf8'));
     const items = Array.isArray(guidesFile.items) ? guidesFile.items : [];
+    const base = langUrlByCode.get(lang)?.url || SITE_URL;
+    const hreflang = langUrlByCode.get(lang)?.hreflang || lang;
     for (const item of items) {
       if (!item?.slug) continue;
-      const loc = `${SITE_URL}${item.slug}`;
-      const self = [{ hreflang: 'en', url: loc }];
-      appendUrlEntry(loc, self, loc);
-    }
-  } else if (Array.isArray(enJson?.guides?.items)) {
-    for (const item of enJson.guides.items) {
-      if (!item?.slug) continue;
-      const loc = `${SITE_URL}${item.slug}`;
-      appendUrlEntry(loc, [{ hreflang: 'en', url: loc }], loc);
+      const loc = `${base}${item.slug}`;
+      appendUrlEntry(loc, [{ hreflang, url: loc }], loc);
     }
   }
 
