@@ -1,0 +1,1289 @@
+{
+  "hub": {
+    "nav_text": "ガイド",
+    "title": "ステップごとのガイド",
+    "intro": "背景をぼかす、顔を隠す、ナンバーやスクショの文字にモザイク、写真全体をぼかす。どのガイドも iPhone での正確な手順を紹介しています。",
+    "learn_more_text": "詳しく見る",
+    "related_title": "関連ガイド",
+    "answer_label": "結論",
+    "clusters": [
+      {
+        "id": "background",
+        "title": "背景をぼかす",
+        "blurb": "撮った後の写真でも、主役くっきり・背景やわらか。"
+      },
+      {
+        "id": "privacy",
+        "title": "顔・ナンバー・文字を隠す",
+        "blurb": "共有前のプライバシー対策に、ぼかしとモザイク。"
+      },
+      {
+        "id": "effects",
+        "title": "ぼかしエフェクト",
+        "blurb": "モーションブラー、ボケ、ガウスぼかし。"
+      },
+      {
+        "id": "photo",
+        "title": "写真をぼかし加工する",
+        "blurb": "写真全体のぼかしと、ぼかし効果の基本。"
+      }
+    ]
+  },
+  "items": [
+    {
+      "slug": "iphone-haikei-bokashi.html",
+      "keyword": "iPhone 背景 ぼかし",
+      "cluster": "background",
+      "card_title": "iPhoneで写真の背景をぼかす（撮った後でも）",
+      "card_excerpt": "ポートレートモードは撮影時だけ。ライブラリにある写真の背景をあとからぼかす方法です。",
+      "card_image": "/img/appstore/jp/04-box.webp",
+      "card_image_alt": "Backgroundタブ：女性はくっきり、背景はぼけている",
+      "meta_title": "iPhoneで背景をぼかす方法｜撮った後の写真でもできる",
+      "meta_description": "撮影済みの写真の背景をiPhoneでぼかす方法を解説。ポートレートモードで撮っていなくても、アプリが被写体を自動で検出し、強さを選んで保存するだけ。標準機能でできることと限界もまとめました。ポートレートモードやApple Intelligenceがなくても使えます。",
+      "h1": "iPhoneで写真の背景をぼかす方法 — 撮った後でもOK",
+      "answer": "撮影済みの写真の背景を iPhone でぼかすには、MakeBlur（写真の背景をぼかす）で写真を開き、被写体が検出されるよう Background（背景）タブのまま Gaussian スタイルを選び、Radius スライダーを好みのやわらかさまで上げて Save をタップします。ポートレートだけでなくライブラリのどの写真でも使え、処理はすべて iPhone の中で行われます。",
+      "intro": "「iPhone 背景 ぼかし」で検索すると、ほとんどの記事がポートレートモードをすすめています。これから撮るならそれが正解です。でも、通常の写真モードで撮った写真、LINE で送られてきた写真、スクショには使えません。ここでは、iPhone の標準機能でできること、できないこと、そして30秒で背景をぼかす方法を紹介します。",
+      "image": "/img/appstore/jp/04-box.webp",
+      "image_alt": "アプリのBackgroundタブ：女性はくっきり、後ろのレンガの壁と花はぼけている",
+      "native": {
+        "heading": "iPhoneの標準機能でできること",
+        "paragraphs": [
+          "ポートレートモードは撮影の瞬間に深度マップを保存します。あとから「写真」→「編集」で左上の「f」をタップすれば、ぼけの強さを変えられます。ただし、対応カメラのポートレートモードで撮った写真に限られます。通常の写真、ポートレートなしの自撮り、スクショ、受け取った画像には深度マップがなく、このスライダー自体が表示されません。",
+          "新しい iPhone では、撮影時に深度情報が保存されていれば通常の写真をあとからポートレートに切り替えられる場合もあります。ただし、すべての写真・機種で使えるわけではなく、被写体を自分で選ぶこともできません。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "ポートレートモードなしで背景をぼかす",
+          "paragraphs": [
+            "そのためには、完成した画像から被写体と背景を切り分けるエディターが必要です。MakeBlur では Background タブがその役割を担います。人物やメインの被写体を認識してくっきり残し、それ以外をやわらかくします。カメラの深度情報は不要で、写真のピクセルから処理するので、どんな画像でも使えます。",
+            "強さは Radius スライダー、ぼかしの種類はスタイルで選びます。Gaussian はレンズのようなやわらかさ、Box は少し均一なぼかし、Motion は流れるような動き。すべて iPhone の中で、インターネットなしで処理されます。"
+          ]
+        },
+        {
+          "heading": "どのくらいぼかすか",
+          "paragraphs": [
+            "プロフィール写真や履歴書用なら軽めで十分。背景はわかるけれど気にならない程度です。インスタのストーリーズや投稿なら強めでも OK。背景が色のにじみになり、人物が際立ちます。まず中くらいの Radius から始め、髪の毛を拡大して白いふちが出ていたら弱めましょう。"
+          ]
+        }
+      ],
+      "steps_title": "アプリで背景をぼかす手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "写真を開く",
+          "description": "MakeBlur を起動し、ライブラリから画像を選びます。通常の写真、自撮り、スクショのどれでも OK。"
+        },
+        {
+          "number": "2",
+          "title": "Background タブのまま",
+          "description": "アプリが被写体を検出し、ぼかす背景を決めます。"
+        },
+        {
+          "number": "3",
+          "title": "スタイルと Radius を選ぶ",
+          "description": "定番のポートレート風なら Gaussian。背景が十分やわらかくなるまで Radius を動かします。"
+        },
+        {
+          "number": "4",
+          "title": "Save をタップ",
+          "description": "ぼかしたコピーが「写真」に保存され、元の写真はそのまま残ります。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "壁の前の人物、テーブルの上のカップなど、被写体が背景からはっきり分かれている写真ほどきれいに仕上がります。",
+        "保存前に髪や指先を拡大して確認。Radius を上げすぎるとふちが出ることがあります。",
+        "トリミングはぼかしの後に。ピクセルが多いほうがマスクが正確になります。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "ポートレートモードなしで iPhone の背景をぼかせますか？",
+          "answer": "はい。「写真」アプリは深度情報がないとできませんが、MakeBlur は画像そのものから被写体を切り分けるので、どの写真の背景でもぼかせます。"
+        },
+        {
+          "question": "昔の写真の背景もぼかせますか？",
+          "answer": "同じ手順でできます。アプリで開いて Background タブ、Radius を調整して保存。撮影日やカメラの機種は関係ありません。"
+        },
+        {
+          "question": "画質は落ちますか？",
+          "answer": "被写体は元の解像度のまま、背景だけがやわらかくなります。新しいコピーとして保存され、元の写真は残ります。"
+        },
+        {
+          "question": "インターネット接続は必要ですか？",
+          "answer": "いいえ。すべて iPhone の中で処理され、写真がサーバーに送られることはありません。"
+        }
+      ],
+      "related": [
+        "haikei-bokasu-yarikata.html",
+        "shashin-haikei-bokashi.html",
+        "bokashi-app-iphone.html",
+        "gauss-bokashi-iphone.html"
+      ],
+      "cta_title": "手元の写真の背景を、いまぼかす",
+      "cta_body": "「写真の背景をぼかす」を入手して、写真を開き、Radius を調整して保存。無料、端末内処理、iOS 18.6 以降のどの iPhone でも。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "shashin-haikei-bokashi.html",
+      "keyword": "写真 背景 ぼかし 加工",
+      "cluster": "background",
+      "card_title": "写真の背景ぼかし加工：アイコン・SNS・出品に",
+      "card_excerpt": "被写体くっきり、背景やわらか。プロフィール写真、投稿、フリマの出品写真をプロっぽく。",
+      "card_image": "/img/appstore/jp/02-motion.webp",
+      "card_image_alt": "背景をぼかしたポートレート",
+      "meta_title": "写真の背景ぼかし加工｜アイコン・インスタ・出品写真に",
+      "meta_description": "手元の写真を背景ぼかし加工して、被写体くっきり・背景やわらかなプロっぽい一枚に。アイコンやインスタ投稿、メルカリの出品写真など、用途に合わせたスタイルと強さの選び方を解説します。ポートレートモードやApple Intelligenceがなくても使えます。",
+      "h1": "写真の背景ぼかし加工で、プロっぽい一枚に",
+      "answer": "手元の写真を背景ぼかし加工するには、MakeBlur で写真を開き、被写体がくっきり残るよう Background タブを選んで、自然な仕上がりなら Gaussian、均一なぼかしなら Box を選び、Radius を調整して Save をタップします。一眼レフがなくても数秒でポートレート風になります。",
+      "intro": "背景がぼけているだけで、写真はぐっとプロっぽくなります。LINE や X のアイコン、インスタの投稿、メルカリの出品写真で商品を目立たせたいときにも効果的です。明るいレンズなら撮影時にできることを、iPhone なら撮った後でもできます。用途に合わせたスタイルと強さの選び方を紹介します。",
+      "image": "/img/appstore/jp/02-motion.webp",
+      "image_alt": "BackgroundタブとMotionスタイル、Radius 65：女性はくっきりのまま",
+      "native": {
+        "heading": "iPhoneの標準機能でできること",
+        "paragraphs": [
+          "ポートレートモードは撮影時に背景をぼかし、「写真」→「編集」で強さを調整できます。通常の写真には、「写真」アプリの背景ぼかし機能はありません。フィルタや調整で変わるのは明るさや色で、シャープさではありません。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "用途別のスタイル",
+          "paragraphs": [
+            "アイコン・履歴書：Gaussian で Radius 低め。背景がわかる程度で気になりません。投稿・ストーリーズ：Gaussian か Box で Radius 高め。背景が色のにじみになります。スポーツや街角の写真：Motion で背景が流れ、被写体は止まったまま。出品写真：Box で背景を均一にすると商品が引き立ちます。",
+            "スクリーンショット「主役くっきり 周りはぼかし」は、花のある壁の前のポートレートに Box をかけた典型例です。"
+          ]
+        },
+        {
+          "heading": "やりすぎない背景ぼかし",
+          "paragraphs": [
+            "アイコン写真で背景をぼかしすぎると、特に髪のふちが不自然になりがちです。目安は、人物がレンズに近いほど強めにしてよく、全身や集合写真は弱めにすることです。"
+          ]
+        }
+      ],
+      "steps_title": "アプリで背景ぼかし加工する手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "写真を選ぶ",
+          "description": "アイコン、投稿、商品などの画像を MakeBlur で開きます。"
+        },
+        {
+          "number": "2",
+          "title": "Background タブ",
+          "description": "被写体が検出され、くっきり残ります。"
+        },
+        {
+          "number": "3",
+          "title": "スタイルと Radius",
+          "description": "人物は Gaussian、商品は Box、動きは Motion。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "コピーを保存して、好きな場所に投稿します。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "アイコン写真は、ぼかしてから丸く切り抜くとマスクが正確です。",
+        "ショーウィンドウやイルミネーションなど光のある背景では、Gaussian で玉ボケのような光のにじみが出ます。",
+        "強さを変えて2枚保存し、スマホの画面で見比べて選びましょう。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "撮った写真に背景ぼかし加工はできますか？",
+          "answer": "被写体を検出するアプリなら可能です。MakeBlur なら Background、Radius、Save の3ステップ。「写真」アプリだけでは通常の写真にはできません。"
+        },
+        {
+          "question": "人物以外のものでも使えますか？",
+          "answer": "はい。Background はカップやバッグ、料理などメインの被写体も検出します。"
+        },
+        {
+          "question": "無料ですか？",
+          "answer": "ダウンロードは無料で、基本の背景ぼかしが含まれます。高度なスタイルは任意の App 内課金です。"
+        }
+      ],
+      "related": [
+        "iphone-haikei-bokashi.html",
+        "boke-kouka-iphone.html",
+        "bokashi-app-iphone.html",
+        "haikei-bokasu-yarikata.html"
+      ],
+      "cta_title": "どの写真もポートレート風に",
+      "cta_body": "「写真の背景をぼかす」を入手して写真を開けば、アプリが被写体を見つけます。無料、アップロードなし。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "haikei-bokasu-yarikata.html",
+      "keyword": "背景 ぼかし やり方",
+      "cluster": "background",
+      "card_title": "背景ぼかしのやり方（初心者向け）",
+      "card_excerpt": "背景をぼかすとは？どのくらいぼかす？3タップでできる手順をやさしく解説。",
+      "card_image": "/img/appstore/jp/04-box.webp",
+      "card_image_alt": "ポートレートの背景をぼかした例",
+      "meta_title": "写真の背景ぼかしのやり方｜初心者でも3タップでできる",
+      "meta_description": "写真の背景ぼかしのやり方を初心者向けにやさしく解説。iPhoneならアプリで3タップ。どのくらいぼかせば自然に見えるか、失敗しやすいポイントと対策もまとめました。編集が初めての方もどうぞ。ポートレートモードやApple Intelligenceがなくても使えます。",
+      "h1": "背景ぼかしのやり方 — 初心者でも3タップ",
+      "answer": "iPhone で写真の背景をぼかすやり方は3タップだけ。MakeBlur で写真を開き、Background タブのまま Radius スライダーを右に動かして背景をやわらかくし、Save をタップします。人物やものはアプリが自動で見つけてくっきり残すので、手作業で切り抜く必要はありません。",
+      "intro": "背景をぼかす、ぼやかす、ボケさせる。言い方はいろいろですが、目的は同じです。主役はくっきり、後ろはやわらかく、見る人の目線が自然に人物へ向かいます。編集アプリを使ったことがない方でも、最初のタップから保存まで迷わないように、強さの目安とあわせて紹介します。",
+      "image": "/img/appstore/jp/04-box.webp",
+      "image_alt": "Radiusスライダーで背景のぼけ具合を調整",
+      "native": {
+        "heading": "「写真」アプリでできる？",
+        "paragraphs": [
+          "ポートレートモードで撮った写真だけ、「編集」で深度のスライダーが使えます。それ以外の写真では、「写真」アプリに背景をぼかす機能はありません。フィルタや「シャープネス」の調整では背景はぼけません。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "ぼかしの強さの目安",
+          "paragraphs": [
+            "弱め（Radius 低）：背景が何かわかる自然な仕上がり。家族写真やアイコンに。中くらい：背景がなめらかな面になり、SNS 投稿にぴったり。強め（Radius 高）：色のにじみだけになり印象的ですが、ふちの確認を忘れずに。",
+            "迷ったら中くらいがおすすめ。カメラで撮ったような自然さになります。"
+          ]
+        },
+        {
+          "heading": "よくある失敗",
+          "paragraphs": [
+            "集合写真を強くぼかしすぎると、少し後ろにいる人まで半分ぼけたように見えます。もともと暗い背景はぼかしても差がわかりにくいです。元の写真を上書きしてしまう心配はありません。MakeBlur は必ずコピーを保存するので、何度でもやり直せます。"
+          ]
+        }
+      ],
+      "steps_title": "3タップで背景をぼかす",
+      "steps": [
+        {
+          "number": "1",
+          "title": "写真を開く",
+          "description": "MakeBlur の中でライブラリの写真をタップします。"
+        },
+        {
+          "number": "2",
+          "title": "Radius を動かす",
+          "description": "Background タブのまま、好みになるまでスライダーを動かします。"
+        },
+        {
+          "number": "3",
+          "title": "Save をタップ",
+          "description": "新しい写真が「最近の項目」に追加されます。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "被写体と背景がはっきり分かれている写真ほど上手に仕上がります。",
+        "保存前に2本指で拡大してふちをチェック。",
+        "被写体が小さいときは、保存後にトリミングして寄せましょう。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "「ぼかし」と「ボケ」は同じですか？",
+          "answer": "似ていますが、ボケは撮影時にピントが外れた部分の見え方、ぼかしは加工で不鮮明にすることを指すのが一般的です。アプリではどちらの雰囲気も作れます。"
+        },
+        {
+          "question": "被写体を自分で切り抜く必要は？",
+          "answer": "ありません。Background タブが自動で検出します。細かい修正は Manual で。"
+        },
+        {
+          "question": "元の写真に戻せますか？",
+          "answer": "はい。アプリはコピーを保存するので、元の写真はライブラリに残ります。"
+        }
+      ],
+      "related": [
+        "iphone-haikei-bokashi.html",
+        "shashin-haikei-bokashi.html",
+        "gauss-bokashi-iphone.html",
+        "shashin-bokashi-kakou.html"
+      ],
+      "cta_title": "3タップで背景ぼかし",
+      "cta_body": "「写真の背景をぼかす」を入手：開く、Radius を動かす、保存。iOS 18.6 の iPhone で無料。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "bokashi-app-iphone.html",
+      "keyword": "ぼかしアプリ iPhone",
+      "cluster": "background",
+      "card_title": "iPhoneのぼかしアプリ：何を使えばいい？",
+      "card_excerpt": "ポートレートモード、マークアップ、クリーンアップ、専用アプリ。背景・顔・細部のどれに何を使うか。",
+      "card_image": "/img/appstore/jp/03-face.webp",
+      "card_image_alt": "iPhoneアプリで顔をぼかした例",
+      "meta_title": "iPhoneのぼかしアプリ｜標準機能との違いを正直に比較",
+      "meta_description": "iPhoneで写真をぼかすならどのアプリ？ポートレートモード、マークアップ、クリーンアップ、MakeBlurを比較し、背景・顔・文字のどれをぼかせるか、それぞれの本当の限界をわかりやすく解説します。ポートレートモードやApple Intelligenceがなくても使えます。",
+      "h1": "iPhoneのぼかしアプリ：何をいつ使うか",
+      "answer": "iPhone で写真をぼかすなら、何をぼかしたいかで選びます。ポートレートで撮った写真の背景なら「写真」アプリで十分。それ以外の写真の背景、すべての顔、ナンバープレートや文字なら、Background・Faces・Manual・Full Photo のタブがあり、端末内で動き、無料でダウンロードできる MakeBlur のようなアプリが必要です。",
+      "intro": "「ぼかしアプリ」で検索すると、似たようなアプリのランキングと、最初のタップでサブスクを求める画面が並びます。何かを入れる前に、iPhone にすでにある機能を知っておくと失敗しません。ぼかしたいものに合わせて選べるよう、正直に比較します。",
+      "image": "/img/appstore/jp/03-face.webp",
+      "image_alt": "Facesタブ：検出されたすべての顔がぼかされている",
+      "native": {
+        "heading": "iPhoneに最初から入っている機能",
+        "paragraphs": [
+          "ポートレートモード：撮影時だけ背景ぼかし、あとから「写真」で調整可。マークアップ：ペン、蛍光ペン、図形。覆うだけでぼかせず、蛍光ペンは半透明。クリーンアップ（Apple Intelligence）：写り込みを消す機能で、iPhone 15 Pro 以降のみ。ぼかしやモザイクをかける道具ではありません。",
+          "どれも、通常の写真の背景や、自分で選んだ範囲をぼかすことはできません。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "MakeBlur でできること",
+          "paragraphs": [
+            "Background：被写体を自動検出して背景をぼかす。Faces：すべての顔をまとめてぼかす。Manual：文字、ナンバー、好きな範囲をなぞるブラシ。Full Photo：写真全体。スタイルは Gaussian・Motion・Ghosting・Box・Pixelate・Hexagonal・Crystallize の7種類。",
+            "オフラインで動き、写真を送信しません。ダウンロード無料で基本の背景ぼかしが含まれ、高度なスタイルは任意の App 内課金です。"
+          ]
+        },
+        {
+          "heading": "ぼかしアプリ選びのチェックポイント",
+          "paragraphs": [
+            "端末内で処理すること（プライベートな写真をサーバーに送らない）、被写体の自動検出、自由な範囲を塗れるブラシ、元の解像度での保存、そして課金前に試せる無料版があることです。"
+          ]
+        }
+      ],
+      "steps_title": "アプリを試す手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "無料で入手",
+          "description": "App Store から。iOS 18.6 以降の iPhone に対応。"
+        },
+        {
+          "number": "2",
+          "title": "写真を開く",
+          "description": "ライブラリのどの画像でも。"
+        },
+        {
+          "number": "3",
+          "title": "タブを選ぶ",
+          "description": "ぼかしたいものに合わせて Background・Faces・Manual・Full Photo。"
+        },
+        {
+          "number": "4",
+          "title": "調整して保存",
+          "description": "スタイル、Radius、Save。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "一度だけ細部を隠したいなら、まずはマークアップを試しても。iPhone に入っています。",
+        "プライバシー目的なら、写真を送信しないアプリを選びましょう。",
+        "購入を決める前に無料の機能で試しましょう。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "iPhone でいちばんおすすめのぼかしアプリは？",
+          "answer": "用途しだいです。背景・顔・範囲指定をオフラインのひとつのアプリでこなすなら MakeBlur。ポートレート写真だけなら「写真」アプリで足ります。"
+        },
+        {
+          "question": "無料のぼかしアプリはありますか？",
+          "answer": "MakeBlur は無料でダウンロードでき、基本の背景ぼかしが含まれます。高度な機能は任意です。"
+        },
+        {
+          "question": "Apple Intelligence は必要？",
+          "answer": "いいえ。iOS 18.6 以降のどの iPhone でも動きます。"
+        }
+      ],
+      "related": [
+        "iphone-haikei-bokashi.html",
+        "kao-bokashi-shashin.html",
+        "shashin-ichibu-bokashi.html",
+        "blur-kouka-shashin.html"
+      ],
+      "cta_title": "背景も顔も細部も、ひとつのアプリで",
+      "cta_body": "「写真の背景をぼかす」を入手：4つのモード、7つのスタイル、すべて iPhone の中で。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "kao-bokashi-shashin.html",
+      "keyword": "顔 ぼかし 写真",
+      "cluster": "privacy",
+      "card_title": "写真の顔をぼかす・モザイクをかける",
+      "card_excerpt": "子ども、友だち、通行人。投稿前にワンタップで全員の顔をぼかす。Apple Intelligence 不要。",
+      "card_image": "/img/appstore/jp/03-face.webp",
+      "card_image_alt": "ポートレートのグリッドで顔がぼかされている",
+      "meta_title": "写真の顔をぼかす方法｜iPhoneで複数人もまとめて",
+      "meta_description": "SNSに投稿する前に、写真に写った顔をiPhoneでぼかす方法。アプリが顔を自動で検出し、複数人でもワンタップでぼかし・モザイク加工できます。Apple Intelligence不要で、無料・オフラインで使えます。写真はアップロードされず、すべてiPhoneの中で処理されます。",
+      "h1": "写真の顔をぼかす方法（iPhone）",
+      "answer": "写真の顔を iPhone でぼかすには、MakeBlur で写真を開き Faces（顔）タブを選びます。アプリがすべての顔を検出してまとめてぼかします。誰だかわからなくなるまで Radius を上げるか、モザイクにしたいなら Pixelate を選んで Save をタップ。ひとりだけぼかしたいときは Manual タブで指でなぞります。",
+      "intro": "顔をぼかしたい理由はさまざまです。運動会や発表会の写真に写った子どもたち、SNS に出たくない友だち、旅行写真の通行人。肖像権やプライバシーへの意識が高まり、投稿前に顔を隠す人は増えています。数秒でできる方法を紹介します。",
+      "image": "/img/appstore/jp/03-face.webp",
+      "image_alt": "Facesタブ、Radius 80：8人の顔がぼかされている",
+      "native": {
+        "heading": "iPhoneの標準機能でできること",
+        "paragraphs": [
+          "「写真」アプリには顔をぼかす・モザイクをかける専用機能はありません。Apple Intelligence 対応機種（iPhone 15 Pro 以降）の「クリーンアップ」は写り込みを消すための機能で、顔を隠す用途には向きません。",
+          "残るのはマークアップの図形やペンで顔を塗りつぶす方法ですが、仕上がりはどうしても雑に見えます。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "全員か、ひとりだけか",
+          "paragraphs": [
+            "Faces は画像内の顔をすべて見つけてぼかします。集合写真、クラス写真、パーティーにぴったりです。自分など誰かを見せたいときは Manual で隠したい顔だけをなぞりましょう。",
+            "スクリーンショット「顔はシェアする前に」では、8人のポートレートがワンタップでぼかされています。"
+          ]
+        },
+        {
+          "heading": "ぼかしかモザイクか",
+          "paragraphs": [
+            "軽いぼかしだと、よく知っている人には誰だかわかることがあります。しっかり隠すなら Radius を高めにするか、Pixelate でモザイクに。SNS 向けにやわらかく見せたいなら、強めの Gaussian がおすすめです。"
+          ]
+        }
+      ],
+      "steps_title": "アプリで顔をぼかす手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "写真を開く",
+          "description": "隠したい人が写っている画像を選びます。"
+        },
+        {
+          "number": "2",
+          "title": "Faces タブ",
+          "description": "すべての顔が検出され、ぼかされます。"
+        },
+        {
+          "number": "3",
+          "title": "強さを調整",
+          "description": "誰だかわからなくなるまで Radius を上げるか、Pixelate を選びます。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "投稿するのはぼかしたコピー。元の写真ではありません。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "背景の小さな顔やガラスに映った顔もチェック。漏れていたら Manual で追加します。",
+        "子どもの場合は、名札や体操服の名前、学校のエンブレムも一緒に隠しましょう。",
+        "保存後に拡大して、誰も判別できないことを確認しましょう。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "Apple Intelligence なしで顔をぼかせますか？",
+          "answer": "はい。MakeBlur の Faces タブは iOS 18.6 のどの iPhone でも使えます。ひとりだけなら Manual で。"
+        },
+        {
+          "question": "ぼかした顔は元に戻せますか？",
+          "answer": "強めにぼかして保存したコピーからは戻せません。細部が消えるためです。だからこそ元の写真は投稿しないでください。"
+        },
+        {
+          "question": "ビデオ通話のスクショでも使えますか？",
+          "answer": "はい。Faces はスクショの顔も検出します。"
+        }
+      ],
+      "related": [
+        "shashin-ichibu-bokashi.html",
+        "mosaic-kakou-iphone.html",
+        "number-plate-kakusu.html",
+        "bokashi-app-iphone.html"
+      ],
+      "cta_title": "投稿の前に、顔を守る",
+      "cta_body": "「写真の背景をぼかす」を入手して Faces を選び、保存。無料、iPhone の中だけで、アップロードなし。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "shashin-ichibu-bokashi.html",
+      "keyword": "写真 一部 ぼかし",
+      "cluster": "privacy",
+      "card_title": "写真の一部だけをぼかす",
+      "card_excerpt": "住所、番号、人混みの誰か。指でなぞった範囲だけをぼかします。",
+      "card_image": "/img/appstore/jp/05-crystalize.webp",
+      "card_image_alt": "ブラシで写真の一部をぼかした例",
+      "meta_title": "写真の一部だけぼかす方法｜iPhoneで指でなぞるだけ",
+      "meta_description": "iPhoneで写真の一部だけをぼかす方法を解説。隠したい所を指でなぞり、GaussianかPixelateを選ぶだけ。文字、番号、人物、写り込んだ物など、好きな範囲だけをきれいにぼかせます。無料で使えます。写真はアップロードされず、すべてiPhoneの中で処理されます。",
+      "h1": "写真の一部だけをぼかす方法（iPhone）",
+      "answer": "写真の一部だけを iPhone でぼかすには、MakeBlur で写真を開き Manual（手動ブラシ）タブを選んで、隠したい範囲を指でなぞります。なぞった所だけがぼけます。やわらかく見せるなら Gaussian、プライバシー目的なら Pixelate を選び、Radius を調整して Save をタップします。",
+      "intro": "背景でも顔でもなく、特定の部分だけを隠したいこともあります。家の番地、社員証、机の上の書類、人混みの中の誰か。「写真」アプリにはぼかしブラシがないので、それができる道具が必要です。やり方を紹介します。",
+      "image": "/img/appstore/jp/05-crystalize.webp",
+      "image_alt": "写真の一部にモザイクを適用",
+      "native": {
+        "heading": "iPhoneの標準機能でできること",
+        "paragraphs": [
+          "マークアップなら図形やペンで範囲を塗りつぶせます。隠れはしますが、上から貼ったような跡が目立ちます。クリーンアップ（Apple Intelligence のみ）はぼかすのではなく消す機能で、背景の補完が不自然になることもあります。本格的なぼかしブラシは「写真」アプリにはありません。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "上手になぞるコツ",
+          "paragraphs": [
+            "なぞる前に2本指で拡大すると、ブラシが指に正確についてきます。特に文字は、周りに少し余白を取ってなぞりましょう。失敗してもやり直せます。保存するまで元の写真は変わりません。"
+          ]
+        },
+        {
+          "heading": "スタイルの選び方",
+          "paragraphs": [
+            "Gaussian：やわらかく目立たない。ゴミ箱や看板など見た目を整える用途に。Pixelate や Box で Radius 高め：本当に隠したい情報に。Crystallize や Hexagonal：あえて加工を見せたいデザイン的な表現に。"
+          ]
+        }
+      ],
+      "steps_title": "アプリで範囲をぼかす手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "写真を開く",
+          "description": "MakeBlur で画像を選びます。"
+        },
+        {
+          "number": "2",
+          "title": "Manual タブ",
+          "description": "拡大して、隠したい範囲を指でなぞります。"
+        },
+        {
+          "number": "3",
+          "title": "スタイルと Radius",
+          "description": "目立たせないなら Gaussian、隠すなら Pixelate。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "範囲をぼかしたコピーが「写真」に保存されます。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "タブは組み合わせられます。Background で背景をぼかしてから、Manual で細部を。",
+        "文字は必ず強めに。大きな文字は弱いぼかしだと読めてしまいます。",
+        "鏡やガラスの映り込みに、隠したものが写っていないか確認しましょう。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "1枚の写真で複数の場所をぼかせますか？",
+          "answer": "はい。Manual で保存前に好きなだけなぞれます。"
+        },
+        {
+          "question": "スクショでも使えますか？",
+          "answer": "はい。スクショも普通の写真と同じように開けます。"
+        },
+        {
+          "question": "ぼかしていない部分の画質は落ちますか？",
+          "answer": "いいえ。それ以外の部分は元の写真と同じです。"
+        }
+      ],
+      "related": [
+        "screenshot-mosaic-iphone.html",
+        "number-plate-kakusu.html",
+        "mosaic-kakou-iphone.html",
+        "kao-bokashi-shashin.html"
+      ],
+      "cta_title": "ぼかしたい所だけをぼかす",
+      "cta_body": "「写真の背景をぼかす」を入手して Manual でなぞるだけ。無料、iPhone の中で。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "number-plate-kakusu.html",
+      "keyword": "ナンバープレート 隠す 写真",
+      "cluster": "privacy",
+      "card_title": "写真のナンバープレートを隠す",
+      "card_excerpt": "メルカリ、カーセンサー、SNS 投稿に。ナンバーは読めず、写真はきれいなまま。",
+      "card_image": "/img/appstore/jp/05-crystalize.webp",
+      "card_image_alt": "モザイクで隠したナンバープレート",
+      "meta_title": "写真のナンバープレートを隠す方法｜iPhoneで無料",
+      "meta_description": "車やバイクの写真のナンバープレートをiPhoneで隠す方法。メルカリやカーセンサーへの出品、SNS投稿の前に、なぞってモザイクをかけて保存するだけ。無料で、写真をネットに送らず端末内で完結します。写真はアップロードされず、すべてiPhoneの中で処理されます。",
+      "h1": "写真のナンバープレートを隠す方法（iPhone）",
+      "answer": "写真のナンバープレートを隠すには、MakeBlur で写真を開いて Manual タブを選び、プレートを指でなぞって、スタイルを Pixelate か Box にし、どの文字も読めなくなるまで Radius を上げます。Save をタップして、そのコピーを出品や投稿に使います。",
+      "intro": "車やバイクをメルカリやカーセンサー、グーネットに出品するとき、あるいはインスタや X で愛車を見せるとき、ナンバープレートを隠す人は多いです。義務ではありませんが、ナンバーから個人を特定されたり悪用されたりするのを防ぐ目的で、念のため隠すのが一般的になっています。とはいえ、黒塗りの四角はいかにも手作り感が出ます。きれいなモザイクなら両立できます。",
+      "image": "/img/appstore/jp/05-crystalize.webp",
+      "image_alt": "アプリで写真の一部にモザイク",
+      "native": {
+        "heading": "「写真」アプリでできること",
+        "paragraphs": [
+          "マークアップで図形をのせたりペンで塗ったりすればプレートは隠れますが、跡が目立ちます。半透明の蛍光ペンだと文字が透けて見えることもあります。標準の編集機能では、範囲をぼかしたりモザイクをかけたりはできません。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "モザイクか、ぼかしか",
+          "paragraphs": [
+            "ナンバープレートにいちばん確実なのは、Radius 高めの Pixelate か Box。大きなブロックで文字が消えます。軽い Gaussian だと、特に高解像度の写真では数字が推測できてしまうことがあります。",
+            "Crystallize でも隠れますが装飾的に見えるので、出品写真には素直なモザイクのほうが向いています。"
+          ]
+        },
+        {
+          "heading": "写真が多いとき",
+          "paragraphs": [
+            "出品写真は10〜20枚あることも多く、ナンバーが写っているのはそのうち3〜4枚ほど。1枚ずつ、開く、Manual、なぞる、Save で、それぞれ30秒ほどです。ショーウィンドウや車内写真の窓越しにナンバーが映っていないかも確認しましょう。"
+          ]
+        }
+      ],
+      "steps_title": "アプリでナンバーを隠す手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "車の写真を開く",
+          "description": "ナンバープレートが写っている写真を選びます。"
+        },
+        {
+          "number": "2",
+          "title": "Manual タブ",
+          "description": "拡大して、プレートを少し余白を取ってなぞります。"
+        },
+        {
+          "number": "3",
+          "title": "Pixelate と Radius",
+          "description": "拡大しても文字が読めなくなるまで強くします。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "保存したコピーを出品に使います。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "文字だけでなくプレート全体を覆いましょう。地名やひらがなからも情報がわかります。",
+        "車は前後の両方にナンバーがあります（バイクは後ろだけ）。",
+        "車検証や車台番号が写っていたら、同じように隠しましょう。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "出品写真のナンバーは隠さないといけませんか？",
+          "answer": "法律上の義務ではありませんが、悪用を防ぐために隠す出品者が多いです。判断はご自身で。法的なアドバイスではありません。"
+        },
+        {
+          "question": "モザイクをかけたナンバーは復元できますか？",
+          "answer": "大きなブロックなら復元できません。保存したコピーから細部が消えるためです。元の写真は公開しないでください。"
+        },
+        {
+          "question": "写真はどこかに送られますか？",
+          "answer": "いいえ。すべて iPhone の中で、インターネットなしで処理されます。"
+        }
+      ],
+      "related": [
+        "shashin-ichibu-bokashi.html",
+        "mosaic-kakou-iphone.html",
+        "screenshot-mosaic-iphone.html",
+        "kao-bokashi-shashin.html"
+      ],
+      "cta_title": "ナンバーは隠して、写真はきれいに",
+      "cta_body": "「写真の背景をぼかす」を入手して、Manual でプレートをなぞって保存。無料、iPhone だけで。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "screenshot-mosaic-iphone.html",
+      "keyword": "スクショ モザイク",
+      "cluster": "privacy",
+      "card_title": "スクショにモザイクをかける",
+      "card_excerpt": "LINE のトーク、住所、注文番号。共有前にスクショの文字を読めなくします。",
+      "card_image": "/img/appstore/jp/05-crystalize.webp",
+      "card_image_alt": "スクショの文字にモザイク",
+      "meta_title": "スクショにモザイクをかける方法｜iPhoneで安全に",
+      "meta_description": "iPhoneのスクショに写った名前、電話番号、住所、LINEのトークにモザイクをかけてから共有する方法。半透明の蛍光ペンと違い、明るさを変えても文字が透けません。無料で、アップロードもありません。写真はアップロードされず、すべてiPhoneの中で処理されます。",
+      "h1": "スクショにモザイクをかける方法（iPhone）",
+      "answer": "スクショにモザイクをかけるには、MakeBlur でスクショを開き Manual タブを選んで、隠したい行（名前、番号、住所、メッセージ）を指でなぞり、Pixelate を選んで Radius を上げます。Save をタップしてコピーを共有。送る前に拡大して、何も読めないか確認しましょう。",
+      "intro": "スクショは毎日のように共有します。相談のための LINE のトーク、注文確認、振込完了の画面、アプリのエラー。そこにはたいてい名前や電話番号、住所、各種番号が写っています。隠すのは簡単ですが、やり方を間違えると文字が読めてしまうこともあります。",
+      "image": "/img/appstore/jp/05-crystalize.webp",
+      "image_alt": "モザイクで内容が読めなくなった範囲",
+      "native": {
+        "heading": "マークアップの限界",
+        "paragraphs": [
+          "マークアップの蛍光ペンは半透明なので、コントラストや明るさを上げると下の文字が浮かび上がることがあります。不透明なペンなら何度か重ね塗りすれば安全ですが、塗りつぶした四角は見た目がよくありません。範囲にモザイクをかける機能はありません。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "弱いぼかしではなくモザイクを",
+          "paragraphs": [
+            "白地に黒い文字は、軽いぼかしでは形から読めてしまいます。Pixelate で Radius を高くすれば、文字ひとつひとつがブロックになって内容が消えます。スクショではモザイクがいちばん伝わりやすく、受け取った人も意図的に隠したと理解できます。"
+          ]
+        },
+        {
+          "heading": "よく隠す情報",
+          "paragraphs": [
+            "トーク画面：相手の名前とアイコン、電話番号。注文：住所、メールアドレス、注文番号。銀行：口座番号、残高、振込先名。書類：マイナンバーや署名。"
+          ]
+        }
+      ],
+      "steps_title": "アプリでスクショにモザイクをかける手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "スクショを開く",
+          "description": "ライブラリの「スクリーンショット」アルバムにあります。"
+        },
+        {
+          "number": "2",
+          "title": "Manual タブ",
+          "description": "隠したい行を余白を取ってなぞります。"
+        },
+        {
+          "number": "3",
+          "title": "Pixelate",
+          "description": "拡大しても読めなくなるまで Radius を上げます。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "共有するのはコピー。元のスクショではありません。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "画面上部も忘れずに。通知のプレビューや相手の名前が写り込みがちです。",
+        "番号の一部ではなく、行ごと隠しましょう。",
+        "保存したら、不要な元のスクショは削除しておくと安心です。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "マークアップの蛍光ペンで隠すのは安全？",
+          "answer": "完全ではありません。半透明なので、明るさを変えると文字が見えることがあります。モザイクか不透明な図形を使いましょう。"
+        },
+        {
+          "question": "モザイクをかけた文字は復元できる？",
+          "answer": "大きなブロックならできません。弱いモザイクで文字が大きい場合は推測されることがあるので、強めに。"
+        },
+        {
+          "question": "フルページのスクショにも使える？",
+          "answer": "ライブラリの画像なら使えます。PDF で保存したフルページのスクショは、先に画像として保存してください。"
+        }
+      ],
+      "related": [
+        "shashin-ichibu-bokashi.html",
+        "mosaic-kakou-iphone.html",
+        "number-plate-kakusu.html",
+        "kao-bokashi-shashin.html"
+      ],
+      "cta_title": "安心して共有できるスクショに",
+      "cta_body": "「写真の背景をぼかす」を入手して、Manual で文字をなぞってモザイク。無料、オフライン。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "mosaic-kakou-iphone.html",
+      "keyword": "モザイク 加工 iPhone",
+      "cluster": "privacy",
+      "card_title": "iPhoneで写真をモザイク加工する",
+      "card_excerpt": "顔、文字、背景をモザイクに。Pixelate・Hexagonal・Crystallize の違いを解説。",
+      "card_image": "/img/appstore/jp/05-crystalize.webp",
+      "card_image_alt": "Crystallizeで背景をモザイクにした例",
+      "meta_title": "iPhoneでモザイク加工する方法｜顔・文字・背景に",
+      "meta_description": "iPhoneで写真をモザイク加工する方法。写真全体、背景だけ、顔、指定した範囲に、Pixelate・Hexagonal・Crystallizeの3種類から選んでかけられます。端末内で処理され、無料で使えます。写真はアップロードされず、すべてiPhoneの中で処理されます。",
+      "h1": "iPhoneで写真をモザイク加工する方法",
+      "answer": "iPhone で写真をモザイク加工するには、MakeBlur で写真を開き、かける場所（顔なら Faces、範囲なら Manual、背景なら Background、全体なら Full Photo）を選んで Pixelate スタイルを選び、Radius でブロックの大きさを調整します。Save でモザイクをかけたコピーを保存します。",
+      "intro": "日本では、写真の一部を隠す加工といえば「モザイク」。顔や個人情報を隠す定番の方法であり、最近はデザインとしてのモザイク表現も人気です。iPhone の「写真」アプリにはモザイク機能がありません。好きな場所にかける方法を紹介します。",
+      "image": "/img/appstore/jp/05-crystalize.webp",
+      "image_alt": "背景にCrystallizeスタイル：クリスタル状のモザイク",
+      "native": {
+        "heading": "iPhoneの標準機能でできること",
+        "paragraphs": [
+          "「写真」アプリにモザイクフィルタはありません。マークアップでは覆うことしかできず、クリーンアップ（iPhone 15 Pro 以降）は消す機能です。文字や背景、写真全体にモザイクをかけるにはアプリが必要です。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "3種類のモザイク",
+          "paragraphs": [
+            "Pixelate：おなじみの四角いモザイク。プライバシーにはいちばん確実。Hexagonal：六角形のセルで少しモダン。Crystallize：不規則なクリスタル状でアート風。スクリーンショット「モザイク タップひとつ」では、背景がクリスタルになり、女性はくっきり残っています。"
+          ]
+        },
+        {
+          "heading": "隠すためか、見せるためか",
+          "paragraphs": [
+            "隠すなら：Faces や Manual で大きなブロックの Pixelate。デザインとして使うなら：Background に Crystallize や Hexagonal をかけると、モザイクの背景に人物が浮かび上がります。"
+          ]
+        }
+      ],
+      "steps_title": "アプリでモザイク加工する手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "写真を開く",
+          "description": "どの画像やスクショでも。"
+        },
+        {
+          "number": "2",
+          "title": "タブを選ぶ",
+          "description": "Faces、Manual、Background、Full Photo。"
+        },
+        {
+          "number": "3",
+          "title": "Pixelate スタイル",
+          "description": "または Hexagonal・Crystallize。Radius でブロックの大きさを調整。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "モザイクをかけたコピーを保存。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "ブロックが大きいほどプライバシーは確実です。",
+        "おしゃれな投稿には、被写体をくっきり残して背景に Crystallize を。",
+        "拡大して、小さな文字や細部が完全に消えているか確認しましょう。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "モザイクとぼかし、どちらで隠すべき？",
+          "answer": "確実に隠したいならモザイク（大きなブロック）。見た目をやわらかくしたいならぼかし（Gaussian）が向いています。"
+        },
+        {
+          "question": "背景だけにモザイクをかけられますか？",
+          "answer": "はい。Background タブで Pixelate か Crystallize を選べば、被写体はくっきり残ります。"
+        },
+        {
+          "question": "写真のプライバシーは守られますか？",
+          "answer": "はい。処理は iPhone の中で行われ、インターネットも不要です。"
+        }
+      ],
+      "related": [
+        "kao-bokashi-shashin.html",
+        "screenshot-mosaic-iphone.html",
+        "number-plate-kakusu.html",
+        "blur-kouka-shashin.html"
+      ],
+      "cta_title": "好きな場所にモザイクを",
+      "cta_body": "「写真の背景をぼかす」を入手：Pixelate・Hexagonal・Crystallize をすべてのモードで。無料でダウンロード。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "motion-blur-shashin.html",
+      "keyword": "モーションブラー 写真",
+      "cluster": "effects",
+      "card_title": "写真にモーションブラーをかける",
+      "card_excerpt": "背景に流れるような動き、被写体はくっきり。Radius と Angle でスピード感を演出。",
+      "card_image": "/img/appstore/jp/02-motion.webp",
+      "card_image_alt": "サングラスの女性の背景にモーションブラー",
+      "meta_title": "写真にモーションブラーをかける方法｜iPhoneで4ステップ",
+      "meta_description": "iPhoneで写真にモーションブラー（動きのぼかし）をかける方法。背景だけを流し、被写体はくっきり。流れの長さと方向も自由に調整できます。撮影済みの写真に使えて、無料・端末内で処理されます。撮影済みのどの写真にも使え、インターネット接続も不要です。",
+      "h1": "写真にモーションブラーをかける方法（iPhone）",
+      "answer": "iPhone で写真にモーションブラーをかけるには、MakeBlur で写真を開き、被写体がくっきり残るよう Background タブのまま Motion スタイルを選びます。Radius で流れの長さ、Angle で方向を決めて Save をタップ。背景が動いているように見え、人物は止まったままピントが合っています。",
+      "intro": "モーションブラーは、どんな写真にもスピード感を与えます。自転車、車、ダンサー、あるいは少し動きのあるポートレート。写真では遅いシャッタースピードと流し撮りで表現しますが、iPhone なら撮った後から、方向と強さを選んで加えられます。",
+      "image": "/img/appstore/jp/02-motion.webp",
+      "image_alt": "Motionスタイル、Radius 65：背景が流れ、被写体はくっきり",
+      "native": {
+        "heading": "iPhoneの標準機能でできること",
+        "paragraphs": [
+          "Live Photos には複数のフレームを重ねて流れを作る「長時間露光」エフェクトがあります。ただし撮影中に実際に動いていたものだけが流れ、自分で選んだ背景を流すことはできません。通常の写真に動きのぼかしを加える機能は「写真」アプリにありません。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Radius と Angle",
+          "paragraphs": [
+            "Radius は流れの長さ。低めならさりげない動き、高めならスピード感。Angle は方向で、車やランナーには水平、ジャンプや飛び込みには斜め、雨や落下には垂直が合います。スクリーンショット「モーションブラー 動きに効く」は Radius 65 です。"
+          ]
+        },
+        {
+          "heading": "背景だけか、写真全体か",
+          "paragraphs": [
+            "Background なら背景だけが流れる、定番の流し撮り風。Full Photo なら写真全体が流れ、ジャケット写真や抽象的な壁紙、幻想的な雰囲気づくりに使えます。"
+          ]
+        }
+      ],
+      "steps_title": "アプリでモーションブラーをかける手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "写真を開く",
+          "description": "被写体と背景がはっきり分かれている写真がおすすめ。"
+        },
+        {
+          "number": "2",
+          "title": "Background タブ",
+          "description": "被写体は止まったままくっきり残ります。"
+        },
+        {
+          "number": "3",
+          "title": "Motion スタイル",
+          "description": "Radius で長さ、Angle で方向。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "効果をかけたコピーを保存。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "被写体が動く方向に Angle を合わせると自然に見えます。",
+        "夜の街の光がある背景だと、流れが光の帯になって印象的です。",
+        "ポートレートではやりすぎないように。中くらいの Radius で十分躍動感が出ます。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "モーションブラーとは？",
+          "answer": "動きによるぶれを表現するぼかしで、被写体や背景が動いているように見せる効果です。"
+        },
+        {
+          "question": "動きの方向は選べますか？",
+          "answer": "はい。Motion スタイルの Angle スライダーで選べます。"
+        },
+        {
+          "question": "撮影済みの写真にも使えますか？",
+          "answer": "はい。Live Photo でなくても、ライブラリのどの写真にも使えます。"
+        }
+      ],
+      "related": [
+        "blur-kouka-shashin.html",
+        "iphone-haikei-bokashi.html",
+        "boke-kouka-iphone.html",
+        "gauss-bokashi-iphone.html"
+      ],
+      "cta_title": "どの写真にもスピード感を",
+      "cta_body": "「写真の背景をぼかす」を入手して、Motion を選び Angle を調整。無料、iPhone の中で。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "boke-kouka-iphone.html",
+      "keyword": "ボケ 写真 iPhone",
+      "cluster": "effects",
+      "card_title": "iPhoneで写真にボケ効果をつける",
+      "card_excerpt": "撮った後でも、やわらかな背景と光のにじみ。人物には Gaussian、幻想的には Ghosting。",
+      "card_image": "/img/appstore/jp/06-ghost.webp",
+      "card_image_alt": "やわらかなボケ効果のポートレート",
+      "meta_title": "iPhoneで写真にボケ効果をつける｜撮った後でもできる",
+      "meta_description": "撮影済みの写真にiPhoneでボケ効果をつける方法。背景をやわらかくして光をにじませ、被写体はくっきり。GaussianとGhostingの使い分けと、ボケがきれいに出る写真の選び方を解説。無料・オフライン。撮影済みのどの写真にも使え、インターネット接続も不要です。",
+      "h1": "iPhoneで写真にボケ効果をつける — 撮った後でも",
+      "answer": "撮影済みの写真にボケ効果をつけるには、MakeBlur で写真を開き、Background タブのまま Gaussian を選んで、背景がやわらかくなり光が丸くにじむまで Radius を上げます。写真全体を幻想的にしたいなら Full Photo タブで Ghosting を。最後に Save をタップします。",
+      "intro": "「ボケ」は日本語が由来の写真用語で、英語でも bokeh と呼ばれています。ピントの外れた部分の美しさ、光が丸くやわらかくにじむ様子のことです。明るいレンズならではの表現で、ポートレートモードは撮影時にそれを再現します。手元の写真でその雰囲気に近づける方法を紹介します。",
+      "image": "/img/appstore/jp/06-ghost.webp",
+      "image_alt": "Full PhotoタブとGhostingスタイル、Radius 79",
+      "native": {
+        "heading": "ポートレートモードのボケ",
+        "paragraphs": [
+          "ポートレートモードは撮影時にボケを再現し、「写真」→「編集」で絞り値（f値）を変えられます。ただしポートレートで撮った写真だけ。それ以外の写真には、「写真」アプリでボケをつける方法はありません。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian か Ghosting か",
+          "paragraphs": [
+            "Background に Gaussian：被写体くっきり、背景やわらかなポートレートのボケ。夜の街の灯りやイルミネーションで特に映えます。Full Photo に Ghosting：写真全体にやわらかな二重のにじみ。スクリーンショット「やわらかボケ すぐに」（Radius 79）がこの例です。"
+          ]
+        },
+        {
+          "heading": "ボケが映える写真",
+          "paragraphs": [
+            "背景に光の点がある、色が鮮やか、被写体と背景に距離がある写真。白い壁の前ではボケはほとんど目立たないので、軽いぼかしで十分です。"
+          ]
+        }
+      ],
+      "steps_title": "アプリでボケ効果をつける手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "写真を開く",
+          "description": "背景に光がある写真が理想的。"
+        },
+        {
+          "number": "2",
+          "title": "Background + Gaussian",
+          "description": "被写体はくっきりのまま。"
+        },
+        {
+          "number": "3",
+          "title": "Radius",
+          "description": "光がやわらかな丸になるまで上げます。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "コピーを保存。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "夜に撮った写真がいちばんきれいなボケになります。",
+        "ジャケット写真や壁紙には、Full Photo の Ghosting を試してみて。",
+        "保存前に髪のふちを拡大して確認しましょう。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "ボケとは何ですか？",
+          "answer": "ピントの外れた部分の見え方、特に光がやわらかな玉になる様子を指します。"
+        },
+        {
+          "question": "ポートレートモードは必要？",
+          "answer": "いいえ。アプリは撮影済みのどの写真にも効果をつけられます。"
+        },
+        {
+          "question": "ガウスぼかしとの違いは？",
+          "answer": "ガウスぼかしはぼかしの種類、ボケはそれによって生まれる見た目の美しさ（特に光）のことです。"
+        }
+      ],
+      "related": [
+        "gauss-bokashi-iphone.html",
+        "shashin-haikei-bokashi.html",
+        "iphone-haikei-bokashi.html",
+        "motion-blur-shashin.html"
+      ],
+      "cta_title": "どの写真にもボケを",
+      "cta_body": "「写真の背景をぼかす」を入手して、Gaussian か Ghosting を選んで保存。無料、アップロードなし。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "gauss-bokashi-iphone.html",
+      "keyword": "ガウスぼかし",
+      "cluster": "effects",
+      "card_title": "iPhoneでガウスぼかしをかける",
+      "card_excerpt": "ガウスぼかしとは？使いどころと、背景・顔・写真全体へのかけ方。",
+      "card_image": "/img/appstore/jp/04-box.webp",
+      "card_image_alt": "やわらかくぼかした背景",
+      "meta_title": "ガウスぼかしとは？iPhoneでのかけ方と使い分け",
+      "meta_description": "ガウスぼかしとは何か、iPhoneで背景・顔・写真全体にかける方法を解説。BoxやMotionとの違い、用途別のおすすめの強さもまとめました。撮影済みの写真に無料で使え、処理は端末内で完結します。撮影済みのどの写真にも使え、インターネット接続も不要です。",
+      "h1": "ガウスぼかしとは？iPhoneでのかけ方",
+      "answer": "ガウスぼかしは、ピントを外したレンズのように均一でなめらかなぼかしです。iPhone では MakeBlur で写真を開き、かける場所（背景は Background、顔は Faces、範囲は Manual、全体は Full Photo）を選んで Gaussian スタイルにし、Radius を調整して Save をタップします。",
+      "intro": "パソコンの画像編集ソフトを使ったことがあれば、「ぼかし（ガウス）」というフィルターを見たことがあるはずです。名前の由来はガウス分布。各ピクセルが周りのピクセルと混ざり、近いものほど強く、遠いものほど弱く影響します。結果は、硬いふちのない自然でやわらかなぼかしです。使いどころと iPhone でのかけ方を紹介します。",
+      "image": "/img/appstore/jp/04-box.webp",
+      "image_alt": "くっきりしたポートレートの後ろでやわらかくなった背景",
+      "native": {
+        "heading": "iPhoneの標準機能でできること",
+        "paragraphs": [
+          "「写真」アプリにガウスぼかしのフィルターはありません。「調整」のシャープネスや精細度は画像全体を少し強めたり弱めたりするだけで、本当のぼかしではありません。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian・Box・Motion の違い",
+          "paragraphs": [
+            "Gaussian：やわらかく自然。ポートレートや背景に。Box：均一な平均化で少しフラット。商品写真や隠したいときに。Motion：一方向のぼかしで動きを表現。",
+            "プライバシー目的でガウスぼかしを使うなら強めに。弱いと形や文字が推測できてしまいます。"
+          ]
+        },
+        {
+          "heading": "Radius の目安",
+          "paragraphs": [
+            "自然なポートレートは低め、SNS の投稿やストーリーズは中くらい、抽象的な背景や隠す用途は高め。必ず拡大して確認しましょう。"
+          ]
+        }
+      ],
+      "steps_title": "ガウスぼかしをかける手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "写真を開く",
+          "description": "MakeBlur で。"
+        },
+        {
+          "number": "2",
+          "title": "モードを選ぶ",
+          "description": "Background、Faces、Manual、Full Photo。"
+        },
+        {
+          "number": "3",
+          "title": "Gaussian スタイル",
+          "description": "Radius を調整。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "コピーを保存。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "Background にガウスぼかしをかけるのが、ポートレートモードにいちばん近い仕上がりです。",
+        "Full Photo で強めにかけると、ストーリーズの文字の背景にぴったり。",
+        "個人情報を隠すなら Pixelate のほうが確実です。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "なぜ「ガウス」と呼ぶの？",
+          "answer": "ピクセルを混ぜる重みがガウス分布（正規分布）の曲線に従うためです。"
+        },
+        {
+          "question": "Box ぼかしより良い？",
+          "answer": "Gaussian はよりやわらかく自然、Box はより均一です。求める仕上がりしだいです。"
+        },
+        {
+          "question": "背景だけにかけられる？",
+          "answer": "はい。Background タブなら被写体はくっきり残ります。"
+        }
+      ],
+      "related": [
+        "boke-kouka-iphone.html",
+        "motion-blur-shashin.html",
+        "iphone-haikei-bokashi.html",
+        "blur-kouka-shashin.html"
+      ],
+      "cta_title": "ガウスぼかしをワンタップで",
+      "cta_body": "「写真の背景をぼかす」を入手：すべてのモードで Gaussian、端末内で処理。無料でダウンロード。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "shashin-bokashi-kakou.html",
+      "keyword": "写真 ぼかし 加工",
+      "cluster": "photo",
+      "card_title": "写真全体をぼかし加工する",
+      "card_excerpt": "壁紙、ストーリーズの背景、アートな一枚に。iPhone でもオンラインでも。",
+      "card_image": "/img/appstore/jp/06-ghost.webp",
+      "card_image_alt": "Ghostingで写真全体をぼかした例",
+      "meta_title": "写真をぼかし加工する方法｜iPhoneで写真全体を数秒で",
+      "meta_description": "iPhoneで写真全体をぼかし加工する方法。壁紙やストーリーズの背景、アートな一枚に。Gaussian・Motion・Ghostingの使い分けと、インストール不要のオンラインエディターという選択肢も紹介します。撮影済みの写真に使え、処理はすべてiPhoneの中で完結します。",
+      "h1": "写真全体をぼかし加工する方法（iPhone）",
+      "answer": "写真全体をぼかすには、MakeBlur で写真を開いて Full Photo（写真全体）タブを選び、やわらかさなら Gaussian、躍動感なら Motion、幻想的なら Ghosting を選んで Radius を上げ、Save をタップします。インストールしたくない場合は、このサイトのオンラインエディターでも写真全体をぼかせます。",
+      "intro": "人物の後ろの背景ではなく、写真全体をぼかしたいときもあります。ロック画面の壁紙、ストーリーズの文字の背景、抽象的なジャケット画像、本番の投稿前のチラ見せ。被写体を認識する必要がない、いちばんシンプルなぼかしです。",
+      "image": "/img/appstore/jp/06-ghost.webp",
+      "image_alt": "Full PhotoタブとGhostingスタイル、Radius 79",
+      "native": {
+        "heading": "「写真」アプリで写真をぼかせる？",
+        "paragraphs": [
+          "できません。「写真」アプリのフィルタにも調整にもぼかしはありません。iOS のロック画面はウィジェットの下の壁紙をぼかせますが、それはシステムの表示効果で、共有できる新しい画像ではありません。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "スタイルの使い分け",
+          "paragraphs": [
+            "Gaussian：均一なやわらかさで、文字の背景に最適。Motion：スピード感があり、スポーツ系のカバーに。Ghosting：二重にじむ幻想的な効果。スクリーンショット「やわらかボケ すぐに」（Radius 79）がこれです。Pixelate や Crystallize：抽象的なモザイク。"
+          ]
+        },
+        {
+          "heading": "オンラインという選択肢",
+          "paragraphs": [
+            "このサイトには無料のオンラインエディターがあります。写真をアップロードして Gaussian・Pixel・Motion を選び、PNG で保存できます。ぼかせるのは写真全体のみ。背景や顔だけを選んでぼかすにはアプリが必要です。"
+          ]
+        }
+      ],
+      "steps_title": "アプリで写真全体をぼかす手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "写真を開く",
+          "description": "MakeBlur で画像を選びます。"
+        },
+        {
+          "number": "2",
+          "title": "Full Photo タブ",
+          "description": "画像全体にぼかしがかかります。"
+        },
+        {
+          "number": "3",
+          "title": "スタイルと Radius",
+          "description": "Gaussian、Motion、Ghosting を好みの強さで。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "ぼかしたコピーがライブラリに保存されます。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "文字の背景にするなら色鮮やかな写真を。ぼかすときれいな色のグラデーションになります。",
+        "ロック画面用には Gaussian を強めに。時計やアイコンが見やすくなります。",
+        "投稿のチラ見せ：まず強くぼかしたものを投稿し、あとで元の写真を。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "オンラインで写真をぼかすには？",
+          "answer": "このサイトの無料オンラインエディターで、写真をアップロードしてスタイルと強さを選び、PNG を保存します。写真全体のみぼかせます。"
+        },
+        {
+          "question": "Full Photo と Background の違いは？",
+          "answer": "Full Photo は画像全体、Background は背景だけをぼかし、被写体はくっきり残します。"
+        },
+        {
+          "question": "解像度は下がりますか？",
+          "answer": "いいえ。コピーは元のサイズのまま保存されます。"
+        }
+      ],
+      "related": [
+        "blur-kouka-shashin.html",
+        "gauss-bokashi-iphone.html",
+        "motion-blur-shashin.html",
+        "boke-kouka-iphone.html"
+      ],
+      "cta_title": "数秒でぼかし写真に",
+      "cta_body": "「写真の背景をぼかす」を入手して、Full Photo とスタイルを選ぶだけ。無料、アップロードなし。",
+      "cta_text": "App Storeで入手"
+    },
+    {
+      "slug": "blur-kouka-shashin.html",
+      "keyword": "ぼかし効果 写真",
+      "cluster": "photo",
+      "card_title": "写真のぼかし効果（ブラー）まとめ",
+      "card_excerpt": "ぼかし効果とは？スタイルの種類と、背景・顔・写真全体のどれに何を使うか。",
+      "card_image": "/img/appstore/jp/02-motion.webp",
+      "card_image_alt": "iPhoneで写真にぼかし効果",
+      "meta_title": "写真のぼかし効果（ブラー）｜種類とiPhoneでのかけ方",
+      "meta_description": "写真のぼかし効果（ブラー）とは何か、iPhoneでのかけ方を解説。背景、顔、指定した範囲、写真全体に、Gaussian・Motion・Ghosting・Pixelateなどを使い分けられます。無料で端末内処理です。撮影済みの写真に使え、処理はすべてiPhoneの中で完結します。",
+      "h1": "写真のぼかし効果（ブラー）：種類とiPhoneでのかけ方",
+      "answer": "ぼかし効果（ブラー）は、写真全体または一部をわざと不鮮明にする加工です。iPhone では MakeBlur で、かける場所（背景は Background、顔は Faces、範囲は Manual、全体は Full Photo）と、Gaussian・Motion・Ghosting などのスタイルを選び、Radius を調整して Save をタップします。",
+      "intro": "「ブラー（blur）」は英語でぼかしのこと。ブラー効果、ブラー加工、顔ブラーなど、カタカナのまま検索されることもよくあります。その裏にある目的はたいてい4つ。人物の後ろの背景をやわらかく、顔を隠す、文字やナンバーを読めなくする、写真全体をぼかす。通常の写真では、iPhone の編集機能でそのどれもできません。",
+      "image": "/img/appstore/jp/02-motion.webp",
+      "image_alt": "Motionスタイル：背景にぼかし効果",
+      "native": {
+        "heading": "iPhoneにある機能",
+        "paragraphs": [
+          "背景のぼかし：ポートレートモードで撮影時のみ。「写真」アプリのぼかしブラシ：なし。マークアップ：覆うためのペンと図形で、ぼかしではない。クリーンアップ（Apple Intelligence）：写り込みを消す機能で、iPhone 15 Pro 以降のみ。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "ぼかしのスタイル",
+          "paragraphs": [
+            "Gaussian：やわらかく自然なぼかし。Motion：方向を調整できる流れ。Ghosting：幻想的な二重のにじみ。Box：均一なぼかし。Pixelate・Hexagonal・Crystallize：モザイク系。プライバシー保護にもデザインにも使えます。"
+          ]
+        },
+        {
+          "heading": "かける場所",
+          "paragraphs": [
+            "Background は被写体をくっきり残して背景をぼかします。Faces はすべての顔に。Manual は指でなぞった範囲に。Full Photo は画像全体に。カメラで撮った写真、スクショ、LINE などで受け取ってライブラリに保存した画像に使えます。"
+          ]
+        }
+      ],
+      "steps_title": "アプリでぼかし効果をかける手順",
+      "steps": [
+        {
+          "number": "1",
+          "title": "写真やスクショを開く",
+          "description": "MakeBlur で画像を選びます。"
+        },
+        {
+          "number": "2",
+          "title": "モードを選ぶ",
+          "description": "Background、Faces、Manual、Full Photo。"
+        },
+        {
+          "number": "3",
+          "title": "スタイルと Radius",
+          "description": "ぼかしの種類と強さ。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "効果をかけたコピーがライブラリに保存されます。"
+        }
+      ],
+      "tips_title": "コツ",
+      "tips": [
+        "見た目なら Gaussian か Ghosting、プライバシーなら Pixelate。",
+        "モードは組み合わせられます。Background で背景をぼかし、Manual で気になる細部を。",
+        "強さを変えて何枚か保存し、いちばん良いものを残しましょう。"
+      ],
+      "faq_title": "よくある質問",
+      "faq": [
+        {
+          "question": "アプリなしでぼかし効果をかけられる？",
+          "answer": "通常の写真では「写真」アプリではできません。マークアップの図形で覆うか、このサイトのオンラインエディターで写真全体をぼかす方法があります。"
+        },
+        {
+          "question": "スクショにもブラーをかけられる？",
+          "answer": "はい。スクショも他の写真と同じようにアプリで開けます。"
+        },
+        {
+          "question": "無料ですか？",
+          "answer": "ダウンロードは無料で、基本のぼかしが含まれます。高度なスタイルは任意の App 内課金です。"
+        }
+      ],
+      "related": [
+        "shashin-bokashi-kakou.html",
+        "iphone-haikei-bokashi.html",
+        "shashin-ichibu-bokashi.html",
+        "motion-blur-shashin.html"
+      ],
+      "cta_title": "1分でぼかし効果",
+      "cta_body": "「写真の背景をぼかす」を入手して、背景・顔・写真全体をぼかしましょう。無料、iOS 18.6 の iPhone で。",
+      "cta_text": "App Storeで入手"
+    }
+  ]
+}

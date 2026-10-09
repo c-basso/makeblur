@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
-    <title>Розмиття фону на iPhone — безкоштовний додаток | Make Blur</title>
-    <meta name="description" content="Розмийте фон і обличчя на iPhone з Make Blur: авто-фон, боке, motion і gaussian у семи стилях і простому збереженні. Завантажуйте безкоштовно в App Store.">
-    <meta name="keywords" content="боке iPhone, фільтр боке, розмиття облич, розмиття фону iPhone, motion blur, gaussian blur, приватність фото, додаток для розмиття фону, редактор фото iPhone">
+    <title>Розмити фон на фото в iPhone — після зйомки | Make Blur</title>
+    <meta name="description" content="Розмийте фон на фото в iPhone навіть після зйомки: об’єкт визначається сам, обличчя розмиваються, є ефект руху й розмиття за Гаусом. Безкоштовно, на телефоні.">
+    <meta name="keywords" content="розмити фон на фото, як розмити фон на айфоні, розмиття заднього фону, додаток для розмиття фону, розмити обличчя на фото, замазати номер авто на фото, замазати текст на скриншоті, пікселізувати фото, розмити фото, блюр фото, ефект руху, ефект боке, розмиття за Гаусом">
     <meta name="author" content="Make Blur">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="googlebot" content="index, follow">
@@ -21,13 +21,13 @@
     <link rel="dns-prefetch" href="https://mc.yandex.ru">
     <link rel="preload" as="image" href="/img/screens/box__15_pro_max.webp" fetchpriority="high">
     <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/style.css?v=1791195777607">
+    <link rel="stylesheet" href="/style.css?v=1791556627322">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://makeblur.com/uk/">
-    <meta property="og:title" content="Розмиття фону на iPhone | Make Blur безкоштовно">
-    <meta property="og:description" content="Make Blur для iPhone: розмиття фону та облич. 7 стилів — боке, motion, gaussian; авто-фон. Безкоштовно в App Store.">
+    <meta property="og:title" content="Розмийте фон на фото в iPhone — навіть після зйомки">
+    <meta property="og:description" content="Розмийте фон на фото в iPhone навіть після зйомки: об’єкт визначається сам, обличчя розмиваються, є ефект руху й розмиття за Гаусом. Безкоштовно, на телефоні.">
     <meta property="og:image" content="https://makeblur.com/uk/site_preview.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -38,8 +38,8 @@
     <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://makeblur.com/uk/">
-    <meta name="twitter:title" content="Додаток для розмиття фону на iPhone | Make Blur">
-    <meta name="twitter:description" content="Розмиття фону й облич на iPhone. Боке, motion blur, gaussian — Make Blur.">
+    <meta name="twitter:title" content="Розмийте фон на фото в iPhone — навіть після зйомки">
+    <meta name="twitter:description" content="Розмийте фон на фото в iPhone навіть після зйомки: об’єкт визначається сам, обличчя розмиваються, є ефект руху й розмиття за Гаусом. Безкоштовно, на телефоні.">
     <meta name="twitter:image" content="https://makeblur.com/uk/site_preview.png">
     <meta name="twitter:image:width" content="1200">
     <meta name="twitter:image:height" content="630">
@@ -99,18 +99,24 @@
 </script>
 </head>
 <body>
-    <a class="skip-link" href="#main">Skip to content</a>
+    <a class="skip-link" href="#main">Перейти до змісту</a>
     <header class="site-header" role="banner">
-        <nav class="container nav" aria-label="Primary">
+        <nav class="container nav" aria-label="Головне меню">
             <a class="brand" href="https://makeblur.com/uk/">
                 <img class="brand-icon" src="/img/appstore/icon.webp" alt="" width="36" height="36" loading="eager" decoding="async">
                 <span class="brand-name">Make Blur</span>
             </a>
             <div class="nav-actions">
                 
+                <a href="#how-it-works" class="nav-link nav-link--hide-sm">Як це працює</a>
                 
                 
-                <a href="https://apps.apple.com/app/id6749166426" class="btn btn--primary btn--sm" rel="noopener"> Завантажити</a>
+                <a href="#guides" class="nav-link">Гайди</a>
+                
+                
+                <a href="#faq" class="nav-link nav-link--hide-sm">FAQ</a>
+                
+                <a href="https://apps.apple.com/app/id6749166426" class="btn btn--primary btn--sm" rel="noopener">Завантажити</a>
             </div>
         </nav>
     </header>
@@ -124,23 +130,49 @@
         <div class="container hero-grid">
             <div class="hero-copy">
                 
-                <h1 id="hero-title">Розмиття фону на iPhone — просто й швидко</h1>
-                <p class="hero-sub">Найкращий безкоштовний додаток для розмиття фону на фото</p>
+                <p class="hero-badge"><img src="/img/appstore/icon-180.webp" alt="" width="22" height="22" loading="eager" decoding="async"><span>Розмиття фону на фото · Безкоштовно для iPhone</span></p>
                 
-                <p class="hero-lead"><strong>Make Blur</strong> — безкоштовний iOS-додаток для розмиття фону й облич, 7 стилів зокрема боке. Без ПК.</p>
+                <h1 id="hero-title">Розмийте фон <span class="hero-title-accent">навіть після зйомки.</span></h1>
+                <p class="hero-sub">Портретний режим працює лише в момент зйомки. MakeBlur розмиває фон, обличчя чи будь-яку ділянку фото, яке вже є на вашому iPhone, — за кілька секунд і повністю на пристрої.</p>
                 
                 <div class="hero-actions">
-                    <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="Завантажити зараз">
-                        <img src="/img/download.svg" alt="Завантажити зараз" width="180" height="60" loading="eager" decoding="async">
+                    <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="Завантажити в App Store">
+                        <img src="/img/download.svg" alt="Завантажити в App Store" width="180" height="60" loading="eager" decoding="async">
                     </a>
                     
+                    <a href="#how-it-works" class="hero-link">Як це працює<span aria-hidden="true">→</span></a>
+                    
                 </div>
+                
+                <ul class="hero-facts" aria-label="Коротко">
+                    
+                    <li><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Безкоштовне завантаження</li>
+                    
+                    <li><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Для вже знятих фото</li>
+                    
+                    <li><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Без завантаження в хмару</li>
+                    
+                    <li><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>iOS 18.6 або новіша</li>
+                    
+                </ul>
                 
             </div>
             <div class="hero-visual">
                 <figure class="device">
-                    <img src="/img/screens/box__15_pro_max.webp" alt="Розмиття фону на iPhone — приклад box blur" width="720" height="1558" fetchpriority="high" decoding="async">
+                    <img src="/img/screens/box__15_pro_max.webp" alt="MakeBlur на iPhone: жінка лишається чіткою, цегляна стіна й квіти позаду розмиті" width="600" height="1299" fetchpriority="high" decoding="async">
                 </figure>
+                
+                
+                <div class="float-card float-card--tl" aria-hidden="true">
+                    <span class="float-card-dot"></span>
+                    <span class="float-card-text"><span class="float-card-label">Background</span><span class="float-card-value">Об’єкт знайдено</span></span>
+                </div>
+                
+                <div class="float-card float-card--br" aria-hidden="true">
+                    <span class="float-card-dot"></span>
+                    <span class="float-card-text"><span class="float-card-label">Box</span><span class="float-card-value">Сила 37</span></span>
+                </div>
+                
                 
             </div>
         </div>
@@ -152,26 +184,54 @@
             <div class="download-card">
                 <div class="download-main">
                     <div class="download-head">
-                        <img class="download-icon" src="/img/appstore/icon.webp" alt="Make Blur — додаток для розмиття фону на iPhone" width="96" height="96" loading="lazy" decoding="async">
+                        <img class="download-icon" src="/img/appstore/icon.webp" alt="Іконка застосунку «Розмиття фону на фото»" width="96" height="96" loading="lazy" decoding="async">
                         <div>
                             
-                            <h2 id="download-title">Розмиття фону на iPhone — просто й швидко</h2>
+                            <p class="eyebrow">Безкоштовно в App Store</p>
+                            
+                            <h2 id="download-title">Завантажте «Розмиття фону на фото»</h2>
                         </div>
                     </div>
                     
-                    <p class="download-subtitle">Найкращий безкоштовний додаток для розмиття фону на фото</p>
+                    <p class="download-subtitle">Застосунок для iPhone, що розмиває фон, обличчя чи будь-яку частину фото — навіть після зйомки.</p>
                     
                     <div class="download-actions">
-                        <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="Завантажити зараз">
-                            <img src="/img/download.svg" alt="Завантажити зараз" width="180" height="60" loading="lazy" decoding="async">
+                        <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="Завантажити в App Store">
+                            <img src="/img/download.svg" alt="Завантажити в App Store" width="180" height="60" loading="lazy" decoding="async">
                         </a>
                     </div>
                     
+                    <dl class="download-specs">
+                        
+                        <div><dt>Ціна</dt><dd>Безкоштовно</dd></div>
+                        
+                        <div><dt>Потрібно</dt><dd>iOS 18.6+</dd></div>
+                        
+                        <div><dt>Категорія</dt><dd>Графіка й дизайн</dd></div>
+                        
+                        <div><dt>Мови</dt><dd>Українська та ще 28</dd></div>
+                        
+                    </dl>
                     
                     
-                    <p class="download-body"><strong>Make Blur</strong> — безкоштовний iOS-додаток для розмиття фону й облич, 7 стилів зокрема боке. Без ПК.</p>
+                    
+                    <p class="download-body">Базове розмиття фону безкоштовне. Розширені стилі й інструменти доступні за бажанням через вбудовані покупки.</p>
                     
                 </div>
+                
+                <ul class="download-features">
+                    
+                    <li><span class="download-feature-icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Розмиття фону з автоматичним визначенням об’єкта, без портретного режиму</span></li>
+                    
+                    <li><span class="download-feature-icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Розмиті обличчя на групових і вуличних фото, без Apple Intelligence</span></li>
+                    
+                    <li><span class="download-feature-icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Пензель для тексту, номерів авто чи будь-якої ділянки фото</span></li>
+                    
+                    <li><span class="download-feature-icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Стилі Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal і Crystallize</span></li>
+                    
+                    <li><span class="download-feature-icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Усе відбувається на iPhone: фото нікуди не завантажуються</span></li>
+                    
+                </ul>
                 
             </div>
         </div>
@@ -181,35 +241,37 @@
     <section class="screenshots" id="screenshots" aria-labelledby="screens-title">
         <div class="container">
             <div class="section-head">
-                <h2 id="screens-title">Розмиття фону на iPhone — просто й швидко</h2>
+                <h2 id="screens-title">Як це виглядає</h2>
+                
+                <p class="section-intro">Справжні скриншоти з App Store: ефект руху, захищені обличчя, фокус на об’єкті, мозаїка й м’який настрій з боке.</p>
                 
             </div>
         </div>
         <div class="screenshot-strip" role="list">
             
             <figure class="screenshot-card" role="listitem">
-                <img src="/img/screens/box__15_pro_max.webp" alt="Розмиття фону на iPhone — приклад box blur" width="720" height="1558" loading="lazy" decoding="async">
-                <figcaption>Розмиття фону на iPhone — приклад box blur</figcaption>
+                <img src="/img/appstore/uk/02-motion.webp" alt="Ефект руху за жінкою в сонцезахисних окулярах, Radius 65" width="720" height="1558" loading="lazy" decoding="async">
+                <figcaption>Ефект руху для динамічних кадрів</figcaption>
             </figure>
             
             <figure class="screenshot-card" role="listitem">
-                <img src="/img/screens/motion__15_pro_max.webp" alt="Розмиття фону на iPhone — приклад motion blur" width="720" height="1558" loading="lazy" decoding="async">
-                <figcaption>Розмиття фону на iPhone — приклад motion blur</figcaption>
+                <img src="/img/appstore/uk/03-face.webp" alt="Вкладка Faces: усі знайдені обличчя розмиті перед публікацією" width="720" height="1558" loading="lazy" decoding="async">
+                <figcaption>Сховайте обличчя перед публікацією</figcaption>
             </figure>
             
             <figure class="screenshot-card" role="listitem">
-                <img src="/img/screens/ghost__15_pro_max.webp" alt="Розмиття фону на iPhone — приклад ghost blur" width="720" height="1558" loading="lazy" decoding="async">
-                <figcaption>Розмиття фону на iPhone — приклад ghost blur</figcaption>
+                <img src="/img/appstore/uk/04-box.webp" alt="Вкладка Background: жінка чітка, фон розмитий стилем Box" width="720" height="1558" loading="lazy" decoding="async">
+                <figcaption>Об’єкт чіткий, решта розмита</figcaption>
             </figure>
             
             <figure class="screenshot-card" role="listitem">
-                <img src="/img/screens/crys__15_pro_max.webp" alt="Розмиття фону на iPhone — приклад crystalize" width="720" height="1558" loading="lazy" decoding="async">
-                <figcaption>Розмиття фону на iPhone — приклад crystalize</figcaption>
+                <img src="/img/appstore/uk/05-crystalize.webp" alt="Стиль Crystallize перетворює фон на мозаїку" width="720" height="1558" loading="lazy" decoding="async">
+                <figcaption>Пікселізація одним дотиком</figcaption>
             </figure>
             
             <figure class="screenshot-card" role="listitem">
-                <img src="/img/screens/ghost1__15_pro_max.webp" alt="Розмиття фону на iPhone — приклад сильнішого ефекту" width="720" height="1558" loading="lazy" decoding="async">
-                <figcaption>Розмиття фону на iPhone — приклад сильнішого ефекту</figcaption>
+                <img src="/img/appstore/uk/06-ghost.webp" alt="Стиль Ghosting на всьому фото з м’яким мрійливим виглядом" width="720" height="1558" loading="lazy" decoding="async">
+                <figcaption>М’який настрій з боке</figcaption>
             </figure>
             
         </div>
@@ -220,38 +282,303 @@
         <div class="container">
             <div class="section-head">
                 
-                <p class="eyebrow"><strong>Три кроки</strong>: встановити додаток, відкрити фото, обрати ефект розмиття й зберегти.</p>
+                <p class="eyebrow">Три кроки</p>
                 
-                <h2 id="how-title">Як розмити фон на iPhone — покроково</h2>
-                <p class="section-intro">Без складних шарів з настільних програм — усе на телефоні.</p>
+                <h2 id="how-title">Як розмити фон на фото в iPhone</h2>
+                <p class="section-intro">Без повторної зйомки й без комп’ютера. Відкрийте фото, яке вже маєте, перевірте об’єкт і збережіть.</p>
             </div>
             <ol class="steps steps--timeline">
                 
                 <li class="step">
                     <div class="step-marker" aria-hidden="true"><span class="step-number">1</span></div>
-                    <h3>Встановіть Make Blur</h3>
-                    <p>Знайдіть <strong>Make Blur</strong> у App Store і встановіть на iPhone. Старт за лічені секунди.</p>
+                    <h3>Завантажте застосунок</h3>
+                    <p>Безкоштовно в App Store для iPhone з iOS 18.6 або новішою. Відкрийте будь-яке фото з галереї: звичайне, селфі, скриншот або отримане зображення.</p>
                 </li>
                 
                 <li class="step">
                     <div class="step-marker" aria-hidden="true"><span class="step-number">2</span></div>
-                    <h3>Відкрийте знімок</h3>
-                    <p>Оберіть фото з галереї. За можливості додаток <strong>сам виділить фон</strong>, щоб менше малювати вручну.</p>
+                    <h3>Оберіть, що розмити</h3>
+                    <p>Background автоматично лишає об’єкт чітким. Faces ховає всі знайдені обличчя. Manual — пензель для будь-якої ділянки. Full Photo розмиває все фото.</p>
                 </li>
                 
                 <li class="step">
                     <div class="step-marker" aria-hidden="true"><span class="step-number">3</span></div>
-                    <h3>Оберіть ефект і збережіть</h3>
-                    <p>Оберіть боке, motion, gaussian чи інший з 7 стилів; за потреби розмиття облич; <strong>збережіть</strong>.</p>
+                    <h3>Стиль, сила, збереження</h3>
+                    <p>Gaussian — для м’якого розмиття як від об’єктива, Motion — для руху, Pixelate — для приватності. Силу регулює Radius, а Save зберігає у Фото.</p>
                 </li>
                 
             </ol>
 
             
+            <div class="modes">
+                <h3 class="modes-title">Чотири режими, один повзунок</h3>
+                <div class="modes-grid">
+                    
+                    <a class="mode-card" href="/uk/yak-rozmyty-fon-na-aifoni.html">
+                        <span class="mode-top"><span class="mode-icon" aria-hidden="true"></span><span class="mode-tab">Background</span></span>
+                        <span class="mode-name">Розмитий фон</span>
+                        <span class="mode-desc">Об’єкт визначається й лишається чітким, усе позаду стає м’яким. Портретний ефект для будь-якого фото.</span>
+                        <span class="mode-link">Як розмити фон на айфоні<span aria-hidden="true">→</span></span>
+                    </a>
+                    
+                    <a class="mode-card" href="/uk/yak-rozmyty-oblychchia-na-foto.html">
+                        <span class="mode-top"><span class="mode-icon" aria-hidden="true"></span><span class="mode-tab">Faces</span></span>
+                        <span class="mode-name">Розмиті обличчя</span>
+                        <span class="mode-desc">Усі обличчя на фото знаходяться й розмиваються одним дотиком — без Apple Intelligence.</span>
+                        <span class="mode-link">Як розмити обличчя на фото<span aria-hidden="true">→</span></span>
+                    </a>
+                    
+                    <a class="mode-card" href="/uk/rozmyty-chastynu-foto-iphone.html">
+                        <span class="mode-top"><span class="mode-icon" aria-hidden="true"></span><span class="mode-tab">Manual</span></span>
+                        <span class="mode-name">Частина фото</span>
+                        <span class="mode-desc">Проведіть пальцем по тексту, номеру авто, номеру будинку чи людині в натовпі. Розмивається лише те, що ви зафарбували.</span>
+                        <span class="mode-link">Розмити частину фото<span aria-hidden="true">→</span></span>
+                    </a>
+                    
+                    <a class="mode-card" href="/uk/yak-rozmyty-foto-iphone.html">
+                        <span class="mode-top"><span class="mode-icon" aria-hidden="true"></span><span class="mode-tab">Full Photo</span></span>
+                        <span class="mode-name">Усе фото</span>
+                        <span class="mode-desc">М’які шпалери, фони для сторіс або абстрактна версія будь-якого фото — одним рухом.</span>
+                        <span class="mode-link">Як розмити фото<span aria-hidden="true">→</span></span>
+                    </a>
+                    
+                </div>
+                
+                <div class="modes-styles-row">
+                    <span class="modes-styles-label">Стилі в кожному режимі</span>
+                    <ul class="modes-style-chips">
+                        
+                        <li>Gaussian</li>
+                        
+                        <li>Motion</li>
+                        
+                        <li>Ghosting</li>
+                        
+                        <li>Box</li>
+                        
+                        <li>Pixelate</li>
+                        
+                        <li>Hexagonal</li>
+                        
+                        <li>Crystallize</li>
+                        
+                    </ul>
+                    
+                    <span class="modes-styles-note">Radius: сила · Angle: напрям руху</span>
+                    
+                </div>
+                
+                
+            </div>
+            
         </div>
     </section>
 
     <!-- ============ GUIDES ============ -->
+    
+    <section class="guides" id="guides" aria-labelledby="guides-title">
+        <div class="container">
+            <div class="section-head">
+                <h2 id="guides-title">Покрокові гайди</h2>
+                <p class="section-intro">Розмити фон, сховати обличчя, замазати номер авто чи текст, розмити все фото: кожен гайд показує точні кроки на iPhone.</p>
+            </div>
+            <div class="guide-hub">
+            
+            <div class="guide-panel">
+                <div class="guide-panel-head">
+                    <span class="guide-panel-icon" aria-hidden="true"></span>
+                    <div>
+                        <h3>Розмиття фону</h3>
+                        <p>Чіткий об’єкт, м’який фон — навіть на вже знятих фото.</p>
+                    </div>
+                </div>
+                <ul class="guide-list">
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/yak-rozmyty-fon-na-aifoni.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Як розмити фон на айфоні після зйомки</span>
+                                <span class="guide-row-excerpt">Портретний режим працює лише під час зйомки. Ось як розмити фон фото, що вже є в галереї.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/rozmyty-fon-na-foto.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Розмити фон на фото для аватарки й соцмереж</span>
+                                <span class="guide-row-excerpt">Чіткий об’єкт, м’який фон: ефект як від фотографа для аватарок, постів і оголошень.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/rozmyttia-zadnoho-fonu.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Розмиття заднього фону: інструкція для початківців</span>
+                                <span class="guide-row-excerpt">Що таке розмиття заднього фону, наскільки сильно розмивати і як зробити це за три дотики.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/dodatok-rozmyttia-fonu-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Додаток для розмиття фону на айфон</span>
+                                <span class="guide-row-excerpt">Портретний режим, Розмітка, Clean Up чи окремий застосунок: що обрати для фону, облич і деталей.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="guide-panel">
+                <div class="guide-panel-head">
+                    <span class="guide-panel-icon" aria-hidden="true"></span>
+                    <div>
+                        <h3>Сховати обличчя, номери й текст</h3>
+                        <p>Розмиття для приватності перед публікацією.</p>
+                    </div>
+                </div>
+                <ul class="guide-list">
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/yak-rozmyty-oblychchia-na-foto.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Як розмити обличчя на фото</span>
+                                <span class="guide-row-excerpt">Діти, друзі, перехожі: розмийте всі обличчя одним дотиком перед публікацією, без Apple Intelligence.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/rozmyty-chastynu-foto-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Як розмити частину фото на айфоні</span>
+                                <span class="guide-row-excerpt">Адреса, номер, людина в натовпі: зафарбуйте пальцем — і розмиється лише ця ділянка.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/zamazaty-nomer-avto-na-foto.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Як замазати номер авто на фото</span>
+                                <span class="guide-row-excerpt">Для AUTO.RIA чи OLX: номер не прочитати, оголошення охайне.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/zamazaty-tekst-na-skrinshoti.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Як замазати текст на скриншоті</span>
+                                <span class="guide-row-excerpt">Листування, адреси, IBAN: зробіть текст нечитабельним, перш ніж надсилати скрін.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/pikselizuvaty-foto-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Як пікселізувати фото на айфоні</span>
+                                <span class="guide-row-excerpt">Мозаїка на обличчях, тексті чи фоні: Pixelate, Hexagonal і Crystallize пояснено.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="guide-panel">
+                <div class="guide-panel-head">
+                    <span class="guide-panel-icon" aria-hidden="true"></span>
+                    <div>
+                        <h3>Ефекти розмиття</h3>
+                        <p>Рух, боке й Гаус.</p>
+                    </div>
+                </div>
+                <ul class="guide-list">
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/efekt-rukhu-na-foto.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Ефект руху на фото (motion blur)</span>
+                                <span class="guide-row-excerpt">Слід руху на фоні, чіткий об’єкт: динаміка за допомогою Radius і Angle.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/efekt-boke-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Ефект боке на айфоні</span>
+                                <span class="guide-row-excerpt">М’який фон і розмиті вогні навіть після зйомки: Gaussian для портретів, Ghosting для мрійливого вигляду.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/rozmyttia-za-gausom-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Розмиття за Гаусом на iPhone</span>
+                                <span class="guide-row-excerpt">Що таке розмиття за Гаусом, коли його застосовувати і як накласти на фон, обличчя чи все фото.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="guide-panel">
+                <div class="guide-panel-head">
+                    <span class="guide-panel-icon" aria-hidden="true"></span>
+                    <div>
+                        <h3>Розмити будь-яке фото</h3>
+                        <p>Усе фото й основи ефекту блюру.</p>
+                    </div>
+                </div>
+                <ul class="guide-list">
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/yak-rozmyty-foto-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Як розмити все фото на айфоні</span>
+                                <span class="guide-row-excerpt">Усе зображення розмите: для шпалер, сторіс чи абстрактного вигляду. На iPhone і онлайн.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/uk/efekt-rozmyttia-blur-foto.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Блюр фото: ефект розмиття</span>
+                                <span class="guide-row-excerpt">Що таке блюр, які бувають стилі й що обрати для фону, облич чи всього фото.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            </div>
+        </div>
+    </section>
     
 
     <!-- ============ FAQ ============ -->
@@ -260,117 +587,127 @@
             <div class="faq-head">
                 <h2 id="faq-title">Часті запитання</h2>
                 
+                <p class="section-intro">Короткі відповіді про розмиття фото на iPhone. Кожна веде до детального гайду.</p>
+                
             </div>
             <div class="faq-list">
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Як розмити фон на iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Як розмити фон на вже знятому фото в iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Щоб розмити тло, завантажте Make Blur, відкрийте знімок, дайте додатку <strong>автоматично визначити тло</strong> або <strong>намітьте власну маску</strong>, далі виберіть боке, motion, gaussian чи інший з семи ефектів — і збережіть. У тому ж додатку можна <strong>розмити обличчя</strong> в інтересах приватності.</p>
+                        <p>Відкрийте фото в застосунку, лишіть вкладку Background, щоб об’єкт визначився, оберіть Gaussian, збільшуйте Radius до потрібної м’якості й натисніть Save. Працює з будь-яким фото з галереї, без портретного режиму.</p>
+                        
+                        <a class="faq-learn-more" href="/uk/yak-rozmyty-fon-na-aifoni.html">Детальніше →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Який додаток найкраще для розмиття фону на iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Чи може застосунок Фото розмити фон звичайного фото?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Make Blur — додаток для iPhone, зосереджений на <strong>розмитті тла й лиця</strong>: <strong>автоматичне визначення тла</strong>, <strong>сім типів</strong>, зокрема боке, motion і gaussian, плюс <strong>зручний інтерфейс</strong>. Ранні оцінки сягають <strong>близько 4,5 зірок</strong>.</p>
+                        <p>Лише якщо фото знято в портретному режимі: тоді в «Редагувати» можна змінити глибину. Звичайні фото, скриншоти й отримані зображення не мають даних глибини, а в Фото немає розмиття фону. Саме для цього й потрібен застосунок.</p>
+                        
+                        <a class="faq-learn-more" href="/uk/dodatok-rozmyttia-fonu-iphone.html">Детальніше →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Як розмити фотографію на iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Як розмити обличчя без Apple Intelligence?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Скористайтесь Make Blur: відкрийте фото, вкажіть зону для розмиття або ввімкніть <strong>авто-фон</strong>, за потреби <strong>розмийте лице</strong>, виберіть боке, motion, gaussian чи інший ефект — і збережіть.</p>
+                        <p>Apple Intelligence не підтримує українську, а її інструмент Clean Up видаляє об’єкти й працює лише на iPhone 15 Pro та новіших. У застосунку вкладка Faces знаходить усі обличчя одразу й розмиває їх — на будь-якому iPhone з iOS 18.6.</p>
+                        
+                        <a class="faq-learn-more" href="/uk/yak-rozmyty-oblychchia-na-foto.html">Детальніше →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Чи можу я безкоштовно розмивати тло знімка в Make Blur?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Як розмити лише частину фото?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Так. Make Blur <strong>безкоштовно</strong> встановлюється; можна <strong>розмивати тло й лице</strong> (приватність) і застосовувати <strong>усі сім ефектів</strong>, зокрема боке, motion і gaussian. Частина <strong>розширених опцій</strong> може коштувати грошей; <strong>базове редагування</strong> — <strong>без оплати</strong>.</p>
+                        <p>У вкладці Manual проведіть пальцем по ділянці: текст, номер авто, людина в натовпі. Розмивається тільки зафарбоване; силу регулює Radius.</p>
+                        
+                        <a class="faq-learn-more" href="/uk/rozmyty-chastynu-foto-iphone.html">Детальніше →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Як розмити зображення (файл у галереї) на iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Як замазати номер авто для оголошення на AUTO.RIA чи OLX?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Встановіть Make Blur з App Store, відкрийте знімок, <strong>автоматично</strong> визначте тло або <strong>намітьте маску</strong>, за потреби <strong>розмийте лице</strong>, виберіть боке, motion, gaussian чи інший з семи стилів — і <strong>збережіть</strong>.</p>
+                        <p>Відкрийте фото, вкладка Manual, стиль Pixelate або Box, зафарбуйте номер і збільшуйте Radius, доки жоден символ не читатиметься. Збережіть і завантажте цю копію в оголошення. Оригінал не залишає ваш iPhone.</p>
+                        
+                        <a class="faq-learn-more" href="/uk/zamazaty-nomer-avto-na-foto.html">Детальніше →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Які ефекти розмиття можна взяти, щоб зм'якшити саме тло в кадрі з iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Як замазати текст на скриншоті?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>У Make Blur доступні <strong>motion, gaussian, ghosting, pixelate, hexagonal, crystalize і боке</strong>. <strong>Боке</strong> дає ефект <strong>невеликої глибини різкості</strong> з <strong>м’якими плямами</strong>. <strong>Усі сім</strong> — для <strong>тла</strong> або <strong>обраних ділянок</strong>.</p>
+                        <p>У Manual зафарбуйте рядки з адресою, номером, IBAN чи листуванням, оберіть Pixelate і збережіть копію. Збільште масштаб, щоб переконатися, що нічого не читається.</p>
+                        
+                        <a class="faq-learn-more" href="/uk/zamazaty-tekst-na-skrinshoti.html">Детальніше →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Чому варто взяти Make Blur, а не інші додатки з blur-ефектами?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Як додати ефект руху на фото?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Make Blur поєднує автоматичне визначення тла, окрему схему для розмиття лиця, сім ефектів з боке та freemium-модель, де основні інструменти залишаються безкоштовними. У багатьох додатках базове розмиття сховане за підпискою або додаток переповнений рекламою; у Make Blur на першому плані — зручна робота з тлом і лицем.</p>
+                        <p>Оберіть стиль Motion: Radius задає довжину сліду, Angle — напрям. У вкладці Background рухається лише фон, об’єкт лишається чітким.</p>
+                        
+                        <a class="faq-learn-more" href="/uk/efekt-rukhu-na-foto.html">Детальніше →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Чим Make Blur відрізняється від портретного чи вбудованого розмиття на iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Чим розмиття за Гаусом відрізняється від боке?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Вбудований портрет iPhone найкраще виглядає, коли знімок зроблено в потрібних умовах. Make Blur відкриває будь-який уже збережений кадр у додатку «Фото», пропонує сім ефектів (боке, motion, gaussian, ghosting, pixelate, hexagonal, crystalize), за потреби — розмиття лиця та авто-фон. Більше керування й варіантів, ніж тільки штатні інструменти.</p>
+                        <p>Розмиття за Гаусом — рівномірне м’яке розмиття, як від розфокусованого об’єктива. Боке описує вигляд світлових плям у розмитій частині. У застосунку Gaussian дає чистий портретний фон, а Ghosting на Full Photo — більш мрійливий вигляд.</p>
+                        
+                        <a class="faq-learn-more" href="/uk/rozmyttia-za-gausom-iphone.html">Детальніше →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Чи Make Blur кращий за інші подібні додатки з розмиттям?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Як розмити все фото?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Є плюси: чесна freemium-модель без примусу до підписки, сім типів з боке (часто більше, ніж у аналогів), розмиття лиця, авто-фон, близько 4,5 зірок і понад 10 000 завантажень. Make Blur заточений на зручність, тоді як у конкурентів нерідко paywall, реклама чи обрізання ключових функцій.</p>
+                        <p>Вкладка Full Photo розмиває все зображення: оберіть стиль і силу — для шпалер, фонів сторіс чи абстрактних картинок. Без встановлення все фото розмиє й онлайн-редактор на цьому сайті.</p>
+                        
+                        <a class="faq-learn-more" href="/uk/yak-rozmyty-foto-iphone.html">Детальніше →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Як розмити обличчя на фотографії, знятій на iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Застосунок безкоштовний?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>У Make Blur: відкрийте знімок, оберіть опцію розмиття лиця, застосуйте до автоматично виявлених ділянок або обраних вручні, натисніть «зберегти». Підходить для групових кадрів чи знімків у публічних місцях, якщо потрібно обмежити ідентифікацію, без ПК-редакторів.</p>
+                        <p>Так. Він завантажується безкоштовно, базове розмиття фону включено. Розширені стилі й інструменти доступні за бажанням через вбудовані покупки.</p>
+                        
+                        <a class="faq-learn-more" href="/uk/rozmyty-fon-na-foto.html">Детальніше →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Що робить фільтр боке в Make Blur?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Чи завантажуються мої фото на сервер?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Він імітує невелику глибину різкості: об’єкт лишається чітким, фон — м’яким, зі світловими плямами, схожими на портретний об’єктив. Один із семи стилів, поруч із motion, gaussian, ghosting, pixelate, hexagonal і crystalize.</p>
+                        <p>Ні. Усе обробляється на iPhone, і для розмиття не потрібен інтернет — ваші фото не залишають пристрій.</p>
+                        
+                        <a class="faq-learn-more" href="/uk/pikselizuvaty-foto-iphone.html">Детальніше →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Чи можна розмити лише частину фото?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>На яких iPhone працює застосунок?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Так: інструмент малювання дозволяє позначити зони сильнішого розмиття або поєднати з авто-фоном.</p>
+                        <p>На будь-якому iPhone з iOS 18.6 або новішою. Не потрібні ні Apple Intelligence, ні камера з портретним режимом.</p>
                         
-                    </div>
-                </details>
-                
-                <details class="faq-item">
-                    <summary class="faq-question"><h3>Чи підходить для приховування лиця чи номерного знака авто?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
-                    <div class="faq-answer">
-                        <p>Так: розмиття лиця чи сильніше розмиття / пікселізацію. Для юридичних питань звертайтеся до фахівця; це не юридична порада.</p>
-                        
-                    </div>
-                </details>
-                
-                <details class="faq-item">
-                    <summary class="faq-question"><h3>Чи безпечні мої фото в Make Blur?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
-                    <div class="faq-answer">
-                        <p>Обробка здебільшого відбувається в додатку на пристрої згідно з задумом розробника. Деталі в політиці конфіденційності на сайті.</p>
+                        <a class="faq-learn-more" href="/uk/dodatok-rozmyttia-fonu-iphone.html">Детальніше →</a>
                         
                     </div>
                 </details>
@@ -386,18 +723,28 @@
                 <div class="final-cta-copy">
                     <img src="/img/appstore/icon.webp" alt="" width="72" height="72" loading="lazy" decoding="async" class="final-cta-icon">
                     
-                    <h2 id="cta-title">Готові до чіткого об’єкта та м’якого фону?</h2>
+                    <p class="eyebrow">Безкоштовно в App Store</p>
                     
-                    <p>Розмитий фон допомагає <strong>портрету чи продукту виділитися</strong> в соцмережах чи альбомі.</p>
+                    <h2 id="cta-title">Розмийте фон на фото, які вже маєте</h2>
+                    
+                    <p>Відкрийте фото з «Останніх», дайте застосунку знайти об’єкт, посуньте повзунок і збережіть. Обличчя, рух і все фото — в одному застосунку.</p>
                     
                     
-                    <p>Make Blur створений саме для цього: швидке розмиття на iPhone без зайвих кроків.</p>
-                    
-                    <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="Почати">
-                        <img src="/img/download.svg" alt="Почати" width="180" height="60" loading="lazy" decoding="async">
+                    <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="Завантажити в App Store">
+                        <img src="/img/download.svg" alt="Завантажити в App Store" width="180" height="60" loading="lazy" decoding="async">
                     </a>
                     
-                    <p class="final-cta-note"><strong>Завантажте Make Blur</strong> з App Store і спробуйте 7 ефектів з боке.</p>
+                    <p class="final-cta-note">Без завантаження в хмару · iPhone з iOS 18.6 або новішою</p>
+                    
+                </div>
+                
+                <div class="final-cta-visual" aria-hidden="true">
+                    
+                    <img src="/img/appstore/uk/03-face.webp" alt="" width="720" height="1558" loading="lazy" decoding="async">
+                    
+                    <img src="/img/appstore/uk/04-box.webp" alt="" width="720" height="1558" loading="lazy" decoding="async">
+                    
+                    <img src="/img/appstore/uk/02-motion.webp" alt="" width="720" height="1558" loading="lazy" decoding="async">
                     
                 </div>
                 
@@ -414,25 +761,85 @@
                     <img class="brand-icon" src="/img/appstore/icon.webp" alt="" width="36" height="36" loading="lazy" decoding="async">
                     <span class="brand-name">Make Blur</span>
                 </a>
-                <p class="footer-tagline">Make Blur — фон і обличчя на iPhone. Боке, motion, gaussian та інше; авто-фон.</p>
-                <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge footer-badge" rel="noopener" aria-label="Завантажити Make Blur в App Store">
-                    <img src="/img/download.svg" alt="Завантажити Make Blur в App Store" width="135" height="45" loading="lazy" decoding="async">
+                <p class="footer-tagline">«Розмиття фону на фото» (MakeBlur) — безкоштовний застосунок для iPhone, що розмиває фон, обличчя чи будь-яку частину фото після зйомки. Усе обробляється на пристрої.</p>
+                <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge footer-badge" rel="noopener" aria-label="Завантажити «Розмиття фону на фото» в App Store">
+                    <img src="/img/download.svg" alt="Завантажити «Розмиття фону на фото» в App Store" width="135" height="45" loading="lazy" decoding="async">
                 </a>
             </div>
+            
+            <nav class="footer-guides" aria-label="Гайди">
+                
+                <div class="footer-col">
+                    <h3>Розмиття фону</h3>
+                    <ul>
+                        
+                        <li><a href="/uk/yak-rozmyty-fon-na-aifoni.html">Як розмити фон на айфоні після зйомки</a></li>
+                        
+                        <li><a href="/uk/rozmyty-fon-na-foto.html">Розмити фон на фото для аватарки й соцмереж</a></li>
+                        
+                        <li><a href="/uk/rozmyttia-zadnoho-fonu.html">Розмиття заднього фону: інструкція для початківців</a></li>
+                        
+                        <li><a href="/uk/dodatok-rozmyttia-fonu-iphone.html">Додаток для розмиття фону на айфон</a></li>
+                        
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h3>Сховати обличчя, номери й текст</h3>
+                    <ul>
+                        
+                        <li><a href="/uk/yak-rozmyty-oblychchia-na-foto.html">Як розмити обличчя на фото</a></li>
+                        
+                        <li><a href="/uk/rozmyty-chastynu-foto-iphone.html">Як розмити частину фото на айфоні</a></li>
+                        
+                        <li><a href="/uk/zamazaty-nomer-avto-na-foto.html">Як замазати номер авто на фото</a></li>
+                        
+                        <li><a href="/uk/zamazaty-tekst-na-skrinshoti.html">Як замазати текст на скриншоті</a></li>
+                        
+                        <li><a href="/uk/pikselizuvaty-foto-iphone.html">Як пікселізувати фото на айфоні</a></li>
+                        
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h3>Ефекти розмиття</h3>
+                    <ul>
+                        
+                        <li><a href="/uk/efekt-rukhu-na-foto.html">Ефект руху на фото (motion blur)</a></li>
+                        
+                        <li><a href="/uk/efekt-boke-iphone.html">Ефект боке на айфоні</a></li>
+                        
+                        <li><a href="/uk/rozmyttia-za-gausom-iphone.html">Розмиття за Гаусом на iPhone</a></li>
+                        
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h3>Розмити будь-яке фото</h3>
+                    <ul>
+                        
+                        <li><a href="/uk/yak-rozmyty-foto-iphone.html">Як розмити все фото на айфоні</a></li>
+                        
+                        <li><a href="/uk/efekt-rozmyttia-blur-foto.html">Блюр фото: ефект розмиття</a></li>
+                        
+                    </ul>
+                </div>
+                
+            </nav>
             
         </div>
         <div class="container footer-bottom">
             <div class="footer-bottom-row">
-                <p class="footer-copy">© 2026 Make Blur. Усі права захищені.</p>
+                <p class="footer-copy">© 2026 Make Blur. Усі права захищено.</p>
                 <ul class="footer-links">
-                    
-                    
-                    <li><a href="https://makeblur.com/uk/rozmyttya-fonu-foto-onlain-redaktor.html">Відкрити онлайн-редактор розмиття фото (Gaussian, Pixel, Motion)</a></li>
+                    <li><a href="https://makeblur.com/uk/#how-it-works">Як це працює</a></li>
+                    <li><a href="https://makeblur.com/uk/#faq">FAQ</a></li>
+                    <li><a href="https://makeblur.com/uk/rozmyttya-fonu-foto-onlain-redaktor.html">Онлайн-редактор розмиття фото</a></li>
                     <li><a href="/privacy.html">Політика конфіденційності</a></li>
                     <li><a href="/terms.html">Умови використання</a></li>
                 </ul>
             </div>
-            <nav class="footer-langs" aria-label="Language">
+            <nav class="footer-langs" aria-label="Мова">
                 <ul>
                     
                     <li><a href="https://makeblur.com/" hreflang="en" lang="en" title="English">EN</a></li>
@@ -471,25 +878,25 @@
                     
                 </ul>
             </nav>
-            
+            <p class="footer-fineprint">Для «Розмиття фону на фото» потрібен iPhone з iOS 18.6 або новішою. Apple, iPhone і App Store — торговельні марки Apple Inc., зареєстровані в США та інших країнах.</p>
         </div>
     </footer>
 
     <!-- Structured Data (JSON-LD) -->
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"SoftwareApplication","name":"Make Blur","applicationCategory":"PhotoEditorApplication","operatingSystem":"iOS","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"10"},"description":"Розмиття фону й облич на iPhone. 7 стилів з боке, motion і gaussian blur; авто-фон.","url":"https://makeblur.com/uk/","downloadUrl":"https://apps.apple.com/app/id6749166426"}
+    {"@context":"https://schema.org","@type":"SoftwareApplication","name":"Розмиття фону на фото","alternateName":["MakeBlur","Make Blur"],"applicationCategory":"PhotoEditorApplication","operatingSystem":"iOS 18.6 або новіша","offers":{"@type":"Offer","price":"0","priceCurrency":"UAH","description":"Безкоштовно; необов’язкові вбудовані покупки"},"description":"Безкоштовний фоторедактор для iPhone, що розмиває фон фото після зйомки. Автоматичне визначення об’єкта, розмиття облич, ручний пензель, ефекти Motion, Gaussian, Pixelate і м’які стилі. Обробка на пристрої.","applicationSubCategory":"Графіка й дизайн","image":"https://makeblur.com/img/appstore/icon-1024.png","screenshot":["https://makeblur.com/img/appstore/uk/01-cover.webp","https://makeblur.com/img/appstore/uk/02-motion.webp","https://makeblur.com/img/appstore/uk/03-face.webp","https://makeblur.com/img/appstore/uk/04-box.webp","https://makeblur.com/img/appstore/uk/05-crystalize.webp","https://makeblur.com/img/appstore/uk/06-ghost.webp"],"featureList":["Розмиття фону з автоматичним визначенням об’єкта","Розмиття облич","Ручний пензель розмиття","Розмиття всього фото","Стилі Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize","Обробка на пристрої"],"softwareVersion":"1.16.4","fileSize":"25.7MB","inLanguage":"uk","author":{"@type":"Organization","name":"Make Blur","url":"https://makeblur.com"},"url":"https://makeblur.com/uk/","downloadUrl":"https://apps.apple.com/app/id6749166426"}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Organization","name":"Make Blur","url":"https://makeblur.com","logo":"https://makeblur.com/img/logo.webp","description":"Make Blur — iPhone: фон, обличчя, боке, motion і gaussian blur."}
+    {"@context":"https://schema.org","@type":"Organization","name":"Make Blur","url":"https://makeblur.com","logo":"https://makeblur.com/img/logo.webp","description":"Make Blur публікує «Розмиття фону на фото» (MakeBlur) — безкоштовний застосунок для iPhone, що розмиває фон, обличчя чи будь-яку частину фото після зйомки."}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebSite","name":"Make Blur","url":"https://makeblur.com/uk/","description":"Make Blur: фон і обличчя на iPhone. Боке та ще 6 стилів.","potentialAction":{"@type":"SearchAction","target":"https://makeblur.com/?q={search_term_string}","query-input":"required name=search_term_string"}}
+    {"@context":"https://schema.org","@type":"WebSite","name":"Make Blur","url":"https://makeblur.com/uk/","inLanguage":"uk","description":"Розмиття фону на фото в iPhone після зйомки: гайди, часті запитання та завантаження з App Store."}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Розмиття фону на iPhone в Make Blur","description":"Розмиття фону та за потреби облич на iPhone в Make Blur, з боке.","step":[{"@type":"HowToStep","name":"Встановіть Make Blur","text":"Знайдіть Make Blur у App Store і встановіть на iPhone. Старт за лічені секунди.","url":"https://apps.apple.com/app/id6749166426"},{"@type":"HowToStep","name":"Відкрийте знімок","text":"Оберіть фото з галереї. За можливості додаток сам виділить фон , щоб менше малювати вручну."},{"@type":"HowToStep","name":"Оберіть ефект і збережіть","text":"Оберіть боке, motion, gaussian чи інший з 7 стилів; за потреби розмиття облич; збережіть ."}]}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Як розмити фон на фото в iPhone","description":"Розмиття фону наявного фото: завантажте застосунок, оберіть, що розмити, налаштуйте силу й збережіть на пристрої.","step":[{"@type":"HowToStep","name":"Завантажте застосунок","text":"Безкоштовно в App Store для iPhone з iOS 18.6 або новішою. Відкрийте будь-яке фото з галереї: звичайне, селфі, скриншот або отримане зображення.","url":"https://apps.apple.com/app/id6749166426"},{"@type":"HowToStep","name":"Оберіть, що розмити","text":"Background автоматично лишає об’єкт чітким. Faces ховає всі знайдені обличчя. Manual — пензель для будь-якої ділянки. Full Photo розмиває все фото."},{"@type":"HowToStep","name":"Стиль, сила, збереження","text":"Gaussian — для м’якого розмиття як від об’єктива, Motion — для руху, Pixelate — для приватності. Силу регулює Radius, а Save зберігає у Фото."}],"totalTime":"PT2M","tool":[{"@type":"HowToTool","name":"MakeBlur – Розмиття фону на фото (застосунок для iPhone)"}]}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Як розмити фон на iPhone?","acceptedAnswer":{"@type":"Answer","text":"Щоб розмити тло, завантажте Make Blur, відкрийте знімок, дайте додатку автоматично визначити тло або намітьте власну маску , далі виберіть боке, motion, gaussian чи інший з семи ефектів — і збережіть. У тому ж додатку можна розмити обличчя в інтересах приватності."}},{"@type":"Question","name":"Який додаток найкраще для розмиття фону на iPhone?","acceptedAnswer":{"@type":"Answer","text":"Make Blur — додаток для iPhone, зосереджений на розмитті тла й лиця : автоматичне визначення тла , сім типів , зокрема боке, motion і gaussian, плюс зручний інтерфейс . Ранні оцінки сягають близько 4,5 зірок ."}},{"@type":"Question","name":"Як розмити фотографію на iPhone?","acceptedAnswer":{"@type":"Answer","text":"Скористайтесь Make Blur: відкрийте фото, вкажіть зону для розмиття або ввімкніть авто-фон , за потреби розмийте лице , виберіть боке, motion, gaussian чи інший ефект — і збережіть."}},{"@type":"Question","name":"Чи можу я безкоштовно розмивати тло знімка в Make Blur?","acceptedAnswer":{"@type":"Answer","text":"Так. Make Blur безкоштовно встановлюється; можна розмивати тло й лице (приватність) і застосовувати усі сім ефектів , зокрема боке, motion і gaussian. Частина розширених опцій може коштувати грошей; базове редагування — без оплати ."}},{"@type":"Question","name":"Як розмити зображення (файл у галереї) на iPhone?","acceptedAnswer":{"@type":"Answer","text":"Встановіть Make Blur з App Store, відкрийте знімок, автоматично визначте тло або намітьте маску , за потреби розмийте лице , виберіть боке, motion, gaussian чи інший з семи стилів — і збережіть ."}},{"@type":"Question","name":"Які ефекти розмиття можна взяти, щоб зм'якшити саме тло в кадрі з iPhone?","acceptedAnswer":{"@type":"Answer","text":"У Make Blur доступні motion, gaussian, ghosting, pixelate, hexagonal, crystalize і боке . Боке дає ефект невеликої глибини різкості з м’якими плямами . Усі сім — для тла або обраних ділянок ."}},{"@type":"Question","name":"Чому варто взяти Make Blur, а не інші додатки з blur-ефектами?","acceptedAnswer":{"@type":"Answer","text":"Make Blur поєднує автоматичне визначення тла, окрему схему для розмиття лиця, сім ефектів з боке та freemium-модель, де основні інструменти залишаються безкоштовними. У багатьох додатках базове розмиття сховане за підпискою або додаток переповнений рекламою; у Make Blur на першому плані — зручна робота з тлом і лицем."}},{"@type":"Question","name":"Чим Make Blur відрізняється від портретного чи вбудованого розмиття на iPhone?","acceptedAnswer":{"@type":"Answer","text":"Вбудований портрет iPhone найкраще виглядає, коли знімок зроблено в потрібних умовах. Make Blur відкриває будь-який уже збережений кадр у додатку «Фото», пропонує сім ефектів (боке, motion, gaussian, ghosting, pixelate, hexagonal, crystalize), за потреби — розмиття лиця та авто-фон. Більше керування й варіантів, ніж тільки штатні інструменти."}},{"@type":"Question","name":"Чи Make Blur кращий за інші подібні додатки з розмиттям?","acceptedAnswer":{"@type":"Answer","text":"Є плюси: чесна freemium-модель без примусу до підписки, сім типів з боке (часто більше, ніж у аналогів), розмиття лиця, авто-фон, близько 4,5 зірок і понад 10 000 завантажень. Make Blur заточений на зручність, тоді як у конкурентів нерідко paywall, реклама чи обрізання ключових функцій."}},{"@type":"Question","name":"Як розмити обличчя на фотографії, знятій на iPhone?","acceptedAnswer":{"@type":"Answer","text":"У Make Blur: відкрийте знімок, оберіть опцію розмиття лиця, застосуйте до автоматично виявлених ділянок або обраних вручні, натисніть «зберегти». Підходить для групових кадрів чи знімків у публічних місцях, якщо потрібно обмежити ідентифікацію, без ПК-редакторів."}},{"@type":"Question","name":"Що робить фільтр боке в Make Blur?","acceptedAnswer":{"@type":"Answer","text":"Він імітує невелику глибину різкості: об’єкт лишається чітким, фон — м’яким, зі світловими плямами, схожими на портретний об’єктив. Один із семи стилів, поруч із motion, gaussian, ghosting, pixelate, hexagonal і crystalize."}},{"@type":"Question","name":"Чи можна розмити лише частину фото?","acceptedAnswer":{"@type":"Answer","text":"Так: інструмент малювання дозволяє позначити зони сильнішого розмиття або поєднати з авто-фоном."}},{"@type":"Question","name":"Чи підходить для приховування лиця чи номерного знака авто?","acceptedAnswer":{"@type":"Answer","text":"Так: розмиття лиця чи сильніше розмиття / пікселізацію. Для юридичних питань звертайтеся до фахівця; це не юридична порада."}},{"@type":"Question","name":"Чи безпечні мої фото в Make Blur?","acceptedAnswer":{"@type":"Answer","text":"Обробка здебільшого відбувається в додатку на пристрої згідно з задумом розробника. Деталі в політиці конфіденційності на сайті."}}]}
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Як розмити фон на вже знятому фото в iPhone?","acceptedAnswer":{"@type":"Answer","text":"Відкрийте фото в застосунку, лишіть вкладку Background, щоб об’єкт визначився, оберіть Gaussian, збільшуйте Radius до потрібної м’якості й натисніть Save. Працює з будь-яким фото з галереї, без портретного режиму."}},{"@type":"Question","name":"Чи може застосунок Фото розмити фон звичайного фото?","acceptedAnswer":{"@type":"Answer","text":"Лише якщо фото знято в портретному режимі: тоді в «Редагувати» можна змінити глибину. Звичайні фото, скриншоти й отримані зображення не мають даних глибини, а в Фото немає розмиття фону. Саме для цього й потрібен застосунок."}},{"@type":"Question","name":"Як розмити обличчя без Apple Intelligence?","acceptedAnswer":{"@type":"Answer","text":"Apple Intelligence не підтримує українську, а її інструмент Clean Up видаляє об’єкти й працює лише на iPhone 15 Pro та новіших. У застосунку вкладка Faces знаходить усі обличчя одразу й розмиває їх — на будь-якому iPhone з iOS 18.6."}},{"@type":"Question","name":"Як розмити лише частину фото?","acceptedAnswer":{"@type":"Answer","text":"У вкладці Manual проведіть пальцем по ділянці: текст, номер авто, людина в натовпі. Розмивається тільки зафарбоване; силу регулює Radius."}},{"@type":"Question","name":"Як замазати номер авто для оголошення на AUTO.RIA чи OLX?","acceptedAnswer":{"@type":"Answer","text":"Відкрийте фото, вкладка Manual, стиль Pixelate або Box, зафарбуйте номер і збільшуйте Radius, доки жоден символ не читатиметься. Збережіть і завантажте цю копію в оголошення. Оригінал не залишає ваш iPhone."}},{"@type":"Question","name":"Як замазати текст на скриншоті?","acceptedAnswer":{"@type":"Answer","text":"У Manual зафарбуйте рядки з адресою, номером, IBAN чи листуванням, оберіть Pixelate і збережіть копію. Збільште масштаб, щоб переконатися, що нічого не читається."}},{"@type":"Question","name":"Як додати ефект руху на фото?","acceptedAnswer":{"@type":"Answer","text":"Оберіть стиль Motion: Radius задає довжину сліду, Angle — напрям. У вкладці Background рухається лише фон, об’єкт лишається чітким."}},{"@type":"Question","name":"Чим розмиття за Гаусом відрізняється від боке?","acceptedAnswer":{"@type":"Answer","text":"Розмиття за Гаусом — рівномірне м’яке розмиття, як від розфокусованого об’єктива. Боке описує вигляд світлових плям у розмитій частині. У застосунку Gaussian дає чистий портретний фон, а Ghosting на Full Photo — більш мрійливий вигляд."}},{"@type":"Question","name":"Як розмити все фото?","acceptedAnswer":{"@type":"Answer","text":"Вкладка Full Photo розмиває все зображення: оберіть стиль і силу — для шпалер, фонів сторіс чи абстрактних картинок. Без встановлення все фото розмиє й онлайн-редактор на цьому сайті."}},{"@type":"Question","name":"Застосунок безкоштовний?","acceptedAnswer":{"@type":"Answer","text":"Так. Він завантажується безкоштовно, базове розмиття фону включено. Розширені стилі й інструменти доступні за бажанням через вбудовані покупки."}},{"@type":"Question","name":"Чи завантажуються мої фото на сервер?","acceptedAnswer":{"@type":"Answer","text":"Ні. Усе обробляється на iPhone, і для розмиття не потрібен інтернет — ваші фото не залишають пристрій."}},{"@type":"Question","name":"На яких iPhone працює застосунок?","acceptedAnswer":{"@type":"Answer","text":"На будь-якому iPhone з iOS 18.6 або новішою. Не потрібні ні Apple Intelligence, ні камера з портретним режимом."}}]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна","item":"https://makeblur.com/uk/"}]}

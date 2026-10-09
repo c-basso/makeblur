@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "rozmyc-zdjecie-iphone.html",
+    "keyword": "rozmyć zdjęcie",
+    "cluster": "photo",
+    "card_title": "Rozmyć całe zdjęcie na iPhonie",
+    "card_excerpt": "Cały kadr rozmyty: na tapety, relacje albo abstrakcyjny efekt. Na iPhonie i online.",
+    "card_image": "/img/appstore/pl/06-ghost.webp",
+    "card_image_alt": "Całe zdjęcie rozmyte efektem Ghosting",
+    "meta_title": "Jak rozmyć zdjęcie na iPhonie: cały obraz w kilka sekund",
+    "meta_description": "Jak rozmyć całe zdjęcie na iPhonie: na tapety, relacje albo abstrakcyjny efekt. Style Gaussian, Motion i Ghosting oraz opcja online bez instalowania aplikacji.",
+    "h1": "Jak rozmyć całe zdjęcie na iPhonie",
+    "answer": "Aby rozmyć całe zdjęcie, otwórz je w MakeBlur, wybierz kartę Full Photo (całe zdjęcie) i styl — Gaussian dla miękkości, Motion dla dynamiki albo Ghosting dla rozmarzonego efektu — i zwiększ Radius. Stuknij Save. Bez instalowania czegokolwiek całe zdjęcie rozmyje też edytor online na tej stronie.",
+    "intro": "Czasem nie chcesz rozmyć tła za osobą, tylko cały obraz: tapetę na ekran blokady, podkład pod tekst w relacji, abstrakcyjną okładkę albo «zajawkę» przed właściwym postem. To najprostsze rozmycie i jedyne, które nie musi rozpoznawać obiektu.",
+    "image": "/img/appstore/pl/06-ghost.webp",
+    "image_alt": "Karta Full Photo ze stylem Ghosting, Radius 79",
+    "native": {
+      "heading": "Czy da się rozmyć zdjęcie w aplikacji Zdjęcia?",
+      "paragraphs": [
+        "Nie: ani filtry, ani korekty w Zdjęciach nie oferują rozmycia. Ekran blokady iOS potrafi rozmyć tapetę pod widżetami, ale to efekt systemowy, a nie nowy obraz do udostępnienia."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Który styl do czego",
+        "paragraphs": [
+          "Gaussian: równomierna miękkość, najlepsze tło pod tekst. Motion: wrażenie prędkości, idealny na sportowe okładki. Ghosting: podwójny efekt «ducha», jak na zrzucie «Miękki klimat z bokeh» (Radius 79). Pixelate i Crystallize: abstrakcyjna mozaika."
+        ]
+      },
+      {
+        "heading": "Opcja online",
+        "paragraphs": [
+          "Na tej stronie jest darmowy edytor online: wgrywasz zdjęcie, wybierasz Gaussian, Pixel lub Motion i pobierasz PNG. Rozmywa tylko cały obraz; wybiórczo tło lub twarze rozmyjesz w aplikacji."
+        ]
+      }
+    ],
+    "steps_title": "Rozmycie całego zdjęcia w aplikacji",
+    "steps": [
+      {
+        "title": "Otwórz zdjęcie",
+        "description": "Wybierz obraz w MakeBlur."
+      },
+      {
+        "title": "Karta Full Photo",
+        "description": "Rozmycie obejmuje cały obraz."
+      },
+      {
+        "title": "Styl i Radius",
+        "description": "Gaussian, Motion lub Ghosting z wybraną siłą."
+      },
+      {
+        "title": "Save",
+        "description": "Rozmyta kopia trafia do biblioteki."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Na tła pod tekst wybieraj kolorowe zdjęcia: po rozmyciu zostają ładne plamy koloru.",
+      "Na ekran blokady zapisz wersję z mocnym Gaussian: godzina i ikony będą czytelne.",
+      "Zajawka posta: najpierw opublikuj mocno rozmytą wersję, potem oryginał."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Jak rozmyć zdjęcie online?",
+        "answer": "Darmowym edytorem online na tej stronie: wgraj zdjęcie, wybierz styl i siłę, pobierz PNG. Rozmywa tylko cały obraz."
+      },
+      {
+        "question": "Czym różni się Full Photo od Background?",
+        "answer": "Full Photo rozmywa cały obraz, Background tylko tło — obiekt pozostaje ostry."
+      },
+      {
+        "question": "Czy rozdzielczość spada?",
+        "answer": "Nie, kopia zapisuje się w oryginalnym rozmiarze."
+      }
+    ],
+    "related": [
+      "efekt-rozmycia-zdjecie.html",
+      "rozmycie-gaussowskie-iphone.html",
+      "motion-blur-zdjecie.html",
+      "efekt-bokeh-iphone.html"
+    ],
+    "cta_title": "Rozmyte zdjęcie w kilka sekund",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu», wybierz Full Photo i styl. Za darmo, bez wysyłania.",
+    "cta_text": "Pobierz z App Store"
+  },
+  {
+    "slug": "efekt-rozmycia-zdjecie.html",
+    "keyword": "efekt rozmycia zdjęcia",
+    "cluster": "photo",
+    "card_title": "Efekt rozmycia (blur) na zdjęciach",
+    "card_excerpt": "Czym jest efekt rozmycia, jakie są style i który pasuje do tła, twarzy albo całego zdjęcia.",
+    "card_image": "/img/appstore/pl/02-motion.webp",
+    "card_image_alt": "Efekt rozmycia na zdjęciu z iPhone’a",
+    "meta_title": "Efekt rozmycia zdjęcia na iPhonie: style i krótki poradnik",
+    "meta_description": "Czym jest efekt rozmycia (blur) i jak nałożyć go na iPhonie: na tło, twarze, obszar albo cały obraz, stylem Gaussian, Motion, Ghosting lub Pixelate. Za darmo.",
+    "h1": "Efekt rozmycia zdjęcia: czym jest i jak go zrobić na iPhonie",
+    "answer": "Efekt rozmycia sprawia, że zdjęcie lub jego część staje się mniej ostra. Na iPhonie nałożysz go w MakeBlur: wybierz miejsce (Background dla tła, Faces dla twarzy, Manual dla obszaru, Full Photo dla całego obrazu), styl taki jak Gaussian, Motion czy Ghosting, ustaw Radius i stuknij Save.",
+    "intro": "«Blur» to po angielsku rozmycie i wiele osób w Polsce szuka właśnie tak: blur efekt, blur foto, zblurować twarz. Za tym prawie zawsze stoi jedno z czterech pragnień: miękkie tło za osobą, ukrycie twarzy, nieczytelny fragment z tekstem albo tablicą, lub rozmycie całego zdjęcia. Edytor iPhone’a nie zrobi żadnej z tych rzeczy na zwykłym zdjęciu.",
+    "image": "/img/appstore/pl/02-motion.webp",
+    "image_alt": "Styl Motion: efekt rozmycia na tle",
+    "native": {
+      "heading": "Co oferuje iPhone",
+      "paragraphs": [
+        "Rozmyte tło: tylko w trybie Portret, przy robieniu zdjęcia. Pędzel rozmycia w Zdjęciach: nie istnieje. Oznaczenia: pióro i kształty do zakrywania, nie do rozmywania. Clean Up (Apple Intelligence): usuwa obiekty, nie działa po polsku."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Style rozmycia",
+        "paragraphs": [
+          "Gaussian: miękkie, naturalne rozmycie. Motion: smuga z regulowanym kierunkiem. Ghosting: rozmarzony efekt «ducha». Box: równomierne rozmycie. Pixelate, Hexagonal i Crystallize: mozaiki, przydatne dla prywatności albo jako efekt graficzny."
+        ]
+      },
+      {
+        "heading": "Gdzie go nałożyć",
+        "paragraphs": [
+          "Background zostawia obiekt ostry i rozmywa tło. Faces działa na wszystkie twarze. Manual na obszar zamalowany palcem. Full Photo na cały obraz. Działa ze zdjęciami z aparatu, screenami i obrazami z Messengera czy WhatsAppa zapisanymi w bibliotece."
+        ]
+      }
+    ],
+    "steps_title": "Efekt rozmycia w aplikacji",
+    "steps": [
+      {
+        "title": "Otwórz zdjęcie lub screen",
+        "description": "Wybierz obraz w MakeBlur."
+      },
+      {
+        "title": "Wybierz tryb",
+        "description": "Background, Faces, Manual lub Full Photo."
+      },
+      {
+        "title": "Styl i Radius",
+        "description": "Rodzaj rozmycia i siła."
+      },
+      {
+        "title": "Save",
+        "description": "Kopia z efektem zapisuje się w bibliotece."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Dla wyglądu: Gaussian lub Ghosting; dla prywatności: Pixelate.",
+      "Łącz tryby: najpierw Background dla tła, potem Manual dla przeszkadzającego szczegółu.",
+      "Zapisz kilka wersji z różną siłą i zostaw najlepszą."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Jak zrobić efekt rozmycia bez aplikacji?",
+        "answer": "Na zwykłym zdjęciu Zdjęcia tego nie umożliwiają. Możesz zakryć kształtami w Oznaczeniach albo rozmyć całe zdjęcie edytorem online na tej stronie."
+      },
+      {
+        "question": "Czy mogę rozmyć screena?",
+        "answer": "Tak, screeny otwierają się w aplikacji jak każde inne zdjęcie."
+      },
+      {
+        "question": "Czy to jest darmowe?",
+        "answer": "Pobranie jest darmowe, a podstawowe rozmycie jest w zestawie; zaawansowane style opcjonalnie w zakupach w aplikacji."
+      }
+    ],
+    "related": [
+      "rozmyc-zdjecie-iphone.html",
+      "rozmycie-tla-iphone.html",
+      "rozmyc-czesc-zdjecia-iphone.html",
+      "motion-blur-zdjecie.html"
+    ],
+    "cta_title": "Efekt rozmycia w minutę",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu» i rozmyj tło, twarze albo całe zdjęcie. Za darmo, iPhone z iOS 18.6.",
+    "cta_text": "Pobierz z App Store"
+  }
+]

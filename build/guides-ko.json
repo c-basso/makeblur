@@ -1,0 +1,1289 @@
+{
+  "hub": {
+    "nav_text": "가이드",
+    "title": "단계별 가이드",
+    "intro": "배경 흐리게, 얼굴 가리기, 번호판과 캡처 글자 모자이크, 사진 전체 블러. 모든 가이드는 아이폰에서의 정확한 단계를 보여줍니다.",
+    "learn_more_text": "자세히 보기",
+    "related_title": "관련 가이드",
+    "answer_label": "핵심 답변",
+    "clusters": [
+      {
+        "id": "background",
+        "title": "배경 흐리게",
+        "blurb": "찍은 후에도 주인공은 선명하게, 배경은 부드럽게."
+      },
+      {
+        "id": "privacy",
+        "title": "얼굴·번호판·글자 가리기",
+        "blurb": "공유 전 개인정보 보호를 위한 블러와 모자이크."
+      },
+      {
+        "id": "effects",
+        "title": "블러 효과",
+        "blurb": "모션 블러, 아웃포커싱, 가우시안 블러."
+      },
+      {
+        "id": "photo",
+        "title": "사진 흐리게 하기",
+        "blurb": "사진 전체 블러와 블러 효과 기본."
+      }
+    ]
+  },
+  "items": [
+    {
+      "slug": "iphone-sajin-baegyeong-heurige.html",
+      "keyword": "아이폰 사진 배경 흐리게",
+      "cluster": "background",
+      "card_title": "아이폰 사진 배경 흐리게 (찍은 후에도)",
+      "card_excerpt": "인물 사진 모드는 찍을 때만 됩니다. 사진 보관함에 있는 사진의 배경을 나중에 흐리게 하는 방법.",
+      "card_image": "/img/appstore/ko/04-box.webp",
+      "card_image_alt": "Background 탭: 여성은 선명, 배경은 흐림",
+      "meta_title": "아이폰 사진 배경 흐리게 하는 법｜이미 찍은 사진도 가능",
+      "meta_description": "이미 찍은 사진의 배경을 아이폰에서 흐리게 하는 방법. 인물 사진 모드로 찍지 않았어도 앱이 피사체를 자동으로 찾고, 강도만 골라 저장하면 됩니다. 아이폰 기본 기능으로 되는 것과 한계도 정리했습니다.",
+      "h1": "아이폰 사진 배경 흐리게 하는 법 — 찍은 후에도 가능",
+      "answer": "이미 찍은 사진의 배경을 아이폰에서 흐리게 하려면 MakeBlur(모자이크 배경 흐림 및 흐림 처리)에서 사진을 열고, 피사체가 감지되도록 Background(배경) 탭을 그대로 둔 채 Gaussian 스타일을 고른 다음, Radius 슬라이더를 원하는 만큼 올리고 Save를 누르세요. 인물 사진뿐 아니라 사진 보관함의 모든 사진에 쓸 수 있고, 처리는 전부 아이폰 안에서 이뤄집니다.",
+      "intro": "「아이폰 배경 흐리게」를 검색하면 대부분 인물 사진 모드를 쓰라고 합니다. 아직 찍기 전이라면 맞는 말이에요. 하지만 일반 사진 모드로 찍었거나, 카톡으로 받은 사진이거나, 캡처라면 인물 사진 모드는 소용이 없습니다. 아이폰 기본 기능으로 되는 것과 안 되는 것, 그리고 30초 만에 배경을 흐리게 하는 방법을 소개합니다.",
+      "image": "/img/appstore/ko/04-box.webp",
+      "image_alt": "앱의 Background 탭: 여성은 선명하고 뒤의 벽돌 벽과 꽃은 흐림",
+      "native": {
+        "heading": "아이폰 기본 기능으로 되는 것",
+        "paragraphs": [
+          "인물 사진 모드는 찍는 순간 심도 맵을 저장합니다. 나중에 「사진」→「편집」에서 왼쪽 위 「f」를 눌러 흐림 정도를 바꿀 수 있어요. 단, 지원 카메라의 인물 사진 모드로 찍은 사진만 해당됩니다. 일반 사진, 인물 모드가 아닌 셀카, 캡처, 받은 이미지에는 심도 맵이 없어서 슬라이더가 아예 나타나지 않습니다.",
+          "최신 아이폰은 촬영 시 심도 정보가 저장됐다면 일반 사진을 나중에 인물 사진으로 바꿀 수 있는 경우도 있습니다. 하지만 모든 사진과 모델에서 되는 것은 아니고, 피사체를 직접 고를 수도 없습니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "인물 사진 모드 없이 배경 흐리게",
+          "paragraphs": [
+            "이를 위해서는 완성된 이미지에서 피사체와 배경을 분리하는 편집기가 필요합니다. MakeBlur에서는 Background 탭이 그 역할을 합니다. 사람이나 주요 피사체를 인식해 선명하게 두고 나머지를 부드럽게 만듭니다. 카메라 심도 정보가 필요 없고 사진의 픽셀로 처리하니 어떤 이미지든 됩니다.",
+            "강도는 Radius 슬라이더로, 흐림의 종류는 스타일로 정합니다. Gaussian은 렌즈 같은 부드러움, Box는 조금 더 균일한 흐림, Motion은 흐르는 움직임. 모두 아이폰 안에서 인터넷 없이 처리됩니다."
+          ]
+        },
+        {
+          "heading": "얼마나 흐리게 할까",
+          "paragraphs": [
+            "프로필이나 증명용 사진이라면 약하게 충분합니다. 배경이 무엇인지는 알아보되 시선을 뺏지 않는 정도. 인스타 스토리나 피드라면 강하게 해도 좋습니다. 배경이 색 번짐이 되면서 인물이 돋보여요. 중간 정도 Radius로 시작하고 머리카락을 확대해 하얀 테두리가 보이면 강도를 낮추세요."
+          ]
+        }
+      ],
+      "steps_title": "앱에서 배경 흐리게 하는 단계",
+      "steps": [
+        {
+          "number": "1",
+          "title": "사진 열기",
+          "description": "MakeBlur를 실행하고 사진 보관함에서 이미지를 고르세요. 일반 사진, 셀카, 캡처 모두 됩니다."
+        },
+        {
+          "number": "2",
+          "title": "Background 탭 그대로",
+          "description": "앱이 피사체를 감지하고 흐리게 할 배경을 정합니다."
+        },
+        {
+          "number": "3",
+          "title": "스타일과 Radius 선택",
+          "description": "대표적인 아웃포커싱 느낌은 Gaussian. 배경이 충분히 부드러워질 때까지 Radius를 움직이세요."
+        },
+        {
+          "number": "4",
+          "title": "Save 누르기",
+          "description": "흐리게 처리된 사본이 「사진」에 저장되고 원본은 그대로 남습니다."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "벽 앞의 인물, 테이블 위 컵처럼 피사체가 배경과 뚜렷하게 구분될수록 결과가 깔끔합니다.",
+        "저장 전에 머리카락과 손끝을 확대해 확인하세요. Radius가 너무 높으면 테두리가 생길 수 있어요.",
+        "자르기는 흐림 처리 후에. 픽셀이 많을수록 마스크가 정확합니다."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "인물 사진 모드 없이 아이폰에서 배경을 흐리게 할 수 있나요?",
+          "answer": "네. 「사진」 앱은 심도 정보 없이는 못 하지만, MakeBlur는 이미지 자체에서 피사체를 분리해 어떤 사진이든 배경을 흐리게 합니다."
+        },
+        {
+          "question": "오래된 사진도 배경을 흐리게 할 수 있나요?",
+          "answer": "같은 방법으로 됩니다. 앱에서 열고 Background 탭, Radius 조절 후 저장. 촬영 날짜나 카메라 기종은 상관없습니다."
+        },
+        {
+          "question": "화질이 떨어지나요?",
+          "answer": "피사체는 원본 해상도 그대로이고 배경만 부드러워집니다. 새 사본으로 저장되고 원본은 남습니다."
+        },
+        {
+          "question": "인터넷 연결이 필요한가요?",
+          "answer": "아니요. 모든 처리가 아이폰 안에서 이뤄지고 사진이 서버로 전송되지 않습니다."
+        }
+      ],
+      "related": [
+        "baegyeong-heurige-haneun-beop.html",
+        "sajin-baegyeong-blur.html",
+        "blur-app-iphone.html",
+        "outfocusing-iphone.html"
+      ],
+      "cta_title": "가지고 있는 사진의 배경, 지금 흐리게",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 사진을 열고 Radius를 조절해 저장하세요. 무료, 기기 내 처리, iOS 18.6 이상 모든 아이폰.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "sajin-baegyeong-blur.html",
+      "keyword": "사진 배경 블러 처리",
+      "cluster": "background",
+      "card_title": "사진 배경 블러 처리: 프로필·인스타·판매글",
+      "card_excerpt": "피사체는 선명하게, 배경은 부드럽게. 프로필 사진, 피드, 중고거래 사진을 더 깔끔하게.",
+      "card_image": "/img/appstore/ko/02-motion.webp",
+      "card_image_alt": "배경을 블러 처리한 인물 사진",
+      "meta_title": "사진 배경 블러 처리｜프로필·인스타·중고거래 사진에",
+      "meta_description": "가지고 있는 사진의 배경을 블러 처리해 피사체는 선명하고 배경은 부드러운 한 장으로. 카톡 프로필, 인스타 피드, 당근마켓 판매 사진 등 용도에 맞는 스타일과 강도 고르는 법을 알려드립니다. 인물 사진 모드 없이도 됩니다.",
+      "h1": "사진 배경 블러 처리로 깔끔한 한 장 만들기",
+      "answer": "가지고 있는 사진의 배경을 블러 처리하려면 MakeBlur에서 사진을 열고, 피사체가 선명하게 남도록 Background 탭을 고른 뒤, 자연스럽게는 Gaussian, 균일하게는 Box를 골라 Radius를 조절하고 Save를 누르세요. DSLR 없이도 몇 초 만에 아웃포커싱 느낌이 납니다.",
+      "intro": "배경만 흐려도 사진이 훨씬 전문적으로 보입니다. 카톡 프로필, 인스타 피드, 당근마켓이나 번개장터 판매 사진에서 물건을 돋보이게 할 때도 효과적이에요. 밝은 렌즈가 찍을 때 해주는 것을, 아이폰에서는 찍은 후에도 할 수 있습니다. 용도별 스타일과 강도 고르는 법을 소개합니다.",
+      "image": "/img/appstore/ko/02-motion.webp",
+      "image_alt": "Background 탭과 Motion 스타일, Radius 65: 여성은 선명",
+      "native": {
+        "heading": "아이폰 기본 기능으로 되는 것",
+        "paragraphs": [
+          "인물 사진 모드는 찍을 때 배경을 흐리게 하고, 「사진」→「편집」에서 강도를 조절할 수 있습니다. 일반 사진에는 「사진」 앱의 배경 블러 기능이 없습니다. 필터와 조절은 밝기와 색을 바꿀 뿐 선명도를 흐리게 하지 않습니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "용도별 스타일",
+          "paragraphs": [
+            "프로필·증명: Gaussian에 Radius 낮게. 배경은 알아볼 정도로 남습니다. 피드·스토리: Gaussian이나 Box에 Radius 높게. 배경이 색 번짐이 됩니다. 스포츠나 거리 사진: Motion으로 배경이 흐르고 피사체는 멈춘 채로. 판매 사진: Box로 배경을 고르게 하면 물건이 살아납니다.",
+            "스크린샷 「주인공은 선명하게, 나머지는 흐리게」는 꽃이 있는 벽 앞 인물에 Box를 준 대표적인 예입니다."
+          ]
+        },
+        {
+          "heading": "과하지 않게 블러 처리하기",
+          "paragraphs": [
+            "프로필 사진에서 배경을 너무 흐리면 특히 머리카락 테두리가 어색해집니다. 기준은 간단해요. 인물이 렌즈에 가까울수록 강하게, 전신이나 단체 사진은 약하게."
+          ]
+        }
+      ],
+      "steps_title": "앱에서 배경 블러 처리하는 단계",
+      "steps": [
+        {
+          "number": "1",
+          "title": "사진 고르기",
+          "description": "프로필, 피드, 판매 사진을 MakeBlur에서 엽니다."
+        },
+        {
+          "number": "2",
+          "title": "Background 탭",
+          "description": "피사체가 감지되어 선명하게 남습니다."
+        },
+        {
+          "number": "3",
+          "title": "스타일과 Radius",
+          "description": "인물은 Gaussian, 물건은 Box, 움직임은 Motion."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "사본을 저장하고 원하는 곳에 올리세요."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "프로필 사진은 블러 처리 후 동그랗게 자르면 마스크가 더 정확합니다.",
+        "쇼윈도나 조명이 있는 배경에서는 Gaussian으로 빛망울 같은 번짐이 생깁니다.",
+        "강도를 다르게 두 장 저장해 폰 화면에서 비교해 고르세요."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "찍은 사진에 배경 블러 처리를 할 수 있나요?",
+          "answer": "피사체를 감지하는 앱이라면 됩니다. MakeBlur는 Background, Radius, Save 3단계. 「사진」 앱만으로는 일반 사진에 안 됩니다."
+        },
+        {
+          "question": "사람 말고 물건도 되나요?",
+          "answer": "네. Background는 컵, 가방, 음식 같은 주요 피사체도 감지합니다."
+        },
+        {
+          "question": "무료인가요?",
+          "answer": "다운로드는 무료이고 기본 배경 흐림이 포함됩니다. 고급 스타일은 선택형 앱 내 구입입니다."
+        }
+      ],
+      "related": [
+        "iphone-sajin-baegyeong-heurige.html",
+        "outfocusing-iphone.html",
+        "blur-app-iphone.html",
+        "baegyeong-heurige-haneun-beop.html"
+      ],
+      "cta_title": "어떤 사진이든 아웃포커싱 느낌으로",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 사진을 열면 앱이 피사체를 찾아줍니다. 무료, 업로드 없음.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "baegyeong-heurige-haneun-beop.html",
+      "keyword": "배경 흐리게 하는 법",
+      "cluster": "background",
+      "card_title": "배경 흐리게 하는 법 (초보자용)",
+      "card_excerpt": "배경을 흐리게 한다는 건? 얼마나 흐리게? 세 번 탭으로 끝나는 방법을 쉽게.",
+      "card_image": "/img/appstore/ko/04-box.webp",
+      "card_image_alt": "인물 뒤 배경을 흐리게 한 예",
+      "meta_title": "배경 흐리게 하는 법｜초보도 탭 세 번이면 끝",
+      "meta_description": "사진 배경 흐리게 하는 법을 초보자 눈높이로 쉽게 설명합니다. 아이폰이라면 앱에서 탭 세 번. 얼마나 흐려야 자연스러운지, 자주 하는 실수와 해결법도 정리했어요. 편집이 처음이어도 괜찮습니다. 인물 사진 모드 없이도 됩니다.",
+      "h1": "배경 흐리게 하는 법 — 초보도 탭 세 번",
+      "answer": "아이폰에서 사진 배경을 흐리게 하는 법은 탭 세 번이면 됩니다. MakeBlur에서 사진을 열고, Background 탭 그대로 Radius 슬라이더를 오른쪽으로 밀어 배경을 부드럽게 한 다음 Save를 누르세요. 사람이나 물건은 앱이 알아서 찾아 선명하게 남기니 직접 오려낼 필요가 없습니다.",
+      "intro": "배경 흐리게, 뿌옇게, 아웃포커싱. 말은 여러 가지지만 목적은 같습니다. 주인공은 선명하게, 뒤는 부드럽게, 보는 사람의 시선이 자연스럽게 인물로 가도록. 편집 앱을 한 번도 안 써봤어도 첫 탭부터 저장까지 헤매지 않도록 강도 기준과 함께 알려드립니다.",
+      "image": "/img/appstore/ko/04-box.webp",
+      "image_alt": "Radius 슬라이더로 배경 흐림 정도 조절",
+      "native": {
+        "heading": "「사진」 앱으로 되나요?",
+        "paragraphs": [
+          "인물 사진 모드로 찍은 사진만 「편집」에서 심도 슬라이더를 쓸 수 있습니다. 그 외 사진에는 「사진」 앱에 배경을 흐리게 하는 기능이 없어요. 필터나 「선명도」 조절로는 배경이 흐려지지 않습니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "흐림 강도 기준",
+          "paragraphs": [
+            "약하게(Radius 낮게): 배경이 무엇인지 알 수 있는 자연스러운 결과. 가족 사진, 프로필에. 중간: 배경이 매끈한 면이 되어 SNS 게시물에 딱. 강하게(Radius 높게): 색 번짐만 남아 인상적이지만 테두리 확인은 필수.",
+            "헷갈리면 중간을 추천합니다. 카메라로 찍은 것 같은 자연스러움이 나와요."
+          ]
+        },
+        {
+          "heading": "자주 하는 실수",
+          "paragraphs": [
+            "단체 사진을 너무 흐리게 하면 조금 뒤에 선 사람까지 반쯤 흐려 보입니다. 원래 어두운 배경은 흐려도 차이가 잘 안 보여요. 원본을 덮어쓸 걱정은 없습니다. MakeBlur는 항상 사본을 저장하니 몇 번이든 다시 할 수 있어요."
+          ]
+        }
+      ],
+      "steps_title": "탭 세 번으로 배경 흐리게",
+      "steps": [
+        {
+          "number": "1",
+          "title": "사진 열기",
+          "description": "MakeBlur 안에서 사진 보관함의 사진을 탭합니다."
+        },
+        {
+          "number": "2",
+          "title": "Radius 움직이기",
+          "description": "Background 탭 그대로 마음에 들 때까지 슬라이더를 움직입니다."
+        },
+        {
+          "number": "3",
+          "title": "Save 누르기",
+          "description": "새 사진이 「최근 항목」에 추가됩니다."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "피사체와 배경이 뚜렷하게 나뉜 사진일수록 잘 됩니다.",
+        "저장 전 두 손가락으로 확대해 테두리를 확인하세요.",
+        "피사체가 작다면 저장 후 잘라서 크게 보이게 하세요."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "배경 흐리게와 아웃포커싱은 같은 말인가요?",
+          "answer": "비슷하게 쓰입니다. 아웃포커싱은 피사체만 선명하고 배경이 흐린 사진을 가리키는 한국식 표현이고, 앱으로 그런 결과를 만들 수 있습니다."
+        },
+        {
+          "question": "피사체를 직접 오려야 하나요?",
+          "answer": "아니요. Background 탭이 자동으로 감지합니다. 세밀한 수정은 Manual로."
+        },
+        {
+          "question": "원본으로 되돌릴 수 있나요?",
+          "answer": "네. 앱은 사본을 저장하므로 원본은 사진 보관함에 남아 있습니다."
+        }
+      ],
+      "related": [
+        "iphone-sajin-baegyeong-heurige.html",
+        "sajin-baegyeong-blur.html",
+        "gaussian-blur-iphone.html",
+        "sajin-heurige-iphone.html"
+      ],
+      "cta_title": "탭 세 번으로 배경 흐리게",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받으세요: 열기, Radius 움직이기, 저장. iOS 18.6 아이폰에서 무료.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "blur-app-iphone.html",
+      "keyword": "블러 어플 아이폰",
+      "cluster": "background",
+      "card_title": "아이폰 블러 어플, 뭘 써야 할까?",
+      "card_excerpt": "인물 사진 모드, 마크업, 클린업, 전용 앱. 배경·얼굴·세부에 각각 뭘 쓰면 되는지.",
+      "card_image": "/img/appstore/ko/03-face.webp",
+      "card_image_alt": "아이폰 앱으로 얼굴을 블러 처리한 예",
+      "meta_title": "아이폰 블러 어플 추천｜기본 기능과 솔직하게 비교",
+      "meta_description": "아이폰에서 사진을 흐리게 하려면 어떤 어플을 써야 할까요? 인물 사진 모드, 마크업, 클린업, MakeBlur를 비교해 배경·얼굴·글자 중 무엇을 흐리게 할 수 있는지, 각각의 실제 한계를 정리했습니다.",
+      "h1": "아이폰 블러 어플: 무엇을 언제 쓸까",
+      "answer": "아이폰에서 사진을 흐리게 하려면 무엇을 흐리게 할지에 따라 고르세요. 인물 사진 모드로 찍은 사진의 배경이라면 「사진」 앱으로 충분합니다. 그 외 사진의 배경, 모든 얼굴, 번호판이나 글자라면 Background·Faces·Manual·Full Photo 탭이 있고 기기 안에서 작동하며 무료로 받을 수 있는 MakeBlur 같은 앱이 필요합니다.",
+      "intro": "「블러 어플」을 검색하면 비슷비슷한 앱 순위와, 첫 탭부터 구독을 요구하는 화면이 줄줄이 나옵니다. 무언가를 설치하기 전에 아이폰에 이미 있는 기능부터 알아두면 실패가 없습니다. 흐리게 하고 싶은 대상에 맞춰 고를 수 있도록 솔직하게 비교합니다.",
+      "image": "/img/appstore/ko/03-face.webp",
+      "image_alt": "Faces 탭: 감지된 모든 얼굴이 흐리게 처리됨",
+      "native": {
+        "heading": "아이폰에 처음부터 있는 기능",
+        "paragraphs": [
+          "인물 사진 모드: 찍을 때만 배경 흐림, 나중에 「사진」에서 조절 가능. 마크업: 펜, 형광펜, 도형. 가리기만 하고 흐리게는 못 하며 형광펜은 반투명. 클린업(Apple Intelligence): 원치 않는 물체를 지우는 기능으로 iPhone 15 Pro 이상만. 블러나 모자이크 도구는 아닙니다.",
+          "어느 것도 일반 사진의 배경이나 직접 고른 부분을 흐리게 하지는 못합니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "MakeBlur로 할 수 있는 것",
+          "paragraphs": [
+            "Background: 피사체 자동 감지 배경 흐림. Faces: 모든 얼굴 한 번에 블러. Manual: 글자, 번호판, 원하는 부분을 칠하는 브러시. Full Photo: 사진 전체. 스타일은 Gaussian·Motion·Ghosting·Box·Pixelate·Hexagonal·Crystallize 7가지.",
+            "오프라인으로 작동하고 사진을 전송하지 않습니다. 무료 다운로드에 기본 배경 흐림이 포함되고, 고급 스타일은 선택형 앱 내 구입입니다."
+          ]
+        },
+        {
+          "heading": "블러 어플 고를 때 체크할 점",
+          "paragraphs": [
+            "기기 안에서 처리하는지(개인 사진을 서버로 보내지 않기), 피사체 자동 감지, 자유롭게 칠할 수 있는 브러시, 원본 해상도 저장, 그리고 결제 전에 써볼 수 있는 무료 버전이 있는지."
+          ]
+        }
+      ],
+      "steps_title": "앱 써보기",
+      "steps": [
+        {
+          "number": "1",
+          "title": "무료로 받기",
+          "description": "App Store에서. iOS 18.6 이상 아이폰 지원."
+        },
+        {
+          "number": "2",
+          "title": "사진 열기",
+          "description": "사진 보관함의 어떤 이미지든."
+        },
+        {
+          "number": "3",
+          "title": "탭 고르기",
+          "description": "흐리게 할 대상에 맞춰 Background·Faces·Manual·Full Photo."
+        },
+        {
+          "number": "4",
+          "title": "조절하고 저장",
+          "description": "스타일, Radius, Save."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "한 번만 세부를 가리면 된다면 먼저 마크업을 써보세요. 아이폰에 들어 있습니다.",
+        "개인정보 목적이라면 사진을 전송하지 않는 앱을 고르세요.",
+        "구매 전에 무료 기능으로 먼저 써보세요."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "아이폰에서 가장 추천하는 블러 어플은?",
+          "answer": "용도에 따라 다릅니다. 배경·얼굴·부분 블러를 오프라인 앱 하나로 해결하려면 MakeBlur. 인물 사진만이라면 「사진」 앱으로 충분합니다."
+        },
+        {
+          "question": "무료 블러 어플이 있나요?",
+          "answer": "MakeBlur는 무료로 받을 수 있고 기본 배경 흐림이 포함됩니다. 고급 기능은 선택입니다."
+        },
+        {
+          "question": "Apple Intelligence가 필요한가요?",
+          "answer": "아니요. iOS 18.6 이상 모든 아이폰에서 작동합니다."
+        }
+      ],
+      "related": [
+        "iphone-sajin-baegyeong-heurige.html",
+        "eolgul-mosaic.html",
+        "sajin-bubun-blur.html",
+        "blur-hyogwa-sajin.html"
+      ],
+      "cta_title": "배경·얼굴·세부를 앱 하나로",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받으세요: 모드 4개, 스타일 7개, 모두 아이폰 안에서.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "eolgul-mosaic.html",
+      "keyword": "얼굴 모자이크",
+      "cluster": "privacy",
+      "card_title": "사진 속 얼굴 모자이크·블러",
+      "card_excerpt": "아이, 친구, 지나가는 사람. 올리기 전에 탭 한 번으로 모든 얼굴을 흐리게. Apple Intelligence 필요 없음.",
+      "card_image": "/img/appstore/ko/03-face.webp",
+      "card_image_alt": "인물 사진 그리드에서 얼굴이 흐리게 처리됨",
+      "meta_title": "사진 얼굴 모자이크 하는 법｜아이폰에서 여러 명도 한 번에",
+      "meta_description": "SNS에 올리기 전에 사진 속 얼굴을 아이폰에서 모자이크·블러하는 방법. 앱이 얼굴을 자동으로 찾아 여러 명이어도 탭 한 번에 가립니다. Apple Intelligence가 필요 없고, 무료로 오프라인에서 작동합니다.",
+      "h1": "사진 속 얼굴 모자이크 하는 법 (아이폰)",
+      "answer": "사진 속 얼굴을 아이폰에서 가리려면 MakeBlur에서 사진을 열고 Faces(얼굴) 탭을 고르세요. 앱이 모든 얼굴을 감지해 한 번에 흐리게 합니다. 알아볼 수 없을 때까지 Radius를 올리거나, 모자이크로 하려면 Pixelate를 고른 뒤 Save를 누르세요. 한 명만 가리려면 Manual 탭에서 손가락으로 칠하면 됩니다.",
+      "intro": "얼굴을 가리는 이유는 다양합니다. 운동회나 발표회 사진 속 아이들, SNS에 나오기 싫은 친구, 여행 사진의 지나가는 사람. 초상권과 개인정보에 대한 인식이 높아지면서 올리기 전에 얼굴을 가리는 사람이 많아졌어요. 몇 초면 되는 방법을 소개합니다.",
+      "image": "/img/appstore/ko/03-face.webp",
+      "image_alt": "Faces 탭, Radius 80: 8명의 얼굴이 흐리게 처리됨",
+      "native": {
+        "heading": "아이폰 기본 기능으로 되는 것",
+        "paragraphs": [
+          "「사진」 앱에는 얼굴을 흐리게 하거나 모자이크하는 전용 기능이 없습니다. Apple Intelligence 지원 기기(iPhone 15 Pro 이상)의 클린업은 원치 않는 물체를 지우는 도구라서 얼굴을 가리는 용도에는 맞지 않아요.",
+          "남는 방법은 마크업의 도형이나 펜으로 얼굴을 칠하는 것인데, 결과가 아무래도 지저분해 보입니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "모두 가릴까, 한 명만 가릴까",
+          "paragraphs": [
+            "Faces는 사진 속 얼굴을 모두 찾아 흐리게 합니다. 단체 사진, 반 사진, 파티 사진에 딱이에요. 본인 등 누군가는 보이게 두고 싶다면 Manual로 가릴 얼굴만 칠하세요.",
+            "스크린샷 「공유 전에 얼굴 가리기」에서는 8명의 얼굴이 탭 한 번으로 흐려집니다."
+          ]
+        },
+        {
+          "heading": "블러냐 모자이크냐",
+          "paragraphs": [
+            "약한 블러는 잘 아는 사람이라면 누군지 알아볼 수도 있습니다. 확실히 가리려면 Radius를 높이거나 Pixelate로 모자이크하세요. SNS용으로 부드럽게 보이고 싶다면 강한 Gaussian을 추천합니다."
+          ]
+        }
+      ],
+      "steps_title": "앱에서 얼굴 가리는 단계",
+      "steps": [
+        {
+          "number": "1",
+          "title": "사진 열기",
+          "description": "가리고 싶은 사람이 찍힌 이미지를 고르세요."
+        },
+        {
+          "number": "2",
+          "title": "Faces 탭",
+          "description": "모든 얼굴이 감지되어 흐려집니다."
+        },
+        {
+          "number": "3",
+          "title": "강도 조절",
+          "description": "알아볼 수 없을 때까지 Radius를 올리거나 Pixelate를 고르세요."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "올리는 건 흐리게 처리한 사본. 원본이 아닙니다."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "배경의 작은 얼굴이나 유리에 비친 얼굴도 확인하세요. 빠졌다면 Manual로 추가하세요.",
+        "아이 사진이라면 이름표, 체육복 이름, 학교 마크도 함께 가리세요.",
+        "저장 후 확대해서 누구도 알아볼 수 없는지 확인하세요."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "Apple Intelligence 없이 얼굴을 가릴 수 있나요?",
+          "answer": "네. MakeBlur의 Faces 탭은 iOS 18.6 이상 모든 아이폰에서 됩니다. 한 명만이라면 Manual로."
+        },
+        {
+          "question": "가린 얼굴을 되돌릴 수 있나요?",
+          "answer": "강하게 처리해 저장한 사본에서는 되돌릴 수 없습니다. 세부가 사라지기 때문이에요. 그래서 원본은 절대 올리지 마세요."
+        },
+        {
+          "question": "영상통화 캡처에도 되나요?",
+          "answer": "네. Faces는 캡처 속 얼굴도 감지합니다."
+        }
+      ],
+      "related": [
+        "sajin-bubun-blur.html",
+        "sajin-mosaic-iphone.html",
+        "beonhopan-garigi.html",
+        "blur-app-iphone.html"
+      ],
+      "cta_title": "올리기 전에 얼굴을 지키세요",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 Faces를 고르고 저장. 무료, 아이폰 안에서만, 업로드 없음.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "sajin-bubun-blur.html",
+      "keyword": "사진 일부 블러",
+      "cluster": "privacy",
+      "card_title": "사진 일부만 블러 처리하기",
+      "card_excerpt": "주소, 번호, 인파 속 누군가. 손가락으로 칠한 부분만 흐리게.",
+      "card_image": "/img/appstore/ko/05-crystalize.webp",
+      "card_image_alt": "브러시로 사진 일부를 흐리게 한 예",
+      "meta_title": "사진 일부만 블러 처리하는 법｜아이폰에서 손가락으로",
+      "meta_description": "아이폰에서 사진의 일부만 블러 처리하는 방법. 가리고 싶은 곳을 손가락으로 칠하고 Gaussian이나 Pixelate를 고르면 끝. 글자, 번호, 사람, 찍힌 물건 등 원하는 부분만 깔끔하게 흐리게 할 수 있어요. 무료입니다.",
+      "h1": "사진 일부만 블러 처리하는 법 (아이폰)",
+      "answer": "사진의 일부만 아이폰에서 흐리게 하려면 MakeBlur에서 사진을 열고 Manual(브러시) 탭을 고른 뒤, 가리고 싶은 부분을 손가락으로 칠하세요. 칠한 곳만 흐려집니다. 부드럽게는 Gaussian, 개인정보 보호에는 Pixelate를 고르고 Radius를 조절해 Save를 누르세요.",
+      "intro": "배경도 얼굴도 아니고, 특정 부분만 가리고 싶을 때가 있습니다. 집 호수, 사원증, 책상 위 서류, 인파 속 누군가. 「사진」 앱에는 블러 브러시가 없으니 그걸 해줄 도구가 필요합니다. 방법을 알려드릴게요.",
+      "image": "/img/appstore/ko/05-crystalize.webp",
+      "image_alt": "사진 일부에 모자이크 적용",
+      "native": {
+        "heading": "아이폰 기본 기능으로 되는 것",
+        "paragraphs": [
+          "마크업으로 도형이나 펜을 써서 칠할 수는 있습니다. 가려지긴 하지만 덧붙인 티가 납니다. 클린업(Apple Intelligence 전용)은 흐리게 하는 게 아니라 지우는 기능이고, 배경을 어색하게 채울 때도 있어요. 제대로 된 블러 브러시는 「사진」 앱에 없습니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "잘 칠하는 요령",
+          "paragraphs": [
+            "칠하기 전에 두 손가락으로 확대하면 브러시가 손가락을 정확히 따라옵니다. 특히 글자는 주변에 여백을 조금 두고 칠하세요. 실수해도 다시 하면 됩니다. 저장하기 전까지 원본은 바뀌지 않아요."
+          ]
+        },
+        {
+          "heading": "스타일 고르기",
+          "paragraphs": [
+            "Gaussian: 부드럽고 티가 덜 나서 쓰레기통이나 간판 같은 미관 정리에. Pixelate나 Box에 Radius 높게: 진짜 가려야 할 정보에. Crystallize나 Hexagonal: 일부러 효과를 보여주고 싶은 디자인적 표현에."
+          ]
+        }
+      ],
+      "steps_title": "앱에서 부분 블러하는 단계",
+      "steps": [
+        {
+          "number": "1",
+          "title": "사진 열기",
+          "description": "MakeBlur에서 이미지를 고릅니다."
+        },
+        {
+          "number": "2",
+          "title": "Manual 탭",
+          "description": "확대해서 가릴 부분을 손가락으로 칠합니다."
+        },
+        {
+          "number": "3",
+          "title": "스타일과 Radius",
+          "description": "티 안 나게는 Gaussian, 가리려면 Pixelate."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "부분 블러된 사본이 「사진」에 저장됩니다."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "탭은 함께 쓸 수 있어요. Background로 배경을 흐린 뒤 Manual로 세부를.",
+        "글자는 반드시 강하게. 큰 글자는 약한 블러로는 읽힙니다.",
+        "거울이나 유리에 가린 것이 비치지 않는지 확인하세요."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "한 사진에서 여러 곳을 흐리게 할 수 있나요?",
+          "answer": "네. Manual로 저장 전에 원하는 만큼 칠할 수 있습니다."
+        },
+        {
+          "question": "캡처에도 되나요?",
+          "answer": "네. 캡처도 일반 사진처럼 열립니다."
+        },
+        {
+          "question": "흐리지 않은 부분의 화질이 떨어지나요?",
+          "answer": "아니요. 나머지는 원본과 똑같습니다."
+        }
+      ],
+      "related": [
+        "capture-mosaic-iphone.html",
+        "beonhopan-garigi.html",
+        "sajin-mosaic-iphone.html",
+        "eolgul-mosaic.html"
+      ],
+      "cta_title": "흐리게 하고 싶은 곳만",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 Manual로 칠하기만 하세요. 무료, 아이폰 안에서.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "beonhopan-garigi.html",
+      "keyword": "번호판 가리기",
+      "cluster": "privacy",
+      "card_title": "사진 속 자동차 번호판 가리기",
+      "card_excerpt": "엔카, 케이카, 당근마켓, SNS에. 번호는 안 보이고 사진은 깔끔하게.",
+      "card_image": "/img/appstore/ko/05-crystalize.webp",
+      "card_image_alt": "모자이크로 가린 번호판",
+      "meta_title": "사진 속 번호판 가리기｜아이폰에서 무료로 모자이크",
+      "meta_description": "자동차·오토바이 사진의 번호판을 아이폰에서 가리는 방법. 엔카나 당근마켓에 올리기 전, SNS에 자랑하기 전에 칠하고 모자이크해서 저장만 하면 됩니다. 무료이고, 사진을 인터넷으로 보내지 않고 기기 안에서 끝나요.",
+      "h1": "사진 속 자동차 번호판 가리는 법 (아이폰)",
+      "answer": "사진 속 번호판을 가리려면 MakeBlur에서 사진을 열고 Manual 탭을 고른 뒤, 번호판을 손가락으로 칠하고 스타일을 Pixelate나 Box로 해서 어떤 글자도 읽히지 않을 때까지 Radius를 올리세요. Save를 누르고 그 사본을 판매글이나 게시물에 쓰면 됩니다.",
+      "intro": "엔카, 케이카, 당근마켓에 차나 오토바이를 팔 때, 또는 인스타에 애마를 자랑할 때 번호판을 가리는 사람이 많습니다. 의무는 아니지만 번호로 개인이 특정되거나 악용되는 걸 막으려고 예방 차원에서 가리는 게 일반적이에요. 그래도 검은 네모는 너무 대충 한 티가 납니다. 깔끔한 모자이크라면 둘 다 잡을 수 있어요.",
+      "image": "/img/appstore/ko/05-crystalize.webp",
+      "image_alt": "앱에서 사진 일부에 모자이크",
+      "native": {
+        "heading": "「사진」 앱으로 되는 것",
+        "paragraphs": [
+          "마크업으로 도형을 올리거나 펜으로 칠하면 번호판은 가려지지만 흔적이 눈에 띕니다. 반투명 형광펜은 글자가 비쳐 보이기도 해요. 기본 편집 기능으로는 특정 부분을 흐리게 하거나 모자이크할 수 없습니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "모자이크냐 블러냐",
+          "paragraphs": [
+            "번호판에는 Radius를 높인 Pixelate나 Box가 가장 확실합니다. 큰 블록이 글자를 지워요. 약한 Gaussian은 특히 고해상도 사진에서 숫자가 짐작될 수 있습니다.",
+            "Crystallize로도 가려지지만 장식적으로 보이니, 판매 사진에는 무난한 모자이크가 낫습니다."
+          ]
+        },
+        {
+          "heading": "사진이 많을 때",
+          "paragraphs": [
+            "판매글 사진은 10~20장인 경우가 많고, 번호판이 찍힌 건 그중 3~4장 정도입니다. 한 장씩 열기, Manual, 칠하기, Save로 각각 30초 정도면 돼요. 쇼윈도나 실내 사진의 창문 너머로 번호판이 비치지 않는지도 확인하세요."
+          ]
+        }
+      ],
+      "steps_title": "앱에서 번호판 가리는 단계",
+      "steps": [
+        {
+          "number": "1",
+          "title": "차 사진 열기",
+          "description": "번호판이 찍힌 사진을 고르세요."
+        },
+        {
+          "number": "2",
+          "title": "Manual 탭",
+          "description": "확대해서 번호판을 여백 있게 칠합니다."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate와 Radius",
+          "description": "확대해도 글자가 안 읽힐 때까지 강하게."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "저장한 사본을 판매글에 올리세요."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "글자만이 아니라 번호판 전체를 가리세요. 지역 표시나 한글 한 글자도 정보가 됩니다.",
+        "자동차는 앞뒤 모두 번호판이 있어요(오토바이는 뒤만).",
+        "자동차등록증이나 차대번호가 찍혔다면 똑같이 가리세요."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "판매 사진의 번호판은 꼭 가려야 하나요?",
+          "answer": "법적 의무는 아니지만 악용을 막으려고 가리는 판매자가 많습니다. 판단은 직접 하세요. 법률 자문이 아닙니다."
+        },
+        {
+          "question": "모자이크한 번호판을 복원할 수 있나요?",
+          "answer": "큰 블록이라면 복원할 수 없습니다. 저장한 사본에서 세부가 사라지기 때문이에요. 원본은 공개하지 마세요."
+        },
+        {
+          "question": "사진이 어딘가로 전송되나요?",
+          "answer": "아니요. 모두 아이폰 안에서 인터넷 없이 처리됩니다."
+        }
+      ],
+      "related": [
+        "sajin-bubun-blur.html",
+        "sajin-mosaic-iphone.html",
+        "capture-mosaic-iphone.html",
+        "eolgul-mosaic.html"
+      ],
+      "cta_title": "번호는 가리고 사진은 깔끔하게",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 Manual로 번호판을 칠하고 저장. 무료, 아이폰만으로.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "capture-mosaic-iphone.html",
+      "keyword": "캡처 모자이크",
+      "cluster": "privacy",
+      "card_title": "캡처 화면 모자이크 하기",
+      "card_excerpt": "카톡 대화, 주소, 계좌번호. 공유 전에 캡처 속 글자를 안 보이게.",
+      "card_image": "/img/appstore/ko/05-crystalize.webp",
+      "card_image_alt": "캡처 속 글자를 모자이크한 예",
+      "meta_title": "캡처 모자이크 하는 법｜아이폰에서 안전하게 가리기",
+      "meta_description": "아이폰 캡처 화면에 찍힌 이름, 전화번호, 주소, 카톡 대화를 모자이크한 뒤 공유하는 방법. 반투명 형광펜과 달리 밝기를 바꿔도 글자가 비치지 않아요. 무료이고 업로드도 없습니다. 사진은 업로드되지 않습니다.",
+      "h1": "캡처 화면 모자이크 하는 법 (아이폰)",
+      "answer": "캡처를 모자이크하려면 MakeBlur에서 캡처를 열고 Manual 탭을 고른 뒤, 가리고 싶은 줄(이름, 번호, 주소, 메시지)을 손가락으로 칠하고 Pixelate를 골라 Radius를 올리세요. Save를 누르고 사본을 공유합니다. 보내기 전에 확대해서 아무것도 읽히지 않는지 확인하세요.",
+      "intro": "캡처는 매일같이 공유합니다. 상담하려고 보내는 카톡 대화, 주문 내역, 송금 완료 화면, 앱 오류. 거기엔 대개 이름, 전화번호, 주소, 각종 번호가 찍혀 있어요. 가리는 건 쉽지만 방법을 잘못 고르면 글자가 읽힐 수 있습니다.",
+      "image": "/img/appstore/ko/05-crystalize.webp",
+      "image_alt": "모자이크로 내용을 읽을 수 없게 된 영역",
+      "native": {
+        "heading": "마크업의 한계",
+        "paragraphs": [
+          "마크업의 형광펜은 반투명이라 대비나 밝기를 올리면 아래 글자가 드러날 수 있습니다. 불투명 펜으로 여러 번 덧칠하면 안전하지만, 꽉 채운 네모는 보기 좋지 않아요. 영역에 모자이크를 거는 기능은 없습니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "약한 블러 말고 모자이크로",
+          "paragraphs": [
+            "흰 바탕의 검은 글자는 약한 블러로는 모양만으로 읽힙니다. Pixelate에 Radius를 높이면 글자 하나하나가 블록이 되어 내용이 사라져요. 캡처에서는 모자이크가 가장 잘 전달되기도 합니다. 받는 사람도 일부러 가렸다는 걸 바로 알아요."
+          ]
+        },
+        {
+          "heading": "자주 가리는 정보",
+          "paragraphs": [
+            "대화 화면: 상대 이름과 프로필 사진, 전화번호. 주문: 주소, 이메일, 주문번호. 은행: 계좌번호, 잔액, 받는 사람 이름. 서류: 주민등록번호와 서명."
+          ]
+        }
+      ],
+      "steps_title": "앱에서 캡처 모자이크하는 단계",
+      "steps": [
+        {
+          "number": "1",
+          "title": "캡처 열기",
+          "description": "사진 보관함의 「스크린샷」 앨범에 있습니다."
+        },
+        {
+          "number": "2",
+          "title": "Manual 탭",
+          "description": "가릴 줄을 여백 있게 칠합니다."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate",
+          "description": "확대해도 읽히지 않을 때까지 Radius를 올립니다."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "공유하는 건 사본. 원본 캡처가 아닙니다."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "화면 위쪽도 잊지 마세요. 알림 미리보기나 상대 이름이 자주 찍힙니다.",
+        "번호 일부가 아니라 줄 전체를 가리세요.",
+        "저장했다면 필요 없는 원본 캡처는 지워두면 안심입니다."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "마크업 형광펜으로 가리면 안전한가요?",
+          "answer": "완전하지 않습니다. 반투명이라 밝기를 바꾸면 글자가 보일 수 있어요. 모자이크나 불투명 도형을 쓰세요."
+        },
+        {
+          "question": "모자이크한 글자를 복원할 수 있나요?",
+          "answer": "큰 블록이라면 안 됩니다. 약한 모자이크에 글자가 크면 추측될 수 있으니 강하게 하세요."
+        },
+        {
+          "question": "전체 페이지 캡처에도 되나요?",
+          "answer": "사진 보관함의 이미지라면 됩니다. PDF로 저장된 전체 페이지 캡처는 먼저 이미지로 저장하세요."
+        }
+      ],
+      "related": [
+        "sajin-bubun-blur.html",
+        "sajin-mosaic-iphone.html",
+        "beonhopan-garigi.html",
+        "eolgul-mosaic.html"
+      ],
+      "cta_title": "안심하고 공유하는 캡처",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 Manual로 글자를 칠하고 모자이크. 무료, 오프라인.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "sajin-mosaic-iphone.html",
+      "keyword": "사진 모자이크 아이폰",
+      "cluster": "privacy",
+      "card_title": "아이폰에서 사진 모자이크 하기",
+      "card_excerpt": "얼굴, 글자, 배경을 모자이크로. Pixelate·Hexagonal·Crystallize 차이까지.",
+      "card_image": "/img/appstore/ko/05-crystalize.webp",
+      "card_image_alt": "Crystallize로 배경을 모자이크한 예",
+      "meta_title": "아이폰 사진 모자이크 하는 법｜얼굴·글자·배경에",
+      "meta_description": "아이폰에서 사진을 모자이크하는 방법. 사진 전체, 배경만, 얼굴, 지정한 부분에 Pixelate·Hexagonal·Crystallize 세 가지 중 골라 적용할 수 있어요. 기기 안에서 처리되고 무료로 쓸 수 있습니다.",
+      "h1": "아이폰에서 사진 모자이크 하는 법",
+      "answer": "아이폰에서 사진을 모자이크하려면 MakeBlur에서 사진을 열고, 적용할 곳(얼굴은 Faces, 부분은 Manual, 배경은 Background, 전체는 Full Photo)을 고른 다음 Pixelate 스타일을 선택하고 Radius로 블록 크기를 조절하세요. Save로 모자이크한 사본을 저장합니다.",
+      "intro": "한국에서 사진 일부를 가리는 편집이라면 단연 「모자이크」입니다. 얼굴이나 개인정보를 가리는 기본 방법이면서, 요즘은 디자인으로서의 모자이크 표현도 인기예요. 아이폰 「사진」 앱에는 모자이크 기능이 없습니다. 원하는 곳에 거는 방법을 소개합니다.",
+      "image": "/img/appstore/ko/05-crystalize.webp",
+      "image_alt": "배경에 Crystallize 스타일: 크리스털 모양 모자이크",
+      "native": {
+        "heading": "아이폰 기본 기능으로 되는 것",
+        "paragraphs": [
+          "「사진」 앱에는 모자이크 필터가 없습니다. 마크업은 덮기만 할 수 있고, 클린업(iPhone 15 Pro 이상)은 지우는 기능입니다. 글자나 배경, 사진 전체에 모자이크를 걸려면 앱이 필요합니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "모자이크 3가지",
+          "paragraphs": [
+            "Pixelate: 익숙한 네모 모자이크. 개인정보 보호엔 가장 확실. Hexagonal: 육각형 셀로 조금 더 모던. Crystallize: 불규칙한 크리스털로 아트 느낌. 스크린샷 「탭 한 번으로 모자이크」에서는 배경이 크리스털이 되고 여성은 선명하게 남아 있습니다."
+          ]
+        },
+        {
+          "heading": "가리기용이냐 보여주기용이냐",
+          "paragraphs": [
+            "가리려면: Faces나 Manual에 큰 블록 Pixelate. 디자인으로 쓰려면: Background에 Crystallize나 Hexagonal을 걸면 모자이크 배경 위로 인물이 떠오릅니다."
+          ]
+        }
+      ],
+      "steps_title": "앱에서 모자이크하는 단계",
+      "steps": [
+        {
+          "number": "1",
+          "title": "사진 열기",
+          "description": "어떤 이미지나 캡처든."
+        },
+        {
+          "number": "2",
+          "title": "탭 고르기",
+          "description": "Faces, Manual, Background, Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate 스타일",
+          "description": "또는 Hexagonal·Crystallize. Radius로 블록 크기 조절."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "모자이크한 사본 저장."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "블록이 클수록 개인정보 보호가 확실합니다.",
+        "감성 게시물엔 피사체는 선명하게 두고 배경에 Crystallize를.",
+        "확대해서 작은 글자나 세부가 완전히 사라졌는지 확인하세요."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "모자이크와 블러, 뭘로 가려야 하나요?",
+          "answer": "확실히 가리려면 모자이크(큰 블록). 부드럽게 보이고 싶다면 블러(Gaussian)가 어울립니다."
+        },
+        {
+          "question": "배경에만 모자이크할 수 있나요?",
+          "answer": "네. Background 탭에서 Pixelate나 Crystallize를 고르면 피사체는 선명하게 남습니다."
+        },
+        {
+          "question": "사진 개인정보는 안전한가요?",
+          "answer": "네. 처리는 아이폰 안에서 이뤄지고 인터넷도 필요 없습니다."
+        }
+      ],
+      "related": [
+        "eolgul-mosaic.html",
+        "capture-mosaic-iphone.html",
+        "beonhopan-garigi.html",
+        "blur-hyogwa-sajin.html"
+      ],
+      "cta_title": "원하는 곳에 모자이크",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받으세요: 모든 모드에서 Pixelate·Hexagonal·Crystallize. 무료 다운로드.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "motion-blur-sajin.html",
+      "keyword": "모션 블러 사진",
+      "cluster": "effects",
+      "card_title": "사진에 모션 블러 주기",
+      "card_excerpt": "배경엔 흐르는 움직임, 피사체는 선명하게. Radius와 Angle로 속도감 연출.",
+      "card_image": "/img/appstore/ko/02-motion.webp",
+      "card_image_alt": "선글라스 여성 뒤 배경에 모션 블러",
+      "meta_title": "사진에 모션 블러 주는 법｜아이폰에서 4단계로 간단히",
+      "meta_description": "아이폰에서 사진에 모션 블러(움직임 흐림)를 주는 방법. 배경만 흐르게 하고 피사체는 선명하게, 흐름의 길이와 방향도 자유롭게 조절할 수 있어요. 이미 찍은 사진에 쓸 수 있고, 무료로 기기 안에서 처리됩니다.",
+      "h1": "사진에 모션 블러 주는 법 (아이폰)",
+      "answer": "아이폰에서 사진에 모션 블러를 주려면 MakeBlur에서 사진을 열고, 피사체가 선명하게 남도록 Background 탭 그대로 Motion 스타일을 고르세요. Radius로 흐름의 길이, Angle로 방향을 정하고 Save를 누릅니다. 배경이 움직이는 듯 보이고 인물은 멈춘 채 초점이 맞아 있습니다.",
+      "intro": "모션 블러는 어떤 사진에든 속도감을 줍니다. 자전거, 자동차, 춤추는 사람, 또는 약간의 역동성을 원하는 인물 사진까지. 카메라로는 느린 셔터와 패닝 샷으로 표현하지만, 아이폰에서는 찍은 후에 방향과 강도를 골라 더할 수 있습니다.",
+      "image": "/img/appstore/ko/02-motion.webp",
+      "image_alt": "Motion 스타일, Radius 65: 배경은 흐르고 피사체는 선명",
+      "native": {
+        "heading": "아이폰 기본 기능으로 되는 것",
+        "paragraphs": [
+          "Live Photo에는 여러 프레임을 겹쳐 흐름을 만드는 「장노출」 효과가 있습니다. 하지만 찍는 동안 실제로 움직인 것만 흐르고, 원하는 배경을 골라 흐르게 할 수는 없어요. 일반 사진에 움직임 흐림을 더하는 기능은 「사진」 앱에 없습니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Radius와 Angle",
+          "paragraphs": [
+            "Radius는 흐름의 길이. 낮으면 은은한 움직임, 높으면 속도감. Angle은 방향으로, 차나 달리는 사람은 수평, 점프나 다이빙은 대각선, 비나 낙하는 수직이 어울립니다. 스크린샷 「액션 사진에 모션 블러」는 Radius 65입니다."
+          ]
+        },
+        {
+          "heading": "배경만, 아니면 사진 전체",
+          "paragraphs": [
+            "Background면 배경만 흐르는 대표적인 패닝 샷 느낌. Full Photo면 사진 전체가 흘러 앨범 커버, 추상적인 배경화면, 몽환적인 분위기에 좋습니다."
+          ]
+        }
+      ],
+      "steps_title": "앱에서 모션 블러 주는 단계",
+      "steps": [
+        {
+          "number": "1",
+          "title": "사진 열기",
+          "description": "피사체와 배경이 뚜렷하게 나뉜 사진이 좋아요."
+        },
+        {
+          "number": "2",
+          "title": "Background 탭",
+          "description": "피사체는 멈춘 채 선명하게 남습니다."
+        },
+        {
+          "number": "3",
+          "title": "Motion 스타일",
+          "description": "Radius로 길이, Angle로 방향."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "효과를 준 사본 저장."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "피사체가 움직이는 방향에 Angle을 맞추면 자연스러워요.",
+        "도시 야경 불빛이 있는 배경은 흐름이 빛의 띠가 되어 인상적입니다.",
+        "인물 사진에선 과하지 않게. 중간 Radius면 충분히 역동적이에요."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "모션 블러란?",
+          "answer": "움직임으로 생기는 흔들림을 표현하는 흐림으로, 피사체나 배경이 움직이는 것처럼 보이게 하는 효과입니다."
+        },
+        {
+          "question": "움직임 방향을 고를 수 있나요?",
+          "answer": "네. Motion 스타일의 Angle 슬라이더로 고릅니다."
+        },
+        {
+          "question": "이미 찍은 사진에도 되나요?",
+          "answer": "네. Live Photo가 아니어도 사진 보관함의 모든 사진에 됩니다."
+        }
+      ],
+      "related": [
+        "blur-hyogwa-sajin.html",
+        "iphone-sajin-baegyeong-heurige.html",
+        "outfocusing-iphone.html",
+        "gaussian-blur-iphone.html"
+      ],
+      "cta_title": "어떤 사진이든 속도감 있게",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 Motion을 고르고 Angle을 조절하세요. 무료, 아이폰 안에서.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "outfocusing-iphone.html",
+      "keyword": "아웃포커싱 아이폰",
+      "cluster": "effects",
+      "card_title": "아이폰 아웃포커싱, 찍은 후에도",
+      "card_excerpt": "피사체만 선명하고 배경은 부드럽게, 빛망울(보케)까지. Gaussian과 Ghosting 활용법.",
+      "card_image": "/img/appstore/ko/06-ghost.webp",
+      "card_image_alt": "부드러운 보케 느낌의 인물 사진",
+      "meta_title": "아이폰 아웃포커싱｜이미 찍은 사진도 배경 날리기",
+      "meta_description": "이미 찍은 사진을 아이폰에서 아웃포커싱하는 방법. 피사체는 선명하게, 배경은 부드럽게 날리고 빛망울(보케)까지. Gaussian과 Ghosting 쓰는 법과 보케가 예쁘게 나오는 사진 고르는 법을 알려드려요. 무료, 오프라인.",
+      "h1": "아이폰 아웃포커싱 — 이미 찍은 사진도",
+      "answer": "이미 찍은 사진을 아웃포커싱하려면 MakeBlur에서 사진을 열고, Background 탭 그대로 Gaussian을 골라 배경이 부드러워지고 빛이 동그랗게 번질 때까지 Radius를 올리세요. 사진 전체를 몽환적으로 만들고 싶다면 Full Photo 탭에서 Ghosting을. 마지막으로 Save를 누릅니다.",
+      "intro": "아웃포커싱은 피사체에만 초점을 맞추고 배경을 흐리게 날린 사진을 가리키는 말로, 한국에서 특히 많이 쓰입니다. 영어권에서는 그 흐린 부분의 아름다움, 빛이 둥글게 번지는 모습을 보케(bokeh)라고 부르죠. 밝은 렌즈만의 표현이고, 인물 사진 모드가 촬영 시 이를 흉내 냅니다. 가지고 있는 사진으로 그 느낌에 가까워지는 방법입니다.",
+      "image": "/img/appstore/ko/06-ghost.webp",
+      "image_alt": "Full Photo 탭과 Ghosting 스타일, Radius 79",
+      "native": {
+        "heading": "인물 사진 모드의 아웃포커싱",
+        "paragraphs": [
+          "인물 사진 모드는 촬영 시 아웃포커싱을 재현하고, 「사진」→「편집」에서 조리개 값(f값)을 바꿀 수 있습니다. 단, 인물 사진 모드로 찍은 사진만 해당돼요. 다른 사진에는 「사진」 앱으로 아웃포커싱을 줄 방법이 없습니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian이냐 Ghosting이냐",
+          "paragraphs": [
+            "Background에 Gaussian: 피사체 선명, 배경 부드러운 정통 아웃포커싱. 밤거리 불빛이나 조명에서 특히 예쁩니다. Full Photo에 Ghosting: 사진 전체에 부드러운 이중 번짐. 스크린샷 「부드러운 보케 감성」(Radius 79)이 이 예입니다."
+          ]
+        },
+        {
+          "heading": "아웃포커싱이 잘 사는 사진",
+          "paragraphs": [
+            "배경에 빛 점이 있고, 색이 선명하며, 피사체와 배경 사이에 거리가 있는 사진. 흰 벽 앞에서는 빛망울이 거의 안 보이니 약한 흐림으로 충분합니다."
+          ]
+        }
+      ],
+      "steps_title": "앱에서 아웃포커싱하는 단계",
+      "steps": [
+        {
+          "number": "1",
+          "title": "사진 열기",
+          "description": "배경에 빛이 있는 사진이 이상적."
+        },
+        {
+          "number": "2",
+          "title": "Background + Gaussian",
+          "description": "피사체는 선명하게 유지."
+        },
+        {
+          "number": "3",
+          "title": "Radius",
+          "description": "빛이 부드러운 원이 될 때까지 올립니다."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "사본 저장."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "밤에 찍은 사진이 가장 예쁜 빛망울을 만듭니다.",
+        "앨범 커버나 배경화면엔 Full Photo의 Ghosting을 써보세요.",
+        "저장 전 머리카락 테두리를 확대해 확인하세요."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "아웃포커싱과 보케는 같은 건가요?",
+          "answer": "비슷하지만 아웃포커싱은 배경을 흐리게 날린 사진 자체를, 보케는 그 흐린 부분(특히 빛망울)의 모양과 느낌을 말합니다."
+        },
+        {
+          "question": "인물 사진 모드가 필요한가요?",
+          "answer": "아니요. 앱은 이미 찍은 어떤 사진에도 효과를 줄 수 있습니다."
+        },
+        {
+          "question": "가우시안 블러와 차이는?",
+          "answer": "가우시안 블러는 흐림의 방식이고, 아웃포커싱은 그걸로 만든 결과입니다."
+        }
+      ],
+      "related": [
+        "gaussian-blur-iphone.html",
+        "sajin-baegyeong-blur.html",
+        "iphone-sajin-baegyeong-heurige.html",
+        "motion-blur-sajin.html"
+      ],
+      "cta_title": "어떤 사진이든 아웃포커싱",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 Gaussian이나 Ghosting을 고르고 저장. 무료, 업로드 없음.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "gaussian-blur-iphone.html",
+      "keyword": "가우시안 블러",
+      "cluster": "effects",
+      "card_title": "아이폰에서 가우시안 블러 주기",
+      "card_excerpt": "가우시안 블러란? 언제 쓰고, 배경·얼굴·사진 전체에 어떻게 적용하는지.",
+      "card_image": "/img/appstore/ko/04-box.webp",
+      "card_image_alt": "부드럽게 흐린 배경",
+      "meta_title": "가우시안 블러란? 아이폰에서 사진에 적용하는 법",
+      "meta_description": "가우시안 블러가 무엇인지, 아이폰에서 배경·얼굴·사진 전체에 적용하는 방법을 설명합니다. Box, Motion과의 차이, 용도별 추천 강도도 정리했어요. 이미 찍은 사진에 무료로 쓸 수 있고 처리는 기기 안에서 끝납니다.",
+      "h1": "가우시안 블러란? 아이폰에서 적용하는 법",
+      "answer": "가우시안 블러는 초점이 나간 렌즈처럼 고르고 매끄러운 흐림입니다. 아이폰에서는 MakeBlur로 사진을 열고 적용할 곳(배경은 Background, 얼굴은 Faces, 부분은 Manual, 전체는 Full Photo)을 고른 뒤 Gaussian 스타일로 Radius를 조절하고 Save를 누르세요.",
+      "intro": "포토샵 같은 PC 편집 프로그램을 써봤다면 「가우시안 흐림 효과」 필터를 본 적이 있을 거예요. 이름은 가우스 분포에서 왔습니다. 각 픽셀이 주변 픽셀과 섞이는데, 가까울수록 강하게, 멀수록 약하게 영향을 받아요. 결과는 딱딱한 테두리 없는 자연스럽고 부드러운 흐림입니다. 언제 쓰는지와 아이폰에서 적용하는 법을 알려드립니다.",
+      "image": "/img/appstore/ko/04-box.webp",
+      "image_alt": "선명한 인물 뒤로 부드러워진 배경",
+      "native": {
+        "heading": "아이폰 기본 기능으로 되는 것",
+        "paragraphs": [
+          "「사진」 앱에는 가우시안 블러 필터가 없습니다. 「조절」의 선명도나 정의는 이미지 전체를 조금 강하게 하거나 약하게 할 뿐, 진짜 흐림이 아닙니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian·Box·Motion 차이",
+          "paragraphs": [
+            "Gaussian: 부드럽고 자연스러움. 인물과 배경에. Box: 균일한 평균으로 조금 납작함. 상품 사진이나 가릴 때. Motion: 한 방향 흐림으로 움직임 표현.",
+            "개인정보 목적으로 가우시안 블러를 쓴다면 강하게. 약하면 형태나 글자가 짐작됩니다."
+          ]
+        },
+        {
+          "heading": "Radius 기준",
+          "paragraphs": [
+            "자연스러운 인물 사진은 낮게, SNS 게시물과 스토리는 중간, 추상적인 배경이나 가리기 용도는 높게. 꼭 확대해서 확인하세요."
+          ]
+        }
+      ],
+      "steps_title": "가우시안 블러 적용 단계",
+      "steps": [
+        {
+          "number": "1",
+          "title": "사진 열기",
+          "description": "MakeBlur에서."
+        },
+        {
+          "number": "2",
+          "title": "모드 고르기",
+          "description": "Background, Faces, Manual, Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Gaussian 스타일",
+          "description": "Radius 조절."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "사본 저장."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "Background에 가우시안 블러를 주는 것이 인물 사진 모드와 가장 비슷한 결과입니다.",
+        "Full Photo에 강하게 주면 스토리 글자 배경으로 딱이에요.",
+        "개인정보를 가릴 땐 Pixelate가 더 확실합니다."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "왜 「가우시안」이라고 하나요?",
+          "answer": "픽셀을 섞는 가중치가 가우스 분포(정규분포) 곡선을 따르기 때문입니다."
+        },
+        {
+          "question": "Box 블러보다 좋은가요?",
+          "answer": "Gaussian은 더 부드럽고 자연스럽고, Box는 더 균일합니다. 원하는 결과에 따라 다릅니다."
+        },
+        {
+          "question": "배경에만 적용할 수 있나요?",
+          "answer": "네. Background 탭이면 피사체는 선명하게 남습니다."
+        }
+      ],
+      "related": [
+        "outfocusing-iphone.html",
+        "motion-blur-sajin.html",
+        "iphone-sajin-baegyeong-heurige.html",
+        "blur-hyogwa-sajin.html"
+      ],
+      "cta_title": "가우시안 블러를 탭 한 번에",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받으세요: 모든 모드에서 Gaussian, 기기 안에서 처리. 무료 다운로드.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "sajin-heurige-iphone.html",
+      "keyword": "사진 흐리게",
+      "cluster": "photo",
+      "card_title": "사진 전체를 흐리게 하기",
+      "card_excerpt": "배경화면, 스토리 배경, 감성 이미지로. 아이폰에서도 온라인에서도.",
+      "card_image": "/img/appstore/ko/06-ghost.webp",
+      "card_image_alt": "Ghosting으로 사진 전체를 흐리게 한 예",
+      "meta_title": "사진 흐리게 하는 법｜아이폰에서 사진 전체를 몇 초 만에",
+      "meta_description": "아이폰에서 사진 전체를 흐리게 하는 방법. 배경화면, 스토리 배경, 감성 이미지로 쓰기 좋아요. Gaussian·Motion·Ghosting 쓰는 법과, 설치 없이 쓰는 온라인 에디터라는 선택지도 함께 소개합니다.",
+      "h1": "사진 전체를 흐리게 하는 법 (아이폰)",
+      "answer": "사진 전체를 흐리게 하려면 MakeBlur에서 사진을 열고 Full Photo(사진 전체) 탭을 고른 뒤, 부드럽게는 Gaussian, 역동적으로는 Motion, 몽환적으로는 Ghosting을 골라 Radius를 올리고 Save를 누르세요. 설치 없이 하려면 이 사이트의 온라인 에디터로도 사진 전체를 흐리게 할 수 있습니다.",
+      "intro": "인물 뒤 배경이 아니라 사진 전체를 흐리게 하고 싶을 때도 있습니다. 잠금화면 배경화면, 스토리 글자 배경, 추상적인 앨범 커버, 본 게시물 전 살짝 보여주는 티저. 피사체를 인식할 필요가 없는 가장 단순한 흐림입니다.",
+      "image": "/img/appstore/ko/06-ghost.webp",
+      "image_alt": "Full Photo 탭과 Ghosting 스타일, Radius 79",
+      "native": {
+        "heading": "「사진」 앱으로 사진을 흐리게 할 수 있나요?",
+        "paragraphs": [
+          "안 됩니다. 「사진」 앱의 필터에도 조절에도 흐림은 없어요. iOS 잠금화면은 위젯 아래 배경화면을 흐리게 할 수 있지만, 그건 시스템 표시 효과일 뿐 공유할 수 있는 새 이미지가 아닙니다."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "스타일 고르기",
+          "paragraphs": [
+            "Gaussian: 고른 부드러움, 글자 배경에 최적. Motion: 속도감, 스포츠 커버에. Ghosting: 이중으로 번지는 몽환적 효과. 스크린샷 「부드러운 보케 감성」(Radius 79)이 이것입니다. Pixelate나 Crystallize: 추상적인 모자이크."
+          ]
+        },
+        {
+          "heading": "온라인이라는 선택지",
+          "paragraphs": [
+            "이 사이트에는 무료 온라인 에디터가 있습니다. 사진을 올리고 Gaussian·Pixel·Motion을 골라 PNG로 저장할 수 있어요. 흐리게 할 수 있는 건 사진 전체뿐이고, 배경이나 얼굴만 골라 흐리게 하려면 앱이 필요합니다."
+          ]
+        }
+      ],
+      "steps_title": "앱에서 사진 전체를 흐리게 하는 단계",
+      "steps": [
+        {
+          "number": "1",
+          "title": "사진 열기",
+          "description": "MakeBlur에서 이미지를 고릅니다."
+        },
+        {
+          "number": "2",
+          "title": "Full Photo 탭",
+          "description": "이미지 전체에 흐림이 적용됩니다."
+        },
+        {
+          "number": "3",
+          "title": "스타일과 Radius",
+          "description": "Gaussian, Motion, Ghosting을 원하는 강도로."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "흐린 사본이 사진 보관함에 저장됩니다."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "글자 배경으로 쓸 거라면 색이 선명한 사진을. 흐리면 예쁜 색 그라데이션이 돼요.",
+        "잠금화면용으로는 Gaussian을 강하게. 시계와 아이콘이 잘 보입니다.",
+        "게시물 티저: 먼저 강하게 흐린 사진을 올리고 나중에 원본을."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "온라인으로 사진을 흐리게 하려면?",
+          "answer": "이 사이트의 무료 온라인 에디터에서 사진을 올리고 스타일과 강도를 골라 PNG를 저장하세요. 사진 전체만 흐리게 할 수 있습니다."
+        },
+        {
+          "question": "Full Photo와 Background 차이는?",
+          "answer": "Full Photo는 이미지 전체를, Background는 배경만 흐리게 하고 피사체는 선명하게 남깁니다."
+        },
+        {
+          "question": "해상도가 낮아지나요?",
+          "answer": "아니요. 사본은 원본 크기 그대로 저장됩니다."
+        }
+      ],
+      "related": [
+        "blur-hyogwa-sajin.html",
+        "gaussian-blur-iphone.html",
+        "motion-blur-sajin.html",
+        "outfocusing-iphone.html"
+      ],
+      "cta_title": "몇 초 만에 흐린 사진",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 Full Photo와 스타일만 고르세요. 무료, 업로드 없음.",
+      "cta_text": "App Store에서 받기"
+    },
+    {
+      "slug": "blur-hyogwa-sajin.html",
+      "keyword": "블러 효과",
+      "cluster": "photo",
+      "card_title": "사진 블러 효과 총정리",
+      "card_excerpt": "블러 효과란? 스타일 종류와 배경·얼굴·사진 전체에 무엇을 쓰면 되는지.",
+      "card_image": "/img/appstore/ko/02-motion.webp",
+      "card_image_alt": "아이폰에서 사진에 블러 효과",
+      "meta_title": "사진 블러 효과｜종류와 아이폰에서 적용하는 법",
+      "meta_description": "사진 블러 효과가 무엇인지, 아이폰에서 적용하는 방법을 설명합니다. 배경, 얼굴, 지정한 부분, 사진 전체에 Gaussian·Motion·Ghosting·Pixelate 등을 골라 쓸 수 있어요. 무료이고 기기 안에서 처리됩니다.",
+      "h1": "사진 블러 효과: 종류와 아이폰에서 적용하는 법",
+      "answer": "블러 효과는 사진 전체나 일부를 일부러 흐리게 만드는 편집입니다. 아이폰에서는 MakeBlur로 적용할 곳(배경은 Background, 얼굴은 Faces, 부분은 Manual, 전체는 Full Photo)과 Gaussian·Motion·Ghosting 같은 스타일을 고르고, Radius를 조절해 Save를 누르세요.",
+      "intro": "「블러(blur)」는 영어로 흐림이라는 뜻이고, 블러 효과, 블러 처리, 얼굴 블러처럼 그대로 검색되는 경우가 많습니다. 그 뒤에 있는 목적은 대개 네 가지예요. 인물 뒤 배경을 부드럽게, 얼굴 가리기, 글자나 번호판 안 보이게, 사진 전체 흐리게. 일반 사진에서는 아이폰 편집 기능으로 그중 어느 것도 할 수 없습니다.",
+      "image": "/img/appstore/ko/02-motion.webp",
+      "image_alt": "Motion 스타일: 배경에 블러 효과",
+      "native": {
+        "heading": "아이폰에 있는 기능",
+        "paragraphs": [
+          "배경 블러: 인물 사진 모드로 찍을 때만. 「사진」 앱의 블러 브러시: 없음. 마크업: 덮기 위한 펜과 도형이지 흐림이 아님. 클린업(Apple Intelligence): 원치 않는 물체를 지우는 기능으로 iPhone 15 Pro 이상만."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "블러 스타일",
+          "paragraphs": [
+            "Gaussian: 부드럽고 자연스러운 흐림. Motion: 방향을 조절하는 흐름. Ghosting: 몽환적인 이중 번짐. Box: 균일한 흐림. Pixelate·Hexagonal·Crystallize: 모자이크 계열로 개인정보 보호에도 디자인에도."
+          ]
+        },
+        {
+          "heading": "적용할 곳",
+          "paragraphs": [
+            "Background는 피사체를 선명하게 두고 배경을 흐리게. Faces는 모든 얼굴에. Manual은 손가락으로 칠한 부분에. Full Photo는 이미지 전체에. 카메라로 찍은 사진, 캡처, 카톡 등으로 받아 사진 보관함에 저장한 이미지에 쓸 수 있습니다."
+          ]
+        }
+      ],
+      "steps_title": "앱에서 블러 효과 주는 단계",
+      "steps": [
+        {
+          "number": "1",
+          "title": "사진이나 캡처 열기",
+          "description": "MakeBlur에서 이미지를 고릅니다."
+        },
+        {
+          "number": "2",
+          "title": "모드 고르기",
+          "description": "Background, Faces, Manual, Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "스타일과 Radius",
+          "description": "흐림의 종류와 강도."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "효과를 준 사본이 사진 보관함에 저장됩니다."
+        }
+      ],
+      "tips_title": "팁",
+      "tips": [
+        "보기 좋게는 Gaussian이나 Ghosting, 개인정보엔 Pixelate.",
+        "모드는 함께 쓸 수 있어요. Background로 배경을 흐리고 Manual로 거슬리는 세부를.",
+        "강도를 바꿔 여러 장 저장하고 가장 좋은 걸 남기세요."
+      ],
+      "faq_title": "자주 묻는 질문",
+      "faq": [
+        {
+          "question": "앱 없이 블러 효과를 줄 수 있나요?",
+          "answer": "일반 사진은 「사진」 앱으로 안 됩니다. 마크업 도형으로 덮거나, 이 사이트의 온라인 에디터로 사진 전체를 흐리게 하는 방법이 있어요."
+        },
+        {
+          "question": "캡처에도 블러를 줄 수 있나요?",
+          "answer": "네. 캡처도 다른 사진처럼 앱에서 열 수 있습니다."
+        },
+        {
+          "question": "무료인가요?",
+          "answer": "다운로드는 무료이고 기본 흐림이 포함됩니다. 고급 스타일은 선택형 앱 내 구입입니다."
+        }
+      ],
+      "related": [
+        "sajin-heurige-iphone.html",
+        "iphone-sajin-baegyeong-heurige.html",
+        "sajin-bubun-blur.html",
+        "motion-blur-sajin.html"
+      ],
+      "cta_title": "1분 만에 블러 효과",
+      "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 배경, 얼굴, 사진 전체를 흐리게. 무료, iOS 18.6 아이폰에서.",
+      "cta_text": "App Store에서 받기"
+    }
+  ]
+}

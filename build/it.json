@@ -1,324 +1,365 @@
 {
   "meta": {
     "lang": "it",
-    "title": "Sfoca lo sfondo su iPhone — app gratis | Make Blur",
-    "description": "Sfoca sfondo e volti su iPhone con Make Blur: rilevamento automatico, bokeh, motion e gaussiana tra sette stili. Controlli semplici. Gratis su App Store.",
-    "keywords": "bokeh iphone, filtro bokeh, motion blur, background blur, sfocare volti, blur volto, blur image, blur photo, sfocare sfondo, sfocare lo sfondo su iphone, sfocatura gaussiana, privacy foto, app per sfocare foto, editor foto iphone",
+    "title": "Sfocare sfondo foto su iPhone dopo lo scatto | Make Blur",
+    "description": "Sfoca lo sfondo delle foto su iPhone anche dopo lo scatto: soggetto riconosciuto, volti sfocati, effetto mosso e gaussiano. Gratis, tutto sul dispositivo.",
+    "keywords": "sfocare sfondo foto, sfondo sfocato, sfocare sfondo foto iPhone, come sfocare lo sfondo di una foto, app per sfocare foto, sfocare volto foto, oscurare targa foto, pixelare foto, sfocare foto iPhone, effetto mosso, effetto bokeh iPhone, sfocatura gaussiana",
     "author": "Make Blur",
     "og_url": "https://makeblur.com/it/",
-    "og_title": "Sfoca lo sfondo su iPhone — App gratis | Make Blur",
-    "og_description": "Sfondo e volti sfocati su iPhone. Sette stili con bokeh, motion blur e gaussiana — rilevamento automatico e blur volti per la privacy.",
+    "og_title": "Sfocare lo sfondo delle foto su iPhone, dopo lo scatto",
+    "og_description": "Sfoca lo sfondo delle foto su iPhone anche dopo lo scatto: soggetto riconosciuto, volti sfocati, effetto mosso e gaussiano. Gratis, tutto sul dispositivo.",
     "og_image": "https://makeblur.com/it/site_preview.png",
     "twitter_url": "https://makeblur.com/it/",
-    "twitter_title": "Sfoca lo sfondo su iPhone — Make Blur",
-    "twitter_description": "Sfoca sfondo e volti su iPhone. Bokeh, motion blur, gaussiana — Make Blur.",
+    "twitter_title": "Sfocare lo sfondo delle foto su iPhone, dopo lo scatto",
+    "twitter_description": "Sfoca lo sfondo delle foto su iPhone anche dopo lo scatto: soggetto riconosciuto, volti sfocati, effetto mosso e gaussiano. Gratis, tutto sul dispositivo.",
     "twitter_image": "https://makeblur.com/it/site_preview.png",
     "canonical": "https://makeblur.com/it/"
   },
   "header": {
-    "logo_alt": "Make Blur — app per sfocare lo sfondo su iPhone",
+    "logo_alt": "Sfocare Sfondo Foto — Make Blur",
     "app_name": "Make Blur",
     "download_text": "Scarica"
   },
+  "ui": {
+    "skip_link": "Vai al contenuto",
+    "nav_label": "Menu principale",
+    "key_facts_label": "In breve",
+    "language_label": "Lingua",
+    "breadcrumb_label": "Percorso di navigazione",
+    "on_this_page": "In questa pagina",
+    "built_into_iphone": "Integrato in iPhone",
+    "guide_meta_device": "iPhone · iOS 18.6+",
+    "answer_note": "Gratis · Nessun caricamento · Per foto già scattate",
+    "inline_cta_note": "Gratis · iPhone con iOS 18.6+ · Nessun caricamento",
+    "aside_app_name": "Sfocare Sfondo Foto",
+    "aside_app_note": "Gratis · iOS 18.6+",
+    "read_time": "{n} min di lettura",
+    "howto_tool": "MakeBlur – Sfocare Sfondo Foto (app per iPhone)"
+  },
   "hero": {
-    "title": "Sfoca lo sfondo su iPhone — trasforma le tue foto senza fatica",
-    "subtitle": "L’app gratuita per sfocare lo sfondo di una foto",
-    "screens": [
+    "eyebrow": "Sfocare Sfondo Foto · Gratis per iPhone",
+    "title": "Sfoca lo sfondo",
+    "title_accent": "anche dopo lo scatto.",
+    "subtitle": "La Modalità Ritratto funziona solo mentre scatti. MakeBlur sfoca lo sfondo, i volti o qualsiasi area di una foto che hai già sull’iPhone: in pochi secondi e direttamente sul dispositivo.",
+    "lead": "",
+    "image": {
+      "src": "/img/screens/box__15_pro_max.webp",
+      "alt": "MakeBlur su iPhone: la donna resta nitida, il muro di mattoni e i fiori dietro sono sfocati",
+      "width": 600,
+      "height": 1299
+    },
+    "cta_text": "Scarica su App Store",
+    "secondary_cta_text": "Come funziona",
+    "chips": [
       {
-        "src": "/img/screens/box__15_pro_max.webp",
-        "alt": "Sfocare lo sfondo su iPhone — esempio box blur"
+        "text": "Download gratuito"
       },
       {
-        "src": "/img/screens/motion__15_pro_max.webp",
-        "alt": "Sfocare lo sfondo su iPhone — esempio motion blur"
+        "text": "Per foto già scattate"
       },
       {
-        "src": "/img/screens/ghost__15_pro_max.webp",
-        "alt": "Blur effect — esempio ghosting"
+        "text": "Nessun caricamento sul cloud"
       },
       {
-        "src": "/img/screens/crys__15_pro_max.webp",
-        "alt": "Background blur — esempio crystalize"
-      },
-      {
-        "src": "/img/screens/ghost1__15_pro_max.webp",
-        "alt": "Sfocare lo sfondo di una foto — esempio controllo preciso"
+        "text": "iOS 18.6 o successivo"
       }
     ],
-    "intro": {
-      "line1": "Vuoi sfocare lo sfondo su iPhone?",
-      "line2": "Cerchi un background blur pulito con un risultato bello subito?",
-      "paragraph1": "Make Blur è un editor foto iOS gratuito per sfocare sfondo e volti, con sette stili inclusi bokeh, motion blur e sfocatura gaussiana.",
-      "paragraph2": "Make Blur rende tutto <strong>semplice</strong>: background blur, blur photo, blur image e blur effect su iPhone. In pochi tocchi ottieni una sfocatura dello sfondo pronta per social e portfolio."
+    "float_cards": [
+      {
+        "pos": "tl",
+        "label": "Background",
+        "value": "Soggetto riconosciuto"
+      },
+      {
+        "pos": "br",
+        "label": "Box",
+        "value": "Intensità 37"
+      }
+    ]
+  },
+  "download": {
+    "kicker": "Gratis su App Store",
+    "title": "Scarica «Sfocare Sfondo Foto»",
+    "subtitle": "L’app per iPhone che sfoca lo sfondo, i volti o qualsiasi parte di una foto, anche dopo lo scatto.",
+    "icon": {
+      "src": "/img/appstore/icon.webp",
+      "alt": "Icona dell’app «Sfocare Sfondo Foto»"
     },
-    "cta_text": "Scarica"
+    "points": [
+      {
+        "text": "Sfondo sfocato con riconoscimento automatico del soggetto, senza Modalità Ritratto"
+      },
+      {
+        "text": "Volti sfocati nelle foto di gruppo e di strada, senza Apple Intelligence"
+      },
+      {
+        "text": "Pennello per testo, targhe o qualsiasi area dell’immagine"
+      },
+      {
+        "text": "Stili Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal e Crystallize"
+      },
+      {
+        "text": "Tutto avviene sull’iPhone: le foto non vengono caricate da nessuna parte"
+      }
+    ],
+    "specs": [
+      {
+        "label": "Prezzo",
+        "value": "Gratis"
+      },
+      {
+        "label": "Richiede",
+        "value": "iOS 18.6+"
+      },
+      {
+        "label": "Categoria",
+        "value": "Grafica e design"
+      },
+      {
+        "label": "Lingue",
+        "value": "Italiano e altre 28"
+      }
+    ],
+    "body": "La sfocatura di base dello sfondo è gratuita. Stili e strumenti avanzati sono disponibili in modo facoltativo tramite acquisti in-app.",
+    "cta_text": "Scarica su App Store"
+  },
+  "screenshots": {
+    "title": "Come appare",
+    "intro": "Screenshot reali dell’App Store: effetto mosso, volti protetti, soggetto in primo piano, mosaico ed effetto soffice con bokeh.",
+    "items": [
+      {
+        "src": "/img/appstore/it/02-motion.webp",
+        "alt": "Effetto mosso dietro una donna con occhiali da sole, Radius 65",
+        "caption": "Effetto mosso per l’azione"
+      },
+      {
+        "src": "/img/appstore/it/03-face.webp",
+        "alt": "Scheda Faces: tutti i volti riconosciuti sono sfocati prima della condivisione",
+        "caption": "Copri i volti prima del post"
+      },
+      {
+        "src": "/img/appstore/it/04-box.webp",
+        "alt": "Scheda Background: donna nitida, sfondo sfocato con lo stile Box",
+        "caption": "Soggetto nitido, sfuma il resto"
+      },
+      {
+        "src": "/img/appstore/it/05-crystalize.webp",
+        "alt": "Lo stile Crystallize trasforma lo sfondo in un mosaico",
+        "caption": "Mosaico pixel con un tocco"
+      },
+      {
+        "src": "/img/appstore/it/06-ghost.webp",
+        "alt": "Stile Ghosting sull’intera foto con un look morbido e sognante",
+        "caption": "Effetto soffice con bokeh"
+      }
+    ]
   },
   "statistics": {
-    "title": "Make Blur in numeri",
-    "items": [
-      {
-        "number": "10,000+",
-        "label": "Download"
-      },
-      {
-        "number": "4.5",
-        "label": "Valutazione"
-      },
-      {
-        "number": "10+",
-        "label": "Recensioni"
-      },
-      {
-        "number": "7",
-        "label": "Effetti sfocatura"
-      }
-    ]
-  },
-  "features": {
-    "title": "Sfoca lo sfondo su iPhone — editing veloce con risultati che si vedono",
-    "intro": {
-      "line1": "Sappiamo quanto sia frustrante trovare un’app davvero facile per sfocare lo sfondo di una foto.",
-      "paragraph1": "Per questo abbiamo creato Make Blur: da <strong>principiante frustrato</strong> a <strong>creator sicuro</strong>, con una sfocatura sfondo dall’aspetto professionale.",
-      "paragraph2": "Niente menu infiniti: solo risultati quando fai background blur su iPhone."
-    },
-    "items": [
-      {
-        "title": "Sfocare lo sfondo di una foto — background blur senza complicazioni",
-        "description": "Ottieni un <strong>background blur</strong> con <strong>rilevamento automatico</strong>. Ideale per far risaltare il soggetto e ottenere un blur effect moderno, pulito e naturale."
-      },
-      {
-        "title": "Sfocare i volti per la privacy",
-        "description": "Sfoca i volti prima di condividere — ideale per foto di gruppo ed eventi. Funziona insieme al background blur <strong>nella stessa app</strong>."
-      },
-      {
-        "title": "Blur photo e blur image — sfocatura per stile o privacy",
-        "description": "Usa blur photo per un look artistico o blur image per nascondere dettagli. Make Blur ti permette di sfocare foto su iPhone in modo rapido e ordinato."
-      },
-      {
-        "title": "Sfocatura a pennello — controllo totale del blur effect",
-        "description": "Disegna dove vuoi la sfocatura. Con il pennello hai <strong>pieno controllo</strong> per sfocare lo sfondo o aree specifiche con precisione."
-      },
-      {
-        "title": "Come sfocare lo sfondo su iPhone — facile dal primo utilizzo",
-        "description": "Se cerchi come sfocare lo sfondo su iPhone, Make Blur è la scelta giusta: interfaccia chiara, passaggi minimi e risultato immediato."
-      },
-      {
-        "title": "Bokeh, motion blur e sfocatura gaussiana",
-        "description": "Il <strong>bokeh</strong> dà profondità di campo da ritratto con luci morbide; anche motion blur e gaussiana. <strong>Sette</strong> stili in totale."
-      },
-      {
-        "title": "La blur app che semplifica tutto",
-        "description": "Make Blur è pensata per iPhone: veloce, intuitiva e focalizzata su background blur, blur photo e blur effect. Risultati belli senza perdere tempo."
-      }
-    ]
-  },
-  "blur_types": {
-    "title": "Diversi tipi di sfocatura per il tuo background blur su iPhone",
-    "items": [
-      {
-        "title": "Motion Blur",
-        "description": "Crea motion blur per aggiungere dinamismo e un effetto di movimento alle tue foto."
-      },
-      {
-        "title": "Gaussian Blur",
-        "description": "Sfocatura gaussiana morbida e naturale per uno sfondo elegante e professionale."
-      },
-      {
-        "title": "Ghosting",
-        "description": "Un effetto creativo e “fantasma” per trasformazioni artistiche."
-      },
-      {
-        "title": "Pixelate",
-        "description": "Pixelizza per un look retro o per nascondere dettagli (privacy)."
-      },
-      {
-        "title": "Hexagonal",
-        "description": "Sfocatura con pattern esagonale per un effetto moderno e originale."
-      },
-      {
-        "title": "Crystalize",
-        "description": "Effetto cristallizzato per aggiungere texture e un blur effect diverso dal solito."
-      },
-      {
-        "title": "Bokeh",
-        "description": "Il <strong>bokeh</strong> simula bassa profondità di campo: soggetto nitido, sfondo morbido con punti luce naturali, come un obiettivo ritratto."
-      }
-    ]
-  },
-  "comparison": {
-    "title": "Make Blur vs altre app di sfocatura",
-    "intro": "Confronta Make Blur con altre app per sfocare lo sfondo su iPhone. Abbiamo creato un confronto obiettivo per aiutarti a scegliere la migliore app.",
-    "table": {
-      "feature_label": "Funzionalità",
-      "competitors": [
-        {
-          "name": "Make Blur"
-        },
-        {
-          "name": "App tipica"
-        },
-        {
-          "name": "App premium"
-        }
-      ],
-      "features": [
-        {
-          "name": "Prezzo",
-          "value1": "Freemium (gratis con acquisti in‑app opzionali)",
-          "value2": "Pubblicità invasive e funzioni bloccate",
-          "value3": "Pagamento iniziale o abbonamento"
-        },
-        {
-          "name": "Numero di effetti",
-          "value1": "7 tipi (incl. bokeh)",
-          "value2": "2-3 tipi",
-          "value3": "3-4 tipi"
-        },
-        {
-          "name": "Sfocatura volti (privacy)",
-          "value1": "Sì",
-          "value2": "Raro / No",
-          "value3": "A volte"
-        },
-        {
-          "name": "Rilevamento automatico sfondo",
-          "value1": "Sì",
-          "value2": "No / Limitato",
-          "value3": "A volte"
-        },
-        {
-          "name": "Strumento disegno",
-          "value1": "Sì",
-          "value2": "No",
-          "value3": "A volte"
-        },
-        {
-          "name": "Valutazione (facilità d’uso)",
-          "value1": "ca. 4,5 stelle",
-          "value2": "ca. 3,5–4,2 stelle",
-          "value3": "ca. 4,0–4,5 stelle"
-        }
-      ]
-    },
-    "note": "Dati tratti dalle informazioni sull’App Store — aprile 2026. Make Blur: sfondo, volti, filtri (bokeh) e attenzione alla semplicità, con strumenti base accessibili in stile freemium."
+    "title": "",
+    "items": []
   },
   "how_it_works": {
-    "title": "Come sfocare lo sfondo su iPhone — guida passo dopo passo",
+    "nav_text": "Come funziona",
+    "title": "Come sfocare lo sfondo di una foto su iPhone",
     "intro": {
-      "line1": "<strong>Tre passaggi semplici</strong> per sfocare lo sfondo di una foto su iPhone e migliorare subito i tuoi scatti.",
-      "paragraph1": "Senza strumenti complicati: solo sfocatura pulita e veloce."
+      "line1": "Tre passaggi",
+      "paragraph1": "Senza scattare di nuovo e senza computer. Apri la foto che hai già, controlla il soggetto e salva."
     },
     "steps": [
       {
         "number": "1",
-        "title": "Scarica la blur app",
-        "description": "Scarica Make Blur dall’App Store. Inizia in pochi secondi e crea background blur, blur photo e blur image con facilità."
+        "title": "Scarica l’app",
+        "description": "Gratis su App Store per iPhone con iOS 18.6 o successivo. Apri qualsiasi foto della libreria: foto normale, selfie, screenshot o un’immagine ricevuta."
       },
       {
         "number": "2",
-        "title": "Apri la tua foto",
-        "description": "Seleziona una foto dalla galleria. L’app può <strong>rilevare automaticamente lo sfondo</strong> per aiutarti a sfocarlo subito."
+        "title": "Scegli cosa sfocare",
+        "description": "Background mantiene nitido il soggetto in automatico. Faces nasconde tutti i volti riconosciuti. Manual è un pennello per qualsiasi area. Full Photo sfoca l’intera immagine."
       },
       {
         "number": "3",
-        "title": "Scegli l’effetto e salva",
-        "description": "Scegli bokeh, motion blur, gaussiana o un altro dei sette stili; blur volti se serve. <strong>Salva</strong> e condividi."
+        "title": "Stile, intensità, salva",
+        "description": "Gaussian per una sfocatura morbida da obiettivo, Motion per il movimento, Pixelate per la privacy. Regola l’intensità con Radius e salva in Foto con Save."
       }
     ]
   },
+  "modes": {
+    "title": "Quattro modalità, un cursore",
+    "items": [
+      {
+        "tab": "Background",
+        "name": "Sfondo sfocato",
+        "description": "Il soggetto viene riconosciuto e resta nitido, tutto ciò che c’è dietro diventa morbido. L’effetto ritratto per qualsiasi foto.",
+        "url": "/it/sfocare-sfondo-foto-iphone.html",
+        "link_text": "Sfocare lo sfondo su iPhone"
+      },
+      {
+        "tab": "Faces",
+        "name": "Volti sfocati",
+        "description": "Tutti i volti dell’immagine vengono riconosciuti e sfocati con un tocco, senza Apple Intelligence.",
+        "url": "/it/sfocare-volto-foto.html",
+        "link_text": "Sfocare un volto in foto"
+      },
+      {
+        "tab": "Manual",
+        "name": "Parte della foto",
+        "description": "Passa il dito su testo, targa, numero civico o una persona nella folla. Si sfoca solo ciò che dipingi.",
+        "url": "/it/sfocare-parte-foto-iphone.html",
+        "link_text": "Sfocare una parte della foto"
+      },
+      {
+        "tab": "Full Photo",
+        "name": "Foto intera",
+        "description": "Sfondi morbidi, sfondi per le storie o una versione astratta di qualsiasi foto, con un solo gesto.",
+        "url": "/it/sfocare-foto-iphone.html",
+        "link_text": "Sfocare una foto"
+      }
+    ],
+    "styles_label": "Stili in ogni modalità",
+    "styles": [
+      "Gaussian",
+      "Motion",
+      "Ghosting",
+      "Box",
+      "Pixelate",
+      "Hexagonal",
+      "Crystallize"
+    ],
+    "styles_note": "Radius: intensità · Angle: direzione del movimento"
+  },
   "final_cta": {
-    "title": "Pronto a sfocare lo sfondo su iPhone?",
-    "paragraph1": "Se vuoi sfocare lo sfondo di una foto e ottenere un look più professionale, Make Blur è il prossimo passo perfetto.",
-    "paragraph2": "Un’esperienza <strong>rapida e semplice</strong> per background blur, blur photo, blur image e blur effect.",
-    "paragraph3": "<strong>Non rimandare</strong>: impara come sfocare lo sfondo su iPhone.<br>Da “troppo complicato” a “wow” già oggi.",
-    "cta_text": "Inizia"
+    "eyebrow": "Gratis su App Store",
+    "title": "Sfoca lo sfondo delle foto che hai già",
+    "paragraph1": "Apri una foto da «Recenti», lascia che l’app trovi il soggetto, sposta un cursore e salva. Volti, movimento e foto intera, nella stessa app.",
+    "paragraph2": "",
+    "paragraph3": "Nessun caricamento · iPhone con iOS 18.6 o successivo",
+    "images": [
+      "/img/appstore/it/03-face.webp",
+      "/img/appstore/it/04-box.webp",
+      "/img/appstore/it/02-motion.webp"
+    ],
+    "cta_text": "Scarica su App Store"
   },
   "footer": {
     "copyright": "© {year} Make Blur. Tutti i diritti riservati.",
-    "download_text": "Scarica Make Blur su App Store",
-    "tagline": "Make Blur — sfondo e volti su iPhone. Sette stili con bokeh, motion blur, blur volti e rilevamento automatico.",
+    "download_text": "Scarica «Sfocare Sfondo Foto» su App Store",
+    "tagline": "«Sfocare Sfondo Foto» (MakeBlur) è un’app gratuita per iPhone che sfoca lo sfondo, i volti o qualsiasi parte di una foto dopo lo scatto. Tutto viene elaborato sul dispositivo.",
     "privacy_text": "Informativa sulla privacy",
-    "terms_text": "Termini di utilizzo"
+    "terms_text": "Termini di utilizzo",
+    "more_title": "Altro",
+    "fineprint": "«Sfocare Sfondo Foto» richiede un iPhone con iOS 18.6 o successivo. Apple, iPhone e App Store sono marchi di Apple Inc., registrati negli Stati Uniti e in altri Paesi."
   },
   "seo": {
     "breadcrumb_home": "Home",
     "faq_title": "Domande frequenti",
+    "faq_nav_text": "FAQ",
+    "faq_intro": "Risposte brevi su come sfocare le foto su iPhone. Ognuna porta a una guida dettagliata.",
     "faq": [
       {
-        "question": "Come sfocare lo sfondo su iPhone?",
-        "answer": "Scarica <strong>Make Blur</strong>, apri la tua foto e lascia che l’app <strong>rilevi lo sfondo</strong> in automatico (oppure disegna una <strong>maschera a pennello</strong>). Poi scegli <strong>bokeh</strong>, <strong>motion blur</strong>, <strong>sfocatura gaussiana</strong> o un altro degli stili, applica l’<strong>sfocatura visi</strong> se serve per la privacy e <strong>salva</strong>."
+        "question": "Come si sfoca lo sfondo di una foto già scattata su iPhone?",
+        "answer": "Apri la foto nell’app, lascia selezionata la scheda Background perché il soggetto venga riconosciuto, scegli Gaussian, aumenta Radius fino alla morbidezza che vuoi e tocca Save. Funziona con qualsiasi foto della libreria, senza Modalità Ritratto.",
+        "guide_keyword": "sfocare sfondo foto iPhone"
       },
       {
-        "question": "Qual è la migliore app per sfocare lo sfondo di una foto su iPhone?",
-        "answer": "<strong>Make Blur</strong> offre <strong>rilevamento dello sfondo</strong>, <strong>sfocatura dei volti</strong>, <strong>sette</strong> stili (tra cui <strong>bokeh</strong>, motion blur e gaussiana) e un’interfaccia semplice su <strong>iPhone</strong>. Molte recensioni iniziali si collocano intorno a <strong>4,5/5</strong> stelle."
+        "question": "L’app Foto può sfocare lo sfondo di una foto normale?",
+        "answer": "Solo se la foto è stata scattata in Modalità Ritratto: allora in «Modifica» puoi cambiare la profondità. Foto normali, screenshot e immagini ricevute non hanno dati di profondità e Foto non offre una sfocatura dello sfondo. L’app serve proprio a questo.",
+        "guide_keyword": "app per sfocare foto iPhone"
       },
       {
-        "question": "Come sfocare una foto su iPhone?",
-        "answer": "In <strong>Make Blur</strong>, <strong>apri l’immagine</strong>, usa il <strong>rilevamento dello sfondo</strong> o adegua la <strong>maschera</strong> e, se opportuno, attiva l’<strong>sfocatura visi</strong>. Applica <strong>bokeh</strong>, <strong>motion</strong> o <strong>gaussiana</strong> — in tutto, <strong>sette</strong> stili — e <strong>salva</strong> il risultato."
+        "question": "Come sfoco i volti senza Apple Intelligence?",
+        "answer": "«Ripulisci» in Foto esiste solo da iPhone 15 Pro con Apple Intelligence e lavora un volto alla volta. Nell’app la scheda Faces riconosce tutti i volti insieme e li sfoca, su qualsiasi iPhone con iOS 18.6.",
+        "guide_keyword": "sfocare volto foto"
       },
       {
-        "question": "Posso sfocare lo sfondo di una foto in modo gratuito?",
-        "answer": "Sì. Puoi <strong>scaricare l’app gratuitamente</strong>; le funzioni di base includono <strong>sfocatura dello sfondo</strong>, <strong>sfocatura volti</strong> e <strong>sette</strong> stili, tra bokeh, motion blur e gaussiana. Parte dei <strong>contenuti avanzati</strong> può essere a <strong>pagamento in-app</strong>, mentre l’<strong>editing di base</strong> resta di solito <strong>senza abbonamento</strong> obbligatorio — verifica la scheda sull’<strong>App Store</strong>."
+        "question": "Come sfoco solo una parte di una foto?",
+        "answer": "Nella scheda Manual passa il dito sull’area: testo, targa, una persona nella folla. Si sfoca solo ciò che dipingi; l’intensità si regola con Radius.",
+        "guide_keyword": "sfocare una parte della foto iPhone"
       },
       {
-        "question": "Come sfocare un’immagine (un file) su iPhone?",
-        "answer": "Installa <strong>Make Blur</strong> dall’<strong>App Store</strong>, <strong>apri il file</strong> dalla galleria, attiva <strong>rilevamento dello sfondo</strong> o <strong>maschera a pennello</strong> e, se necessario, <strong>sfocatura visi</strong>. Scegli tra bokeh, motion, gaussiana o le altre opzioni, tutte in <strong>sette</strong> stili, e <strong>salva</strong> sull’iPhone."
+        "question": "Come oscuro la targa per un annuncio su Subito o AutoScout24?",
+        "answer": "Apri la foto, scheda Manual, stile Pixelate o Box, dipingi sopra la targa e aumenta Radius finché nessun carattere è leggibile. Salva e carica quella copia. L’originale non lascia il tuo iPhone.",
+        "guide_keyword": "oscurare targa foto"
       },
       {
-        "question": "Quali effetti di sfocatura posso usare per lo sfondo su iPhone?",
-        "answer": "È possibile usare, tra gli altri, <strong>motion blur</strong>, <strong>sfocatura gaussiana</strong>, <strong>ghosting</strong>, <strong>pixelate</strong>, <strong>hexagonal</strong>, <strong>crystalize</strong> e <strong>bokeh</strong>. Il <strong>bokeh</strong> dà l’impressione di poca <strong>profondità di campo</strong> con aloni luminosi morbidi. Tutti e <strong>sette</strong> gli stili si adattano allo <strong>sfondo</strong> o alle <strong>aree selezionate</strong> con la maschera."
+        "question": "Come oscuro il testo in uno screenshot?",
+        "answer": "Con Manual: dipingi sulle righe con indirizzo, numero o chat, scegli Pixelate e salva una copia. Ingrandisci per controllare che non si legga più nulla.",
+        "guide_keyword": "oscurare testo screenshot iPhone"
       },
       {
-        "question": "Perché scegliere Make Blur invece di altre app per sfocare?",
-        "answer": "<strong>Make Blur</strong> unisce <strong>rilevamento dello sfondo</strong>, <strong>sfocatura volti</strong> (privacy), <strong>sette</strong> stili oltre al <strong>modello freemium</strong> che mantiene gratuite le funzioni di base. Molte app nascondono una sfocatura semplice dietro <strong>abbonamenti forzati</strong> o <strong>annunci insistenti</strong> — <strong>Make Blur</strong> punta a un percorso chiaro: <strong>prima lo sfondo, poi i volti se servono</strong>."
+        "question": "Come si fa l’effetto mosso su una foto?",
+        "answer": "Scegli lo stile Motion: Radius decide la lunghezza della scia, Angle la direzione. Nella scheda Background si muove solo lo sfondo, il soggetto resta nitido.",
+        "guide_keyword": "effetto mosso foto"
       },
       {
-        "question": "Come si confronta Make Blur con la funzione di sfocatura / Modalità ritratto integrata in iOS?",
-        "answer": "La <strong>Modalità ritratto</strong> o simili lavorano soprattutto al <strong>momento dello scatto</strong>. <strong>Make Blur</strong> apre <strong>ogni foto già in galleria</strong>, con <strong>sette</strong> effetti, <strong>sfocatura visi</strong> e <strong>rilevamento</strong> sullo stesso scatto, offrendo spesso più <strong>scelta e controllo</strong> rispetto a un’unica regolazione di sistema."
+        "question": "Che differenza c’è tra sfocatura gaussiana e bokeh?",
+        "answer": "La sfocatura gaussiana è uniforme e morbida, come un obiettivo fuori fuoco. Il bokeh descrive l’aspetto dei punti luce nella zona sfocata. Nell’app Gaussian dà uno sfondo da ritratto pulito, Ghosting su Full Photo un look più sognante.",
+        "guide_keyword": "sfocatura gaussiana"
       },
       {
-        "question": "Make Blur è migliore rispetto ad altre app di sfocatura?",
-        "answer": "Dipende dalle tue esigenze; <strong>Make Blur</strong> vanta <strong>freemium</strong> equo (niente sottoscrizioni forzate), <strong>sette</strong> effetti (incluso <strong>bokeh</strong>), <strong>sfocatura visi</strong> e <strong>rilevamento</strong> dello sfondo, oltre a <strong>circa 4,5</strong> stelle in molte recensioni e a <strong>10.000+</strong> download. Molte app limitano l’<strong>accesso al nucleo</strong> dietro a <strong>barriere a pagamento</strong> o funzionalità ridotte nel piano gratuito."
+        "question": "Come sfoco un’intera foto?",
+        "answer": "La scheda Full Photo sfoca tutta l’immagine: scegli stile e intensità, per sfondi, storie o immagini astratte. Senza installare nulla, anche l’editor online di questo sito sfoca la foto intera.",
+        "guide_keyword": "sfocare foto iPhone"
       },
       {
-        "question": "Come sfocare i volti in una foto su iPhone?",
-        "answer": "In <strong>Make Blur</strong>, <strong>apri la foto</strong>, attiva l’<strong>opzione per sfocare i volti</strong> e applica l’effetto ai <strong>volti rilevati o alle aree segnalate</strong> prima del <strong>salvataggio</strong>. È adatta alla privacy in <strong>foto di gruppo o contesti pubblici</strong>, <strong>senza passare al desktop</strong>."
+        "question": "L’app è gratuita?",
+        "answer": "Sì. Si scarica gratis e la sfocatura di base dello sfondo è inclusa. Stili e strumenti avanzati sono disponibili in modo facoltativo tramite acquisti in-app.",
+        "guide_keyword": "foto con sfondo sfocato"
       },
       {
-        "question": "Cosa fa il filtro Bokeh in Make Blur?",
-        "answer": "Simula <strong>profondità di campo</strong> ridotta: <strong>primo piano netto</strong> e <strong>sfondo morbido</strong> con bokeh a <strong>luce naturale</strong> rotondeggiante, come con un <strong>obiettivo ritratto</strong> luminoso. È <strong>uno dei sette</strong> stili, insieme a motion, gaussiana, ghosting, pixelate, hexagonal e crystalize."
+        "question": "Le mie foto vengono caricate su un server?",
+        "answer": "No. Tutto viene elaborato sull’iPhone e per la sfocatura non serve internet: le tue foto non lasciano il dispositivo.",
+        "guide_keyword": "pixelare foto iPhone"
       },
       {
-        "question": "Posso sfocare solo una parte della foto?",
-        "answer": "Sì. Puoi combinare <strong>rilevamento dello sfondo</strong> con lo <strong>strumento di disegno / maschera</strong> per decidere con precisione cosa resta a fuoco e cosa riceve maggiore sfocatura, oppure rifinire la maschera <strong>automatica</strong> prima del salvataggio."
-      },
-      {
-        "question": "Va bene per nascondere visi, targhe o segnali con dati sensibili?",
-        "answer": "Ai fini di un <strong>editor di foto</strong> su iPhone, <strong>sfocatura visi</strong> o <strong>pixelate</strong> / <strong>sfumatura intensa</strong> possono <strong>ridurre la leggibilità</strong> (anche su <strong>targhe</strong> o insegne). <strong>Non sostituisce consulenze</strong> legali o le norme applicabili — in dubbio chiedi a <strong>un esperto</strong> nel tuo paese o contesto."
-      },
-      {
-        "question": "I miei dati e le mie foto in Make Blur sono al sicuro?",
-        "answer": "L’<strong>elaborazione</strong> è in genere pensata per svolgersi, per quanto possibile, <strong>nell’app sul dispositivo</strong>. I dettagli su <strong>trasferimenti</strong>, <strong>conservazione</strong> e <strong>privacy</strong> sono nelle <strong>norme aggiornate</strong> (sito ufficiale e <strong>App Store</strong>) — è bene leggerle prima di usare l’app."
+        "question": "Su quali iPhone funziona l’app?",
+        "answer": "Su qualsiasi iPhone con iOS 18.6 o successivo. Non servono né Apple Intelligence né una fotocamera con Modalità Ritratto.",
+        "guide_keyword": "app per sfocare foto iPhone"
       }
     ],
     "structured_data": {
       "software_application": {
         "@context": "https://schema.org",
         "@type": "SoftwareApplication",
-        "name": "Make Blur",
+        "name": "Sfocare Sfondo Foto",
+        "alternateName": [
+          "MakeBlur",
+          "Make Blur"
+        ],
         "applicationCategory": "PhotoEditorApplication",
-        "operatingSystem": "iOS",
+        "operatingSystem": "iOS 18.6 o successivo",
         "offers": {
           "@type": "Offer",
           "price": "0",
-          "priceCurrency": "USD"
+          "priceCurrency": "EUR",
+          "description": "Gratis; acquisti in-app facoltativi"
         },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.5",
-          "ratingCount": "10"
-        },
-        "description": "Sfoca sfondo e volti su iPhone. Sette stili con bokeh, motion blur e sfocatura gaussiana; rilevamento automatico."
+        "description": "Editor foto gratuito per iPhone che sfoca lo sfondo di una foto dopo lo scatto. Riconoscimento automatico del soggetto, volti sfocati, pennello manuale, effetti Motion, Gaussian, Pixelate e stili morbidi. Elaborazione sul dispositivo.",
+        "applicationSubCategory": "Grafica e design",
+        "image": "https://makeblur.com/img/appstore/icon-1024.png",
+        "screenshot": [
+          "https://makeblur.com/img/appstore/it/01-cover.webp",
+          "https://makeblur.com/img/appstore/it/02-motion.webp",
+          "https://makeblur.com/img/appstore/it/03-face.webp",
+          "https://makeblur.com/img/appstore/it/04-box.webp",
+          "https://makeblur.com/img/appstore/it/05-crystalize.webp",
+          "https://makeblur.com/img/appstore/it/06-ghost.webp"
+        ],
+        "featureList": [
+          "Sfondo sfocato con riconoscimento automatico del soggetto",
+          "Volti sfocati",
+          "Pennello di sfocatura manuale",
+          "Foto intera sfocata",
+          "Stili Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize",
+          "Elaborazione sul dispositivo"
+        ],
+        "softwareVersion": "1.16.4",
+        "fileSize": "25.7MB",
+        "inLanguage": "it",
+        "author": {
+          "@type": "Organization",
+          "name": "Make Blur",
+          "url": "https://makeblur.com"
+        }
       },
       "organization": {
         "@context": "https://schema.org",
@@ -326,40 +367,27 @@
         "name": "Make Blur",
         "url": "https://makeblur.com",
         "logo": "https://makeblur.com/img/logo.webp",
-        "description": "Make Blur — editor iPhone: sfondo, volti, bokeh, motion blur e sfocatura gaussiana."
+        "description": "Make Blur pubblica «Sfocare Sfondo Foto» (MakeBlur), un’app gratuita per iPhone che sfoca lo sfondo, i volti o qualsiasi parte di una foto dopo lo scatto."
       },
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Make Blur",
         "url": "https://makeblur.com/it/",
-        "description": "Sfoca sfondo e volti su iPhone. Bokeh e altri sei stili; rilevamento automatico.",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://makeblur.com/it/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "inLanguage": "it",
+        "description": "Sfocare lo sfondo delle foto su iPhone dopo lo scatto: guide, domande frequenti e download su App Store."
       },
       "howto": {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "Come sfocare lo sfondo su iPhone",
-        "description": "Guida: sfocare sfondo e opzionalmente volti su iPhone con Make Blur, bokeh incluso.",
-        "step": [
+        "name": "Come sfocare lo sfondo di una foto su iPhone",
+        "description": "Sfocare lo sfondo di una foto esistente: scarica l’app, scegli cosa sfocare, regola l’intensità e salva sul dispositivo.",
+        "step": [],
+        "totalTime": "PT2M",
+        "tool": [
           {
-            "@type": "HowToStep",
-            "name": "Scarica Make Blur",
-            "text": "Scarica Make Blur dall’App Store per sfocare lo sfondo su iPhone."
-          },
-          {
-            "@type": "HowToStep",
-            "name": "Apri la foto",
-            "text": "Apri una foto dalla galleria. L’app rileva lo sfondo per aiutarti a creare background blur."
-          },
-          {
-            "@type": "HowToStep",
-            "name": "Scegli l’effetto di sfocatura",
-            "text": "Scegli bokeh, motion blur, gaussiana o altro stile; blur volti se necessario; salva."
+            "@type": "HowToTool",
+            "name": "MakeBlur – Sfocare Sfondo Foto (app per iPhone)"
           }
         ]
       }
@@ -367,21 +395,21 @@
   },
   "editor": {
     "page_slug": "sfocare-sfondo-foto-online-editor.html",
-    "meta_title": "Sfocare sfondo foto online - editor gratis Gaussian, Pixel e Motion",
-    "meta_description": "Sfoca lo sfondo foto online gratis. Carica un'immagine, applica gaussian, pixel o motion blur e scarica PNG subito.",
-    "h1": "Sfocare sfondo foto online - editor gratis",
-    "intro": "Carica una foto, scegli gaussian, pixel o motion blur, regola l'intensità ed esporta PNG.",
+    "meta_title": "Sfocare una foto online gratis — Gaussian, Pixel e Motion",
+    "meta_description": "Sfoca un'intera foto online gratis: carica l'immagine, applica Gaussian, Pixel o Motion, regola l'intensità e scarica il PNG. Nessuna installazione richiesta.",
+    "h1": "Sfocare una foto online — editor gratuito",
+    "intro": "Carica una foto, scegli Gaussian, Pixel o Motion, regola l'intensità ed esporta in PNG. L'editor web sfoca l'intera immagine.",
     "upload_button": "Carica foto",
     "download_button": "Scarica PNG",
     "slider_label": "Intensità sfocatura",
     "placeholder_line1": "Nessuna foto caricata.",
-    "placeholder_line2": "Clicca \"Carica foto\" per iniziare.",
-    "hero_link_text": "Apri editor online sfocatura foto (Gaussian, Pixel, Motion)",
+    "placeholder_line2": "Tocca «Carica foto» per iniziare.",
+    "hero_link_text": "Editor online per sfocare foto",
     "seo_heading": "Editor online gratuito per sfocare foto",
-    "seo_paragraph": "Sfoca lo sfondo, nascondi dettagli e crea effetto movimento senza installare software.",
+    "seo_paragraph": "Sfoca un'intera foto, nascondi i dettagli o crea un effetto mosso senza installare nulla. Per sfocare solo lo sfondo o i volti, usa l'app per iPhone.",
     "back_to_home_text": "Torna alla home",
-    "app_cta_heading": "Ti serve un editor completo con sfocatura selettiva?",
-    "app_cta_subtext": "Per funzioni avanzate, flusso più rapido e controllo totale, installa Make Blur su iPhone.",
-    "app_cta_button": "Scarica l'app Make Blur"
+    "app_cta_heading": "Vuoi sfocare solo lo sfondo o i volti?",
+    "app_cta_subtext": "L'editor web sfoca l'intera foto. Per mantenere nitido il soggetto e sfocare solo sfondo, volti o un'area, installa MakeBlur su iPhone.",
+    "app_cta_button": "Scarica l'app"
   }
 }

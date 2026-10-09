@@ -1,0 +1,258 @@
+[
+  {
+    "slug": "motion-blur-fotograf.html",
+    "keyword": "motion blur fotoğraf",
+    "cluster": "effects",
+    "card_title": "Fotoğrafa motion blur (hareket bulanıklığı)",
+    "card_excerpt": "Arka planda hareket izi, konu net: Radius ve Angle ile hız hissi.",
+    "card_image": "/img/appstore/tr/02-motion.webp",
+    "card_image_alt": "Güneş gözlüklü kadının arkasında motion blur",
+    "meta_title": "Fotoğrafa motion blur ekleme: iPhone’da 4 adımda hareket",
+    "meta_description": "iPhone’da fotoğrafa motion blur (hareket bulanıklığı) ekleme: arka planda iz, konu net, yön ve uzunluk ayarlı. Çekilmiş fotoğraflarda da çalışır. Ücretsiz.",
+    "h1": "iPhone ile fotoğrafa motion blur ekleme",
+    "answer": "iPhone’da bir fotoğrafa motion blur eklemek için fotoğrafı MakeBlur’da aç, konunun net kalması için Background sekmesini bırak, Motion stilini seç, izin uzunluğunu Radius ile, yönünü Angle ile ayarla ve Save’e dokun. Arka plan hareket ediyormuş gibi görünür, kişi hareketsiz ve net kalır.",
+    "intro": "Motion blur, yani hareket bulanıklığı, her fotoğrafa hız katar: bir bisikletçi, bir araba, bir dansçı ya da daha dinamik bir gönderi için bir portre. Fotoğrafçılıkta uzun pozlama ve kaydırma (panning) ile yapılır; iPhone’da sonradan, yönünü ve yoğunluğunu kendin seçerek eklersin.",
+    "image": "/img/appstore/tr/02-motion.webp",
+    "image_alt": "Motion stili, Radius 65: arka planda iz, konu net",
+    "native": {
+      "heading": "iPhone’un kendisi neler yapar",
+      "paragraphs": [
+        "Canlı Fotoğraflar’da kareleri birleştirerek iz oluşturan «Uzun Pozlama» efekti var: yalnızca çekim sırasında gerçekten bir şey hareket ettiyse çalışır ve hareket eden her şeyi bulanıklaştırır — senin seçtiğin arka planı değil. Normal fotoğraflar için Fotoğraflar’da hareket efekti yok."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Radius ve Angle",
+        "paragraphs": [
+          "Radius izin uzunluğudur: düşük değerler hafif bir hareket, yüksek değerler hız hissi verir. Angle yöndür: arabalar ve koşucular için yatay, atlayışlar için çapraz, yağmur ya da düşüş için dikey. «Aksiyon karelerine motion blur» ekran görüntüsü Radius 65 kullanıyor."
+        ]
+      },
+      {
+        "heading": "Sadece arka plan mı, tüm fotoğraf mı",
+        "paragraphs": [
+          "Background ile yalnızca arka plan hareket eder — klasik kaydırma efekti. Full Photo ile tüm görüntü iz alır: kapaklar, soyut duvar kâğıtları ya da rüya gibi bir hava için kullanışlı."
+        ]
+      }
+    ],
+    "steps_title": "Uygulamada motion blur ekleme",
+    "steps": [
+      {
+        "title": "Fotoğrafı aç",
+        "description": "Konunun arka plandan iyi ayrıldığı bir fotoğraf en iyisi."
+      },
+      {
+        "title": "Background sekmesi",
+        "description": "Konu hareketsiz ve net kalır."
+      },
+      {
+        "title": "Motion stili",
+        "description": "Uzunluk için Radius, yön için Angle."
+      },
+      {
+        "title": "Save",
+        "description": "Efektli kopyayı kaydet."
+      }
+    ],
+    "tips_title": "İpuçları",
+    "tips": [
+      "Angle’ı konunun hareket yönüne göre ayarla: etki daha inandırıcı olur.",
+      "Arka planda şehir ışıkları varsa iz etkileyici bir ışık şeridine dönüşür.",
+      "Portrelerde abartma: orta bir Radius yeterince dinamizm katar."
+    ],
+    "faq_title": "Sık sorulan sorular",
+    "faq": [
+      {
+        "question": "Motion blur nedir?",
+        "answer": "Hareket bulanıklığı: bir şeyin hareket ettiğini düşündüren bir iz."
+      },
+      {
+        "question": "Hareketin yönünü seçebilir miyim?",
+        "answer": "Evet, Motion stilinin Angle kaydırıcısıyla."
+      },
+      {
+        "question": "Çekilmiş bir fotoğrafta çalışır mı?",
+        "answer": "Evet, Canlı Fotoğraf olmasa da arşivdeki her fotoğrafta."
+      }
+    ],
+    "related": [
+      "blur-efekti-fotograf.html",
+      "iphone-arka-plan-bulaniklastirma.html",
+      "bokeh-efekti-iphone.html",
+      "gauss-bulanikligi-iphone.html"
+    ],
+    "cta_title": "Her fotoğrafa hız",
+    "cta_body": "«Blur Photo Background Effect» uygulamasını indir, Motion’ı seç ve Angle’ı ayarla. Ücretsiz, iPhone’da.",
+    "cta_text": "App Store'dan indir"
+  },
+  {
+    "slug": "bokeh-efekti-iphone.html",
+    "keyword": "bokeh efekti iPhone",
+    "cluster": "effects",
+    "card_title": "iPhone’da bokeh efekti",
+    "card_excerpt": "Çektikten sonra bile yumuşak arka plan ve dağılan ışıklar: portre için Gaussian, rüya gibi görünüm için Ghosting.",
+    "card_image": "/img/appstore/tr/06-ghost.webp",
+    "card_image_alt": "Portrede yumuşak bokeh efekti",
+    "meta_title": "iPhone’da bokeh efekti, çektikten sonra da: örnekli rehber",
+    "meta_description": "Çekilmiş bir fotoğrafta iPhone ile bokeh efekti: yumuşak arka plan, dağılan ışıklar, net konu. Gaussian ve Ghosting stilleri, ücretsiz ve çevrimdışı çalışır.",
+    "h1": "iPhone’da bokeh efekti, çektikten sonra bile",
+    "answer": "Çekilmiş bir fotoğrafta bokeh efekti için fotoğrafı MakeBlur’da aç, Background sekmesini bırak, Gaussian’ı seç ve arka plan yumuşayıp ışıklar lekelere dönüşene kadar Radius’u artır. Tüm görüntüde daha rüya gibi bir görünüm için Full Photo sekmesinde Ghosting’i kullan. Sonra Save’e dokun.",
+    "intro": "Bokeh Japoncadan gelir ve fotoğrafın bulanık kısmının kalitesini anlatır: yumuşak dairelere dönüşen ışıklar, eriyen bir arka plan. Parlak objektiflerin etkisidir ve Portre modu bunu çekimde taklit eder. Elindeki bir fotoğrafla bu görünüme nasıl yaklaşılacağı burada.",
+    "image": "/img/appstore/tr/06-ghost.webp",
+    "image_alt": "Full Photo sekmesi ve Ghosting stili, Radius 79",
+    "native": {
+      "heading": "Portre moduyla bokeh",
+      "paragraphs": [
+        "Portre modu çekimde bokeh’i taklit eder ve Fotoğraflar → Düzenle’de diyaframı (f değeri) değiştirmene izin verir. Yalnızca Portre modunda çekilen fotoğraflarda çalışır. Diğerleri için Fotoğraflar’da bokeh efekti yok."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian mı Ghosting mi",
+        "paragraphs": [
+          "Background üzerinde Gaussian: portre bokeh’i, konu net ve arka plan yumuşak. Akşam ışıkları, vitrinler, süs ışıklarıyla harika görünür. Full Photo üzerinde Ghosting: tüm görüntüde yumuşak, çift bir parıltı — «Bokeh ile yumuşak hava» ekran görüntüsündeki gibi (Radius 79)."
+        ]
+      },
+      {
+        "heading": "En iyi sonuç veren fotoğraflar",
+        "paragraphs": [
+          "Işık noktalı arka planlar, canlı renkler ve konuyla arka plan arasında biraz mesafe. Beyaz bir duvarın önünde bokeh pek görünmez: orada hafif bir bulanıklık yeter."
+        ]
+      }
+    ],
+    "steps_title": "Uygulamada bokeh efekti",
+    "steps": [
+      {
+        "title": "Fotoğrafı aç",
+        "description": "İdeali arkada ışıklar olması."
+      },
+      {
+        "title": "Background + Gaussian",
+        "description": "Konu net kalır."
+      },
+      {
+        "title": "Radius",
+        "description": "Işıklar yumuşak lekelere dönüşene kadar artır."
+      },
+      {
+        "title": "Save",
+        "description": "Kopyayı kaydet."
+      }
+    ],
+    "tips_title": "İpuçları",
+    "tips": [
+      "Akşam fotoğrafları en güzel bokeh’i verir.",
+      "Kapak ve duvar kâğıtları için Full Photo’da Ghosting’i dene.",
+      "Kaydetmeden önce saç kenarlarını yakınlaştırarak kontrol et."
+    ],
+    "faq_title": "Sık sorulan sorular",
+    "faq": [
+      {
+        "question": "Bokeh nedir?",
+        "answer": "Fotoğrafın bulanık kısmının görünüşü, özellikle yumuşak lekelere dönüşen ışıklar."
+      },
+      {
+        "question": "Portre moduna ihtiyacım var mı?",
+        "answer": "Hayır, uygulama efekti çekilmiş her fotoğrafa uygular."
+      },
+      {
+        "question": "Gauss bulanıklığından farkı ne?",
+        "answer": "Gauss bir bulanıklık türüdür; bokeh ise özellikle ışıklarda ortaya çıkan estetik sonuçtur."
+      }
+    ],
+    "related": [
+      "gauss-bulanikligi-iphone.html",
+      "fotograf-arka-plan-bulanik.html",
+      "iphone-arka-plan-bulaniklastirma.html",
+      "motion-blur-fotograf.html"
+    ],
+    "cta_title": "Her fotoğrafa bokeh",
+    "cta_body": "«Blur Photo Background Effect» uygulamasını indir, Gaussian ya da Ghosting seç ve kaydet. Ücretsiz, yükleme yok.",
+    "cta_text": "App Store'dan indir"
+  },
+  {
+    "slug": "gauss-bulanikligi-iphone.html",
+    "keyword": "Gauss bulanıklığı",
+    "cluster": "effects",
+    "card_title": "iPhone’da Gauss bulanıklığı",
+    "card_excerpt": "Gauss bulanıklığı nedir, ne zaman kullanılır ve arka plana, yüzlere ya da tüm fotoğrafa nasıl uygulanır.",
+    "card_image": "/img/appstore/tr/04-box.webp",
+    "card_image_alt": "Yumuşak bulanıklığa sahip arka plan",
+    "meta_title": "Gauss bulanıklığı nedir ve iPhone’da nasıl uygulanır",
+    "meta_description": "Gauss bulanıklığı nedir ve iPhone’da arka plana, yüzlere ya da tüm fotoğrafa nasıl uygulanır? Box ve Motion ile farkları ve önerilen yoğunluklar. Ücretsiz.",
+    "h1": "Gauss bulanıklığı nedir ve iPhone’da nasıl uygulanır",
+    "answer": "Gauss bulanıklığı, odaktan çıkmış bir objektif gibi eşit ve yumuşak bir bulanıklıktır. iPhone’da MakeBlur ile uygularsın: fotoğrafı aç, yerini seç (arka plan için Background, yüzler için Faces, bir alan için Manual, tamamı için Full Photo), Gaussian stilini seç, Radius’u ayarla ve Save’e dokun.",
+    "intro": "Photoshop veya bilgisayarda başka bir editör kullandıysan «Gauss Bulanıklığı» filtresini bilirsin. Adı Gauss eğrisinden gelir: her piksel komşularıyla karışır, yakındakilerle daha çok, uzaktakilerle daha az. Sonuç sert kenarları olmayan yumuşak ve doğal bir bulanıklıktır. Ne zaman kullanacağını ve iPhone’da nasıl uygulayacağını burada görüyorsun.",
+    "image": "/img/appstore/tr/04-box.webp",
+    "image_alt": "Net bir portrenin arkasında yumuşatılmış arka plan",
+    "native": {
+      "heading": "iPhone’un kendisi neler yapar",
+      "paragraphs": [
+        "Fotoğraflar uygulamasında Gauss bulanıklığı filtresi yok. Ayarlar keskinliği ve tanımı değiştirir, ama yalnızca tüm görüntü için yukarı ya da biraz aşağı; bu gerçek bir bulanıklık değil."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian, Box ve Motion karşılaştırması",
+        "paragraphs": [
+          "Gaussian: yumuşak ve doğal, portreler ve arka planlar için tercih. Box: eşit ortalama, biraz daha düz, ürünler ve gizleme için kullanışlı. Motion: tek yönde bulanıklık, hareket için.",
+          "Gizlilik için Gauss bulanıklığını yüksek yoğunlukta kullan: hafifi şekilleri ve harfleri tahmin edilebilir bırakır."
+        ]
+      },
+      {
+        "heading": "Hangi Radius",
+        "paragraphs": [
+          "Doğal portreler için düşük, gönderi ve hikâyeler için orta, soyut arka planlar ya da gizlemek için yüksek. Her zaman yakınlaştırarak kontrol et."
+        ]
+      }
+    ],
+    "steps_title": "Gauss bulanıklığı uygulama",
+    "steps": [
+      {
+        "title": "Fotoğrafı aç",
+        "description": "MakeBlur’da."
+      },
+      {
+        "title": "Modu seç",
+        "description": "Background, Faces, Manual veya Full Photo."
+      },
+      {
+        "title": "Gaussian stili",
+        "description": "Radius’u ayarla."
+      },
+      {
+        "title": "Save",
+        "description": "Kopyayı kaydet."
+      }
+    ],
+    "tips_title": "İpuçları",
+    "tips": [
+      "Background üzerinde Gaussian, Portre modunu taklit etmenin en doğal yolu.",
+      "Full Photo’da yüksek yoğunlukla hikâyelerdeki yazılar için mükemmel arka planlar elde edersin.",
+      "Hassas bilgiler için Pixelate’i tercih et."
+    ],
+    "faq_title": "Sık sorulan sorular",
+    "faq": [
+      {
+        "question": "Neden Gauss denir?",
+        "answer": "Çünkü piksellerin karışma ağırlığı Gauss eğrisini (normal dağılım) izler."
+      },
+      {
+        "question": "Box bulanıklığından daha mı iyi?",
+        "answer": "Daha yumuşak ve doğal; Box daha eşit. Aradığın etkiye bağlı."
+      },
+      {
+        "question": "Sadece arka plana uygulayabilir miyim?",
+        "answer": "Evet, Background sekmesinde konu net kalır."
+      }
+    ],
+    "related": [
+      "bokeh-efekti-iphone.html",
+      "motion-blur-fotograf.html",
+      "iphone-arka-plan-bulaniklastirma.html",
+      "blur-efekti-fotograf.html"
+    ],
+    "cta_title": "Tek dokunuşla Gauss bulanıklığı",
+    "cta_body": "«Blur Photo Background Effect» uygulamasını indir: her modda Gaussian, cihazda. Ücretsiz indir.",
+    "cta_text": "App Store'dan indir"
+  }
+]

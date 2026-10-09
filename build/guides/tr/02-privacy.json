@@ -1,0 +1,430 @@
+[
+  {
+    "slug": "yuz-bulaniklastirma.html",
+    "keyword": "yüz bulanıklaştırma",
+    "cluster": "privacy",
+    "card_title": "Fotoğrafta yüz bulanıklaştırma",
+    "card_excerpt": "Çocuklar, arkadaşlar, yoldan geçenler: paylaşmadan önce tüm yüzleri tek dokunuşla bulanıklaştır.",
+    "card_image": "/img/appstore/tr/03-face.webp",
+    "card_image_alt": "Portre ızgarasında bulanıklaştırılmış yüzler",
+    "meta_title": "Fotoğrafta yüz bulanıklaştırma: iPhone’da birden fazla yüz",
+    "meta_description": "iPhone’da bir fotoğraftaki yüzü paylaşmadan önce bulanıklaştırma: tüm yüzler tek dokunuşla algılanır, Apple Intelligence gerekmez. Ücretsiz ve çevrimdışı.",
+    "h1": "iPhone’da fotoğraftaki yüzü bulanıklaştırma",
+    "answer": "iPhone’da bir fotoğraftaki yüzleri bulanıklaştırmak için fotoğrafı MakeBlur’da aç ve Faces (yüzler) sekmesini seç: uygulama tüm yüzleri algılar ve aynı anda bulanıklaştırır. Kimse tanınmayana kadar Radius’u artır ya da mozaik için Pixelate’i seç ve Save’e dokun. Tek bir yüzü bulanıklaştırmak için Manual sekmesini kullan ve parmağınla boya.",
+    "intro": "Yüz bulanıklaştırmanın birçok sebebi var: okul gösterisindeki çocukların yüzleri, internette görünmek istemeyen arkadaşlar, tatil fotoğrafındaki yoldan geçenler. KVKK ve kişilik hakları konuşulurken, paylaşmadan önce yüzleri gizleyenler giderek artıyor. İşte birkaç saniyede nasıl yapılacağı.",
+    "image": "/img/appstore/tr/03-face.webp",
+    "image_alt": "Faces sekmesi, Radius 80: sekiz yüz bulanık",
+    "native": {
+      "heading": "iPhone’un kendisi neler yapar",
+      "paragraphs": [
+        "Fotoğraflar’da yüz bulanıklaştırmak ya da pikselleştirmek için ayrı bir özellik yok. Apple Intelligence’ın Clean Up aracı (iOS 26.1’den beri Türkçe, iPhone 15 Pro ve üstü) nesneleri silmek içindir, yüz gizlemek için değil.",
+        "Geriye İşaretleme’nin şekilleri ve kalemi kalıyor: yüzü kapatır ama sonuç özensiz görünür."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Tüm yüzler mi, tek bir yüz mü",
+        "paragraphs": [
+          "Faces fotoğraftaki her yüzü bulur ve hepsini bulanıklaştırır: grup, sınıf ve parti fotoğrafları için doğru seçim. Birinin (örneğin kendinin) görünmesini istiyorsan Manual’ı kullan ve yalnızca gizlenecek yüzleri boya.",
+          "«Paylaşmadan önce yüzleri gizle» ekran görüntüsü tek dokunuşla bulanıklaştırılmış sekiz portreyi gösteriyor."
+        ]
+      },
+      {
+        "heading": "Bulanıklık mı piksel mi?",
+        "paragraphs": [
+          "Hafif bir bulanıklık, kişiyi iyi tanıyan biri için hâlâ tanınabilir bırakabilir. Gerçek gizlilik için yüksek Radius ya da Pixelate stilini kullan. Sosyal medya için daha yumuşak bir görünüm istiyorsan yüksek yoğunlukta Gaussian."
+        ]
+      }
+    ],
+    "steps_title": "Uygulamada yüz bulanıklaştırma",
+    "steps": [
+      {
+        "title": "Fotoğrafı aç",
+        "description": "Gizlemek istediğin kişilerin olduğu görseli seç."
+      },
+      {
+        "title": "Faces sekmesi",
+        "description": "Tüm yüzler algılanır ve bulanıklaştırılır."
+      },
+      {
+        "title": "Yoğunluk",
+        "description": "Kimse tanınmayana kadar Radius’u artır ya da Pixelate’i seç."
+      },
+      {
+        "title": "Save",
+        "description": "Orijinali değil, bulanık kopyayı paylaş."
+      }
+    ],
+    "tips_title": "İpuçları",
+    "tips": [
+      "Arka plandaki küçük yüzleri ve camlara yansıyanları kontrol et: eksik varsa Manual ile ekle.",
+      "Çocuklarda tişörtteki isim ya da okul logosu gibi ayrıntıları da bulanıklaştır.",
+      "Kaydettikten sonra kimsenin tanınmadığından emin olmak için yakınlaştır."
+    ],
+    "faq_title": "Sık sorulan sorular",
+    "faq": [
+      {
+        "question": "Apple Intelligence olmadan yüz bulanıklaştırılabilir mi?",
+        "answer": "Evet, iOS 18.6 olan her iPhone’da çalışan MakeBlur’un Faces sekmesiyle ya da tek yüz için Manual ile."
+      },
+      {
+        "question": "Bulanıklaştırılmış bir yüz geri açılabilir mi?",
+        "answer": "Yüksek yoğunlukla kaydedilmiş kopyada hayır: ayrıntılar silinir. Bu yüzden orijinali asla paylaşma."
+      },
+      {
+        "question": "Görüntülü arama ekran görüntülerinde çalışır mı?",
+        "answer": "Evet, Faces ekran görüntülerindeki yüzleri de algılar."
+      }
+    ],
+    "related": [
+      "fotograf-bir-kismini-bulaniklastirma.html",
+      "fotograf-pikselestirme-iphone.html",
+      "plaka-bulaniklastirma.html",
+      "bulaniklastirma-uygulamasi-iphone.html"
+    ],
+    "cta_title": "Paylaşmadan önce yüzleri koru",
+    "cta_body": "«Blur Photo Background Effect» uygulamasını indir, Faces’i seç ve kaydet. Ücretsiz, iPhone’da, yükleme yok.",
+    "cta_text": "App Store'dan indir"
+  },
+  {
+    "slug": "fotograf-bir-kismini-bulaniklastirma.html",
+    "keyword": "fotoğrafın bir kısmını bulanıklaştırma",
+    "cluster": "privacy",
+    "card_title": "Fotoğrafın bir kısmını bulanıklaştırma",
+    "card_excerpt": "Adres, numara, kalabalıktaki biri: parmağınla boya, sadece o alan bulanıklaşsın.",
+    "card_image": "/img/appstore/tr/05-crystalize.webp",
+    "card_image_alt": "Fırçayla bulanıklaştırılmış fotoğraf alanı",
+    "meta_title": "Fotoğrafın bir kısmını bulanıklaştırma: iPhone’da parmakla",
+    "meta_description": "iPhone’da fotoğrafın sadece bir kısmını bulanıklaştırma: alanı parmağınla boya, Gaussian ya da Pixelate seç. Yazı, numara, kişi veya nesne için. Ücretsiz.",
+    "h1": "iPhone’da fotoğrafın sadece bir kısmını bulanıklaştırma",
+    "answer": "iPhone’da bir fotoğrafın bir kısmını bulanıklaştırmak için fotoğrafı MakeBlur’da aç, Manual (fırça) sekmesini seç ve gizlemek istediğin alanın üzerinden parmağını geçir. Yalnızca boyadığın yer bulanıklaşır. Stili seç — yumuşak bir etki için Gaussian, gizlilik için Pixelate — Radius’u ayarla ve Save’e dokun.",
+    "intro": "Bazen arka planı ya da bir yüzü değil, belirli bir parçayı bulanıklaştırmak istersin: kapı numarası, yaka kartı, masadaki bir kâğıt, kalabalıktaki biri. Fotoğraflar uygulamasında bulanıklaştırma fırçası yok, bu yüzden bunu yapabilen bir araca ihtiyacın var. İşte nasıl.",
+    "image": "/img/appstore/tr/05-crystalize.webp",
+    "image_alt": "Fotoğrafın bir alanına uygulanmış mozaik",
+    "native": {
+      "heading": "iPhone’un kendisi neler yapar",
+      "paragraphs": [
+        "İşaretleme’de bir alanı dolu bir şekille ya da kalemle kapatabilirsin. Ayrıntı kaybolur ama görünür bir yama kalır. Clean Up (yalnızca Apple Intelligence ile) nesneleri bulanıklaştırmak yerine siler ve bazen arka planı garip doldurur. Fotoğraflar’da gerçek bir bulanıklaştırma fırçası yok."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Alanı iyi boyamak",
+        "paragraphs": [
+          "Boyamadan önce iki parmakla yakınlaştır: fırça parmağını daha hassas izler. Nesnenin etrafında küçük bir pay bırak, özellikle yazıda. Hata yaparsan baştan başla: orijinal ancak kaydettiğinde değişir."
+        ]
+      },
+      {
+        "heading": "Hangi stili seçmeli",
+        "paragraphs": [
+          "Gaussian: yumuşak, pek fark edilmez, estetik ayrıntılar için (çöp kutusu, tabela). Yüksek Radius’lu Pixelate veya Box: gerçekten kaybolması gereken bilgiler için. Crystallize veya Hexagonal: bulanıklığın görünmesini istediğinde grafik efekt."
+        ]
+      }
+    ],
+    "steps_title": "Uygulamada bir alanı bulanıklaştırma",
+    "steps": [
+      {
+        "title": "Fotoğrafı aç",
+        "description": "Görseli MakeBlur’da seç."
+      },
+      {
+        "title": "Manual sekmesi",
+        "description": "Yakınlaştır ve parmağını alanın üzerinden geçir."
+      },
+      {
+        "title": "Stil ve Radius",
+        "description": "Belli belirsiz etki için Gaussian, gizlilik için Pixelate."
+      },
+      {
+        "title": "Save",
+        "description": "Alanı bulanık kopya Fotoğraflar’a kaydedilir."
+      }
+    ],
+    "tips_title": "İpuçları",
+    "tips": [
+      "Sekmeleri birleştir: önce arka plan için Background, sonra bir ayrıntı için Manual.",
+      "Yazıda her zaman yüksek yoğunluk kullan: büyük harfler hafif bulanıklıkta okunabilir kalır.",
+      "Yansımalara dikkat: bir ayna az önce gizlediğin şeyi gösterebilir."
+    ],
+    "faq_title": "Sık sorulan sorular",
+    "faq": [
+      {
+        "question": "Aynı fotoğrafta birden fazla yeri bulanıklaştırabilir miyim?",
+        "answer": "Evet, Manual ile kaydetmeden önce istediğin kadar alan boyayabilirsin."
+      },
+      {
+        "question": "Ekran görüntülerinde çalışır mı?",
+        "answer": "Evet, ekran görüntüleri diğer fotoğraflar gibi açılır."
+      },
+      {
+        "question": "Bulanıklaştırılmayan kısım kalite kaybeder mi?",
+        "answer": "Hayır, fotoğrafın geri kalanı orijinalle aynıdır."
+      }
+    ],
+    "related": [
+      "ekran-goruntusu-yazi-kapatma.html",
+      "plaka-bulaniklastirma.html",
+      "fotograf-pikselestirme-iphone.html",
+      "yuz-bulaniklastirma.html"
+    ],
+    "cta_title": "Sadece istediğini bulanıklaştır",
+    "cta_body": "«Blur Photo Background Effect» uygulamasını indir, Manual’ı seç ve boya. Ücretsiz, iPhone’da.",
+    "cta_text": "App Store'dan indir"
+  },
+  {
+    "slug": "plaka-bulaniklastirma.html",
+    "keyword": "plaka bulanıklaştırma",
+    "cluster": "privacy",
+    "card_title": "Fotoğrafta plaka bulanıklaştırma",
+    "card_excerpt": "sahibinden veya arabam.com ilanı için: plaka okunmaz, ilan düzgün görünür.",
+    "card_image": "/img/appstore/tr/05-crystalize.webp",
+    "card_image_alt": "Piksellerle gizlenmiş plaka",
+    "meta_title": "Fotoğrafta plaka bulanıklaştırma: iPhone ile ücretsiz",
+    "meta_description": "sahibinden, arabam.com veya letgo ilanı için fotoğrafta plaka bulanıklaştırma: boya, pikselleştir, kaydet. iPhone’da, ücretsiz, internete hiç yüklemeden.",
+    "h1": "iPhone ile fotoğrafta plaka bulanıklaştırma",
+    "answer": "Bir fotoğraftaki plakayı bulanıklaştırmak için fotoğrafı MakeBlur’da aç, Manual sekmesini seç, parmağını plakanın üzerinden geçir, Pixelate veya Box stilini seç ve hiçbir karakter okunmayana kadar Radius’u artır. Save’e dokun ve bu kopyayı ilana yükle.",
+    "intro": "Arabasını veya motosikletini sahibinden, arabam.com ya da letgo’da satan — veya sadece Instagram’da gösteren — birçok kişi plakayı gizler. sahibinden ilan verirken plakayı zaten sisteme ayrı bir alana girmeni istiyor; fotoğraflarda görünmesi şart değil. Zorunlu değil ama dolandırıcıların ilanını ya da araç bilgilerini kopyalamasını zorlaştırmak için çoğu kişi önlem olarak yapar. Yine de ilan düzgün görünmeli: tampondaki siyah bir dikdörtgen özensiz durur. Temiz bir pikselleştirme ikisini birden çözer.",
+    "image": "/img/appstore/tr/05-crystalize.webp",
+    "image_alt": "Uygulamada fotoğrafın bir alanının pikselleştirilmesi",
+    "native": {
+      "heading": "Fotoğraflar ile neler yapılabilir",
+      "paragraphs": [
+        "İşaretleme’de plakayı bir şekille kapatabilir ya da kalemle boyayabilirsin. Gizlenir ama yama göze batar, yarı saydam fosforlu kalem de bazen karakterleri gösterir. Yerleşik editör bir alanı bulanıklaştıramaz veya pikselleştiremez."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Piksel mi bulanıklık mı?",
+        "paragraphs": [
+          "Plakalar için en güvenlisi yüksek Radius’lu Pixelate veya Box — büyük bloklar karakterleri siler. Hafif bir Gaussian, özellikle yüksek çözünürlüklü fotoğraflarda plakayı tahmin edilebilir bırakabilir.",
+          "Crystallize de gizler ama süslü görünür; ilan için nötr bir pikselleştirme daha iyidir."
+        ]
+      },
+      {
+        "heading": "Fotoğraf çok olduğunda",
+        "paragraphs": [
+          "Bir ilanda genelde 10–20 fotoğraf olur, plaka bunların üç dördünde görünür. Sırayla yap: aç, Manual, boya, Save — her biri yarım dakika. Yansımaları da kontrol et: bazen plaka bir vitrinde ya da iç mekân fotoğrafında ön camdan görünür."
+        ]
+      }
+    ],
+    "steps_title": "Uygulamada plaka bulanıklaştırma",
+    "steps": [
+      {
+        "title": "Aracın fotoğrafını aç",
+        "description": "Plakanın göründüğü bir fotoğraf seç."
+      },
+      {
+        "title": "Manual sekmesi",
+        "description": "Yakınlaştır ve plakayı küçük bir payla boya."
+      },
+      {
+        "title": "Pixelate ve Radius",
+        "description": "Yakınlaştırınca hiçbir karakter okunmayana kadar yoğunluğu artır."
+      },
+      {
+        "title": "Save",
+        "description": "Kaydedilen kopyayı ilana yükle."
+      }
+    ],
+    "tips_title": "İpuçları",
+    "tips": [
+      "Sadece karakterleri değil, plakanın tamamını kapat: il kodu da bilgi verir.",
+      "Ön ve arka fotoğrafları kontrol et: arabanın iki tamponunda da plaka var.",
+      "Ruhsat ya da şasi numarası görünüyorsa aynı şekilde gizle — ilanda bilerek paylaşmıyorsan."
+    ],
+    "faq_title": "Sık sorulan sorular",
+    "faq": [
+      {
+        "question": "İlanda plakayı gizlemek zorunlu mu?",
+        "answer": "Zorunlu değil, ama birçok satıcı araç bilgilerinin kötüye kullanılmasını önlemek için yapar. Karar senin. Bu hukuki tavsiye değildir."
+      },
+      {
+        "question": "Pikselleştirilmiş plaka geri getirilebilir mi?",
+        "answer": "Büyük bloklarla hayır: ayrıntılar kaydedilen kopyadan silinir. Orijinali yayınlama."
+      },
+      {
+        "question": "Fotoğraflar bir yere gönderiliyor mu?",
+        "answer": "Hayır, her şey iPhone’da, internetsiz olur."
+      }
+    ],
+    "related": [
+      "fotograf-bir-kismini-bulaniklastirma.html",
+      "fotograf-pikselestirme-iphone.html",
+      "ekran-goruntusu-yazi-kapatma.html",
+      "yuz-bulaniklastirma.html"
+    ],
+    "cta_title": "Plaka gizli, ilan düzgün",
+    "cta_body": "«Blur Photo Background Effect» uygulamasını indir, plakayı Manual’da boya ve kaydet. Ücretsiz, doğrudan iPhone’da.",
+    "cta_text": "App Store'dan indir"
+  },
+  {
+    "slug": "ekran-goruntusu-yazi-kapatma.html",
+    "keyword": "ekran görüntüsünde yazı kapatma",
+    "cluster": "privacy",
+    "card_title": "Ekran görüntüsünde yazı kapatma",
+    "card_excerpt": "Sohbetler, adresler, IBAN: SS’i göndermeden önce yazıyı okunmaz yap.",
+    "card_image": "/img/appstore/tr/05-crystalize.webp",
+    "card_image_alt": "Ekran görüntüsünde pikselleştirilmiş yazı",
+    "meta_title": "Ekran görüntüsünde yazı kapatma: iPhone’da güvenli yöntem",
+    "meta_description": "iPhone ekran görüntüsündeki yazıyı, isimleri ve numaraları göndermeden önce kapatma: parlaklık artırılınca geri gelmeyen pikseller. Ücretsiz, yükleme yok.",
+    "h1": "iPhone’da ekran görüntüsündeki yazıyı kapatma",
+    "answer": "Ekran görüntüsündeki yazıyı kapatmak için onu MakeBlur’da aç, Manual sekmesini seç, gizlenecek satırların (isim, numara, adres, mesaj) üzerinden parmağını geçir, Pixelate’i seç ve Radius’u artır. Save’e dokun ve kopyayı gönder. Göndermeden önce hiçbir şeyin okunmadığını kontrol etmek için yakınlaştır.",
+    "intro": "Sürekli ekran görüntüsü paylaşıyoruz: fikir almak için bir WhatsApp sohbeti, sipariş onayı, havale dekontu, bir uygulama hatası. Neredeyse hepsinde isim, telefon numarası, adres ya da kodlar olur. Gizlemek kolay ama doğru yapmak gerek: bazı yöntemler yazıyı okunur bırakır.",
+    "image": "/img/appstore/tr/05-crystalize.webp",
+    "image_alt": "İçeriği okunmaz yapan pikselli alan",
+    "native": {
+      "heading": "İşaretleme’nin sınırı",
+      "paragraphs": [
+        "İşaretleme’de fosforlu kalem var ama yarı saydam: kontrastı ya da parlaklığı artırınca alttaki yazı geri gelebilir. Dolu çizgili kalem birkaç kez geçersen daha iyi çalışır, dolu bir dikdörtgen güvenli ama çirkin. Bir alanı pikselleştirmek mümkün değil."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Neden piksel, neden hafif bulanıklık değil",
+        "paragraphs": [
+          "Beyaz zemin üzerindeki siyah yazı hafif bulanıklığa dayanır: kelimeler şeklinden tahmin edilir. Pixelate ve yüksek Radius ile her harf bir bloğa dönüşür ve içerik kaybolur. Ekran görüntüsünde pikselleştirme en anlaşılır olanıdır da: alan kişi bir şeyi bilerek gizlediğini anlar."
+        ]
+      },
+      {
+        "heading": "Genelde neler gizlenir",
+        "paragraphs": [
+          "Sohbetlerde: kişinin adı ve fotoğrafı, telefon numaraları. Siparişlerde: adres, e-posta, sipariş numarası. Bankacılıkta: IBAN, bakiye, alıcı adı. Belgelerde: T.C. kimlik numarası ve imza."
+        ]
+      }
+    ],
+    "steps_title": "Uygulamada yazı kapatma",
+    "steps": [
+      {
+        "title": "Ekran görüntüsünü aç",
+        "description": "Ekran Resimleri albümünde bulursun."
+      },
+      {
+        "title": "Manual sekmesi",
+        "description": "Gizlenecek satırları payla boya."
+      },
+      {
+        "title": "Pixelate",
+        "description": "Yakınlaştırınca hiçbir şey okunmayana kadar Radius’u artır."
+      },
+      {
+        "title": "Save",
+        "description": "Orijinali değil, kopyayı gönder."
+      }
+    ],
+    "tips_title": "İpuçları",
+    "tips": [
+      "Üst çubuğu unutma: kişi adları ve bildirim önizlemeleri sık sık SS’e girer.",
+      "Numaranın bir kısmını değil, tüm satırı gizle.",
+      "Kaydettikten sonra ihtiyacın yoksa orijinali sil."
+    ],
+    "faq_title": "Sık sorulan sorular",
+    "faq": [
+      {
+        "question": "İşaretleme’deki fosforlu kalem güvenli mi?",
+        "answer": "Tam değil: yarı saydam olduğu için parlaklık değişince yazı geri gelebilir. Pikselleştir ya da dolu bir şekil kullan."
+      },
+      {
+        "question": "Pikselleştirilmiş yazı kurtarılabilir mi?",
+        "answer": "Büyük bloklarla hayır. Hafif pikselleştirme ve büyük yazıda bazen evet: yüksek yoğunluk kullan."
+      },
+      {
+        "question": "Uzun ekran görüntüleriyle çalışır mı?",
+        "answer": "Arşivdeki görsellerle çalışır. PDF olarak kaydedilen tam sayfa ekran görüntüsünü önce görsel olarak kaydetmelisin."
+      }
+    ],
+    "related": [
+      "fotograf-bir-kismini-bulaniklastirma.html",
+      "fotograf-pikselestirme-iphone.html",
+      "plaka-bulaniklastirma.html",
+      "yuz-bulaniklastirma.html"
+    ],
+    "cta_title": "Gönül rahatlığıyla paylaşılan ekran görüntüleri",
+    "cta_body": "«Blur Photo Background Effect» uygulamasını indir, yazıyı Manual ile boya ve pikselleştir. Ücretsiz, çevrimdışı.",
+    "cta_text": "App Store'dan indir"
+  },
+  {
+    "slug": "fotograf-pikselestirme-iphone.html",
+    "keyword": "fotoğraf pikselleştirme",
+    "cluster": "privacy",
+    "card_title": "iPhone’da fotoğraf pikselleştirme",
+    "card_excerpt": "Yüze, yazıya veya arka plana mozaik: Pixelate, Hexagonal ve Crystallize açıklaması.",
+    "card_image": "/img/appstore/tr/05-crystalize.webp",
+    "card_image_alt": "Crystallize ile mozaiğe dönüşen arka plan",
+    "meta_title": "iPhone’da fotoğraf pikselleştirme: yüz, yazı veya arka plan",
+    "meta_description": "iPhone’da fotoğraf pikselleştirme: tüm görüntü, sadece arka plan, yüzler ya da bir alan. Pixelate, Hexagonal ve Crystallize stilleri, cihazda ve ücretsiz.",
+    "h1": "iPhone’da fotoğraf nasıl pikselleştirilir",
+    "answer": "iPhone’da bir fotoğrafı pikselleştirmek için onu MakeBlur’da aç, efektin nereye uygulanacağını seç (yüzler için Faces, bir alan için Manual, arka plan için Background, tamamı için Full Photo), Pixelate stilini seç ve blok boyutunu Radius ile ayarla. Pikselleştirilmiş kopyayı kaydetmek için Save’e dokun.",
+    "intro": "Pikselleştirme ya da mozaik, görüntünün bir kısmını büyük karelere dönüştürmektir: yüzleri ve bilgileri gizlemenin klasik yolu, aynı zamanda moda bir grafik efekt. iPhone’da yerleşik bir mozaik filtresi yok. İşte istediğin yere nasıl uygulanacağı.",
+    "image": "/img/appstore/tr/05-crystalize.webp",
+    "image_alt": "Arka planda Crystallize stili: kristal mozaik",
+    "native": {
+      "heading": "iPhone’un kendisi neler yapar",
+      "paragraphs": [
+        "Fotoğraflar’da mozaik filtresi yok. İşaretleme yalnızca kapatır, Clean Up (Apple Intelligence, iPhone 15 Pro ve üstü) ise siler. Yazıyı, arka planı ya da tüm görüntüyü pikselleştirmek için bir uygulama gerekir."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Üç mozaik stili",
+        "paragraphs": [
+          "Pixelate: klasik kareler, gizlilik için en güvenlisi. Hexagonal: altıgen hücreler, daha modern. Crystallize: düzensiz kristaller, sanatsal etki — «Tek dokunuşla pikselleştirme» ekran görüntüsündeki gibi, arka plan kristale dönüşüyor ve kız net kalıyor."
+        ]
+      },
+      {
+        "heading": "Gizlilik mi estetik mi",
+        "paragraphs": [
+          "Gizlemek için: Faces veya Manual üzerinde büyük bloklu Pixelate. Grafik efekt için: Background üzerinde Crystallize veya Hexagonal, böylece konu mozaik arka plan üzerinde öne çıkar."
+        ]
+      }
+    ],
+    "steps_title": "Uygulamada pikselleştirme",
+    "steps": [
+      {
+        "title": "Fotoğrafı aç",
+        "description": "Herhangi bir görsel veya ekran görüntüsü."
+      },
+      {
+        "title": "Sekmeyi seç",
+        "description": "Faces, Manual, Background veya Full Photo."
+      },
+      {
+        "title": "Pixelate stili",
+        "description": "Ya da Hexagonal veya Crystallize; blokları Radius ile ayarla."
+      },
+      {
+        "title": "Save",
+        "description": "Pikselleştirilmiş kopyayı kaydet."
+      }
+    ],
+    "tips_title": "İpuçları",
+    "tips": [
+      "Daha büyük bloklar = daha fazla gizlilik.",
+      "Yaratıcı bir gönderi için konuyu net tutup arka planda Crystallize’ı dene.",
+      "Yakınlaştırarak kontrol et: küçük ayrıntılar tamamen kaybolmalı."
+    ],
+    "faq_title": "Sık sorulan sorular",
+    "faq": [
+      {
+        "question": "Pikselleştirme mi mozaik mi sansür mü?",
+        "answer": "Üçü de aynı etki için kullanılır: görüntüyü büyük bloklara bölerek ayrıntıyı gizlemek."
+      },
+      {
+        "question": "Sadece arka planı pikselleştirebilir miyim?",
+        "answer": "Evet: Background sekmesi ve Pixelate ya da Crystallize stili; konu net kalır."
+      },
+      {
+        "question": "Fotoğraflarım gizli kalır mı?",
+        "answer": "Evet, işleme iPhone’da yapılır ve internet gerekmez."
+      }
+    ],
+    "related": [
+      "yuz-bulaniklastirma.html",
+      "ekran-goruntusu-yazi-kapatma.html",
+      "plaka-bulaniklastirma.html",
+      "blur-efekti-fotograf.html"
+    ],
+    "cta_title": "İstediğin yere mozaik",
+    "cta_body": "«Blur Photo Background Effect» uygulamasını indir: her modda Pixelate, Hexagonal ve Crystallize. Ücretsiz indir.",
+    "cta_text": "App Store'dan indir"
+  }
+]

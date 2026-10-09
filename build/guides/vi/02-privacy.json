@@ -1,0 +1,428 @@
+[
+  {
+    "slug": "lam-mo-khuon-mat-trong-anh.html",
+    "keyword": "làm mờ khuôn mặt trong ảnh",
+    "cluster": "privacy",
+    "card_title": "Làm mờ khuôn mặt trong ảnh",
+    "card_excerpt": "Che mặt người lạ, trẻ em hay đồng nghiệp trước khi đăng — một chạm cho mọi khuôn mặt.",
+    "card_image": "/img/appstore/vi/03-face.webp",
+    "card_image_alt": "Các khuôn mặt trong ảnh được làm mờ",
+    "meta_title": "Làm mờ khuôn mặt trong ảnh trên iPhone chỉ với một chạm",
+    "meta_description": "Cách làm mờ khuôn mặt trong ảnh trên iPhone trước khi đăng Facebook, Zalo: tab Faces tìm mọi khuôn mặt, chọn kiểu mờ và lưu. Không cần Apple Intelligence.",
+    "h1": "Làm mờ khuôn mặt trong ảnh trên iPhone",
+    "answer": "Để làm mờ khuôn mặt, mở ảnh trong MakeBlur và chọn tab Faces: ứng dụng tìm mọi khuôn mặt trong ảnh và làm mờ chúng cùng lúc. Chọn Gaussian hoặc Pixelate, tăng Radius đến khi không nhận ra được ai, rồi nhấn Save. Muốn chỉ che một người, dùng tab Manual và tô lên khuôn mặt đó.",
+    "intro": "Ảnh sự kiện, ảnh lớp học, ảnh đường phố thường có những người không muốn xuất hiện trên mạng — người lạ, trẻ em, đồng nghiệp. Che mặt trước khi đăng là phép lịch sự và giúp tránh rắc rối. Trên iPhone, cách nhanh nhất là để ứng dụng tự tìm khuôn mặt.",
+    "image": "/img/appstore/vi/03-face.webp",
+    "image_alt": "Tab Faces: mọi khuôn mặt tìm thấy đều được làm mờ",
+    "native": {
+      "heading": "iPhone có tính năng làm mờ mặt không?",
+      "paragraphs": [
+        "Không có công cụ làm mờ riêng. Đánh dấu (Markup) cho phép vẽ hình hoặc tô bút lên mặt — che được nhưng trông thô. Dọn dẹp của Apple Intelligence (có tiếng Việt từ cuối 2025) xóa vật thể và có thể che mặt bằng ô mosaic khi bạn khoanh vùng, nhưng chỉ chạy trên iPhone 15 Pro trở lên và từng mặt một."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian hay Pixelate?",
+        "paragraphs": [
+          "Gaussian mạnh trông mềm, hợp ảnh đăng mạng xã hội. Pixelate (ô vuông) rõ ràng là “đã che”, hợp ảnh cần riêng tư chắc chắn. Với mặt nhỏ ở xa, cả hai đều cần Radius đủ lớn."
+        ]
+      },
+      {
+        "heading": "Chỉ che một số người",
+        "paragraphs": [
+          "Faces làm mờ tất cả. Nếu muốn giữ mặt mình và chỉ che người khác, dùng Manual: phóng to và tô lên từng khuôn mặt cần che."
+        ]
+      }
+    ],
+    "steps_title": "Làm mờ khuôn mặt trong ứng dụng",
+    "steps": [
+      {
+        "title": "Mở ảnh",
+        "description": "Chọn ảnh có khuôn mặt cần che."
+      },
+      {
+        "title": "Tab Faces",
+        "description": "Mọi khuôn mặt được tìm và làm mờ."
+      },
+      {
+        "title": "Kiểu và Radius",
+        "description": "Gaussian hoặc Pixelate, tăng đến khi không nhận ra."
+      },
+      {
+        "title": "Save",
+        "description": "Đăng bản sao đã che."
+      }
+    ],
+    "tips_title": "Mẹo",
+    "tips": [
+      "Phóng to kiểm tra những khuôn mặt nhỏ ở rìa ảnh.",
+      "Che cả bảng tên, đồng phục có tên trường nếu ảnh có trẻ em.",
+      "Ảnh gốc vẫn còn trong thư viện — chỉ chia sẻ bản đã che."
+    ],
+    "faq_title": "Câu hỏi thường gặp",
+    "faq": [
+      {
+        "question": "Mặt nghiêng hay mặt nhỏ có được tìm thấy không?",
+        "answer": "Thường có, nhưng hãy kiểm tra. Nếu sót, dùng Manual để tô thêm."
+      },
+      {
+        "question": "Có làm mờ mặt trong video được không?",
+        "answer": "Không, ứng dụng chỉ xử lý ảnh."
+      },
+      {
+        "question": "Người khác có “bỏ mờ” được không?",
+        "answer": "Bản lưu là ảnh mới, thông tin gốc đã bị thay thế. Với Pixelate và Radius cao, chi tiết khuôn mặt không còn trong ảnh."
+      }
+    ],
+    "related": [
+      "lam-mo-mot-phan-anh-iphone.html",
+      "lam-mosaic-anh-iphone.html",
+      "che-chu-anh-chup-man-hinh.html",
+      "che-bien-so-xe-trong-anh.html"
+    ],
+    "cta_title": "Che khuôn mặt trong vài giây",
+    "cta_body": "Tải «Cách làm mờ nền ảnh», mở tab Faces và lưu. Miễn phí, ảnh không rời iPhone.",
+    "cta_text": "Tải trên App Store"
+  },
+  {
+    "slug": "lam-mo-mot-phan-anh-iphone.html",
+    "keyword": "làm mờ một phần ảnh trên iPhone",
+    "cluster": "privacy",
+    "card_title": "Làm mờ một phần ảnh trên iPhone",
+    "card_excerpt": "Tô bằng ngón tay lên vùng cần che: chữ, số nhà, người lạ, đồ vật.",
+    "card_image": "/img/appstore/vi/05-crystalize.webp",
+    "card_image_alt": "Một vùng ảnh được làm mờ bằng cọ tô",
+    "meta_title": "Làm mờ một phần ảnh trên iPhone bằng ngón tay, miễn phí",
+    "meta_description": "Cách làm mờ một phần ảnh trên iPhone: tô ngón tay lên vùng cần che rồi chọn Gaussian hoặc Pixelate. Cho chữ, số nhà, người lạ hay đồ vật. Miễn phí, trên máy.",
+    "h1": "Làm mờ một phần ảnh trên iPhone",
+    "answer": "Để làm mờ một phần ảnh, mở ảnh trong MakeBlur, chọn tab Manual và tô ngón tay lên vùng cần che. Chọn kiểu — Gaussian cho mềm, Pixelate cho che chắc chắn — chỉnh Radius và nhấn Save. Chỉ vùng bạn tô bị làm mờ.",
+    "intro": "Nhiều khi cả ảnh đều ổn, chỉ có một chi tiết không nên lộ: số nhà, tên trên phong bì, màn hình máy tính, người lạ ở góc ảnh. Cọ tô cho phép làm mờ đúng chỗ đó mà không ảnh hưởng phần còn lại.",
+    "image": "/img/appstore/vi/05-crystalize.webp",
+    "image_alt": "Vùng được tô chuyển thành mosaic Crystallize",
+    "native": {
+      "heading": "Ứng dụng Ảnh có làm được không?",
+      "paragraphs": [
+        "Không trực tiếp. Đánh dấu có bút và hình khối để che, nhưng không làm mờ hay pixel hóa. Bút đánh dấu bán trong suốt đôi khi vẫn để lộ chữ bên dưới."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Tô chính xác",
+        "paragraphs": [
+          "Phóng to bằng hai ngón tay trước khi tô vùng nhỏ. Tô rộng hơn chi tiết một chút để mép mờ không để lộ ký tự."
+        ]
+      },
+      {
+        "heading": "Kết hợp với xóa phông",
+        "paragraphs": [
+          "Bạn có thể xóa phông bằng Background, lưu, rồi mở bản đó và che thêm một chi tiết bằng Manual."
+        ]
+      }
+    ],
+    "steps_title": "Làm mờ một vùng",
+    "steps": [
+      {
+        "title": "Mở ảnh",
+        "description": "Chọn ảnh trong thư viện."
+      },
+      {
+        "title": "Tab Manual",
+        "description": "Tô lên vùng cần làm mờ."
+      },
+      {
+        "title": "Kiểu và Radius",
+        "description": "Gaussian, Pixelate hoặc Box."
+      },
+      {
+        "title": "Save",
+        "description": "Lưu bản sao."
+      }
+    ],
+    "tips_title": "Mẹo",
+    "tips": [
+      "Chữ và số: dùng Pixelate hoặc Box với Radius cao.",
+      "Người lạ ở nền: Gaussian trông tự nhiên hơn.",
+      "Kiểm tra phản chiếu trên kính, gương."
+    ],
+    "faq_title": "Câu hỏi thường gặp",
+    "faq": [
+      {
+        "question": "Tô nhầm thì sao?",
+        "answer": "Chưa lưu thì ảnh gốc không đổi — chỉ cần làm lại."
+      },
+      {
+        "question": "Có làm mờ nhiều vùng cùng lúc được không?",
+        "answer": "Được, tô lên tất cả các vùng rồi lưu một lần."
+      },
+      {
+        "question": "Dùng được với ảnh chụp màn hình không?",
+        "answer": "Được, ảnh chụp màn hình mở như ảnh thường."
+      }
+    ],
+    "related": [
+      "che-chu-anh-chup-man-hinh.html",
+      "che-bien-so-xe-trong-anh.html",
+      "lam-mo-khuon-mat-trong-anh.html",
+      "lam-mosaic-anh-iphone.html"
+    ],
+    "cta_title": "Che đúng chỗ cần che",
+    "cta_body": "Tải «Cách làm mờ nền ảnh», mở Manual và tô. Miễn phí, không tải lên đám mây.",
+    "cta_text": "Tải trên App Store"
+  },
+  {
+    "slug": "che-bien-so-xe-trong-anh.html",
+    "keyword": "che biển số xe trong ảnh",
+    "cluster": "privacy",
+    "card_title": "Che biển số xe trong ảnh",
+    "card_excerpt": "Cho tin đăng Chợ Tốt, Bonbanh hay nhóm Facebook: biển số không đọc được, ảnh vẫn gọn gàng.",
+    "card_image": "/img/appstore/vi/05-crystalize.webp",
+    "card_image_alt": "Biển số xe được che bằng pixel",
+    "meta_title": "Che biển số xe trong ảnh trên iPhone khi đăng bán xe",
+    "meta_description": "Cách che biển số xe trong ảnh trên iPhone khi đăng bán trên Chợ Tốt, Bonbanh hay nhóm Facebook: tô, pixel hóa và lưu. Miễn phí, ảnh không bị tải lên mạng.",
+    "h1": "Che biển số xe trong ảnh trên iPhone",
+    "answer": "Để che biển số xe, mở ảnh trong MakeBlur, chọn tab Manual, tô lên biển số, chọn Pixelate hoặc Box và tăng Radius đến khi không đọc được ký tự nào. Nhấn Save và dùng bản sao này cho tin đăng.",
+    "intro": "Người bán xe máy, ô tô trên Chợ Tốt, Bonbanh hay các nhóm Facebook thường che biển số để hạn chế bị lợi dụng thông tin xe hoặc sao chép tin đăng. Việc này không bắt buộc, nhưng nhiều người làm cho yên tâm. Ảnh vẫn nên gọn gàng: một ô đen trên đầu xe trông thiếu chuyên nghiệp — pixel hóa gọn gàng giải quyết cả hai.",
+    "image": "/img/appstore/vi/05-crystalize.webp",
+    "image_alt": "Pixel hóa một vùng ảnh trong ứng dụng",
+    "native": {
+      "heading": "Làm trong ứng dụng Ảnh được không?",
+      "paragraphs": [
+        "Đánh dấu cho phép vẽ hình che lên biển số. Biển số bị che, nhưng miếng che lộ rõ, và bút bán trong suốt đôi khi vẫn để lộ ký tự. Ứng dụng Ảnh không làm mờ hay pixel hóa một vùng."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Pixel hay làm mờ?",
+        "paragraphs": [
+          "Với biển số, Pixelate hoặc Box ở Radius cao là chắc chắn nhất — ô lớn xóa hết nét chữ. Gaussian nhẹ có thể vẫn đoán được số, nhất là ảnh độ phân giải cao.",
+          "Crystallize cũng che được nhưng trông trang trí; với tin đăng, pixel trung tính hợp hơn."
+        ]
+      },
+      {
+        "heading": "Khi có nhiều ảnh",
+        "paragraphs": [
+          "Tin đăng thường có 10–20 ảnh, biển số lộ ở vài tấm. Xử lý từng tấm: mở, Manual, tô, Save — khoảng nửa phút mỗi tấm. Kiểm tra cả phản chiếu trên kính và ảnh chụp giấy tờ xe."
+        ]
+      }
+    ],
+    "steps_title": "Che biển số trong ứng dụng",
+    "steps": [
+      {
+        "title": "Mở ảnh xe",
+        "description": "Chọn ảnh có lộ biển số."
+      },
+      {
+        "title": "Tab Manual",
+        "description": "Phóng to và tô kín biển số, rộng hơn một chút."
+      },
+      {
+        "title": "Pixelate và Radius",
+        "description": "Tăng đến khi phóng to vẫn không đọc được."
+      },
+      {
+        "title": "Save",
+        "description": "Đăng bản sao lên tin rao."
+      }
+    ],
+    "tips_title": "Mẹo",
+    "tips": [
+      "Che cả khung biển, không chỉ các số.",
+      "Ô tô có biển trước và sau; xe máy chỉ có biển sau.",
+      "Nếu ảnh có giấy đăng ký xe hay số khung, che luôn — trừ khi bạn chủ động công khai."
+    ],
+    "faq_title": "Câu hỏi thường gặp",
+    "faq": [
+      {
+        "question": "Có bắt buộc che biển số khi đăng bán không?",
+        "answer": "Không, nhiều người bán che để tránh bị lợi dụng thông tin. Đây không phải tư vấn pháp lý."
+      },
+      {
+        "question": "Người mua có cần biển số không?",
+        "answer": "Khi đã liên hệ nghiêm túc, bạn có thể gửi riêng thông tin cần thiết."
+      },
+      {
+        "question": "Ảnh có bị tải lên đâu không?",
+        "answer": "Không, mọi xử lý diễn ra trên iPhone."
+      }
+    ],
+    "related": [
+      "lam-mo-mot-phan-anh-iphone.html",
+      "lam-mosaic-anh-iphone.html",
+      "che-chu-anh-chup-man-hinh.html",
+      "lam-mo-khuon-mat-trong-anh.html"
+    ],
+    "cta_title": "Tin đăng gọn, biển số kín",
+    "cta_body": "Tải «Cách làm mờ nền ảnh», tô biển số và lưu. Miễn phí, ảnh không rời iPhone.",
+    "cta_text": "Tải trên App Store"
+  },
+  {
+    "slug": "che-chu-anh-chup-man-hinh.html",
+    "keyword": "che chữ trong ảnh chụp màn hình",
+    "cluster": "privacy",
+    "card_title": "Che chữ trong ảnh chụp màn hình",
+    "card_excerpt": "Số tài khoản, số điện thoại, tin nhắn Zalo: che sao cho tăng độ sáng cũng không lộ.",
+    "card_image": "/img/appstore/vi/05-crystalize.webp",
+    "card_image_alt": "Chữ trên ảnh chụp màn hình được pixel hóa",
+    "meta_title": "Che chữ trong ảnh chụp màn hình iPhone an toàn, nhanh",
+    "meta_description": "Cách che chữ, số tài khoản, số điện thoại trong ảnh chụp màn hình iPhone trước khi gửi: pixel hóa không lộ khi tăng độ sáng. Miễn phí, không tải ảnh lên mạng.",
+    "h1": "Che chữ trong ảnh chụp màn hình trên iPhone",
+    "answer": "Để che chữ trên ảnh chụp màn hình, mở ảnh trong MakeBlur, chọn tab Manual, tô lên các dòng cần ẩn, chọn Pixelate và tăng Radius. Nhấn Save rồi gửi bản sao. Phóng to kiểm tra để chắc không còn đọc được ký tự nào.",
+    "intro": "Ảnh chụp màn hình chuyển khoản, đơn hàng hay cuộc trò chuyện Zalo thường chứa số tài khoản, số điện thoại, địa chỉ, tên người khác. Trước khi gửi hay đăng, hãy che những dòng đó — và che đúng cách, vì bút đánh dấu bán trong suốt có thể bị “lộ” khi ai đó tăng độ sáng.",
+    "image": "/img/appstore/vi/05-crystalize.webp",
+    "image_alt": "Pixel hóa vùng chữ trên ảnh",
+    "native": {
+      "heading": "Dùng Đánh dấu có an toàn không?",
+      "paragraphs": [
+        "Bút thường tô kín ở độ mờ đục 100% thì che được. Nhưng bút đánh dấu (highlighter) bán trong suốt: tăng độ sáng, độ tương phản là có thể đọc lại chữ. Pixel hóa thay thế hẳn chi tiết bằng ô màu, nên không thể khôi phục."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Nên che những gì",
+        "paragraphs": [
+          "Số tài khoản, số thẻ, mã giao dịch, số điện thoại, địa chỉ, ảnh đại diện và tên người khác trong cuộc trò chuyện. Đừng quên thanh trạng thái phía trên và thông báo bật lên."
+        ]
+      },
+      {
+        "heading": "Che mà vẫn dễ đọc phần còn lại",
+        "paragraphs": [
+          "Tô vừa khít dòng cần ẩn, để phần nội dung bạn muốn chia sẻ vẫn rõ ràng. Box cho ô đều gọn, phù hợp ảnh chụp màn hình."
+        ]
+      }
+    ],
+    "steps_title": "Che chữ trong ứng dụng",
+    "steps": [
+      {
+        "title": "Mở ảnh chụp màn hình",
+        "description": "Chọn trong thư viện."
+      },
+      {
+        "title": "Tab Manual",
+        "description": "Phóng to, tô lên các dòng cần ẩn."
+      },
+      {
+        "title": "Pixelate",
+        "description": "Tăng Radius đến khi không đọc được."
+      },
+      {
+        "title": "Save",
+        "description": "Gửi bản sao đã che."
+      }
+    ],
+    "tips_title": "Mẹo",
+    "tips": [
+      "Tô rộng hơn dòng chữ một chút.",
+      "Kiểm tra ảnh đại diện và tên người khác trong nhóm chat.",
+      "Xóa ảnh chụp màn hình gốc nếu không cần nữa."
+    ],
+    "faq_title": "Câu hỏi thường gặp",
+    "faq": [
+      {
+        "question": "Chữ pixel hóa có khôi phục lại được không?",
+        "answer": "Với Radius cao, ô pixel lớn hơn ký tự, chi tiết không còn trong ảnh để khôi phục."
+      },
+      {
+        "question": "Làm mờ Gaussian có đủ không?",
+        "answer": "Với chữ, Pixelate hoặc Box chắc chắn hơn; Gaussian nhẹ có thể vẫn đoán được."
+      },
+      {
+        "question": "Có cần internet không?",
+        "answer": "Không, ứng dụng xử lý trên máy."
+      }
+    ],
+    "related": [
+      "lam-mo-mot-phan-anh-iphone.html",
+      "lam-mosaic-anh-iphone.html",
+      "che-bien-so-xe-trong-anh.html",
+      "lam-mo-khuon-mat-trong-anh.html"
+    ],
+    "cta_title": "Gửi ảnh chụp màn hình an toàn",
+    "cta_body": "Tải «Cách làm mờ nền ảnh», tô và pixel hóa trong vài giây. Miễn phí, xử lý trên máy.",
+    "cta_text": "Tải trên App Store"
+  },
+  {
+    "slug": "lam-mosaic-anh-iphone.html",
+    "keyword": "làm mosaic ảnh trên iPhone",
+    "cluster": "privacy",
+    "card_title": "Làm mosaic, pixel hóa ảnh trên iPhone",
+    "card_excerpt": "Ô vuông, lục giác hay tinh thể: che chi tiết hoặc tạo hiệu ứng nghệ thuật.",
+    "card_image": "/img/appstore/vi/05-crystalize.webp",
+    "card_image_alt": "Hiệu ứng mosaic Crystallize trên ảnh",
+    "meta_title": "Làm mosaic ảnh trên iPhone: pixel, lục giác, tinh thể",
+    "meta_description": "Cách làm mosaic, pixel hóa ảnh trên iPhone: che mặt, chữ, biển số hoặc tạo hiệu ứng nghệ thuật với Pixelate, Hexagonal, Crystallize. Miễn phí, xử lý trên máy.",
+    "h1": "Làm mosaic và pixel hóa ảnh trên iPhone",
+    "answer": "Để làm mosaic ảnh, mở ảnh trong MakeBlur, chọn vùng áp dụng (Faces, Manual, Background hoặc Full Photo), chọn kiểu Pixelate (ô vuông), Hexagonal (lục giác) hoặc Crystallize (tinh thể) và chỉnh Radius để đổi kích thước ô. Nhấn Save.",
+    "intro": "Mosaic — hay “che ô vuông” — là cách che quen thuộc trên báo chí và truyền hình: ai cũng hiểu chi tiết đã được giấu đi. Mosaic cũng là hiệu ứng nghệ thuật cho ảnh nền, bìa hay bài đăng. Trên iPhone, bạn làm được cả hai mà không cần máy tính.",
+    "image": "/img/appstore/vi/05-crystalize.webp",
+    "image_alt": "Kiểu Crystallize biến nền thành mosaic",
+    "native": {
+      "heading": "iPhone có hiệu ứng mosaic sẵn không?",
+      "paragraphs": [
+        "Ứng dụng Ảnh không có bộ lọc mosaic. Dọn dẹp của Apple Intelligence có thể phủ ô mosaic lên một khuôn mặt bạn khoanh vùng, nhưng chỉ trên iPhone 15 Pro trở lên và không chọn được kiểu hay kích thước ô."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Ba kiểu mosaic",
+        "paragraphs": [
+          "Pixelate: ô vuông cổ điển, che chắc nhất. Hexagonal: ô lục giác, hiện đại hơn. Crystallize: mảnh tinh thể không đều, đẹp cho hiệu ứng nghệ thuật. Radius càng cao, ô càng lớn."
+        ]
+      },
+      {
+        "heading": "Mosaic cho riêng tư và cho nghệ thuật",
+        "paragraphs": [
+          "Riêng tư: Faces hoặc Manual + Pixelate, Radius cao. Nghệ thuật: Background + Crystallize để chủ thể sắc nét trên nền mosaic, hoặc Full Photo cho ảnh trừu tượng."
+        ]
+      }
+    ],
+    "steps_title": "Làm mosaic trong ứng dụng",
+    "steps": [
+      {
+        "title": "Mở ảnh",
+        "description": "Chọn ảnh trong thư viện."
+      },
+      {
+        "title": "Chọn vùng",
+        "description": "Faces, Manual, Background hoặc Full Photo."
+      },
+      {
+        "title": "Kiểu mosaic",
+        "description": "Pixelate, Hexagonal hoặc Crystallize; chỉnh Radius."
+      },
+      {
+        "title": "Save",
+        "description": "Lưu bản sao."
+      }
+    ],
+    "tips_title": "Mẹo",
+    "tips": [
+      "Để che chắc, ô mosaic phải lớn hơn chi tiết cần giấu.",
+      "Crystallize ở Full Photo làm hình nền trừu tượng rất đẹp.",
+      "Kiểm tra lại bằng cách phóng to trước khi đăng."
+    ],
+    "faq_title": "Câu hỏi thường gặp",
+    "faq": [
+      {
+        "question": "Mosaic khác làm mờ thế nào?",
+        "answer": "Làm mờ làm mềm chi tiết; mosaic thay chi tiết bằng các ô màu, che rõ ràng hơn."
+      },
+      {
+        "question": "Có mosaic được cả ảnh không?",
+        "answer": "Được, dùng Full Photo."
+      },
+      {
+        "question": "Ảnh có bị tải lên máy chủ không?",
+        "answer": "Không, mọi xử lý diễn ra trên iPhone, không cần internet."
+      }
+    ],
+    "related": [
+      "lam-mo-khuon-mat-trong-anh.html",
+      "che-chu-anh-chup-man-hinh.html",
+      "che-bien-so-xe-trong-anh.html",
+      "blur-anh.html"
+    ],
+    "cta_title": "Mosaic chỉ với một chạm",
+    "cta_body": "Tải «Cách làm mờ nền ảnh» và thử Pixelate, Hexagonal, Crystallize. Miễn phí, xử lý trên máy.",
+    "cta_text": "Tải trên App Store"
+  }
+]

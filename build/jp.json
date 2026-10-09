@@ -1,324 +1,365 @@
 {
   "meta": {
     "lang": "jp",
-    "title": "iPhoneで背景をぼかす - 写真の背景をぼかす無料アプリ | Make Blur",
-    "description": "Make BlurでiPhoneの背景や顔をかんたんぼかし。自動検出にボケ・モーション・ガウシアンなど計7種。無料写真編集でブラシ指定や顔ぼかしも。操作は直感的で、プライバシー保護にも。今すぐApp Storeから入手。",
-    "keywords": "ボケ, ボケ効果 iPhone, 顔ぼかし, 顔をぼかす, 背景ぼかし, iPhone背景ぼかし, モーションブラー, ガウシアンブラー, 写真ぼかし, プライバシー 写真, ぼかしアプリ, 写真ぼかしアプリ",
+    "title": "iPhoneで写真の背景をぼかす｜撮った後でもOK - Make Blur",
+    "description": "撮ったあとの写真でも、iPhoneで背景をぼかせます。被写体を自動で検出して背景だけをやわらかく。顔のぼかしやスクショのモザイク、モーションブラー、ガウスぼかしにも対応。ポートレートモードもApple Intelligenceも不要で、無料で使えて写真は端末の外に出ません。",
+    "keywords": "背景 ぼかし, 写真 背景 ぼかし, iPhone 背景 ぼかし, 背景 ぼかし 後から, ぼかしアプリ, 顔 ぼかし, 顔 モザイク, モザイク 加工, スクショ モザイク, ナンバープレート 隠す, 写真 ぼかし 加工, モーションブラー, ボケ 写真, ガウスぼかし",
     "author": "Make Blur",
     "og_url": "https://makeblur.com/jp/",
-    "og_title": "iPhoneで背景をぼかす - 写真の背景をぼかす無料アプリ",
-    "og_description": "背景と顔をぼかすiPhone向け写真編集アプリMake Blur。ボケ・モーション・ガウシアンなど7種のぼかし、背景の自動検出、SNS共有前のプライバシー向け顔ぼかし。ブラシで領域指定も可能。App Storeで無料ダウンロード。",
+    "og_title": "iPhoneで写真の背景をぼかす — 撮った後でも",
+    "og_description": "撮ったあとの写真でも、iPhoneで背景をぼかせます。被写体を自動で検出して背景だけをやわらかく。顔のぼかしやスクショのモザイク、モーションブラー、ガウスぼかしにも対応。ポートレートモードもApple Intelligenceも不要で、無料で使えて写真は端末の外に出ません。",
     "og_image": "https://makeblur.com/jp/site_preview.png",
     "twitter_url": "https://makeblur.com/jp/",
-    "twitter_title": "iPhoneで背景をぼかす - 無料アプリ | Make Blur",
-    "twitter_description": "iPhoneで背景と顔をぼかす。ボケ、モーションブラー、ガウシアン — Make Blur。",
+    "twitter_title": "iPhoneで写真の背景をぼかす — 撮った後でも",
+    "twitter_description": "撮ったあとの写真でも、iPhoneで背景をぼかせます。被写体を自動で検出して背景だけをやわらかく。顔のぼかしやスクショのモザイク、モーションブラー、ガウスぼかしにも対応。ポートレートモードもApple Intelligenceも不要で、無料で使えて写真は端末の外に出ません。",
     "twitter_image": "https://makeblur.com/jp/site_preview.png",
     "canonical": "https://makeblur.com/jp/"
   },
   "header": {
-    "logo_alt": "Make Blur - iPhone用背景ぼかしアプリ",
+    "logo_alt": "写真の背景をぼかす — Make Blur",
     "app_name": "Make Blur",
-    "download_text": "今すぐダウンロード"
+    "download_text": "入手"
+  },
+  "ui": {
+    "skip_link": "本文へスキップ",
+    "nav_label": "メインメニュー",
+    "key_facts_label": "ポイント",
+    "language_label": "言語",
+    "breadcrumb_label": "パンくずリスト",
+    "on_this_page": "このページの内容",
+    "built_into_iphone": "iPhone標準機能",
+    "guide_meta_device": "iPhone · iOS 18.6以降",
+    "answer_note": "無料 · アップロードなし · 撮影済みの写真に",
+    "inline_cta_note": "無料 · iOS 18.6以降のiPhone · アップロードなし",
+    "aside_app_name": "写真の背景をぼかす 画像ぼかし加工",
+    "aside_app_note": "無料 · iOS 18.6以降",
+    "read_time": "{n}分で読めます",
+    "howto_tool": "MakeBlur – 写真の背景をぼかす（iPhoneアプリ）"
   },
   "hero": {
-    "title": "iPhoneで背景をぼかす - 写真を簡単に美しく仕上げる",
-    "subtitle": "写真の背景をぼかす最高の無料アプリ",
-    "screens": [
+    "eyebrow": "写真の背景をぼかす · iPhone向け無料アプリ",
+    "title": "写真の背景をぼかす",
+    "title_accent": "撮ったあとでも。",
+    "subtitle": "ポートレートモードが効くのは撮影の瞬間だけ。MakeBlur なら、すでに iPhone にある写真の背景・顔・好きな範囲を、数秒で、端末の中だけでぼかせます。",
+    "lead": "",
+    "image": {
+      "src": "/img/screens/box__15_pro_max.webp",
+      "alt": "iPhoneのMakeBlur：女性はくっきり、後ろのレンガの壁と花はぼけている",
+      "width": 600,
+      "height": 1299
+    },
+    "cta_text": "App Storeで入手",
+    "secondary_cta_text": "使い方を見る",
+    "chips": [
       {
-        "src": "/img/screens/box__15_pro_max.webp",
-        "alt": "iPhoneで背景をぼかす - ボックスブラー効果の例"
+        "text": "無料ダウンロード"
       },
       {
-        "src": "/img/screens/motion__15_pro_max.webp",
-        "alt": "iPhoneで背景をぼかす - モーションブラー効果の例"
+        "text": "撮影済みの写真に"
       },
       {
-        "src": "/img/screens/ghost__15_pro_max.webp",
-        "alt": "iPhoneで背景をぼかす - ゴーストブラー効果の例"
+        "text": "クラウドに送信なし"
       },
       {
-        "src": "/img/screens/crys__15_pro_max.webp",
-        "alt": "iPhoneで背景をぼかす - クリスタライズブラー効果の例"
-      },
-      {
-        "src": "/img/screens/ghost1__15_pro_max.webp",
-        "alt": "iPhoneで背景をぼかす - 高度なブラー効果の例"
+        "text": "iOS 18.6以降"
       }
     ],
-    "intro": {
-      "line1": "iPhoneで写真の背景をぼかしたいですか？",
-      "line2": "背景をぼかす最高のアプリをお探しですか？",
-      "paragraph1": "Make Blurは、背景と顔をぼかせる無料のiOS写真編集アプリです。ボケを含む7種類のブラー、自動検出付き。難しいツールは不要です。",
-      "paragraph2": "Make Blurなら、iPhoneで背景をぼかすのも、写真や画像をぼかすのも<strong>かんたん</strong>です。直感的な操作で、すぐにiPhoneの背景をぼかせるようになります—<em>写真の背景をぼかす、もっとも簡単な方法</em>です。"
+    "float_cards": [
+      {
+        "pos": "tl",
+        "label": "Background",
+        "value": "被写体を検出"
+      },
+      {
+        "pos": "br",
+        "label": "Box",
+        "value": "強さ 37"
+      }
+    ]
+  },
+  "download": {
+    "kicker": "App Storeで無料",
+    "title": "「写真の背景をぼかす」をダウンロード",
+    "subtitle": "撮った後の写真でも、背景・顔・好きな部分をぼかせる iPhone アプリです。",
+    "icon": {
+      "src": "/img/appstore/icon.webp",
+      "alt": "「写真の背景をぼかす」のアプリアイコン"
     },
-    "cta_text": "今すぐダウンロード"
+    "points": [
+      {
+        "text": "被写体を自動検出して背景をぼかす。ポートレートモード不要"
+      },
+      {
+        "text": "集合写真や街角の写真の顔をまとめてぼかす。Apple Intelligence 不要"
+      },
+      {
+        "text": "文字やナンバープレートなど、好きな範囲をなぞってぼかすブラシ"
+      },
+      {
+        "text": "Gaussian・Motion・Ghosting・Box・Pixelate・Hexagonal・Crystallize の7スタイル"
+      },
+      {
+        "text": "処理はすべて iPhone の中。写真はどこにもアップロードされません"
+      }
+    ],
+    "specs": [
+      {
+        "label": "価格",
+        "value": "無料"
+      },
+      {
+        "label": "対応",
+        "value": "iOS 18.6以降"
+      },
+      {
+        "label": "カテゴリ",
+        "value": "グラフィック／デザイン"
+      },
+      {
+        "label": "言語",
+        "value": "日本語ほか28言語"
+      }
+    ],
+    "body": "基本の背景ぼかしは無料です。高度なスタイルやツールは、必要に応じて App 内課金で利用できます。",
+    "cta_text": "App Storeで入手"
+  },
+  "screenshots": {
+    "title": "実際の画面",
+    "intro": "App Store の実際のスクリーンショット：モーションブラー、顔の保護、主役にピント、モザイク、やわらかなボケ。",
+    "items": [
+      {
+        "src": "/img/appstore/jp/02-motion.webp",
+        "alt": "サングラスの女性の背景にモーションブラー、Radius 65",
+        "caption": "モーションブラーで動きを出す"
+      },
+      {
+        "src": "/img/appstore/jp/03-face.webp",
+        "alt": "Facesタブ：検出された顔がすべてシェア前にぼかされている",
+        "caption": "顔はシェアする前に隠す"
+      },
+      {
+        "src": "/img/appstore/jp/04-box.webp",
+        "alt": "Backgroundタブ：女性はくっきり、背景はBoxスタイルでぼかし",
+        "caption": "主役くっきり、周りはぼかし"
+      },
+      {
+        "src": "/img/appstore/jp/05-crystalize.webp",
+        "alt": "Crystallizeスタイルで背景がモザイクに",
+        "caption": "モザイクもタップひとつ"
+      },
+      {
+        "src": "/img/appstore/jp/06-ghost.webp",
+        "alt": "写真全体にGhostingスタイルをかけたやわらかい仕上がり",
+        "caption": "やわらかなボケをすぐに"
+      }
+    ]
   },
   "statistics": {
-    "title": "Make Blurの実績",
-    "items": [
-      {
-        "number": "10,000+",
-        "label": "ダウンロード数"
-      },
-      {
-        "number": "4.5",
-        "label": "評価"
-      },
-      {
-        "number": "10+",
-        "label": "レビュー数"
-      },
-      {
-        "number": "7",
-        "label": "ブラー効果"
-      }
-    ]
-  },
-  "features": {
-    "title": "iPhoneで背景をぼかす - 実際に使える簡単な写真編集",
-    "intro": {
-      "line1": "iPhoneで背景をぼかすのが、どれだけ大変かわかっています。",
-      "paragraph1": "だからこそ、写真の背景をぼかす最高のアプリを作りました—<strong>使い方に困っていた初心者</strong>も、<strong>自信を持って写真を編集できる</strong>ようになります。",
-      "paragraph2": "難しいツールを使いこなす必要はありません—iPhoneで背景をぼかすだけで、美しい仕上がりになります。"
-    },
-    "items": [
-      {
-        "title": "写真の背景をぼかす - 簡単な背景ぼかし",
-        "description": "iPhoneで背景を<strong>かんたんに</strong>ぼかせます。<strong>自動検出機能</strong>で、写真の背景をぼかす際に被写体を引き立てることができます。SNSで<strong>目を引くプロ仕様の画像</strong>を作成できます。わずか数回のタップで、iPhoneの背景をぼかす方法がわかります—<em>写真の背景をぼかす、もっとも簡単な方法</em>です。"
-      },
-      {
-        "title": "顔をぼかしてプライバシー保護",
-        "description": "共有前に顔をぼかせます。集合写真やイベント向け。背景ぼかしと<strong>同じアプリ内</strong>で完結します。"
-      },
-      {
-        "title": "写真と画像をぼかす - シンプルな画像ぼかし",
-        "description": "複雑な操作にイライラすることなく、iPhoneで写真や画像をぼかせます。アーティスティックな効果のために写真をぼかしたい場合も、プライバシー保護のために画像をぼかしたい場合も、Make Blurがお手伝いします。<strong>素早く効果的に</strong>写真や画像をぼかすことができます。"
-      },
-      {
-        "title": "背景ぼかしのためのカスタムブラー描画",
-        "description": "写真に直接描画して、背景をぼかしたい場所をピンポイントで指定できます。この独自の機能により、<strong>写真の背景をぼかす際の完全なコントロール</strong>が可能になり、iPhoneで背景をぼかす際の創造的で精密な写真編集が実現できます。"
-      },
-      {
-        "title": "iPhoneで写真をぼかす方法が簡単に",
-        "description": "Make Blurは、iPhoneで写真をぼかす方法や画像をぼかす方法を知りたい方に<strong>ぴったりのアプリ</strong>です。直感的な操作で<strong>ストレスなく</strong>—<em>かんたんに</em>iPhoneで写真をぼかす方法がわかります。"
-      },
-      {
-        "title": "ボケ、モーションブラー、ガウシアンブラー",
-        "description": "<strong>ボケ</strong>でポートレート風の浅い被写界深度と柔らかいハイライト。モーション・ガウシアンも利用可能。合計<strong>7種類</strong>のブラー。"
-      },
-      {
-        "title": "背景をぼかす最高のアプリ - ユーザーに愛されています",
-        "description": "写真の背景をかんたんにぼかしたいiPhoneユーザー向けに特別に設計されています。Make Blurは、iPhoneで背景をぼかす簡単な方法で、<strong>初期ユーザーから4.5スターの評価</strong>をいただいています。iPhoneで背景をぼかす方法を学んで、写真をより魅力的に変えている他のユーザーに加わりましょう。"
-      }
-    ]
-  },
-  "blur_types": {
-    "title": "iPhoneで背景をぼかすための複数のブラータイプ",
-    "items": [
-      {
-        "title": "モーションブラー",
-        "description": "iPhoneで背景をぼかすために、動的なモーションブラー効果を作成できます。モーションブラー効果で写真に動きとエネルギーを加えられます。"
-      },
-      {
-        "title": "ガウシアンブラー",
-        "description": "写真の背景をぼかすために、滑らかで自然なガウシアンブラーを適用できます。iPhoneで背景をぼかす際のプロ仕様のソフトフォーカス効果です。"
-      },
-      {
-        "title": "ゴースト",
-        "description": "iPhoneで背景をぼかすために、幻想的なゴースト効果を追加できます。神秘的でアーティスティックな写真変換を作成できます。"
-      },
-      {
-        "title": "ピクセレート",
-        "description": "写真の背景をぼかすためにピクセレートブラーを使用できます。レトロなデジタルアート効果を作成したり、iPhoneで背景をぼかす際にプライバシーを保護したりできます。"
-      },
-      {
-        "title": "ヘキサゴナル",
-        "description": "iPhoneで背景をぼかすために、ユニークな六角形ブラーパターンを適用できます。創造的でモダンな写真効果です。"
-      },
-      {
-        "title": "クリスタライズ",
-        "description": "iPhoneで背景をぼかすために、クリスタライズブラー効果で写真を変身させられます。テクスチャと視覚的な興味を加えられます。"
-      },
-      {
-        "title": "ボケ（Bokeh）",
-        "description": "<strong>ボケ</strong>は浅い被写界深度を再現します。被写体はシャープ、背景は自然な光の玉で柔らかく—ポートレートレンズのような仕上がりです。"
-      }
-    ]
-  },
-  "comparison": {
-    "title": "Make Blur vs 他のブラーアプリ",
-    "intro": "Make Blurが他のiPhone用ブラーアプリとどのように比較されるかご覧ください。背景をぼかす最高のアプリを選ぶのに役立つ、事実に基づいた比較をご用意しました。",
-    "table": {
-      "feature_label": "機能",
-      "competitors": [
-        {
-          "name": "Make Blur"
-        },
-        {
-          "name": "一般的なブラーアプリ"
-        },
-        {
-          "name": "プレミアムブラーアプリ"
-        }
-      ],
-      "features": [
-        {
-          "name": "価格",
-          "value1": "フリーミアム（無料、オプションのアプリ内購入あり）",
-          "value2": "過度な広告とペイウォール",
-          "value3": "事前支払いまたはサブスクリプション"
-        },
-        {
-          "name": "ブラー効果の数",
-          "value1": "7種類（ボケ含む）",
-          "value2": "2〜3種類",
-          "value3": "3〜4種類"
-        },
-        {
-          "name": "顔ぼかし（プライバシー）",
-          "value1": "あり",
-          "value2": "ほぼなし",
-          "value3": "場合による"
-        },
-        {
-          "name": "背景の自動検出",
-          "value1": "あり",
-          "value2": "なし / 限定的",
-          "value3": "場合による"
-        },
-        {
-          "name": "カスタム描画ツール",
-          "value1": "あり",
-          "value2": "なし",
-          "value3": "場合による"
-        },
-        {
-          "name": "使いやすさの評価",
-          "value1": "4.5スター",
-          "value2": "3.5〜4.2スター",
-          "value3": "4.0〜4.5スター"
-        }
-      ]
-    },
-    "note": "データは2026年4月時点のApp Store情報に基づきます。Make Blurは背景ぼかし、顔ぼかし、ボケなどのフィルターと使いやすさ、フリーミアムを重視しています。"
+    "title": "",
+    "items": []
   },
   "how_it_works": {
-    "title": "iPhoneで背景をぼかす方法 - ステップバイステップガイド",
+    "nav_text": "使い方",
+    "title": "iPhoneで写真の背景をぼかす方法",
     "intro": {
-      "line1": "iPhoneで背景をぼかし、写真を普通から素晴らしいものに変える<strong>3つの簡単なステップ</strong>です。",
-      "paragraph1": "複雑なツールもストレスもありません。写真の背景をぼかすだけで、美しい仕上がりになります。"
+      "line1": "3ステップ",
+      "paragraph1": "撮り直しもパソコンも不要。手元の写真を開いて、被写体を確認し、保存するだけです。"
     },
     "steps": [
       {
         "number": "1",
-        "title": "背景をぼかすアプリをダウンロード",
-        "description": "App StoreからMake Blurをダウンロード—iPhoneで背景をぼかす最高のアプリです。<strong>数秒で始められ</strong>、iPhoneで背景をぼかす方法を学んだ<strong>多くの満足したユーザー</strong>に加われます。"
+        "title": "アプリを入手",
+        "description": "iOS 18.6 以降の iPhone 向けに App Store で無料。普通の写真、自撮り、スクショ、送られてきた画像など、ライブラリのどの写真でも開けます。"
       },
       {
         "number": "2",
-        "title": "背景をぼかす写真を開く",
-        "description": "iPhoneのギャラリーから任意の写真を開いて、写真の背景をぼかします。アプリが<strong>背景を自動で検出</strong>するので、iPhoneで背景をぼかすのがかんたんです。<em>手動で選択する必要はありません—背景をぼかすのはそれほど簡単です。</em>"
+        "title": "ぼかす場所を選ぶ",
+        "description": "Background は被写体を自動でくっきり残します。Faces は検出したすべての顔を隠します。Manual は好きな範囲をなぞるブラシ。Full Photo は写真全体をぼかします。"
       },
       {
         "number": "3",
-        "title": "ブラー効果を選択して保存",
-        "description": "ボケ、モーションブラー、ガウシアンなど7種類から選択。必要なら顔ぼかしも。<strong>保存</strong>して完成。"
+        "title": "スタイル・強さ・保存",
+        "description": "やわらかなレンズぼけなら Gaussian、動きなら Motion、プライバシーなら Pixelate。Radius で強さを調整し、Save で「写真」に保存します。"
       }
     ]
   },
+  "modes": {
+    "title": "4つのモード、スライダーはひとつ",
+    "items": [
+      {
+        "tab": "Background",
+        "name": "背景ぼかし",
+        "description": "被写体を検出してくっきり残し、その後ろをやわらかくぼかします。どんな写真でもポートレート風に。",
+        "url": "/jp/iphone-haikei-bokashi.html",
+        "link_text": "iPhoneで背景をぼかす"
+      },
+      {
+        "tab": "Faces",
+        "name": "顔ぼかし",
+        "description": "画像内のすべての顔をワンタップで検出してぼかします。Apple Intelligence は不要です。",
+        "url": "/jp/kao-bokashi-shashin.html",
+        "link_text": "写真の顔をぼかす"
+      },
+      {
+        "tab": "Manual",
+        "name": "写真の一部",
+        "description": "文字、ナンバープレート、表札、人混みの中の誰かを指でなぞるだけ。なぞった所だけがぼけます。",
+        "url": "/jp/shashin-ichibu-bokashi.html",
+        "link_text": "写真の一部をぼかす"
+      },
+      {
+        "tab": "Full Photo",
+        "name": "写真全体",
+        "description": "やわらかな壁紙、ストーリーズの背景、どんな写真もアートな一枚に。ワンアクションで。",
+        "url": "/jp/shashin-bokashi-kakou.html",
+        "link_text": "写真をぼかし加工する"
+      }
+    ],
+    "styles_label": "すべてのモードで使えるスタイル",
+    "styles": [
+      "Gaussian",
+      "Motion",
+      "Ghosting",
+      "Box",
+      "Pixelate",
+      "Hexagonal",
+      "Crystallize"
+    ],
+    "styles_note": "Radius：強さ · Angle：動きの方向"
+  },
   "final_cta": {
-    "title": "iPhoneで背景をぼかす準備はできましたか？",
-    "paragraph1": "写真の背景をぼかして、<strong>SNSで目を引く素晴らしい写真</strong>を作成したい場合は、アプリをダウンロードすることが<strong>最適な次のステップ</strong>です。",
-    "paragraph2": "完璧な背景でiPhoneの背景をぼかす<strong>スムーズな体験</strong>をお楽しみください—<em>複雑なアプリでのストレスはもうありません</em>。",
-    "paragraph3": "iPhoneで背景をぼかす方法を学ぶ機会を<strong>逃さないでください</strong>。<br>今日、<strong>使い方に困っていた初心者</strong>から<strong>自信を持って写真を編集できる</strong>ようになりましょう。",
-    "cta_text": "始める"
+    "eyebrow": "App Storeで無料",
+    "title": "手元の写真の背景を、いまぼかす",
+    "paragraph1": "「最近の項目」から写真を開き、アプリが被写体を見つけたらスライダーを動かして保存。顔、動き、写真全体も同じアプリで。",
+    "paragraph2": "",
+    "paragraph3": "アップロードなし · iOS 18.6以降のiPhone",
+    "images": [
+      "/img/appstore/jp/03-face.webp",
+      "/img/appstore/jp/04-box.webp",
+      "/img/appstore/jp/02-motion.webp"
+    ],
+    "cta_text": "App Storeで入手"
   },
   "footer": {
-    "copyright": "© {year} Make Blur. 全著作権所有。",
-    "download_text": "App StoreでMake Blurをダウンロード",
-    "tagline": "Make Blur - iPhoneで背景と顔をぼかす。ボケ・モーション・ガウシアンなど7種類、自動検出と顔ぼかし。",
+    "copyright": "© {year} Make Blur. All rights reserved.",
+    "download_text": "「写真の背景をぼかす」を App Store で入手",
+    "tagline": "「写真の背景をぼかす 画像ぼかし加工」（MakeBlur）は、撮影後の写真の背景・顔・任意の部分をぼかせる無料の iPhone アプリです。処理はすべて端末内で行われます。",
     "privacy_text": "プライバシーポリシー",
-    "terms_text": "利用規約"
+    "terms_text": "利用規約",
+    "more_title": "その他",
+    "fineprint": "「写真の背景をぼかす 画像ぼかし加工」には iOS 18.6 以降の iPhone が必要です。Apple、iPhone、App Store は、米国その他の国や地域で登録された Apple Inc. の商標です。"
   },
   "seo": {
     "breadcrumb_home": "ホーム",
     "faq_title": "よくある質問",
+    "faq_nav_text": "FAQ",
+    "faq_intro": "iPhone で写真をぼかす方法についての短い回答です。それぞれ詳しいガイドにつながっています。",
     "faq": [
       {
-        "question": "iPhoneで背景をぼかす方法は？",
-        "answer": "<strong>Make Blur</strong>をダウンロードし、写真を開いて<strong>背景の自動検出</strong>を使うか、<strong>マスク（ブラシ）</strong>で領域を指定します。続けて<strong>ボケ</strong>・<strong>モーションブラー</strong>・<strong>ガウシアンブラー</strong>など7種から選び、必要なら<strong>顔ぼかし</strong>を適用して<strong>保存</strong>します。"
+        "question": "撮った後の写真の背景を iPhone でぼかすには？",
+        "answer": "アプリで写真を開き、被写体が検出されるよう Background タブのまま Gaussian を選び、好みのやわらかさまで Radius を上げて Save をタップします。ポートレートモードなしで、ライブラリのどの写真にも使えます。",
+        "guide_keyword": "iPhone 背景 ぼかし"
       },
       {
-        "question": "iPhoneで背景ぼかし向けのおすすめアプリは？",
-        "answer": "<strong>Make Blur</strong>は、<strong>iPhone</strong>上で<strong>背景</strong>と<strong>顔</strong>のぼかしに特化し、<strong>自動で背景を検出</strong>、<strong>顔ぼかし</strong>、<strong>ボケ</strong>を含む<strong>7種類</strong>のブラー、わかりやすい操作感がそろっています。早い段階の利用者レビューでは、おおよそ<strong>4.5/5</strong>前後の星評価の例があります。"
+        "question": "「写真」アプリで普通の写真の背景はぼかせますか？",
+        "answer": "ポートレートモードで撮った写真なら、「編集」で深度（f値）を変えられます。普通の写真やスクショ、送られてきた画像には深度情報がなく、「写真」アプリに背景ぼかし機能はありません。そのためのアプリです。",
+        "guide_keyword": "ぼかしアプリ iPhone"
       },
       {
-        "question": "iPhoneで写真（1枚）をぼかす方法は？",
-        "answer": "<strong>Make Blur</strong>で写真を開き、<strong>ぼかす範囲</strong>を指定するか<strong>背景の自動検出</strong>を使います。必要なら<strong>顔ぼかし</strong>をオンにし、<strong>ボケ</strong>・<strong>モーション</strong>・<strong>ガウシアン</strong>など7種のうち好みの効果を選んで<strong>保存</strong>します。"
+        "question": "Apple Intelligence なしで顔をぼかすには？",
+        "answer": "「写真」のクリーンアップは iPhone 15 Pro 以降の Apple Intelligence 対応機種のみで、写り込みを消すための機能です。アプリの Faces タブなら、iOS 18.6 のどの iPhone でもすべての顔を一度に検出してぼかせます。",
+        "guide_keyword": "顔 ぼかし 写真"
       },
       {
-        "question": "写真の背景ぼかしを無料で使えますか？",
-        "answer": "はい。<strong>Make Blur</strong>は<strong>無料ダウンロード</strong>で、<strong>背景</strong>・<strong>顔</strong>のぼかしと、<strong>ボケ</strong>を含む<strong>7種類</strong>のぼかしの基本使い方が中心です。一部の<strong>高度なオプション</strong>は<strong>アプリ内課金</strong>の場合があり、<strong>コア編集</strong>は多くの場合、<strong>追加のサブスクリプション不要</strong>で使えます。最新条件は<strong>App Store</strong>の説明をご確認ください。"
+        "question": "写真の一部だけをぼかすには？",
+        "answer": "Manual タブで、文字やナンバープレート、人混みの中の人など、隠したい部分を指でなぞります。なぞった所だけがぼけ、強さは Radius で調整します。",
+        "guide_keyword": "写真 一部 ぼかし"
       },
       {
-        "question": "iPhoneでギャラリーの画像（写真ファイル）をぼかすには？",
-        "answer": "App Storeから<strong>Make Blur</strong>をインストールし、<strong>ギャラリー</strong>の画像を開きます。<strong>自動で背景を検出</strong>するか、<strong>マスク</strong>で描いて指定し、<strong>顔ぼかし</strong>が必要なら有効化。<strong>ボケ</strong>・<strong>モーション</strong>・<strong>ガウシアン</strong>など7種を選び、<strong>編集後の画像</strong>を保存します。"
+        "question": "メルカリやカーセンサーに載せる車のナンバーを隠すには？",
+        "answer": "写真を開いて Manual タブ、スタイルは Pixelate か Box。ナンバープレートをなぞり、文字が読めなくなるまで Radius を上げます。保存したコピーを出品に使えば、元の写真は iPhone から出ません。",
+        "guide_keyword": "ナンバープレート 隠す 写真"
       },
       {
-        "question": "iPhoneの背景ぼかしに使えるブラー効果にはどんなものがありますか？",
-        "answer": "<strong>Make Blur</strong>では、<strong>モーションブラー</strong>、<strong>ガウシアンブラー</strong>、<strong>ゴースト</strong>、<strong>ピクセレート</strong>、<strong>ヘキサゴナル</strong>、<strong>クリスタライズ</strong>、<strong>ボケ</strong>の<strong>7種</strong>があります。<strong>ボケ</strong>は<strong>被写界深度</strong>が浅い印象と、背景の光が丸く抜けたハイライト風表現向きです。<strong>背景</strong>にも<strong>一部だけ塗る領域</strong>にも使えます。"
+        "question": "スクショの文字にモザイクをかけるには？",
+        "answer": "Manual で住所・電話番号・LINE のトークなどの行をなぞり、Pixelate を選んでコピーを保存します。拡大して何も読めないことを確認しましょう。",
+        "guide_keyword": "スクショ モザイク"
       },
       {
-        "question": "他のぼかしアプリではなく、Make Blurを選ぶ理由は？",
-        "answer": "<strong>背景の自動検出</strong>、プライバシー向けの<strong>顔ぼかし</strong>、<strong>ボケ</strong>を含む<strong>7種</strong>のぼかし、そして<strong>フリーミアム</strong>で<strong>主要ツール</strong>を比較的使いやすい形にまとめている点が大きいです。単純なぼかしを<strong>高額サブスク</strong>や<strong>多すぎる広告</strong>の内側に置くアプリもあり、<strong>Make Blur</strong>は<strong>いきなり難しすぎない</strong>導入を重視する設計です。"
+        "question": "写真にモーションブラーをかけるには？",
+        "answer": "Motion スタイルを選びます。Radius で流れの長さ、Angle で方向を決めます。Background タブなら背景だけが流れ、被写体はくっきりのままです。",
+        "guide_keyword": "モーションブラー 写真"
       },
       {
-        "question": "iPhone純正の「ポートレート」等の内蔵ぼかしと、Make Blurは違いますか？",
-        "answer": "iPhone内蔵のぼかし（例：<strong>ポートレート</strong>）は、撮影時点・条件に依存します。<strong>Make Blur</strong>は、<strong>すでに保存済みの任意の写真</strong>に<strong>7種</strong>のぼかし、<strong>顔ぼかし</strong>、<strong>自動背景検出+ブラシ</strong>を組み合わせやすく、状況によっては<strong>幅広い表現</strong>がしやすい一方です。"
+        "question": "ガウスぼかしとボケの違いは？",
+        "answer": "ガウスぼかしは、ピントを外したレンズのように均一でなめらかなぼかしです。ボケは、ぼけた部分の光の玉などの見え方を指します。アプリでは Gaussian で整った背景ぼけ、Full Photo の Ghosting でより幻想的な雰囲気になります。",
+        "guide_keyword": "ガウスぼかし"
       },
       {
-        "question": "他のぼかしアプリと比べて、Make Blurの方が「良い」ですか？",
-        "answer": "好みはありますが、<strong>理不尽な定額縛り</strong>の少なめな<strong>フリーミアム</strong>、<strong>7種＋ボケ</strong>、<strong>顔ぼかし</strong>、<strong>背景の自動認識</strong>をまとめ、参考として<strong>約4.5</strong>星・<strong>1万回以上</strong>のDLなど、<strong>扱いやすさ</strong>を出している点は強みです。競合の<strong>ペイウォール</strong>や、無料枠の<strong>厳しさ</strong>と併せて、実機で比べるのが確実です。"
+        "question": "写真全体をぼかすには？",
+        "answer": "Full Photo タブで写真全体がぼけます。スタイルと強さを選んで、壁紙やストーリーズの背景、アートな画像に。インストールしたくない場合は、このサイトのオンラインエディターでも写真全体をぼかせます。",
+        "guide_keyword": "写真 ぼかし 加工"
       },
       {
-        "question": "iPhoneの写真で顔だけぼかすには？",
-        "answer": "<strong>Make Blur</strong>で写真を開き、<strong>顔ぼかし</strong>（同種のプライバシー向け）を選び、<strong>認識された顔</strong>か<strong>自分で囲った領域</strong>にぼかしをかけ、<strong>保存</strong>します。集合写真の共有前や、公開想定の投稿で<strong>身元</strong>を出しにくくする用途向き。PCソフト必須ではない<strong>同じ1本の流れ</strong>にまとめています。"
+        "question": "アプリは無料ですか？",
+        "answer": "はい。無料でダウンロードでき、基本の背景ぼかしが含まれています。高度なスタイルやツールは、必要に応じて App 内課金で利用できます。",
+        "guide_keyword": "写真 背景 ぼかし 加工"
       },
       {
-        "question": "Make Blurの「ボケ」フィルターは、具体的に何をするの？",
-        "answer": "被写体は<strong>シャープ</strong>に残し、背景に<strong>柔らかいぼかし</strong>と、<strong>自然に丸い</strong>ハイライト味（光の玉＝ボケ球）—開放の大きいポートレート風。他の<strong>モーション、ガウシアン、ゴースト、ピクセレート、ヘキサゴナル、クリスタライズ</strong>と同じ7種の<strong>1つ</strong>です。"
+        "question": "写真はサーバーにアップロードされますか？",
+        "answer": "いいえ。処理はすべて iPhone の中で行われ、ぼかしにインターネットは必要ありません。写真が端末の外に出ることはありません。",
+        "guide_keyword": "モザイク 加工 iPhone"
       },
       {
-        "question": "写真の「一部」だけ、ぼかしをかけられますか？",
-        "answer": "はい。<strong>自動の背景</strong>と、<strong>ブラシ／マスク</strong>の<strong>併用</strong>で、<strong>より強くぼかす所</strong>にブラシで<strong>重ねぬり</strong>したり、自動のマスクを手直ししたりして、保存前に<strong>微調整</strong>できます。"
-      },
-      {
-        "question": "顔の匿名化やナンバープレート等の扱いにも使えますか？",
-        "answer": "写真加工<strong>アプリ</strong>の範囲で、<strong>顔ぼかし</strong>や、より強い<strong>ぼかし／ピクセ化</strong>をかけ、<strong>目視で特定しづらくする</strong>想定向きです（例：車の<strong>ナンバープレート</strong>）。<strong>法的</strong>・<strong>コンプライアンス上の「十分さ」</strong>を保証するものではありません。必要に応じ<strong>専門家</strong>の助言をどうぞ。"
-      },
-      {
-        "question": "私のデータや写真は、Make Blur上で安全？",
-        "answer": "開発者の方針として、編集の<strong>多くを端末上・アプリ内</strong>で処理する作り目安です。クラウドへの<strong>自動アップロード有無</strong>や、保管・第三者提供は<strong>最新のプライバシーポリシー</strong>とApp Store掲載文で確認を。<strong>利用前に文面を一読</strong>することをおすすめします。"
+        "question": "どの iPhone で使えますか？",
+        "answer": "iOS 18.6 以降の iPhone ならどれでも使えます。Apple Intelligence もポートレート対応カメラも不要です。",
+        "guide_keyword": "ぼかしアプリ iPhone"
       }
     ],
     "structured_data": {
       "software_application": {
         "@context": "https://schema.org",
         "@type": "SoftwareApplication",
-        "name": "Make Blur",
+        "name": "写真の背景をぼかす 画像ぼかし加工",
+        "alternateName": [
+          "MakeBlur",
+          "Make Blur"
+        ],
         "applicationCategory": "PhotoEditorApplication",
-        "operatingSystem": "iOS",
+        "operatingSystem": "iOS 18.6以降",
         "offers": {
           "@type": "Offer",
           "price": "0",
-          "priceCurrency": "USD"
+          "priceCurrency": "JPY",
+          "description": "無料・App内課金は任意"
         },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.5",
-          "ratingCount": "10"
-        },
-        "description": "iPhoneで背景と顔をぼかす無料アプリ。ボケ・モーション・ガウシアンなど7種類、自動検出付き。"
+        "description": "撮影後の写真の背景をぼかせる無料の iPhone 向け写真編集アプリ。被写体の自動検出、顔のぼかし、手動ブラシ、Motion・Gaussian・Pixelate などのエフェクト。処理は端末内。",
+        "applicationSubCategory": "グラフィック／デザイン",
+        "image": "https://makeblur.com/img/appstore/icon-1024.png",
+        "screenshot": [
+          "https://makeblur.com/img/appstore/jp/01-cover.webp",
+          "https://makeblur.com/img/appstore/jp/02-motion.webp",
+          "https://makeblur.com/img/appstore/jp/03-face.webp",
+          "https://makeblur.com/img/appstore/jp/04-box.webp",
+          "https://makeblur.com/img/appstore/jp/05-crystalize.webp",
+          "https://makeblur.com/img/appstore/jp/06-ghost.webp"
+        ],
+        "featureList": [
+          "被写体の自動検出による背景ぼかし",
+          "顔のぼかし",
+          "手動ぼかしブラシ",
+          "写真全体のぼかし",
+          "Gaussian・Motion・Ghosting・Box・Pixelate・Hexagonal・Crystallize",
+          "端末内処理"
+        ],
+        "softwareVersion": "1.16.4",
+        "fileSize": "25.7MB",
+        "inLanguage": "ja",
+        "author": {
+          "@type": "Organization",
+          "name": "Make Blur",
+          "url": "https://makeblur.com"
+        }
       },
       "organization": {
         "@context": "https://schema.org",
@@ -326,40 +367,27 @@
         "name": "Make Blur",
         "url": "https://makeblur.com",
         "logo": "https://makeblur.com/img/logo.webp",
-        "description": "Make Blur - iPhone向け：背景・顔ぼかし、ボケ、モーション、ガウシアンブラー。"
+        "description": "Make Blur は、撮影後の写真の背景・顔・任意の部分をぼかせる無料の iPhone アプリ「写真の背景をぼかす 画像ぼかし加工」（MakeBlur）を提供しています。"
       },
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Make Blur",
         "url": "https://makeblur.com/jp/",
-        "description": "背景と顔をぼかすiPhoneアプリ。ボケほか6スタイル、自動検出。",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://makeblur.com/jp/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "inLanguage": "ja",
+        "description": "撮った後の写真の背景を iPhone でぼかす：ガイド、よくある質問、App Store でのダウンロード。"
       },
       "howto": {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "iPhoneで背景をぼかす方法",
-        "description": "Make BlurでiPhoneの背景と必要に応じて顔をぼかす手順（ボケ対応）。",
-        "step": [
+        "name": "iPhoneで写真の背景をぼかす方法",
+        "description": "撮影済みの写真の背景をぼかす：アプリを入手し、ぼかす場所を選び、強さを調整して端末に保存します。",
+        "step": [],
+        "totalTime": "PT2M",
+        "tool": [
           {
-            "@type": "HowToStep",
-            "name": "Make Blurアプリをダウンロード",
-            "text": "iPhoneで背景をぼかすために、App StoreからMake Blurをダウンロードします。"
-          },
-          {
-            "@type": "HowToStep",
-            "name": "写真を開く",
-            "text": "iPhoneのギャラリーから任意の写真を開きます。アプリが背景を自動検出するため、写真の背景をぼかすことができます。"
-          },
-          {
-            "@type": "HowToStep",
-            "name": "ブラー効果を選択",
-            "text": "ボケ、モーション、ガウシアンなどを選び、必要なら顔ぼかしを適用して保存します。"
+            "@type": "HowToTool",
+            "name": "MakeBlur – 写真の背景をぼかす（iPhoneアプリ）"
           }
         ]
       }
@@ -367,21 +395,21 @@
   },
   "editor": {
     "page_slug": "onrain-shashin-bokashi-editor.html",
-    "meta_title": "写真背景ぼかしオンライン - Gaussian・Pixel・Motion 無料エディター",
-    "meta_description": "写真の背景をオンラインで無料ぼかし。画像をアップロードし、gaussian・pixel・motion blurを適用してPNGを保存。",
-    "h1": "写真背景ぼかしオンライン - 無料エディター",
-    "intro": "写真をアップロードして、gaussian・pixel・motion blurを選択し、強さを調整してPNG保存。",
+    "meta_title": "写真をオンラインでぼかす無料エディター｜Gaussian・Pixel・Motion",
+    "meta_description": "写真全体をオンラインで無料ぼかし加工。画像をアップロードしてGaussian・Pixel・Motionを選び、強さを調整してPNGで保存できます。インストール不要で、ブラウザだけですぐに使えます。背景や顔だけを選んでぼかしたい場合は、iPhoneアプリが便利です。",
+    "h1": "写真をオンラインでぼかす — 無料エディター",
+    "intro": "写真をアップロードし、Gaussian・Pixel・Motion を選んで強さを調整、PNG で書き出します。Web エディターは写真全体をぼかします。",
     "upload_button": "写真をアップロード",
     "download_button": "PNGをダウンロード",
-    "slider_label": "ぼかし強度",
+    "slider_label": "ぼかしの強さ",
     "placeholder_line1": "まだ写真がアップロードされていません。",
-    "placeholder_line2": "「写真をアップロード」を押して開始。",
-    "hero_link_text": "無料オンライン写真ぼかしエディターを開く (Gaussian / Pixel / Motion)",
-    "seo_heading": "無料オンライン写真ぼかしエディター",
-    "seo_paragraph": "背景ぼかし、細部の非表示、モーション効果をインストール不要で実行。",
+    "placeholder_line2": "「写真をアップロード」をタップして始めましょう。",
+    "hero_link_text": "オンライン写真ぼかしエディター",
+    "seo_heading": "無料のオンライン写真ぼかしエディター",
+    "seo_paragraph": "写真全体をぼかしたり、細部を隠したり、モーションブラーをかけたりがインストール不要でできます。背景や顔だけをぼかしたいときは iPhone アプリをどうぞ。",
     "back_to_home_text": "トップページに戻る",
-    "app_cta_heading": "選択的な背景ぼかし対応のフル機能版が必要ですか？",
-    "app_cta_subtext": "高度な編集機能、より速いワークフロー、細かな調整には iPhone 用 Make Blur アプリをご利用ください。",
-    "app_cta_button": "Make Blur アプリをダウンロード"
+    "app_cta_heading": "背景や顔だけをぼかしたいですか？",
+    "app_cta_subtext": "Web エディターは写真全体をぼかします。被写体はくっきり残して背景・顔・指定した範囲だけをぼかすなら、iPhone に MakeBlur を入れてください。",
+    "app_cta_button": "アプリをダウンロード"
   }
 }

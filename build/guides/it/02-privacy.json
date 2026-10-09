@@ -1,0 +1,430 @@
+[
+  {
+    "slug": "sfocare-volto-foto.html",
+    "keyword": "sfocare volto foto",
+    "cluster": "privacy",
+    "card_title": "Sfocare un volto in una foto",
+    "card_excerpt": "Bambini, amici, passanti: sfoca tutti i volti con un tocco prima di pubblicare, senza Apple Intelligence.",
+    "card_image": "/img/appstore/it/03-face.webp",
+    "card_image_alt": "Volti sfocati in una griglia di ritratti",
+    "meta_title": "Sfocare un volto in foto su iPhone, anche più volti insieme",
+    "meta_description": "Come sfocare il volto di una persona in una foto su iPhone prima di pubblicarla: tutti i volti riconosciuti con un tocco, senza Apple Intelligence. Gratis.",
+    "h1": "Come sfocare un volto in una foto su iPhone",
+    "answer": "Per sfocare i volti in una foto su iPhone, aprila in MakeBlur e scegli la scheda Faces (volti): l’app riconosce tutti i volti e li sfoca insieme. Aumenta Radius finché non sono più riconoscibili, oppure scegli Pixelate per un mosaico, e tocca Save. Per sfocare un solo volto usa invece la scheda Manual e dipingilo con il dito.",
+    "intro": "Si sfoca un volto per tanti motivi: il viso dei bambini prima di pubblicare la gita di classe, gli amici che non vogliono finire sui social, i passanti in una foto di viaggio. In Italia il diritto all’immagine e la privacy sono temi sentiti, e chi pubblica spesso preferisce non rischiare. Ecco come farlo in pochi secondi.",
+    "image": "/img/appstore/it/03-face.webp",
+    "image_alt": "Scheda Faces con Radius 80: otto volti sfocati",
+    "native": {
+      "heading": "Cosa fa iPhone da solo",
+      "paragraphs": [
+        "Sugli iPhone con Apple Intelligence (da iPhone 15 Pro, iOS 18.4 o successivo in italiano), lo strumento Ripulisci di Foto può pixelare un volto se lo cerchi. Funziona un volto alla volta e non c’è sugli altri modelli.",
+        "Senza Apple Intelligence restano le forme e la penna di Markup: coprono il volto, ma con un risultato poco pulito."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Tutti i volti insieme o uno solo",
+        "paragraphs": [
+          "Faces trova ogni volto nell’immagine e li sfoca tutti: è la scelta giusta per foto di gruppo, classi, feste. Se vuoi lasciare visibile qualcuno (te stesso, per esempio) usa Manual e dipingi solo i volti da nascondere.",
+          "Lo screenshot «Copri i volti prima del post» mostra otto ritratti sfocati con un solo tocco."
+        ]
+      },
+      {
+        "heading": "Sfocatura o pixel?",
+        "paragraphs": [
+          "Una sfocatura leggera può lasciare riconoscibile una persona che si conosce bene. Per la privacy vera usa un Radius alto o lo stile Pixelate. Per un look più morbido, adatto ai social, Gaussian con intensità alta."
+        ]
+      }
+    ],
+    "steps_title": "Sfocare i volti nell’app",
+    "steps": [
+      {
+        "title": "Apri la foto",
+        "description": "Scegli l’immagine con le persone da nascondere."
+      },
+      {
+        "title": "Scheda Faces",
+        "description": "Tutti i volti vengono riconosciuti e sfocati."
+      },
+      {
+        "title": "Intensità",
+        "description": "Aumenta Radius o scegli Pixelate finché nessuno è riconoscibile."
+      },
+      {
+        "title": "Save",
+        "description": "Pubblica la copia sfocata, non l’originale."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "Controlla i volti piccoli sullo sfondo o riflessi nei vetri: se mancano, aggiungili con Manual.",
+      "Per i minori sfoca anche dettagli come il nome sulla maglia o lo stemma della scuola.",
+      "Ingrandisci dopo aver salvato per essere sicuro che nessuno sia riconoscibile."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Come sfoco un volto senza Apple Intelligence?",
+        "answer": "Con la scheda Faces di MakeBlur, che funziona su qualsiasi iPhone con iOS 18.6, oppure con Manual per un volto solo."
+      },
+      {
+        "question": "Si può togliere la sfocatura da un volto?",
+        "answer": "Non dalla copia salvata con intensità alta: i dettagli vengono rimossi. Per questo non pubblicare mai l’originale."
+      },
+      {
+        "question": "Funziona sugli screenshot di una videochiamata?",
+        "answer": "Sì, Faces riconosce i volti anche negli screenshot."
+      }
+    ],
+    "related": [
+      "sfocare-parte-foto-iphone.html",
+      "pixelare-foto-iphone.html",
+      "oscurare-targa-foto.html",
+      "app-sfocare-foto-iphone.html"
+    ],
+    "cta_title": "Volti al sicuro prima del post",
+    "cta_body": "Scarica «Sfocare Sfondo Foto», scegli Faces e salva. Gratis, sull’iPhone, senza caricamenti.",
+    "cta_text": "Scarica su App Store"
+  },
+  {
+    "slug": "sfocare-parte-foto-iphone.html",
+    "keyword": "sfocare una parte della foto iPhone",
+    "cluster": "privacy",
+    "card_title": "Sfocare una parte della foto su iPhone",
+    "card_excerpt": "Un indirizzo, un numero, una persona nella folla: dipingi con il dito e si sfoca solo quell’area.",
+    "card_image": "/img/appstore/it/05-crystalize.webp",
+    "card_image_alt": "Area di una foto sfocata con un pennello",
+    "meta_title": "Sfocare una parte della foto su iPhone con il dito (gratis)",
+    "meta_description": "Come sfocare solo una parte di una foto su iPhone: dipingi l’area con il dito e scegli Gaussian o Pixelate. Per testo, numeri, persone o oggetti. Gratis.",
+    "h1": "Come sfocare solo una parte di una foto su iPhone",
+    "answer": "Per sfocare una parte di una foto su iPhone, aprila in MakeBlur, scegli la scheda Manual (pennello) e passa il dito sull’area da nascondere. Si sfoca solo ciò che dipingi. Scegli lo stile, Gaussian per un effetto morbido o Pixelate per la privacy, regola Radius e tocca Save.",
+    "intro": "A volte non devi sfocare lo sfondo né un volto, ma un pezzo preciso: il numero civico, il cartellino del nome, un foglio sulla scrivania, una persona nella folla. L’app Foto non ha un pennello di sfocatura, quindi serve uno strumento che lo faccia. Ecco come.",
+    "image": "/img/appstore/it/05-crystalize.webp",
+    "image_alt": "Mosaico applicato a un’area della foto",
+    "native": {
+      "heading": "Cosa fa iPhone da solo",
+      "paragraphs": [
+        "In Markup puoi coprire un’area con una forma piena o con la penna. Il dettaglio è nascosto, ma resta una toppa visibile. Ripulisci (solo con Apple Intelligence) rimuove gli oggetti invece di sfocarli, e a volte ricostruisce lo sfondo in modo strano. Un vero pennello di sfocatura in Foto non c’è."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Come dipingere bene l’area",
+        "paragraphs": [
+          "Ingrandisci con due dita prima di dipingere: il pennello segue il dito in modo più preciso. Lascia un piccolo margine attorno all’oggetto, soprattutto se è testo. Se sbagli, puoi ricominciare: l’originale non viene toccato fino al salvataggio."
+        ]
+      },
+      {
+        "heading": "Quale stile scegliere",
+        "paragraphs": [
+          "Gaussian: morbido, si nota poco, adatto a dettagli estetici (un cestino, un cartello). Pixelate o Box con Radius alto: per dati da nascondere davvero. Crystallize o Hexagonal: effetto grafico, quando vuoi che la sfocatura si veda."
+        ]
+      }
+    ],
+    "steps_title": "Sfocare un’area nell’app",
+    "steps": [
+      {
+        "title": "Apri la foto",
+        "description": "Scegli l’immagine in MakeBlur."
+      },
+      {
+        "title": "Scheda Manual",
+        "description": "Ingrandisci e passa il dito sull’area."
+      },
+      {
+        "title": "Stile e Radius",
+        "description": "Gaussian per un effetto discreto, Pixelate per la privacy."
+      },
+      {
+        "title": "Save",
+        "description": "La copia con l’area sfocata va in Foto."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "Combina le schede: prima Background per lo sfondo, poi Manual per un dettaglio.",
+      "Per il testo usa sempre un’intensità alta: le lettere grandi restano leggibili con poca sfocatura.",
+      "Controlla i riflessi: uno specchio può mostrare quello che hai appena nascosto."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Posso sfocare più aree nella stessa foto?",
+        "answer": "Sì, con Manual dipingi tutte le aree che vuoi prima di salvare."
+      },
+      {
+        "question": "Funziona sugli screenshot?",
+        "answer": "Sì, gli screenshot si aprono come qualsiasi foto."
+      },
+      {
+        "question": "La parte non sfocata perde qualità?",
+        "answer": "No, il resto della foto resta identico all’originale."
+      }
+    ],
+    "related": [
+      "oscurare-testo-screenshot-iphone.html",
+      "oscurare-targa-foto.html",
+      "pixelare-foto-iphone.html",
+      "sfocare-volto-foto.html"
+    ],
+    "cta_title": "Sfoca solo ciò che vuoi",
+    "cta_body": "Scarica «Sfocare Sfondo Foto», scegli Manual e dipingi. Gratis, sull’iPhone.",
+    "cta_text": "Scarica su App Store"
+  },
+  {
+    "slug": "oscurare-targa-foto.html",
+    "keyword": "oscurare targa foto",
+    "cluster": "privacy",
+    "card_title": "Oscurare la targa in una foto",
+    "card_excerpt": "Per Subito, AutoScout24 o Marketplace: targa illeggibile, annuncio pulito.",
+    "card_image": "/img/appstore/it/05-crystalize.webp",
+    "card_image_alt": "Targa oscurata con pixel",
+    "meta_title": "Oscurare la targa in una foto su iPhone per annunci (gratis)",
+    "meta_description": "Come oscurare la targa in una foto per Subito, AutoScout24 o Marketplace: dipingi, pixela e salva. Su iPhone, gratis, senza caricare le foto su internet.",
+    "h1": "Come oscurare la targa in una foto su iPhone",
+    "answer": "Per oscurare la targa in una foto, aprila in MakeBlur, scegli la scheda Manual, passa il dito sulla targa, scegli lo stile Pixelate o Box e aumenta Radius finché nessun carattere è leggibile. Tocca Save e carica questa copia nell’annuncio.",
+    "intro": "Chi vende l’auto o la moto su Subito, AutoScout24 o Facebook Marketplace, o semplicemente la mostra su Instagram, spesso oscura la targa: riduce il rischio che qualcuno usi i dati del veicolo per truffe o targhe clonate. Non è sempre obbligatorio, ma molti lo fanno per prudenza. L’annuncio però deve restare curato: un rettangolo nero sul paraurti sembra improvvisato. Una pixelatura pulita risolve entrambe le cose.",
+    "image": "/img/appstore/it/05-crystalize.webp",
+    "image_alt": "Pixelatura di un’area della foto nell’app",
+    "native": {
+      "heading": "Cosa si può fare con Foto",
+      "paragraphs": [
+        "In Markup puoi coprire la targa con una forma o ripassarla con la penna. È nascosta, ma la toppa si vede, e l’evidenziatore semitrasparente a volte lascia intravedere i caratteri. L’editor integrato non sa sfocare né pixelare un’area."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Pixelare o sfocare?",
+        "paragraphs": [
+          "Per le targhe la scelta più sicura è Pixelate o Box con Radius alto: i blocchi grandi cancellano i caratteri. Una Gaussian leggera può lasciare la targa intuibile, soprattutto nelle foto ad alta risoluzione.",
+          "Anche Crystallize la nasconde, ma ha un effetto decorativo; per un annuncio è meglio una pixelatura neutra."
+        ]
+      },
+      {
+        "heading": "Quando le foto sono tante",
+        "paragraphs": [
+          "Un annuncio ha spesso 10–20 foto e la targa si vede in tre o quattro. Lavora una foto alla volta: apri, Manual, dipingi, Save, mezzo minuto ciascuna. Controlla anche i riflessi: a volte la targa compare in una vetrina o attraverso il vetro nelle foto degli interni."
+        ]
+      }
+    ],
+    "steps_title": "Oscurare la targa nell’app",
+    "steps": [
+      {
+        "title": "Apri la foto dell’auto",
+        "description": "Scegli una foto in cui la targa è visibile."
+      },
+      {
+        "title": "Scheda Manual",
+        "description": "Ingrandisci e dipingi la targa con un po’ di margine."
+      },
+      {
+        "title": "Pixelate e Radius",
+        "description": "Aumenta l’intensità finché, ingrandendo, nessun carattere è leggibile."
+      },
+      {
+        "title": "Save",
+        "description": "Carica la copia salvata nell’annuncio."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "Copri tutta la targa, non solo i caratteri: anche la sigla della provincia sul lato dice qualcosa.",
+      "Controlla foto davanti e dietro: le targhe sono su entrambi i paraurti (sulle moto, solo dietro).",
+      "Se nell’immagine c’è il libretto o il numero di telaio, oscuralo allo stesso modo."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "È obbligatorio oscurare la targa in un annuncio?",
+        "answer": "Non c’è un obbligo chiaro, ma molti venditori lo fanno per evitare usi impropri dei dati del veicolo. La scelta è tua. Non è una consulenza legale."
+      },
+      {
+        "question": "Una targa pixelata si può ricostruire?",
+        "answer": "Con blocchi grandi no: i dettagli vengono rimossi dalla copia salvata. Non pubblicare l’originale."
+      },
+      {
+        "question": "Le foto vengono caricate da qualche parte?",
+        "answer": "No, tutto avviene sull’iPhone, senza internet."
+      }
+    ],
+    "related": [
+      "sfocare-parte-foto-iphone.html",
+      "pixelare-foto-iphone.html",
+      "oscurare-testo-screenshot-iphone.html",
+      "sfocare-volto-foto.html"
+    ],
+    "cta_title": "Targa nascosta, annuncio pulito",
+    "cta_body": "Scarica «Sfocare Sfondo Foto», dipingi la targa con Manual e salva. Gratis, direttamente sull’iPhone.",
+    "cta_text": "Scarica su App Store"
+  },
+  {
+    "slug": "oscurare-testo-screenshot-iphone.html",
+    "keyword": "oscurare testo screenshot iPhone",
+    "cluster": "privacy",
+    "card_title": "Oscurare il testo in uno screenshot",
+    "card_excerpt": "Chat, indirizzi, numeri d’ordine: rendi illeggibile il testo prima di condividere lo screenshot.",
+    "card_image": "/img/appstore/it/05-crystalize.webp",
+    "card_image_alt": "Testo pixelato in uno screenshot",
+    "meta_title": "Oscurare il testo in uno screenshot su iPhone in modo sicuro",
+    "meta_description": "Come oscurare testo, nomi e numeri in uno screenshot su iPhone prima di condividerlo: pixelatura che non si legge in controluce. Gratis, senza caricamenti.",
+    "h1": "Come oscurare il testo in uno screenshot su iPhone",
+    "answer": "Per oscurare il testo in uno screenshot, aprilo in MakeBlur, scegli la scheda Manual, passa il dito sulle righe da nascondere (nome, numero, indirizzo, messaggio), scegli Pixelate e aumenta Radius. Tocca Save e condividi la copia. Ingrandisci prima di inviarla per controllare che non si legga nulla.",
+    "intro": "Condividiamo screenshot di continuo: una chat per chiedere un parere, la conferma di un ordine, un bonifico, un errore dell’app. Quasi sempre dentro ci sono nomi, numeri di telefono, indirizzi o codici. Nasconderli è facile, ma bisogna farlo nel modo giusto: alcuni metodi lasciano il testo leggibile.",
+    "image": "/img/appstore/it/05-crystalize.webp",
+    "image_alt": "Area pixelata che rende illeggibile il contenuto",
+    "native": {
+      "heading": "Il limite di Markup",
+      "paragraphs": [
+        "Markup ha un evidenziatore, ma è semitrasparente: aumentando contrasto o luminosità il testo sotto può riapparire. La penna a tratto pieno funziona meglio se ripassi più volte, e una forma rettangolare piena è sicura ma brutta da vedere. Pixelare un’area non è possibile."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Perché pixelare e non sfocare poco",
+        "paragraphs": [
+          "Il testo nero su sfondo bianco resiste a una sfocatura leggera: le parole si intuiscono dalla forma. Con Pixelate e Radius alto ogni lettera diventa un blocco e il contenuto sparisce. In uno screenshot lo stile pixelato è anche il più riconoscibile: chi lo riceve capisce che hai nascosto qualcosa apposta."
+        ]
+      },
+      {
+        "heading": "Cosa nascondere di solito",
+        "paragraphs": [
+          "Nelle chat: nome e foto del contatto, numeri di telefono. Negli ordini: indirizzo, email, numero d’ordine. Nelle banche: IBAN, saldo, nome del destinatario. Nei documenti: codice fiscale e firma."
+        ]
+      }
+    ],
+    "steps_title": "Oscurare il testo nell’app",
+    "steps": [
+      {
+        "title": "Apri lo screenshot",
+        "description": "Lo trovi nell’album Screenshot della libreria."
+      },
+      {
+        "title": "Scheda Manual",
+        "description": "Dipingi le righe da nascondere, con margine."
+      },
+      {
+        "title": "Pixelate",
+        "description": "Aumenta Radius finché, ingrandendo, nulla è leggibile."
+      },
+      {
+        "title": "Save",
+        "description": "Condividi la copia, non l’originale."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "Non dimenticare la barra in alto: nomi dei contatti e anteprime delle notifiche finiscono spesso negli screenshot.",
+      "Oscura tutta la riga, non solo una parte del numero.",
+      "Dopo aver salvato, elimina l’originale se non ti serve."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "L’evidenziatore di Markup è sicuro?",
+        "answer": "Non del tutto: è semitrasparente e il testo può riapparire modificando la luminosità. Meglio pixelare o usare una forma piena."
+      },
+      {
+        "question": "Si può recuperare un testo pixelato?",
+        "answer": "Con blocchi grandi no. Con una pixelatura leggera e testo grande, a volte sì: usa un’intensità alta."
+      },
+      {
+        "question": "Funziona con screenshot lunghi o PDF?",
+        "answer": "Funziona con le immagini nella libreria. Gli screenshot a pagina intera salvati come PDF vanno prima salvati come immagine."
+      }
+    ],
+    "related": [
+      "sfocare-parte-foto-iphone.html",
+      "pixelare-foto-iphone.html",
+      "oscurare-targa-foto.html",
+      "sfocare-volto-foto.html"
+    ],
+    "cta_title": "Screenshot da condividere senza pensieri",
+    "cta_body": "Scarica «Sfocare Sfondo Foto», dipingi il testo con Manual e pixela. Gratis, offline.",
+    "cta_text": "Scarica su App Store"
+  },
+  {
+    "slug": "pixelare-foto-iphone.html",
+    "keyword": "pixelare foto iPhone",
+    "cluster": "privacy",
+    "card_title": "Pixelare una foto su iPhone",
+    "card_excerpt": "Mosaico su volti, testo o sfondo: Pixelate, Hexagonal e Crystallize spiegati.",
+    "card_image": "/img/appstore/it/05-crystalize.webp",
+    "card_image_alt": "Sfondo trasformato in mosaico con Crystallize",
+    "meta_title": "Pixelare una foto su iPhone: volti, testo o sfondo a mosaico",
+    "meta_description": "Come pixelare una foto su iPhone: tutta l’immagine, solo lo sfondo, i volti o un’area. Stili Pixelate, Hexagonal e Crystallize, sul dispositivo e gratis.",
+    "h1": "Come pixelare una foto su iPhone",
+    "answer": "Per pixelare una foto su iPhone, aprila in MakeBlur, scegli dove applicare l’effetto (Faces per i volti, Manual per un’area, Background per lo sfondo, Full Photo per tutto), seleziona lo stile Pixelate e regola la grandezza dei blocchi con Radius. Tocca Save per salvare la copia pixelata.",
+    "intro": "Pixelare (o pixellare) significa trasformare una parte dell’immagine in quadrati grandi: è il modo classico per nascondere volti e dati, ma anche un effetto grafico che va di moda. Su iPhone non c’è un filtro a mosaico integrato. Ecco come applicarlo dove vuoi.",
+    "image": "/img/appstore/it/05-crystalize.webp",
+    "image_alt": "Stile Crystallize sullo sfondo: mosaico di cristalli",
+    "native": {
+      "heading": "Cosa fa iPhone da solo",
+      "paragraphs": [
+        "Foto non ha un filtro mosaico. Ripulisci con Apple Intelligence pixela un volto cerchiato, solo da iPhone 15 Pro. Per pixelare testo, sfondo o l’intera immagine serve un’app."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Tre stili a mosaico",
+        "paragraphs": [
+          "Pixelate: quadrati classici, il più sicuro per la privacy. Hexagonal: celle esagonali, più moderno. Crystallize: cristalli irregolari, effetto artistico, come nello screenshot «Mosaico pixel con un tocco», dove lo sfondo diventa cristalli e la ragazza resta nitida."
+        ]
+      },
+      {
+        "heading": "Privacy o estetica",
+        "paragraphs": [
+          "Per nascondere: Pixelate con blocchi grandi su Faces o Manual. Per un effetto grafico: Crystallize o Hexagonal su Background, così il soggetto risalta su uno sfondo a mosaico."
+        ]
+      }
+    ],
+    "steps_title": "Pixelare nell’app",
+    "steps": [
+      {
+        "title": "Apri la foto",
+        "description": "Qualsiasi immagine o screenshot."
+      },
+      {
+        "title": "Scegli la scheda",
+        "description": "Faces, Manual, Background o Full Photo."
+      },
+      {
+        "title": "Stile Pixelate",
+        "description": "Oppure Hexagonal o Crystallize; regola i blocchi con Radius."
+      },
+      {
+        "title": "Save",
+        "description": "Salva la copia pixelata."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "Blocchi più grandi = più privacy.",
+      "Per un post creativo prova Crystallize sullo sfondo con soggetto nitido.",
+      "Controlla ingrandendo: i dettagli piccoli devono sparire del tutto."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Pixelare o pixellare?",
+        "answer": "Si trovano entrambe le forme; indicano la stessa cosa."
+      },
+      {
+        "question": "Posso pixelare solo lo sfondo?",
+        "answer": "Sì: scheda Background con stile Pixelate o Crystallize, il soggetto resta nitido."
+      },
+      {
+        "question": "Le foto restano private?",
+        "answer": "Sì, l’elaborazione avviene sull’iPhone e non serve internet."
+      }
+    ],
+    "related": [
+      "sfocare-volto-foto.html",
+      "oscurare-testo-screenshot-iphone.html",
+      "oscurare-targa-foto.html",
+      "effetto-sfocato-foto.html"
+    ],
+    "cta_title": "Mosaico dove vuoi",
+    "cta_body": "Scarica «Sfocare Sfondo Foto»: Pixelate, Hexagonal e Crystallize in ogni modalità. Gratis da scaricare.",
+    "cta_text": "Scarica su App Store"
+  }
+]

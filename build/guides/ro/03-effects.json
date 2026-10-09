@@ -1,0 +1,258 @@
+[
+  {
+    "slug": "motion-blur-poza.html",
+    "keyword": "motion blur poză",
+    "cluster": "effects",
+    "card_title": "Motion blur pe poză (efect de mișcare)",
+    "card_excerpt": "Dâră de mișcare pe fundal, subiect clar: dinamism cu Radius și Angle.",
+    "card_image": "/img/appstore/ro/02-motion.webp",
+    "card_image_alt": "Motion blur în spatele unei femei cu ochelari de soare",
+    "meta_title": "Motion blur pe poză cu iPhone: efect de mișcare în 4 pași",
+    "meta_description": "Cum adaugi motion blur (efect de mișcare) unei poze pe iPhone: dâră pe fundal, subiect clar, direcție și lungime reglabile. Și la poze deja făcute. Gratuit.",
+    "h1": "Motion blur pe poză cu iPhone-ul (efect de mișcare)",
+    "answer": "Ca să adaugi motion blur unei poze pe iPhone, deschide-o în MakeBlur, lasă fila Background ca subiectul să rămână clar, alege stilul Motion, reglează cu Radius lungimea dârei și cu Angle direcția, apoi atinge Save. Fundalul pare în mișcare, iar persoana rămâne nemișcată și clară.",
+    "intro": "Motion blur, adică estomparea de mișcare, dă viteză oricărei poze: un biciclist, o mașină, o dansatoare sau doar un portret pentru o postare mai dinamică. În fotografie se obține cu timp de expunere lung și urmărirea subiectului (panning); cu iPhone-ul îl adaugi după, cu direcția și intensitatea pe care le alegi tu.",
+    "image": "/img/appstore/ro/02-motion.webp",
+    "image_alt": "Stilul Motion, Radius 65: fundalul are dâră, subiectul e clar",
+    "native": {
+      "heading": "Ce face iPhone-ul singur",
+      "paragraphs": [
+        "Pozele Live au efectul «Expunere lungă», care unește cadrele într-o dâră: merge doar dacă ceva chiar s-a mișcat în timpul pozei și estompează tot ce s-a mișcat — nu fundalul pe care îl alegi tu. Pentru pozele obișnuite, Poze nu are un efect de mișcare."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Radius și Angle",
+        "paragraphs": [
+          "Radius e lungimea dârei: valori mici pentru o mișcare subtilă, mari pentru senzația de viteză. Angle e direcția: orizontal pentru mașini și alergători, oblic pentru sărituri, vertical pentru ploaie sau căderi. Captura «Motion blur pentru poze cu mișcare» folosește Radius 65."
+        ]
+      },
+      {
+        "heading": "Doar fundalul sau toată poza",
+        "paragraphs": [
+          "Cu Background se mișcă doar fundalul — efectul clasic de panning. Cu Full Photo toată imaginea primește dâră: util pentru coperți, imagini de fundal abstracte sau un aer visător."
+        ]
+      }
+    ],
+    "steps_title": "Adăugarea motion blur în aplicație",
+    "steps": [
+      {
+        "title": "Deschide poza",
+        "description": "Ideal cu un subiect bine separat de fundal."
+      },
+      {
+        "title": "Fila Background",
+        "description": "Subiectul rămâne nemișcat și clar."
+      },
+      {
+        "title": "Stilul Motion",
+        "description": "Radius pentru lungime, Angle pentru direcție."
+      },
+      {
+        "title": "Save",
+        "description": "Salvează copia cu efect."
+      }
+    ],
+    "tips_title": "Sfaturi",
+    "tips": [
+      "Potrivește Angle cu direcția în care se mișcă subiectul: efectul e mai credibil.",
+      "Cu luminile orașului pe fundal, dâra devine o bandă de lumină spectaculoasă.",
+      "Nu exagera la portrete: un Radius mediu dă destul dinamism."
+    ],
+    "faq_title": "Întrebări frecvente",
+    "faq": [
+      {
+        "question": "Ce este motion blur?",
+        "answer": "Estomparea de mișcare: o dâră care sugerează că ceva se mișcă."
+      },
+      {
+        "question": "Pot alege direcția mișcării?",
+        "answer": "Da, cu glisorul Angle al stilului Motion."
+      },
+      {
+        "question": "Merge pe o poză deja făcută?",
+        "answer": "Da, pe orice poză din bibliotecă, și fără Live Photo."
+      }
+    ],
+    "related": [
+      "efect-blur-poza.html",
+      "estompare-fundal-iphone.html",
+      "efect-bokeh-iphone.html",
+      "estompare-gaussiana-iphone.html"
+    ],
+    "cta_title": "Viteză în orice poză",
+    "cta_body": "Descarcă «Estompează fundalurile foto», alege Motion și reglează Angle. Gratuit, pe iPhone.",
+    "cta_text": "Descarcă din App Store"
+  },
+  {
+    "slug": "efect-bokeh-iphone.html",
+    "keyword": "efect bokeh iPhone",
+    "cluster": "effects",
+    "card_title": "Efect bokeh pe iPhone",
+    "card_excerpt": "Fundal moale și luminițe estompate, chiar și după poză: Gaussian pentru portrete, Ghosting pentru un aer visător.",
+    "card_image": "/img/appstore/ro/06-ghost.webp",
+    "card_image_alt": "Efect bokeh moale pe un portret",
+    "meta_title": "Efect bokeh pe iPhone, și după poză: ghid cu exemple",
+    "meta_description": "Cum obții un efect bokeh pe iPhone la o poză deja făcută: fundal moale, luminițe estompate, subiect clar. Stilurile Gaussian și Ghosting, gratuit și offline.",
+    "h1": "Efect bokeh pe iPhone, chiar și după poză",
+    "answer": "Pentru un efect bokeh pe o poză deja făcută, deschide-o în MakeBlur, lasă fila Background, alege Gaussian și crește Radius până când fundalul devine moale și luminile se transformă în pete. Pentru un aspect mai visător pe toată imaginea, folosește Ghosting în fila Full Photo. Apoi atinge Save.",
+    "intro": "Bokeh vine din japoneză și descrie calitatea zonei neclare dintr-o poză: luminițele care devin cercuri moi, fundalul care se topește. E efectul obiectivelor luminoase, iar Modul Portret îl imită la fotografiere. Iată cum te apropii de acel aspect cu o poză pe care o ai deja.",
+    "image": "/img/appstore/ro/06-ghost.webp",
+    "image_alt": "Fila Full Photo cu stilul Ghosting, Radius 79",
+    "native": {
+      "heading": "Bokeh cu Modul Portret",
+      "paragraphs": [
+        "Modul Portret simulează bokeh la fotografiere, iar în Poze → Editează îți permite să schimbi diafragma (valoarea f). Merge doar la pozele făcute în Portret. Pentru toate celelalte, Poze nu are efect bokeh."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian sau Ghosting",
+        "paragraphs": [
+          "Gaussian pe Background: bokeh de portret, subiect clar și fundal moale. Arată superb cu lumini de seară, vitrine, instalații de sărbători. Ghosting pe Full Photo: o strălucire dublă și moale pe toată imaginea, ca în captura «Atmosferă moale cu bokeh» (Radius 79)."
+        ]
+      },
+      {
+        "heading": "Pozele care ies cel mai bine",
+        "paragraphs": [
+          "Fundaluri cu puncte de lumină, culori vii și o distanță între subiect și fundal. Pe un perete alb bokeh-ul abia se vede: acolo ajunge o estompare ușoară."
+        ]
+      }
+    ],
+    "steps_title": "Efect bokeh în aplicație",
+    "steps": [
+      {
+        "title": "Deschide poza",
+        "description": "Ideal cu lumini pe fundal."
+      },
+      {
+        "title": "Background + Gaussian",
+        "description": "Subiectul rămâne clar."
+      },
+      {
+        "title": "Radius",
+        "description": "Crește până când luminile devin pete moi."
+      },
+      {
+        "title": "Save",
+        "description": "Salvează copia."
+      }
+    ],
+    "tips_title": "Sfaturi",
+    "tips": [
+      "Pozele de seară dau cel mai frumos bokeh.",
+      "Încearcă Ghosting pe Full Photo pentru coperți și imagini de fundal.",
+      "Verifică marginile părului mărind înainte să salvezi."
+    ],
+    "faq_title": "Întrebări frecvente",
+    "faq": [
+      {
+        "question": "Ce e bokeh-ul?",
+        "answer": "Cum arată zona neclară a unei poze, mai ales luminițele care devin pete moi."
+      },
+      {
+        "question": "Am nevoie de Modul Portret?",
+        "answer": "Nu, aplicația pune efectul pe orice poză deja făcută."
+      },
+      {
+        "question": "Care e diferența față de estomparea gaussiană?",
+        "answer": "Gaussiana e tipul de estompare; bokeh e rezultatul estetic, mai ales la lumini."
+      }
+    ],
+    "related": [
+      "estompare-gaussiana-iphone.html",
+      "poza-fundal-blurat.html",
+      "estompare-fundal-iphone.html",
+      "motion-blur-poza.html"
+    ],
+    "cta_title": "Bokeh pe orice poză",
+    "cta_body": "Descarcă «Estompează fundalurile foto», alege Gaussian sau Ghosting și salvează. Gratuit, fără încărcare.",
+    "cta_text": "Descarcă din App Store"
+  },
+  {
+    "slug": "estompare-gaussiana-iphone.html",
+    "keyword": "estompare gaussiană",
+    "cluster": "effects",
+    "card_title": "Estompare gaussiană pe iPhone",
+    "card_excerpt": "Ce e estomparea gaussiană, când o folosești și cum o aplici pe fundal, fețe sau toată poza.",
+    "card_image": "/img/appstore/ro/04-box.webp",
+    "card_image_alt": "Fundal cu estompare moale",
+    "meta_title": "Estompare gaussiană pe iPhone: ce este și cum o aplici",
+    "meta_description": "Ce este estomparea gaussiană și cum o aplici pe iPhone pe fundal, fețe sau toată poza. Diferențe față de Box și Motion și intensități recomandate. Gratuit.",
+    "h1": "Estompare gaussiană pe iPhone: ce este și cum o aplici",
+    "answer": "Estomparea gaussiană e o estompare uniformă și moale, ca un obiectiv nefocalizat. Pe iPhone o aplici cu MakeBlur: deschide poza, alege unde (Background pentru fundal, Faces pentru fețe, Manual pentru o zonă, Full Photo pentru tot), selectează stilul Gaussian, reglează Radius și atinge Save.",
+    "intro": "Cine a folosit GIMP, Photoshop sau alt editor pe calculator cunoaște filtrul «Gaussian Blur» (în GIMP în română: «Estompare gaussiană»). Numele vine de la curba lui Gauss: fiecare pixel se amestecă cu vecinii, mai mult cu cei apropiați și mai puțin cu cei îndepărtați. Rezultatul e moale și natural, fără margini dure. Iată când îl folosești și cum îl aplici pe iPhone.",
+    "image": "/img/appstore/ro/04-box.webp",
+    "image_alt": "Fundal înmuiat în spatele unui portret clar",
+    "native": {
+      "heading": "Ce face iPhone-ul singur",
+      "paragraphs": [
+        "Aplicația Poze nu are un filtru de estompare gaussiană. Ajustările schimbă claritatea și definiția, dar doar în sus sau puțin în jos pentru toată imaginea, și nu sunt o estompare adevărată."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian, Box și Motion comparate",
+        "paragraphs": [
+          "Gaussian: moale și natural, alegerea pentru portrete și fundaluri. Box: medie uniformă, puțin mai plată, utilă la produse și pentru a ascunde. Motion: estompare într-o singură direcție, pentru mișcare.",
+          "Pentru confidențialitate folosește estomparea gaussiană cu intensitate mare: una ușoară lasă ghicibile formele și literele."
+        ]
+      },
+      {
+        "heading": "Ce Radius",
+        "paragraphs": [
+          "Mic pentru portrete naturale, mediu pentru postări și story-uri, mare pentru fundaluri abstracte sau pentru a ascunde. Verifică mereu mărind."
+        ]
+      }
+    ],
+    "steps_title": "Aplicarea estompării gaussiene",
+    "steps": [
+      {
+        "title": "Deschide poza",
+        "description": "În MakeBlur."
+      },
+      {
+        "title": "Alege modul",
+        "description": "Background, Faces, Manual sau Full Photo."
+      },
+      {
+        "title": "Stilul Gaussian",
+        "description": "Reglează Radius."
+      },
+      {
+        "title": "Save",
+        "description": "Salvează copia."
+      }
+    ],
+    "tips_title": "Sfaturi",
+    "tips": [
+      "Gaussian pe Background e cel mai natural mod de a imita Modul Portret.",
+      "Pe Full Photo cu intensitate mare obții fundaluri perfecte pentru text în story-uri.",
+      "Pentru date sensibile alege mai degrabă Pixelate."
+    ],
+    "faq_title": "Întrebări frecvente",
+    "faq": [
+      {
+        "question": "De ce se numește gaussiană?",
+        "answer": "Pentru că ponderea cu care se amestecă pixelii urmează curba lui Gauss."
+      },
+      {
+        "question": "E mai bună decât estomparea Box?",
+        "answer": "E mai moale și mai naturală; Box e mai uniformă. Depinde de efectul pe care îl cauți."
+      },
+      {
+        "question": "O pot aplica doar pe fundal?",
+        "answer": "Da, cu fila Background subiectul rămâne clar."
+      }
+    ],
+    "related": [
+      "efect-bokeh-iphone.html",
+      "motion-blur-poza.html",
+      "estompare-fundal-iphone.html",
+      "efect-blur-poza.html"
+    ],
+    "cta_title": "Estompare gaussiană dintr-o atingere",
+    "cta_body": "Descarcă «Estompează fundalurile foto»: Gaussian în fiecare mod, pe dispozitiv. Gratuit la descărcare.",
+    "cta_text": "Descarcă din App Store"
+  }
+]

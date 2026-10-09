@@ -1,0 +1,348 @@
+[
+  {
+    "slug": "rozmycie-tla-iphone.html",
+    "keyword": "rozmycie tła iPhone",
+    "cluster": "background",
+    "card_title": "Rozmycie tła na iPhonie po zrobieniu zdjęcia",
+    "card_excerpt": "Tryb Portret działa tylko przy robieniu zdjęcia. Zobacz, jak rozmyć tło zdjęcia, które już masz w bibliotece.",
+    "card_image": "/img/appstore/pl/04-box.webp",
+    "card_image_alt": "Karta Background: kobieta ostra, tło rozmyte",
+    "meta_title": "Rozmycie tła na iPhonie, także na zdjęciach już zrobionych",
+    "meta_description": "Jak rozmyć tło na iPhonie, gdy zdjęcie jest już zrobione: aplikacja wykrywa obiekt, ty wybierasz siłę rozmycia i zapisujesz. Bez trybu Portret, za darmo.",
+    "h1": "Rozmycie tła na iPhonie — także po zrobieniu zdjęcia",
+    "answer": "Aby rozmyć tło zdjęcia, które już zrobiłeś iPhonem, otwórz je w MakeBlur («Rozmycie tła na zdjęciu»), zostaw wybraną kartę Background (tło), żeby obiekt został wykryty, wybierz styl Gaussian, zwiększaj suwak Radius do wymaganej miękkości i stuknij Save. Działa z każdym zdjęciem z biblioteki, nie tylko z portretami, a wszystko dzieje się na iPhonie.",
+    "intro": "Prawie każda odpowiedź na «rozmycie tła iPhone» odsyła do trybu Portret. Dobra rada, jeśli zdjęcia jeszcze nie zrobiłeś. Ale jeśli powstało w zwykłym trybie Zdjęcie, przyszło przez Messengera albo jest screenem, tryb Portret nie pomoże. Tutaj zobaczysz, co iPhone potrafi sam, gdzie się kończą jego możliwości i jak rozmyć tło w pół minuty.",
+    "image": "/img/appstore/pl/04-box.webp",
+    "image_alt": "Karta Background w aplikacji: kobieta jest ostra, ceglana ściana i kwiaty za nią są rozmyte",
+    "native": {
+      "heading": "Co iPhone potrafi sam",
+      "paragraphs": [
+        "Tryb Portret zapisuje mapę głębi w chwili zrobienia zdjęcia. Później w Zdjęcia → Edycja możesz suwakiem przysłony wzmocnić lub osłabić rozmycie. Ale tylko na zdjęciach zrobionych w trybie Portret zgodnym aparatem: zwykłe zdjęcie, selfie bez portretu, screen albo otrzymany obraz nie mają mapy głębi i suwak w ogóle się nie pojawia.",
+        "Nowsze iPhone’y potrafią zamienić niektóre zwykłe zdjęcia w portret, jeśli przy robieniu zapisały dane o głębi. Nie działa to z każdym zdjęciem ani na każdym modelu, a obiektu nie wybierasz sam."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Rozmycie tła bez trybu Portret",
+        "paragraphs": [
+          "Potrzebujesz edytora, który oddzieli obiekt od tła na podstawie gotowego obrazu. W MakeBlur robi to karta Background: rozpoznaje osobę lub główny obiekt, zostawia go ostro i zmiękcza całą resztę. Dane o głębi z aparatu nie są potrzebne — aplikacja pracuje na pikselach zdjęcia, więc nada się każdy obraz.",
+          "Siłę ustawiasz suwakiem Radius, a rodzaj rozmycia stylem: Gaussian daje miękki efekt jak z obiektywu, Box nieco bardziej równomierne rozmycie, Motion smugę ruchu. Wszystko działa na iPhonie, bez internetu."
+        ]
+      },
+      {
+        "heading": "Jak mocno rozmywać",
+        "paragraphs": [
+          "Do zdjęcia profilowego czy do CV wystarczy lekkie rozmycie: otoczenie jest rozpoznawalne, ale nie odciąga uwagi. Do relacji i postów możesz pójść dalej — tło zmienia się w plamy koloru, a osoba wyraźnie się wyróżnia. Zacznij od średniego Radius i powiększ włosy: jeśli widać jasną obwódkę, zmniejsz siłę."
+        ]
+      }
+    ],
+    "steps_title": "Rozmycie tła w aplikacji",
+    "steps": [
+      {
+        "title": "Otwórz zdjęcie",
+        "description": "Uruchom MakeBlur i wybierz obraz z biblioteki — zwykłe zdjęcie, selfie albo screen."
+      },
+      {
+        "title": "Zostaw kartę Background",
+        "description": "Aplikacja wykrywa obiekt i zaznacza tło, które zostanie rozmyte."
+      },
+      {
+        "title": "Wybierz styl i Radius",
+        "description": "Gaussian dla klasycznego efektu portretu. Przesuwaj Radius, aż tło będzie wystarczająco miękkie."
+      },
+      {
+        "title": "Stuknij Save",
+        "description": "Rozmyta kopia trafia do Zdjęć, oryginał pozostaje bez zmian."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Maska wychodzi najlepiej, gdy obiekt wyraźnie odcina się od tła: osoba przed ścianą, kubek na stole.",
+      "Przed zapisem powiększ włosy i palce — przy bardzo wysokim Radius może pojawić się obwódka.",
+      "Najpierw rozmyj, potem przytnij: aplikacja ma wtedy więcej pikseli na dokładną maskę."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Czy da się rozmyć tło na iPhonie bez trybu Portret?",
+        "answer": "Tak. Zdjęcia nie poradzą sobie bez danych o głębi, ale MakeBlur oddziela obiekt na podstawie samego obrazu i rozmywa tło każdego zdjęcia."
+      },
+      {
+        "question": "Jak rozmyć tło na starym zdjęciu?",
+        "answer": "Tak samo: otwórz w aplikacji, karta Background, ustaw Radius i zapisz. Data zdjęcia i model aparatu nie mają znaczenia."
+      },
+      {
+        "question": "Czy zdjęcie straci na jakości?",
+        "answer": "Obiekt zachowuje oryginalną rozdzielczość, zmiękcza się tylko tło. Zapisywana jest nowa kopia, oryginał zostaje."
+      },
+      {
+        "question": "Czy aplikacja potrzebuje internetu?",
+        "answer": "Nie. Wszystko działa na iPhonie, zdjęcia nie są wysyłane na serwery."
+      }
+    ],
+    "related": [
+      "jak-rozmyc-tlo.html",
+      "rozmyte-tlo-zdjecie.html",
+      "aplikacja-rozmycie-zdjec-iphone.html",
+      "rozmycie-gaussowskie-iphone.html"
+    ],
+    "cta_title": "Rozmyte tło na zdjęciach, które już masz",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu», otwórz zdjęcie, ustaw Radius i zapisz. Za darmo, na urządzeniu, na każdym iPhonie z iOS 18.6 lub nowszym.",
+    "cta_text": "Pobierz z App Store"
+  },
+  {
+    "slug": "rozmyte-tlo-zdjecie.html",
+    "keyword": "rozmyte tło na zdjęciu",
+    "cluster": "background",
+    "card_title": "Zdjęcie z rozmytym tłem na profil i social media",
+    "card_excerpt": "Ostry obiekt, miękkie tło: efekt jak od fotografa na zdjęciach profilowych, postach i w ogłoszeniach.",
+    "card_image": "/img/appstore/pl/02-motion.webp",
+    "card_image_alt": "Portret z rozmytym tłem na iPhonie",
+    "meta_title": "Rozmyte tło na zdjęciu z iPhone’a: profil, Instagram, OLX",
+    "meta_description": "Jak uzyskać rozmyte tło na zdjęciu z iPhone’a z obrazu, który już masz: ostry obiekt, miękkie tło na profil, posty i ogłoszenia. Dobór stylu i siły. Za darmo.",
+    "h1": "Rozmyte tło na zdjęciu: efekt jak od fotografa z iPhone’a",
+    "answer": "Aby uzyskać rozmyte tło na zdjęciu, które już masz, otwórz je w MakeBlur, zostaw kartę Background, żeby obiekt pozostał ostry, wybierz Gaussian dla naturalnego efektu albo Box dla bardziej równomiernego rozmycia, ustaw Radius i stuknij Save. W kilka sekund masz efekt portretu bez lustrzanki.",
+    "intro": "Rozmyte tło sprawia, że każde zdjęcie wygląda profesjonalnie: zdjęcie profilowe na LinkedIn, post na Instagramie, ogłoszenie na OLX czy Vinted z przedmiotem na pierwszym planie. Jasne obiektywy robią to w chwili zdjęcia; iPhonem możesz to zrobić także później. Oto jak dobrać styl i siłę do zastosowania.",
+    "image": "/img/appstore/pl/02-motion.webp",
+    "image_alt": "Karta Background ze stylem Motion, Radius 65: kobieta pozostaje ostra",
+    "native": {
+      "heading": "Co iPhone potrafi sam",
+      "paragraphs": [
+        "Tryb Portret rozmywa tło przy robieniu zdjęcia, a w Zdjęcia → Edycja możesz zmienić siłę. Dla zwykłych zdjęć aplikacja Zdjęcia nie ma żadnego narzędzia do rozmycia tła: filtry i korekty zmieniają światło i kolor, nie ostrość."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Odpowiedni styl do każdego zdjęcia",
+        "paragraphs": [
+          "Profil i CV: Gaussian z niskim Radius, otoczenie pozostaje czytelne, ale nie rozprasza. Posty i relacje: Gaussian lub Box z wysokim Radius, tło zmienia się w kolor. Zdjęcia sportowe i uliczne: Motion, tło się porusza, a obiekt stoi. Przedmioty na sprzedaż: Box, jednolite tło wyróżnia przedmiot.",
+          "Zrzut «Ostry obiekt, reszta rozmyta» pokazuje Box na portrecie przed ścianą z kwiatami: typowy przypadek."
+        ]
+      },
+      {
+        "heading": "Zmiękczenie tła bez przesady",
+        "paragraphs": [
+          "Zbyt rozmyte tło na zdjęciu profilowym wygląda sztucznie, zwłaszcza na krawędziach włosów. Prosta zasada: im bliżej obiektywu jest osoba, tym mocniej możesz rozmyć; przy całej sylwetce lub grupie trzymaj się niżej."
+        ]
+      }
+    ],
+    "steps_title": "Zdjęcie z rozmytym tłem w aplikacji",
+    "steps": [
+      {
+        "title": "Wybierz zdjęcie",
+        "description": "Otwórz obraz w MakeBlur: profil, post albo produkt."
+      },
+      {
+        "title": "Karta Background",
+        "description": "Obiekt zostaje wykryty i pozostaje ostry."
+      },
+      {
+        "title": "Styl i Radius",
+        "description": "Gaussian do portretów, Box do produktów, Motion do akcji."
+      },
+      {
+        "title": "Save",
+        "description": "Zapisz kopię i opublikuj, gdzie chcesz."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Zdjęcie profilowe przytnij dopiero po rozmyciu: maska będzie dokładniejsza.",
+      "Przy tłach ze światełkami (witryny, lampki świąteczne) Gaussian tworzy plamy światła podobne do bokeh.",
+      "Zapisz dwie wersje z różną siłą i wybierz, patrząc na ekran telefonu."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Jak zrobić rozmyte tło na zdjęciu, które już jest zrobione?",
+        "answer": "Aplikacją, która wykrywa obiekt, np. MakeBlur: karta Background, Radius, Save. Same Zdjęcia nie zrobią tego na zwykłych zdjęciach."
+      },
+      {
+        "question": "Czy działa z przedmiotami, nie tylko z ludźmi?",
+        "answer": "Tak, Background wykrywa też główny przedmiot: kubek, torebkę, talerz."
+      },
+      {
+        "question": "Czy to jest darmowe?",
+        "answer": "Pobranie jest darmowe, a podstawowe rozmycie tła jest w zestawie; zaawansowane style opcjonalnie w zakupach w aplikacji."
+      }
+    ],
+    "related": [
+      "rozmycie-tla-iphone.html",
+      "efekt-bokeh-iphone.html",
+      "aplikacja-rozmycie-zdjec-iphone.html",
+      "jak-rozmyc-tlo.html"
+    ],
+    "cta_title": "Efekt portretu na każdym zdjęciu",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu», otwórz zdjęcie i pozwól aplikacji znaleźć obiekt. Za darmo, bez wysyłania.",
+    "cta_text": "Pobierz z App Store"
+  },
+  {
+    "slug": "jak-rozmyc-tlo.html",
+    "keyword": "jak rozmyć tło",
+    "cluster": "background",
+    "card_title": "Jak rozmyć tło: poradnik dla początkujących",
+    "card_excerpt": "Co znaczy rozmyć tło, ile rozmycia wybrać i jak zrobić to w trzech stuknięciach.",
+    "card_image": "/img/appstore/pl/04-box.webp",
+    "card_image_alt": "Rozmyte tło za portretem",
+    "meta_title": "Jak rozmyć tło na zdjęciu: prosty poradnik dla iPhone’a",
+    "meta_description": "Jak rozmyć tło na zdjęciu iPhonem, nawet jeśli nigdy niczego nie edytowałeś: trzy stuknięcia, ile rozmycia wybrać i jakich błędów unikać. Za darmo i bez stresu.",
+    "h1": "Jak rozmyć tło na zdjęciu (poradnik dla początkujących)",
+    "answer": "Aby rozmyć tło na zdjęciu iPhonem, wystarczą trzy stuknięcia: otwórz zdjęcie w MakeBlur, zostaw kartę Background, przesuń suwak Radius w prawo, aż tło będzie miękkie, i stuknij Save. Aplikacja sama znajduje osobę albo przedmiot i zostawia je ostre; nie musisz niczego wycinać ręcznie.",
+    "intro": "Rozmyć, rozmazać, zrobić bokeh: mówi się różnie, ale chodzi o to samo. Obiekt pozostaje ostry, wszystko za nim staje się miękkie, a wzrok od razu trafia na osobę. Jeśli nigdy nie używałeś edytora, ten poradnik przeprowadzi cię od pierwszego stuknięcia do zapisanego zdjęcia, ze wskazówkami, jak mocno podkręcić efekt.",
+    "image": "/img/appstore/pl/04-box.webp",
+    "image_alt": "Suwak Radius ustawia, jak mocno rozmyte jest tło",
+    "native": {
+      "heading": "Czy da się to zrobić w aplikacji Zdjęcia?",
+      "paragraphs": [
+        "Tylko na zdjęciach zrobionych w trybie Portret: w Edycji pojawia się wtedy suwak głębi. Dla wszystkich innych zdjęć aplikacja Zdjęcia nie ma narzędzia do rozmycia tła. Filtry ani korekta «Ostrość» tego nie zrobią."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Jak mocno rozmywać",
+        "paragraphs": [
+          "Słabo (niski Radius): tło pozostaje rozpoznawalne; najbardziej naturalny efekt, dobry do zdjęć rodzinnych i profilowych. Średnio: tło staje się gładką płaszczyzną, idealnie do postów. Mocno (wysoki Radius): zostają tylko plamy koloru, efektowne, ale sprawdź krawędzie.",
+          "Jeśli masz wątpliwości, wybierz średnio: wygląda to, jakby zrobił to aparat."
+        ]
+      },
+      {
+        "heading": "Błędy, których warto unikać",
+        "paragraphs": [
+          "Zbyt mocne rozmycie zdjęcia grupowego: osoby stojące nieco dalej wyglądają na pół rozmyte. Rozmywanie tła, które już jest ciemne: różnica jest ledwo widoczna. Utrata oryginału: MakeBlur zawsze zapisuje kopię, więc możesz próbować ile chcesz."
+        ]
+      }
+    ],
+    "steps_title": "Rozmycie tła w trzech stuknięciach",
+    "steps": [
+      {
+        "title": "Otwórz zdjęcie",
+        "description": "Stuknij zdjęcie z biblioteki w MakeBlur."
+      },
+      {
+        "title": "Przesuń Radius",
+        "description": "Przy aktywnej karcie Background przesuwaj, aż efekt ci się spodoba."
+      },
+      {
+        "title": "Stuknij Save",
+        "description": "Nowe zdjęcie pojawi się w Ostatnich."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Najlepiej wychodzą zdjęcia, na których obiekt wyraźnie odcina się od tła.",
+      "Przed zapisem powiększ dwoma palcami, żeby sprawdzić krawędzie.",
+      "Jeśli obiekt jest mały, przytnij zdjęcie po zapisaniu."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Rozmyć czy rozmazać tło — to to samo?",
+        "answer": "Tak. «Rozmyć» to forma najczęstsza, «rozmazać» i «zblurować» znaczą w praktyce to samo."
+      },
+      {
+        "question": "Czy muszę wycinać obiekt ręcznie?",
+        "answer": "Nie, karta Background wykrywa go automatycznie. Do drobnych poprawek użyj Manual."
+      },
+      {
+        "question": "Czy mogę wrócić do oryginału?",
+        "answer": "Tak, aplikacja zapisuje kopię, a oryginał zostaje w bibliotece."
+      }
+    ],
+    "related": [
+      "rozmycie-tla-iphone.html",
+      "rozmyte-tlo-zdjecie.html",
+      "rozmycie-gaussowskie-iphone.html",
+      "rozmyc-zdjecie-iphone.html"
+    ],
+    "cta_title": "Rozmyte tło w trzech stuknięciach",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu»: otwórz, przesuń Radius, zapisz. Za darmo na iPhone’a z iOS 18.6.",
+    "cta_text": "Pobierz z App Store"
+  },
+  {
+    "slug": "aplikacja-rozmycie-zdjec-iphone.html",
+    "keyword": "aplikacja do rozmycia zdjęć iPhone",
+    "cluster": "background",
+    "card_title": "Aplikacja do rozmywania zdjęć na iPhone’a",
+    "card_excerpt": "Tryb Portret, Oznaczenia, Clean Up czy osobna aplikacja: czego użyć do tła, twarzy i szczegółów.",
+    "card_image": "/img/appstore/pl/03-face.webp",
+    "card_image_alt": "Rozmyte twarze w aplikacji na iPhone’a",
+    "meta_title": "Aplikacja do rozmycia zdjęć na iPhone: uczciwe porównanie",
+    "meta_description": "Jakiej aplikacji użyć do rozmywania zdjęć na iPhonie? Tryb Portret, Oznaczenia, Clean Up czy MakeBlur: co każda rozmywa (tło, twarze, tekst) i jakie ma granice.",
+    "h1": "Aplikacja do rozmycia zdjęć na iPhone’a: czego użyć i kiedy",
+    "answer": "To, jakiej aplikacji do rozmycia zdjęć potrzebujesz na iPhonie, zależy od tego, co chcesz rozmyć. Tło zdjęcia zrobionego w trybie Portret: wystarczą Zdjęcia. Tło każdego innego zdjęcia, wszystkie twarze, tablica rejestracyjna albo tekst: potrzebujesz aplikacji takiej jak MakeBlur, z kartami Background, Faces, Manual i Full Photo, która działa na urządzeniu i jest darmowa do pobrania.",
+    "intro": "Szukając «aplikacji do rozmycia zdjęć», trafisz na listy dziesięciu podobnych aplikacji i abonament po pierwszym stuknięciu. Zanim coś zainstalujesz, warto wiedzieć, co iPhone już potrafi. Poniżej uczciwe porównanie, żebyś wybrał według tego, co chcesz rozmyć.",
+    "image": "/img/appstore/pl/03-face.webp",
+    "image_alt": "Karta Faces: wszystkie wykryte twarze rozmyte",
+    "native": {
+      "heading": "Narzędzia, które już są w iPhonie",
+      "paragraphs": [
+        "Tryb Portret: rozmyte tło tylko przy robieniu zdjęcia, potem regulowane w Zdjęciach. Oznaczenia: pióro, zakreślacz, kształty; zasłaniają, nie rozmywają, a zakreślacz jest półprzezroczysty. Clean Up (Apple Intelligence): usuwa obiekty, ale nie ma go po polsku — działa od iPhone’a 15 Pro tylko po przełączeniu telefonu na obsługiwany język.",
+        "Żadne z nich nie rozmyje tła zwykłego zdjęcia ani wybranego przez ciebie obszaru."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Co oferuje MakeBlur",
+        "paragraphs": [
+          "Background: rozmyte tło z automatycznie wykrytym obiektem. Faces: wszystkie twarze rozmyte naraz. Manual: pędzel do tekstu, tablic czy dowolnego obszaru. Full Photo: cały obraz. Siedem stylów: Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize.",
+          "Działa offline i nie wysyła zdjęć. Darmowe pobranie z podstawowym rozmyciem tła; zaawansowane style opcjonalnie w zakupach w aplikacji."
+        ]
+      },
+      {
+        "heading": "Na co zwrócić uwagę w aplikacji do rozmywania",
+        "paragraphs": [
+          "Przetwarzanie na urządzeniu (prywatne zdjęcia nie powinny trafiać na serwer), automatyczne wykrywanie obiektu, pędzel do dowolnych obszarów, zapis w oryginalnej rozdzielczości i darmowa wersja, którą przetestujesz przed zapłatą."
+        ]
+      }
+    ],
+    "steps_title": "Pierwsza próba z aplikacją",
+    "steps": [
+      {
+        "title": "Pobierz za darmo",
+        "description": "W App Store, na iPhone’a z iOS 18.6 lub nowszym."
+      },
+      {
+        "title": "Otwórz zdjęcie",
+        "description": "Dowolny obraz z biblioteki."
+      },
+      {
+        "title": "Wybierz kartę",
+        "description": "Background, Faces, Manual lub Full Photo, zależnie od tego, co chcesz rozmyć."
+      },
+      {
+        "title": "Ustaw i zapisz",
+        "description": "Styl, Radius i Save."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Jeśli chcesz zasłonić coś tylko raz, najpierw spróbuj Oznaczeń: są już w iPhonie.",
+      "Dla prywatności wybieraj aplikacje, które nie wysyłają zdjęć.",
+      "Przetestuj darmowe funkcje, zanim zdecydujesz się na zakup."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Jaka jest najlepsza aplikacja do rozmywania zdjęć na iPhone’a?",
+        "answer": "Zależy od zastosowania. Do tła, twarzy i obszarów w jednej aplikacji działającej offline MakeBlur pokrywa wszystkie przypadki. Do portretów wystarczą Zdjęcia."
+      },
+      {
+        "question": "Czy jest darmowa aplikacja do rozmywania zdjęć?",
+        "answer": "MakeBlur pobierzesz za darmo i zawiera podstawowe rozmycie tła. Funkcje zaawansowane są opcjonalne."
+      },
+      {
+        "question": "Czy potrzebuję Apple Intelligence?",
+        "answer": "Nie, aplikacja działa na każdym iPhonie z iOS 18.6 lub nowszym."
+      }
+    ],
+    "related": [
+      "rozmycie-tla-iphone.html",
+      "zamazac-twarz-na-zdjeciu.html",
+      "rozmyc-czesc-zdjecia-iphone.html",
+      "efekt-rozmycia-zdjecie.html"
+    ],
+    "cta_title": "Jedna aplikacja do tła, twarzy i szczegółów",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu»: cztery tryby, siedem stylów, wszystko na iPhonie.",
+    "cta_text": "Pobierz z App Store"
+  }
+]

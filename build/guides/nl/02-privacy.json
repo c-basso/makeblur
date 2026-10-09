@@ -1,0 +1,430 @@
+[
+  {
+    "slug": "gezicht-blurren-foto.html",
+    "keyword": "gezicht blurren",
+    "cluster": "privacy",
+    "card_title": "Gezicht blurren op een foto",
+    "card_excerpt": "Kinderen, vrienden, voorbijgangers: blur alle gezichten met één tik voor je post, zonder Apple Intelligence.",
+    "card_image": "/img/appstore/nl/03-face.webp",
+    "card_image_alt": "Geblurde gezichten in een raster van portretten",
+    "meta_title": "Gezicht blurren op een foto met iPhone, meerdere tegelijk",
+    "meta_description": "Zo blur je iemands gezicht op een foto met je iPhone voordat je hem deelt: alle gezichten herkend met één tik, zonder Apple Intelligence. Gratis en offline.",
+    "h1": "Gezicht blurren op een foto met je iPhone",
+    "answer": "Om gezichten op een foto te blurren op je iPhone, open je hem in MakeBlur en kies je het tabblad Faces (gezichten): de app herkent alle gezichten en maakt ze tegelijk wazig. Verhoog Radius tot niemand meer herkenbaar is, of kies Pixelate voor een mozaïek, en tik op Save. Wil je maar één gezicht blurren, gebruik dan het tabblad Manual en schilder het met je vinger.",
+    "intro": "Er zijn veel redenen om een gezicht onherkenbaar te maken: de gezichten van kinderen op de foto van het schoolreisje, vrienden die niet online willen, voorbijgangers op een vakantiefoto. Met de AVG en het portretrecht in het achterhoofd kiezen steeds meer mensen ervoor om gezichten te verbergen voordat ze iets posten. Zo doe je het in een paar seconden.",
+    "image": "/img/appstore/nl/03-face.webp",
+    "image_alt": "Tabblad Faces met Radius 80: acht gezichten geblurd",
+    "native": {
+      "heading": "Wat de iPhone zelf kan",
+      "paragraphs": [
+        "Foto’s heeft geen aparte functie om gezichten te blurren of te pixelen. Opschonen (Apple Intelligence, vanaf iPhone 15 Pro, in het Nederlands sinds iOS 26) is bedoeld om objecten te verwijderen en is geen gereedschap om gezichten af te schermen.",
+        "Zonder dat blijven de vormen en de pen van Markeringen over: die bedekken het gezicht, maar het resultaat oogt slordig."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Alle gezichten of maar één",
+        "paragraphs": [
+          "Faces vindt elk gezicht in het beeld en blurt ze allemaal: de juiste keuze voor groepsfoto’s, klassenfoto’s en feestjes. Wil je iemand zichtbaar laten (jezelf bijvoorbeeld), gebruik dan Manual en schilder alleen de gezichten die weg moeten.",
+          "De screenshot «Gezichten verbergen vóór het delen» toont acht portretten die met één tik geblurd zijn."
+        ]
+      },
+      {
+        "heading": "Blur of pixels?",
+        "paragraphs": [
+          "Een lichte blur kan iemand die je goed kent nog herkenbaar laten. Voor echte privacy gebruik je een hoge Radius of de stijl Pixelate. Voor een zachtere look op social media: Gaussian met hoge sterkte."
+        ]
+      }
+    ],
+    "steps_title": "Gezichten blurren in de app",
+    "steps": [
+      {
+        "title": "Open de foto",
+        "description": "Kies het beeld met de mensen die je wilt verbergen."
+      },
+      {
+        "title": "Tabblad Faces",
+        "description": "Alle gezichten worden herkend en geblurd."
+      },
+      {
+        "title": "Sterkte",
+        "description": "Verhoog Radius of kies Pixelate tot niemand herkenbaar is."
+      },
+      {
+        "title": "Save",
+        "description": "Post de geblurde kopie, niet het origineel."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Let op kleine gezichten op de achtergrond of weerspiegeld in ruiten: ontbreekt er een, voeg die dan toe met Manual.",
+      "Blur bij kinderen ook details als een naam op een shirt of het schoollogo.",
+      "Zoom na het bewaren in om zeker te weten dat niemand herkenbaar is."
+    ],
+    "faq_title": "Veelgestelde vragen",
+    "faq": [
+      {
+        "question": "Hoe blur ik een gezicht zonder Apple Intelligence?",
+        "answer": "Met het tabblad Faces van MakeBlur, dat op elke iPhone met iOS 18.6 werkt, of met Manual voor één gezicht."
+      },
+      {
+        "question": "Kun je een geblurd gezicht weer zichtbaar maken?",
+        "answer": "Niet in de kopie die met hoge sterkte is bewaard: de details zijn weg. Post daarom nooit het origineel."
+      },
+      {
+        "question": "Werkt het op screenshots van een videogesprek?",
+        "answer": "Ja, Faces herkent ook gezichten op screenshots."
+      }
+    ],
+    "related": [
+      "deel-foto-blurren-iphone.html",
+      "foto-pixelen-iphone.html",
+      "kenteken-blurren-foto.html",
+      "blur-app-iphone.html"
+    ],
+    "cta_title": "Gezichten beschermd vóór je post",
+    "cta_body": "Download «Foto achtergrond wazig maken», kies Faces en bewaar. Gratis, op je iPhone, zonder upload.",
+    "cta_text": "Download in de App Store"
+  },
+  {
+    "slug": "deel-foto-blurren-iphone.html",
+    "keyword": "deel van foto blurren iPhone",
+    "cluster": "privacy",
+    "card_title": "Deel van een foto blurren op iPhone",
+    "card_excerpt": "Een adres, een nummer, iemand in de menigte: schilder met je vinger en alleen dat gebied wordt wazig.",
+    "card_image": "/img/appstore/nl/05-crystalize.webp",
+    "card_image_alt": "Gebied van een foto wazig gemaakt met een penseel",
+    "meta_title": "Deel van een foto blurren op iPhone met je vinger (gratis)",
+    "meta_description": "Zo blur je alleen een deel van een foto op je iPhone: schilder het gebied met je vinger en kies Gaussian of Pixelate. Voor tekst, nummers, personen of dingen.",
+    "h1": "Alleen een deel van een foto blurren op iPhone",
+    "answer": "Om een deel van een foto op je iPhone te blurren, open je hem in MakeBlur, kies je het tabblad Manual (penseel) en ga je met je vinger over het gebied dat weg moet. Alleen wat je schildert wordt wazig. Kies de stijl — Gaussian voor een zacht effect of Pixelate voor privacy — stel Radius in en tik op Save.",
+    "intro": "Soms wil je niet de achtergrond of een gezicht wazig maken, maar één specifiek stukje: het huisnummer, een naambadge, een papier op je bureau, iemand in de menigte. De Foto’s-app heeft geen vervaagpenseel, dus je hebt iets nodig dat dat wel kan. Zo werkt het.",
+    "image": "/img/appstore/nl/05-crystalize.webp",
+    "image_alt": "Mozaïek toegepast op een gebied van de foto",
+    "native": {
+      "heading": "Wat de iPhone zelf kan",
+      "paragraphs": [
+        "In Markeringen kun je een gebied bedekken met een volle vorm of met de pen. Het detail is weg, maar er blijft een zichtbare plak. Opschonen (alleen met Apple Intelligence) verwijdert objecten in plaats van ze te vervagen, en vult de achtergrond soms vreemd op. Een echt vervaagpenseel zit niet in Foto’s."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Zo schilder je het gebied goed",
+        "paragraphs": [
+          "Zoom met twee vingers in voordat je schildert: het penseel volgt je vinger dan nauwkeuriger. Laat een kleine marge rond het object, zeker bij tekst. Gaat het mis, begin dan opnieuw: het origineel verandert pas als je bewaart."
+        ]
+      },
+      {
+        "heading": "Welke stijl kies je",
+        "paragraphs": [
+          "Gaussian: zacht, valt weinig op, goed voor esthetische details (een vuilnisbak, een bord). Pixelate of Box met hoge Radius: voor gegevens die echt weg moeten. Crystallize of Hexagonal: grafisch effect, als je wilt dat de vervaging opvalt."
+        ]
+      }
+    ],
+    "steps_title": "Een gebied blurren in de app",
+    "steps": [
+      {
+        "title": "Open de foto",
+        "description": "Kies het beeld in MakeBlur."
+      },
+      {
+        "title": "Tabblad Manual",
+        "description": "Zoom in en ga met je vinger over het gebied."
+      },
+      {
+        "title": "Stijl en Radius",
+        "description": "Gaussian voor een subtiel effect, Pixelate voor privacy."
+      },
+      {
+        "title": "Save",
+        "description": "De kopie met het wazige gebied komt in Foto’s."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Combineer tabbladen: eerst Background voor de achtergrond, dan Manual voor een detail.",
+      "Gebruik bij tekst altijd een hoge sterkte: grote letters blijven met weinig vervaging leesbaar.",
+      "Let op spiegelingen: een spiegel kan laten zien wat je net hebt verborgen."
+    ],
+    "faq_title": "Veelgestelde vragen",
+    "faq": [
+      {
+        "question": "Kan ik meerdere gebieden op één foto blurren?",
+        "answer": "Ja, met Manual schilder je zoveel gebieden als je wilt voordat je bewaart."
+      },
+      {
+        "question": "Werkt het op screenshots?",
+        "answer": "Ja, screenshots openen als elke andere foto."
+      },
+      {
+        "question": "Verliest het niet-geblurde deel kwaliteit?",
+        "answer": "Nee, de rest van de foto blijft identiek aan het origineel."
+      }
+    ],
+    "related": [
+      "screenshot-tekst-onleesbaar-maken.html",
+      "kenteken-blurren-foto.html",
+      "foto-pixelen-iphone.html",
+      "gezicht-blurren-foto.html"
+    ],
+    "cta_title": "Blur alleen wat jij wilt",
+    "cta_body": "Download «Foto achtergrond wazig maken», kies Manual en schilder. Gratis, op je iPhone.",
+    "cta_text": "Download in de App Store"
+  },
+  {
+    "slug": "kenteken-blurren-foto.html",
+    "keyword": "kenteken blurren",
+    "cluster": "privacy",
+    "card_title": "Kenteken blurren op een foto",
+    "card_excerpt": "Voor Marktplaats, AutoScout24 of 2dehands: kenteken onleesbaar, advertentie netjes.",
+    "card_image": "/img/appstore/nl/05-crystalize.webp",
+    "card_image_alt": "Kenteken verborgen met pixels",
+    "meta_title": "Kenteken blurren op een foto met je iPhone (gratis, offline)",
+    "meta_description": "Zo maak je het kenteken op een foto onherkenbaar voor Marktplaats, AutoScout24 of 2dehands: overschilderen, pixelen, bewaren. Op iPhone, gratis, zonder upload.",
+    "h1": "Kenteken blurren op een foto met je iPhone",
+    "answer": "Om een kenteken op een foto te blurren, open je hem in MakeBlur, kies je het tabblad Manual, ga je met je vinger over het kenteken, kies je de stijl Pixelate of Box en verhoog je Radius tot geen enkel teken meer leesbaar is. Tik op Save en upload die kopie in je advertentie.",
+    "intro": "Wie zijn auto, camper of motor verkoopt op Marktplaats, AutoScout24 of 2dehands — of hem gewoon laat zien op Instagram — maakt het kenteken vaak onherkenbaar. Dat verkleint de kans dat iemand de gegevens misbruikt voor kentekenfraude of een gekloonde plaat. Verplicht is het niet, maar veel mensen doen het uit voorzorg. De advertentie moet er wel verzorgd uitzien: een zwarte balk op de bumper oogt goedkoop. Een nette pixelvervaging lost beide op.",
+    "image": "/img/appstore/nl/05-crystalize.webp",
+    "image_alt": "Pixelvervaging van een gebied in de app",
+    "native": {
+      "heading": "Wat kan met Foto’s",
+      "paragraphs": [
+        "In Markeringen kun je het kenteken bedekken met een vorm of overschilderen met de pen. Het is dan verborgen, maar de plak valt op, en de halfdoorzichtige markeerstift laat tekens soms doorschemeren. Een gebied vervagen of pixelen kan de ingebouwde editor niet."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Pixelen of vervagen?",
+        "paragraphs": [
+          "Voor kentekens het veiligst: Pixelate of Box met hoge Radius — grote blokken wissen de tekens. Een lichte Gaussian kan het kenteken raadbaar laten, zeker bij foto’s met hoge resolutie.",
+          "Crystallize verbergt het ook, maar oogt decoratief; voor een advertentie is neutraal pixelen beter."
+        ]
+      },
+      {
+        "heading": "Als het om veel foto’s gaat",
+        "paragraphs": [
+          "Een advertentie heeft vaak 10 tot 20 foto’s, waarvan er drie of vier het kenteken tonen. Bewerk ze één voor één: openen, Manual, overschilderen, Save — elk een halve minuut. Let ook op spiegelingen: soms zie je het kenteken in een etalageruit of door de voorruit op een interieurfoto."
+        ]
+      }
+    ],
+    "steps_title": "Kenteken blurren in de app",
+    "steps": [
+      {
+        "title": "Open de foto van de auto",
+        "description": "Kies een foto waarop het kenteken zichtbaar is."
+      },
+      {
+        "title": "Tabblad Manual",
+        "description": "Zoom in en schilder het kenteken met een kleine marge."
+      },
+      {
+        "title": "Pixelate en Radius",
+        "description": "Verhoog de sterkte tot je bij inzoomen geen teken meer kunt lezen."
+      },
+      {
+        "title": "Save",
+        "description": "Upload de bewaarde kopie in de advertentie."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Bedek de hele plaat, niet alleen de tekens: ook de landcode en kleur zeggen iets.",
+      "Controleer voor- en achterkant: een auto heeft op beide bumpers een kenteken.",
+      "Staan het kentekenbewijs of het chassisnummer in beeld, maak die dan op dezelfde manier onherkenbaar."
+    ],
+    "faq_title": "Veelgestelde vragen",
+    "faq": [
+      {
+        "question": "Moet ik mijn kenteken in een advertentie onherkenbaar maken?",
+        "answer": "Het is niet verplicht, maar veel verkopers doen het om misbruik van de voertuiggegevens te voorkomen. Dat bepaal je zelf. Dit is geen juridisch advies."
+      },
+      {
+        "question": "Is een gepixeld kenteken te herstellen?",
+        "answer": "Met grote blokken niet: de details zijn uit de bewaarde kopie verwijderd. Plaats nooit het origineel."
+      },
+      {
+        "question": "Worden de foto’s ergens naartoe gestuurd?",
+        "answer": "Nee, alles gebeurt op de iPhone, zonder internet."
+      }
+    ],
+    "related": [
+      "deel-foto-blurren-iphone.html",
+      "foto-pixelen-iphone.html",
+      "screenshot-tekst-onleesbaar-maken.html",
+      "gezicht-blurren-foto.html"
+    ],
+    "cta_title": "Kenteken weg, advertentie netjes",
+    "cta_body": "Download «Foto achtergrond wazig maken», schilder het kenteken in Manual en bewaar. Gratis, direct op je iPhone.",
+    "cta_text": "Download in de App Store"
+  },
+  {
+    "slug": "screenshot-tekst-onleesbaar-maken.html",
+    "keyword": "tekst onleesbaar maken screenshot",
+    "cluster": "privacy",
+    "card_title": "Tekst onleesbaar maken op een screenshot",
+    "card_excerpt": "Chats, adressen, IBAN: maak tekst onleesbaar voordat je een screenshot deelt.",
+    "card_image": "/img/appstore/nl/05-crystalize.webp",
+    "card_image_alt": "Gepixelde tekst op een screenshot",
+    "meta_title": "Tekst onleesbaar maken op een screenshot op iPhone (veilig)",
+    "meta_description": "Zo maak je tekst, namen en nummers op een iPhone-screenshot onleesbaar voor je hem deelt: pixels die niet terugkomen als iemand de helderheid opschroeft.",
+    "h1": "Tekst onleesbaar maken op een screenshot op iPhone",
+    "answer": "Om tekst op een screenshot onleesbaar te maken, open je hem in MakeBlur, kies je het tabblad Manual, ga je met je vinger over de regels die weg moeten (naam, nummer, adres, bericht), kies je Pixelate en verhoog je Radius. Tik op Save en deel de kopie. Zoom vóór het versturen in om te controleren dat niets meer leesbaar is.",
+    "intro": "We delen continu screenshots: een WhatsApp-gesprek om advies te vragen, een orderbevestiging, een overboeking, een foutmelding. Bijna altijd staan er namen, telefoonnummers, adressen of codes op. Die verbergen is makkelijk, maar het moet wel goed: sommige methodes laten de tekst gewoon leesbaar.",
+    "image": "/img/appstore/nl/05-crystalize.webp",
+    "image_alt": "Gepixeld gebied waardoor de inhoud onleesbaar is",
+    "native": {
+      "heading": "De grens van Markeringen",
+      "paragraphs": [
+        "Markeringen heeft een markeerstift, maar die is halfdoorzichtig: als je contrast of helderheid verhoogt, kan de tekst eronder terugkomen. De pen met volle lijn werkt beter als je meerdere keren overschildert, en een volle rechthoek is veilig maar lelijk. Een gebied pixelen kan niet."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Waarom pixelen en niet licht vervagen",
+        "paragraphs": [
+          "Zwarte tekst op een witte achtergrond is bestand tegen lichte vervaging: woorden zijn aan hun vorm te raden. Met Pixelate en hoge Radius wordt elke letter een blok en verdwijnt de inhoud. Op een screenshot is pixelen ook het duidelijkst: wie hem ontvangt, ziet dat je bewust iets hebt verborgen."
+        ]
+      },
+      {
+        "heading": "Wat je meestal verbergt",
+        "paragraphs": [
+          "In chats: naam en foto van het contact, telefoonnummers. Bij bestellingen: adres, e-mail, ordernummer. Bij banken: IBAN, saldo, naam van de ontvanger. In documenten: BSN en handtekening."
+        ]
+      }
+    ],
+    "steps_title": "Tekst onleesbaar maken in de app",
+    "steps": [
+      {
+        "title": "Open de screenshot",
+        "description": "Je vindt hem in het album Schermafbeeldingen."
+      },
+      {
+        "title": "Tabblad Manual",
+        "description": "Schilder de regels die weg moeten, met marge."
+      },
+      {
+        "title": "Pixelate",
+        "description": "Verhoog Radius tot je bij inzoomen niets meer kunt lezen."
+      },
+      {
+        "title": "Save",
+        "description": "Deel de kopie, niet het origineel."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Vergeet de bovenste balk niet: contactnamen en meldingsvoorbeelden komen vaak mee op een screenshot.",
+      "Verberg de hele regel, niet alleen een deel van het nummer.",
+      "Verwijder na het bewaren het origineel als je het niet meer nodig hebt."
+    ],
+    "faq_title": "Veelgestelde vragen",
+    "faq": [
+      {
+        "question": "Is de markeerstift van Markeringen veilig?",
+        "answer": "Niet helemaal: hij is halfdoorzichtig en de tekst kan terugkomen door de helderheid aan te passen. Pixel liever of gebruik een volle vorm."
+      },
+      {
+        "question": "Kun je gepixelde tekst terughalen?",
+        "answer": "Met grote blokken niet. Met lichte pixels en grote tekst soms wel: gebruik daarom een hoge sterkte."
+      },
+      {
+        "question": "Werkt het met lange screenshots of pdf’s?",
+        "answer": "Het werkt met afbeeldingen in je bibliotheek. Een screenshot van een hele pagina die als pdf is bewaard, moet je eerst als afbeelding opslaan."
+      }
+    ],
+    "related": [
+      "deel-foto-blurren-iphone.html",
+      "foto-pixelen-iphone.html",
+      "kenteken-blurren-foto.html",
+      "gezicht-blurren-foto.html"
+    ],
+    "cta_title": "Screenshots die je zorgeloos deelt",
+    "cta_body": "Download «Foto achtergrond wazig maken», schilder de tekst met Manual en pixel. Gratis, offline.",
+    "cta_text": "Download in de App Store"
+  },
+  {
+    "slug": "foto-pixelen-iphone.html",
+    "keyword": "foto pixelen iPhone",
+    "cluster": "privacy",
+    "card_title": "Foto pixelen op iPhone",
+    "card_excerpt": "Mozaïek op gezichten, tekst of achtergrond: Pixelate, Hexagonal en Crystallize uitgelegd.",
+    "card_image": "/img/appstore/nl/05-crystalize.webp",
+    "card_image_alt": "Achtergrond als mozaïek met Crystallize",
+    "meta_title": "Foto pixelen op iPhone: gezichten, tekst of achtergrond",
+    "meta_description": "Zo pixel je een foto op je iPhone: het hele beeld, alleen de achtergrond, de gezichten of een gebied. Stijlen Pixelate, Hexagonal en Crystallize, op je toestel.",
+    "h1": "Een foto pixelen op iPhone",
+    "answer": "Om een foto op je iPhone te pixelen, open je hem in MakeBlur, kies je waar het effect komt (Faces voor gezichten, Manual voor een gebied, Background voor de achtergrond, Full Photo voor alles), selecteer je de stijl Pixelate en stel je de grootte van de blokken in met Radius. Tik op Save om de gepixelde kopie te bewaren.",
+    "intro": "Pixelen (of pixeleren) betekent een deel van het beeld omzetten in grote vierkanten: de klassieke manier om gezichten en gegevens te verbergen, maar ook een grafisch effect dat populair is. Op de iPhone zit geen mozaïekfilter. Zo pas je het toe waar je wilt.",
+    "image": "/img/appstore/nl/05-crystalize.webp",
+    "image_alt": "Stijl Crystallize op de achtergrond: mozaïek van kristallen",
+    "native": {
+      "heading": "Wat de iPhone zelf kan",
+      "paragraphs": [
+        "Foto’s heeft geen mozaïekfilter. Markeringen kan alleen bedekken, en Opschonen (vanaf iPhone 15 Pro) verwijdert. Om tekst, achtergrond of het hele beeld te pixelen heb je een app nodig."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Drie mozaïekstijlen",
+        "paragraphs": [
+          "Pixelate: klassieke vierkanten, het veiligst voor privacy. Hexagonal: zeshoekige cellen, moderner. Crystallize: onregelmatige kristallen, artistiek effect, zoals op de screenshot «Pixelprivacy met één tik», waar de achtergrond kristallen wordt en het meisje scherp blijft."
+        ]
+      },
+      {
+        "heading": "Privacy of esthetiek",
+        "paragraphs": [
+          "Om te verbergen: Pixelate met grote blokken op Faces of Manual. Als grafisch effect: Crystallize of Hexagonal op Background, zodat het onderwerp opvalt tegen een mozaïekachtergrond."
+        ]
+      }
+    ],
+    "steps_title": "Pixelen in de app",
+    "steps": [
+      {
+        "title": "Open de foto",
+        "description": "Elke afbeelding of screenshot."
+      },
+      {
+        "title": "Kies het tabblad",
+        "description": "Faces, Manual, Background of Full Photo."
+      },
+      {
+        "title": "Stijl Pixelate",
+        "description": "Of Hexagonal of Crystallize; stel de blokken in met Radius."
+      },
+      {
+        "title": "Save",
+        "description": "Bewaar de gepixelde kopie."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Grotere blokken = meer privacy.",
+      "Probeer voor een creatieve post Crystallize op de achtergrond met een scherp onderwerp.",
+      "Controleer door in te zoomen: kleine details moeten helemaal weg zijn."
+    ],
+    "faq_title": "Veelgestelde vragen",
+    "faq": [
+      {
+        "question": "Pixelen of pixeleren?",
+        "answer": "Beide vormen worden gebruikt en betekenen hetzelfde."
+      },
+      {
+        "question": "Kan ik alleen de achtergrond pixelen?",
+        "answer": "Ja: tabblad Background met stijl Pixelate of Crystallize; het onderwerp blijft scherp."
+      },
+      {
+        "question": "Blijven mijn foto’s privé?",
+        "answer": "Ja, de verwerking gebeurt op de iPhone en er is geen internet nodig."
+      }
+    ],
+    "related": [
+      "gezicht-blurren-foto.html",
+      "screenshot-tekst-onleesbaar-maken.html",
+      "kenteken-blurren-foto.html",
+      "blur-effect-foto.html"
+    ],
+    "cta_title": "Mozaïek waar jij wilt",
+    "cta_body": "Download «Foto achtergrond wazig maken»: Pixelate, Hexagonal en Crystallize in elke modus. Gratis te downloaden.",
+    "cta_text": "Download in de App Store"
+  }
+]

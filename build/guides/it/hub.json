@@ -1,0 +1,30 @@
+{
+  "nav_text": "Guide",
+  "title": "Guide passo per passo",
+  "intro": "Sfocare lo sfondo, nascondere un volto, oscurare targhe o testo, sfocare un’intera foto: ogni guida mostra i passaggi esatti su iPhone.",
+  "learn_more_text": "Scopri di più",
+  "related_title": "Guide correlate",
+  "answer_label": "In breve",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "Sfocare lo sfondo",
+      "blurb": "Soggetto nitido, sfondo morbido, sulle foto già scattate."
+    },
+    {
+      "id": "privacy",
+      "title": "Nascondere volti, targhe e testo",
+      "blurb": "Sfocatura per la privacy prima di condividere."
+    },
+    {
+      "id": "effects",
+      "title": "Effetti di sfocatura",
+      "blurb": "Mosso, bokeh e gaussiana."
+    },
+    {
+      "id": "photo",
+      "title": "Sfocare qualsiasi foto",
+      "blurb": "Foto intera ed effetto sfocato spiegato."
+    }
+  ]
+}

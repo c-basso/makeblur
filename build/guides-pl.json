@@ -1,0 +1,1289 @@
+{
+  "hub": {
+    "nav_text": "Poradniki",
+    "title": "Poradniki krok po kroku",
+    "intro": "Rozmycie tła, ukrycie twarzy, zamazanie tablicy lub tekstu, rozmycie całego zdjęcia: każdy poradnik pokazuje dokładne kroki na iPhonie.",
+    "learn_more_text": "Czytaj więcej",
+    "related_title": "Powiązane poradniki",
+    "answer_label": "Krótka odpowiedź",
+    "clusters": [
+      {
+        "id": "background",
+        "title": "Rozmycie tła",
+        "blurb": "Ostry obiekt, miękkie tło — także na zdjęciach, które już masz."
+      },
+      {
+        "id": "privacy",
+        "title": "Ukrywanie twarzy, tablic i tekstu",
+        "blurb": "Rozmycie dla prywatności przed udostępnieniem."
+      },
+      {
+        "id": "effects",
+        "title": "Efekty rozmycia",
+        "blurb": "Ruch, bokeh i rozmycie gaussowskie."
+      },
+      {
+        "id": "photo",
+        "title": "Rozmycie dowolnego zdjęcia",
+        "blurb": "Całe zdjęcie i efekt rozmycia w pigułce."
+      }
+    ]
+  },
+  "items": [
+    {
+      "slug": "rozmycie-tla-iphone.html",
+      "keyword": "rozmycie tła iPhone",
+      "cluster": "background",
+      "card_title": "Rozmycie tła na iPhonie po zrobieniu zdjęcia",
+      "card_excerpt": "Tryb Portret działa tylko przy robieniu zdjęcia. Zobacz, jak rozmyć tło zdjęcia, które już masz w bibliotece.",
+      "card_image": "/img/appstore/pl/04-box.webp",
+      "card_image_alt": "Karta Background: kobieta ostra, tło rozmyte",
+      "meta_title": "Rozmycie tła na iPhonie, także na zdjęciach już zrobionych",
+      "meta_description": "Jak rozmyć tło na iPhonie, gdy zdjęcie jest już zrobione: aplikacja wykrywa obiekt, ty wybierasz siłę rozmycia i zapisujesz. Bez trybu Portret, za darmo.",
+      "h1": "Rozmycie tła na iPhonie — także po zrobieniu zdjęcia",
+      "answer": "Aby rozmyć tło zdjęcia, które już zrobiłeś iPhonem, otwórz je w MakeBlur («Rozmycie tła na zdjęciu»), zostaw wybraną kartę Background (tło), żeby obiekt został wykryty, wybierz styl Gaussian, zwiększaj suwak Radius do wymaganej miękkości i stuknij Save. Działa z każdym zdjęciem z biblioteki, nie tylko z portretami, a wszystko dzieje się na iPhonie.",
+      "intro": "Prawie każda odpowiedź na «rozmycie tła iPhone» odsyła do trybu Portret. Dobra rada, jeśli zdjęcia jeszcze nie zrobiłeś. Ale jeśli powstało w zwykłym trybie Zdjęcie, przyszło przez Messengera albo jest screenem, tryb Portret nie pomoże. Tutaj zobaczysz, co iPhone potrafi sam, gdzie się kończą jego możliwości i jak rozmyć tło w pół minuty.",
+      "image": "/img/appstore/pl/04-box.webp",
+      "image_alt": "Karta Background w aplikacji: kobieta jest ostra, ceglana ściana i kwiaty za nią są rozmyte",
+      "native": {
+        "heading": "Co iPhone potrafi sam",
+        "paragraphs": [
+          "Tryb Portret zapisuje mapę głębi w chwili zrobienia zdjęcia. Później w Zdjęcia → Edycja możesz suwakiem przysłony wzmocnić lub osłabić rozmycie. Ale tylko na zdjęciach zrobionych w trybie Portret zgodnym aparatem: zwykłe zdjęcie, selfie bez portretu, screen albo otrzymany obraz nie mają mapy głębi i suwak w ogóle się nie pojawia.",
+          "Nowsze iPhone’y potrafią zamienić niektóre zwykłe zdjęcia w portret, jeśli przy robieniu zapisały dane o głębi. Nie działa to z każdym zdjęciem ani na każdym modelu, a obiektu nie wybierasz sam."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Rozmycie tła bez trybu Portret",
+          "paragraphs": [
+            "Potrzebujesz edytora, który oddzieli obiekt od tła na podstawie gotowego obrazu. W MakeBlur robi to karta Background: rozpoznaje osobę lub główny obiekt, zostawia go ostro i zmiękcza całą resztę. Dane o głębi z aparatu nie są potrzebne — aplikacja pracuje na pikselach zdjęcia, więc nada się każdy obraz.",
+            "Siłę ustawiasz suwakiem Radius, a rodzaj rozmycia stylem: Gaussian daje miękki efekt jak z obiektywu, Box nieco bardziej równomierne rozmycie, Motion smugę ruchu. Wszystko działa na iPhonie, bez internetu."
+          ]
+        },
+        {
+          "heading": "Jak mocno rozmywać",
+          "paragraphs": [
+            "Do zdjęcia profilowego czy do CV wystarczy lekkie rozmycie: otoczenie jest rozpoznawalne, ale nie odciąga uwagi. Do relacji i postów możesz pójść dalej — tło zmienia się w plamy koloru, a osoba wyraźnie się wyróżnia. Zacznij od średniego Radius i powiększ włosy: jeśli widać jasną obwódkę, zmniejsz siłę."
+          ]
+        }
+      ],
+      "steps_title": "Rozmycie tła w aplikacji",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Otwórz zdjęcie",
+          "description": "Uruchom MakeBlur i wybierz obraz z biblioteki — zwykłe zdjęcie, selfie albo screen."
+        },
+        {
+          "number": "2",
+          "title": "Zostaw kartę Background",
+          "description": "Aplikacja wykrywa obiekt i zaznacza tło, które zostanie rozmyte."
+        },
+        {
+          "number": "3",
+          "title": "Wybierz styl i Radius",
+          "description": "Gaussian dla klasycznego efektu portretu. Przesuwaj Radius, aż tło będzie wystarczająco miękkie."
+        },
+        {
+          "number": "4",
+          "title": "Stuknij Save",
+          "description": "Rozmyta kopia trafia do Zdjęć, oryginał pozostaje bez zmian."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Maska wychodzi najlepiej, gdy obiekt wyraźnie odcina się od tła: osoba przed ścianą, kubek na stole.",
+        "Przed zapisem powiększ włosy i palce — przy bardzo wysokim Radius może pojawić się obwódka.",
+        "Najpierw rozmyj, potem przytnij: aplikacja ma wtedy więcej pikseli na dokładną maskę."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Czy da się rozmyć tło na iPhonie bez trybu Portret?",
+          "answer": "Tak. Zdjęcia nie poradzą sobie bez danych o głębi, ale MakeBlur oddziela obiekt na podstawie samego obrazu i rozmywa tło każdego zdjęcia."
+        },
+        {
+          "question": "Jak rozmyć tło na starym zdjęciu?",
+          "answer": "Tak samo: otwórz w aplikacji, karta Background, ustaw Radius i zapisz. Data zdjęcia i model aparatu nie mają znaczenia."
+        },
+        {
+          "question": "Czy zdjęcie straci na jakości?",
+          "answer": "Obiekt zachowuje oryginalną rozdzielczość, zmiękcza się tylko tło. Zapisywana jest nowa kopia, oryginał zostaje."
+        },
+        {
+          "question": "Czy aplikacja potrzebuje internetu?",
+          "answer": "Nie. Wszystko działa na iPhonie, zdjęcia nie są wysyłane na serwery."
+        }
+      ],
+      "related": [
+        "jak-rozmyc-tlo.html",
+        "rozmyte-tlo-zdjecie.html",
+        "aplikacja-rozmycie-zdjec-iphone.html",
+        "rozmycie-gaussowskie-iphone.html"
+      ],
+      "cta_title": "Rozmyte tło na zdjęciach, które już masz",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu», otwórz zdjęcie, ustaw Radius i zapisz. Za darmo, na urządzeniu, na każdym iPhonie z iOS 18.6 lub nowszym.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "rozmyte-tlo-zdjecie.html",
+      "keyword": "rozmyte tło na zdjęciu",
+      "cluster": "background",
+      "card_title": "Zdjęcie z rozmytym tłem na profil i social media",
+      "card_excerpt": "Ostry obiekt, miękkie tło: efekt jak od fotografa na zdjęciach profilowych, postach i w ogłoszeniach.",
+      "card_image": "/img/appstore/pl/02-motion.webp",
+      "card_image_alt": "Portret z rozmytym tłem na iPhonie",
+      "meta_title": "Rozmyte tło na zdjęciu z iPhone’a: profil, Instagram, OLX",
+      "meta_description": "Jak uzyskać rozmyte tło na zdjęciu z iPhone’a z obrazu, który już masz: ostry obiekt, miękkie tło na profil, posty i ogłoszenia. Dobór stylu i siły. Za darmo.",
+      "h1": "Rozmyte tło na zdjęciu: efekt jak od fotografa z iPhone’a",
+      "answer": "Aby uzyskać rozmyte tło na zdjęciu, które już masz, otwórz je w MakeBlur, zostaw kartę Background, żeby obiekt pozostał ostry, wybierz Gaussian dla naturalnego efektu albo Box dla bardziej równomiernego rozmycia, ustaw Radius i stuknij Save. W kilka sekund masz efekt portretu bez lustrzanki.",
+      "intro": "Rozmyte tło sprawia, że każde zdjęcie wygląda profesjonalnie: zdjęcie profilowe na LinkedIn, post na Instagramie, ogłoszenie na OLX czy Vinted z przedmiotem na pierwszym planie. Jasne obiektywy robią to w chwili zdjęcia; iPhonem możesz to zrobić także później. Oto jak dobrać styl i siłę do zastosowania.",
+      "image": "/img/appstore/pl/02-motion.webp",
+      "image_alt": "Karta Background ze stylem Motion, Radius 65: kobieta pozostaje ostra",
+      "native": {
+        "heading": "Co iPhone potrafi sam",
+        "paragraphs": [
+          "Tryb Portret rozmywa tło przy robieniu zdjęcia, a w Zdjęcia → Edycja możesz zmienić siłę. Dla zwykłych zdjęć aplikacja Zdjęcia nie ma żadnego narzędzia do rozmycia tła: filtry i korekty zmieniają światło i kolor, nie ostrość."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Odpowiedni styl do każdego zdjęcia",
+          "paragraphs": [
+            "Profil i CV: Gaussian z niskim Radius, otoczenie pozostaje czytelne, ale nie rozprasza. Posty i relacje: Gaussian lub Box z wysokim Radius, tło zmienia się w kolor. Zdjęcia sportowe i uliczne: Motion, tło się porusza, a obiekt stoi. Przedmioty na sprzedaż: Box, jednolite tło wyróżnia przedmiot.",
+            "Zrzut «Ostry obiekt, reszta rozmyta» pokazuje Box na portrecie przed ścianą z kwiatami: typowy przypadek."
+          ]
+        },
+        {
+          "heading": "Zmiękczenie tła bez przesady",
+          "paragraphs": [
+            "Zbyt rozmyte tło na zdjęciu profilowym wygląda sztucznie, zwłaszcza na krawędziach włosów. Prosta zasada: im bliżej obiektywu jest osoba, tym mocniej możesz rozmyć; przy całej sylwetce lub grupie trzymaj się niżej."
+          ]
+        }
+      ],
+      "steps_title": "Zdjęcie z rozmytym tłem w aplikacji",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Wybierz zdjęcie",
+          "description": "Otwórz obraz w MakeBlur: profil, post albo produkt."
+        },
+        {
+          "number": "2",
+          "title": "Karta Background",
+          "description": "Obiekt zostaje wykryty i pozostaje ostry."
+        },
+        {
+          "number": "3",
+          "title": "Styl i Radius",
+          "description": "Gaussian do portretów, Box do produktów, Motion do akcji."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Zapisz kopię i opublikuj, gdzie chcesz."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Zdjęcie profilowe przytnij dopiero po rozmyciu: maska będzie dokładniejsza.",
+        "Przy tłach ze światełkami (witryny, lampki świąteczne) Gaussian tworzy plamy światła podobne do bokeh.",
+        "Zapisz dwie wersje z różną siłą i wybierz, patrząc na ekran telefonu."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Jak zrobić rozmyte tło na zdjęciu, które już jest zrobione?",
+          "answer": "Aplikacją, która wykrywa obiekt, np. MakeBlur: karta Background, Radius, Save. Same Zdjęcia nie zrobią tego na zwykłych zdjęciach."
+        },
+        {
+          "question": "Czy działa z przedmiotami, nie tylko z ludźmi?",
+          "answer": "Tak, Background wykrywa też główny przedmiot: kubek, torebkę, talerz."
+        },
+        {
+          "question": "Czy to jest darmowe?",
+          "answer": "Pobranie jest darmowe, a podstawowe rozmycie tła jest w zestawie; zaawansowane style opcjonalnie w zakupach w aplikacji."
+        }
+      ],
+      "related": [
+        "rozmycie-tla-iphone.html",
+        "efekt-bokeh-iphone.html",
+        "aplikacja-rozmycie-zdjec-iphone.html",
+        "jak-rozmyc-tlo.html"
+      ],
+      "cta_title": "Efekt portretu na każdym zdjęciu",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu», otwórz zdjęcie i pozwól aplikacji znaleźć obiekt. Za darmo, bez wysyłania.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "jak-rozmyc-tlo.html",
+      "keyword": "jak rozmyć tło",
+      "cluster": "background",
+      "card_title": "Jak rozmyć tło: poradnik dla początkujących",
+      "card_excerpt": "Co znaczy rozmyć tło, ile rozmycia wybrać i jak zrobić to w trzech stuknięciach.",
+      "card_image": "/img/appstore/pl/04-box.webp",
+      "card_image_alt": "Rozmyte tło za portretem",
+      "meta_title": "Jak rozmyć tło na zdjęciu: prosty poradnik dla iPhone’a",
+      "meta_description": "Jak rozmyć tło na zdjęciu iPhonem, nawet jeśli nigdy niczego nie edytowałeś: trzy stuknięcia, ile rozmycia wybrać i jakich błędów unikać. Za darmo i bez stresu.",
+      "h1": "Jak rozmyć tło na zdjęciu (poradnik dla początkujących)",
+      "answer": "Aby rozmyć tło na zdjęciu iPhonem, wystarczą trzy stuknięcia: otwórz zdjęcie w MakeBlur, zostaw kartę Background, przesuń suwak Radius w prawo, aż tło będzie miękkie, i stuknij Save. Aplikacja sama znajduje osobę albo przedmiot i zostawia je ostre; nie musisz niczego wycinać ręcznie.",
+      "intro": "Rozmyć, rozmazać, zrobić bokeh: mówi się różnie, ale chodzi o to samo. Obiekt pozostaje ostry, wszystko za nim staje się miękkie, a wzrok od razu trafia na osobę. Jeśli nigdy nie używałeś edytora, ten poradnik przeprowadzi cię od pierwszego stuknięcia do zapisanego zdjęcia, ze wskazówkami, jak mocno podkręcić efekt.",
+      "image": "/img/appstore/pl/04-box.webp",
+      "image_alt": "Suwak Radius ustawia, jak mocno rozmyte jest tło",
+      "native": {
+        "heading": "Czy da się to zrobić w aplikacji Zdjęcia?",
+        "paragraphs": [
+          "Tylko na zdjęciach zrobionych w trybie Portret: w Edycji pojawia się wtedy suwak głębi. Dla wszystkich innych zdjęć aplikacja Zdjęcia nie ma narzędzia do rozmycia tła. Filtry ani korekta «Ostrość» tego nie zrobią."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Jak mocno rozmywać",
+          "paragraphs": [
+            "Słabo (niski Radius): tło pozostaje rozpoznawalne; najbardziej naturalny efekt, dobry do zdjęć rodzinnych i profilowych. Średnio: tło staje się gładką płaszczyzną, idealnie do postów. Mocno (wysoki Radius): zostają tylko plamy koloru, efektowne, ale sprawdź krawędzie.",
+            "Jeśli masz wątpliwości, wybierz średnio: wygląda to, jakby zrobił to aparat."
+          ]
+        },
+        {
+          "heading": "Błędy, których warto unikać",
+          "paragraphs": [
+            "Zbyt mocne rozmycie zdjęcia grupowego: osoby stojące nieco dalej wyglądają na pół rozmyte. Rozmywanie tła, które już jest ciemne: różnica jest ledwo widoczna. Utrata oryginału: MakeBlur zawsze zapisuje kopię, więc możesz próbować ile chcesz."
+          ]
+        }
+      ],
+      "steps_title": "Rozmycie tła w trzech stuknięciach",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Otwórz zdjęcie",
+          "description": "Stuknij zdjęcie z biblioteki w MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Przesuń Radius",
+          "description": "Przy aktywnej karcie Background przesuwaj, aż efekt ci się spodoba."
+        },
+        {
+          "number": "3",
+          "title": "Stuknij Save",
+          "description": "Nowe zdjęcie pojawi się w Ostatnich."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Najlepiej wychodzą zdjęcia, na których obiekt wyraźnie odcina się od tła.",
+        "Przed zapisem powiększ dwoma palcami, żeby sprawdzić krawędzie.",
+        "Jeśli obiekt jest mały, przytnij zdjęcie po zapisaniu."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Rozmyć czy rozmazać tło — to to samo?",
+          "answer": "Tak. «Rozmyć» to forma najczęstsza, «rozmazać» i «zblurować» znaczą w praktyce to samo."
+        },
+        {
+          "question": "Czy muszę wycinać obiekt ręcznie?",
+          "answer": "Nie, karta Background wykrywa go automatycznie. Do drobnych poprawek użyj Manual."
+        },
+        {
+          "question": "Czy mogę wrócić do oryginału?",
+          "answer": "Tak, aplikacja zapisuje kopię, a oryginał zostaje w bibliotece."
+        }
+      ],
+      "related": [
+        "rozmycie-tla-iphone.html",
+        "rozmyte-tlo-zdjecie.html",
+        "rozmycie-gaussowskie-iphone.html",
+        "rozmyc-zdjecie-iphone.html"
+      ],
+      "cta_title": "Rozmyte tło w trzech stuknięciach",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu»: otwórz, przesuń Radius, zapisz. Za darmo na iPhone’a z iOS 18.6.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "aplikacja-rozmycie-zdjec-iphone.html",
+      "keyword": "aplikacja do rozmycia zdjęć iPhone",
+      "cluster": "background",
+      "card_title": "Aplikacja do rozmywania zdjęć na iPhone’a",
+      "card_excerpt": "Tryb Portret, Oznaczenia, Clean Up czy osobna aplikacja: czego użyć do tła, twarzy i szczegółów.",
+      "card_image": "/img/appstore/pl/03-face.webp",
+      "card_image_alt": "Rozmyte twarze w aplikacji na iPhone’a",
+      "meta_title": "Aplikacja do rozmycia zdjęć na iPhone: uczciwe porównanie",
+      "meta_description": "Jakiej aplikacji użyć do rozmywania zdjęć na iPhonie? Tryb Portret, Oznaczenia, Clean Up czy MakeBlur: co każda rozmywa (tło, twarze, tekst) i jakie ma granice.",
+      "h1": "Aplikacja do rozmycia zdjęć na iPhone’a: czego użyć i kiedy",
+      "answer": "To, jakiej aplikacji do rozmycia zdjęć potrzebujesz na iPhonie, zależy od tego, co chcesz rozmyć. Tło zdjęcia zrobionego w trybie Portret: wystarczą Zdjęcia. Tło każdego innego zdjęcia, wszystkie twarze, tablica rejestracyjna albo tekst: potrzebujesz aplikacji takiej jak MakeBlur, z kartami Background, Faces, Manual i Full Photo, która działa na urządzeniu i jest darmowa do pobrania.",
+      "intro": "Szukając «aplikacji do rozmycia zdjęć», trafisz na listy dziesięciu podobnych aplikacji i abonament po pierwszym stuknięciu. Zanim coś zainstalujesz, warto wiedzieć, co iPhone już potrafi. Poniżej uczciwe porównanie, żebyś wybrał według tego, co chcesz rozmyć.",
+      "image": "/img/appstore/pl/03-face.webp",
+      "image_alt": "Karta Faces: wszystkie wykryte twarze rozmyte",
+      "native": {
+        "heading": "Narzędzia, które już są w iPhonie",
+        "paragraphs": [
+          "Tryb Portret: rozmyte tło tylko przy robieniu zdjęcia, potem regulowane w Zdjęciach. Oznaczenia: pióro, zakreślacz, kształty; zasłaniają, nie rozmywają, a zakreślacz jest półprzezroczysty. Clean Up (Apple Intelligence): usuwa obiekty, ale nie ma go po polsku — działa od iPhone’a 15 Pro tylko po przełączeniu telefonu na obsługiwany język.",
+          "Żadne z nich nie rozmyje tła zwykłego zdjęcia ani wybranego przez ciebie obszaru."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Co oferuje MakeBlur",
+          "paragraphs": [
+            "Background: rozmyte tło z automatycznie wykrytym obiektem. Faces: wszystkie twarze rozmyte naraz. Manual: pędzel do tekstu, tablic czy dowolnego obszaru. Full Photo: cały obraz. Siedem stylów: Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize.",
+            "Działa offline i nie wysyła zdjęć. Darmowe pobranie z podstawowym rozmyciem tła; zaawansowane style opcjonalnie w zakupach w aplikacji."
+          ]
+        },
+        {
+          "heading": "Na co zwrócić uwagę w aplikacji do rozmywania",
+          "paragraphs": [
+            "Przetwarzanie na urządzeniu (prywatne zdjęcia nie powinny trafiać na serwer), automatyczne wykrywanie obiektu, pędzel do dowolnych obszarów, zapis w oryginalnej rozdzielczości i darmowa wersja, którą przetestujesz przed zapłatą."
+          ]
+        }
+      ],
+      "steps_title": "Pierwsza próba z aplikacją",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Pobierz za darmo",
+          "description": "W App Store, na iPhone’a z iOS 18.6 lub nowszym."
+        },
+        {
+          "number": "2",
+          "title": "Otwórz zdjęcie",
+          "description": "Dowolny obraz z biblioteki."
+        },
+        {
+          "number": "3",
+          "title": "Wybierz kartę",
+          "description": "Background, Faces, Manual lub Full Photo, zależnie od tego, co chcesz rozmyć."
+        },
+        {
+          "number": "4",
+          "title": "Ustaw i zapisz",
+          "description": "Styl, Radius i Save."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Jeśli chcesz zasłonić coś tylko raz, najpierw spróbuj Oznaczeń: są już w iPhonie.",
+        "Dla prywatności wybieraj aplikacje, które nie wysyłają zdjęć.",
+        "Przetestuj darmowe funkcje, zanim zdecydujesz się na zakup."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Jaka jest najlepsza aplikacja do rozmywania zdjęć na iPhone’a?",
+          "answer": "Zależy od zastosowania. Do tła, twarzy i obszarów w jednej aplikacji działającej offline MakeBlur pokrywa wszystkie przypadki. Do portretów wystarczą Zdjęcia."
+        },
+        {
+          "question": "Czy jest darmowa aplikacja do rozmywania zdjęć?",
+          "answer": "MakeBlur pobierzesz za darmo i zawiera podstawowe rozmycie tła. Funkcje zaawansowane są opcjonalne."
+        },
+        {
+          "question": "Czy potrzebuję Apple Intelligence?",
+          "answer": "Nie, aplikacja działa na każdym iPhonie z iOS 18.6 lub nowszym."
+        }
+      ],
+      "related": [
+        "rozmycie-tla-iphone.html",
+        "zamazac-twarz-na-zdjeciu.html",
+        "rozmyc-czesc-zdjecia-iphone.html",
+        "efekt-rozmycia-zdjecie.html"
+      ],
+      "cta_title": "Jedna aplikacja do tła, twarzy i szczegółów",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu»: cztery tryby, siedem stylów, wszystko na iPhonie.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "zamazac-twarz-na-zdjeciu.html",
+      "keyword": "zamazać twarz na zdjęciu",
+      "cluster": "privacy",
+      "card_title": "Zamazać twarz na zdjęciu",
+      "card_excerpt": "Dzieci, znajomi, przechodnie: rozmyj wszystkie twarze jednym dotknięciem przed publikacją, bez Apple Intelligence.",
+      "card_image": "/img/appstore/pl/03-face.webp",
+      "card_image_alt": "Rozmyte twarze w siatce portretów",
+      "meta_title": "Jak zamazać twarz na zdjęciu iPhonem, także kilka naraz",
+      "meta_description": "Jak zamazać twarz na zdjęciu iPhonem przed publikacją: wszystkie twarze wykryte jednym dotknięciem, bez Apple Intelligence (nie ma jej po polsku). Za darmo.",
+      "h1": "Jak zamazać twarz na zdjęciu iPhonem",
+      "answer": "Aby zamazać twarze na zdjęciu iPhonem, otwórz je w MakeBlur i wybierz kartę Faces (twarze): aplikacja wykrywa wszystkie twarze i rozmywa je naraz. Zwiększ Radius, aż nikogo nie da się rozpoznać, albo wybierz Pixelate dla mozaiki, i stuknij Save. Jeśli chcesz zamazać tylko jedną twarz, użyj karty Manual i zamaluj ją palcem.",
+      "intro": "Powodów, by zamazać twarz, jest wiele: twarze dzieci na zdjęciu z wycieczki szkolnej, znajomi, którzy nie chcą być w sieci, przypadkowi przechodnie na zdjęciu z wakacji. RODO i prawo do wizerunku sprawiają, że coraz więcej osób ukrywa twarze przed publikacją. Oto jak zrobić to w kilka sekund.",
+      "image": "/img/appstore/pl/03-face.webp",
+      "image_alt": "Karta Faces z Radius 80: osiem twarzy rozmytych",
+      "native": {
+        "heading": "Co iPhone potrafi sam",
+        "paragraphs": [
+          "Aplikacja Zdjęcia nie ma osobnej funkcji do rozmywania ani pikselizacji twarzy. Apple Intelligence nie działa po polsku, a jej narzędzie Clean Up służy do usuwania obiektów, nie do ukrywania twarzy.",
+          "Zostają kształty i pióro w Oznaczeniach: zakrywają twarz, ale wynik wygląda niechlujnie."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Wszystkie twarze czy jedna",
+          "paragraphs": [
+            "Faces znajduje każdą twarz na zdjęciu i rozmywa wszystkie: właściwy wybór do zdjęć grupowych, klasowych i z imprez. Jeśli chcesz, żeby ktoś był widoczny (na przykład ty), użyj Manual i zamaluj tylko twarze do ukrycia.",
+            "Zrzut «Ukryj twarze przed udostępnieniem» pokazuje osiem portretów rozmytych jednym dotknięciem."
+          ]
+        },
+        {
+          "heading": "Rozmycie czy piksele?",
+          "paragraphs": [
+            "Lekkie rozmycie może pozostawić osobę rozpoznawalną dla kogoś, kto dobrze ją zna. Dla prawdziwej prywatności użyj wysokiego Radius albo stylu Pixelate. Dla łagodniejszego efektu w mediach społecznościowych: Gaussian o dużej sile."
+          ]
+        }
+      ],
+      "steps_title": "Zamazywanie twarzy w aplikacji",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Otwórz zdjęcie",
+          "description": "Wybierz obraz z osobami, które chcesz ukryć."
+        },
+        {
+          "number": "2",
+          "title": "Karta Faces",
+          "description": "Wszystkie twarze zostają wykryte i rozmyte."
+        },
+        {
+          "number": "3",
+          "title": "Siła",
+          "description": "Zwiększ Radius albo wybierz Pixelate, aż nikogo nie da się rozpoznać."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Publikuj rozmytą kopię, nie oryginał."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Sprawdź małe twarze w tle i odbicia w szybach: jeśli którejś brakuje, dodaj ją w Manual.",
+        "U dzieci zamaż też szczegóły jak imię na koszulce czy logo szkoły.",
+        "Po zapisie powiększ zdjęcie, by mieć pewność, że nikogo nie da się rozpoznać."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Jak zamazać twarz bez Apple Intelligence?",
+          "answer": "Kartą Faces w MakeBlur, która działa na każdym iPhonie z iOS 18.6, albo Manual dla jednej twarzy."
+        },
+        {
+          "question": "Czy da się odkryć zamazaną twarz?",
+          "answer": "Nie w kopii zapisanej z dużą siłą: szczegóły zostają usunięte. Dlatego nigdy nie publikuj oryginału."
+        },
+        {
+          "question": "Czy działa na screenach z wideorozmowy?",
+          "answer": "Tak, Faces wykrywa twarze także na screenach."
+        }
+      ],
+      "related": [
+        "rozmyc-czesc-zdjecia-iphone.html",
+        "zapikselowac-zdjecie-iphone.html",
+        "zamazac-tablice-rejestracyjna.html",
+        "aplikacja-rozmycie-zdjec-iphone.html"
+      ],
+      "cta_title": "Twarze chronione przed publikacją",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu», wybierz Faces i zapisz. Za darmo, na iPhonie, bez wysyłania.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "rozmyc-czesc-zdjecia-iphone.html",
+      "keyword": "rozmyć część zdjęcia",
+      "cluster": "privacy",
+      "card_title": "Rozmyć część zdjęcia na iPhonie",
+      "card_excerpt": "Adres, numer, osoba w tłumie: zamaluj palcem i rozmyje się tylko ten obszar.",
+      "card_image": "/img/appstore/pl/05-crystalize.webp",
+      "card_image_alt": "Obszar zdjęcia rozmyty pędzlem",
+      "meta_title": "Jak rozmyć część zdjęcia na iPhonie palcem (za darmo)",
+      "meta_description": "Jak rozmyć tylko część zdjęcia na iPhonie: zamaluj obszar palcem i wybierz Gaussian albo Pixelate. Do tekstu, numerów, osób czy przedmiotów. Za darmo i offline.",
+      "h1": "Jak rozmyć tylko część zdjęcia na iPhonie",
+      "answer": "Aby rozmyć część zdjęcia na iPhonie, otwórz je w MakeBlur, wybierz kartę Manual (pędzel) i przeciągnij palcem po obszarze, który chcesz ukryć. Rozmywa się tylko to, co zamalujesz. Wybierz styl — Gaussian dla miękkiego efektu albo Pixelate dla prywatności — ustaw Radius i stuknij Save.",
+      "intro": "Czasem nie chodzi o tło ani o twarz, tylko o konkretny fragment: numer domu, identyfikator, kartkę na biurku, osobę w tłumie. Aplikacja Zdjęcia nie ma pędzla rozmycia, więc potrzebujesz narzędzia, które to potrafi. Oto jak.",
+      "image": "/img/appstore/pl/05-crystalize.webp",
+      "image_alt": "Mozaika nałożona na obszar zdjęcia",
+      "native": {
+        "heading": "Co iPhone potrafi sam",
+        "paragraphs": [
+          "W Oznaczeniach możesz zakryć obszar pełnym kształtem albo piórem. Szczegół znika, ale zostaje widoczna łata. Clean Up (tylko z Apple Intelligence, której nie ma po polsku) usuwa obiekty zamiast je rozmywać i czasem dziwnie uzupełnia tło. Prawdziwego pędzla rozmycia w Zdjęciach nie ma."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Jak dobrze zamalować obszar",
+          "paragraphs": [
+            "Przed malowaniem powiększ dwoma palcami: pędzel dokładniej podąża za palcem. Zostaw mały margines wokół obiektu, zwłaszcza przy tekście. Jeśli coś pójdzie nie tak, zacznij od nowa: oryginał zmienia się dopiero po zapisie."
+          ]
+        },
+        {
+          "heading": "Jaki styl wybrać",
+          "paragraphs": [
+            "Gaussian: miękki, mało widoczny, dobry do szczegółów estetycznych (kosz, znak). Pixelate lub Box z wysokim Radius: do danych, które naprawdę muszą zniknąć. Crystallize lub Hexagonal: efekt graficzny, gdy rozmycie ma być widoczne."
+          ]
+        }
+      ],
+      "steps_title": "Rozmycie obszaru w aplikacji",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Otwórz zdjęcie",
+          "description": "Wybierz obraz w MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Karta Manual",
+          "description": "Powiększ i przeciągnij palcem po obszarze."
+        },
+        {
+          "number": "3",
+          "title": "Styl i Radius",
+          "description": "Gaussian dla subtelnego efektu, Pixelate dla prywatności."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Kopia z rozmytym obszarem trafia do Zdjęć."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Łącz karty: najpierw Background dla tła, potem Manual dla szczegółu.",
+        "Przy tekście zawsze używaj dużej siły: duże litery pozostają czytelne przy słabym rozmyciu.",
+        "Uważaj na odbicia: lustro może pokazać to, co właśnie ukryłeś."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Czy mogę rozmyć kilka miejsc na jednym zdjęciu?",
+          "answer": "Tak, w Manual zamalujesz tyle obszarów, ile chcesz, przed zapisem."
+        },
+        {
+          "question": "Czy działa na screenach?",
+          "answer": "Tak, screeny otwierają się jak każde inne zdjęcie."
+        },
+        {
+          "question": "Czy nierozmyta część traci na jakości?",
+          "answer": "Nie, reszta zdjęcia jest identyczna z oryginałem."
+        }
+      ],
+      "related": [
+        "zamazac-tekst-screen-iphone.html",
+        "zamazac-tablice-rejestracyjna.html",
+        "zapikselowac-zdjecie-iphone.html",
+        "zamazac-twarz-na-zdjeciu.html"
+      ],
+      "cta_title": "Rozmyj tylko to, co chcesz",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu», wybierz Manual i maluj. Za darmo, na iPhonie.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "zamazac-tablice-rejestracyjna.html",
+      "keyword": "zamazać tablicę rejestracyjną",
+      "cluster": "privacy",
+      "card_title": "Zamazać tablicę rejestracyjną na zdjęciu",
+      "card_excerpt": "Do ogłoszenia na Otomoto czy OLX: numer nieczytelny, ogłoszenie schludne.",
+      "card_image": "/img/appstore/pl/05-crystalize.webp",
+      "card_image_alt": "Tablica rejestracyjna ukryta pikselami",
+      "meta_title": "Zamazać tablicę rejestracyjną na zdjęciu iPhonem (gratis)",
+      "meta_description": "Jak zamazać tablicę rejestracyjną na zdjęciu do ogłoszenia na Otomoto lub OLX: zamaluj, zapikseluj i zapisz. Na iPhonie, za darmo, bez wysyłania zdjęć do sieci.",
+      "h1": "Jak zamazać tablicę rejestracyjną na zdjęciu iPhonem",
+      "answer": "Aby zamazać tablicę rejestracyjną na zdjęciu, otwórz je w MakeBlur, wybierz kartę Manual, przeciągnij palcem po tablicy, wybierz styl Pixelate lub Box i zwiększaj Radius, aż żaden znak nie będzie czytelny. Stuknij Save i wgraj tę kopię do ogłoszenia.",
+      "intro": "Kto sprzedaje auto lub motocykl na Otomoto czy OLX — albo po prostu pokazuje je na Instagramie — często zasłania tablice. W polskim prawie numer rejestracyjny nie jest daną osobową, więc nie ma takiego obowiązku, ale wielu sprzedających robi to dla spokoju: przeciw ciekawskim, klonowaniu tablic czy podszywaniu się pod ogłoszenie. Ogłoszenie powinno jednak wyglądać porządnie: czarny prostokąt na zderzaku wygląda tanio. Czysta pikselizacja rozwiązuje oba problemy.",
+      "image": "/img/appstore/pl/05-crystalize.webp",
+      "image_alt": "Pikselizacja obszaru zdjęcia w aplikacji",
+      "native": {
+        "heading": "Co da się zrobić w Zdjęciach",
+        "paragraphs": [
+          "W Oznaczeniach możesz zakryć tablicę kształtem albo zamalować piórem. Jest ukryta, ale łata rzuca się w oczy, a półprzezroczysty zakreślacz czasem przepuszcza znaki. Wbudowany edytor nie potrafi rozmyć ani zapikselować obszaru."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Piksele czy rozmycie?",
+          "paragraphs": [
+            "Dla tablic najpewniejsze jest Pixelate lub Box z wysokim Radius — duże bloki usuwają znaki. Lekki Gaussian może zostawić numer do odgadnięcia, zwłaszcza na zdjęciach w wysokiej rozdzielczości.",
+            "Crystallize też zasłoni tablicę, ale wygląda dekoracyjnie; do ogłoszenia lepsza jest neutralna pikselizacja."
+          ]
+        },
+        {
+          "heading": "Gdy zdjęć jest dużo",
+          "paragraphs": [
+            "Ogłoszenie ma często 10–20 zdjęć, a tablica widać na trzech, czterech. Edytuj je po kolei: otwórz, Manual, zamaluj, Save — po pół minuty każde. Sprawdź też odbicia: czasem numer widać w szybie wystawowej albo przez przednią szybę na zdjęciu wnętrza."
+          ]
+        }
+      ],
+      "steps_title": "Zamazywanie tablicy w aplikacji",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Otwórz zdjęcie auta",
+          "description": "Wybierz zdjęcie, na którym widać tablicę."
+        },
+        {
+          "number": "2",
+          "title": "Karta Manual",
+          "description": "Powiększ i zamaluj tablicę z małym marginesem."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate i Radius",
+          "description": "Zwiększaj siłę, aż po powiększeniu żaden znak nie będzie czytelny."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Wgraj zapisaną kopię do ogłoszenia."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Zakryj całą tablicę, nie tylko znaki: wyróżnik powiatu też coś mówi.",
+        "Sprawdź zdjęcia z przodu i z tyłu: samochód ma tablice na obu zderzakach.",
+        "Jeśli w kadrze jest dowód rejestracyjny albo numer VIN, ukryj je tak samo — chyba że celowo podajesz VIN w ogłoszeniu."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Czy muszę zasłaniać tablicę w ogłoszeniu?",
+          "answer": "Nie ma takiego obowiązku — numer rejestracyjny w polskim prawie nie jest daną osobową. Wielu sprzedających i tak to robi dla spokoju. Decyzja należy do ciebie. To nie jest porada prawna."
+        },
+        {
+          "question": "Czy zapikselowaną tablicę da się odtworzyć?",
+          "answer": "Przy dużych blokach nie: szczegóły zostają usunięte z zapisanej kopii. Nie publikuj oryginału."
+        },
+        {
+          "question": "Czy zdjęcia są gdzieś wysyłane?",
+          "answer": "Nie, wszystko dzieje się na iPhonie, bez internetu."
+        }
+      ],
+      "related": [
+        "rozmyc-czesc-zdjecia-iphone.html",
+        "zapikselowac-zdjecie-iphone.html",
+        "zamazac-tekst-screen-iphone.html",
+        "zamazac-twarz-na-zdjeciu.html"
+      ],
+      "cta_title": "Tablica ukryta, ogłoszenie schludne",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu», zamaluj tablicę w Manual i zapisz. Za darmo, prosto na iPhonie.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "zamazac-tekst-screen-iphone.html",
+      "keyword": "zamazać tekst na screenie",
+      "cluster": "privacy",
+      "card_title": "Zamazać tekst na screenie",
+      "card_excerpt": "Rozmowy, adresy, numer konta: zrób tekst nieczytelnym, zanim udostępnisz screena.",
+      "card_image": "/img/appstore/pl/05-crystalize.webp",
+      "card_image_alt": "Zapikselowany tekst na screenie",
+      "meta_title": "Jak zamazać tekst na screenie w iPhonie (bezpiecznie)",
+      "meta_description": "Jak zamazać tekst, imiona i numery na screenie z iPhone’a przed udostępnieniem: pikselizacja, której nie da się odkryć zmianą jasności. Za darmo, bez wysyłania.",
+      "h1": "Jak zamazać tekst na screenie w iPhonie",
+      "answer": "Aby zamazać tekst na screenie, otwórz go w MakeBlur, wybierz kartę Manual, przeciągnij palcem po liniach do ukrycia (imię, numer, adres, wiadomość), wybierz Pixelate i zwiększ Radius. Stuknij Save i udostępnij kopię. Przed wysłaniem powiększ, by sprawdzić, że nic nie jest czytelne.",
+      "intro": "Screeny wysyłamy bez przerwy: rozmowę z Messengera, żeby zapytać o radę, potwierdzenie zamówienia, przelew, błąd aplikacji. Prawie zawsze widać na nich imiona, numery telefonów, adresy albo kody. Ukrycie ich jest proste, ale trzeba zrobić to dobrze: niektóre metody zostawiają tekst czytelny.",
+      "image": "/img/appstore/pl/05-crystalize.webp",
+      "image_alt": "Zapikselowany obszar, przez który treść jest nieczytelna",
+      "native": {
+        "heading": "Granica Oznaczeń",
+        "paragraphs": [
+          "Oznaczenia mają zakreślacz, ale jest półprzezroczysty: po zwiększeniu kontrastu lub jasności tekst pod spodem może wrócić. Pióro z pełną linią działa lepiej, jeśli przejedziesz kilka razy, a pełny prostokąt jest bezpieczny, ale brzydki. Zapikselowanie obszaru nie jest możliwe."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Dlaczego piksele, a nie lekkie rozmycie",
+          "paragraphs": [
+            "Czarny tekst na białym tle jest odporny na lekkie rozmycie: słowa da się odgadnąć po kształcie. Z Pixelate i wysokim Radius każda litera staje się blokiem, a treść znika. Na screenie pikselizacja jest też najbardziej czytelna dla odbiorcy: od razu widać, że celowo coś ukryłeś."
+          ]
+        },
+        {
+          "heading": "Co zwykle się ukrywa",
+          "paragraphs": [
+            "W rozmowach: imię i zdjęcie kontaktu, numery telefonów. W zamówieniach: adres, e-mail, numer zamówienia. W bankach: numer konta, saldo, nazwę odbiorcy. W dokumentach: PESEL i podpis."
+          ]
+        }
+      ],
+      "steps_title": "Zamazywanie tekstu w aplikacji",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Otwórz screena",
+          "description": "Znajdziesz go w albumie Zrzuty ekranu."
+        },
+        {
+          "number": "2",
+          "title": "Karta Manual",
+          "description": "Zamaluj linie do ukrycia, z marginesem."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate",
+          "description": "Zwiększaj Radius, aż po powiększeniu nic nie będzie czytelne."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Udostępnij kopię, nie oryginał."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Nie zapomnij o górnym pasku: nazwy kontaktów i podglądy powiadomień często trafiają na screena.",
+        "Ukryj całą linię, a nie tylko część numeru.",
+        "Po zapisie usuń oryginał, jeśli nie jest ci potrzebny."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Czy zakreślacz w Oznaczeniach jest bezpieczny?",
+          "answer": "Nie do końca: jest półprzezroczysty i tekst może wrócić po zmianie jasności. Lepiej zapikselować albo użyć pełnego kształtu."
+        },
+        {
+          "question": "Czy zapikselowany tekst da się odzyskać?",
+          "answer": "Przy dużych blokach nie. Przy lekkiej pikselizacji i dużym tekście czasem tak: używaj dużej siły."
+        },
+        {
+          "question": "Czy działa z długimi screenami?",
+          "answer": "Działa z obrazami w bibliotece. Screen całej strony zapisany jako PDF trzeba najpierw zapisać jako obraz."
+        }
+      ],
+      "related": [
+        "rozmyc-czesc-zdjecia-iphone.html",
+        "zapikselowac-zdjecie-iphone.html",
+        "zamazac-tablice-rejestracyjna.html",
+        "zamazac-twarz-na-zdjeciu.html"
+      ],
+      "cta_title": "Screeny, które udostępnisz bez obaw",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu», zamaluj tekst w Manual i zapikseluj. Za darmo, offline.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "zapikselowac-zdjecie-iphone.html",
+      "keyword": "zapikselować zdjęcie iPhone",
+      "cluster": "privacy",
+      "card_title": "Zapikselować zdjęcie na iPhonie",
+      "card_excerpt": "Mozaika na twarzach, tekście lub tle: Pixelate, Hexagonal i Crystallize w praktyce.",
+      "card_image": "/img/appstore/pl/05-crystalize.webp",
+      "card_image_alt": "Tło zamienione w mozaikę stylem Crystallize",
+      "meta_title": "Jak zapikselować zdjęcie na iPhonie: twarze, tekst lub tło",
+      "meta_description": "Jak zapikselować zdjęcie na iPhonie: cały obraz, tylko tło, twarze albo wybrany obszar. Style Pixelate, Hexagonal i Crystallize, na urządzeniu i za darmo.",
+      "h1": "Jak zapikselować zdjęcie na iPhonie",
+      "answer": "Aby zapikselować zdjęcie na iPhonie, otwórz je w MakeBlur, wybierz, gdzie nałożyć efekt (Faces dla twarzy, Manual dla obszaru, Background dla tła, Full Photo dla całości), zaznacz styl Pixelate i ustaw wielkość bloków suwakiem Radius. Stuknij Save, by zapisać zapikselowaną kopię.",
+      "intro": "Pikselizacja to zamiana części obrazu w duże kwadraty: klasyczny sposób na ukrycie twarzy i danych, a jednocześnie modny efekt graficzny. iPhone nie ma wbudowanego filtra mozaiki. Oto jak nałożyć ją tam, gdzie chcesz.",
+      "image": "/img/appstore/pl/05-crystalize.webp",
+      "image_alt": "Styl Crystallize na tle: mozaika kryształów",
+      "native": {
+        "heading": "Co iPhone potrafi sam",
+        "paragraphs": [
+          "Zdjęcia nie mają filtra mozaiki. Oznaczenia potrafią tylko zakryć, a Clean Up (Apple Intelligence, bez języka polskiego) usuwa obiekty. Aby zapikselować tekst, tło albo cały obraz, potrzebujesz aplikacji."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Trzy style mozaiki",
+          "paragraphs": [
+            "Pixelate: klasyczne kwadraty, najpewniejsze dla prywatności. Hexagonal: sześciokątne komórki, bardziej nowocześnie. Crystallize: nieregularne kryształy, efekt artystyczny — jak na zrzucie «Pikselizacja jednym dotknięciem», gdzie tło staje się kryształami, a dziewczyna pozostaje ostra."
+          ]
+        },
+        {
+          "heading": "Prywatność czy estetyka",
+          "paragraphs": [
+            "Aby ukryć: Pixelate z dużymi blokami w Faces lub Manual. Jako efekt graficzny: Crystallize lub Hexagonal w Background, żeby obiekt wyróżniał się na tle mozaiki."
+          ]
+        }
+      ],
+      "steps_title": "Pikselizacja w aplikacji",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Otwórz zdjęcie",
+          "description": "Dowolny obraz lub screen."
+        },
+        {
+          "number": "2",
+          "title": "Wybierz kartę",
+          "description": "Faces, Manual, Background lub Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Styl Pixelate",
+          "description": "Albo Hexagonal czy Crystallize; wielkość bloków ustaw Radius."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Zapisz zapikselowaną kopię."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Większe bloki = więcej prywatności.",
+        "Do kreatywnego posta spróbuj Crystallize na tle z ostrym obiektem.",
+        "Sprawdź, powiększając: drobne szczegóły muszą całkiem zniknąć."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Zapikselować czy spikselować?",
+          "answer": "W praktyce używa się różnych form — «zapikselować», «spikselować», «pikselizacja» — i znaczą to samo."
+        },
+        {
+          "question": "Czy mogę zapikselować tylko tło?",
+          "answer": "Tak: karta Background ze stylem Pixelate lub Crystallize; obiekt pozostaje ostry."
+        },
+        {
+          "question": "Czy moje zdjęcia pozostają prywatne?",
+          "answer": "Tak, przetwarzanie odbywa się na iPhonie i nie wymaga internetu."
+        }
+      ],
+      "related": [
+        "zamazac-twarz-na-zdjeciu.html",
+        "zamazac-tekst-screen-iphone.html",
+        "zamazac-tablice-rejestracyjna.html",
+        "efekt-rozmycia-zdjecie.html"
+      ],
+      "cta_title": "Mozaika tam, gdzie chcesz",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu»: Pixelate, Hexagonal i Crystallize w każdym trybie. Za darmo do pobrania.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "motion-blur-zdjecie.html",
+      "keyword": "motion blur zdjęcie",
+      "cluster": "effects",
+      "card_title": "Motion blur na zdjęciu (rozmycie ruchu)",
+      "card_excerpt": "Smuga ruchu na tle, ostry obiekt: dynamika dzięki Radius i Angle.",
+      "card_image": "/img/appstore/pl/02-motion.webp",
+      "card_image_alt": "Motion blur za kobietą w okularach przeciwsłonecznych",
+      "meta_title": "Motion blur na zdjęciu iPhonem: efekt ruchu w 4 krokach",
+      "meta_description": "Jak dodać motion blur (rozmycie ruchu) do zdjęcia na iPhonie: smuga na tle, ostry obiekt, regulowany kierunek i długość. Także do zrobionych zdjęć. Za darmo.",
+      "h1": "Motion blur na zdjęciu iPhonem (rozmycie ruchu)",
+      "answer": "Aby dodać motion blur do zdjęcia na iPhonie, otwórz je w MakeBlur, zostaw kartę Background, żeby obiekt pozostał ostry, wybierz styl Motion, suwakiem Radius ustaw długość smugi, a Angle kierunek, i stuknij Save. Tło wygląda, jakby się poruszało, a osoba pozostaje nieruchoma i ostra.",
+      "intro": "Motion blur, czyli rozmycie ruchu, dodaje dynamiki każdemu zdjęciu: kolarzowi, autu, tancerce albo zwykłemu portretowi do bardziej energicznego posta. W fotografii uzyskuje się to długim czasem naświetlania i panoramowaniem; iPhonem dodasz to później, z kierunkiem i siłą, które wybierzesz.",
+      "image": "/img/appstore/pl/02-motion.webp",
+      "image_alt": "Styl Motion, Radius 65: tło ma smugę, obiekt jest ostry",
+      "native": {
+        "heading": "Co iPhone potrafi sam",
+        "paragraphs": [
+          "Zdjęcia Live mają efekt «Długa ekspozycja», który łączy klatki w smugę: działa tylko wtedy, gdy coś naprawdę się poruszało w trakcie zdjęcia, i rozmywa wszystko, co się ruszało — nie tło, które wybierzesz. Dla zwykłych zdjęć aplikacja Zdjęcia nie ma efektu ruchu."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Radius i Angle",
+          "paragraphs": [
+            "Radius to długość smugi: niskie wartości dla subtelnego ruchu, wysokie dla wrażenia prędkości. Angle to kierunek: poziomo dla aut i biegaczy, ukośnie dla skoków, pionowo dla deszczu czy spadania. Zrzut «Motion blur do zdjęć w ruchu» używa Radius 65."
+          ]
+        },
+        {
+          "heading": "Tylko tło czy całe zdjęcie",
+          "paragraphs": [
+            "W Background porusza się tylko tło — klasyczny efekt panoramowania. W Full Photo smugę dostaje cały obraz: przydatne na okładki, abstrakcyjne tapety albo rozmarzony klimat."
+          ]
+        }
+      ],
+      "steps_title": "Dodawanie motion blur w aplikacji",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Otwórz zdjęcie",
+          "description": "Najlepiej z obiektem wyraźnie oddzielonym od tła."
+        },
+        {
+          "number": "2",
+          "title": "Karta Background",
+          "description": "Obiekt pozostaje nieruchomy i ostry."
+        },
+        {
+          "number": "3",
+          "title": "Styl Motion",
+          "description": "Radius dla długości, Angle dla kierunku."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Zapisz kopię z efektem."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Ustaw Angle zgodnie z kierunkiem ruchu obiektu: efekt będzie bardziej wiarygodny.",
+        "Przy światłach miasta w tle smuga zmienia się w efektowny pas światła.",
+        "Nie przesadzaj w portretach: średni Radius wystarczy na dynamiczny akcent."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Co to jest motion blur?",
+          "answer": "Rozmycie ruchu: smuga, która sugeruje, że coś się porusza."
+        },
+        {
+          "question": "Czy mogę wybrać kierunek ruchu?",
+          "answer": "Tak, suwakiem Angle w stylu Motion."
+        },
+        {
+          "question": "Czy działa na zdjęciu, które już zrobiłem?",
+          "answer": "Tak, na każdym zdjęciu z biblioteki, także bez Live Photo."
+        }
+      ],
+      "related": [
+        "efekt-rozmycia-zdjecie.html",
+        "rozmycie-tla-iphone.html",
+        "efekt-bokeh-iphone.html",
+        "rozmycie-gaussowskie-iphone.html"
+      ],
+      "cta_title": "Dynamika na każdym zdjęciu",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu», wybierz Motion i ustaw Angle. Za darmo, na iPhonie.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "efekt-bokeh-iphone.html",
+      "keyword": "efekt bokeh iPhone",
+      "cluster": "effects",
+      "card_title": "Efekt bokeh na iPhonie",
+      "card_excerpt": "Miękkie tło i rozmyte światełka także po zrobieniu zdjęcia: Gaussian do portretów, Ghosting do rozmarzonego klimatu.",
+      "card_image": "/img/appstore/pl/06-ghost.webp",
+      "card_image_alt": "Miękki efekt bokeh na portrecie",
+      "meta_title": "Efekt bokeh na iPhonie, także po zdjęciu: prosty poradnik",
+      "meta_description": "Jak uzyskać efekt bokeh na iPhonie na zdjęciu, które już zrobiłeś: miękkie tło, rozlane światełka, ostry obiekt. Style Gaussian i Ghosting, za darmo i offline.",
+      "h1": "Efekt bokeh na iPhonie, także po zrobieniu zdjęcia",
+      "answer": "Aby uzyskać efekt bokeh na zdjęciu, które już masz, otwórz je w MakeBlur, zostaw kartę Background, wybierz Gaussian i zwiększaj Radius, aż tło zmięknie, a światła zamienią się w plamy. Dla bardziej rozmarzonego efektu na całym obrazie użyj Ghosting w karcie Full Photo. Potem stuknij Save.",
+      "intro": "Bokeh pochodzi z japońskiego i opisuje jakość nieostrej części zdjęcia: światełka zmieniające się w miękkie kółka, tło, które się rozpływa. To efekt jasnych obiektywów, a tryb Portret naśladuje go przy robieniu zdjęcia. Oto jak zbliżyć się do tego wyglądu na zdjęciu, które już masz.",
+      "image": "/img/appstore/pl/06-ghost.webp",
+      "image_alt": "Karta Full Photo ze stylem Ghosting, Radius 79",
+      "native": {
+        "heading": "Bokeh w trybie Portret",
+        "paragraphs": [
+          "Tryb Portret symuluje bokeh przy robieniu zdjęcia, a w Zdjęcia → Edycja pozwala zmienić przysłonę (wartość f). Działa to tylko na zdjęciach w trybie Portret. Dla pozostałych Zdjęcia nie mają efektu bokeh."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian czy Ghosting",
+          "paragraphs": [
+            "Gaussian w Background: bokeh portretowy, ostry obiekt i miękkie tło. Pięknie działa przy wieczornych światłach, witrynach, lampkach. Ghosting w Full Photo: miękka, podwójna poświata na całym obrazie, jak na zrzucie «Miękki klimat z bokeh» (Radius 79)."
+          ]
+        },
+        {
+          "heading": "Zdjęcia, które dają najwięcej",
+          "paragraphs": [
+            "Tła z punktami światła, żywe kolory i trochę odległości między obiektem a tłem. Na białej ścianie bokeh prawie nie widać: tam wystarczy lekkie rozmycie."
+          ]
+        }
+      ],
+      "steps_title": "Efekt bokeh w aplikacji",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Otwórz zdjęcie",
+          "description": "Najlepiej ze światłami w tle."
+        },
+        {
+          "number": "2",
+          "title": "Background + Gaussian",
+          "description": "Obiekt pozostaje ostry."
+        },
+        {
+          "number": "3",
+          "title": "Radius",
+          "description": "Zwiększaj, aż światła staną się miękkimi plamami."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Zapisz kopię."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Zdjęcia wieczorne dają najładniejsze bokeh.",
+        "Spróbuj Ghosting w Full Photo na okładki i tapety.",
+        "Przed zapisem sprawdź krawędzie włosów w powiększeniu."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Co to jest bokeh?",
+          "answer": "Wygląd nieostrej części zdjęcia, zwłaszcza światełek, które stają się miękkimi plamami."
+        },
+        {
+          "question": "Czy potrzebuję trybu Portret?",
+          "answer": "Nie, aplikacja nakłada efekt na każde zdjęcie, które już masz."
+        },
+        {
+          "question": "Czym różni się od rozmycia gaussowskiego?",
+          "answer": "Gaussowskie to rodzaj rozmycia; bokeh to efekt estetyczny, szczególnie przy światłach."
+        }
+      ],
+      "related": [
+        "rozmycie-gaussowskie-iphone.html",
+        "rozmyte-tlo-zdjecie.html",
+        "rozmycie-tla-iphone.html",
+        "motion-blur-zdjecie.html"
+      ],
+      "cta_title": "Bokeh na każdym zdjęciu",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu», wybierz Gaussian lub Ghosting i zapisz. Za darmo, bez wysyłania.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "rozmycie-gaussowskie-iphone.html",
+      "keyword": "rozmycie gaussowskie",
+      "cluster": "effects",
+      "card_title": "Rozmycie gaussowskie na iPhonie",
+      "card_excerpt": "Czym jest rozmycie gaussowskie, kiedy go używać i jak nałożyć je na tło, twarze albo całe zdjęcie.",
+      "card_image": "/img/appstore/pl/04-box.webp",
+      "card_image_alt": "Tło z miękkim rozmyciem",
+      "meta_title": "Rozmycie gaussowskie na iPhonie: czym jest i jak go użyć",
+      "meta_description": "Czym jest rozmycie gaussowskie i jak nałożyć je na iPhonie na tło, twarze albo całe zdjęcie. Różnice względem Box i Motion oraz zalecana siła. Za darmo.",
+      "h1": "Rozmycie gaussowskie na iPhonie: czym jest i jak je nałożyć",
+      "answer": "Rozmycie gaussowskie to równomierne, miękkie rozmycie, podobne do nieostrego obiektywu. Na iPhonie nałożysz je w MakeBlur: otwórz zdjęcie, wybierz miejsce (Background dla tła, Faces dla twarzy, Manual dla obszaru, Full Photo dla całości), zaznacz styl Gaussian, ustaw Radius i stuknij Save.",
+      "intro": "Kto używał Photoshopa albo innego edytora na komputerze, zna filtr «Rozmycie gaussowskie». Nazwa pochodzi od krzywej Gaussa: każdy piksel miesza się z sąsiadami, mocniej z najbliższymi, słabiej z dalszymi. Efekt jest miękki i naturalny, bez ostrych krawędzi. Zobacz, kiedy go używać i jak nałożyć go na iPhonie.",
+      "image": "/img/appstore/pl/04-box.webp",
+      "image_alt": "Zmiękczone tło za ostrym portretem",
+      "native": {
+        "heading": "Co iPhone potrafi sam",
+        "paragraphs": [
+          "Aplikacja Zdjęcia nie ma filtra rozmycia gaussowskiego. Korekty zmieniają ostrość i wyrazistość, ale tylko w górę lub trochę w dół dla całego obrazu, i nie są prawdziwym rozmyciem."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian, Box i Motion w porównaniu",
+          "paragraphs": [
+            "Gaussian: miękkie i naturalne, wybór do portretów i teł. Box: równomierna średnia, nieco bardziej płaska, przydatna przy produktach i ukrywaniu. Motion: rozmycie w jednym kierunku, dla ruchu.",
+            "Do prywatności używaj rozmycia gaussowskiego z dużą siłą: lekkie pozwala odgadnąć kształty i litery."
+          ]
+        },
+        {
+          "heading": "Jaki Radius",
+          "paragraphs": [
+            "Niski do naturalnych portretów, średni do postów i relacji, wysoki do abstrakcyjnych teł albo ukrywania. Zawsze sprawdzaj w powiększeniu."
+          ]
+        }
+      ],
+      "steps_title": "Nakładanie rozmycia gaussowskiego",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Otwórz zdjęcie",
+          "description": "W MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Wybierz tryb",
+          "description": "Background, Faces, Manual lub Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Styl Gaussian",
+          "description": "Ustaw Radius."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Zapisz kopię."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Gaussian w Background to najbardziej naturalny sposób na imitację trybu Portret.",
+        "W Full Photo z dużą siłą dostaniesz idealne tła pod tekst w relacjach.",
+        "Do danych wrażliwych lepiej wybierz Pixelate."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Dlaczego nazywa się gaussowskie?",
+          "answer": "Bo waga, z jaką mieszają się piksele, odpowiada krzywej Gaussa."
+        },
+        {
+          "question": "Czy jest lepsze od rozmycia Box?",
+          "answer": "Jest miększe i bardziej naturalne; Box jest bardziej równomierny. Zależy od efektu, którego szukasz."
+        },
+        {
+          "question": "Czy mogę nałożyć je tylko na tło?",
+          "answer": "Tak, w karcie Background obiekt pozostaje ostry."
+        }
+      ],
+      "related": [
+        "efekt-bokeh-iphone.html",
+        "motion-blur-zdjecie.html",
+        "rozmycie-tla-iphone.html",
+        "efekt-rozmycia-zdjecie.html"
+      ],
+      "cta_title": "Rozmycie gaussowskie jednym dotknięciem",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu»: Gaussian w każdym trybie, na urządzeniu. Za darmo do pobrania.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "rozmyc-zdjecie-iphone.html",
+      "keyword": "rozmyć zdjęcie",
+      "cluster": "photo",
+      "card_title": "Rozmyć całe zdjęcie na iPhonie",
+      "card_excerpt": "Cały kadr rozmyty: na tapety, relacje albo abstrakcyjny efekt. Na iPhonie i online.",
+      "card_image": "/img/appstore/pl/06-ghost.webp",
+      "card_image_alt": "Całe zdjęcie rozmyte efektem Ghosting",
+      "meta_title": "Jak rozmyć zdjęcie na iPhonie: cały obraz w kilka sekund",
+      "meta_description": "Jak rozmyć całe zdjęcie na iPhonie: na tapety, relacje albo abstrakcyjny efekt. Style Gaussian, Motion i Ghosting oraz opcja online bez instalowania aplikacji.",
+      "h1": "Jak rozmyć całe zdjęcie na iPhonie",
+      "answer": "Aby rozmyć całe zdjęcie, otwórz je w MakeBlur, wybierz kartę Full Photo (całe zdjęcie) i styl — Gaussian dla miękkości, Motion dla dynamiki albo Ghosting dla rozmarzonego efektu — i zwiększ Radius. Stuknij Save. Bez instalowania czegokolwiek całe zdjęcie rozmyje też edytor online na tej stronie.",
+      "intro": "Czasem nie chcesz rozmyć tła za osobą, tylko cały obraz: tapetę na ekran blokady, podkład pod tekst w relacji, abstrakcyjną okładkę albo «zajawkę» przed właściwym postem. To najprostsze rozmycie i jedyne, które nie musi rozpoznawać obiektu.",
+      "image": "/img/appstore/pl/06-ghost.webp",
+      "image_alt": "Karta Full Photo ze stylem Ghosting, Radius 79",
+      "native": {
+        "heading": "Czy da się rozmyć zdjęcie w aplikacji Zdjęcia?",
+        "paragraphs": [
+          "Nie: ani filtry, ani korekty w Zdjęciach nie oferują rozmycia. Ekran blokady iOS potrafi rozmyć tapetę pod widżetami, ale to efekt systemowy, a nie nowy obraz do udostępnienia."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Który styl do czego",
+          "paragraphs": [
+            "Gaussian: równomierna miękkość, najlepsze tło pod tekst. Motion: wrażenie prędkości, idealny na sportowe okładki. Ghosting: podwójny efekt «ducha», jak na zrzucie «Miękki klimat z bokeh» (Radius 79). Pixelate i Crystallize: abstrakcyjna mozaika."
+          ]
+        },
+        {
+          "heading": "Opcja online",
+          "paragraphs": [
+            "Na tej stronie jest darmowy edytor online: wgrywasz zdjęcie, wybierasz Gaussian, Pixel lub Motion i pobierasz PNG. Rozmywa tylko cały obraz; wybiórczo tło lub twarze rozmyjesz w aplikacji."
+          ]
+        }
+      ],
+      "steps_title": "Rozmycie całego zdjęcia w aplikacji",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Otwórz zdjęcie",
+          "description": "Wybierz obraz w MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Karta Full Photo",
+          "description": "Rozmycie obejmuje cały obraz."
+        },
+        {
+          "number": "3",
+          "title": "Styl i Radius",
+          "description": "Gaussian, Motion lub Ghosting z wybraną siłą."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Rozmyta kopia trafia do biblioteki."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Na tła pod tekst wybieraj kolorowe zdjęcia: po rozmyciu zostają ładne plamy koloru.",
+        "Na ekran blokady zapisz wersję z mocnym Gaussian: godzina i ikony będą czytelne.",
+        "Zajawka posta: najpierw opublikuj mocno rozmytą wersję, potem oryginał."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Jak rozmyć zdjęcie online?",
+          "answer": "Darmowym edytorem online na tej stronie: wgraj zdjęcie, wybierz styl i siłę, pobierz PNG. Rozmywa tylko cały obraz."
+        },
+        {
+          "question": "Czym różni się Full Photo od Background?",
+          "answer": "Full Photo rozmywa cały obraz, Background tylko tło — obiekt pozostaje ostry."
+        },
+        {
+          "question": "Czy rozdzielczość spada?",
+          "answer": "Nie, kopia zapisuje się w oryginalnym rozmiarze."
+        }
+      ],
+      "related": [
+        "efekt-rozmycia-zdjecie.html",
+        "rozmycie-gaussowskie-iphone.html",
+        "motion-blur-zdjecie.html",
+        "efekt-bokeh-iphone.html"
+      ],
+      "cta_title": "Rozmyte zdjęcie w kilka sekund",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu», wybierz Full Photo i styl. Za darmo, bez wysyłania.",
+      "cta_text": "Pobierz z App Store"
+    },
+    {
+      "slug": "efekt-rozmycia-zdjecie.html",
+      "keyword": "efekt rozmycia zdjęcia",
+      "cluster": "photo",
+      "card_title": "Efekt rozmycia (blur) na zdjęciach",
+      "card_excerpt": "Czym jest efekt rozmycia, jakie są style i który pasuje do tła, twarzy albo całego zdjęcia.",
+      "card_image": "/img/appstore/pl/02-motion.webp",
+      "card_image_alt": "Efekt rozmycia na zdjęciu z iPhone’a",
+      "meta_title": "Efekt rozmycia zdjęcia na iPhonie: style i krótki poradnik",
+      "meta_description": "Czym jest efekt rozmycia (blur) i jak nałożyć go na iPhonie: na tło, twarze, obszar albo cały obraz, stylem Gaussian, Motion, Ghosting lub Pixelate. Za darmo.",
+      "h1": "Efekt rozmycia zdjęcia: czym jest i jak go zrobić na iPhonie",
+      "answer": "Efekt rozmycia sprawia, że zdjęcie lub jego część staje się mniej ostra. Na iPhonie nałożysz go w MakeBlur: wybierz miejsce (Background dla tła, Faces dla twarzy, Manual dla obszaru, Full Photo dla całego obrazu), styl taki jak Gaussian, Motion czy Ghosting, ustaw Radius i stuknij Save.",
+      "intro": "«Blur» to po angielsku rozmycie i wiele osób w Polsce szuka właśnie tak: blur efekt, blur foto, zblurować twarz. Za tym prawie zawsze stoi jedno z czterech pragnień: miękkie tło za osobą, ukrycie twarzy, nieczytelny fragment z tekstem albo tablicą, lub rozmycie całego zdjęcia. Edytor iPhone’a nie zrobi żadnej z tych rzeczy na zwykłym zdjęciu.",
+      "image": "/img/appstore/pl/02-motion.webp",
+      "image_alt": "Styl Motion: efekt rozmycia na tle",
+      "native": {
+        "heading": "Co oferuje iPhone",
+        "paragraphs": [
+          "Rozmyte tło: tylko w trybie Portret, przy robieniu zdjęcia. Pędzel rozmycia w Zdjęciach: nie istnieje. Oznaczenia: pióro i kształty do zakrywania, nie do rozmywania. Clean Up (Apple Intelligence): usuwa obiekty, nie działa po polsku."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Style rozmycia",
+          "paragraphs": [
+            "Gaussian: miękkie, naturalne rozmycie. Motion: smuga z regulowanym kierunkiem. Ghosting: rozmarzony efekt «ducha». Box: równomierne rozmycie. Pixelate, Hexagonal i Crystallize: mozaiki, przydatne dla prywatności albo jako efekt graficzny."
+          ]
+        },
+        {
+          "heading": "Gdzie go nałożyć",
+          "paragraphs": [
+            "Background zostawia obiekt ostry i rozmywa tło. Faces działa na wszystkie twarze. Manual na obszar zamalowany palcem. Full Photo na cały obraz. Działa ze zdjęciami z aparatu, screenami i obrazami z Messengera czy WhatsAppa zapisanymi w bibliotece."
+          ]
+        }
+      ],
+      "steps_title": "Efekt rozmycia w aplikacji",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Otwórz zdjęcie lub screen",
+          "description": "Wybierz obraz w MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Wybierz tryb",
+          "description": "Background, Faces, Manual lub Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Styl i Radius",
+          "description": "Rodzaj rozmycia i siła."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Kopia z efektem zapisuje się w bibliotece."
+        }
+      ],
+      "tips_title": "Wskazówki",
+      "tips": [
+        "Dla wyglądu: Gaussian lub Ghosting; dla prywatności: Pixelate.",
+        "Łącz tryby: najpierw Background dla tła, potem Manual dla przeszkadzającego szczegółu.",
+        "Zapisz kilka wersji z różną siłą i zostaw najlepszą."
+      ],
+      "faq_title": "Najczęstsze pytania",
+      "faq": [
+        {
+          "question": "Jak zrobić efekt rozmycia bez aplikacji?",
+          "answer": "Na zwykłym zdjęciu Zdjęcia tego nie umożliwiają. Możesz zakryć kształtami w Oznaczeniach albo rozmyć całe zdjęcie edytorem online na tej stronie."
+        },
+        {
+          "question": "Czy mogę rozmyć screena?",
+          "answer": "Tak, screeny otwierają się w aplikacji jak każde inne zdjęcie."
+        },
+        {
+          "question": "Czy to jest darmowe?",
+          "answer": "Pobranie jest darmowe, a podstawowe rozmycie jest w zestawie; zaawansowane style opcjonalnie w zakupach w aplikacji."
+        }
+      ],
+      "related": [
+        "rozmyc-zdjecie-iphone.html",
+        "rozmycie-tla-iphone.html",
+        "rozmyc-czesc-zdjecia-iphone.html",
+        "motion-blur-zdjecie.html"
+      ],
+      "cta_title": "Efekt rozmycia w minutę",
+      "cta_body": "Pobierz «Rozmycie tła na zdjęciu» i rozmyj tło, twarze albo całe zdjęcie. Za darmo, iPhone z iOS 18.6.",
+      "cta_text": "Pobierz z App Store"
+    }
+  ]
+}

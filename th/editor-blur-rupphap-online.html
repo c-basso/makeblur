@@ -3,18 +3,18 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>เบลอพื้นหลังรูปออนไลน์ - เครื่องมือฟรี Gaussian, Pixel และ Motion</title>
-  <meta name="description" content="เบลอพื้นหลังรูปออนไลน์ฟรี อัปโหลดรูป ใช้ gaussian, pixel หรือ motion blur แล้วดาวน์โหลด PNG ได้ทันที" />
+  <title>เบลอรูปออนไลน์ฟรี ทั้งภาพ | Gaussian, Pixel, Motion</title>
+  <meta name="description" content="เบลอรูปทั้งภาพออนไลน์ฟรี อัปโหลดรูป เลือก Gaussian, Pixel หรือ Motion ปรับความแรง แล้วดาวน์โหลดเป็น PNG ไม่ต้องติดตั้ง อยากเบลอแค่พื้นหลังหรือใบหน้า ใช้แอป iPhone" />
   <meta name="robots" content="index, follow, max-image-preview:large" />
   <link rel="canonical" href="https://makeblur.com/th/editor-blur-rupphap-online.html" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="เบลอพื้นหลังรูปออนไลน์ - เครื่องมือฟรี Gaussian, Pixel และ Motion" />
-  <meta property="og:description" content="เบลอพื้นหลังรูปออนไลน์ฟรี อัปโหลดรูป ใช้ gaussian, pixel หรือ motion blur แล้วดาวน์โหลด PNG ได้ทันที" />
+  <meta property="og:title" content="เบลอรูปออนไลน์ฟรี ทั้งภาพ | Gaussian, Pixel, Motion" />
+  <meta property="og:description" content="เบลอรูปทั้งภาพออนไลน์ฟรี อัปโหลดรูป เลือก Gaussian, Pixel หรือ Motion ปรับความแรง แล้วดาวน์โหลดเป็น PNG ไม่ต้องติดตั้ง อยากเบลอแค่พื้นหลังหรือใบหน้า ใช้แอป iPhone" />
   <meta property="og:url" content="https://makeblur.com/th/editor-blur-rupphap-online.html" />
   <meta property="og:image" content="https://makeblur.com/th/site_preview.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="เบลอพื้นหลังรูปออนไลน์ - เครื่องมือฟรี Gaussian, Pixel และ Motion" />
-  <meta name="twitter:description" content="เบลอพื้นหลังรูปออนไลน์ฟรี อัปโหลดรูป ใช้ gaussian, pixel หรือ motion blur แล้วดาวน์โหลด PNG ได้ทันที" />
+  <meta name="twitter:title" content="เบลอรูปออนไลน์ฟรี ทั้งภาพ | Gaussian, Pixel, Motion" />
+  <meta name="twitter:description" content="เบลอรูปทั้งภาพออนไลน์ฟรี อัปโหลดรูป เลือก Gaussian, Pixel หรือ Motion ปรับความแรง แล้วดาวน์โหลดเป็น PNG ไม่ต้องติดตั้ง อยากเบลอแค่พื้นหลังหรือใบหน้า ใช้แอป iPhone" />
   <meta name="twitter:image" content="https://makeblur.com/th/site_preview.png" />
   <style>
     :root { --bg:#0f1115; --card:#1a1f29; --text:#eef2ff; --muted:#aeb7cf; --accent:#7c9cff; --accent-strong:#5f82ff; --border:#2a3242; }
@@ -43,10 +43,10 @@
     <section class="panel header">
       <div>
         <div class="top-links">
-          <a class="back-link" href="https://makeblur.com/th/">กลับไปหน้าแรก</a>
+          <a class="back-link" href="https://makeblur.com/th/">กลับหน้าแรก</a>
         </div>
-        <h1 class="title">เบลอพื้นหลังรูปออนไลน์ - เครื่องมือฟรี</h1>
-        <p class="sub">อัปโหลดรูป เลือก gaussian, pixel หรือ motion blur ปรับความแรง แล้วบันทึกเป็น PNG</p>
+        <h1 class="title">เบลอรูปออนไลน์ — เอดิเตอร์ฟรี</h1>
+        <p class="sub">อัปโหลดรูป เลือก Gaussian, Pixel หรือ Motion ปรับความแรง แล้วส่งออกเป็น PNG เว็บเอดิเตอร์จะเบลอทั้งภาพ</p>
       </div>
       <div style="display:flex; gap:10px; align-items:center;">
         <label class="button secondary" for="imageInput">อัปโหลดรูป</label>
@@ -57,7 +57,7 @@
     <section class="panel">
       <div class="canvas-wrap">
         <canvas id="editorCanvas"></canvas>
-        <div id="placeholder" class="placeholder">ยังไม่ได้อัปโหลดรูปภาพ<br />กด "อัปโหลดรูป" เพื่อเริ่มใช้งาน</div>
+        <div id="placeholder" class="placeholder">ยังไม่ได้อัปโหลดรูป<br />แตะ «อัปโหลดรูป» เพื่อเริ่ม</div>
       </div>
     </section>
     <section class="panel">
@@ -68,24 +68,24 @@
       </div>
       <div class="slider-row">
         <div class="slider-head">
-          <span>ความแรงเบลอ</span>
+          <span>ความแรงของการเบลอ</span>
           <span id="strengthValue">40</span>
         </div>
         <input id="strengthRange" type="range" min="0" max="100" value="40" />
       </div>
     </section>
     <section class="panel seo-copy">
-      <h2>เครื่องมือเบลอภาพออนไลน์ฟรี</h2>
-      <p>เบลอพื้นหลัง ซ่อนรายละเอียด และสร้างเอฟเฟกต์การเคลื่อนไหวได้โดยไม่ต้องติดตั้งแอป</p>
+      <h2>เอดิเตอร์เบลอรูปออนไลน์ฟรี</h2>
+      <p>เบลอรูปทั้งภาพ ซ่อนรายละเอียด หรือใส่ motion blur ได้โดยไม่ต้องติดตั้ง ถ้าอยากเบลอเฉพาะพื้นหลังหรือใบหน้า ใช้แอปบน iPhone</p>
     </section>
     <section class="panel app-cta">
-      <h2>ต้องการตัวแก้ไขเต็มรูปแบบที่เบลอพื้นหลังแบบเลือกได้ไหม?</h2>
-      <p>สำหรับฟีเจอร์ขั้นสูง เวิร์กโฟลว์ที่เร็วกว่า และการควบคุมละเอียด ให้ติดตั้งแอป Make Blur บน iPhone</p>
-      <a class="button" href="https://apps.apple.com/app/id6749166426">ดาวน์โหลดแอป Make Blur</a>
+      <h2>อยากเบลอแค่พื้นหลังหรือใบหน้า?</h2>
+      <p>เว็บเอดิเตอร์เบลอทั้งภาพ ถ้าอยากให้วัตถุคมชัดแล้วเบลอแค่พื้นหลัง ใบหน้า หรือบางส่วน ติดตั้ง MakeBlur บน iPhone</p>
+      <a class="button" href="https://apps.apple.com/app/id6749166426">ดาวน์โหลดแอป</a>
     </section>
   </div>
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"WebPage","name":"เบลอพื้นหลังรูปออนไลน์ - เครื่องมือฟรี Gaussian, Pixel และ Motion","description":"เบลอพื้นหลังรูปออนไลน์ฟรี อัปโหลดรูป ใช้ gaussian, pixel หรือ motion blur แล้วดาวน์โหลด PNG ได้ทันที","url":"https://makeblur.com/th/editor-blur-rupphap-online.html","inLanguage":"th"}
+  {"@context":"https://schema.org","@type":"WebPage","name":"เบลอรูปออนไลน์ฟรี ทั้งภาพ | Gaussian, Pixel, Motion","description":"เบลอรูปทั้งภาพออนไลน์ฟรี อัปโหลดรูป เลือก Gaussian, Pixel หรือ Motion ปรับความแรง แล้วดาวน์โหลดเป็น PNG ไม่ต้องติดตั้ง อยากเบลอแค่พื้นหลังหรือใบหน้า ใช้แอป iPhone","url":"https://makeblur.com/th/editor-blur-rupphap-online.html","inLanguage":"th"}
   </script>
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-L321DN9X6C"></script>

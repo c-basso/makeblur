@@ -1,0 +1,1289 @@
+{
+  "hub": {
+    "nav_text": "Ghiduri",
+    "title": "Ghiduri pas cu pas",
+    "intro": "Estomparea fundalului, ascunderea unei fețe, blurarea unui număr de înmatriculare sau a unui text, estomparea întregii poze: fiecare ghid arată pașii exacți pe iPhone.",
+    "learn_more_text": "Citește mai mult",
+    "related_title": "Ghiduri similare",
+    "answer_label": "Pe scurt",
+    "clusters": [
+      {
+        "id": "background",
+        "title": "Estompare fundal",
+        "blurb": "Subiect clar, fundal moale — și la pozele pe care le ai deja."
+      },
+      {
+        "id": "privacy",
+        "title": "Ascunde fețe, numere și text",
+        "blurb": "Estompare pentru confidențialitate înainte de distribuire."
+      },
+      {
+        "id": "effects",
+        "title": "Efecte de estompare",
+        "blurb": "Mișcare, bokeh și gaussian."
+      },
+      {
+        "id": "photo",
+        "title": "Blurează orice poză",
+        "blurb": "Toată poza și efectul blur explicat."
+      }
+    ]
+  },
+  "items": [
+    {
+      "slug": "estompare-fundal-iphone.html",
+      "keyword": "estompare fundal iPhone",
+      "cluster": "background",
+      "card_title": "Estompare fundal pe iPhone, după poză",
+      "card_excerpt": "Modul Portret funcționează doar când faci poza. Iată cum estompezi fundalul unei poze care e deja în bibliotecă.",
+      "card_image": "/img/appstore/ro/04-box.webp",
+      "card_image_alt": "Fila Background: femeia clară, fundalul estompat",
+      "meta_title": "Estompare fundal pe iPhone, chiar și la poze deja făcute",
+      "meta_description": "Cum estompezi fundalul pe iPhone când poza e deja făcută: aplicația detectează subiectul, tu alegi intensitatea și salvezi. Fără Modul Portret, gratuit.",
+      "h1": "Estompare fundal pe iPhone — chiar și după ce ai făcut poza",
+      "answer": "Ca să estompezi fundalul unei poze deja făcute pe iPhone, deschide-o în MakeBlur («Estompează fundalurile foto»), lasă selectată fila Background (fundal) ca subiectul să fie detectat, alege stilul Gaussian, crește glisorul Radius până la moliciunea dorită și atinge Save. Funcționează cu orice poză din bibliotecă, nu doar cu portretele, iar totul se întâmplă pe iPhone.",
+      "intro": "Aproape orice răspuns la «estompare fundal iPhone» trimite la Modul Portret. Sfat bun dacă poza nu e încă făcută. Dar dacă a fost făcută în modul Foto obișnuit, ai primit-o pe WhatsApp sau e o captură de ecran, Modul Portret nu te ajută. Aici vezi ce face iPhone-ul singur, unde se oprește și cum estompezi fundalul în jumătate de minut.",
+      "image": "/img/appstore/ro/04-box.webp",
+      "image_alt": "Fila Background în aplicație: femeia e clară, zidul de cărămidă și florile din spate sunt estompate",
+      "native": {
+        "heading": "Ce face iPhone-ul singur",
+        "paragraphs": [
+          "Modul Portret salvează o hartă de adâncime în momentul fotografierii. Apoi, în Poze → Editează, poți întări sau slăbi estomparea cu glisorul de diafragmă. Dar doar la pozele făcute în Modul Portret cu o cameră compatibilă: o poză obișnuită, un selfie fără portret, o captură sau o imagine primită nu au hartă de adâncime, iar glisorul nici nu apare.",
+          "iPhone-urile mai noi pot transforma unele poze obișnuite în portret, dacă la fotografiere s-au salvat date de adâncime. Nu merge cu orice poză sau pe orice model, iar subiectul nu-l alegi tu."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Estompare fundal fără Modul Portret",
+          "paragraphs": [
+            "Pentru asta ai nevoie de un editor care separă subiectul de fundal pornind de la imaginea finală. În MakeBlur face asta fila Background: recunoaște persoana sau obiectul principal, îl păstrează clar și înmoaie tot restul. Nu ai nevoie de date de adâncime de la cameră — aplicația lucrează cu pixelii pozei, deci merge cu orice imagine.",
+            "Intensitatea o reglezi cu glisorul Radius, tipul estompării cu stilul: Gaussian dă un aspect moale de obiectiv, Box o estompare puțin mai uniformă, Motion o dâră de mișcare. Totul rulează pe iPhone, fără internet."
+          ]
+        },
+        {
+          "heading": "Cât de tare să estompezi",
+          "paragraphs": [
+            "Pentru o poză de profil sau de CV ajunge o estompare ușoară: mediul se recunoaște, dar nu distrage. Pentru story-uri și postări poți merge mai departe — fundalul devine pete de culoare și persoana iese în evidență. Pornește de la un Radius mediu și mărește pe păr: dacă apare un contur deschis, scade intensitatea."
+          ]
+        }
+      ],
+      "steps_title": "Estompare fundal în aplicație",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Deschide poza",
+          "description": "Pornește MakeBlur și alege imaginea din bibliotecă — poză obișnuită, selfie sau captură."
+        },
+        {
+          "number": "2",
+          "title": "Lasă fila Background",
+          "description": "Aplicația detectează subiectul și marchează fundalul care va fi estompat."
+        },
+        {
+          "number": "3",
+          "title": "Alege stilul și Radius",
+          "description": "Gaussian pentru efectul clasic de portret. Mută Radius până când fundalul e destul de moale."
+        },
+        {
+          "number": "4",
+          "title": "Atinge Save",
+          "description": "Copia estompată ajunge în Poze, originalul rămâne neschimbat."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Masca iese cel mai bine când subiectul se desprinde clar de fundal: o persoană în fața unui perete, o cană pe masă.",
+        "Înainte să salvezi, mărește pe păr și degete — la un Radius foarte mare poate apărea un contur.",
+        "Întâi estompezi, apoi decupezi: aplicația are mai mulți pixeli pentru o mască precisă."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "Pot estompa fundalul pe iPhone fără Modul Portret?",
+          "answer": "Da. Poze nu poate fără date de adâncime, dar MakeBlur separă subiectul pornind de la imagine și estompează fundalul oricărei poze."
+        },
+        {
+          "question": "Cum estompez fundalul unei poze vechi?",
+          "answer": "La fel: o deschizi în aplicație, fila Background, reglezi Radius și salvezi. Data pozei și modelul camerei nu contează."
+        },
+        {
+          "question": "Pierde poza din calitate?",
+          "answer": "Subiectul își păstrează rezoluția originală, doar fundalul se înmoaie. Se salvează o copie nouă, originalul rămâne."
+        },
+        {
+          "question": "Aplicația are nevoie de internet?",
+          "answer": "Nu. Totul rulează pe iPhone, pozele nu sunt încărcate pe servere."
+        }
+      ],
+      "related": [
+        "cum-estompezi-fundalul.html",
+        "poza-fundal-blurat.html",
+        "aplicatie-blur-poze-iphone.html",
+        "estompare-gaussiana-iphone.html"
+      ],
+      "cta_title": "Fundal blurat la pozele pe care le ai deja",
+      "cta_body": "Descarcă «Estompează fundalurile foto», deschide poza, reglează Radius și salvează. Gratuit, pe dispozitiv, pe orice iPhone cu iOS 18.6 sau mai nou.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "poza-fundal-blurat.html",
+      "keyword": "poză cu fundal blurat",
+      "cluster": "background",
+      "card_title": "Poză cu fundal blurat pentru profil și social media",
+      "card_excerpt": "Subiect clar, fundal moale: efectul de fotograf pe poze de profil, postări și anunțuri.",
+      "card_image": "/img/appstore/ro/02-motion.webp",
+      "card_image_alt": "Portret cu fundal blurat pe iPhone",
+      "meta_title": "Poză cu fundal blurat pe iPhone: profil, Instagram, anunțuri",
+      "meta_description": "Cum faci o poză cu fundal blurat pe iPhone dintr-o imagine pe care o ai deja: subiect clar, fundal moale, pentru profil, postări și anunțuri. Gratuit.",
+      "h1": "Poză cu fundal blurat: efectul de fotograf cu iPhone-ul",
+      "answer": "Ca să obții o poză cu fundal blurat dintr-o imagine pe care o ai deja, deschide-o în MakeBlur, lasă fila Background ca subiectul să rămână clar, alege Gaussian pentru un aspect natural sau Box pentru o estompare mai uniformă, reglează Radius și atinge Save. În câteva secunde ai efectul de portret fără aparat profesionist.",
+      "intro": "Un fundal blurat face orice poză să arate profesionist: poza de profil pentru LinkedIn, postarea de pe Instagram, anunțul de pe OLX cu produsul în prim-plan. Obiectivele luminoase fac asta la fotografiere; cu iPhone-ul poți s-o faci și după. Iată cum alegi stilul și intensitatea după utilizare.",
+      "image": "/img/appstore/ro/02-motion.webp",
+      "image_alt": "Fila Background cu stilul Motion, Radius 65: femeia rămâne clară",
+      "native": {
+        "heading": "Ce face iPhone-ul singur",
+        "paragraphs": [
+          "Modul Portret estompează fundalul la fotografiere, iar în Poze → Editează reglezi intensitatea. Pentru pozele obișnuite, Poze nu are nicio unealtă de estompare a fundalului: filtrele și ajustările schimbă lumina și culoarea, nu claritatea."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Stilul potrivit pentru fiecare poză",
+          "paragraphs": [
+            "Profil și CV: Gaussian cu Radius mic, mediul rămâne lizibil fără să distragă. Postări și story-uri: Gaussian sau Box cu Radius mare, fundalul devine culoare. Poze sportive sau de stradă: Motion, fundalul se mișcă, iar subiectul stă pe loc. Produse de vânzare: Box, un fundal uniform scoate în evidență obiectul.",
+            "Captura «Subiect clar, restul blurat» arată Box pe un portret în fața unui perete cu flori: cazul tipic."
+          ]
+        },
+        {
+          "heading": "Fundal moale fără exagerare",
+          "paragraphs": [
+            "Un fundal prea blurat pe o poză de profil pare fals, mai ales la marginea părului. O regulă simplă: cu cât persoana e mai aproape de obiectiv, cu atât poți estompa mai mult; la siluete întregi sau grupuri rămâi la valori mici."
+          ]
+        }
+      ],
+      "steps_title": "Poză cu fundal blurat în aplicație",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Alege poza",
+          "description": "Deschide imaginea în MakeBlur: profil, postare sau produs."
+        },
+        {
+          "number": "2",
+          "title": "Fila Background",
+          "description": "Subiectul e detectat și rămâne clar."
+        },
+        {
+          "number": "3",
+          "title": "Stil și Radius",
+          "description": "Gaussian pentru portrete, Box pentru produse, Motion pentru acțiune."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Salvează copia și publică unde vrei."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Decupează poza de profil abia după estompare: masca e mai precisă.",
+        "La fundaluri cu luminițe (vitrine, instalații de Crăciun), Gaussian creează pete de lumină asemănătoare cu bokeh.",
+        "Salvează două variante cu intensități diferite și alege uitându-te pe telefon."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "Cum fac fundalul blurat la o poză deja făcută?",
+          "answer": "Cu o aplicație care detectează subiectul, cum e MakeBlur: fila Background, Radius, Save. Poze nu poate face asta singură la poze obișnuite."
+        },
+        {
+          "question": "Merge și cu obiecte, nu doar cu oameni?",
+          "answer": "Da, Background detectează și obiectul principal: o cană, o geantă, o farfurie."
+        },
+        {
+          "question": "E gratuit?",
+          "answer": "Descărcarea e gratuită și estomparea de bază a fundalului e inclusă; stilurile avansate sunt opționale prin achiziții în aplicație."
+        }
+      ],
+      "related": [
+        "estompare-fundal-iphone.html",
+        "efect-bokeh-iphone.html",
+        "aplicatie-blur-poze-iphone.html",
+        "cum-estompezi-fundalul.html"
+      ],
+      "cta_title": "Efectul de portret pe orice poză",
+      "cta_body": "Descarcă «Estompează fundalurile foto», deschide o poză și lasă aplicația să găsească subiectul. Gratuit, fără încărcare.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "cum-estompezi-fundalul.html",
+      "keyword": "cum estompezi fundalul",
+      "cluster": "background",
+      "card_title": "Cum estompezi fundalul: ghid pentru începători",
+      "card_excerpt": "Ce înseamnă să estompezi fundalul, cât de tare și cum o faci din trei atingeri.",
+      "card_image": "/img/appstore/ro/04-box.webp",
+      "card_image_alt": "Fundal estompat în spatele unui portret",
+      "meta_title": "Cum estompezi fundalul unei poze: ghid simplu pentru iPhone",
+      "meta_description": "Cum estompezi fundalul unei poze pe iPhone chiar dacă n-ai editat niciodată nimic: trei atingeri, cât de tare să estompezi și ce greșeli să eviți. Gratuit.",
+      "h1": "Cum estompezi fundalul unei poze (ghid pentru începători)",
+      "answer": "Ca să estompezi fundalul unei poze pe iPhone, ai nevoie de trei atingeri: deschide poza în MakeBlur, lasă fila Background, mută glisorul Radius spre dreapta până când fundalul e moale și atinge Save. Aplicația găsește singură persoana sau obiectul și îl păstrează clar; nu trebuie să decupezi nimic de mână.",
+      "intro": "Estompare, blur, fundal neclar: se spune în multe feluri, dar ideea e aceeași. Subiectul rămâne clar, tot ce e în spate devine moale, iar privirea merge direct la persoană. Dacă n-ai folosit niciodată un editor, ghidul acesta te duce de la prima atingere până la poza salvată, cu sfaturi despre cât de tare să împingi efectul.",
+      "image": "/img/appstore/ro/04-box.webp",
+      "image_alt": "Glisorul Radius stabilește cât de estompat e fundalul",
+      "native": {
+        "heading": "Se poate în aplicația Poze?",
+        "paragraphs": [
+          "Doar la pozele făcute în Modul Portret: în Editează apare glisorul de adâncime. Pentru toate celelalte, Poze nu are o unealtă de estompare a fundalului. Filtrele sau ajustarea «Claritate» nu fac asta."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Cât de tare să estompezi",
+          "paragraphs": [
+            "Puțin (Radius mic): fundalul rămâne recognoscibil; cel mai natural efect, bun pentru poze de familie și de profil. Mediu: fundalul devine o suprafață netedă, perfect pentru postări. Mult (Radius mare): rămân doar pete de culoare, spectaculos, dar verifică marginile.",
+            "Dacă ai dubii, alege mediu: arată ca făcut cu un aparat foto."
+          ]
+        },
+        {
+          "heading": "Greșeli de evitat",
+          "paragraphs": [
+            "Estomparea prea puternică a unei poze de grup: cine stă puțin mai în spate pare pe jumătate neclar. Estomparea unui fundal deja întunecat: diferența abia se vede. Pierderea originalului: MakeBlur salvează mereu o copie, deci poți încerca din nou de câte ori vrei."
+          ]
+        }
+      ],
+      "steps_title": "Estompare fundal în trei atingeri",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Deschide poza",
+          "description": "Atinge poza din bibliotecă în MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Mută Radius",
+          "description": "Cu fila Background activă, mută glisorul până îți place."
+        },
+        {
+          "number": "3",
+          "title": "Atinge Save",
+          "description": "Noua poză apare în Recente."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Pozele în care subiectul se desprinde clar de fundal ies cel mai bine.",
+        "Mărește cu două degete ca să verifici marginile înainte să salvezi.",
+        "Dacă subiectul e mic, decupează poza după ce o salvezi."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "A estompa și a blura e același lucru?",
+          "answer": "Da. «Estompare» e termenul românesc, «blur» (din engleză) e cel folosit des în vorbire; înseamnă același lucru."
+        },
+        {
+          "question": "Trebuie să decupez subiectul de mână?",
+          "answer": "Nu, fila Background îl detectează automat. Pentru retușuri fine folosește Manual."
+        },
+        {
+          "question": "Mă pot întoarce la poza originală?",
+          "answer": "Da, aplicația salvează o copie, iar originalul rămâne în bibliotecă."
+        }
+      ],
+      "related": [
+        "estompare-fundal-iphone.html",
+        "poza-fundal-blurat.html",
+        "estompare-gaussiana-iphone.html",
+        "blurare-poza-iphone.html"
+      ],
+      "cta_title": "Fundal estompat în trei atingeri",
+      "cta_body": "Descarcă «Estompează fundalurile foto»: deschide, mută Radius, salvează. Gratuit pe iPhone cu iOS 18.6.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "aplicatie-blur-poze-iphone.html",
+      "keyword": "aplicație blur poze iPhone",
+      "cluster": "background",
+      "card_title": "Aplicație de blur pentru poze pe iPhone",
+      "card_excerpt": "Modul Portret, Marcaje, Clean Up sau o aplicație separată: ce folosești pentru fundal, fețe și detalii.",
+      "card_image": "/img/appstore/ro/03-face.webp",
+      "card_image_alt": "Fețe blurate în aplicația pentru iPhone",
+      "meta_title": "Aplicație blur poze pe iPhone: comparație onestă (2026)",
+      "meta_description": "Ce aplicație de blur folosești pe iPhone? Modul Portret, Marcaje, Clean Up sau MakeBlur: ce estompează fiecare (fundal, fețe, text) și limitele lor reale.",
+      "h1": "Aplicație de blur pentru poze pe iPhone: ce folosești și când",
+      "answer": "Ce aplicație de blur îți trebuie pe iPhone depinde de ce vrei să estompezi. Fundalul unei poze făcute în Modul Portret: ajunge Poze. Fundalul oricărei alte poze, toate fețele, un număr de înmatriculare sau un text: ai nevoie de o aplicație ca MakeBlur, cu filele Background, Faces, Manual și Full Photo, care funcționează pe dispozitiv și se descarcă gratuit.",
+      "intro": "Căutând «aplicație blur poze», găsești liste cu zece aplicații asemănătoare și un abonament după prima atingere. Înainte să instalezi ceva, merită să știi ce face deja iPhone-ul. Mai jos, o comparație onestă, ca să alegi după ce vrei să estompezi.",
+      "image": "/img/appstore/ro/03-face.webp",
+      "image_alt": "Fila Faces: toate fețele detectate sunt blurate",
+      "native": {
+        "heading": "Uneltele care sunt deja pe iPhone",
+        "paragraphs": [
+          "Modul Portret: fundal estompat doar la fotografiere, reglabil apoi în Poze. Marcaje: stilou, marker și forme; acoperă, nu estompează, iar markerul e semitransparent. Clean Up (Apple Intelligence): elimină obiecte, nu e în limba română — merge de la iPhone 15 Pro doar cu telefonul setat pe o limbă suportată.",
+          "Niciuna nu estompează fundalul unei poze obișnuite sau o zonă aleasă de tine."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Ce oferă MakeBlur",
+          "paragraphs": [
+            "Background: fundal estompat cu subiect detectat automat. Faces: toate fețele blurate odată. Manual: pensulă pentru text, numere de înmatriculare sau orice zonă. Full Photo: toată imaginea. Șapte stiluri: Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize.",
+            "Funcționează offline și nu încarcă pozele. Descărcare gratuită cu estomparea de bază a fundalului; stilurile avansate sunt opționale prin achiziții în aplicație."
+          ]
+        },
+        {
+          "heading": "La ce să fii atent la o aplicație de blur",
+          "paragraphs": [
+            "Procesare pe dispozitiv (pozele private n-ar trebui să ajungă pe un server), detectarea automată a subiectului, o pensulă pentru zone libere, salvare la rezoluția originală și o versiune gratuită pe care s-o încerci înainte să plătești."
+          ]
+        }
+      ],
+      "steps_title": "Primul test cu aplicația",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Descarcă gratuit",
+          "description": "Din App Store, pentru iPhone cu iOS 18.6 sau mai nou."
+        },
+        {
+          "number": "2",
+          "title": "Deschide o poză",
+          "description": "Orice imagine din bibliotecă."
+        },
+        {
+          "number": "3",
+          "title": "Alege fila",
+          "description": "Background, Faces, Manual sau Full Photo, după ce vrei să estompezi."
+        },
+        {
+          "number": "4",
+          "title": "Reglează și salvează",
+          "description": "Stil, Radius și Save."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Dacă vrei să acoperi ceva o singură dată, încearcă întâi Marcaje: e deja pe iPhone.",
+        "Pentru confidențialitate, alege aplicații care nu încarcă pozele.",
+        "Testează funcțiile gratuite înainte să cumperi ceva."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "Care e cea mai bună aplicație de blur pentru iPhone?",
+          "answer": "Depinde de utilizare. Pentru fundal, fețe și zone într-o singură aplicație offline, MakeBlur acoperă toate cazurile. Pentru portrete, ajunge Poze."
+        },
+        {
+          "question": "Există o aplicație gratuită de blur pentru poze?",
+          "answer": "MakeBlur se descarcă gratuit și include estomparea de bază a fundalului. Funcțiile avansate sunt opționale."
+        },
+        {
+          "question": "Am nevoie de Apple Intelligence?",
+          "answer": "Nu, aplicația funcționează pe orice iPhone cu iOS 18.6 sau mai nou."
+        }
+      ],
+      "related": [
+        "estompare-fundal-iphone.html",
+        "blurare-fata-poza.html",
+        "blurare-parte-poza-iphone.html",
+        "efect-blur-poza.html"
+      ],
+      "cta_title": "O aplicație pentru fundal, fețe și detalii",
+      "cta_body": "Descarcă «Estompează fundalurile foto»: patru moduri, șapte stiluri, totul pe iPhone.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "blurare-fata-poza.html",
+      "keyword": "blurare față poză",
+      "cluster": "privacy",
+      "card_title": "Blurare față în poză",
+      "card_excerpt": "Copii, prieteni, trecători: blurează toate fețele dintr-o atingere înainte să postezi, fără Apple Intelligence.",
+      "card_image": "/img/appstore/ro/03-face.webp",
+      "card_image_alt": "Fețe blurate într-o grilă de portrete",
+      "meta_title": "Blurare față în poză pe iPhone, chiar și mai multe deodată",
+      "meta_description": "Cum blurezi fața cuiva într-o poză pe iPhone înainte s-o distribui: toate fețele detectate dintr-o atingere, fără Apple Intelligence. Gratuit și offline.",
+      "h1": "Cum blurezi fața într-o poză pe iPhone",
+      "answer": "Ca să blurezi fețele dintr-o poză pe iPhone, deschide-o în MakeBlur și alege fila Faces (fețe): aplicația detectează toate fețele și le estompează deodată. Crește Radius până nu mai poate fi recunoscut nimeni, sau alege Pixelate pentru mozaic, și atinge Save. Ca să blurezi o singură față, folosește fila Manual și pictează peste ea cu degetul.",
+      "intro": "Sunt multe motive să blurezi o față: copiii din poza de la serbarea școlii, prietenii care nu vor să apară online, trecătorii dintr-o poză de vacanță. Cu GDPR și dreptul la propria imagine tot mai discutate, tot mai mulți oameni ascund fețele înainte să posteze. Iată cum o faci în câteva secunde.",
+      "image": "/img/appstore/ro/03-face.webp",
+      "image_alt": "Fila Faces cu Radius 80: opt fețe blurate",
+      "native": {
+        "heading": "Ce face iPhone-ul singur",
+        "paragraphs": [
+          "Poze nu are o funcție separată pentru blurarea sau pixelarea fețelor. Apple Intelligence nu e disponibilă în limba română, iar unealta ei Clean Up servește la eliminarea obiectelor, nu la ascunderea fețelor.",
+          "Rămân formele și stiloul din Marcaje: acoperă fața, dar rezultatul arată neglijent."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Toate fețele sau doar una",
+          "paragraphs": [
+            "Faces găsește fiecare față din poză și le blurează pe toate: alegerea potrivită pentru poze de grup, de clasă, de la petreceri. Dacă vrei ca cineva să rămână vizibil (de exemplu tu), folosește Manual și pictează doar fețele de ascuns.",
+            "Captura «Ascunde fețele înainte să distribui» arată opt portrete blurate dintr-o singură atingere."
+          ]
+        },
+        {
+          "heading": "Blur sau pixeli?",
+          "paragraphs": [
+            "Un blur ușor poate lăsa persoana recognoscibilă pentru cine o cunoaște bine. Pentru confidențialitate reală, folosește un Radius mare sau stilul Pixelate. Pentru un aspect mai moale pe social media: Gaussian cu intensitate mare."
+          ]
+        }
+      ],
+      "steps_title": "Blurarea fețelor în aplicație",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Deschide poza",
+          "description": "Alege imaginea cu persoanele pe care vrei să le ascunzi."
+        },
+        {
+          "number": "2",
+          "title": "Fila Faces",
+          "description": "Toate fețele sunt detectate și blurate."
+        },
+        {
+          "number": "3",
+          "title": "Intensitate",
+          "description": "Crește Radius sau alege Pixelate până nu mai poate fi recunoscut nimeni."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Postează copia blurată, nu originalul."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Verifică fețele mici din fundal sau reflectate în geamuri: dacă lipsește vreuna, adaug-o cu Manual.",
+        "La copii, blurează și detalii ca numele de pe tricou sau sigla școlii.",
+        "După salvare mărește poza ca să fii sigur că nimeni nu poate fi recunoscut."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "Cum blurez o față fără Apple Intelligence?",
+          "answer": "Cu fila Faces din MakeBlur, care funcționează pe orice iPhone cu iOS 18.6, sau cu Manual pentru o singură față."
+        },
+        {
+          "question": "Se poate anula blurul unei fețe?",
+          "answer": "Nu în copia salvată cu intensitate mare: detaliile sunt eliminate. De aceea nu posta niciodată originalul."
+        },
+        {
+          "question": "Merge și pe capturi din apeluri video?",
+          "answer": "Da, Faces detectează fețe și în capturi de ecran."
+        }
+      ],
+      "related": [
+        "blurare-parte-poza-iphone.html",
+        "pixelare-poza-iphone.html",
+        "blurare-numar-inmatriculare.html",
+        "aplicatie-blur-poze-iphone.html"
+      ],
+      "cta_title": "Fețe protejate înainte de postare",
+      "cta_body": "Descarcă «Estompează fundalurile foto», alege Faces și salvează. Gratuit, pe iPhone, fără încărcare.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "blurare-parte-poza-iphone.html",
+      "keyword": "blurare parte din poză",
+      "cluster": "privacy",
+      "card_title": "Blurare doar a unei părți din poză",
+      "card_excerpt": "O adresă, un număr, o persoană din mulțime: pictezi cu degetul și doar zona aceea se estompează.",
+      "card_image": "/img/appstore/ro/05-crystalize.webp",
+      "card_image_alt": "Zonă dintr-o poză estompată cu pensula",
+      "meta_title": "Blurare parte din poză pe iPhone, cu degetul (gratuit)",
+      "meta_description": "Cum blurezi doar o parte dintr-o poză pe iPhone: pictezi zona cu degetul și alegi Gaussian sau Pixelate. Pentru text, numere, persoane sau obiecte. Gratuit.",
+      "h1": "Cum blurezi doar o parte dintr-o poză pe iPhone",
+      "answer": "Ca să blurezi o parte dintr-o poză pe iPhone, deschide-o în MakeBlur, alege fila Manual (pensulă) și treci cu degetul peste zona pe care vrei s-o ascunzi. Se estompează doar ce pictezi. Alege stilul — Gaussian pentru un efect moale sau Pixelate pentru confidențialitate — reglează Radius și atinge Save.",
+      "intro": "Uneori nu vrei să blurezi fundalul sau o față, ci o bucată anume: numărul casei, un ecuson, o foaie de pe birou, o persoană din mulțime. Aplicația Poze nu are pensulă de estompare, deci ai nevoie de ceva care s-o facă. Iată cum.",
+      "image": "/img/appstore/ro/05-crystalize.webp",
+      "image_alt": "Mozaic aplicat pe o zonă din poză",
+      "native": {
+        "heading": "Ce face iPhone-ul singur",
+        "paragraphs": [
+          "În Marcaje poți acoperi o zonă cu o formă plină sau cu stiloul. Detaliul dispare, dar rămâne un petic vizibil. Clean Up (doar cu Apple Intelligence, care nu e în română) elimină obiecte în loc să le estompeze și uneori completează ciudat fundalul. O pensulă de estompare adevărată nu există în Poze."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Cum pictezi bine zona",
+          "paragraphs": [
+            "Mărește cu două degete înainte să pictezi: pensula urmează degetul mai precis. Lasă o mică margine în jurul obiectului, mai ales la text. Dacă greșești, o iei de la capăt: originalul se schimbă abia când salvezi."
+          ]
+        },
+        {
+          "heading": "Ce stil alegi",
+          "paragraphs": [
+            "Gaussian: moale, puțin vizibil, bun pentru detalii estetice (un coș de gunoi, un indicator). Pixelate sau Box cu Radius mare: pentru date care chiar trebuie să dispară. Crystallize sau Hexagonal: efect grafic, când vrei ca blurul să se vadă."
+          ]
+        }
+      ],
+      "steps_title": "Blurarea unei zone în aplicație",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Deschide poza",
+          "description": "Alege imaginea în MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Fila Manual",
+          "description": "Mărește și treci cu degetul peste zonă."
+        },
+        {
+          "number": "3",
+          "title": "Stil și Radius",
+          "description": "Gaussian pentru un efect discret, Pixelate pentru confidențialitate."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Copia cu zona estompată ajunge în Poze."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Combină filele: întâi Background pentru fundal, apoi Manual pentru un detaliu.",
+        "La text folosește mereu intensitate mare: literele mari rămân lizibile la un blur slab.",
+        "Atenție la reflexii: o oglindă poate arăta ce tocmai ai ascuns."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "Pot blura mai multe zone în aceeași poză?",
+          "answer": "Da, cu Manual pictezi câte zone vrei înainte să salvezi."
+        },
+        {
+          "question": "Funcționează pe capturi de ecran?",
+          "answer": "Da, capturile se deschid ca orice altă poză."
+        },
+        {
+          "question": "Partea neblurată pierde din calitate?",
+          "answer": "Nu, restul pozei rămâne identic cu originalul."
+        }
+      ],
+      "related": [
+        "ascundere-text-captura-ecran.html",
+        "blurare-numar-inmatriculare.html",
+        "pixelare-poza-iphone.html",
+        "blurare-fata-poza.html"
+      ],
+      "cta_title": "Blurează doar ce vrei tu",
+      "cta_body": "Descarcă «Estompează fundalurile foto», alege Manual și pictează. Gratuit, pe iPhone.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "blurare-numar-inmatriculare.html",
+      "keyword": "blurare număr înmatriculare",
+      "cluster": "privacy",
+      "card_title": "Blurare număr de înmatriculare în poză",
+      "card_excerpt": "Pentru Autovit sau OLX: număr ilizibil, anunț îngrijit.",
+      "card_image": "/img/appstore/ro/05-crystalize.webp",
+      "card_image_alt": "Număr de înmatriculare ascuns cu pixeli",
+      "meta_title": "Blurare număr de înmatriculare în poză pe iPhone (gratuit)",
+      "meta_description": "Cum blurezi numărul de înmatriculare într-o poză pentru Autovit sau OLX: pictezi, pixelezi și salvezi. Pe iPhone, gratuit, fără să încarci pozele pe internet.",
+      "h1": "Cum blurezi numărul de înmatriculare într-o poză pe iPhone",
+      "answer": "Ca să blurezi numărul de înmatriculare într-o poză, deschide-o în MakeBlur, alege fila Manual, treci cu degetul peste număr, alege stilul Pixelate sau Box și crește Radius până nu se mai citește niciun caracter. Atinge Save și încarcă acea copie în anunț.",
+      "intro": "Cine își vinde mașina sau motocicleta pe Autovit sau OLX — ori doar o arată pe Instagram — ascunde adesea numărul de înmatriculare. Nu e obligatoriu, dar mulți o fac din prudență: anunțurile auto sunt o țintă des folosită pentru fraude, iar un număr vizibil poate ajuta un escroc să-ți copieze anunțul sau datele mașinii. Anunțul trebuie totuși să arate îngrijit: un dreptunghi negru pe bară pare improvizat. O pixelare curată rezolvă ambele lucruri.",
+      "image": "/img/appstore/ro/05-crystalize.webp",
+      "image_alt": "Pixelarea unei zone din poză în aplicație",
+      "native": {
+        "heading": "Ce se poate cu Poze",
+        "paragraphs": [
+          "În Marcaje poți acoperi numărul cu o formă sau îl poți picta cu stiloul. E ascuns, dar peticul se vede, iar markerul semitransparent lasă uneori caracterele să se vadă. Editorul integrat nu poate estompa sau pixela o zonă."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Pixeli sau blur?",
+          "paragraphs": [
+            "Pentru numere de înmatriculare cel mai sigur e Pixelate sau Box cu Radius mare — blocurile mari șterg caracterele. Un Gaussian ușor poate lăsa numărul ghicibil, mai ales în pozele de rezoluție mare.",
+            "Și Crystallize îl ascunde, dar arată decorativ; pentru un anunț e mai bună o pixelare neutră."
+          ]
+        },
+        {
+          "heading": "Când sunt multe poze",
+          "paragraphs": [
+            "Un anunț are adesea 10–20 de poze, iar numărul apare în trei sau patru. Le iei pe rând: deschizi, Manual, pictezi, Save — câte jumătate de minut. Verifică și reflexiile: uneori numărul se vede într-o vitrină sau prin parbriz în pozele din interior."
+          ]
+        }
+      ],
+      "steps_title": "Blurarea numărului în aplicație",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Deschide poza mașinii",
+          "description": "Alege o poză în care se vede numărul."
+        },
+        {
+          "number": "2",
+          "title": "Fila Manual",
+          "description": "Mărește și pictează numărul cu o mică margine."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate și Radius",
+          "description": "Crește intensitatea până când, mărind, nu mai poți citi niciun caracter."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Încarcă în anunț copia salvată."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Acoperă toată plăcuța, nu doar caracterele: indicativul județului spune și el ceva.",
+        "Verifică pozele din față și din spate: mașina are număr pe ambele bare.",
+        "Dacă în cadru apare talonul sau seria de șasiu, ascunde-le la fel — dacă nu vrei intenționat să dai VIN-ul în anunț."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "Trebuie să ascund numărul de înmatriculare într-un anunț?",
+          "answer": "Nu e obligatoriu, dar mulți vânzători o fac ca să evite folosirea abuzivă a datelor mașinii. Decizia e a ta. Nu este consultanță juridică."
+        },
+        {
+          "question": "Un număr pixelat poate fi refăcut?",
+          "answer": "Cu blocuri mari, nu: detaliile sunt eliminate din copia salvată. Nu publica originalul."
+        },
+        {
+          "question": "Pozele sunt trimise undeva?",
+          "answer": "Nu, totul se întâmplă pe iPhone, fără internet."
+        }
+      ],
+      "related": [
+        "blurare-parte-poza-iphone.html",
+        "pixelare-poza-iphone.html",
+        "ascundere-text-captura-ecran.html",
+        "blurare-fata-poza.html"
+      ],
+      "cta_title": "Număr ascuns, anunț îngrijit",
+      "cta_body": "Descarcă «Estompează fundalurile foto», pictează numărul în Manual și salvează. Gratuit, direct pe iPhone.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "ascundere-text-captura-ecran.html",
+      "keyword": "ascundere text captură de ecran",
+      "cluster": "privacy",
+      "card_title": "Ascunde textul dintr-o captură de ecran",
+      "card_excerpt": "Conversații, adrese, IBAN: fă textul ilizibil înainte să trimiți captura.",
+      "card_image": "/img/appstore/ro/05-crystalize.webp",
+      "card_image_alt": "Text pixelat într-o captură de ecran",
+      "meta_title": "Ascundere text în captură de ecran pe iPhone, în siguranță",
+      "meta_description": "Cum ascunzi textul, numele și numerele dintr-o captură de ecran pe iPhone înainte s-o trimiți: pixeli care nu reapar dacă cineva crește luminozitatea. Gratuit.",
+      "h1": "Cum ascunzi textul dintr-o captură de ecran pe iPhone",
+      "answer": "Ca să ascunzi textul dintr-o captură de ecran, deschide-o în MakeBlur, alege fila Manual, treci cu degetul peste rândurile de ascuns (nume, număr, adresă, mesaj), alege Pixelate și crește Radius. Atinge Save și trimite copia. Înainte să o trimiți, mărește ca să verifici că nu se mai citește nimic.",
+      "intro": "Trimitem capturi de ecran tot timpul: o conversație de WhatsApp ca să cerem o părere, confirmarea unei comenzi, un transfer bancar, o eroare dintr-o aplicație. Aproape mereu apar nume, numere de telefon, adrese sau coduri. Să le ascunzi e simplu, dar trebuie făcut corect: unele metode lasă textul lizibil.",
+      "image": "/img/appstore/ro/05-crystalize.webp",
+      "image_alt": "Zonă pixelată care face conținutul ilizibil",
+      "native": {
+        "heading": "Limita Marcajelor",
+        "paragraphs": [
+          "Marcaje are un marker, dar e semitransparent: dacă crești contrastul sau luminozitatea, textul de dedesubt poate reapărea. Stiloul cu linie plină merge mai bine dacă treci de mai multe ori, iar un dreptunghi plin e sigur, dar urât. Pixelarea unei zone nu e posibilă."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "De ce pixeli și nu blur ușor",
+          "paragraphs": [
+            "Textul negru pe fundal alb rezistă la un blur ușor: cuvintele se ghicesc după formă. Cu Pixelate și Radius mare, fiecare literă devine un bloc și conținutul dispare. Într-o captură, pixelarea e și cea mai clară: cine o primește înțelege că ai ascuns ceva intenționat."
+          ]
+        },
+        {
+          "heading": "Ce se ascunde de obicei",
+          "paragraphs": [
+            "În conversații: numele și poza contactului, numere de telefon. La comenzi: adresa, e-mailul, numărul comenzii. La bănci: IBAN-ul, soldul, numele destinatarului. În documente: CNP-ul și semnătura."
+          ]
+        }
+      ],
+      "steps_title": "Ascunderea textului în aplicație",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Deschide captura",
+          "description": "O găsești în albumul Capturi de ecran."
+        },
+        {
+          "number": "2",
+          "title": "Fila Manual",
+          "description": "Pictează rândurile de ascuns, cu margine."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate",
+          "description": "Crește Radius până când, mărind, nu se mai citește nimic."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Trimite copia, nu originalul."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Nu uita bara de sus: numele contactelor și previzualizările notificărilor apar des în capturi.",
+        "Ascunde tot rândul, nu doar o parte din număr.",
+        "După salvare, șterge originalul dacă nu-ți mai trebuie."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "Markerul din Marcaje e sigur?",
+          "answer": "Nu complet: e semitransparent și textul poate reapărea schimbând luminozitatea. Mai bine pixelezi sau folosești o formă plină."
+        },
+        {
+          "question": "Se poate recupera un text pixelat?",
+          "answer": "Cu blocuri mari, nu. Cu pixelare slabă și text mare, uneori da: folosește intensitate mare."
+        },
+        {
+          "question": "Merge cu capturi lungi sau PDF-uri?",
+          "answer": "Merge cu imaginile din bibliotecă. O captură de pagină întreagă salvată ca PDF trebuie întâi salvată ca imagine."
+        }
+      ],
+      "related": [
+        "blurare-parte-poza-iphone.html",
+        "pixelare-poza-iphone.html",
+        "blurare-numar-inmatriculare.html",
+        "blurare-fata-poza.html"
+      ],
+      "cta_title": "Capturi pe care le trimiți fără griji",
+      "cta_body": "Descarcă «Estompează fundalurile foto», pictează textul cu Manual și pixelează. Gratuit, offline.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "pixelare-poza-iphone.html",
+      "keyword": "pixelare poză iPhone",
+      "cluster": "privacy",
+      "card_title": "Pixelare poză pe iPhone",
+      "card_excerpt": "Mozaic pe fețe, text sau fundal: Pixelate, Hexagonal și Crystallize explicate.",
+      "card_image": "/img/appstore/ro/05-crystalize.webp",
+      "card_image_alt": "Fundal transformat în mozaic cu Crystallize",
+      "meta_title": "Pixelare poză pe iPhone: fețe, text sau fundal în mozaic",
+      "meta_description": "Cum pixelezi o poză pe iPhone: toată imaginea, doar fundalul, fețele sau o zonă. Stilurile Pixelate, Hexagonal și Crystallize, direct pe dispozitiv și gratuit.",
+      "h1": "Cum pixelezi o poză pe iPhone",
+      "answer": "Ca să pixelezi o poză pe iPhone, deschide-o în MakeBlur, alege unde aplici efectul (Faces pentru fețe, Manual pentru o zonă, Background pentru fundal, Full Photo pentru tot), selectează stilul Pixelate și reglează mărimea blocurilor cu Radius. Atinge Save ca să salvezi copia pixelată.",
+      "intro": "Pixelarea înseamnă să transformi o parte din imagine în pătrate mari: metoda clasică de a ascunde fețe și date, dar și un efect grafic la modă. iPhone-ul nu are un filtru de mozaic integrat. Iată cum îl aplici unde vrei.",
+      "image": "/img/appstore/ro/05-crystalize.webp",
+      "image_alt": "Stilul Crystallize pe fundal: mozaic de cristale",
+      "native": {
+        "heading": "Ce face iPhone-ul singur",
+        "paragraphs": [
+          "Poze nu are filtru de mozaic. Marcaje doar acoperă, iar Clean Up (Apple Intelligence, fără limba română) elimină obiecte. Ca să pixelezi text, fundal sau toată imaginea, ai nevoie de o aplicație."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Trei stiluri de mozaic",
+          "paragraphs": [
+            "Pixelate: pătrate clasice, cel mai sigur pentru confidențialitate. Hexagonal: celule hexagonale, mai modern. Crystallize: cristale neregulate, efect artistic — ca în captura «Pixelare dintr-o atingere», unde fundalul devine cristale, iar fata rămâne clară."
+          ]
+        },
+        {
+          "heading": "Confidențialitate sau estetică",
+          "paragraphs": [
+            "Ca să ascunzi: Pixelate cu blocuri mari pe Faces sau Manual. Ca efect grafic: Crystallize sau Hexagonal pe Background, ca subiectul să iasă în evidență pe un fundal în mozaic."
+          ]
+        }
+      ],
+      "steps_title": "Pixelare în aplicație",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Deschide poza",
+          "description": "Orice imagine sau captură."
+        },
+        {
+          "number": "2",
+          "title": "Alege fila",
+          "description": "Faces, Manual, Background sau Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Stilul Pixelate",
+          "description": "Sau Hexagonal ori Crystallize; reglezi blocurile cu Radius."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Salvează copia pixelată."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Blocuri mai mari = mai multă confidențialitate.",
+        "Pentru o postare creativă încearcă Crystallize pe fundal, cu subiectul clar.",
+        "Verifică mărind: detaliile mici trebuie să dispară complet."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "Pixelare sau mozaic?",
+          "answer": "Se folosesc ambii termeni pentru același efect: imaginea împărțită în blocuri mari."
+        },
+        {
+          "question": "Pot pixela doar fundalul?",
+          "answer": "Da: fila Background cu stilul Pixelate sau Crystallize; subiectul rămâne clar."
+        },
+        {
+          "question": "Pozele rămân private?",
+          "answer": "Da, procesarea are loc pe iPhone și nu e nevoie de internet."
+        }
+      ],
+      "related": [
+        "blurare-fata-poza.html",
+        "ascundere-text-captura-ecran.html",
+        "blurare-numar-inmatriculare.html",
+        "efect-blur-poza.html"
+      ],
+      "cta_title": "Mozaic unde vrei tu",
+      "cta_body": "Descarcă «Estompează fundalurile foto»: Pixelate, Hexagonal și Crystallize în fiecare mod. Gratuit la descărcare.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "motion-blur-poza.html",
+      "keyword": "motion blur poză",
+      "cluster": "effects",
+      "card_title": "Motion blur pe poză (efect de mișcare)",
+      "card_excerpt": "Dâră de mișcare pe fundal, subiect clar: dinamism cu Radius și Angle.",
+      "card_image": "/img/appstore/ro/02-motion.webp",
+      "card_image_alt": "Motion blur în spatele unei femei cu ochelari de soare",
+      "meta_title": "Motion blur pe poză cu iPhone: efect de mișcare în 4 pași",
+      "meta_description": "Cum adaugi motion blur (efect de mișcare) unei poze pe iPhone: dâră pe fundal, subiect clar, direcție și lungime reglabile. Și la poze deja făcute. Gratuit.",
+      "h1": "Motion blur pe poză cu iPhone-ul (efect de mișcare)",
+      "answer": "Ca să adaugi motion blur unei poze pe iPhone, deschide-o în MakeBlur, lasă fila Background ca subiectul să rămână clar, alege stilul Motion, reglează cu Radius lungimea dârei și cu Angle direcția, apoi atinge Save. Fundalul pare în mișcare, iar persoana rămâne nemișcată și clară.",
+      "intro": "Motion blur, adică estomparea de mișcare, dă viteză oricărei poze: un biciclist, o mașină, o dansatoare sau doar un portret pentru o postare mai dinamică. În fotografie se obține cu timp de expunere lung și urmărirea subiectului (panning); cu iPhone-ul îl adaugi după, cu direcția și intensitatea pe care le alegi tu.",
+      "image": "/img/appstore/ro/02-motion.webp",
+      "image_alt": "Stilul Motion, Radius 65: fundalul are dâră, subiectul e clar",
+      "native": {
+        "heading": "Ce face iPhone-ul singur",
+        "paragraphs": [
+          "Pozele Live au efectul «Expunere lungă», care unește cadrele într-o dâră: merge doar dacă ceva chiar s-a mișcat în timpul pozei și estompează tot ce s-a mișcat — nu fundalul pe care îl alegi tu. Pentru pozele obișnuite, Poze nu are un efect de mișcare."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Radius și Angle",
+          "paragraphs": [
+            "Radius e lungimea dârei: valori mici pentru o mișcare subtilă, mari pentru senzația de viteză. Angle e direcția: orizontal pentru mașini și alergători, oblic pentru sărituri, vertical pentru ploaie sau căderi. Captura «Motion blur pentru poze cu mișcare» folosește Radius 65."
+          ]
+        },
+        {
+          "heading": "Doar fundalul sau toată poza",
+          "paragraphs": [
+            "Cu Background se mișcă doar fundalul — efectul clasic de panning. Cu Full Photo toată imaginea primește dâră: util pentru coperți, imagini de fundal abstracte sau un aer visător."
+          ]
+        }
+      ],
+      "steps_title": "Adăugarea motion blur în aplicație",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Deschide poza",
+          "description": "Ideal cu un subiect bine separat de fundal."
+        },
+        {
+          "number": "2",
+          "title": "Fila Background",
+          "description": "Subiectul rămâne nemișcat și clar."
+        },
+        {
+          "number": "3",
+          "title": "Stilul Motion",
+          "description": "Radius pentru lungime, Angle pentru direcție."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Salvează copia cu efect."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Potrivește Angle cu direcția în care se mișcă subiectul: efectul e mai credibil.",
+        "Cu luminile orașului pe fundal, dâra devine o bandă de lumină spectaculoasă.",
+        "Nu exagera la portrete: un Radius mediu dă destul dinamism."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "Ce este motion blur?",
+          "answer": "Estomparea de mișcare: o dâră care sugerează că ceva se mișcă."
+        },
+        {
+          "question": "Pot alege direcția mișcării?",
+          "answer": "Da, cu glisorul Angle al stilului Motion."
+        },
+        {
+          "question": "Merge pe o poză deja făcută?",
+          "answer": "Da, pe orice poză din bibliotecă, și fără Live Photo."
+        }
+      ],
+      "related": [
+        "efect-blur-poza.html",
+        "estompare-fundal-iphone.html",
+        "efect-bokeh-iphone.html",
+        "estompare-gaussiana-iphone.html"
+      ],
+      "cta_title": "Viteză în orice poză",
+      "cta_body": "Descarcă «Estompează fundalurile foto», alege Motion și reglează Angle. Gratuit, pe iPhone.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "efect-bokeh-iphone.html",
+      "keyword": "efect bokeh iPhone",
+      "cluster": "effects",
+      "card_title": "Efect bokeh pe iPhone",
+      "card_excerpt": "Fundal moale și luminițe estompate, chiar și după poză: Gaussian pentru portrete, Ghosting pentru un aer visător.",
+      "card_image": "/img/appstore/ro/06-ghost.webp",
+      "card_image_alt": "Efect bokeh moale pe un portret",
+      "meta_title": "Efect bokeh pe iPhone, și după poză: ghid cu exemple",
+      "meta_description": "Cum obții un efect bokeh pe iPhone la o poză deja făcută: fundal moale, luminițe estompate, subiect clar. Stilurile Gaussian și Ghosting, gratuit și offline.",
+      "h1": "Efect bokeh pe iPhone, chiar și după poză",
+      "answer": "Pentru un efect bokeh pe o poză deja făcută, deschide-o în MakeBlur, lasă fila Background, alege Gaussian și crește Radius până când fundalul devine moale și luminile se transformă în pete. Pentru un aspect mai visător pe toată imaginea, folosește Ghosting în fila Full Photo. Apoi atinge Save.",
+      "intro": "Bokeh vine din japoneză și descrie calitatea zonei neclare dintr-o poză: luminițele care devin cercuri moi, fundalul care se topește. E efectul obiectivelor luminoase, iar Modul Portret îl imită la fotografiere. Iată cum te apropii de acel aspect cu o poză pe care o ai deja.",
+      "image": "/img/appstore/ro/06-ghost.webp",
+      "image_alt": "Fila Full Photo cu stilul Ghosting, Radius 79",
+      "native": {
+        "heading": "Bokeh cu Modul Portret",
+        "paragraphs": [
+          "Modul Portret simulează bokeh la fotografiere, iar în Poze → Editează îți permite să schimbi diafragma (valoarea f). Merge doar la pozele făcute în Portret. Pentru toate celelalte, Poze nu are efect bokeh."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian sau Ghosting",
+          "paragraphs": [
+            "Gaussian pe Background: bokeh de portret, subiect clar și fundal moale. Arată superb cu lumini de seară, vitrine, instalații de sărbători. Ghosting pe Full Photo: o strălucire dublă și moale pe toată imaginea, ca în captura «Atmosferă moale cu bokeh» (Radius 79)."
+          ]
+        },
+        {
+          "heading": "Pozele care ies cel mai bine",
+          "paragraphs": [
+            "Fundaluri cu puncte de lumină, culori vii și o distanță între subiect și fundal. Pe un perete alb bokeh-ul abia se vede: acolo ajunge o estompare ușoară."
+          ]
+        }
+      ],
+      "steps_title": "Efect bokeh în aplicație",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Deschide poza",
+          "description": "Ideal cu lumini pe fundal."
+        },
+        {
+          "number": "2",
+          "title": "Background + Gaussian",
+          "description": "Subiectul rămâne clar."
+        },
+        {
+          "number": "3",
+          "title": "Radius",
+          "description": "Crește până când luminile devin pete moi."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Salvează copia."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Pozele de seară dau cel mai frumos bokeh.",
+        "Încearcă Ghosting pe Full Photo pentru coperți și imagini de fundal.",
+        "Verifică marginile părului mărind înainte să salvezi."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "Ce e bokeh-ul?",
+          "answer": "Cum arată zona neclară a unei poze, mai ales luminițele care devin pete moi."
+        },
+        {
+          "question": "Am nevoie de Modul Portret?",
+          "answer": "Nu, aplicația pune efectul pe orice poză deja făcută."
+        },
+        {
+          "question": "Care e diferența față de estomparea gaussiană?",
+          "answer": "Gaussiana e tipul de estompare; bokeh e rezultatul estetic, mai ales la lumini."
+        }
+      ],
+      "related": [
+        "estompare-gaussiana-iphone.html",
+        "poza-fundal-blurat.html",
+        "estompare-fundal-iphone.html",
+        "motion-blur-poza.html"
+      ],
+      "cta_title": "Bokeh pe orice poză",
+      "cta_body": "Descarcă «Estompează fundalurile foto», alege Gaussian sau Ghosting și salvează. Gratuit, fără încărcare.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "estompare-gaussiana-iphone.html",
+      "keyword": "estompare gaussiană",
+      "cluster": "effects",
+      "card_title": "Estompare gaussiană pe iPhone",
+      "card_excerpt": "Ce e estomparea gaussiană, când o folosești și cum o aplici pe fundal, fețe sau toată poza.",
+      "card_image": "/img/appstore/ro/04-box.webp",
+      "card_image_alt": "Fundal cu estompare moale",
+      "meta_title": "Estompare gaussiană pe iPhone: ce este și cum o aplici",
+      "meta_description": "Ce este estomparea gaussiană și cum o aplici pe iPhone pe fundal, fețe sau toată poza. Diferențe față de Box și Motion și intensități recomandate. Gratuit.",
+      "h1": "Estompare gaussiană pe iPhone: ce este și cum o aplici",
+      "answer": "Estomparea gaussiană e o estompare uniformă și moale, ca un obiectiv nefocalizat. Pe iPhone o aplici cu MakeBlur: deschide poza, alege unde (Background pentru fundal, Faces pentru fețe, Manual pentru o zonă, Full Photo pentru tot), selectează stilul Gaussian, reglează Radius și atinge Save.",
+      "intro": "Cine a folosit GIMP, Photoshop sau alt editor pe calculator cunoaște filtrul «Gaussian Blur» (în GIMP în română: «Estompare gaussiană»). Numele vine de la curba lui Gauss: fiecare pixel se amestecă cu vecinii, mai mult cu cei apropiați și mai puțin cu cei îndepărtați. Rezultatul e moale și natural, fără margini dure. Iată când îl folosești și cum îl aplici pe iPhone.",
+      "image": "/img/appstore/ro/04-box.webp",
+      "image_alt": "Fundal înmuiat în spatele unui portret clar",
+      "native": {
+        "heading": "Ce face iPhone-ul singur",
+        "paragraphs": [
+          "Aplicația Poze nu are un filtru de estompare gaussiană. Ajustările schimbă claritatea și definiția, dar doar în sus sau puțin în jos pentru toată imaginea, și nu sunt o estompare adevărată."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian, Box și Motion comparate",
+          "paragraphs": [
+            "Gaussian: moale și natural, alegerea pentru portrete și fundaluri. Box: medie uniformă, puțin mai plată, utilă la produse și pentru a ascunde. Motion: estompare într-o singură direcție, pentru mișcare.",
+            "Pentru confidențialitate folosește estomparea gaussiană cu intensitate mare: una ușoară lasă ghicibile formele și literele."
+          ]
+        },
+        {
+          "heading": "Ce Radius",
+          "paragraphs": [
+            "Mic pentru portrete naturale, mediu pentru postări și story-uri, mare pentru fundaluri abstracte sau pentru a ascunde. Verifică mereu mărind."
+          ]
+        }
+      ],
+      "steps_title": "Aplicarea estompării gaussiene",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Deschide poza",
+          "description": "În MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Alege modul",
+          "description": "Background, Faces, Manual sau Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Stilul Gaussian",
+          "description": "Reglează Radius."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Salvează copia."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Gaussian pe Background e cel mai natural mod de a imita Modul Portret.",
+        "Pe Full Photo cu intensitate mare obții fundaluri perfecte pentru text în story-uri.",
+        "Pentru date sensibile alege mai degrabă Pixelate."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "De ce se numește gaussiană?",
+          "answer": "Pentru că ponderea cu care se amestecă pixelii urmează curba lui Gauss."
+        },
+        {
+          "question": "E mai bună decât estomparea Box?",
+          "answer": "E mai moale și mai naturală; Box e mai uniformă. Depinde de efectul pe care îl cauți."
+        },
+        {
+          "question": "O pot aplica doar pe fundal?",
+          "answer": "Da, cu fila Background subiectul rămâne clar."
+        }
+      ],
+      "related": [
+        "efect-bokeh-iphone.html",
+        "motion-blur-poza.html",
+        "estompare-fundal-iphone.html",
+        "efect-blur-poza.html"
+      ],
+      "cta_title": "Estompare gaussiană dintr-o atingere",
+      "cta_body": "Descarcă «Estompează fundalurile foto»: Gaussian în fiecare mod, pe dispozitiv. Gratuit la descărcare.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "blurare-poza-iphone.html",
+      "keyword": "blurare poză",
+      "cluster": "photo",
+      "card_title": "Blurare poză întreagă pe iPhone",
+      "card_excerpt": "Toată imaginea estompată: pentru imagini de fundal, story-uri sau un aspect abstract. Pe iPhone și online.",
+      "card_image": "/img/appstore/ro/06-ghost.webp",
+      "card_image_alt": "Poză întreagă estompată cu efectul Ghosting",
+      "meta_title": "Blurare poză pe iPhone: toată imaginea în câteva secunde",
+      "meta_description": "Cum blurezi o poză întreagă pe iPhone: pentru imagini de fundal, story-uri sau un aspect abstract. Stilurile Gaussian, Motion și Ghosting și o opțiune online.",
+      "h1": "Cum blurezi o poză întreagă pe iPhone",
+      "answer": "Ca să blurezi o poză întreagă, deschide-o în MakeBlur, alege fila Full Photo (toată poza) și un stil — Gaussian pentru moliciune, Motion pentru dinamism sau Ghosting pentru un aspect visător — și crește Radius. Atinge Save. Fără să instalezi nimic, și editorul online de pe acest site estompează toată poza.",
+      "intro": "Uneori nu vrei să estompezi fundalul din spatele unei persoane, ci toată imaginea: un fundal pentru ecranul de blocare, o bază pentru text într-un story, o copertă abstractă sau un «teaser» înaintea postării adevărate. E cea mai simplă estompare și singura care nu trebuie să recunoască un subiect.",
+      "image": "/img/appstore/ro/06-ghost.webp",
+      "image_alt": "Fila Full Photo cu stilul Ghosting, Radius 79",
+      "native": {
+        "heading": "Poți blura o poză în Poze?",
+        "paragraphs": [
+          "Nu: nici filtrele, nici ajustările din Poze nu oferă estompare. Ecranul de blocare iOS poate estompa imaginea de fundal sub widgeturi, dar e un efect de sistem, nu o imagine nouă de distribuit."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Ce stil pentru ce",
+          "paragraphs": [
+            "Gaussian: moliciune uniformă, cel mai bun fundal pentru text. Motion: senzație de viteză, ideal pentru coperți sportive. Ghosting: efect dublu de «fantomă», ca în captura «Atmosferă moale cu bokeh» (Radius 79). Pixelate și Crystallize: mozaic abstract."
+          ]
+        },
+        {
+          "heading": "Opțiunea online",
+          "paragraphs": [
+            "Pe acest site există un editor online gratuit: încarci poza, alegi Gaussian, Pixel sau Motion și descarci PNG. Estompează doar toată imaginea; ca să blurezi selectiv fundalul sau fețele, ai nevoie de aplicație."
+          ]
+        }
+      ],
+      "steps_title": "Blurarea întregii poze în aplicație",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Deschide poza",
+          "description": "Alege imaginea în MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Fila Full Photo",
+          "description": "Estomparea se aplică pe toată imaginea."
+        },
+        {
+          "number": "3",
+          "title": "Stil și Radius",
+          "description": "Gaussian, Motion sau Ghosting cu intensitatea dorită."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Copia estompată ajunge în bibliotecă."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Pentru fundaluri de text alege poze colorate: după estompare rămân pete frumoase de culoare.",
+        "Pentru ecranul de blocare salvează o versiune cu Gaussian puternic: ora și pictogramele rămân lizibile.",
+        "Teaser pentru o postare: publică întâi varianta foarte estompată, apoi originalul."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "Cum blurez o poză online?",
+          "answer": "Cu editorul online gratuit de pe acest site: încarci poza, alegi stilul și intensitatea, descarci PNG. Estompează doar toată imaginea."
+        },
+        {
+          "question": "Care e diferența dintre Full Photo și Background?",
+          "answer": "Full Photo estompează toată imaginea, Background doar fundalul — subiectul rămâne clar."
+        },
+        {
+          "question": "Scade rezoluția?",
+          "answer": "Nu, copia se salvează la dimensiunea originală."
+        }
+      ],
+      "related": [
+        "efect-blur-poza.html",
+        "estompare-gaussiana-iphone.html",
+        "motion-blur-poza.html",
+        "efect-bokeh-iphone.html"
+      ],
+      "cta_title": "Poză blurată în câteva secunde",
+      "cta_body": "Descarcă «Estompează fundalurile foto», alege Full Photo și un stil. Gratuit, fără încărcare.",
+      "cta_text": "Descarcă din App Store"
+    },
+    {
+      "slug": "efect-blur-poza.html",
+      "keyword": "efect blur poză",
+      "cluster": "photo",
+      "card_title": "Efect blur pe poze",
+      "card_excerpt": "Ce este efectul blur, ce stiluri există și care se potrivește pentru fundal, fețe sau toată poza.",
+      "card_image": "/img/appstore/ro/02-motion.webp",
+      "card_image_alt": "Efect blur pe o poză cu iPhone",
+      "meta_title": "Efect blur pe poză cu iPhone: stiluri și ghid practic",
+      "meta_description": "Ce este efectul blur și cum îl aplici pe iPhone: pe fundal, pe fețe, pe o zonă sau pe toată imaginea, cu Gaussian, Motion, Ghosting sau Pixelate. Gratuit.",
+      "h1": "Efect blur pe poze: ce este și cum îl faci pe iPhone",
+      "answer": "Efectul blur face o poză, sau o parte din ea, mai puțin clară. Pe iPhone îl aplici cu MakeBlur: alegi unde (Background pentru fundal, Faces pentru fețe, Manual pentru o zonă, Full Photo pentru toată imaginea), un stil ca Gaussian, Motion sau Ghosting, reglezi Radius și atingi Save.",
+      "intro": "«Blur» e cuvântul englezesc pentru estompare, și mulți români caută exact așa: efect blur, blur poză, blur față. În spate e aproape mereu una din patru dorințe: fundal moale în spatele unei persoane, fețe ascunse, o bucată cu text sau număr de înmatriculare ilizibilă, ori toată poza estompată. Editorul iPhone nu poate face niciuna dintre ele pe o poză obișnuită.",
+      "image": "/img/appstore/ro/02-motion.webp",
+      "image_alt": "Stilul Motion: efect blur pe fundal",
+      "native": {
+        "heading": "Ce oferă iPhone-ul",
+        "paragraphs": [
+          "Blur pe fundal: doar cu Modul Portret, la fotografiere. Pensulă de estompare în Poze: nu există. Marcaje: stilou și forme pentru a acoperi, nu pentru a estompa. Clean Up (Apple Intelligence): elimină obiecte, nu e disponibil în limba română."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Stilurile de blur",
+          "paragraphs": [
+            "Gaussian: estompare moale, naturală. Motion: dâră cu direcție reglabilă. Ghosting: efect visător de «fantomă». Box: estompare uniformă. Pixelate, Hexagonal și Crystallize: mozaicuri, utile pentru confidențialitate sau ca efect grafic."
+          ]
+        },
+        {
+          "heading": "Unde îl aplici",
+          "paragraphs": [
+            "Background păstrează subiectul clar și pune blurul pe fundal. Faces pe toate fețele. Manual pe zona pe care o pictezi cu degetul. Full Photo pe toată imaginea. Merge cu poze din cameră, capturi și imagini din WhatsApp sau Telegram salvate în bibliotecă."
+          ]
+        }
+      ],
+      "steps_title": "Aplicarea efectului blur în aplicație",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Deschide poza sau captura",
+          "description": "Alege imaginea în MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Alege modul",
+          "description": "Background, Faces, Manual sau Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Stil și Radius",
+          "description": "Tipul de estompare și intensitatea."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Copia cu efect se salvează în bibliotecă."
+        }
+      ],
+      "tips_title": "Sfaturi",
+      "tips": [
+        "Pentru aspect: Gaussian sau Ghosting; pentru confidențialitate: Pixelate.",
+        "Combină modurile: întâi Background pentru fundal, apoi Manual pentru un detaliu deranjant.",
+        "Salvează câteva intensități și păstrează-o pe cea mai bună."
+      ],
+      "faq_title": "Întrebări frecvente",
+      "faq": [
+        {
+          "question": "Cum fac efect blur fără aplicație?",
+          "answer": "Pe o poză obișnuită, Poze nu permite asta. Poți acoperi cu formele din Marcaje sau poți estompa toată poza cu editorul online de pe acest site."
+        },
+        {
+          "question": "Pot pune blur pe o captură de ecran?",
+          "answer": "Da, capturile se deschid în aplicație ca orice altă poză."
+        },
+        {
+          "question": "E gratuit?",
+          "answer": "Descărcarea e gratuită și estomparea de bază e inclusă; stilurile avansate sunt opționale prin achiziții în aplicație."
+        }
+      ],
+      "related": [
+        "blurare-poza-iphone.html",
+        "estompare-fundal-iphone.html",
+        "blurare-parte-poza-iphone.html",
+        "motion-blur-poza.html"
+      ],
+      "cta_title": "Efect blur într-un minut",
+      "cta_body": "Descarcă «Estompează fundalurile foto» și blurează fundalul, fețele sau toată poza. Gratuit, iPhone cu iOS 18.6.",
+      "cta_text": "Descarcă din App Store"
+    }
+  ]
+}

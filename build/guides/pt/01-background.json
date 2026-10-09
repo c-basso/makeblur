@@ -1,0 +1,348 @@
+[
+  {
+    "slug": "desfocar-fundo-foto-iphone.html",
+    "keyword": "desfocar fundo foto iPhone",
+    "cluster": "background",
+    "card_title": "Desfocar o fundo de uma foto no iPhone",
+    "card_excerpt": "O Modo Retrato só funciona na hora do clique. Veja como desfocar o fundo de uma foto que já está na fototeca.",
+    "card_image": "/img/appstore/pt/04-box.webp",
+    "card_image_alt": "Aba Background: mulher nítida, fundo desfocado",
+    "meta_title": "Desfocar o fundo de uma foto no iPhone, mesmo já tirada",
+    "meta_description": "Como desfocar o fundo de uma foto no iPhone quando ela já foi tirada: o app detecta o sujeito, você escolhe a intensidade e salva. Sem precisar do Modo Retrato.",
+    "h1": "Como desfocar o fundo de uma foto no iPhone, mesmo depois do clique",
+    "answer": "Para desfocar o fundo de uma foto já tirada no iPhone, abra a foto no MakeBlur («Desfocar o Fundo de uma Foto»), deixe a aba Background (fundo) selecionada para o sujeito ser detectado, escolha o estilo Gaussian, aumente o controle Radius até a suavidade que você quer e toque em Save. Funciona com qualquer foto da fototeca, não só retratos, e tudo acontece no iPhone.",
+    "intro": "Quase toda resposta para «como desfocar o fundo da foto no iPhone» manda usar o Modo Retrato. Ótima dica se a foto ainda não foi tirada. Mas se ela foi feita no modo Foto comum, chegou pelo WhatsApp ou é um print, o Modo Retrato não ajuda. Aqui você vê o que o iPhone faz sozinho, onde ele para e como desfocar o fundo em meio minuto.",
+    "image": "/img/appstore/pt/04-box.webp",
+    "image_alt": "Aba Background no app: a mulher está nítida, a parede de tijolos e as flores atrás estão desfocadas",
+    "native": {
+      "heading": "O que o iPhone faz sozinho",
+      "paragraphs": [
+        "O Modo Retrato salva um mapa de profundidade na hora do clique. Depois, em Fotos → Editar, dá para aumentar ou diminuir o desfoque com o controle de abertura. Mas só em fotos tiradas no Retrato com uma câmera compatível: uma foto comum, uma selfie sem Retrato, um print ou uma imagem recebida não têm mapa de profundidade, e o controle nem aparece.",
+        "iPhones mais novos conseguem transformar algumas fotos comuns em retrato, se dados de profundidade foram salvos no clique. Isso não funciona com toda foto nem em todo modelo, e você não escolhe o sujeito."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Desfocar o fundo sem Modo Retrato",
+        "paragraphs": [
+          "Para isso é preciso um editor que separe o sujeito do fundo a partir da imagem pronta. No MakeBlur quem faz isso é a aba Background: ela reconhece a pessoa ou o objeto principal, mantém nítido e suaviza todo o resto. Não precisa de dados de profundidade da câmera: o app trabalha com os pixels da foto, então qualquer imagem serve.",
+          "A intensidade fica no controle Radius e o tipo de desfoque no estilo: Gaussian dá um visual suave de lente, Box um desfoque um pouco mais uniforme, Motion um rastro de movimento. Tudo roda no iPhone, sem internet."
+        ]
+      },
+      {
+        "heading": "Quanto desfocar",
+        "paragraphs": [
+          "Para foto de perfil ou de currículo, um desfoque leve basta: dá para reconhecer o ambiente, mas ele não distrai. Para stories e posts pode caprichar: o fundo vira manchas de cor e a pessoa se destaca. Comece com um Radius médio e dê zoom no cabelo: se aparecer um contorno claro, diminua a intensidade."
+        ]
+      }
+    ],
+    "steps_title": "Desfocar o fundo no app",
+    "steps": [
+      {
+        "title": "Abra a foto",
+        "description": "Abra o MakeBlur e escolha a imagem da fototeca: foto comum, selfie ou print."
+      },
+      {
+        "title": "Mantenha a aba Background",
+        "description": "O app detecta o sujeito e marca o fundo que será desfocado."
+      },
+      {
+        "title": "Escolha estilo e Radius",
+        "description": "Gaussian para o clássico efeito retrato. Arraste Radius até o fundo ficar suave o bastante."
+      },
+      {
+        "title": "Toque em Save",
+        "description": "A cópia desfocada vai para o Fotos; o original continua igual."
+      }
+    ],
+    "tips_title": "Dicas",
+    "tips": [
+      "A máscara fica melhor quando o sujeito se destaca bem: uma pessoa na frente de uma parede, uma xícara na mesa.",
+      "Antes de salvar, dê zoom em cabelo e dedos: com Radius muito alto pode surgir uma borda.",
+      "Desfoque primeiro, corte depois: o app tem mais pixels para uma máscara precisa."
+    ],
+    "faq_title": "Perguntas frequentes",
+    "faq": [
+      {
+        "question": "Dá para desfocar o fundo no iPhone sem Modo Retrato?",
+        "answer": "Sim. O Fotos não consegue sem dados de profundidade, mas o MakeBlur separa o sujeito a partir da própria imagem e desfoca o fundo de qualquer foto."
+      },
+      {
+        "question": "Como desfocar o fundo de uma foto antiga?",
+        "answer": "Do mesmo jeito: abra no app, aba Background, ajuste Radius e salve. Data da foto e modelo da câmera não importam."
+      },
+      {
+        "question": "A foto perde qualidade?",
+        "answer": "O sujeito mantém a resolução original; só o fundo é suavizado. Uma nova cópia é salva e o original fica intacto."
+      },
+      {
+        "question": "O app precisa de internet?",
+        "answer": "Não. Tudo roda no iPhone e as fotos não são enviadas para servidores."
+      }
+    ],
+    "related": [
+      "embacar-fundo-foto.html",
+      "foto-fundo-desfocado.html",
+      "app-desfocar-foto-iphone.html",
+      "desfoque-gaussiano-iphone.html"
+    ],
+    "cta_title": "Fundo desfocado nas fotos que você já tem",
+    "cta_body": "Baixe o «Desfocar o Fundo de uma Foto», abra a foto, ajuste Radius e salve. Grátis, no aparelho, em qualquer iPhone com iOS 18.6 ou posterior.",
+    "cta_text": "Baixar na App Store"
+  },
+  {
+    "slug": "foto-fundo-desfocado.html",
+    "keyword": "foto com fundo desfocado",
+    "cluster": "background",
+    "card_title": "Foto com fundo desfocado para perfil e redes",
+    "card_excerpt": "Sujeito nítido, fundo suave: o efeito de fotógrafo em foto de perfil, posts e produtos.",
+    "card_image": "/img/appstore/pt/02-motion.webp",
+    "card_image_alt": "Retrato com fundo desfocado no iPhone",
+    "meta_title": "Foto com fundo desfocado no iPhone: perfil, Instagram, loja",
+    "meta_description": "Como fazer uma foto com fundo desfocado no iPhone a partir de uma imagem que você já tem: sujeito nítido e fundo suave para perfil, posts e anúncios. Grátis.",
+    "h1": "Foto com fundo desfocado: o efeito de fotógrafo no iPhone",
+    "answer": "Para ter uma foto com fundo desfocado a partir de uma imagem que você já tem, abra-a no MakeBlur, deixe a aba Background para o sujeito continuar nítido, escolha Gaussian para um visual natural ou Box para um desfoque mais uniforme, ajuste Radius e toque em Save. Em segundos você tem o efeito retrato sem câmera profissional.",
+    "intro": "Um fundo desfocado deixa qualquer foto com cara profissional: a foto de perfil do LinkedIn, o post do Instagram, o anúncio no Mercado Livre ou na Shopee com o produto em destaque. Lentes claras fazem isso na hora do clique; no iPhone dá para fazer depois. Veja como escolher estilo e intensidade conforme o uso.",
+    "image": "/img/appstore/pt/02-motion.webp",
+    "image_alt": "Aba Background com estilo Motion, Radius 65: a mulher continua nítida",
+    "native": {
+      "heading": "O que o iPhone faz sozinho",
+      "paragraphs": [
+        "O Modo Retrato cria o fundo desfocado na hora do clique, e em Fotos → Editar você ajusta a intensidade. Para fotos comuns, o Fotos não tem nenhuma ferramenta de desfoque de fundo: filtros e ajustes mudam luz e cor, não a nitidez."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "O estilo certo para cada foto",
+        "paragraphs": [
+          "Perfil e currículo: Gaussian com Radius baixo, o ambiente continua legível sem distrair. Posts e stories: Gaussian ou Box com Radius alto, o fundo vira cor. Fotos de esporte ou de rua: Motion, o fundo se mexe e o sujeito fica parado. Produtos para vender: Box, um fundo uniforme destaca o objeto.",
+          "A captura «Sujeito nítido, desfoca o resto» mostra Box em um retrato na frente de uma parede com flores: é o caso típico."
+        ]
+      },
+      {
+        "heading": "Suavizar o fundo sem exagerar",
+        "paragraphs": [
+          "Um fundo desfocado demais numa foto de perfil parece falso, principalmente na borda do cabelo. Regra simples: quanto mais perto da lente a pessoa está, mais desfoque dá para usar; em corpo inteiro ou em grupo, melhor manter baixo."
+        ]
+      }
+    ],
+    "steps_title": "Fazer uma foto com fundo desfocado no app",
+    "steps": [
+      {
+        "title": "Escolha a foto",
+        "description": "Abra a imagem no MakeBlur: perfil, post ou produto."
+      },
+      {
+        "title": "Aba Background",
+        "description": "O sujeito é detectado e fica nítido."
+      },
+      {
+        "title": "Estilo e Radius",
+        "description": "Gaussian para retrato, Box para produto, Motion para ação."
+      },
+      {
+        "title": "Save",
+        "description": "Salve a cópia e publique onde quiser."
+      }
+    ],
+    "tips_title": "Dicas",
+    "tips": [
+      "Para a foto de perfil, corte depois de desfocar: a máscara fica mais precisa.",
+      "Em fundos com luzes (vitrines, pisca-pisca de Natal) o Gaussian cria manchas de luz parecidas com bokeh.",
+      "Salve duas versões com intensidades diferentes e escolha olhando no celular."
+    ],
+    "faq_title": "Perguntas frequentes",
+    "faq": [
+      {
+        "question": "Como fazer o fundo desfocado em uma foto já tirada?",
+        "answer": "Com um app que detecta o sujeito, como o MakeBlur: aba Background, Radius, Save. Sozinho, o Fotos não faz isso em fotos comuns."
+      },
+      {
+        "question": "Funciona com objetos, não só com pessoas?",
+        "answer": "Sim, o Background também detecta o objeto principal: uma xícara, uma bolsa, um prato."
+      },
+      {
+        "question": "É grátis?",
+        "answer": "O download é grátis e o desfoque básico do fundo está incluído; estilos avançados opcionais por compras dentro do app."
+      }
+    ],
+    "related": [
+      "desfocar-fundo-foto-iphone.html",
+      "efeito-bokeh-iphone.html",
+      "app-desfocar-foto-iphone.html",
+      "embacar-fundo-foto.html"
+    ],
+    "cta_title": "O efeito retrato em qualquer foto",
+    "cta_body": "Baixe o «Desfocar o Fundo de uma Foto», abra uma foto e deixe o app encontrar o sujeito. Grátis, sem envio.",
+    "cta_text": "Baixar na App Store"
+  },
+  {
+    "slug": "embacar-fundo-foto.html",
+    "keyword": "embaçar fundo da foto",
+    "cluster": "background",
+    "card_title": "Como embaçar o fundo da foto",
+    "card_excerpt": "Guia para iniciantes: o que é embaçar o fundo, quanto desfocar e como fazer em três toques.",
+    "card_image": "/img/appstore/pt/04-box.webp",
+    "card_image_alt": "Fundo embaçado atrás de um retrato",
+    "meta_title": "Como embaçar o fundo da foto no iPhone: guia bem simples",
+    "meta_description": "Como embaçar o fundo da foto no iPhone mesmo se você nunca editou nada: três toques, quanto desfocar e os erros que vale evitar. Grátis e sem complicação.",
+    "h1": "Como embaçar o fundo da foto (guia para iniciantes)",
+    "answer": "Para embaçar o fundo de uma foto no iPhone bastam três toques: abra a foto no MakeBlur, deixe a aba Background, arraste o controle Radius para a direita até o fundo ficar suave e toque em Save. O app encontra a pessoa ou o objeto sozinho e deixa nítido; você não precisa recortar nada à mão.",
+    "intro": "Embaçar, desfocar, borrar o fundo: tem vários jeitos de dizer, mas a ideia é a mesma. O sujeito fica nítido, tudo atrás fica suave e o olhar vai direto para a pessoa. Se você nunca usou um editor, este guia leva do primeiro toque até a foto salva, com dicas de quanto puxar o efeito.",
+    "image": "/img/appstore/pt/04-box.webp",
+    "image_alt": "O controle Radius ajusta o quanto o fundo fica embaçado",
+    "native": {
+      "heading": "Dá para fazer no app Fotos?",
+      "paragraphs": [
+        "Só em fotos tiradas no Modo Retrato: em Editar aparece o controle de profundidade. Para todas as outras, o Fotos não tem ferramenta para embaçar o fundo. Os filtros e o ajuste de «Nitidez» não fazem isso."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Quanto embaçar",
+        "paragraphs": [
+          "Pouco (Radius baixo): o fundo continua reconhecível; é o efeito mais natural, bom para fotos de família e perfil. Médio: o fundo vira uma superfície suave, perfeito para posts. Muito (Radius alto): só manchas de cor, impactante, mas confira as bordas.",
+          "Na dúvida, fique no médio: é o que parece ter sido feito com uma câmera."
+        ]
+      },
+      {
+        "heading": "Erros para evitar",
+        "paragraphs": [
+          "Embaçar demais uma foto de grupo: quem está um pouco atrás pode parecer meio desfocado. Embaçar um fundo que já é escuro: a diferença quase não aparece. Perder o original: o MakeBlur sempre salva uma cópia, então dá para tentar de novo quando quiser."
+        ]
+      }
+    ],
+    "steps_title": "Embaçar o fundo em três toques",
+    "steps": [
+      {
+        "title": "Abra a foto",
+        "description": "Toque na foto da fototeca dentro do MakeBlur."
+      },
+      {
+        "title": "Arraste Radius",
+        "description": "Com a aba Background ativa, arraste até ficar do seu gosto."
+      },
+      {
+        "title": "Toque em Save",
+        "description": "A nova foto aparece em Recentes."
+      }
+    ],
+    "tips_title": "Dicas",
+    "tips": [
+      "Fotos com o sujeito bem separado do fundo ficam melhores.",
+      "Dê zoom com dois dedos para conferir as bordas antes de salvar.",
+      "Se o sujeito é um objeto pequeno, corte a foto depois de salvar."
+    ],
+    "faq_title": "Perguntas frequentes",
+    "faq": [
+      {
+        "question": "Embaçar e desfocar são a mesma coisa?",
+        "answer": "Sim. «Desfocar» é o termo mais usado; «embaçar» e «borrar» são comuns no dia a dia e querem dizer o mesmo."
+      },
+      {
+        "question": "Preciso recortar o sujeito à mão?",
+        "answer": "Não, a aba Background detecta automaticamente. Para retoques, use Manual."
+      },
+      {
+        "question": "Dá para voltar à foto original?",
+        "answer": "Sim, o app salva uma cópia e o original continua na fototeca."
+      }
+    ],
+    "related": [
+      "desfocar-fundo-foto-iphone.html",
+      "foto-fundo-desfocado.html",
+      "desfoque-gaussiano-iphone.html",
+      "desfocar-foto-iphone.html"
+    ],
+    "cta_title": "Fundo embaçado em três toques",
+    "cta_body": "Baixe o «Desfocar o Fundo de uma Foto»: abra, arraste Radius, salve. Grátis em iPhone com iOS 18.6.",
+    "cta_text": "Baixar na App Store"
+  },
+  {
+    "slug": "app-desfocar-foto-iphone.html",
+    "keyword": "app para desfocar foto iPhone",
+    "cluster": "background",
+    "card_title": "App para desfocar foto no iPhone",
+    "card_excerpt": "Modo Retrato, Marcação, Limpeza ou um app dedicado: o que usar para fundo, rostos e detalhes.",
+    "card_image": "/img/appstore/pt/03-face.webp",
+    "card_image_alt": "Rostos desfocados no app para iPhone",
+    "meta_title": "App para desfocar foto no iPhone: comparação honesta",
+    "meta_description": "Qual app usar para desfocar foto no iPhone: Modo Retrato, Marcação, Limpeza ou MakeBlur. O que cada um desfoca (fundo, rostos, texto) e seus limites reais.",
+    "h1": "App para desfocar foto no iPhone: o que usar e quando",
+    "answer": "Para desfocar foto no iPhone, depende do que você quer desfocar. O fundo de uma foto no Retrato: o Fotos resolve. O fundo de qualquer outra foto, todos os rostos, uma placa ou um texto: você precisa de um app como o MakeBlur, com as abas Background, Faces, Manual e Full Photo, que roda no aparelho e é grátis para baixar.",
+    "intro": "Buscando «app para desfocar foto» você encontra listas de dez apps parecidos e uma assinatura logo no primeiro toque. Antes de instalar qualquer coisa, vale saber o que o iPhone já faz. Abaixo, uma comparação honesta para escolher conforme o que você precisa desfocar.",
+    "image": "/img/appstore/pt/03-face.webp",
+    "image_alt": "Aba Faces: todos os rostos detectados e desfocados",
+    "native": {
+      "heading": "As ferramentas que já vêm no iPhone",
+      "paragraphs": [
+        "Modo Retrato: fundo desfocado só na hora do clique, ajustável depois no Fotos. Marcação: caneta, marca-texto e formas; cobre, não desfoca, e o marca-texto é semitransparente. Limpeza (Apple Intelligence): remove objetos e pode pixelizar um rosto circulado, só a partir do iPhone 15 Pro e um por vez.",
+        "Nenhuma delas desfoca o fundo de uma foto comum ou uma área escolhida por você."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "O que o MakeBlur oferece",
+        "paragraphs": [
+          "Background: fundo desfocado com sujeito detectado automaticamente. Faces: todos os rostos desfocados de uma vez. Manual: pincel para texto, placas ou qualquer área. Full Photo: a imagem inteira. Sete estilos: Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize.",
+          "Funciona offline e não envia as fotos. Download grátis com o desfoque básico do fundo incluído; estilos avançados opcionais por compras dentro do app."
+        ]
+      },
+      {
+        "heading": "O que observar num app de desfoque",
+        "paragraphs": [
+          "Processamento no aparelho (foto pessoal não deveria ir para servidor), detecção automática do sujeito, um pincel para áreas livres, salvamento na resolução original e uma versão grátis que deixe testar antes de pagar."
+        ]
+      }
+    ],
+    "steps_title": "Primeiro teste com o app",
+    "steps": [
+      {
+        "title": "Baixe grátis",
+        "description": "Na App Store, para iPhone com iOS 18.6 ou posterior."
+      },
+      {
+        "title": "Abra uma foto",
+        "description": "Qualquer imagem da fototeca."
+      },
+      {
+        "title": "Escolha a aba",
+        "description": "Background, Faces, Manual ou Full Photo, conforme o que quer desfocar."
+      },
+      {
+        "title": "Ajuste e salve",
+        "description": "Estilo, Radius e Save."
+      }
+    ],
+    "tips_title": "Dicas",
+    "tips": [
+      "Se é só para esconder um detalhe uma vez, teste antes a Marcação: já vem no iPhone.",
+      "Para privacidade, prefira apps que não enviam as fotos.",
+      "Teste os recursos grátis antes de decidir uma compra."
+    ],
+    "faq_title": "Perguntas frequentes",
+    "faq": [
+      {
+        "question": "Qual o melhor app para desfocar fotos no iPhone?",
+        "answer": "Depende do uso. Para fundo, rostos e áreas num só app que funciona offline, o MakeBlur cobre todos os casos. Para fotos no Retrato, o Fotos basta."
+      },
+      {
+        "question": "Existe app grátis para desfocar fotos?",
+        "answer": "O MakeBlur é grátis para baixar e inclui o desfoque básico do fundo. Os recursos avançados são opcionais."
+      },
+      {
+        "question": "Precisa de Apple Intelligence?",
+        "answer": "Não, o app funciona em qualquer iPhone com iOS 18.6 ou posterior."
+      }
+    ],
+    "related": [
+      "desfocar-fundo-foto-iphone.html",
+      "desfocar-rosto-foto.html",
+      "desfocar-parte-foto-iphone.html",
+      "efeito-blur-foto.html"
+    ],
+    "cta_title": "Um app para fundo, rostos e detalhes",
+    "cta_body": "Baixe o «Desfocar o Fundo de uma Foto»: quatro modos, sete estilos, tudo no iPhone.",
+    "cta_text": "Baixar na App Store"
+  }
+]

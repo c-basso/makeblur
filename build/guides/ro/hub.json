@@ -1,0 +1,30 @@
+{
+  "nav_text": "Ghiduri",
+  "title": "Ghiduri pas cu pas",
+  "intro": "Estomparea fundalului, ascunderea unei fețe, blurarea unui număr de înmatriculare sau a unui text, estomparea întregii poze: fiecare ghid arată pașii exacți pe iPhone.",
+  "learn_more_text": "Citește mai mult",
+  "related_title": "Ghiduri similare",
+  "answer_label": "Pe scurt",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "Estompare fundal",
+      "blurb": "Subiect clar, fundal moale — și la pozele pe care le ai deja."
+    },
+    {
+      "id": "privacy",
+      "title": "Ascunde fețe, numere și text",
+      "blurb": "Estompare pentru confidențialitate înainte de distribuire."
+    },
+    {
+      "id": "effects",
+      "title": "Efecte de estompare",
+      "blurb": "Mișcare, bokeh și gaussian."
+    },
+    {
+      "id": "photo",
+      "title": "Blurează orice poză",
+      "blurb": "Toată poza și efectul blur explicat."
+    }
+  ]
+}

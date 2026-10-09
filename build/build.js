@@ -104,7 +104,7 @@ function getRequiredString(obj, keyPath) {
                     'fr': 'fr_FR',
                     'de': 'de_DE',
                     'it': 'it_IT',
-                    'pt': 'pt_PT',
+                    'pt': 'pt_BR',
                     'jp': 'ja_JP',
                     'ko': 'ko_KR',
                     'nl': 'nl_NL',
@@ -283,8 +283,13 @@ function getRequiredString(obj, keyPath) {
                 cta_text: item.cta_text || data.header?.download_text || 'Download',
                 answer_label: item.answer_label || data.guides.answer_label || 'Short answer',
                 read_time_text: item.read_time_text || (() => {
-                    const words = JSON.stringify(item).replace(/<[^>]*>|"[a-z_]+":|[{}\[\],"]/g, ' ').split(/\s+/).filter(Boolean).length;
-                    return (data.ui?.read_time || '{n} min read').replace('{n}', String(Math.max(2, Math.round(words / 220))));
+                    const text = JSON.stringify(item).replace(/<[^>]*>|"[a-z_]+":|[{}\[\],"]/g, ' ');
+                    // CJK scripts have no spaces: count characters (~500/min) instead of words (~220/min).
+                    const cjk = (text.match(/[\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af]/g) || []).length;
+                    const words = text.replace(/[\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af\u0e00-\u0e7f]/g, ' ').split(/\s+/).filter(Boolean).length;
+                    const thai = (text.match(/[\u0e00-\u0e7f]/g) || []).length;
+                    const minutes = words / 220 + cjk / 500 + thai / 900;
+                    return (data.ui?.read_time || '{n} min read').replace('{n}', String(Math.max(2, Math.round(minutes))));
                 })()
             }));
             for (const item of data.guides.items) {

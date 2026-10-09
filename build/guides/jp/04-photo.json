@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "shashin-bokashi-kakou.html",
+    "keyword": "写真 ぼかし 加工",
+    "cluster": "photo",
+    "card_title": "写真全体をぼかし加工する",
+    "card_excerpt": "壁紙、ストーリーズの背景、アートな一枚に。iPhone でもオンラインでも。",
+    "card_image": "/img/appstore/jp/06-ghost.webp",
+    "card_image_alt": "Ghostingで写真全体をぼかした例",
+    "meta_title": "写真をぼかし加工する方法｜iPhoneで写真全体を数秒で",
+    "meta_description": "iPhoneで写真全体をぼかし加工する方法。壁紙やストーリーズの背景、アートな一枚に。Gaussian・Motion・Ghostingの使い分けと、インストール不要のオンラインエディターという選択肢も紹介します。撮影済みの写真に使え、処理はすべてiPhoneの中で完結します。",
+    "h1": "写真全体をぼかし加工する方法（iPhone）",
+    "answer": "写真全体をぼかすには、MakeBlur で写真を開いて Full Photo（写真全体）タブを選び、やわらかさなら Gaussian、躍動感なら Motion、幻想的なら Ghosting を選んで Radius を上げ、Save をタップします。インストールしたくない場合は、このサイトのオンラインエディターでも写真全体をぼかせます。",
+    "intro": "人物の後ろの背景ではなく、写真全体をぼかしたいときもあります。ロック画面の壁紙、ストーリーズの文字の背景、抽象的なジャケット画像、本番の投稿前のチラ見せ。被写体を認識する必要がない、いちばんシンプルなぼかしです。",
+    "image": "/img/appstore/jp/06-ghost.webp",
+    "image_alt": "Full PhotoタブとGhostingスタイル、Radius 79",
+    "native": {
+      "heading": "「写真」アプリで写真をぼかせる？",
+      "paragraphs": [
+        "できません。「写真」アプリのフィルタにも調整にもぼかしはありません。iOS のロック画面はウィジェットの下の壁紙をぼかせますが、それはシステムの表示効果で、共有できる新しい画像ではありません。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "スタイルの使い分け",
+        "paragraphs": [
+          "Gaussian：均一なやわらかさで、文字の背景に最適。Motion：スピード感があり、スポーツ系のカバーに。Ghosting：二重にじむ幻想的な効果。スクリーンショット「やわらかボケ すぐに」（Radius 79）がこれです。Pixelate や Crystallize：抽象的なモザイク。"
+        ]
+      },
+      {
+        "heading": "オンラインという選択肢",
+        "paragraphs": [
+          "このサイトには無料のオンラインエディターがあります。写真をアップロードして Gaussian・Pixel・Motion を選び、PNG で保存できます。ぼかせるのは写真全体のみ。背景や顔だけを選んでぼかすにはアプリが必要です。"
+        ]
+      }
+    ],
+    "steps_title": "アプリで写真全体をぼかす手順",
+    "steps": [
+      {
+        "title": "写真を開く",
+        "description": "MakeBlur で画像を選びます。"
+      },
+      {
+        "title": "Full Photo タブ",
+        "description": "画像全体にぼかしがかかります。"
+      },
+      {
+        "title": "スタイルと Radius",
+        "description": "Gaussian、Motion、Ghosting を好みの強さで。"
+      },
+      {
+        "title": "Save",
+        "description": "ぼかしたコピーがライブラリに保存されます。"
+      }
+    ],
+    "tips_title": "コツ",
+    "tips": [
+      "文字の背景にするなら色鮮やかな写真を。ぼかすときれいな色のグラデーションになります。",
+      "ロック画面用には Gaussian を強めに。時計やアイコンが見やすくなります。",
+      "投稿のチラ見せ：まず強くぼかしたものを投稿し、あとで元の写真を。"
+    ],
+    "faq_title": "よくある質問",
+    "faq": [
+      {
+        "question": "オンラインで写真をぼかすには？",
+        "answer": "このサイトの無料オンラインエディターで、写真をアップロードしてスタイルと強さを選び、PNG を保存します。写真全体のみぼかせます。"
+      },
+      {
+        "question": "Full Photo と Background の違いは？",
+        "answer": "Full Photo は画像全体、Background は背景だけをぼかし、被写体はくっきり残します。"
+      },
+      {
+        "question": "解像度は下がりますか？",
+        "answer": "いいえ。コピーは元のサイズのまま保存されます。"
+      }
+    ],
+    "related": [
+      "blur-kouka-shashin.html",
+      "gauss-bokashi-iphone.html",
+      "motion-blur-shashin.html",
+      "boke-kouka-iphone.html"
+    ],
+    "cta_title": "数秒でぼかし写真に",
+    "cta_body": "「写真の背景をぼかす」を入手して、Full Photo とスタイルを選ぶだけ。無料、アップロードなし。",
+    "cta_text": "App Storeで入手"
+  },
+  {
+    "slug": "blur-kouka-shashin.html",
+    "keyword": "ぼかし効果 写真",
+    "cluster": "photo",
+    "card_title": "写真のぼかし効果（ブラー）まとめ",
+    "card_excerpt": "ぼかし効果とは？スタイルの種類と、背景・顔・写真全体のどれに何を使うか。",
+    "card_image": "/img/appstore/jp/02-motion.webp",
+    "card_image_alt": "iPhoneで写真にぼかし効果",
+    "meta_title": "写真のぼかし効果（ブラー）｜種類とiPhoneでのかけ方",
+    "meta_description": "写真のぼかし効果（ブラー）とは何か、iPhoneでのかけ方を解説。背景、顔、指定した範囲、写真全体に、Gaussian・Motion・Ghosting・Pixelateなどを使い分けられます。無料で端末内処理です。撮影済みの写真に使え、処理はすべてiPhoneの中で完結します。",
+    "h1": "写真のぼかし効果（ブラー）：種類とiPhoneでのかけ方",
+    "answer": "ぼかし効果（ブラー）は、写真全体または一部をわざと不鮮明にする加工です。iPhone では MakeBlur で、かける場所（背景は Background、顔は Faces、範囲は Manual、全体は Full Photo）と、Gaussian・Motion・Ghosting などのスタイルを選び、Radius を調整して Save をタップします。",
+    "intro": "「ブラー（blur）」は英語でぼかしのこと。ブラー効果、ブラー加工、顔ブラーなど、カタカナのまま検索されることもよくあります。その裏にある目的はたいてい4つ。人物の後ろの背景をやわらかく、顔を隠す、文字やナンバーを読めなくする、写真全体をぼかす。通常の写真では、iPhone の編集機能でそのどれもできません。",
+    "image": "/img/appstore/jp/02-motion.webp",
+    "image_alt": "Motionスタイル：背景にぼかし効果",
+    "native": {
+      "heading": "iPhoneにある機能",
+      "paragraphs": [
+        "背景のぼかし：ポートレートモードで撮影時のみ。「写真」アプリのぼかしブラシ：なし。マークアップ：覆うためのペンと図形で、ぼかしではない。クリーンアップ（Apple Intelligence）：写り込みを消す機能で、iPhone 15 Pro 以降のみ。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "ぼかしのスタイル",
+        "paragraphs": [
+          "Gaussian：やわらかく自然なぼかし。Motion：方向を調整できる流れ。Ghosting：幻想的な二重のにじみ。Box：均一なぼかし。Pixelate・Hexagonal・Crystallize：モザイク系。プライバシー保護にもデザインにも使えます。"
+        ]
+      },
+      {
+        "heading": "かける場所",
+        "paragraphs": [
+          "Background は被写体をくっきり残して背景をぼかします。Faces はすべての顔に。Manual は指でなぞった範囲に。Full Photo は画像全体に。カメラで撮った写真、スクショ、LINE などで受け取ってライブラリに保存した画像に使えます。"
+        ]
+      }
+    ],
+    "steps_title": "アプリでぼかし効果をかける手順",
+    "steps": [
+      {
+        "title": "写真やスクショを開く",
+        "description": "MakeBlur で画像を選びます。"
+      },
+      {
+        "title": "モードを選ぶ",
+        "description": "Background、Faces、Manual、Full Photo。"
+      },
+      {
+        "title": "スタイルと Radius",
+        "description": "ぼかしの種類と強さ。"
+      },
+      {
+        "title": "Save",
+        "description": "効果をかけたコピーがライブラリに保存されます。"
+      }
+    ],
+    "tips_title": "コツ",
+    "tips": [
+      "見た目なら Gaussian か Ghosting、プライバシーなら Pixelate。",
+      "モードは組み合わせられます。Background で背景をぼかし、Manual で気になる細部を。",
+      "強さを変えて何枚か保存し、いちばん良いものを残しましょう。"
+    ],
+    "faq_title": "よくある質問",
+    "faq": [
+      {
+        "question": "アプリなしでぼかし効果をかけられる？",
+        "answer": "通常の写真では「写真」アプリではできません。マークアップの図形で覆うか、このサイトのオンラインエディターで写真全体をぼかす方法があります。"
+      },
+      {
+        "question": "スクショにもブラーをかけられる？",
+        "answer": "はい。スクショも他の写真と同じようにアプリで開けます。"
+      },
+      {
+        "question": "無料ですか？",
+        "answer": "ダウンロードは無料で、基本のぼかしが含まれます。高度なスタイルは任意の App 内課金です。"
+      }
+    ],
+    "related": [
+      "shashin-bokashi-kakou.html",
+      "iphone-haikei-bokashi.html",
+      "shashin-ichibu-bokashi.html",
+      "motion-blur-shashin.html"
+    ],
+    "cta_title": "1分でぼかし効果",
+    "cta_body": "「写真の背景をぼかす」を入手して、背景・顔・写真全体をぼかしましょう。無料、iOS 18.6 の iPhone で。",
+    "cta_text": "App Storeで入手"
+  }
+]

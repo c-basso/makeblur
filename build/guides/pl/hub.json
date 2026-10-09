@@ -1,0 +1,30 @@
+{
+  "nav_text": "Poradniki",
+  "title": "Poradniki krok po kroku",
+  "intro": "Rozmycie tła, ukrycie twarzy, zamazanie tablicy lub tekstu, rozmycie całego zdjęcia: każdy poradnik pokazuje dokładne kroki na iPhonie.",
+  "learn_more_text": "Czytaj więcej",
+  "related_title": "Powiązane poradniki",
+  "answer_label": "Krótka odpowiedź",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "Rozmycie tła",
+      "blurb": "Ostry obiekt, miękkie tło — także na zdjęciach, które już masz."
+    },
+    {
+      "id": "privacy",
+      "title": "Ukrywanie twarzy, tablic i tekstu",
+      "blurb": "Rozmycie dla prywatności przed udostępnieniem."
+    },
+    {
+      "id": "effects",
+      "title": "Efekty rozmycia",
+      "blurb": "Ruch, bokeh i rozmycie gaussowskie."
+    },
+    {
+      "id": "photo",
+      "title": "Rozmycie dowolnego zdjęcia",
+      "blurb": "Całe zdjęcie i efekt rozmycia w pigułce."
+    }
+  ]
+}

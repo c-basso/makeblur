@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
-    <title>Rozmycie tła na iPhone — darmowa aplikacja | Make Blur</title>
-    <meta name="description" content="Rozmyj tło i twarze na iPhone z Make Blur—auto-tło, bokeh, motion blur i gaussian między siedmioma stylami i prostym sterowaniem. Pobierz za darmo w App Store.">
-    <meta name="keywords" content="bokeh iPhone, filtr bokeh, rozmycie twarzy, rozmycie tła iPhone, motion blur, rozmycie gaussa, prywatność zdjęć, aplikacja do rozmycia tła, edycja zdjęć iPhone, darmowy edytor zdjęć iOS">
+    <title>Rozmycie tła na zdjęciu iPhone, także po fakcie | Make Blur</title>
+    <meta name="description" content="Rozmyj tło zdjęcia na iPhonie także po jego zrobieniu: wykrywanie obiektu, zamazane twarze, motion blur i rozmycie gaussowskie. Za darmo, wszystko w telefonie.">
+    <meta name="keywords" content="rozmycie tła, rozmycie tła na zdjęciu, jak rozmyć tło, rozmycie tła iPhone, rozmyte tło, aplikacja do rozmycia tła, zamazać twarz na zdjęciu, zamazać tablicę rejestracyjną, zapikselować zdjęcie, zamazać tekst na screenie, rozmyć zdjęcie, motion blur, efekt bokeh iPhone, rozmycie gaussowskie">
     <meta name="author" content="Make Blur">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="googlebot" content="index, follow">
@@ -21,13 +21,13 @@
     <link rel="dns-prefetch" href="https://mc.yandex.ru">
     <link rel="preload" as="image" href="/img/screens/box__15_pro_max.webp" fetchpriority="high">
     <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/style.css?v=1791195777595">
+    <link rel="stylesheet" href="/style.css?v=1791556627242">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://makeblur.com/pl/">
-    <meta property="og:title" content="Rozmycie tła na iPhone — Make Blur | darmowa aplikacja">
-    <meta property="og:description" content="Make Blur na iPhone: rozmycie tła i twarzy. 7 stylów (bokeh, motion, gaussian), auto-tło, prywatność. Darmowa w App Store.">
+    <meta property="og:title" content="Rozmycie tła na zdjęciu iPhone — także po fakcie">
+    <meta property="og:description" content="Rozmyj tło zdjęcia na iPhonie także po jego zrobieniu: wykrywanie obiektu, zamazane twarze, motion blur i rozmycie gaussowskie. Za darmo, wszystko w telefonie.">
     <meta property="og:image" content="https://makeblur.com/pl/site_preview.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -38,8 +38,8 @@
     <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://makeblur.com/pl/">
-    <meta name="twitter:title" content="Rozmycie tła na iPhone | Make Blur">
-    <meta name="twitter:description" content="Rozmycie tła i twarzy na iPhone. Bokeh, motion blur, gaussian — Make Blur.">
+    <meta name="twitter:title" content="Rozmycie tła na zdjęciu iPhone — także po fakcie">
+    <meta name="twitter:description" content="Rozmyj tło zdjęcia na iPhonie także po jego zrobieniu: wykrywanie obiektu, zamazane twarze, motion blur i rozmycie gaussowskie. Za darmo, wszystko w telefonie.">
     <meta name="twitter:image" content="https://makeblur.com/pl/site_preview.png">
     <meta name="twitter:image:width" content="1200">
     <meta name="twitter:image:height" content="630">
@@ -99,18 +99,24 @@
 </script>
 </head>
 <body>
-    <a class="skip-link" href="#main">Skip to content</a>
+    <a class="skip-link" href="#main">Przejdź do treści</a>
     <header class="site-header" role="banner">
-        <nav class="container nav" aria-label="Primary">
+        <nav class="container nav" aria-label="Menu główne">
             <a class="brand" href="https://makeblur.com/pl/">
                 <img class="brand-icon" src="/img/appstore/icon.webp" alt="" width="36" height="36" loading="eager" decoding="async">
                 <span class="brand-name">Make Blur</span>
             </a>
             <div class="nav-actions">
                 
+                <a href="#how-it-works" class="nav-link nav-link--hide-sm">Jak to działa</a>
                 
                 
-                <a href="https://apps.apple.com/app/id6749166426" class="btn btn--primary btn--sm" rel="noopener">Pobierz teraz</a>
+                <a href="#guides" class="nav-link">Poradniki</a>
+                
+                
+                <a href="#faq" class="nav-link nav-link--hide-sm">FAQ</a>
+                
+                <a href="https://apps.apple.com/app/id6749166426" class="btn btn--primary btn--sm" rel="noopener">Pobierz</a>
             </div>
         </nav>
     </header>
@@ -124,23 +130,49 @@
         <div class="container hero-grid">
             <div class="hero-copy">
                 
-                <h1 id="hero-title">Rozmycie tła na iPhone — szybko i bez stresu</h1>
-                <p class="hero-sub">Darmowa aplikacja do rozmycia tła na zdjęciach</p>
+                <p class="hero-badge"><img src="/img/appstore/icon-180.webp" alt="" width="22" height="22" loading="eager" decoding="async"><span>Rozmycie tła na zdjęciu · Za darmo na iPhone’a</span></p>
                 
-                <p class="hero-lead"><strong>Make Blur</strong> to darmowa aplikacja iOS do rozmycia tła i twarzy, z 7 stylami w tym bokeh — bez programów na komputerze.</p>
+                <h1 id="hero-title">Rozmyj tło <span class="hero-title-accent">nawet po zrobieniu zdjęcia.</span></h1>
+                <p class="hero-sub">Tryb Portret działa tylko w chwili robienia zdjęcia. MakeBlur rozmywa tło, twarze albo dowolny obszar zdjęcia, które już masz na iPhonie — w kilka sekund i w całości na urządzeniu.</p>
                 
                 <div class="hero-actions">
-                    <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="Pobierz teraz">
-                        <img src="/img/download.svg" alt="Pobierz teraz" width="180" height="60" loading="eager" decoding="async">
+                    <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="Pobierz z App Store">
+                        <img src="/img/download.svg" alt="Pobierz z App Store" width="180" height="60" loading="eager" decoding="async">
                     </a>
                     
+                    <a href="#how-it-works" class="hero-link">Jak to działa<span aria-hidden="true">→</span></a>
+                    
                 </div>
+                
+                <ul class="hero-facts" aria-label="W skrócie">
+                    
+                    <li><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Pobierz za darmo</li>
+                    
+                    <li><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Dla zdjęć, które już masz</li>
+                    
+                    <li><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Bez wysyłania do chmury</li>
+                    
+                    <li><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>iOS 18.6 lub nowszy</li>
+                    
+                </ul>
                 
             </div>
             <div class="hero-visual">
                 <figure class="device">
-                    <img src="/img/screens/box__15_pro_max.webp" alt="Rozmycie tła na iPhone — przykład efektu box blur" width="720" height="1558" fetchpriority="high" decoding="async">
+                    <img src="/img/screens/box__15_pro_max.webp" alt="MakeBlur na iPhonie: kobieta pozostaje ostra, ceglana ściana i kwiaty za nią są rozmyte" width="600" height="1299" fetchpriority="high" decoding="async">
                 </figure>
+                
+                
+                <div class="float-card float-card--tl" aria-hidden="true">
+                    <span class="float-card-dot"></span>
+                    <span class="float-card-text"><span class="float-card-label">Background</span><span class="float-card-value">Obiekt wykryty</span></span>
+                </div>
+                
+                <div class="float-card float-card--br" aria-hidden="true">
+                    <span class="float-card-dot"></span>
+                    <span class="float-card-text"><span class="float-card-label">Box</span><span class="float-card-value">Siła 37</span></span>
+                </div>
+                
                 
             </div>
         </div>
@@ -152,26 +184,54 @@
             <div class="download-card">
                 <div class="download-main">
                     <div class="download-head">
-                        <img class="download-icon" src="/img/appstore/icon.webp" alt="Make Blur — aplikacja do rozmycia tła na iPhone" width="96" height="96" loading="lazy" decoding="async">
+                        <img class="download-icon" src="/img/appstore/icon.webp" alt="Ikona aplikacji «Rozmycie tła na zdjęciu»" width="96" height="96" loading="lazy" decoding="async">
                         <div>
                             
-                            <h2 id="download-title">Rozmycie tła na iPhone — szybko i bez stresu</h2>
+                            <p class="eyebrow">Za darmo w App Store</p>
+                            
+                            <h2 id="download-title">Pobierz «Rozmycie tła na zdjęciu»</h2>
                         </div>
                     </div>
                     
-                    <p class="download-subtitle">Darmowa aplikacja do rozmycia tła na zdjęciach</p>
+                    <p class="download-subtitle">Aplikacja na iPhone’a, która rozmywa tło, twarze albo dowolną część zdjęcia — także po jego zrobieniu.</p>
                     
                     <div class="download-actions">
-                        <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="Pobierz teraz">
-                            <img src="/img/download.svg" alt="Pobierz teraz" width="180" height="60" loading="lazy" decoding="async">
+                        <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="Pobierz z App Store">
+                            <img src="/img/download.svg" alt="Pobierz z App Store" width="180" height="60" loading="lazy" decoding="async">
                         </a>
                     </div>
                     
+                    <dl class="download-specs">
+                        
+                        <div><dt>Cena</dt><dd>Za darmo</dd></div>
+                        
+                        <div><dt>Wymaga</dt><dd>iOS 18.6+</dd></div>
+                        
+                        <div><dt>Kategoria</dt><dd>Grafika i DTP</dd></div>
+                        
+                        <div><dt>Języki</dt><dd>Polski i 28 innych</dd></div>
+                        
+                    </dl>
                     
                     
-                    <p class="download-body"><strong>Make Blur</strong> to darmowa aplikacja iOS do rozmycia tła i twarzy, z 7 stylami w tym bokeh — bez programów na komputerze.</p>
+                    
+                    <p class="download-body">Podstawowe rozmycie tła jest darmowe. Zaawansowane style i narzędzia są dostępne opcjonalnie w ramach zakupów w aplikacji.</p>
                     
                 </div>
+                
+                <ul class="download-features">
+                    
+                    <li><span class="download-feature-icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Rozmyte tło z automatycznym wykrywaniem obiektu, bez trybu Portret</span></li>
+                    
+                    <li><span class="download-feature-icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Zamazane twarze na zdjęciach grupowych i ulicznych, bez Apple Intelligence</span></li>
+                    
+                    <li><span class="download-feature-icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Pędzel do tekstu, tablic rejestracyjnych i dowolnego obszaru zdjęcia</span></li>
+                    
+                    <li><span class="download-feature-icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Style Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal i Crystallize</span></li>
+                    
+                    <li><span class="download-feature-icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M3.5 8.5l3 3 6-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Wszystko dzieje się na iPhonie: zdjęcia nigdzie nie są wysyłane</span></li>
+                    
+                </ul>
                 
             </div>
         </div>
@@ -181,35 +241,37 @@
     <section class="screenshots" id="screenshots" aria-labelledby="screens-title">
         <div class="container">
             <div class="section-head">
-                <h2 id="screens-title">Rozmycie tła na iPhone — szybko i bez stresu</h2>
+                <h2 id="screens-title">Tak to wygląda</h2>
+                
+                <p class="section-intro">Prawdziwe zrzuty z App Store: motion blur, chronione twarze, ostry obiekt, mozaika i miękki klimat z bokeh.</p>
                 
             </div>
         </div>
         <div class="screenshot-strip" role="list">
             
             <figure class="screenshot-card" role="listitem">
-                <img src="/img/screens/box__15_pro_max.webp" alt="Rozmycie tła na iPhone — przykład efektu box blur" width="720" height="1558" loading="lazy" decoding="async">
-                <figcaption>Rozmycie tła na iPhone — przykład efektu box blur</figcaption>
+                <img src="/img/appstore/pl/02-motion.webp" alt="Motion blur za kobietą w okularach przeciwsłonecznych, Radius 65" width="720" height="1558" loading="lazy" decoding="async">
+                <figcaption>Motion blur do zdjęć w ruchu</figcaption>
             </figure>
             
             <figure class="screenshot-card" role="listitem">
-                <img src="/img/screens/motion__15_pro_max.webp" alt="Rozmycie tła na iPhone — przykład motion blur" width="720" height="1558" loading="lazy" decoding="async">
-                <figcaption>Rozmycie tła na iPhone — przykład motion blur</figcaption>
+                <img src="/img/appstore/pl/03-face.webp" alt="Karta Faces: wszystkie wykryte twarze rozmyte przed udostępnieniem" width="720" height="1558" loading="lazy" decoding="async">
+                <figcaption>Ukryj twarze przed udostępnieniem</figcaption>
             </figure>
             
             <figure class="screenshot-card" role="listitem">
-                <img src="/img/screens/ghost__15_pro_max.webp" alt="Rozmycie tła na iPhone — przykład ghost blur" width="720" height="1558" loading="lazy" decoding="async">
-                <figcaption>Rozmycie tła na iPhone — przykład ghost blur</figcaption>
+                <img src="/img/appstore/pl/04-box.webp" alt="Karta Background: kobieta ostra, tło rozmyte stylem Box" width="720" height="1558" loading="lazy" decoding="async">
+                <figcaption>Ostry obiekt, reszta rozmyta</figcaption>
             </figure>
             
             <figure class="screenshot-card" role="listitem">
-                <img src="/img/screens/crys__15_pro_max.webp" alt="Rozmycie tła na iPhone — przykład crystalize blur" width="720" height="1558" loading="lazy" decoding="async">
-                <figcaption>Rozmycie tła na iPhone — przykład crystalize blur</figcaption>
+                <img src="/img/appstore/pl/05-crystalize.webp" alt="Styl Crystallize zamienia tło w mozaikę" width="720" height="1558" loading="lazy" decoding="async">
+                <figcaption>Pikselizacja jednym dotknięciem</figcaption>
             </figure>
             
             <figure class="screenshot-card" role="listitem">
-                <img src="/img/screens/ghost1__15_pro_max.webp" alt="Rozmycie tła na iPhone — przykład zaawansowanego rozmycia" width="720" height="1558" loading="lazy" decoding="async">
-                <figcaption>Rozmycie tła na iPhone — przykład zaawansowanego rozmycia</figcaption>
+                <img src="/img/appstore/pl/06-ghost.webp" alt="Styl Ghosting na całym zdjęciu z miękkim, rozmarzonym efektem" width="720" height="1558" loading="lazy" decoding="async">
+                <figcaption>Miękki klimat z bokeh</figcaption>
             </figure>
             
         </div>
@@ -220,157 +282,432 @@
         <div class="container">
             <div class="section-head">
                 
-                <p class="eyebrow"><strong>Trzy kroki</strong>: instalacja, wybór zdjęcia, efekt i zapis.</p>
+                <p class="eyebrow">Trzy kroki</p>
                 
-                <h2 id="how-title">Jak rozmyć tło na iPhone — krok po kroku</h2>
-                <p class="section-intro">Bez skomplikowanych warstw z programów desktopowych — całość na iPhone.</p>
+                <h2 id="how-title">Jak rozmyć tło na zdjęciu w iPhonie</h2>
+                <p class="section-intro">Bez robienia zdjęcia od nowa i bez komputera. Otwórz zdjęcie, które już masz, sprawdź obiekt i zapisz.</p>
             </div>
             <ol class="steps steps--timeline">
                 
                 <li class="step">
                     <div class="step-marker" aria-hidden="true"><span class="step-number">1</span></div>
-                    <h3>Zainstaluj Make Blur</h3>
-                    <p>Wyszukaj <strong>Make Blur</strong> w App Store i pobierz aplikację na iOS. Start zajmuje chwilę.</p>
+                    <h3>Pobierz aplikację</h3>
+                    <p>Za darmo w App Store na iPhone’a z iOS 18.6 lub nowszym. Otwórz dowolne zdjęcie z biblioteki: zwykłe, selfie, screen albo otrzymany obrazek.</p>
                 </li>
                 
                 <li class="step">
                     <div class="step-marker" aria-hidden="true"><span class="step-number">2</span></div>
-                    <h3>Otwórz zdjęcie</h3>
-                    <p>Wybierz plik z galerii. Tam, gdzie to możliwe, <strong>aplikacja wykrywa tło automatycznie</strong>, więc mniej pracy z maskowaniem ręcznym.</p>
+                    <h3>Wybierz, co rozmyć</h3>
+                    <p>Background automatycznie zostawia obiekt ostry. Faces ukrywa wszystkie wykryte twarze. Manual to pędzel do dowolnego obszaru. Full Photo rozmywa całe zdjęcie.</p>
                 </li>
                 
                 <li class="step">
                     <div class="step-marker" aria-hidden="true"><span class="step-number">3</span></div>
-                    <h3>Wybierz blur i zapisz</h3>
-                    <p>Wybierz bokeh, motion, gaussian lub inny z 7 stylów; opcjonalnie rozmycie twarzy; <strong>zapisz</strong>.</p>
+                    <h3>Styl, siła, zapis</h3>
+                    <p>Gaussian dla miękkiego rozmycia jak z obiektywu, Motion dla ruchu, Pixelate dla prywatności. Siłę ustawiasz suwakiem Radius, a Save zapisuje w Zdjęciach.</p>
                 </li>
                 
             </ol>
 
+            
+            <div class="modes">
+                <h3 class="modes-title">Cztery tryby, jeden suwak</h3>
+                <div class="modes-grid">
+                    
+                    <a class="mode-card" href="/pl/rozmycie-tla-iphone.html">
+                        <span class="mode-top"><span class="mode-icon" aria-hidden="true"></span><span class="mode-tab">Background</span></span>
+                        <span class="mode-name">Rozmyte tło</span>
+                        <span class="mode-desc">Obiekt zostaje wykryty i pozostaje ostry, a wszystko za nim staje się miękkie. Efekt portretu dla każdego zdjęcia.</span>
+                        <span class="mode-link">Rozmycie tła na iPhonie<span aria-hidden="true">→</span></span>
+                    </a>
+                    
+                    <a class="mode-card" href="/pl/zamazac-twarz-na-zdjeciu.html">
+                        <span class="mode-top"><span class="mode-icon" aria-hidden="true"></span><span class="mode-tab">Faces</span></span>
+                        <span class="mode-name">Zamazane twarze</span>
+                        <span class="mode-desc">Wszystkie twarze na zdjęciu zostają wykryte i rozmyte jednym dotknięciem — bez Apple Intelligence.</span>
+                        <span class="mode-link">Zamazać twarz na zdjęciu<span aria-hidden="true">→</span></span>
+                    </a>
+                    
+                    <a class="mode-card" href="/pl/rozmyc-czesc-zdjecia-iphone.html">
+                        <span class="mode-top"><span class="mode-icon" aria-hidden="true"></span><span class="mode-tab">Manual</span></span>
+                        <span class="mode-name">Część zdjęcia</span>
+                        <span class="mode-desc">Przeciągnij palcem po tekście, tablicy rejestracyjnej, numerze domu albo osobie w tłumie. Rozmywa się tylko to, co zamalujesz.</span>
+                        <span class="mode-link">Rozmyć część zdjęcia<span aria-hidden="true">→</span></span>
+                    </a>
+                    
+                    <a class="mode-card" href="/pl/rozmyc-zdjecie-iphone.html">
+                        <span class="mode-top"><span class="mode-icon" aria-hidden="true"></span><span class="mode-tab">Full Photo</span></span>
+                        <span class="mode-name">Całe zdjęcie</span>
+                        <span class="mode-desc">Miękkie tapety, tła do relacji albo abstrakcyjna wersja dowolnego zdjęcia — jednym ruchem.</span>
+                        <span class="mode-link">Rozmyć zdjęcie<span aria-hidden="true">→</span></span>
+                    </a>
+                    
+                </div>
+                
+                <div class="modes-styles-row">
+                    <span class="modes-styles-label">Style w każdym trybie</span>
+                    <ul class="modes-style-chips">
+                        
+                        <li>Gaussian</li>
+                        
+                        <li>Motion</li>
+                        
+                        <li>Ghosting</li>
+                        
+                        <li>Box</li>
+                        
+                        <li>Pixelate</li>
+                        
+                        <li>Hexagonal</li>
+                        
+                        <li>Crystallize</li>
+                        
+                    </ul>
+                    
+                    <span class="modes-styles-note">Radius: siła · Angle: kierunek ruchu</span>
+                    
+                </div>
+                
+                
+            </div>
             
         </div>
     </section>
 
     <!-- ============ GUIDES ============ -->
     
+    <section class="guides" id="guides" aria-labelledby="guides-title">
+        <div class="container">
+            <div class="section-head">
+                <h2 id="guides-title">Poradniki krok po kroku</h2>
+                <p class="section-intro">Rozmycie tła, ukrycie twarzy, zamazanie tablicy lub tekstu, rozmycie całego zdjęcia: każdy poradnik pokazuje dokładne kroki na iPhonie.</p>
+            </div>
+            <div class="guide-hub">
+            
+            <div class="guide-panel">
+                <div class="guide-panel-head">
+                    <span class="guide-panel-icon" aria-hidden="true"></span>
+                    <div>
+                        <h3>Rozmycie tła</h3>
+                        <p>Ostry obiekt, miękkie tło — także na zdjęciach, które już masz.</p>
+                    </div>
+                </div>
+                <ul class="guide-list">
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/rozmycie-tla-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Rozmycie tła na iPhonie po zrobieniu zdjęcia</span>
+                                <span class="guide-row-excerpt">Tryb Portret działa tylko przy robieniu zdjęcia. Zobacz, jak rozmyć tło zdjęcia, które już masz w bibliotece.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/rozmyte-tlo-zdjecie.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Zdjęcie z rozmytym tłem na profil i social media</span>
+                                <span class="guide-row-excerpt">Ostry obiekt, miękkie tło: efekt jak od fotografa na zdjęciach profilowych, postach i w ogłoszeniach.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/jak-rozmyc-tlo.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Jak rozmyć tło: poradnik dla początkujących</span>
+                                <span class="guide-row-excerpt">Co znaczy rozmyć tło, ile rozmycia wybrać i jak zrobić to w trzech stuknięciach.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/aplikacja-rozmycie-zdjec-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Aplikacja do rozmywania zdjęć na iPhone’a</span>
+                                <span class="guide-row-excerpt">Tryb Portret, Oznaczenia, Clean Up czy osobna aplikacja: czego użyć do tła, twarzy i szczegółów.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="guide-panel">
+                <div class="guide-panel-head">
+                    <span class="guide-panel-icon" aria-hidden="true"></span>
+                    <div>
+                        <h3>Ukrywanie twarzy, tablic i tekstu</h3>
+                        <p>Rozmycie dla prywatności przed udostępnieniem.</p>
+                    </div>
+                </div>
+                <ul class="guide-list">
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/zamazac-twarz-na-zdjeciu.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Zamazać twarz na zdjęciu</span>
+                                <span class="guide-row-excerpt">Dzieci, znajomi, przechodnie: rozmyj wszystkie twarze jednym dotknięciem przed publikacją, bez Apple Intelligence.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/rozmyc-czesc-zdjecia-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Rozmyć część zdjęcia na iPhonie</span>
+                                <span class="guide-row-excerpt">Adres, numer, osoba w tłumie: zamaluj palcem i rozmyje się tylko ten obszar.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/zamazac-tablice-rejestracyjna.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Zamazać tablicę rejestracyjną na zdjęciu</span>
+                                <span class="guide-row-excerpt">Do ogłoszenia na Otomoto czy OLX: numer nieczytelny, ogłoszenie schludne.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/zamazac-tekst-screen-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Zamazać tekst na screenie</span>
+                                <span class="guide-row-excerpt">Rozmowy, adresy, numer konta: zrób tekst nieczytelnym, zanim udostępnisz screena.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/zapikselowac-zdjecie-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Zapikselować zdjęcie na iPhonie</span>
+                                <span class="guide-row-excerpt">Mozaika na twarzach, tekście lub tle: Pixelate, Hexagonal i Crystallize w praktyce.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="guide-panel">
+                <div class="guide-panel-head">
+                    <span class="guide-panel-icon" aria-hidden="true"></span>
+                    <div>
+                        <h3>Efekty rozmycia</h3>
+                        <p>Ruch, bokeh i rozmycie gaussowskie.</p>
+                    </div>
+                </div>
+                <ul class="guide-list">
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/motion-blur-zdjecie.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Motion blur na zdjęciu (rozmycie ruchu)</span>
+                                <span class="guide-row-excerpt">Smuga ruchu na tle, ostry obiekt: dynamika dzięki Radius i Angle.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/efekt-bokeh-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Efekt bokeh na iPhonie</span>
+                                <span class="guide-row-excerpt">Miękkie tło i rozmyte światełka także po zrobieniu zdjęcia: Gaussian do portretów, Ghosting do rozmarzonego klimatu.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/rozmycie-gaussowskie-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Rozmycie gaussowskie na iPhonie</span>
+                                <span class="guide-row-excerpt">Czym jest rozmycie gaussowskie, kiedy go używać i jak nałożyć je na tło, twarze albo całe zdjęcie.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="guide-panel">
+                <div class="guide-panel-head">
+                    <span class="guide-panel-icon" aria-hidden="true"></span>
+                    <div>
+                        <h3>Rozmycie dowolnego zdjęcia</h3>
+                        <p>Całe zdjęcie i efekt rozmycia w pigułce.</p>
+                    </div>
+                </div>
+                <ul class="guide-list">
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/rozmyc-zdjecie-iphone.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Rozmyć całe zdjęcie na iPhonie</span>
+                                <span class="guide-row-excerpt">Cały kadr rozmyty: na tapety, relacje albo abstrakcyjny efekt. Na iPhonie i online.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a class="guide-row" href="/pl/efekt-rozmycia-zdjecie.html">
+                            <span class="guide-row-text">
+                                <span class="guide-row-title">Efekt rozmycia (blur) na zdjęciach</span>
+                                <span class="guide-row-excerpt">Czym jest efekt rozmycia, jakie są style i który pasuje do tła, twarzy albo całego zdjęcia.</span>
+                            </span>
+                            <span class="guide-row-arrow" aria-hidden="true">→</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            </div>
+        </div>
+    </section>
+    
 
     <!-- ============ FAQ ============ -->
     <section class="faq" id="faq" aria-labelledby="faq-title">
         <div class="container faq-layout">
             <div class="faq-head">
-                <h2 id="faq-title">Najczęściej zadawane pytania</h2>
+                <h2 id="faq-title">Najczęstsze pytania</h2>
+                
+                <p class="section-intro">Krótkie odpowiedzi o rozmywaniu zdjęć na iPhonie. Każda prowadzi do szczegółowego poradnika.</p>
                 
             </div>
             <div class="faq-list">
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Jak rozmyć tło na iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Jak rozmyć tło na zdjęciu, które już zrobiłem iPhonem?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Pobierz <strong>Make Blur</strong>, otwórz zdjęcie i pozwól aplikacji <strong>automatycznie wykryć tło</strong> (albo narysuj własną maskę). Następnie wybierz efekt — m.in. <strong>bokeh</strong>, <strong>motion blur</strong> lub <strong>rozmycie gaussa</strong> — i <strong>zapisz plik</strong>. W tej samej aplikacji możesz też <strong>rozmyć twarze</strong> dla prywatności.</p>
+                        <p>Otwórz zdjęcie w aplikacji, zostaw kartę Background, żeby obiekt został wykryty, wybierz Gaussian, zwiększaj Radius do wymaganej miękkości i stuknij Save. Działa z każdym zdjęciem z biblioteki, bez trybu Portret.</p>
+                        
+                        <a class="faq-learn-more" href="/pl/rozmycie-tla-iphone.html">Czytaj więcej →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Jaka jest najlepsza aplikacja do rozmycia tła na iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Czy aplikacja Zdjęcia rozmyje tło zwykłego zdjęcia?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p><strong>Make Blur</strong> to dedykowana aplikacja do rozmycia <strong>tła i twarzy</strong> na iPhone, z <strong>automatycznym wykrywaniem tła</strong>, siedmioma typami rozmycia, w tym <strong>bokeh</strong>, <strong>motion blur</strong> i <strong>rozmyciem gaussa</strong>, oraz czytelnym interfejsem. Wcześni użytkownicy zwykle oceniają ją na ok. <strong>4,5/5</strong> gwiazdek.</p>
+                        <p>Tylko jeśli zdjęcie zrobiono w trybie Portret — wtedy w «Edycji» zmienisz głębię. Zwykłe zdjęcia, screeny i otrzymane obrazy nie mają danych o głębi, a Zdjęcia nie oferują rozmycia tła. Do tego służy ta aplikacja.</p>
+                        
+                        <a class="faq-learn-more" href="/pl/aplikacja-rozmycie-zdjec-iphone.html">Czytaj więcej →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Jak rozmyć zdjęcie na iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Jak zamazać twarze bez Apple Intelligence?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Użyj <strong>Make Blur</strong>. Otwórz zdjęcie, wskaż <strong>obszar do rozmycia</strong> albo włącz <strong>auto-tło</strong>, w razie potrzeby wybierz <strong>rozmycie twarzy</strong>, a następnie zastosuj <strong>bokeh</strong>, <strong>motion blur</strong>, <strong>gaussian</strong> lub inny z <strong>siedmiu</strong> stylów i <strong>zapisz</strong>.</p>
+                        <p>Apple Intelligence nie działa po polsku, a narzędzie Clean Up w Zdjęciach służy do usuwania obiektów i wymaga iPhone’a 15 Pro lub nowszego. W aplikacji karta Faces wykrywa wszystkie twarze naraz i je rozmywa — na każdym iPhonie z iOS 18.6.</p>
+                        
+                        <a class="faq-learn-more" href="/pl/zamazac-twarz-na-zdjeciu.html">Czytaj więcej →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Czy mogę rozmyć tło zdjęcia za darmo?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Jak rozmyć tylko część zdjęcia?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Tak. <strong>Make Blur</strong> możesz pobrać bezpłatnie: w podstawowym pakiecie rozmywasz tło, rozmywasz twarze i używasz <strong>siedmiu</strong> efektów, m.in. bokeh, motion i gaussian. Część <strong>opcji zaawansowanych</strong> może być w <strong>zakupach w aplikacji</strong>; <strong>podstawowa edycja</strong> zwykle działa <strong>bez płatności</strong> z góry.</p>
+                        <p>W karcie Manual przeciągnij palcem po obszarze: tekst, tablica rejestracyjna, osoba w tłumie. Rozmywa się tylko to, co zamalujesz; siłę ustawiasz suwakiem Radius.</p>
+                        
+                        <a class="faq-learn-more" href="/pl/rozmyc-czesc-zdjecia-iphone.html">Czytaj więcej →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Jak rozmyć obraz (plik) na iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Jak zamazać tablicę rejestracyjną do ogłoszenia na Otomoto lub OLX?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Pobierz <strong>Make Blur</strong> w App Store. <strong>Otwórz plik</strong> z galerii, włącz <strong>automatyczne wykrywanie tła</strong> albo narysuj <strong>maskę</strong>, w razie potrzeby użyj <strong>rozmycia twarzy</strong>, wybierz <strong>bokeh</strong>, <strong>motion blur</strong>, <strong>gaussian</strong> lub inny styl i <strong>zapisz</strong> przerobiony obraz na iPhone.</p>
+                        <p>Otwórz zdjęcie, karta Manual, styl Pixelate lub Box, zamaluj tablicę i zwiększaj Radius, aż żaden znak nie będzie czytelny. Zapisz i wgraj tę kopię do ogłoszenia. Oryginał nie opuszcza Twojego iPhone’a.</p>
+                        
+                        <a class="faq-learn-more" href="/pl/zamazac-tablice-rejestracyjna.html">Czytaj więcej →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Jakich efektów rozmycia używać, żeby rozmyć tło na iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Jak zamazać tekst na screenie?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>W <strong>Make Blur</strong> do dyspozycji są m.in. <strong>motion blur</strong>, <strong>rozmycie gaussa (gaussian)</strong>, <strong>ghosting</strong>, <strong>pixelate</strong>, <strong>hexagonal</strong>, <strong>crystalize</strong> i <strong>bokeh</strong>. <strong>Bokeh</strong> daje wrażenie płytkiej głębi ostrości z miękimi, rozmytymi plamami światła. Wszystkie <strong>siedem</strong> stylów możesz zastosować do <strong>tła</strong> albo <strong>wybranych obszarów</strong>.</p>
+                        <p>W karcie Manual zamaluj linie z adresem, numerem, numerem konta albo rozmową, wybierz Pixelate i zapisz kopię. Powiększ, żeby sprawdzić, że nic nie da się odczytać.</p>
+                        
+                        <a class="faq-learn-more" href="/pl/zamazac-tekst-screen-iphone.html">Czytaj więcej →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Dlaczego wybrać Make Blur zamiast innych aplikacji do rozmycia?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Jak dodać motion blur do zdjęcia?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p><strong>Make Blur</strong> łączy <strong>automatyczne wykrywanie tła</strong>, <strong>rozmycie twarzy</strong> (prywatność), <strong>siedem</strong> stylów, w tym <strong>bokeh</strong>, i model <strong>freemium</strong> z darmowymi narzędziami podstawowymi. Część konkurencji blokuje proste rozmycie <strong>subskrypcjami</strong> albo naciska <strong>reklamą</strong>, a <strong>Make Blur</strong> stawia na szybki, zrozumiały schemat: tło, a w razie potrzeby twarze.</p>
+                        <p>Wybierz styl Motion: Radius decyduje o długości smugi, Angle o kierunku. W karcie Background porusza się tylko tło, a obiekt pozostaje ostry.</p>
+                        
+                        <a class="faq-learn-more" href="/pl/motion-blur-zdjecie.html">Czytaj więcej →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Jak Make Blur ma się do wbudowanego rozmycia (tryb portretowy) na iPhone?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Czym różni się rozmycie gaussowskie od bokeh?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Rozmycie w <strong>trybie portretowym</strong> iPhone zwykle odnosi się do ujęcia w momencie wykonania. <strong>Make Blur</strong> otwiera <strong>dowolne zdjęcie z galerii</strong> i oferuje m.in. <strong>siedem</strong> efektów, <strong>rozmycie twarzy</strong> oraz wykrywanie tła — w wielu przypadkach daje więcej <strong>kontroli i różnorodności</strong> niż tylko jedno ustawienie systemu.</p>
+                        <p>Rozmycie gaussowskie to równomierne, miękkie rozmycie, jak z nieostrego obiektywu. Bokeh opisuje wygląd punktów światła w rozmytej części. W aplikacji Gaussian daje czyste tło portretowe, a Ghosting na Full Photo — bardziej rozmarzony efekt.</p>
+                        
+                        <a class="faq-learn-more" href="/pl/rozmycie-gaussowskie-iphone.html">Czytaj więcej →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Czy Make Blur jest lepsza od innych aplikacji do rozmycia?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Jak rozmyć całe zdjęcie?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p><strong>Make Blur</strong> oferuje m.in. uczciwy <strong>freemium</strong> (bez wymuszonej subskrypcji), <strong>siedem</strong> typów rozmycia z <strong>bokeh</strong> (często więcej niż u części konkurencji), <strong>rozmycie twarzy</strong> i <strong>auto-tło</strong>, ok. <strong>4,5</strong> gwiazdki w ocenach wczesnych użytkowników i <strong>10&nbsp;000+ pobrań</strong>. Wiele innych programów wciąga w <strong>płatne bariery</strong> albo ogranicza darmową wersję mocniej.</p>
+                        <p>Karta Full Photo rozmywa cały obraz: wybierz styl i siłę — na tapety, tła relacji albo abstrakcyjne grafiki. Bez instalacji całe zdjęcie rozmyje też edytor online na tej stronie.</p>
+                        
+                        <a class="faq-learn-more" href="/pl/rozmyc-zdjecie-iphone.html">Czytaj więcej →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Jak rozmyć twarze na zdjęciu (na iPhone)?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Czy aplikacja jest darmowa?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>W <strong>Make Blur</strong> otwórz zdjęcie, wybierz <strong>opcję rozmycia twarzy</strong> i zastosuj efekt do wykrytych albo zaznaczonych twarzy przed <strong>zapisem</strong>. To rozwiązanie prywatnościowe m.in. dla zdjęć grupowych lub w przestrzeni publicznej, bez <strong>komputera stacjonarnego</strong>.</p>
+                        <p>Tak. Pobierasz ją za darmo, a podstawowe rozmycie tła jest w zestawie. Zaawansowane style i narzędzia są dostępne opcjonalnie w ramach zakupów w aplikacji.</p>
+                        
+                        <a class="faq-learn-more" href="/pl/rozmyte-tlo-zdjecie.html">Czytaj więcej →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Co robi filtr Bokeh w Make Blur?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Czy moje zdjęcia są wysyłane na serwer?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Filtr <strong>bokeh</strong> naśladuje płytką głębię ostrości: ostry <strong>obiekt główny</strong> i miękkie tło z naturalnie wyglądającymi, rozproszonymi <strong>punktami światła</strong> (jak szybki obiektyw portretowy). Jeden z <strong>siedmiu</strong> stylów, obok m.in. motion, gaussian, ghosting, pixelate, hexagonal i crystalize.</p>
+                        <p>Nie. Wszystko jest przetwarzane na iPhonie, a rozmycie nie wymaga internetu — Twoje zdjęcia nie opuszczają urządzenia.</p>
+                        
+                        <a class="faq-learn-more" href="/pl/zapikselowac-zdjecie-iphone.html">Czytaj więcej →</a>
                         
                     </div>
                 </details>
                 
                 <details class="faq-item">
-                    <summary class="faq-question"><h3>Czy mogę rozmyć tylko fragment zdjęcia?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
+                    <summary class="faq-question"><h3>Na jakich iPhone’ach działa aplikacja?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
                     <div class="faq-answer">
-                        <p>Tak. Możesz połączyć <strong>automatyczne tło</strong> z <strong>narzędziem rysowania</strong>, wskazując, co ma być mocniej rozmyte, albo dopracować maskę, zanim <strong>zapiszesz wynik</strong>.</p>
+                        <p>Na każdym iPhonie z iOS 18.6 lub nowszym. Nie potrzebujesz Apple Intelligence ani aparatu z trybem Portret.</p>
                         
-                    </div>
-                </details>
-                
-                <details class="faq-item">
-                    <summary class="faq-question"><h3>Czy to się nadaje do ukrywania twarzy, tablic rejestracyjnych lub wrażliwych danych?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
-                    <div class="faq-answer">
-                        <p>Tak, w zakresie edycji zdjęć: <strong>rozmycie twarzy</strong> albo mocne rozmycie / <strong>pikselizację</strong> ograniczają czytelność szczegółów (także <strong>tablic</strong> rejestracyjnych). To <strong>nie</strong> jest porada prawna — w kwestiach prawnych lub mocno wrażliwych zasięgnij opinii u <strong>fachowca</strong> w Twojej jurysdykcji.</p>
-                        
-                    </div>
-                </details>
-                
-                <details class="faq-item">
-                    <summary class="faq-question"><h3>Czy moje dane i zdjęcia w Make Blur są bezpieczne?</h3><span class="faq-icon" aria-hidden="true"></span></summary>
-                    <div class="faq-answer">
-                        <p>Zgodnie z intencją dewelopera duża część <strong>obróbki ma miejsce na iPhone, w samej aplikacji</strong>. Aktualne reguły przechowywania, transmisji i prywatności znajdziesz w <strong>polityce prywatności</strong> na stronie i w opisie w <strong>App Store</strong> — warto je przeczytać przed użyciem.</p>
+                        <a class="faq-learn-more" href="/pl/aplikacja-rozmycie-zdjec-iphone.html">Czytaj więcej →</a>
                         
                     </div>
                 </details>
@@ -386,18 +723,28 @@
                 <div class="final-cta-copy">
                     <img src="/img/appstore/icon.webp" alt="" width="72" height="72" loading="lazy" decoding="async" class="final-cta-icon">
                     
-                    <h2 id="cta-title">Gotowy na wyraźny obiekt i miękkie tło?</h2>
+                    <p class="eyebrow">Za darmo w App Store</p>
                     
-                    <p>Rozmyte tło pomaga <strong>wyróżnić portret lub produkt</strong> na Instagramie, LinkedIn albo w albumie.</p>
+                    <h2 id="cta-title">Rozmyj tło na zdjęciach, które już masz</h2>
+                    
+                    <p>Otwórz zdjęcie z «Ostatnich», pozwól aplikacji znaleźć obiekt, przesuń suwak i zapisz. Twarze, ruch i całe zdjęcie — w tej samej aplikacji.</p>
                     
                     
-                    <p>Make Blur jest pod to przygotowany: szybkie rozmycie tła na iPhone bez przeładowania funkcjami.</p>
-                    
-                    <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="Zacznij teraz">
-                        <img src="/img/download.svg" alt="Zacznij teraz" width="180" height="60" loading="lazy" decoding="async">
+                    <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge appstore-badge--hero" rel="noopener" aria-label="Pobierz z App Store">
+                        <img src="/img/download.svg" alt="Pobierz z App Store" width="180" height="60" loading="lazy" decoding="async">
                     </a>
                     
-                    <p class="final-cta-note"><strong>Pobierz Make Blur</strong> z App Store i sprawdź 7 efektów z bokeh.</p>
+                    <p class="final-cta-note">Bez wysyłania · iPhone z iOS 18.6 lub nowszym</p>
+                    
+                </div>
+                
+                <div class="final-cta-visual" aria-hidden="true">
+                    
+                    <img src="/img/appstore/pl/03-face.webp" alt="" width="720" height="1558" loading="lazy" decoding="async">
+                    
+                    <img src="/img/appstore/pl/04-box.webp" alt="" width="720" height="1558" loading="lazy" decoding="async">
+                    
+                    <img src="/img/appstore/pl/02-motion.webp" alt="" width="720" height="1558" loading="lazy" decoding="async">
                     
                 </div>
                 
@@ -414,25 +761,85 @@
                     <img class="brand-icon" src="/img/appstore/icon.webp" alt="" width="36" height="36" loading="lazy" decoding="async">
                     <span class="brand-name">Make Blur</span>
                 </a>
-                <p class="footer-tagline">Make Blur — tło i twarze na iPhone. Bokeh, motion, gaussian i więcej; auto-wykrywanie.</p>
-                <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge footer-badge" rel="noopener" aria-label="Pobierz Make Blur w App Store">
-                    <img src="/img/download.svg" alt="Pobierz Make Blur w App Store" width="135" height="45" loading="lazy" decoding="async">
+                <p class="footer-tagline">«Rozmycie tła na zdjęciu» (MakeBlur) to darmowa aplikacja na iPhone’a, która rozmywa tło, twarze lub dowolną część zdjęcia po jego zrobieniu. Wszystko jest przetwarzane na urządzeniu.</p>
+                <a href="https://apps.apple.com/app/id6749166426" class="appstore-badge footer-badge" rel="noopener" aria-label="Pobierz «Rozmycie tła na zdjęciu» z App Store">
+                    <img src="/img/download.svg" alt="Pobierz «Rozmycie tła na zdjęciu» z App Store" width="135" height="45" loading="lazy" decoding="async">
                 </a>
             </div>
+            
+            <nav class="footer-guides" aria-label="Poradniki">
+                
+                <div class="footer-col">
+                    <h3>Rozmycie tła</h3>
+                    <ul>
+                        
+                        <li><a href="/pl/rozmycie-tla-iphone.html">Rozmycie tła na iPhonie po zrobieniu zdjęcia</a></li>
+                        
+                        <li><a href="/pl/rozmyte-tlo-zdjecie.html">Zdjęcie z rozmytym tłem na profil i social media</a></li>
+                        
+                        <li><a href="/pl/jak-rozmyc-tlo.html">Jak rozmyć tło: poradnik dla początkujących</a></li>
+                        
+                        <li><a href="/pl/aplikacja-rozmycie-zdjec-iphone.html">Aplikacja do rozmywania zdjęć na iPhone’a</a></li>
+                        
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h3>Ukrywanie twarzy, tablic i tekstu</h3>
+                    <ul>
+                        
+                        <li><a href="/pl/zamazac-twarz-na-zdjeciu.html">Zamazać twarz na zdjęciu</a></li>
+                        
+                        <li><a href="/pl/rozmyc-czesc-zdjecia-iphone.html">Rozmyć część zdjęcia na iPhonie</a></li>
+                        
+                        <li><a href="/pl/zamazac-tablice-rejestracyjna.html">Zamazać tablicę rejestracyjną na zdjęciu</a></li>
+                        
+                        <li><a href="/pl/zamazac-tekst-screen-iphone.html">Zamazać tekst na screenie</a></li>
+                        
+                        <li><a href="/pl/zapikselowac-zdjecie-iphone.html">Zapikselować zdjęcie na iPhonie</a></li>
+                        
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h3>Efekty rozmycia</h3>
+                    <ul>
+                        
+                        <li><a href="/pl/motion-blur-zdjecie.html">Motion blur na zdjęciu (rozmycie ruchu)</a></li>
+                        
+                        <li><a href="/pl/efekt-bokeh-iphone.html">Efekt bokeh na iPhonie</a></li>
+                        
+                        <li><a href="/pl/rozmycie-gaussowskie-iphone.html">Rozmycie gaussowskie na iPhonie</a></li>
+                        
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h3>Rozmycie dowolnego zdjęcia</h3>
+                    <ul>
+                        
+                        <li><a href="/pl/rozmyc-zdjecie-iphone.html">Rozmyć całe zdjęcie na iPhonie</a></li>
+                        
+                        <li><a href="/pl/efekt-rozmycia-zdjecie.html">Efekt rozmycia (blur) na zdjęciach</a></li>
+                        
+                    </ul>
+                </div>
+                
+            </nav>
             
         </div>
         <div class="container footer-bottom">
             <div class="footer-bottom-row">
                 <p class="footer-copy">© 2026 Make Blur. Wszelkie prawa zastrzeżone.</p>
                 <ul class="footer-links">
-                    
-                    
-                    <li><a href="https://makeblur.com/pl/rozmycie-tla-zdjecia-online-edytor.html">Otwórz edytor rozmycia zdjęć online (Gaussian, Pixel, Motion)</a></li>
+                    <li><a href="https://makeblur.com/pl/#how-it-works">Jak to działa</a></li>
+                    <li><a href="https://makeblur.com/pl/#faq">FAQ</a></li>
+                    <li><a href="https://makeblur.com/pl/rozmycie-tla-zdjecia-online-edytor.html">Edytor online do rozmywania zdjęć</a></li>
                     <li><a href="/privacy.html">Polityka prywatności</a></li>
-                    <li><a href="/terms.html">Warunki korzystania</a></li>
+                    <li><a href="/terms.html">Regulamin</a></li>
                 </ul>
             </div>
-            <nav class="footer-langs" aria-label="Language">
+            <nav class="footer-langs" aria-label="Język">
                 <ul>
                     
                     <li><a href="https://makeblur.com/" hreflang="en" lang="en" title="English">EN</a></li>
@@ -471,25 +878,25 @@
                     
                 </ul>
             </nav>
-            
+            <p class="footer-fineprint">«Rozmycie tła na zdjęciu» wymaga iPhone’a z iOS 18.6 lub nowszym. Apple, iPhone i App Store są znakami towarowymi Apple Inc., zastrzeżonymi w USA i innych krajach.</p>
         </div>
     </footer>
 
     <!-- Structured Data (JSON-LD) -->
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"SoftwareApplication","name":"Make Blur","applicationCategory":"PhotoEditorApplication","operatingSystem":"iOS","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"10"},"description":"Rozmycie tła i twarzy na iPhone. 7 stylów z bokeh, motion i gaussian blur; auto-wykrywanie.","url":"https://makeblur.com/pl/","downloadUrl":"https://apps.apple.com/app/id6749166426"}
+    {"@context":"https://schema.org","@type":"SoftwareApplication","name":"Rozmycie tła na zdjęciu","alternateName":["MakeBlur","Make Blur"],"applicationCategory":"PhotoEditorApplication","operatingSystem":"iOS 18.6 lub nowszy","offers":{"@type":"Offer","price":"0","priceCurrency":"PLN","description":"Za darmo; opcjonalne zakupy w aplikacji"},"description":"Darmowy edytor zdjęć na iPhone’a, który rozmywa tło zdjęcia po jego zrobieniu. Automatyczne wykrywanie obiektu, zamazywanie twarzy, pędzel ręczny, efekty Motion, Gaussian, Pixelate i miękkie style. Przetwarzanie na urządzeniu.","applicationSubCategory":"Grafika i DTP","image":"https://makeblur.com/img/appstore/icon-1024.png","screenshot":["https://makeblur.com/img/appstore/pl/01-cover.webp","https://makeblur.com/img/appstore/pl/02-motion.webp","https://makeblur.com/img/appstore/pl/03-face.webp","https://makeblur.com/img/appstore/pl/04-box.webp","https://makeblur.com/img/appstore/pl/05-crystalize.webp","https://makeblur.com/img/appstore/pl/06-ghost.webp"],"featureList":["Rozmycie tła z automatycznym wykrywaniem obiektu","Zamazywanie twarzy","Ręczny pędzel rozmycia","Rozmycie całego zdjęcia","Style Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize","Przetwarzanie na urządzeniu"],"softwareVersion":"1.16.4","fileSize":"25.7MB","inLanguage":"pl","author":{"@type":"Organization","name":"Make Blur","url":"https://makeblur.com"},"url":"https://makeblur.com/pl/","downloadUrl":"https://apps.apple.com/app/id6749166426"}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Organization","name":"Make Blur","url":"https://makeblur.com","logo":"https://makeblur.com/img/logo.webp","description":"Make Blur — iPhone: tło, twarze, bokeh, motion i gaussian blur."}
+    {"@context":"https://schema.org","@type":"Organization","name":"Make Blur","url":"https://makeblur.com","logo":"https://makeblur.com/img/logo.webp","description":"Make Blur publikuje «Rozmycie tła na zdjęciu» (MakeBlur), darmową aplikację na iPhone’a, która rozmywa tło, twarze lub dowolną część zdjęcia po jego zrobieniu."}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebSite","name":"Make Blur","url":"https://makeblur.com/pl/","description":"Make Blur: tło i twarze na iPhone. Bokeh i 6 innych stylów.","potentialAction":{"@type":"SearchAction","target":"https://makeblur.com/pl/?q={search_term_string}","query-input":"required name=search_term_string"}}
+    {"@context":"https://schema.org","@type":"WebSite","name":"Make Blur","url":"https://makeblur.com/pl/","inLanguage":"pl","description":"Rozmycie tła zdjęć na iPhonie po ich zrobieniu: poradniki, najczęstsze pytania i pobieranie z App Store."}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"HowTo","name":"Jak rozmyć tło na iPhone w Make Blur","description":"Rozmycie tła i opcjonalnie twarzy na iPhone w Make Blur, z bokeh.","step":[{"@type":"HowToStep","name":"Zainstaluj Make Blur","text":"Wyszukaj Make Blur w App Store i pobierz aplikację na iOS. Start zajmuje chwilę.","url":"https://apps.apple.com/app/id6749166426"},{"@type":"HowToStep","name":"Otwórz zdjęcie","text":"Wybierz plik z galerii. Tam, gdzie to możliwe, aplikacja wykrywa tło automatycznie , więc mniej pracy z maskowaniem ręcznym."},{"@type":"HowToStep","name":"Wybierz blur i zapisz","text":"Wybierz bokeh, motion, gaussian lub inny z 7 stylów; opcjonalnie rozmycie twarzy; zapisz ."}]}
+    {"@context":"https://schema.org","@type":"HowTo","name":"Jak rozmyć tło na zdjęciu w iPhonie","description":"Rozmycie tła istniejącego zdjęcia: pobierz aplikację, wybierz, co rozmyć, ustaw siłę i zapisz na urządzeniu.","step":[{"@type":"HowToStep","name":"Pobierz aplikację","text":"Za darmo w App Store na iPhone’a z iOS 18.6 lub nowszym. Otwórz dowolne zdjęcie z biblioteki: zwykłe, selfie, screen albo otrzymany obrazek.","url":"https://apps.apple.com/app/id6749166426"},{"@type":"HowToStep","name":"Wybierz, co rozmyć","text":"Background automatycznie zostawia obiekt ostry. Faces ukrywa wszystkie wykryte twarze. Manual to pędzel do dowolnego obszaru. Full Photo rozmywa całe zdjęcie."},{"@type":"HowToStep","name":"Styl, siła, zapis","text":"Gaussian dla miękkiego rozmycia jak z obiektywu, Motion dla ruchu, Pixelate dla prywatności. Siłę ustawiasz suwakiem Radius, a Save zapisuje w Zdjęciach."}],"totalTime":"PT2M","tool":[{"@type":"HowToTool","name":"MakeBlur – Rozmycie tła na zdjęciu (aplikacja na iPhone’a)"}]}
     </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Jak rozmyć tło na iPhone?","acceptedAnswer":{"@type":"Answer","text":"Pobierz Make Blur , otwórz zdjęcie i pozwól aplikacji automatycznie wykryć tło (albo narysuj własną maskę). Następnie wybierz efekt — m.in. bokeh , motion blur lub rozmycie gaussa — i zapisz plik . W tej samej aplikacji możesz też rozmyć twarze dla prywatności."}},{"@type":"Question","name":"Jaka jest najlepsza aplikacja do rozmycia tła na iPhone?","acceptedAnswer":{"@type":"Answer","text":"Make Blur to dedykowana aplikacja do rozmycia tła i twarzy na iPhone, z automatycznym wykrywaniem tła , siedmioma typami rozmycia, w tym bokeh , motion blur i rozmyciem gaussa , oraz czytelnym interfejsem. Wcześni użytkownicy zwykle oceniają ją na ok. 4,5/5 gwiazdek."}},{"@type":"Question","name":"Jak rozmyć zdjęcie na iPhone?","acceptedAnswer":{"@type":"Answer","text":"Użyj Make Blur . Otwórz zdjęcie, wskaż obszar do rozmycia albo włącz auto-tło , w razie potrzeby wybierz rozmycie twarzy , a następnie zastosuj bokeh , motion blur , gaussian lub inny z siedmiu stylów i zapisz ."}},{"@type":"Question","name":"Czy mogę rozmyć tło zdjęcia za darmo?","acceptedAnswer":{"@type":"Answer","text":"Tak. Make Blur możesz pobrać bezpłatnie: w podstawowym pakiecie rozmywasz tło, rozmywasz twarze i używasz siedmiu efektów, m.in. bokeh, motion i gaussian. Część opcji zaawansowanych może być w zakupach w aplikacji ; podstawowa edycja zwykle działa bez płatności z góry."}},{"@type":"Question","name":"Jak rozmyć obraz (plik) na iPhone?","acceptedAnswer":{"@type":"Answer","text":"Pobierz Make Blur w App Store. Otwórz plik z galerii, włącz automatyczne wykrywanie tła albo narysuj maskę , w razie potrzeby użyj rozmycia twarzy , wybierz bokeh , motion blur , gaussian lub inny styl i zapisz przerobiony obraz na iPhone."}},{"@type":"Question","name":"Jakich efektów rozmycia używać, żeby rozmyć tło na iPhone?","acceptedAnswer":{"@type":"Answer","text":"W Make Blur do dyspozycji są m.in. motion blur , rozmycie gaussa (gaussian) , ghosting , pixelate , hexagonal , crystalize i bokeh . Bokeh daje wrażenie płytkiej głębi ostrości z miękimi, rozmytymi plamami światła. Wszystkie siedem stylów możesz zastosować do tła albo wybranych obszarów ."}},{"@type":"Question","name":"Dlaczego wybrać Make Blur zamiast innych aplikacji do rozmycia?","acceptedAnswer":{"@type":"Answer","text":"Make Blur łączy automatyczne wykrywanie tła , rozmycie twarzy (prywatność), siedem stylów, w tym bokeh , i model freemium z darmowymi narzędziami podstawowymi. Część konkurencji blokuje proste rozmycie subskrypcjami albo naciska reklamą , a Make Blur stawia na szybki, zrozumiały schemat: tło, a w razie potrzeby twarze."}},{"@type":"Question","name":"Jak Make Blur ma się do wbudowanego rozmycia (tryb portretowy) na iPhone?","acceptedAnswer":{"@type":"Answer","text":"Rozmycie w trybie portretowym iPhone zwykle odnosi się do ujęcia w momencie wykonania. Make Blur otwiera dowolne zdjęcie z galerii i oferuje m.in. siedem efektów, rozmycie twarzy oraz wykrywanie tła — w wielu przypadkach daje więcej kontroli i różnorodności niż tylko jedno ustawienie systemu."}},{"@type":"Question","name":"Czy Make Blur jest lepsza od innych aplikacji do rozmycia?","acceptedAnswer":{"@type":"Answer","text":"Make Blur oferuje m.in. uczciwy freemium (bez wymuszonej subskrypcji), siedem typów rozmycia z bokeh (często więcej niż u części konkurencji), rozmycie twarzy i auto-tło , ok. 4,5 gwiazdki w ocenach wczesnych użytkowników i 10&nbsp;000+ pobrań . Wiele innych programów wciąga w płatne bariery albo ogranicza darmową wersję mocniej."}},{"@type":"Question","name":"Jak rozmyć twarze na zdjęciu (na iPhone)?","acceptedAnswer":{"@type":"Answer","text":"W Make Blur otwórz zdjęcie, wybierz opcję rozmycia twarzy i zastosuj efekt do wykrytych albo zaznaczonych twarzy przed zapisem . To rozwiązanie prywatnościowe m.in. dla zdjęć grupowych lub w przestrzeni publicznej, bez komputera stacjonarnego ."}},{"@type":"Question","name":"Co robi filtr Bokeh w Make Blur?","acceptedAnswer":{"@type":"Answer","text":"Filtr bokeh naśladuje płytką głębię ostrości: ostry obiekt główny i miękkie tło z naturalnie wyglądającymi, rozproszonymi punktami światła (jak szybki obiektyw portretowy). Jeden z siedmiu stylów, obok m.in. motion, gaussian, ghosting, pixelate, hexagonal i crystalize."}},{"@type":"Question","name":"Czy mogę rozmyć tylko fragment zdjęcia?","acceptedAnswer":{"@type":"Answer","text":"Tak. Możesz połączyć automatyczne tło z narzędziem rysowania , wskazując, co ma być mocniej rozmyte, albo dopracować maskę, zanim zapiszesz wynik ."}},{"@type":"Question","name":"Czy to się nadaje do ukrywania twarzy, tablic rejestracyjnych lub wrażliwych danych?","acceptedAnswer":{"@type":"Answer","text":"Tak, w zakresie edycji zdjęć: rozmycie twarzy albo mocne rozmycie / pikselizację ograniczają czytelność szczegółów (także tablic rejestracyjnych). To nie jest porada prawna — w kwestiach prawnych lub mocno wrażliwych zasięgnij opinii u fachowca w Twojej jurysdykcji."}},{"@type":"Question","name":"Czy moje dane i zdjęcia w Make Blur są bezpieczne?","acceptedAnswer":{"@type":"Answer","text":"Zgodnie z intencją dewelopera duża część obróbki ma miejsce na iPhone, w samej aplikacji . Aktualne reguły przechowywania, transmisji i prywatności znajdziesz w polityce prywatności na stronie i w opisie w App Store — warto je przeczytać przed użyciem."}}]}
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Jak rozmyć tło na zdjęciu, które już zrobiłem iPhonem?","acceptedAnswer":{"@type":"Answer","text":"Otwórz zdjęcie w aplikacji, zostaw kartę Background, żeby obiekt został wykryty, wybierz Gaussian, zwiększaj Radius do wymaganej miękkości i stuknij Save. Działa z każdym zdjęciem z biblioteki, bez trybu Portret."}},{"@type":"Question","name":"Czy aplikacja Zdjęcia rozmyje tło zwykłego zdjęcia?","acceptedAnswer":{"@type":"Answer","text":"Tylko jeśli zdjęcie zrobiono w trybie Portret — wtedy w «Edycji» zmienisz głębię. Zwykłe zdjęcia, screeny i otrzymane obrazy nie mają danych o głębi, a Zdjęcia nie oferują rozmycia tła. Do tego służy ta aplikacja."}},{"@type":"Question","name":"Jak zamazać twarze bez Apple Intelligence?","acceptedAnswer":{"@type":"Answer","text":"Apple Intelligence nie działa po polsku, a narzędzie Clean Up w Zdjęciach służy do usuwania obiektów i wymaga iPhone’a 15 Pro lub nowszego. W aplikacji karta Faces wykrywa wszystkie twarze naraz i je rozmywa — na każdym iPhonie z iOS 18.6."}},{"@type":"Question","name":"Jak rozmyć tylko część zdjęcia?","acceptedAnswer":{"@type":"Answer","text":"W karcie Manual przeciągnij palcem po obszarze: tekst, tablica rejestracyjna, osoba w tłumie. Rozmywa się tylko to, co zamalujesz; siłę ustawiasz suwakiem Radius."}},{"@type":"Question","name":"Jak zamazać tablicę rejestracyjną do ogłoszenia na Otomoto lub OLX?","acceptedAnswer":{"@type":"Answer","text":"Otwórz zdjęcie, karta Manual, styl Pixelate lub Box, zamaluj tablicę i zwiększaj Radius, aż żaden znak nie będzie czytelny. Zapisz i wgraj tę kopię do ogłoszenia. Oryginał nie opuszcza Twojego iPhone’a."}},{"@type":"Question","name":"Jak zamazać tekst na screenie?","acceptedAnswer":{"@type":"Answer","text":"W karcie Manual zamaluj linie z adresem, numerem, numerem konta albo rozmową, wybierz Pixelate i zapisz kopię. Powiększ, żeby sprawdzić, że nic nie da się odczytać."}},{"@type":"Question","name":"Jak dodać motion blur do zdjęcia?","acceptedAnswer":{"@type":"Answer","text":"Wybierz styl Motion: Radius decyduje o długości smugi, Angle o kierunku. W karcie Background porusza się tylko tło, a obiekt pozostaje ostry."}},{"@type":"Question","name":"Czym różni się rozmycie gaussowskie od bokeh?","acceptedAnswer":{"@type":"Answer","text":"Rozmycie gaussowskie to równomierne, miękkie rozmycie, jak z nieostrego obiektywu. Bokeh opisuje wygląd punktów światła w rozmytej części. W aplikacji Gaussian daje czyste tło portretowe, a Ghosting na Full Photo — bardziej rozmarzony efekt."}},{"@type":"Question","name":"Jak rozmyć całe zdjęcie?","acceptedAnswer":{"@type":"Answer","text":"Karta Full Photo rozmywa cały obraz: wybierz styl i siłę — na tapety, tła relacji albo abstrakcyjne grafiki. Bez instalacji całe zdjęcie rozmyje też edytor online na tej stronie."}},{"@type":"Question","name":"Czy aplikacja jest darmowa?","acceptedAnswer":{"@type":"Answer","text":"Tak. Pobierasz ją za darmo, a podstawowe rozmycie tła jest w zestawie. Zaawansowane style i narzędzia są dostępne opcjonalnie w ramach zakupów w aplikacji."}},{"@type":"Question","name":"Czy moje zdjęcia są wysyłane na serwer?","acceptedAnswer":{"@type":"Answer","text":"Nie. Wszystko jest przetwarzane na iPhonie, a rozmycie nie wymaga internetu — Twoje zdjęcia nie opuszczają urządzenia."}},{"@type":"Question","name":"Na jakich iPhone’ach działa aplikacja?","acceptedAnswer":{"@type":"Answer","text":"Na każdym iPhonie z iOS 18.6 lub nowszym. Nie potrzebujesz Apple Intelligence ani aparatu z trybem Portret."}}]}
     </script>
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Strona główna","item":"https://makeblur.com/pl/"}]}

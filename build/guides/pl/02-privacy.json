@@ -1,0 +1,430 @@
+[
+  {
+    "slug": "zamazac-twarz-na-zdjeciu.html",
+    "keyword": "zamazać twarz na zdjęciu",
+    "cluster": "privacy",
+    "card_title": "Zamazać twarz na zdjęciu",
+    "card_excerpt": "Dzieci, znajomi, przechodnie: rozmyj wszystkie twarze jednym dotknięciem przed publikacją, bez Apple Intelligence.",
+    "card_image": "/img/appstore/pl/03-face.webp",
+    "card_image_alt": "Rozmyte twarze w siatce portretów",
+    "meta_title": "Jak zamazać twarz na zdjęciu iPhonem, także kilka naraz",
+    "meta_description": "Jak zamazać twarz na zdjęciu iPhonem przed publikacją: wszystkie twarze wykryte jednym dotknięciem, bez Apple Intelligence (nie ma jej po polsku). Za darmo.",
+    "h1": "Jak zamazać twarz na zdjęciu iPhonem",
+    "answer": "Aby zamazać twarze na zdjęciu iPhonem, otwórz je w MakeBlur i wybierz kartę Faces (twarze): aplikacja wykrywa wszystkie twarze i rozmywa je naraz. Zwiększ Radius, aż nikogo nie da się rozpoznać, albo wybierz Pixelate dla mozaiki, i stuknij Save. Jeśli chcesz zamazać tylko jedną twarz, użyj karty Manual i zamaluj ją palcem.",
+    "intro": "Powodów, by zamazać twarz, jest wiele: twarze dzieci na zdjęciu z wycieczki szkolnej, znajomi, którzy nie chcą być w sieci, przypadkowi przechodnie na zdjęciu z wakacji. RODO i prawo do wizerunku sprawiają, że coraz więcej osób ukrywa twarze przed publikacją. Oto jak zrobić to w kilka sekund.",
+    "image": "/img/appstore/pl/03-face.webp",
+    "image_alt": "Karta Faces z Radius 80: osiem twarzy rozmytych",
+    "native": {
+      "heading": "Co iPhone potrafi sam",
+      "paragraphs": [
+        "Aplikacja Zdjęcia nie ma osobnej funkcji do rozmywania ani pikselizacji twarzy. Apple Intelligence nie działa po polsku, a jej narzędzie Clean Up służy do usuwania obiektów, nie do ukrywania twarzy.",
+        "Zostają kształty i pióro w Oznaczeniach: zakrywają twarz, ale wynik wygląda niechlujnie."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Wszystkie twarze czy jedna",
+        "paragraphs": [
+          "Faces znajduje każdą twarz na zdjęciu i rozmywa wszystkie: właściwy wybór do zdjęć grupowych, klasowych i z imprez. Jeśli chcesz, żeby ktoś był widoczny (na przykład ty), użyj Manual i zamaluj tylko twarze do ukrycia.",
+          "Zrzut «Ukryj twarze przed udostępnieniem» pokazuje osiem portretów rozmytych jednym dotknięciem."
+        ]
+      },
+      {
+        "heading": "Rozmycie czy piksele?",
+        "paragraphs": [
+          "Lekkie rozmycie może pozostawić osobę rozpoznawalną dla kogoś, kto dobrze ją zna. Dla prawdziwej prywatności użyj wysokiego Radius albo stylu Pixelate. Dla łagodniejszego efektu w mediach społecznościowych: Gaussian o dużej sile."
+        ]
+      }
+    ],
+    "steps_title": "Zamazywanie twarzy w aplikacji",
+    "steps": [
+      {
+        "title": "Otwórz zdjęcie",
+        "description": "Wybierz obraz z osobami, które chcesz ukryć."
+      },
+      {
+        "title": "Karta Faces",
+        "description": "Wszystkie twarze zostają wykryte i rozmyte."
+      },
+      {
+        "title": "Siła",
+        "description": "Zwiększ Radius albo wybierz Pixelate, aż nikogo nie da się rozpoznać."
+      },
+      {
+        "title": "Save",
+        "description": "Publikuj rozmytą kopię, nie oryginał."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Sprawdź małe twarze w tle i odbicia w szybach: jeśli którejś brakuje, dodaj ją w Manual.",
+      "U dzieci zamaż też szczegóły jak imię na koszulce czy logo szkoły.",
+      "Po zapisie powiększ zdjęcie, by mieć pewność, że nikogo nie da się rozpoznać."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Jak zamazać twarz bez Apple Intelligence?",
+        "answer": "Kartą Faces w MakeBlur, która działa na każdym iPhonie z iOS 18.6, albo Manual dla jednej twarzy."
+      },
+      {
+        "question": "Czy da się odkryć zamazaną twarz?",
+        "answer": "Nie w kopii zapisanej z dużą siłą: szczegóły zostają usunięte. Dlatego nigdy nie publikuj oryginału."
+      },
+      {
+        "question": "Czy działa na screenach z wideorozmowy?",
+        "answer": "Tak, Faces wykrywa twarze także na screenach."
+      }
+    ],
+    "related": [
+      "rozmyc-czesc-zdjecia-iphone.html",
+      "zapikselowac-zdjecie-iphone.html",
+      "zamazac-tablice-rejestracyjna.html",
+      "aplikacja-rozmycie-zdjec-iphone.html"
+    ],
+    "cta_title": "Twarze chronione przed publikacją",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu», wybierz Faces i zapisz. Za darmo, na iPhonie, bez wysyłania.",
+    "cta_text": "Pobierz z App Store"
+  },
+  {
+    "slug": "rozmyc-czesc-zdjecia-iphone.html",
+    "keyword": "rozmyć część zdjęcia",
+    "cluster": "privacy",
+    "card_title": "Rozmyć część zdjęcia na iPhonie",
+    "card_excerpt": "Adres, numer, osoba w tłumie: zamaluj palcem i rozmyje się tylko ten obszar.",
+    "card_image": "/img/appstore/pl/05-crystalize.webp",
+    "card_image_alt": "Obszar zdjęcia rozmyty pędzlem",
+    "meta_title": "Jak rozmyć część zdjęcia na iPhonie palcem (za darmo)",
+    "meta_description": "Jak rozmyć tylko część zdjęcia na iPhonie: zamaluj obszar palcem i wybierz Gaussian albo Pixelate. Do tekstu, numerów, osób czy przedmiotów. Za darmo i offline.",
+    "h1": "Jak rozmyć tylko część zdjęcia na iPhonie",
+    "answer": "Aby rozmyć część zdjęcia na iPhonie, otwórz je w MakeBlur, wybierz kartę Manual (pędzel) i przeciągnij palcem po obszarze, który chcesz ukryć. Rozmywa się tylko to, co zamalujesz. Wybierz styl — Gaussian dla miękkiego efektu albo Pixelate dla prywatności — ustaw Radius i stuknij Save.",
+    "intro": "Czasem nie chodzi o tło ani o twarz, tylko o konkretny fragment: numer domu, identyfikator, kartkę na biurku, osobę w tłumie. Aplikacja Zdjęcia nie ma pędzla rozmycia, więc potrzebujesz narzędzia, które to potrafi. Oto jak.",
+    "image": "/img/appstore/pl/05-crystalize.webp",
+    "image_alt": "Mozaika nałożona na obszar zdjęcia",
+    "native": {
+      "heading": "Co iPhone potrafi sam",
+      "paragraphs": [
+        "W Oznaczeniach możesz zakryć obszar pełnym kształtem albo piórem. Szczegół znika, ale zostaje widoczna łata. Clean Up (tylko z Apple Intelligence, której nie ma po polsku) usuwa obiekty zamiast je rozmywać i czasem dziwnie uzupełnia tło. Prawdziwego pędzla rozmycia w Zdjęciach nie ma."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Jak dobrze zamalować obszar",
+        "paragraphs": [
+          "Przed malowaniem powiększ dwoma palcami: pędzel dokładniej podąża za palcem. Zostaw mały margines wokół obiektu, zwłaszcza przy tekście. Jeśli coś pójdzie nie tak, zacznij od nowa: oryginał zmienia się dopiero po zapisie."
+        ]
+      },
+      {
+        "heading": "Jaki styl wybrać",
+        "paragraphs": [
+          "Gaussian: miękki, mało widoczny, dobry do szczegółów estetycznych (kosz, znak). Pixelate lub Box z wysokim Radius: do danych, które naprawdę muszą zniknąć. Crystallize lub Hexagonal: efekt graficzny, gdy rozmycie ma być widoczne."
+        ]
+      }
+    ],
+    "steps_title": "Rozmycie obszaru w aplikacji",
+    "steps": [
+      {
+        "title": "Otwórz zdjęcie",
+        "description": "Wybierz obraz w MakeBlur."
+      },
+      {
+        "title": "Karta Manual",
+        "description": "Powiększ i przeciągnij palcem po obszarze."
+      },
+      {
+        "title": "Styl i Radius",
+        "description": "Gaussian dla subtelnego efektu, Pixelate dla prywatności."
+      },
+      {
+        "title": "Save",
+        "description": "Kopia z rozmytym obszarem trafia do Zdjęć."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Łącz karty: najpierw Background dla tła, potem Manual dla szczegółu.",
+      "Przy tekście zawsze używaj dużej siły: duże litery pozostają czytelne przy słabym rozmyciu.",
+      "Uważaj na odbicia: lustro może pokazać to, co właśnie ukryłeś."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Czy mogę rozmyć kilka miejsc na jednym zdjęciu?",
+        "answer": "Tak, w Manual zamalujesz tyle obszarów, ile chcesz, przed zapisem."
+      },
+      {
+        "question": "Czy działa na screenach?",
+        "answer": "Tak, screeny otwierają się jak każde inne zdjęcie."
+      },
+      {
+        "question": "Czy nierozmyta część traci na jakości?",
+        "answer": "Nie, reszta zdjęcia jest identyczna z oryginałem."
+      }
+    ],
+    "related": [
+      "zamazac-tekst-screen-iphone.html",
+      "zamazac-tablice-rejestracyjna.html",
+      "zapikselowac-zdjecie-iphone.html",
+      "zamazac-twarz-na-zdjeciu.html"
+    ],
+    "cta_title": "Rozmyj tylko to, co chcesz",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu», wybierz Manual i maluj. Za darmo, na iPhonie.",
+    "cta_text": "Pobierz z App Store"
+  },
+  {
+    "slug": "zamazac-tablice-rejestracyjna.html",
+    "keyword": "zamazać tablicę rejestracyjną",
+    "cluster": "privacy",
+    "card_title": "Zamazać tablicę rejestracyjną na zdjęciu",
+    "card_excerpt": "Do ogłoszenia na Otomoto czy OLX: numer nieczytelny, ogłoszenie schludne.",
+    "card_image": "/img/appstore/pl/05-crystalize.webp",
+    "card_image_alt": "Tablica rejestracyjna ukryta pikselami",
+    "meta_title": "Zamazać tablicę rejestracyjną na zdjęciu iPhonem (gratis)",
+    "meta_description": "Jak zamazać tablicę rejestracyjną na zdjęciu do ogłoszenia na Otomoto lub OLX: zamaluj, zapikseluj i zapisz. Na iPhonie, za darmo, bez wysyłania zdjęć do sieci.",
+    "h1": "Jak zamazać tablicę rejestracyjną na zdjęciu iPhonem",
+    "answer": "Aby zamazać tablicę rejestracyjną na zdjęciu, otwórz je w MakeBlur, wybierz kartę Manual, przeciągnij palcem po tablicy, wybierz styl Pixelate lub Box i zwiększaj Radius, aż żaden znak nie będzie czytelny. Stuknij Save i wgraj tę kopię do ogłoszenia.",
+    "intro": "Kto sprzedaje auto lub motocykl na Otomoto czy OLX — albo po prostu pokazuje je na Instagramie — często zasłania tablice. W polskim prawie numer rejestracyjny nie jest daną osobową, więc nie ma takiego obowiązku, ale wielu sprzedających robi to dla spokoju: przeciw ciekawskim, klonowaniu tablic czy podszywaniu się pod ogłoszenie. Ogłoszenie powinno jednak wyglądać porządnie: czarny prostokąt na zderzaku wygląda tanio. Czysta pikselizacja rozwiązuje oba problemy.",
+    "image": "/img/appstore/pl/05-crystalize.webp",
+    "image_alt": "Pikselizacja obszaru zdjęcia w aplikacji",
+    "native": {
+      "heading": "Co da się zrobić w Zdjęciach",
+      "paragraphs": [
+        "W Oznaczeniach możesz zakryć tablicę kształtem albo zamalować piórem. Jest ukryta, ale łata rzuca się w oczy, a półprzezroczysty zakreślacz czasem przepuszcza znaki. Wbudowany edytor nie potrafi rozmyć ani zapikselować obszaru."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Piksele czy rozmycie?",
+        "paragraphs": [
+          "Dla tablic najpewniejsze jest Pixelate lub Box z wysokim Radius — duże bloki usuwają znaki. Lekki Gaussian może zostawić numer do odgadnięcia, zwłaszcza na zdjęciach w wysokiej rozdzielczości.",
+          "Crystallize też zasłoni tablicę, ale wygląda dekoracyjnie; do ogłoszenia lepsza jest neutralna pikselizacja."
+        ]
+      },
+      {
+        "heading": "Gdy zdjęć jest dużo",
+        "paragraphs": [
+          "Ogłoszenie ma często 10–20 zdjęć, a tablica widać na trzech, czterech. Edytuj je po kolei: otwórz, Manual, zamaluj, Save — po pół minuty każde. Sprawdź też odbicia: czasem numer widać w szybie wystawowej albo przez przednią szybę na zdjęciu wnętrza."
+        ]
+      }
+    ],
+    "steps_title": "Zamazywanie tablicy w aplikacji",
+    "steps": [
+      {
+        "title": "Otwórz zdjęcie auta",
+        "description": "Wybierz zdjęcie, na którym widać tablicę."
+      },
+      {
+        "title": "Karta Manual",
+        "description": "Powiększ i zamaluj tablicę z małym marginesem."
+      },
+      {
+        "title": "Pixelate i Radius",
+        "description": "Zwiększaj siłę, aż po powiększeniu żaden znak nie będzie czytelny."
+      },
+      {
+        "title": "Save",
+        "description": "Wgraj zapisaną kopię do ogłoszenia."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Zakryj całą tablicę, nie tylko znaki: wyróżnik powiatu też coś mówi.",
+      "Sprawdź zdjęcia z przodu i z tyłu: samochód ma tablice na obu zderzakach.",
+      "Jeśli w kadrze jest dowód rejestracyjny albo numer VIN, ukryj je tak samo — chyba że celowo podajesz VIN w ogłoszeniu."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Czy muszę zasłaniać tablicę w ogłoszeniu?",
+        "answer": "Nie ma takiego obowiązku — numer rejestracyjny w polskim prawie nie jest daną osobową. Wielu sprzedających i tak to robi dla spokoju. Decyzja należy do ciebie. To nie jest porada prawna."
+      },
+      {
+        "question": "Czy zapikselowaną tablicę da się odtworzyć?",
+        "answer": "Przy dużych blokach nie: szczegóły zostają usunięte z zapisanej kopii. Nie publikuj oryginału."
+      },
+      {
+        "question": "Czy zdjęcia są gdzieś wysyłane?",
+        "answer": "Nie, wszystko dzieje się na iPhonie, bez internetu."
+      }
+    ],
+    "related": [
+      "rozmyc-czesc-zdjecia-iphone.html",
+      "zapikselowac-zdjecie-iphone.html",
+      "zamazac-tekst-screen-iphone.html",
+      "zamazac-twarz-na-zdjeciu.html"
+    ],
+    "cta_title": "Tablica ukryta, ogłoszenie schludne",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu», zamaluj tablicę w Manual i zapisz. Za darmo, prosto na iPhonie.",
+    "cta_text": "Pobierz z App Store"
+  },
+  {
+    "slug": "zamazac-tekst-screen-iphone.html",
+    "keyword": "zamazać tekst na screenie",
+    "cluster": "privacy",
+    "card_title": "Zamazać tekst na screenie",
+    "card_excerpt": "Rozmowy, adresy, numer konta: zrób tekst nieczytelnym, zanim udostępnisz screena.",
+    "card_image": "/img/appstore/pl/05-crystalize.webp",
+    "card_image_alt": "Zapikselowany tekst na screenie",
+    "meta_title": "Jak zamazać tekst na screenie w iPhonie (bezpiecznie)",
+    "meta_description": "Jak zamazać tekst, imiona i numery na screenie z iPhone’a przed udostępnieniem: pikselizacja, której nie da się odkryć zmianą jasności. Za darmo, bez wysyłania.",
+    "h1": "Jak zamazać tekst na screenie w iPhonie",
+    "answer": "Aby zamazać tekst na screenie, otwórz go w MakeBlur, wybierz kartę Manual, przeciągnij palcem po liniach do ukrycia (imię, numer, adres, wiadomość), wybierz Pixelate i zwiększ Radius. Stuknij Save i udostępnij kopię. Przed wysłaniem powiększ, by sprawdzić, że nic nie jest czytelne.",
+    "intro": "Screeny wysyłamy bez przerwy: rozmowę z Messengera, żeby zapytać o radę, potwierdzenie zamówienia, przelew, błąd aplikacji. Prawie zawsze widać na nich imiona, numery telefonów, adresy albo kody. Ukrycie ich jest proste, ale trzeba zrobić to dobrze: niektóre metody zostawiają tekst czytelny.",
+    "image": "/img/appstore/pl/05-crystalize.webp",
+    "image_alt": "Zapikselowany obszar, przez który treść jest nieczytelna",
+    "native": {
+      "heading": "Granica Oznaczeń",
+      "paragraphs": [
+        "Oznaczenia mają zakreślacz, ale jest półprzezroczysty: po zwiększeniu kontrastu lub jasności tekst pod spodem może wrócić. Pióro z pełną linią działa lepiej, jeśli przejedziesz kilka razy, a pełny prostokąt jest bezpieczny, ale brzydki. Zapikselowanie obszaru nie jest możliwe."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Dlaczego piksele, a nie lekkie rozmycie",
+        "paragraphs": [
+          "Czarny tekst na białym tle jest odporny na lekkie rozmycie: słowa da się odgadnąć po kształcie. Z Pixelate i wysokim Radius każda litera staje się blokiem, a treść znika. Na screenie pikselizacja jest też najbardziej czytelna dla odbiorcy: od razu widać, że celowo coś ukryłeś."
+        ]
+      },
+      {
+        "heading": "Co zwykle się ukrywa",
+        "paragraphs": [
+          "W rozmowach: imię i zdjęcie kontaktu, numery telefonów. W zamówieniach: adres, e-mail, numer zamówienia. W bankach: numer konta, saldo, nazwę odbiorcy. W dokumentach: PESEL i podpis."
+        ]
+      }
+    ],
+    "steps_title": "Zamazywanie tekstu w aplikacji",
+    "steps": [
+      {
+        "title": "Otwórz screena",
+        "description": "Znajdziesz go w albumie Zrzuty ekranu."
+      },
+      {
+        "title": "Karta Manual",
+        "description": "Zamaluj linie do ukrycia, z marginesem."
+      },
+      {
+        "title": "Pixelate",
+        "description": "Zwiększaj Radius, aż po powiększeniu nic nie będzie czytelne."
+      },
+      {
+        "title": "Save",
+        "description": "Udostępnij kopię, nie oryginał."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Nie zapomnij o górnym pasku: nazwy kontaktów i podglądy powiadomień często trafiają na screena.",
+      "Ukryj całą linię, a nie tylko część numeru.",
+      "Po zapisie usuń oryginał, jeśli nie jest ci potrzebny."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Czy zakreślacz w Oznaczeniach jest bezpieczny?",
+        "answer": "Nie do końca: jest półprzezroczysty i tekst może wrócić po zmianie jasności. Lepiej zapikselować albo użyć pełnego kształtu."
+      },
+      {
+        "question": "Czy zapikselowany tekst da się odzyskać?",
+        "answer": "Przy dużych blokach nie. Przy lekkiej pikselizacji i dużym tekście czasem tak: używaj dużej siły."
+      },
+      {
+        "question": "Czy działa z długimi screenami?",
+        "answer": "Działa z obrazami w bibliotece. Screen całej strony zapisany jako PDF trzeba najpierw zapisać jako obraz."
+      }
+    ],
+    "related": [
+      "rozmyc-czesc-zdjecia-iphone.html",
+      "zapikselowac-zdjecie-iphone.html",
+      "zamazac-tablice-rejestracyjna.html",
+      "zamazac-twarz-na-zdjeciu.html"
+    ],
+    "cta_title": "Screeny, które udostępnisz bez obaw",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu», zamaluj tekst w Manual i zapikseluj. Za darmo, offline.",
+    "cta_text": "Pobierz z App Store"
+  },
+  {
+    "slug": "zapikselowac-zdjecie-iphone.html",
+    "keyword": "zapikselować zdjęcie iPhone",
+    "cluster": "privacy",
+    "card_title": "Zapikselować zdjęcie na iPhonie",
+    "card_excerpt": "Mozaika na twarzach, tekście lub tle: Pixelate, Hexagonal i Crystallize w praktyce.",
+    "card_image": "/img/appstore/pl/05-crystalize.webp",
+    "card_image_alt": "Tło zamienione w mozaikę stylem Crystallize",
+    "meta_title": "Jak zapikselować zdjęcie na iPhonie: twarze, tekst lub tło",
+    "meta_description": "Jak zapikselować zdjęcie na iPhonie: cały obraz, tylko tło, twarze albo wybrany obszar. Style Pixelate, Hexagonal i Crystallize, na urządzeniu i za darmo.",
+    "h1": "Jak zapikselować zdjęcie na iPhonie",
+    "answer": "Aby zapikselować zdjęcie na iPhonie, otwórz je w MakeBlur, wybierz, gdzie nałożyć efekt (Faces dla twarzy, Manual dla obszaru, Background dla tła, Full Photo dla całości), zaznacz styl Pixelate i ustaw wielkość bloków suwakiem Radius. Stuknij Save, by zapisać zapikselowaną kopię.",
+    "intro": "Pikselizacja to zamiana części obrazu w duże kwadraty: klasyczny sposób na ukrycie twarzy i danych, a jednocześnie modny efekt graficzny. iPhone nie ma wbudowanego filtra mozaiki. Oto jak nałożyć ją tam, gdzie chcesz.",
+    "image": "/img/appstore/pl/05-crystalize.webp",
+    "image_alt": "Styl Crystallize na tle: mozaika kryształów",
+    "native": {
+      "heading": "Co iPhone potrafi sam",
+      "paragraphs": [
+        "Zdjęcia nie mają filtra mozaiki. Oznaczenia potrafią tylko zakryć, a Clean Up (Apple Intelligence, bez języka polskiego) usuwa obiekty. Aby zapikselować tekst, tło albo cały obraz, potrzebujesz aplikacji."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Trzy style mozaiki",
+        "paragraphs": [
+          "Pixelate: klasyczne kwadraty, najpewniejsze dla prywatności. Hexagonal: sześciokątne komórki, bardziej nowocześnie. Crystallize: nieregularne kryształy, efekt artystyczny — jak na zrzucie «Pikselizacja jednym dotknięciem», gdzie tło staje się kryształami, a dziewczyna pozostaje ostra."
+        ]
+      },
+      {
+        "heading": "Prywatność czy estetyka",
+        "paragraphs": [
+          "Aby ukryć: Pixelate z dużymi blokami w Faces lub Manual. Jako efekt graficzny: Crystallize lub Hexagonal w Background, żeby obiekt wyróżniał się na tle mozaiki."
+        ]
+      }
+    ],
+    "steps_title": "Pikselizacja w aplikacji",
+    "steps": [
+      {
+        "title": "Otwórz zdjęcie",
+        "description": "Dowolny obraz lub screen."
+      },
+      {
+        "title": "Wybierz kartę",
+        "description": "Faces, Manual, Background lub Full Photo."
+      },
+      {
+        "title": "Styl Pixelate",
+        "description": "Albo Hexagonal czy Crystallize; wielkość bloków ustaw Radius."
+      },
+      {
+        "title": "Save",
+        "description": "Zapisz zapikselowaną kopię."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Większe bloki = więcej prywatności.",
+      "Do kreatywnego posta spróbuj Crystallize na tle z ostrym obiektem.",
+      "Sprawdź, powiększając: drobne szczegóły muszą całkiem zniknąć."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Zapikselować czy spikselować?",
+        "answer": "W praktyce używa się różnych form — «zapikselować», «spikselować», «pikselizacja» — i znaczą to samo."
+      },
+      {
+        "question": "Czy mogę zapikselować tylko tło?",
+        "answer": "Tak: karta Background ze stylem Pixelate lub Crystallize; obiekt pozostaje ostry."
+      },
+      {
+        "question": "Czy moje zdjęcia pozostają prywatne?",
+        "answer": "Tak, przetwarzanie odbywa się na iPhonie i nie wymaga internetu."
+      }
+    ],
+    "related": [
+      "zamazac-twarz-na-zdjeciu.html",
+      "zamazac-tekst-screen-iphone.html",
+      "zamazac-tablice-rejestracyjna.html",
+      "efekt-rozmycia-zdjecie.html"
+    ],
+    "cta_title": "Mozaika tam, gdzie chcesz",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu»: Pixelate, Hexagonal i Crystallize w każdym trybie. Za darmo do pobrania.",
+    "cta_text": "Pobierz z App Store"
+  }
+]

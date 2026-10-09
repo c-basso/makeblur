@@ -1,0 +1,258 @@
+[
+  {
+    "slug": "effetto-mosso-foto.html",
+    "keyword": "effetto mosso foto",
+    "cluster": "effects",
+    "card_title": "Effetto mosso (motion blur) sulle foto",
+    "card_excerpt": "Scia di movimento sullo sfondo, soggetto nitido: velocità e dinamismo con Radius e Angle.",
+    "card_image": "/img/appstore/it/02-motion.webp",
+    "card_image_alt": "Effetto mosso dietro una donna con occhiali da sole",
+    "meta_title": "Effetto mosso sulle foto con iPhone (motion blur) in 4 passi",
+    "meta_description": "Come aggiungere l’effetto mosso (motion blur) a una foto su iPhone: scia sullo sfondo, soggetto nitido, direzione e lunghezza regolabili. Gratis e offline.",
+    "h1": "Effetto mosso sulle foto con iPhone (motion blur)",
+    "answer": "Per aggiungere l’effetto mosso a una foto su iPhone, aprila in MakeBlur, lascia la scheda Background così il soggetto resta nitido, scegli lo stile Motion, regola con Radius la lunghezza della scia e con Angle la direzione, poi tocca Save. Lo sfondo sembra in movimento, la persona resta ferma e a fuoco.",
+    "intro": "L’effetto mosso, in inglese motion blur, dà velocità a qualsiasi scatto: un ciclista, un’auto, una ballerina, o anche solo un ritratto per un post più dinamico. In fotografia si ottiene con tempi lunghi e la tecnica del panning; con l’iPhone puoi aggiungerlo dopo, scegliendo tu direzione e intensità.",
+    "image": "/img/appstore/it/02-motion.webp",
+    "image_alt": "Stile Motion, Radius 65: lo sfondo ha una scia, il soggetto è nitido",
+    "native": {
+      "heading": "Cosa fa iPhone da solo",
+      "paragraphs": [
+        "Le Live Photo hanno l’effetto «Esposizione lunga», che crea una scia unendo i fotogrammi: funziona solo se qualcosa si muoveva davvero durante lo scatto e mosso viene tutto ciò che si muoveva, non lo sfondo che scegli tu. Per le foto normali, Foto non offre un effetto mosso."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Radius e Angle",
+        "paragraphs": [
+          "Radius è la lunghezza della scia: valori bassi per un movimento accennato, alti per la sensazione di velocità. Angle è la direzione: orizzontale per auto e corridori, inclinata per salti e tuffi, verticale per pioggia o cadute. Lo screenshot «Effetto mosso per l’azione» usa Radius 65."
+        ]
+      },
+      {
+        "heading": "Sfondo mosso o foto intera",
+        "paragraphs": [
+          "Con Background si muove solo lo sfondo, il classico effetto panning. Con Full Photo tutta l’immagine prende la scia: utile per copertine, sfondi astratti o un look sognante."
+        ]
+      }
+    ],
+    "steps_title": "Aggiungere l’effetto mosso nell’app",
+    "steps": [
+      {
+        "title": "Apri la foto",
+        "description": "Meglio se il soggetto è ben separato dallo sfondo."
+      },
+      {
+        "title": "Scheda Background",
+        "description": "Il soggetto resta fermo e nitido."
+      },
+      {
+        "title": "Stile Motion",
+        "description": "Radius per la lunghezza, Angle per la direzione."
+      },
+      {
+        "title": "Save",
+        "description": "Salva la copia con l’effetto."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "Allinea Angle alla direzione in cui si muove il soggetto: l’effetto è più credibile.",
+      "Su sfondi con luci di città la scia diventa una striscia di colore molto d’impatto.",
+      "Non esagerare con i ritratti: un Radius medio basta per un tocco dinamico."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Cos’è il motion blur?",
+        "answer": "È il nome inglese dell’effetto mosso: una scia che simula il movimento."
+      },
+      {
+        "question": "Posso scegliere la direzione del movimento?",
+        "answer": "Sì, con il cursore Angle dello stile Motion."
+      },
+      {
+        "question": "Funziona su una foto già scattata?",
+        "answer": "Sì, su qualsiasi foto della libreria, anche senza Live Photo."
+      }
+    ],
+    "related": [
+      "effetto-sfocato-foto.html",
+      "sfocare-sfondo-foto-iphone.html",
+      "effetto-bokeh-iphone.html",
+      "sfocatura-gaussiana-iphone.html"
+    ],
+    "cta_title": "Velocità in ogni foto",
+    "cta_body": "Scarica «Sfocare Sfondo Foto», scegli Motion e regola Angle. Gratis, sull’iPhone.",
+    "cta_text": "Scarica su App Store"
+  },
+  {
+    "slug": "effetto-bokeh-iphone.html",
+    "keyword": "effetto bokeh iPhone",
+    "cluster": "effects",
+    "card_title": "Effetto bokeh su iPhone",
+    "card_excerpt": "Sfondo morbido e luci sfumate dopo lo scatto: Gaussian per il ritratto, Ghosting per un look sognante.",
+    "card_image": "/img/appstore/it/06-ghost.webp",
+    "card_image_alt": "Effetto soffice con bokeh su un ritratto",
+    "meta_title": "Effetto bokeh su iPhone dopo lo scatto: guida con esempi",
+    "meta_description": "Come ottenere l’effetto bokeh su iPhone su una foto già scattata: sfondo morbido, luci sfumate, soggetto nitido. Stili Gaussian e Ghosting, gratis e offline.",
+    "h1": "Effetto bokeh su iPhone, anche dopo lo scatto",
+    "answer": "Per un effetto bokeh su una foto già scattata, aprila in MakeBlur, lascia la scheda Background, scegli Gaussian e aumenta Radius finché lo sfondo diventa morbido e le luci si trasformano in macchie. Per un look più sognante su tutta l’immagine usa Ghosting nella scheda Full Photo. Poi tocca Save.",
+    "intro": "Bokeh viene dal giapponese e indica la qualità della parte sfocata di una foto: le luci che diventano cerchi morbidi, lo sfondo che si scioglie. È l’effetto degli obiettivi luminosi, e la Modalità Ritratto lo imita durante lo scatto. Ecco come avvicinarsi a quel look con una foto che hai già.",
+    "image": "/img/appstore/it/06-ghost.webp",
+    "image_alt": "Scheda Full Photo con stile Ghosting, Radius 79",
+    "native": {
+      "heading": "Bokeh con la Modalità Ritratto",
+      "paragraphs": [
+        "La Modalità Ritratto simula il bokeh al momento dello scatto e in Foto → Modifica permette di cambiare l’apertura (il valore f). Funziona solo con le foto scattate in Ritratto. Per tutte le altre, Foto non ha un effetto bokeh."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian o Ghosting",
+        "paragraphs": [
+          "Gaussian su Background: il bokeh da ritratto, soggetto nitido e sfondo morbido. Funziona molto bene con luci di sera, vetrine, luci di Natale. Ghosting su Full Photo: un alone doppio e soffice su tutta l’immagine, come nello screenshot «Effetto soffice con bokeh» (Radius 79)."
+        ]
+      },
+      {
+        "heading": "Le foto che rendono di più",
+        "paragraphs": [
+          "Sfondi con punti luce, colori vivaci e una certa distanza tra soggetto e sfondo. Su un muro bianco il bokeh si nota poco: lì basta una sfocatura leggera."
+        ]
+      }
+    ],
+    "steps_title": "Effetto bokeh nell’app",
+    "steps": [
+      {
+        "title": "Apri la foto",
+        "description": "Ideale con luci sullo sfondo."
+      },
+      {
+        "title": "Background + Gaussian",
+        "description": "Il soggetto resta nitido."
+      },
+      {
+        "title": "Radius",
+        "description": "Aumenta finché le luci diventano macchie morbide."
+      },
+      {
+        "title": "Save",
+        "description": "Salva la copia."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "Le foto serali danno il bokeh più bello.",
+      "Prova Ghosting su Full Photo per copertine e sfondi.",
+      "Controlla i bordi dei capelli ingrandendo prima di salvare."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Cos’è l’effetto bokeh?",
+        "answer": "È l’aspetto della parte sfocata di una foto, soprattutto le luci che diventano macchie morbide."
+      },
+      {
+        "question": "Serve la Modalità Ritratto?",
+        "answer": "No, l’app applica l’effetto a qualsiasi foto già scattata."
+      },
+      {
+        "question": "Che differenza c’è con la sfocatura gaussiana?",
+        "answer": "La gaussiana è il tipo di sfocatura; il bokeh è l’aspetto estetico che ottieni, specie con le luci."
+      }
+    ],
+    "related": [
+      "sfocatura-gaussiana-iphone.html",
+      "foto-sfondo-sfocato.html",
+      "sfocare-sfondo-foto-iphone.html",
+      "effetto-mosso-foto.html"
+    ],
+    "cta_title": "Bokeh su ogni foto",
+    "cta_body": "Scarica «Sfocare Sfondo Foto», scegli Gaussian o Ghosting e salva. Gratis, senza caricamenti.",
+    "cta_text": "Scarica su App Store"
+  },
+  {
+    "slug": "sfocatura-gaussiana-iphone.html",
+    "keyword": "sfocatura gaussiana",
+    "cluster": "effects",
+    "card_title": "Sfocatura gaussiana su iPhone",
+    "card_excerpt": "Cos’è la sfocatura gaussiana, quando usarla e come applicarla a sfondo, volti o foto intera.",
+    "card_image": "/img/appstore/it/04-box.webp",
+    "card_image_alt": "Sfondo con sfocatura morbida",
+    "meta_title": "Sfocatura gaussiana su iPhone: cos’è e come applicarla",
+    "meta_description": "Cos’è la sfocatura gaussiana e come applicarla su iPhone allo sfondo, ai volti o a tutta la foto. Differenze con Box e Motion, intensità consigliate. Gratis.",
+    "h1": "Sfocatura gaussiana su iPhone: cos’è e come si applica",
+    "answer": "La sfocatura gaussiana è una sfocatura uniforme e morbida, simile a un obiettivo fuori fuoco. Su iPhone la applichi con MakeBlur: apri la foto, scegli dove (Background per lo sfondo, Faces per i volti, Manual per un’area, Full Photo per tutto), seleziona lo stile Gaussian, regola Radius e tocca Save.",
+    "intro": "Chi ha usato un editor da computer conosce il filtro «Sfocatura gaussiana» (in Photoshop italiano si chiama «Controllo sfocatura»). Prende il nome dalla curva di Gauss: ogni pixel si mescola con i vicini, di più con quelli vicini e di meno con quelli lontani. Il risultato è morbido e naturale, senza bordi netti. Ecco quando usarla e come applicarla sull’iPhone.",
+    "image": "/img/appstore/it/04-box.webp",
+    "image_alt": "Sfondo ammorbidito dietro un ritratto nitido",
+    "native": {
+      "heading": "Cosa fa iPhone da solo",
+      "paragraphs": [
+        "L’app Foto non ha un filtro di sfocatura gaussiana. Le Regolazioni cambiano nitidezza e definizione, ma solo in aumento o in leggera diminuzione su tutta l’immagine, e non sono una vera sfocatura."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian, Box e Motion a confronto",
+        "paragraphs": [
+          "Gaussian: morbida e naturale, la scelta per ritratti e sfondi. Box: media uniforme, un po’ più piatta, utile per prodotti e per nascondere. Motion: sfocatura in una direzione, per il movimento.",
+          "Per la privacy la gaussiana va usata con intensità alta: una gaussiana leggera lascia intuire forme e lettere."
+        ]
+      },
+      {
+        "heading": "Che Radius usare",
+        "paragraphs": [
+          "Basso per ritratti naturali, medio per post e storie, alto per sfondi astratti o per nascondere. Controlla sempre ingrandendo."
+        ]
+      }
+    ],
+    "steps_title": "Applicare la sfocatura gaussiana",
+    "steps": [
+      {
+        "title": "Apri la foto",
+        "description": "In MakeBlur."
+      },
+      {
+        "title": "Scegli la modalità",
+        "description": "Background, Faces, Manual o Full Photo."
+      },
+      {
+        "title": "Stile Gaussian",
+        "description": "Regola Radius."
+      },
+      {
+        "title": "Save",
+        "description": "Salva la copia."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "La gaussiana su Background è il modo più naturale di simulare la Modalità Ritratto.",
+      "Su Full Photo con intensità alta ottieni sfondi perfetti per testo nelle storie.",
+      "Per dati sensibili preferisci Pixelate."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Perché si chiama gaussiana?",
+        "answer": "Perché il peso con cui si mescolano i pixel segue la curva di Gauss."
+      },
+      {
+        "question": "È meglio della sfocatura Box?",
+        "answer": "È più morbida e naturale; Box è più uniforme. Dipende dall’effetto che cerchi."
+      },
+      {
+        "question": "Posso applicarla solo allo sfondo?",
+        "answer": "Sì, con la scheda Background il soggetto resta nitido."
+      }
+    ],
+    "related": [
+      "effetto-bokeh-iphone.html",
+      "effetto-mosso-foto.html",
+      "sfocare-sfondo-foto-iphone.html",
+      "effetto-sfocato-foto.html"
+    ],
+    "cta_title": "Sfocatura gaussiana in un tocco",
+    "cta_body": "Scarica «Sfocare Sfondo Foto»: Gaussian in ogni modalità, sul dispositivo. Gratis da scaricare.",
+    "cta_text": "Scarica su App Store"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "nav_text": "Rehberler",
+  "title": "Adım adım rehberler",
+  "intro": "Arka planı bulanıklaştırmak, bir yüzü gizlemek, plakayı ya da yazıyı okunmaz yapmak, tüm fotoğrafı bulanıklaştırmak: her rehber iPhone’daki adımları tam olarak gösterir.",
+  "learn_more_text": "Devamını oku",
+  "related_title": "İlgili rehberler",
+  "answer_label": "Kısa cevap",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "Arka plan bulanıklaştırma",
+      "blurb": "Konu net, arka plan yumuşak — zaten çekilmiş fotoğraflarda da."
+    },
+    {
+      "id": "privacy",
+      "title": "Yüz, plaka ve yazı gizleme",
+      "blurb": "Paylaşmadan önce gizlilik için bulanıklık."
+    },
+    {
+      "id": "effects",
+      "title": "Bulanıklık efektleri",
+      "blurb": "Hareket, bokeh ve Gauss."
+    },
+    {
+      "id": "photo",
+      "title": "Her fotoğrafı bulanıklaştır",
+      "blurb": "Tüm fotoğraf ve blur efektinin temelleri."
+    }
+  ]
+}

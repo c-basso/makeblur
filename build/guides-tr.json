@@ -1,0 +1,1289 @@
+{
+  "hub": {
+    "nav_text": "Rehberler",
+    "title": "Adım adım rehberler",
+    "intro": "Arka planı bulanıklaştırmak, bir yüzü gizlemek, plakayı ya da yazıyı okunmaz yapmak, tüm fotoğrafı bulanıklaştırmak: her rehber iPhone’daki adımları tam olarak gösterir.",
+    "learn_more_text": "Devamını oku",
+    "related_title": "İlgili rehberler",
+    "answer_label": "Kısa cevap",
+    "clusters": [
+      {
+        "id": "background",
+        "title": "Arka plan bulanıklaştırma",
+        "blurb": "Konu net, arka plan yumuşak — zaten çekilmiş fotoğraflarda da."
+      },
+      {
+        "id": "privacy",
+        "title": "Yüz, plaka ve yazı gizleme",
+        "blurb": "Paylaşmadan önce gizlilik için bulanıklık."
+      },
+      {
+        "id": "effects",
+        "title": "Bulanıklık efektleri",
+        "blurb": "Hareket, bokeh ve Gauss."
+      },
+      {
+        "id": "photo",
+        "title": "Her fotoğrafı bulanıklaştır",
+        "blurb": "Tüm fotoğraf ve blur efektinin temelleri."
+      }
+    ]
+  },
+  "items": [
+    {
+      "slug": "iphone-arka-plan-bulaniklastirma.html",
+      "keyword": "iPhone arka plan bulanıklaştırma",
+      "cluster": "background",
+      "card_title": "iPhone’da arka plan bulanıklaştırma, çektikten sonra",
+      "card_excerpt": "Portre modu yalnızca çekimde çalışır. Arşivdeki bir fotoğrafın arka planını sonradan bulanıklaştırmanın yolu.",
+      "card_image": "/img/appstore/tr/04-box.webp",
+      "card_image_alt": "Background sekmesi: kadın net, arka plan bulanık",
+      "meta_title": "iPhone’da arka plan bulanıklaştırma, çekilmiş fotoğrafta da",
+      "meta_description": "iPhone’da fotoğraf çekildikten sonra arka planı bulanıklaştırma: uygulama konuyu algılar, sen yoğunluğu seçip kaydedersin. Portre modu gerekmez, ücretsiz.",
+      "h1": "iPhone’da arka plan bulanıklaştırma — çektikten sonra bile",
+      "answer": "iPhone’da çekilmiş bir fotoğrafın arka planını bulanıklaştırmak için fotoğrafı MakeBlur’da («Blur Photo Background Effect») aç, konunun algılanması için Background (arka plan) sekmesini seçili bırak, Gaussian stilini seç, Radius kaydırıcısını istediğin yumuşaklığa kadar artır ve Save’e dokun. Sadece portrelerde değil arşivdeki her fotoğrafta çalışır ve her şey iPhone’da olur.",
+      "intro": "«iPhone arka plan bulanıklaştırma» aramasına verilen cevapların neredeyse hepsi Portre moduna yönlendirir. Fotoğraf henüz çekilmediyse iyi bir tavsiye. Ama normal Fotoğraf modunda çekildiyse, WhatsApp’tan geldiyse ya da bir ekran görüntüsüyse Portre modu işe yaramaz. Burada iPhone’un kendisinin neler yapabildiğini, nerede durduğunu ve arka planı yarım dakikada nasıl bulanıklaştıracağını görüyorsun.",
+      "image": "/img/appstore/tr/04-box.webp",
+      "image_alt": "Uygulamada Background sekmesi: kadın net, arkadaki tuğla duvar ve çiçekler bulanık",
+      "native": {
+        "heading": "iPhone’un kendisi neler yapar",
+        "paragraphs": [
+          "Portre modu deklanşöre basıldığı anda bir derinlik haritası kaydeder. Sonra Fotoğraflar → Düzenle’de sol üstteki «f»ye dokunarak bulanıklığı artırıp azaltabilirsin. Ama yalnızca uyumlu bir kamerayla Portre modunda çekilen fotoğraflarda: normal bir fotoğraf, portresiz bir selfie, ekran görüntüsü ya da gelen bir görselde derinlik haritası yoktur ve kaydırıcı hiç görünmez.",
+          "Yeni iPhone’lar, çekimde derinlik verisi kaydedildiyse bazı normal fotoğrafları sonradan portreye çevirebilir. Bu her fotoğrafta ve her modelde çalışmaz, konuyu da sen seçemezsin."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Portre modu olmadan arka plan bulanıklaştırma",
+          "paragraphs": [
+            "Bunun için konuyu bitmiş görüntüden arka plandan ayıran bir editöre ihtiyacın var. MakeBlur’da bunu Background sekmesi yapar: kişiyi ya da ana nesneyi tanır, net tutar ve geri kalan her şeyi yumuşatır. Kameranın derinlik verisi gerekmez — uygulama fotoğrafın piksellerinden çalışır, yani her görsel olur.",
+            "Yoğunluğu Radius kaydırıcısıyla, bulanıklık türünü stille belirlersin: Gaussian objektif gibi yumuşak, Box biraz daha eşit, Motion bir hareket izi verir. Her şey iPhone’da, internetsiz çalışır."
+          ]
+        },
+        {
+          "heading": "Ne kadar bulanıklaştırmalı",
+          "paragraphs": [
+            "Profil ya da CV fotoğrafı için hafif bir bulanıklık yeter: ortam anlaşılır ama dikkat dağıtmaz. Hikâye ve gönderiler için daha fazlası olur — arka plan renk lekelerine dönüşür, kişi öne çıkar. Orta bir Radius ile başla ve saçlara yakınlaştır: açık bir hale görürsen yoğunluğu azalt."
+          ]
+        }
+      ],
+      "steps_title": "Uygulamada arka plan bulanıklaştırma",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Fotoğrafı aç",
+          "description": "MakeBlur’u başlat ve arşivden görseli seç — normal fotoğraf, selfie veya ekran görüntüsü."
+        },
+        {
+          "number": "2",
+          "title": "Background sekmesinde kal",
+          "description": "Uygulama konuyu algılar ve bulanıklaşacak arka planı işaretler."
+        },
+        {
+          "number": "3",
+          "title": "Stili ve Radius’u seç",
+          "description": "Klasik portre görünümü için Gaussian. Arka plan yeterince yumuşayana kadar Radius’u kaydır."
+        },
+        {
+          "number": "4",
+          "title": "Save’e dokun",
+          "description": "Bulanık kopya Fotoğraflar’a kaydedilir, orijinal değişmez."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Maske, konu arka plandan net ayrıldığında en iyi sonucu verir: duvar önünde bir kişi, masada bir fincan.",
+        "Kaydetmeden önce saçlara ve parmaklara yakınlaştır — çok yüksek Radius’ta kenar oluşabilir.",
+        "Önce bulanıklaştır, sonra kırp: uygulama hassas bir maske için daha fazla piksele sahip olur."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "iPhone’da Portre modu olmadan arka plan bulanıklaştırılabilir mi?",
+          "answer": "Evet. Fotoğraflar derinlik verisi olmadan yapamaz, ama MakeBlur konuyu görüntünün kendisinden ayırır ve her fotoğrafın arka planını bulanıklaştırır."
+        },
+        {
+          "question": "Eski bir fotoğrafın arka planını nasıl bulanıklaştırırım?",
+          "answer": "Aynı şekilde: uygulamada aç, Background sekmesi, Radius’u ayarla ve kaydet. Çekim tarihi ve kamera modeli fark etmez."
+        },
+        {
+          "question": "Fotoğrafın kalitesi düşer mi?",
+          "answer": "Konu orijinal çözünürlüğünü korur, yalnızca arka plan yumuşar. Yeni bir kopya kaydedilir, orijinal kalır."
+        },
+        {
+          "question": "Uygulama internete ihtiyaç duyar mı?",
+          "answer": "Hayır. Her şey iPhone’da çalışır, fotoğraflar sunuculara yüklenmez."
+        }
+      ],
+      "related": [
+        "arka-plan-nasil-bulaniklastirilir.html",
+        "fotograf-arka-plan-bulanik.html",
+        "bulaniklastirma-uygulamasi-iphone.html",
+        "gauss-bulanikligi-iphone.html"
+      ],
+      "cta_title": "Zaten sahip olduğun fotoğraflarda bulanık arka plan",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir, fotoğrafı aç, Radius’u ayarla ve kaydet. Ücretsiz, cihazda, iOS 18.6 veya üstü her iPhone’da.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "fotograf-arka-plan-bulanik.html",
+      "keyword": "fotoğraf arka planı bulanık yapma",
+      "cluster": "background",
+      "card_title": "Fotoğraf arka planını bulanık yapma: profil ve sosyal medya",
+      "card_excerpt": "Konu net, arka plan yumuşak: profil fotoğrafı, gönderi ve ilanlara fotoğrafçı görünümü.",
+      "card_image": "/img/appstore/tr/02-motion.webp",
+      "card_image_alt": "iPhone’da arka planı bulanık portre",
+      "meta_title": "Fotoğraf arka planını bulanık yapma: profil, Instagram, ilan",
+      "meta_description": "Elindeki bir fotoğrafla iPhone’da arka planı bulanık yapma: konu net, arka plan yumuşak; profil, gönderi ve ilan fotoğrafları için stil ve yoğunluk seçimi.",
+      "h1": "Fotoğraf arka planını bulanık yapma: iPhone ile fotoğrafçı görünümü",
+      "answer": "Elindeki bir fotoğrafın arka planını bulanık yapmak için fotoğrafı MakeBlur’da aç, konunun net kalması için Background sekmesini bırak, doğal görünüm için Gaussian ya da daha eşit bir bulanıklık için Box seç, Radius’u ayarla ve Save’e dokun. Birkaç saniyede profesyonel makine olmadan portre etkisi elde edersin.",
+      "intro": "Bulanık bir arka plan her fotoğrafı profesyonel gösterir: LinkedIn profil fotoğrafı, Instagram gönderisi, ürünün öne çıktığı bir sahibinden veya Dolap ilanı. Parlak objektifler bunu çekimde yapar; iPhone’la sonradan da yapabilirsin. İşte kullanım amacına göre stil ve yoğunluk seçimi.",
+      "image": "/img/appstore/tr/02-motion.webp",
+      "image_alt": "Background sekmesi ve Motion stili, Radius 65: kadın net kalıyor",
+      "native": {
+        "heading": "iPhone’un kendisi neler yapar",
+        "paragraphs": [
+          "Portre modu çekim sırasında arka planı bulanıklaştırır, Fotoğraflar → Düzenle’de yoğunluğu ayarlarsın. Normal fotoğraflar için Fotoğraflar’da arka plan bulanıklaştırma aracı yoktur: filtreler ve ayarlar ışığı ve rengi değiştirir, netliği değil."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Her fotoğraf için doğru stil",
+          "paragraphs": [
+            "Profil ve CV: düşük Radius’lu Gaussian, ortam okunur ama dikkat dağıtmaz. Gönderi ve hikâyeler: yüksek Radius’lu Gaussian veya Box, arka plan renge dönüşür. Spor ve sokak fotoğrafları: Motion, arka plan hareket eder, konu sabit kalır. Satılık ürünler: Box, düz bir arka plan ürünü öne çıkarır.",
+            "«Konu net, gerisi bulanık» ekran görüntüsü, çiçekli bir duvar önündeki portreye uygulanmış Box’ı gösteriyor: en tipik durum."
+          ]
+        },
+        {
+          "heading": "Abartmadan arka planı yumuşatmak",
+          "paragraphs": [
+            "Profil fotoğrafında çok bulanık bir arka plan, özellikle saç kenarlarında sahte görünür. Basit kural: kişi objektife ne kadar yakınsa o kadar çok bulanıklaştırabilirsin; boy fotoğraflarında ya da gruplarda düşük tut."
+          ]
+        }
+      ],
+      "steps_title": "Uygulamada bulanık arka planlı fotoğraf",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Fotoğrafı seç",
+          "description": "Görseli MakeBlur’da aç: profil, gönderi veya ürün."
+        },
+        {
+          "number": "2",
+          "title": "Background sekmesi",
+          "description": "Konu algılanır ve net kalır."
+        },
+        {
+          "number": "3",
+          "title": "Stil ve Radius",
+          "description": "Portre için Gaussian, ürün için Box, aksiyon için Motion."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Kopyayı kaydet ve istediğin yerde paylaş."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Profil fotoğrafını bulanıklaştırdıktan sonra kırp: maske daha hassas olur.",
+        "Işıklı arka planlarda (vitrin, yılbaşı ışıkları) Gaussian bokeh’e benzer ışık lekeleri oluşturur.",
+        "Farklı yoğunlukta iki sürüm kaydet ve telefon ekranında bakarak seç."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "Çekilmiş bir fotoğrafta arka plan nasıl bulanık yapılır?",
+          "answer": "Konuyu algılayan bir uygulamayla, örneğin MakeBlur: Background sekmesi, Radius, Save. Fotoğraflar tek başına normal fotoğraflarda bunu yapamaz."
+        },
+        {
+          "question": "Sadece insanlarla değil, nesnelerle de çalışır mı?",
+          "answer": "Evet, Background ana nesneyi de algılar: fincan, çanta, yemek tabağı."
+        },
+        {
+          "question": "Ücretsiz mi?",
+          "answer": "İndirmek ücretsiz ve temel arka plan bulanıklaştırma dahil; gelişmiş stiller isteğe bağlı uygulama içi satın alma ile."
+        }
+      ],
+      "related": [
+        "iphone-arka-plan-bulaniklastirma.html",
+        "bokeh-efekti-iphone.html",
+        "bulaniklastirma-uygulamasi-iphone.html",
+        "arka-plan-nasil-bulaniklastirilir.html"
+      ],
+      "cta_title": "Her fotoğrafa portre etkisi",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir, bir fotoğraf aç ve konuyu uygulama bulsun. Ücretsiz, yükleme yok.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "arka-plan-nasil-bulaniklastirilir.html",
+      "keyword": "arka plan nasıl bulanıklaştırılır",
+      "cluster": "background",
+      "card_title": "Arka plan nasıl bulanıklaştırılır: yeni başlayanlar için",
+      "card_excerpt": "Arka planı bulanıklaştırmak ne demek, ne kadar yapılmalı ve üç dokunuşla nasıl yapılır.",
+      "card_image": "/img/appstore/tr/04-box.webp",
+      "card_image_alt": "Portrenin arkasında bulanık arka plan",
+      "meta_title": "Arka plan nasıl bulanıklaştırılır: iPhone için kolay rehber",
+      "meta_description": "Hiç fotoğraf düzenlemediysen bile iPhone’da arka plan nasıl bulanıklaştırılır: üç dokunuş, ne kadar bulanıklık seçmeli ve hangi hatalardan kaçınmalı. Ücretsiz.",
+      "h1": "Fotoğrafta arka plan nasıl bulanıklaştırılır (yeni başlayanlar için)",
+      "answer": "iPhone’da bir fotoğrafın arka planını bulanıklaştırmak için üç dokunuş yeter: fotoğrafı MakeBlur’da aç, Background sekmesini bırak, arka plan yumuşayana kadar Radius kaydırıcısını sağa kaydır ve Save’e dokun. Uygulama kişiyi ya da nesneyi kendisi bulur ve net tutar; elle bir şey kesmen gerekmez.",
+      "intro": "Bulanıklaştırmak, blurlamak, arka planı yumuşatmak: farklı söylenir ama fikir aynıdır. Konu net kalır, arkasındaki her şey yumuşar ve göz doğrudan kişiye gider. Daha önce hiç düzenleme uygulaması kullanmadıysan, bu rehber seni ilk dokunuştan kaydedilmiş fotoğrafa kadar götürür ve efekti ne kadar açman gerektiğini anlatır.",
+      "image": "/img/appstore/tr/04-box.webp",
+      "image_alt": "Radius kaydırıcısı arka planın ne kadar bulanık olacağını belirler",
+      "native": {
+        "heading": "Fotoğraflar uygulamasında yapılabilir mi?",
+        "paragraphs": [
+          "Yalnızca Portre modunda çekilmiş fotoğraflarda: Düzenle’de derinlik kaydırıcısı çıkar. Diğer tüm fotoğraflar için Fotoğraflar’da arka plan bulanıklaştırma aracı yok. Filtreler veya «Keskinlik» ayarı bunu yapmaz."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Ne kadar bulanıklaştırmalı",
+          "paragraphs": [
+            "Az (düşük Radius): arka plan tanınır kalır; en doğal etki, aile ve profil fotoğrafları için iyi. Orta: arka plan pürüzsüz bir yüzeye dönüşür, gönderiler için ideal. Çok (yüksek Radius): yalnızca renk lekeleri kalır, etkileyici ama kenarları kontrol et.",
+            "Kararsızsan ortayı seç: makineyle çekilmiş gibi görünür."
+          ]
+        },
+        {
+          "heading": "Kaçınılacak hatalar",
+          "paragraphs": [
+            "Grup fotoğrafını fazla bulanıklaştırmak: biraz geride duranlar yarı bulanık görünür. Zaten karanlık bir arka planı bulanıklaştırmak: fark pek görünmez. Orijinali kaybetmek: MakeBlur her zaman kopya kaydeder, istediğin kadar yeniden deneyebilirsin."
+          ]
+        }
+      ],
+      "steps_title": "Üç dokunuşta arka plan bulanıklaştırma",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Fotoğrafı aç",
+          "description": "MakeBlur’da arşivdeki fotoğrafa dokun."
+        },
+        {
+          "number": "2",
+          "title": "Radius’u kaydır",
+          "description": "Background sekmesi açıkken beğenene kadar kaydır."
+        },
+        {
+          "number": "3",
+          "title": "Save’e dokun",
+          "description": "Yeni fotoğraf Son Eklenenler’de görünür."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Konunun arka plandan net ayrıldığı fotoğraflar en iyi sonucu verir.",
+        "Kaydetmeden önce iki parmakla yakınlaştırıp kenarları kontrol et.",
+        "Konu küçükse, kaydettikten sonra fotoğrafı kırp."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "Bulanıklaştırmak ve blurlamak aynı şey mi?",
+          "answer": "Evet. «Bulanıklaştırmak» Türkçe karşılığı, «blur» ve «blurlamak» günlük dilde aynı anlamda kullanılır."
+        },
+        {
+          "question": "Konuyu elle kesmem gerekir mi?",
+          "answer": "Hayır, Background sekmesi otomatik algılar. İnce rötuşlar için Manual’ı kullan."
+        },
+        {
+          "question": "Orijinal fotoğrafa dönebilir miyim?",
+          "answer": "Evet, uygulama kopya kaydeder ve orijinal arşivde kalır."
+        }
+      ],
+      "related": [
+        "iphone-arka-plan-bulaniklastirma.html",
+        "fotograf-arka-plan-bulanik.html",
+        "gauss-bulanikligi-iphone.html",
+        "fotograf-bulaniklastirma-iphone.html"
+      ],
+      "cta_title": "Üç dokunuşta bulanık arka plan",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir: aç, Radius’u kaydır, kaydet. iOS 18.6 iPhone’da ücretsiz.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "bulaniklastirma-uygulamasi-iphone.html",
+      "keyword": "bulanıklaştırma uygulaması iPhone",
+      "cluster": "background",
+      "card_title": "iPhone için fotoğraf bulanıklaştırma uygulaması",
+      "card_excerpt": "Portre modu, İşaretleme, Clean Up ya da ayrı bir uygulama: arka plan, yüz ve ayrıntılar için ne kullanmalı.",
+      "card_image": "/img/appstore/tr/03-face.webp",
+      "card_image_alt": "iPhone uygulamasında bulanıklaştırılmış yüzler",
+      "meta_title": "iPhone bulanıklaştırma uygulaması: dürüst karşılaştırma",
+      "meta_description": "iPhone’da hangi bulanıklaştırma uygulamasını kullanmalı? Portre modu, İşaretleme, Clean Up ve MakeBlur neyi bulanıklaştırır (arka plan, yüz, yazı) ve sınırları.",
+      "h1": "iPhone için bulanıklaştırma uygulaması: ne zaman ne kullanılır",
+      "answer": "iPhone’da hangi bulanıklaştırma uygulamasına ihtiyacın olduğu, neyi bulanıklaştırmak istediğine bağlı. Portre modunda çekilmiş bir fotoğrafın arka planı için Fotoğraflar yeter. Başka herhangi bir fotoğrafın arka planı, tüm yüzler, bir plaka ya da yazı için Background, Faces, Manual ve Full Photo sekmeleri olan, cihazda çalışan ve ücretsiz indirilen MakeBlur gibi bir uygulama gerekir.",
+      "intro": "«Bulanıklaştırma uygulaması» diye arayınca birbirine benzeyen on uygulamalık listeler ve ilk dokunuşta abonelik ekranı çıkar. Bir şey yüklemeden önce iPhone’un zaten neler yaptığını bilmek iyi olur. Aşağıda, neyi bulanıklaştırmak istediğine göre seçebilmen için dürüst bir karşılaştırma var.",
+      "image": "/img/appstore/tr/03-face.webp",
+      "image_alt": "Faces sekmesi: algılanan tüm yüzler bulanık",
+      "native": {
+        "heading": "iPhone’da zaten olan araçlar",
+        "paragraphs": [
+          "Portre modu: bulanık arka plan yalnızca çekimde, sonra Fotoğraflar’da ayarlanır. İşaretleme: kalem, fosforlu kalem ve şekiller; kapatır, bulanıklaştırmaz, fosforlu kalem de yarı saydamdır. Clean Up (Apple Intelligence, iOS 26.1’den beri Türkçe): nesneleri siler, yalnızca iPhone 15 Pro ve üstünde; bulanıklık ya da mozaik aracı değil.",
+          "Hiçbiri normal bir fotoğrafın arka planını veya senin seçtiğin bir alanı bulanıklaştırmaz."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "MakeBlur neler sunar",
+          "paragraphs": [
+            "Background: konusu otomatik algılanan bulanık arka plan. Faces: tüm yüzler aynı anda bulanık. Manual: yazı, plaka veya herhangi bir alan için fırça. Full Photo: tüm görüntü. Yedi stil: Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize.",
+            "Çevrimdışı çalışır ve fotoğraf yüklemez. Temel arka plan bulanıklaştırmayla ücretsiz indirme; gelişmiş stiller isteğe bağlı uygulama içi satın alma ile."
+          ]
+        },
+        {
+          "heading": "Bir bulanıklaştırma uygulamasında nelere bakmalı",
+          "paragraphs": [
+            "Cihazda işleme (özel fotoğraflar sunucuya gitmemeli), otomatik konu algılama, serbest alanlar için fırça, orijinal çözünürlükte kaydetme ve ödemeden önce deneyebileceğin ücretsiz bir sürüm."
+          ]
+        }
+      ],
+      "steps_title": "Uygulamayla ilk deneme",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ücretsiz indir",
+          "description": "App Store’dan, iOS 18.6 veya üstü iPhone için."
+        },
+        {
+          "number": "2",
+          "title": "Bir fotoğraf aç",
+          "description": "Arşivdeki herhangi bir görsel."
+        },
+        {
+          "number": "3",
+          "title": "Sekmeyi seç",
+          "description": "Neyi bulanıklaştıracağına göre Background, Faces, Manual veya Full Photo."
+        },
+        {
+          "number": "4",
+          "title": "Ayarla ve kaydet",
+          "description": "Stil, Radius ve Save."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Bir şeyi sadece bir kez kapatacaksan önce İşaretleme’yi dene: zaten iPhone’da.",
+        "Gizlilik için fotoğrafları yüklemeyen uygulamaları seç.",
+        "Satın almadan önce ücretsiz özellikleri dene."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "iPhone için en iyi bulanıklaştırma uygulaması hangisi?",
+          "answer": "Kullanıma bağlı. Arka plan, yüz ve alanları çevrimdışı çalışan tek bir uygulamada istiyorsan MakeBlur hepsini kapsar. Portre fotoğrafları için Fotoğraflar yeter."
+        },
+        {
+          "question": "Ücretsiz bir fotoğraf bulanıklaştırma uygulaması var mı?",
+          "answer": "MakeBlur ücretsiz indirilir ve temel arka plan bulanıklaştırmayı içerir. Gelişmiş özellikler isteğe bağlıdır."
+        },
+        {
+          "question": "Apple Intelligence gerekir mi?",
+          "answer": "Hayır, uygulama iOS 18.6 veya üstü her iPhone’da çalışır."
+        }
+      ],
+      "related": [
+        "iphone-arka-plan-bulaniklastirma.html",
+        "yuz-bulaniklastirma.html",
+        "fotograf-bir-kismini-bulaniklastirma.html",
+        "blur-efekti-fotograf.html"
+      ],
+      "cta_title": "Arka plan, yüz ve ayrıntılar için tek uygulama",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir: dört mod, yedi stil, hepsi iPhone’da.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "yuz-bulaniklastirma.html",
+      "keyword": "yüz bulanıklaştırma",
+      "cluster": "privacy",
+      "card_title": "Fotoğrafta yüz bulanıklaştırma",
+      "card_excerpt": "Çocuklar, arkadaşlar, yoldan geçenler: paylaşmadan önce tüm yüzleri tek dokunuşla bulanıklaştır.",
+      "card_image": "/img/appstore/tr/03-face.webp",
+      "card_image_alt": "Portre ızgarasında bulanıklaştırılmış yüzler",
+      "meta_title": "Fotoğrafta yüz bulanıklaştırma: iPhone’da birden fazla yüz",
+      "meta_description": "iPhone’da bir fotoğraftaki yüzü paylaşmadan önce bulanıklaştırma: tüm yüzler tek dokunuşla algılanır, Apple Intelligence gerekmez. Ücretsiz ve çevrimdışı.",
+      "h1": "iPhone’da fotoğraftaki yüzü bulanıklaştırma",
+      "answer": "iPhone’da bir fotoğraftaki yüzleri bulanıklaştırmak için fotoğrafı MakeBlur’da aç ve Faces (yüzler) sekmesini seç: uygulama tüm yüzleri algılar ve aynı anda bulanıklaştırır. Kimse tanınmayana kadar Radius’u artır ya da mozaik için Pixelate’i seç ve Save’e dokun. Tek bir yüzü bulanıklaştırmak için Manual sekmesini kullan ve parmağınla boya.",
+      "intro": "Yüz bulanıklaştırmanın birçok sebebi var: okul gösterisindeki çocukların yüzleri, internette görünmek istemeyen arkadaşlar, tatil fotoğrafındaki yoldan geçenler. KVKK ve kişilik hakları konuşulurken, paylaşmadan önce yüzleri gizleyenler giderek artıyor. İşte birkaç saniyede nasıl yapılacağı.",
+      "image": "/img/appstore/tr/03-face.webp",
+      "image_alt": "Faces sekmesi, Radius 80: sekiz yüz bulanık",
+      "native": {
+        "heading": "iPhone’un kendisi neler yapar",
+        "paragraphs": [
+          "Fotoğraflar’da yüz bulanıklaştırmak ya da pikselleştirmek için ayrı bir özellik yok. Apple Intelligence’ın Clean Up aracı (iOS 26.1’den beri Türkçe, iPhone 15 Pro ve üstü) nesneleri silmek içindir, yüz gizlemek için değil.",
+          "Geriye İşaretleme’nin şekilleri ve kalemi kalıyor: yüzü kapatır ama sonuç özensiz görünür."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Tüm yüzler mi, tek bir yüz mü",
+          "paragraphs": [
+            "Faces fotoğraftaki her yüzü bulur ve hepsini bulanıklaştırır: grup, sınıf ve parti fotoğrafları için doğru seçim. Birinin (örneğin kendinin) görünmesini istiyorsan Manual’ı kullan ve yalnızca gizlenecek yüzleri boya.",
+            "«Paylaşmadan önce yüzleri gizle» ekran görüntüsü tek dokunuşla bulanıklaştırılmış sekiz portreyi gösteriyor."
+          ]
+        },
+        {
+          "heading": "Bulanıklık mı piksel mi?",
+          "paragraphs": [
+            "Hafif bir bulanıklık, kişiyi iyi tanıyan biri için hâlâ tanınabilir bırakabilir. Gerçek gizlilik için yüksek Radius ya da Pixelate stilini kullan. Sosyal medya için daha yumuşak bir görünüm istiyorsan yüksek yoğunlukta Gaussian."
+          ]
+        }
+      ],
+      "steps_title": "Uygulamada yüz bulanıklaştırma",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Fotoğrafı aç",
+          "description": "Gizlemek istediğin kişilerin olduğu görseli seç."
+        },
+        {
+          "number": "2",
+          "title": "Faces sekmesi",
+          "description": "Tüm yüzler algılanır ve bulanıklaştırılır."
+        },
+        {
+          "number": "3",
+          "title": "Yoğunluk",
+          "description": "Kimse tanınmayana kadar Radius’u artır ya da Pixelate’i seç."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Orijinali değil, bulanık kopyayı paylaş."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Arka plandaki küçük yüzleri ve camlara yansıyanları kontrol et: eksik varsa Manual ile ekle.",
+        "Çocuklarda tişörtteki isim ya da okul logosu gibi ayrıntıları da bulanıklaştır.",
+        "Kaydettikten sonra kimsenin tanınmadığından emin olmak için yakınlaştır."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "Apple Intelligence olmadan yüz bulanıklaştırılabilir mi?",
+          "answer": "Evet, iOS 18.6 olan her iPhone’da çalışan MakeBlur’un Faces sekmesiyle ya da tek yüz için Manual ile."
+        },
+        {
+          "question": "Bulanıklaştırılmış bir yüz geri açılabilir mi?",
+          "answer": "Yüksek yoğunlukla kaydedilmiş kopyada hayır: ayrıntılar silinir. Bu yüzden orijinali asla paylaşma."
+        },
+        {
+          "question": "Görüntülü arama ekran görüntülerinde çalışır mı?",
+          "answer": "Evet, Faces ekran görüntülerindeki yüzleri de algılar."
+        }
+      ],
+      "related": [
+        "fotograf-bir-kismini-bulaniklastirma.html",
+        "fotograf-pikselestirme-iphone.html",
+        "plaka-bulaniklastirma.html",
+        "bulaniklastirma-uygulamasi-iphone.html"
+      ],
+      "cta_title": "Paylaşmadan önce yüzleri koru",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir, Faces’i seç ve kaydet. Ücretsiz, iPhone’da, yükleme yok.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "fotograf-bir-kismini-bulaniklastirma.html",
+      "keyword": "fotoğrafın bir kısmını bulanıklaştırma",
+      "cluster": "privacy",
+      "card_title": "Fotoğrafın bir kısmını bulanıklaştırma",
+      "card_excerpt": "Adres, numara, kalabalıktaki biri: parmağınla boya, sadece o alan bulanıklaşsın.",
+      "card_image": "/img/appstore/tr/05-crystalize.webp",
+      "card_image_alt": "Fırçayla bulanıklaştırılmış fotoğraf alanı",
+      "meta_title": "Fotoğrafın bir kısmını bulanıklaştırma: iPhone’da parmakla",
+      "meta_description": "iPhone’da fotoğrafın sadece bir kısmını bulanıklaştırma: alanı parmağınla boya, Gaussian ya da Pixelate seç. Yazı, numara, kişi veya nesne için. Ücretsiz.",
+      "h1": "iPhone’da fotoğrafın sadece bir kısmını bulanıklaştırma",
+      "answer": "iPhone’da bir fotoğrafın bir kısmını bulanıklaştırmak için fotoğrafı MakeBlur’da aç, Manual (fırça) sekmesini seç ve gizlemek istediğin alanın üzerinden parmağını geçir. Yalnızca boyadığın yer bulanıklaşır. Stili seç — yumuşak bir etki için Gaussian, gizlilik için Pixelate — Radius’u ayarla ve Save’e dokun.",
+      "intro": "Bazen arka planı ya da bir yüzü değil, belirli bir parçayı bulanıklaştırmak istersin: kapı numarası, yaka kartı, masadaki bir kâğıt, kalabalıktaki biri. Fotoğraflar uygulamasında bulanıklaştırma fırçası yok, bu yüzden bunu yapabilen bir araca ihtiyacın var. İşte nasıl.",
+      "image": "/img/appstore/tr/05-crystalize.webp",
+      "image_alt": "Fotoğrafın bir alanına uygulanmış mozaik",
+      "native": {
+        "heading": "iPhone’un kendisi neler yapar",
+        "paragraphs": [
+          "İşaretleme’de bir alanı dolu bir şekille ya da kalemle kapatabilirsin. Ayrıntı kaybolur ama görünür bir yama kalır. Clean Up (yalnızca Apple Intelligence ile) nesneleri bulanıklaştırmak yerine siler ve bazen arka planı garip doldurur. Fotoğraflar’da gerçek bir bulanıklaştırma fırçası yok."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Alanı iyi boyamak",
+          "paragraphs": [
+            "Boyamadan önce iki parmakla yakınlaştır: fırça parmağını daha hassas izler. Nesnenin etrafında küçük bir pay bırak, özellikle yazıda. Hata yaparsan baştan başla: orijinal ancak kaydettiğinde değişir."
+          ]
+        },
+        {
+          "heading": "Hangi stili seçmeli",
+          "paragraphs": [
+            "Gaussian: yumuşak, pek fark edilmez, estetik ayrıntılar için (çöp kutusu, tabela). Yüksek Radius’lu Pixelate veya Box: gerçekten kaybolması gereken bilgiler için. Crystallize veya Hexagonal: bulanıklığın görünmesini istediğinde grafik efekt."
+          ]
+        }
+      ],
+      "steps_title": "Uygulamada bir alanı bulanıklaştırma",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Fotoğrafı aç",
+          "description": "Görseli MakeBlur’da seç."
+        },
+        {
+          "number": "2",
+          "title": "Manual sekmesi",
+          "description": "Yakınlaştır ve parmağını alanın üzerinden geçir."
+        },
+        {
+          "number": "3",
+          "title": "Stil ve Radius",
+          "description": "Belli belirsiz etki için Gaussian, gizlilik için Pixelate."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Alanı bulanık kopya Fotoğraflar’a kaydedilir."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Sekmeleri birleştir: önce arka plan için Background, sonra bir ayrıntı için Manual.",
+        "Yazıda her zaman yüksek yoğunluk kullan: büyük harfler hafif bulanıklıkta okunabilir kalır.",
+        "Yansımalara dikkat: bir ayna az önce gizlediğin şeyi gösterebilir."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "Aynı fotoğrafta birden fazla yeri bulanıklaştırabilir miyim?",
+          "answer": "Evet, Manual ile kaydetmeden önce istediğin kadar alan boyayabilirsin."
+        },
+        {
+          "question": "Ekran görüntülerinde çalışır mı?",
+          "answer": "Evet, ekran görüntüleri diğer fotoğraflar gibi açılır."
+        },
+        {
+          "question": "Bulanıklaştırılmayan kısım kalite kaybeder mi?",
+          "answer": "Hayır, fotoğrafın geri kalanı orijinalle aynıdır."
+        }
+      ],
+      "related": [
+        "ekran-goruntusu-yazi-kapatma.html",
+        "plaka-bulaniklastirma.html",
+        "fotograf-pikselestirme-iphone.html",
+        "yuz-bulaniklastirma.html"
+      ],
+      "cta_title": "Sadece istediğini bulanıklaştır",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir, Manual’ı seç ve boya. Ücretsiz, iPhone’da.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "plaka-bulaniklastirma.html",
+      "keyword": "plaka bulanıklaştırma",
+      "cluster": "privacy",
+      "card_title": "Fotoğrafta plaka bulanıklaştırma",
+      "card_excerpt": "sahibinden veya arabam.com ilanı için: plaka okunmaz, ilan düzgün görünür.",
+      "card_image": "/img/appstore/tr/05-crystalize.webp",
+      "card_image_alt": "Piksellerle gizlenmiş plaka",
+      "meta_title": "Fotoğrafta plaka bulanıklaştırma: iPhone ile ücretsiz",
+      "meta_description": "sahibinden, arabam.com veya letgo ilanı için fotoğrafta plaka bulanıklaştırma: boya, pikselleştir, kaydet. iPhone’da, ücretsiz, internete hiç yüklemeden.",
+      "h1": "iPhone ile fotoğrafta plaka bulanıklaştırma",
+      "answer": "Bir fotoğraftaki plakayı bulanıklaştırmak için fotoğrafı MakeBlur’da aç, Manual sekmesini seç, parmağını plakanın üzerinden geçir, Pixelate veya Box stilini seç ve hiçbir karakter okunmayana kadar Radius’u artır. Save’e dokun ve bu kopyayı ilana yükle.",
+      "intro": "Arabasını veya motosikletini sahibinden, arabam.com ya da letgo’da satan — veya sadece Instagram’da gösteren — birçok kişi plakayı gizler. sahibinden ilan verirken plakayı zaten sisteme ayrı bir alana girmeni istiyor; fotoğraflarda görünmesi şart değil. Zorunlu değil ama dolandırıcıların ilanını ya da araç bilgilerini kopyalamasını zorlaştırmak için çoğu kişi önlem olarak yapar. Yine de ilan düzgün görünmeli: tampondaki siyah bir dikdörtgen özensiz durur. Temiz bir pikselleştirme ikisini birden çözer.",
+      "image": "/img/appstore/tr/05-crystalize.webp",
+      "image_alt": "Uygulamada fotoğrafın bir alanının pikselleştirilmesi",
+      "native": {
+        "heading": "Fotoğraflar ile neler yapılabilir",
+        "paragraphs": [
+          "İşaretleme’de plakayı bir şekille kapatabilir ya da kalemle boyayabilirsin. Gizlenir ama yama göze batar, yarı saydam fosforlu kalem de bazen karakterleri gösterir. Yerleşik editör bir alanı bulanıklaştıramaz veya pikselleştiremez."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Piksel mi bulanıklık mı?",
+          "paragraphs": [
+            "Plakalar için en güvenlisi yüksek Radius’lu Pixelate veya Box — büyük bloklar karakterleri siler. Hafif bir Gaussian, özellikle yüksek çözünürlüklü fotoğraflarda plakayı tahmin edilebilir bırakabilir.",
+            "Crystallize de gizler ama süslü görünür; ilan için nötr bir pikselleştirme daha iyidir."
+          ]
+        },
+        {
+          "heading": "Fotoğraf çok olduğunda",
+          "paragraphs": [
+            "Bir ilanda genelde 10–20 fotoğraf olur, plaka bunların üç dördünde görünür. Sırayla yap: aç, Manual, boya, Save — her biri yarım dakika. Yansımaları da kontrol et: bazen plaka bir vitrinde ya da iç mekân fotoğrafında ön camdan görünür."
+          ]
+        }
+      ],
+      "steps_title": "Uygulamada plaka bulanıklaştırma",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Aracın fotoğrafını aç",
+          "description": "Plakanın göründüğü bir fotoğraf seç."
+        },
+        {
+          "number": "2",
+          "title": "Manual sekmesi",
+          "description": "Yakınlaştır ve plakayı küçük bir payla boya."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate ve Radius",
+          "description": "Yakınlaştırınca hiçbir karakter okunmayana kadar yoğunluğu artır."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Kaydedilen kopyayı ilana yükle."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Sadece karakterleri değil, plakanın tamamını kapat: il kodu da bilgi verir.",
+        "Ön ve arka fotoğrafları kontrol et: arabanın iki tamponunda da plaka var.",
+        "Ruhsat ya da şasi numarası görünüyorsa aynı şekilde gizle — ilanda bilerek paylaşmıyorsan."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "İlanda plakayı gizlemek zorunlu mu?",
+          "answer": "Zorunlu değil, ama birçok satıcı araç bilgilerinin kötüye kullanılmasını önlemek için yapar. Karar senin. Bu hukuki tavsiye değildir."
+        },
+        {
+          "question": "Pikselleştirilmiş plaka geri getirilebilir mi?",
+          "answer": "Büyük bloklarla hayır: ayrıntılar kaydedilen kopyadan silinir. Orijinali yayınlama."
+        },
+        {
+          "question": "Fotoğraflar bir yere gönderiliyor mu?",
+          "answer": "Hayır, her şey iPhone’da, internetsiz olur."
+        }
+      ],
+      "related": [
+        "fotograf-bir-kismini-bulaniklastirma.html",
+        "fotograf-pikselestirme-iphone.html",
+        "ekran-goruntusu-yazi-kapatma.html",
+        "yuz-bulaniklastirma.html"
+      ],
+      "cta_title": "Plaka gizli, ilan düzgün",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir, plakayı Manual’da boya ve kaydet. Ücretsiz, doğrudan iPhone’da.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "ekran-goruntusu-yazi-kapatma.html",
+      "keyword": "ekran görüntüsünde yazı kapatma",
+      "cluster": "privacy",
+      "card_title": "Ekran görüntüsünde yazı kapatma",
+      "card_excerpt": "Sohbetler, adresler, IBAN: SS’i göndermeden önce yazıyı okunmaz yap.",
+      "card_image": "/img/appstore/tr/05-crystalize.webp",
+      "card_image_alt": "Ekran görüntüsünde pikselleştirilmiş yazı",
+      "meta_title": "Ekran görüntüsünde yazı kapatma: iPhone’da güvenli yöntem",
+      "meta_description": "iPhone ekran görüntüsündeki yazıyı, isimleri ve numaraları göndermeden önce kapatma: parlaklık artırılınca geri gelmeyen pikseller. Ücretsiz, yükleme yok.",
+      "h1": "iPhone’da ekran görüntüsündeki yazıyı kapatma",
+      "answer": "Ekran görüntüsündeki yazıyı kapatmak için onu MakeBlur’da aç, Manual sekmesini seç, gizlenecek satırların (isim, numara, adres, mesaj) üzerinden parmağını geçir, Pixelate’i seç ve Radius’u artır. Save’e dokun ve kopyayı gönder. Göndermeden önce hiçbir şeyin okunmadığını kontrol etmek için yakınlaştır.",
+      "intro": "Sürekli ekran görüntüsü paylaşıyoruz: fikir almak için bir WhatsApp sohbeti, sipariş onayı, havale dekontu, bir uygulama hatası. Neredeyse hepsinde isim, telefon numarası, adres ya da kodlar olur. Gizlemek kolay ama doğru yapmak gerek: bazı yöntemler yazıyı okunur bırakır.",
+      "image": "/img/appstore/tr/05-crystalize.webp",
+      "image_alt": "İçeriği okunmaz yapan pikselli alan",
+      "native": {
+        "heading": "İşaretleme’nin sınırı",
+        "paragraphs": [
+          "İşaretleme’de fosforlu kalem var ama yarı saydam: kontrastı ya da parlaklığı artırınca alttaki yazı geri gelebilir. Dolu çizgili kalem birkaç kez geçersen daha iyi çalışır, dolu bir dikdörtgen güvenli ama çirkin. Bir alanı pikselleştirmek mümkün değil."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Neden piksel, neden hafif bulanıklık değil",
+          "paragraphs": [
+            "Beyaz zemin üzerindeki siyah yazı hafif bulanıklığa dayanır: kelimeler şeklinden tahmin edilir. Pixelate ve yüksek Radius ile her harf bir bloğa dönüşür ve içerik kaybolur. Ekran görüntüsünde pikselleştirme en anlaşılır olanıdır da: alan kişi bir şeyi bilerek gizlediğini anlar."
+          ]
+        },
+        {
+          "heading": "Genelde neler gizlenir",
+          "paragraphs": [
+            "Sohbetlerde: kişinin adı ve fotoğrafı, telefon numaraları. Siparişlerde: adres, e-posta, sipariş numarası. Bankacılıkta: IBAN, bakiye, alıcı adı. Belgelerde: T.C. kimlik numarası ve imza."
+          ]
+        }
+      ],
+      "steps_title": "Uygulamada yazı kapatma",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Ekran görüntüsünü aç",
+          "description": "Ekran Resimleri albümünde bulursun."
+        },
+        {
+          "number": "2",
+          "title": "Manual sekmesi",
+          "description": "Gizlenecek satırları payla boya."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate",
+          "description": "Yakınlaştırınca hiçbir şey okunmayana kadar Radius’u artır."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Orijinali değil, kopyayı gönder."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Üst çubuğu unutma: kişi adları ve bildirim önizlemeleri sık sık SS’e girer.",
+        "Numaranın bir kısmını değil, tüm satırı gizle.",
+        "Kaydettikten sonra ihtiyacın yoksa orijinali sil."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "İşaretleme’deki fosforlu kalem güvenli mi?",
+          "answer": "Tam değil: yarı saydam olduğu için parlaklık değişince yazı geri gelebilir. Pikselleştir ya da dolu bir şekil kullan."
+        },
+        {
+          "question": "Pikselleştirilmiş yazı kurtarılabilir mi?",
+          "answer": "Büyük bloklarla hayır. Hafif pikselleştirme ve büyük yazıda bazen evet: yüksek yoğunluk kullan."
+        },
+        {
+          "question": "Uzun ekran görüntüleriyle çalışır mı?",
+          "answer": "Arşivdeki görsellerle çalışır. PDF olarak kaydedilen tam sayfa ekran görüntüsünü önce görsel olarak kaydetmelisin."
+        }
+      ],
+      "related": [
+        "fotograf-bir-kismini-bulaniklastirma.html",
+        "fotograf-pikselestirme-iphone.html",
+        "plaka-bulaniklastirma.html",
+        "yuz-bulaniklastirma.html"
+      ],
+      "cta_title": "Gönül rahatlığıyla paylaşılan ekran görüntüleri",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir, yazıyı Manual ile boya ve pikselleştir. Ücretsiz, çevrimdışı.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "fotograf-pikselestirme-iphone.html",
+      "keyword": "fotoğraf pikselleştirme",
+      "cluster": "privacy",
+      "card_title": "iPhone’da fotoğraf pikselleştirme",
+      "card_excerpt": "Yüze, yazıya veya arka plana mozaik: Pixelate, Hexagonal ve Crystallize açıklaması.",
+      "card_image": "/img/appstore/tr/05-crystalize.webp",
+      "card_image_alt": "Crystallize ile mozaiğe dönüşen arka plan",
+      "meta_title": "iPhone’da fotoğraf pikselleştirme: yüz, yazı veya arka plan",
+      "meta_description": "iPhone’da fotoğraf pikselleştirme: tüm görüntü, sadece arka plan, yüzler ya da bir alan. Pixelate, Hexagonal ve Crystallize stilleri, cihazda ve ücretsiz.",
+      "h1": "iPhone’da fotoğraf nasıl pikselleştirilir",
+      "answer": "iPhone’da bir fotoğrafı pikselleştirmek için onu MakeBlur’da aç, efektin nereye uygulanacağını seç (yüzler için Faces, bir alan için Manual, arka plan için Background, tamamı için Full Photo), Pixelate stilini seç ve blok boyutunu Radius ile ayarla. Pikselleştirilmiş kopyayı kaydetmek için Save’e dokun.",
+      "intro": "Pikselleştirme ya da mozaik, görüntünün bir kısmını büyük karelere dönüştürmektir: yüzleri ve bilgileri gizlemenin klasik yolu, aynı zamanda moda bir grafik efekt. iPhone’da yerleşik bir mozaik filtresi yok. İşte istediğin yere nasıl uygulanacağı.",
+      "image": "/img/appstore/tr/05-crystalize.webp",
+      "image_alt": "Arka planda Crystallize stili: kristal mozaik",
+      "native": {
+        "heading": "iPhone’un kendisi neler yapar",
+        "paragraphs": [
+          "Fotoğraflar’da mozaik filtresi yok. İşaretleme yalnızca kapatır, Clean Up (Apple Intelligence, iPhone 15 Pro ve üstü) ise siler. Yazıyı, arka planı ya da tüm görüntüyü pikselleştirmek için bir uygulama gerekir."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Üç mozaik stili",
+          "paragraphs": [
+            "Pixelate: klasik kareler, gizlilik için en güvenlisi. Hexagonal: altıgen hücreler, daha modern. Crystallize: düzensiz kristaller, sanatsal etki — «Tek dokunuşla pikselleştirme» ekran görüntüsündeki gibi, arka plan kristale dönüşüyor ve kız net kalıyor."
+          ]
+        },
+        {
+          "heading": "Gizlilik mi estetik mi",
+          "paragraphs": [
+            "Gizlemek için: Faces veya Manual üzerinde büyük bloklu Pixelate. Grafik efekt için: Background üzerinde Crystallize veya Hexagonal, böylece konu mozaik arka plan üzerinde öne çıkar."
+          ]
+        }
+      ],
+      "steps_title": "Uygulamada pikselleştirme",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Fotoğrafı aç",
+          "description": "Herhangi bir görsel veya ekran görüntüsü."
+        },
+        {
+          "number": "2",
+          "title": "Sekmeyi seç",
+          "description": "Faces, Manual, Background veya Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate stili",
+          "description": "Ya da Hexagonal veya Crystallize; blokları Radius ile ayarla."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Pikselleştirilmiş kopyayı kaydet."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Daha büyük bloklar = daha fazla gizlilik.",
+        "Yaratıcı bir gönderi için konuyu net tutup arka planda Crystallize’ı dene.",
+        "Yakınlaştırarak kontrol et: küçük ayrıntılar tamamen kaybolmalı."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "Pikselleştirme mi mozaik mi sansür mü?",
+          "answer": "Üçü de aynı etki için kullanılır: görüntüyü büyük bloklara bölerek ayrıntıyı gizlemek."
+        },
+        {
+          "question": "Sadece arka planı pikselleştirebilir miyim?",
+          "answer": "Evet: Background sekmesi ve Pixelate ya da Crystallize stili; konu net kalır."
+        },
+        {
+          "question": "Fotoğraflarım gizli kalır mı?",
+          "answer": "Evet, işleme iPhone’da yapılır ve internet gerekmez."
+        }
+      ],
+      "related": [
+        "yuz-bulaniklastirma.html",
+        "ekran-goruntusu-yazi-kapatma.html",
+        "plaka-bulaniklastirma.html",
+        "blur-efekti-fotograf.html"
+      ],
+      "cta_title": "İstediğin yere mozaik",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir: her modda Pixelate, Hexagonal ve Crystallize. Ücretsiz indir.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "motion-blur-fotograf.html",
+      "keyword": "motion blur fotoğraf",
+      "cluster": "effects",
+      "card_title": "Fotoğrafa motion blur (hareket bulanıklığı)",
+      "card_excerpt": "Arka planda hareket izi, konu net: Radius ve Angle ile hız hissi.",
+      "card_image": "/img/appstore/tr/02-motion.webp",
+      "card_image_alt": "Güneş gözlüklü kadının arkasında motion blur",
+      "meta_title": "Fotoğrafa motion blur ekleme: iPhone’da 4 adımda hareket",
+      "meta_description": "iPhone’da fotoğrafa motion blur (hareket bulanıklığı) ekleme: arka planda iz, konu net, yön ve uzunluk ayarlı. Çekilmiş fotoğraflarda da çalışır. Ücretsiz.",
+      "h1": "iPhone ile fotoğrafa motion blur ekleme",
+      "answer": "iPhone’da bir fotoğrafa motion blur eklemek için fotoğrafı MakeBlur’da aç, konunun net kalması için Background sekmesini bırak, Motion stilini seç, izin uzunluğunu Radius ile, yönünü Angle ile ayarla ve Save’e dokun. Arka plan hareket ediyormuş gibi görünür, kişi hareketsiz ve net kalır.",
+      "intro": "Motion blur, yani hareket bulanıklığı, her fotoğrafa hız katar: bir bisikletçi, bir araba, bir dansçı ya da daha dinamik bir gönderi için bir portre. Fotoğrafçılıkta uzun pozlama ve kaydırma (panning) ile yapılır; iPhone’da sonradan, yönünü ve yoğunluğunu kendin seçerek eklersin.",
+      "image": "/img/appstore/tr/02-motion.webp",
+      "image_alt": "Motion stili, Radius 65: arka planda iz, konu net",
+      "native": {
+        "heading": "iPhone’un kendisi neler yapar",
+        "paragraphs": [
+          "Canlı Fotoğraflar’da kareleri birleştirerek iz oluşturan «Uzun Pozlama» efekti var: yalnızca çekim sırasında gerçekten bir şey hareket ettiyse çalışır ve hareket eden her şeyi bulanıklaştırır — senin seçtiğin arka planı değil. Normal fotoğraflar için Fotoğraflar’da hareket efekti yok."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Radius ve Angle",
+          "paragraphs": [
+            "Radius izin uzunluğudur: düşük değerler hafif bir hareket, yüksek değerler hız hissi verir. Angle yöndür: arabalar ve koşucular için yatay, atlayışlar için çapraz, yağmur ya da düşüş için dikey. «Aksiyon karelerine motion blur» ekran görüntüsü Radius 65 kullanıyor."
+          ]
+        },
+        {
+          "heading": "Sadece arka plan mı, tüm fotoğraf mı",
+          "paragraphs": [
+            "Background ile yalnızca arka plan hareket eder — klasik kaydırma efekti. Full Photo ile tüm görüntü iz alır: kapaklar, soyut duvar kâğıtları ya da rüya gibi bir hava için kullanışlı."
+          ]
+        }
+      ],
+      "steps_title": "Uygulamada motion blur ekleme",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Fotoğrafı aç",
+          "description": "Konunun arka plandan iyi ayrıldığı bir fotoğraf en iyisi."
+        },
+        {
+          "number": "2",
+          "title": "Background sekmesi",
+          "description": "Konu hareketsiz ve net kalır."
+        },
+        {
+          "number": "3",
+          "title": "Motion stili",
+          "description": "Uzunluk için Radius, yön için Angle."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Efektli kopyayı kaydet."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Angle’ı konunun hareket yönüne göre ayarla: etki daha inandırıcı olur.",
+        "Arka planda şehir ışıkları varsa iz etkileyici bir ışık şeridine dönüşür.",
+        "Portrelerde abartma: orta bir Radius yeterince dinamizm katar."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "Motion blur nedir?",
+          "answer": "Hareket bulanıklığı: bir şeyin hareket ettiğini düşündüren bir iz."
+        },
+        {
+          "question": "Hareketin yönünü seçebilir miyim?",
+          "answer": "Evet, Motion stilinin Angle kaydırıcısıyla."
+        },
+        {
+          "question": "Çekilmiş bir fotoğrafta çalışır mı?",
+          "answer": "Evet, Canlı Fotoğraf olmasa da arşivdeki her fotoğrafta."
+        }
+      ],
+      "related": [
+        "blur-efekti-fotograf.html",
+        "iphone-arka-plan-bulaniklastirma.html",
+        "bokeh-efekti-iphone.html",
+        "gauss-bulanikligi-iphone.html"
+      ],
+      "cta_title": "Her fotoğrafa hız",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir, Motion’ı seç ve Angle’ı ayarla. Ücretsiz, iPhone’da.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "bokeh-efekti-iphone.html",
+      "keyword": "bokeh efekti iPhone",
+      "cluster": "effects",
+      "card_title": "iPhone’da bokeh efekti",
+      "card_excerpt": "Çektikten sonra bile yumuşak arka plan ve dağılan ışıklar: portre için Gaussian, rüya gibi görünüm için Ghosting.",
+      "card_image": "/img/appstore/tr/06-ghost.webp",
+      "card_image_alt": "Portrede yumuşak bokeh efekti",
+      "meta_title": "iPhone’da bokeh efekti, çektikten sonra da: örnekli rehber",
+      "meta_description": "Çekilmiş bir fotoğrafta iPhone ile bokeh efekti: yumuşak arka plan, dağılan ışıklar, net konu. Gaussian ve Ghosting stilleri, ücretsiz ve çevrimdışı çalışır.",
+      "h1": "iPhone’da bokeh efekti, çektikten sonra bile",
+      "answer": "Çekilmiş bir fotoğrafta bokeh efekti için fotoğrafı MakeBlur’da aç, Background sekmesini bırak, Gaussian’ı seç ve arka plan yumuşayıp ışıklar lekelere dönüşene kadar Radius’u artır. Tüm görüntüde daha rüya gibi bir görünüm için Full Photo sekmesinde Ghosting’i kullan. Sonra Save’e dokun.",
+      "intro": "Bokeh Japoncadan gelir ve fotoğrafın bulanık kısmının kalitesini anlatır: yumuşak dairelere dönüşen ışıklar, eriyen bir arka plan. Parlak objektiflerin etkisidir ve Portre modu bunu çekimde taklit eder. Elindeki bir fotoğrafla bu görünüme nasıl yaklaşılacağı burada.",
+      "image": "/img/appstore/tr/06-ghost.webp",
+      "image_alt": "Full Photo sekmesi ve Ghosting stili, Radius 79",
+      "native": {
+        "heading": "Portre moduyla bokeh",
+        "paragraphs": [
+          "Portre modu çekimde bokeh’i taklit eder ve Fotoğraflar → Düzenle’de diyaframı (f değeri) değiştirmene izin verir. Yalnızca Portre modunda çekilen fotoğraflarda çalışır. Diğerleri için Fotoğraflar’da bokeh efekti yok."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian mı Ghosting mi",
+          "paragraphs": [
+            "Background üzerinde Gaussian: portre bokeh’i, konu net ve arka plan yumuşak. Akşam ışıkları, vitrinler, süs ışıklarıyla harika görünür. Full Photo üzerinde Ghosting: tüm görüntüde yumuşak, çift bir parıltı — «Bokeh ile yumuşak hava» ekran görüntüsündeki gibi (Radius 79)."
+          ]
+        },
+        {
+          "heading": "En iyi sonuç veren fotoğraflar",
+          "paragraphs": [
+            "Işık noktalı arka planlar, canlı renkler ve konuyla arka plan arasında biraz mesafe. Beyaz bir duvarın önünde bokeh pek görünmez: orada hafif bir bulanıklık yeter."
+          ]
+        }
+      ],
+      "steps_title": "Uygulamada bokeh efekti",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Fotoğrafı aç",
+          "description": "İdeali arkada ışıklar olması."
+        },
+        {
+          "number": "2",
+          "title": "Background + Gaussian",
+          "description": "Konu net kalır."
+        },
+        {
+          "number": "3",
+          "title": "Radius",
+          "description": "Işıklar yumuşak lekelere dönüşene kadar artır."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Kopyayı kaydet."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Akşam fotoğrafları en güzel bokeh’i verir.",
+        "Kapak ve duvar kâğıtları için Full Photo’da Ghosting’i dene.",
+        "Kaydetmeden önce saç kenarlarını yakınlaştırarak kontrol et."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "Bokeh nedir?",
+          "answer": "Fotoğrafın bulanık kısmının görünüşü, özellikle yumuşak lekelere dönüşen ışıklar."
+        },
+        {
+          "question": "Portre moduna ihtiyacım var mı?",
+          "answer": "Hayır, uygulama efekti çekilmiş her fotoğrafa uygular."
+        },
+        {
+          "question": "Gauss bulanıklığından farkı ne?",
+          "answer": "Gauss bir bulanıklık türüdür; bokeh ise özellikle ışıklarda ortaya çıkan estetik sonuçtur."
+        }
+      ],
+      "related": [
+        "gauss-bulanikligi-iphone.html",
+        "fotograf-arka-plan-bulanik.html",
+        "iphone-arka-plan-bulaniklastirma.html",
+        "motion-blur-fotograf.html"
+      ],
+      "cta_title": "Her fotoğrafa bokeh",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir, Gaussian ya da Ghosting seç ve kaydet. Ücretsiz, yükleme yok.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "gauss-bulanikligi-iphone.html",
+      "keyword": "Gauss bulanıklığı",
+      "cluster": "effects",
+      "card_title": "iPhone’da Gauss bulanıklığı",
+      "card_excerpt": "Gauss bulanıklığı nedir, ne zaman kullanılır ve arka plana, yüzlere ya da tüm fotoğrafa nasıl uygulanır.",
+      "card_image": "/img/appstore/tr/04-box.webp",
+      "card_image_alt": "Yumuşak bulanıklığa sahip arka plan",
+      "meta_title": "Gauss bulanıklığı nedir ve iPhone’da nasıl uygulanır",
+      "meta_description": "Gauss bulanıklığı nedir ve iPhone’da arka plana, yüzlere ya da tüm fotoğrafa nasıl uygulanır? Box ve Motion ile farkları ve önerilen yoğunluklar. Ücretsiz.",
+      "h1": "Gauss bulanıklığı nedir ve iPhone’da nasıl uygulanır",
+      "answer": "Gauss bulanıklığı, odaktan çıkmış bir objektif gibi eşit ve yumuşak bir bulanıklıktır. iPhone’da MakeBlur ile uygularsın: fotoğrafı aç, yerini seç (arka plan için Background, yüzler için Faces, bir alan için Manual, tamamı için Full Photo), Gaussian stilini seç, Radius’u ayarla ve Save’e dokun.",
+      "intro": "Photoshop veya bilgisayarda başka bir editör kullandıysan «Gauss Bulanıklığı» filtresini bilirsin. Adı Gauss eğrisinden gelir: her piksel komşularıyla karışır, yakındakilerle daha çok, uzaktakilerle daha az. Sonuç sert kenarları olmayan yumuşak ve doğal bir bulanıklıktır. Ne zaman kullanacağını ve iPhone’da nasıl uygulayacağını burada görüyorsun.",
+      "image": "/img/appstore/tr/04-box.webp",
+      "image_alt": "Net bir portrenin arkasında yumuşatılmış arka plan",
+      "native": {
+        "heading": "iPhone’un kendisi neler yapar",
+        "paragraphs": [
+          "Fotoğraflar uygulamasında Gauss bulanıklığı filtresi yok. Ayarlar keskinliği ve tanımı değiştirir, ama yalnızca tüm görüntü için yukarı ya da biraz aşağı; bu gerçek bir bulanıklık değil."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian, Box ve Motion karşılaştırması",
+          "paragraphs": [
+            "Gaussian: yumuşak ve doğal, portreler ve arka planlar için tercih. Box: eşit ortalama, biraz daha düz, ürünler ve gizleme için kullanışlı. Motion: tek yönde bulanıklık, hareket için.",
+            "Gizlilik için Gauss bulanıklığını yüksek yoğunlukta kullan: hafifi şekilleri ve harfleri tahmin edilebilir bırakır."
+          ]
+        },
+        {
+          "heading": "Hangi Radius",
+          "paragraphs": [
+            "Doğal portreler için düşük, gönderi ve hikâyeler için orta, soyut arka planlar ya da gizlemek için yüksek. Her zaman yakınlaştırarak kontrol et."
+          ]
+        }
+      ],
+      "steps_title": "Gauss bulanıklığı uygulama",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Fotoğrafı aç",
+          "description": "MakeBlur’da."
+        },
+        {
+          "number": "2",
+          "title": "Modu seç",
+          "description": "Background, Faces, Manual veya Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Gaussian stili",
+          "description": "Radius’u ayarla."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Kopyayı kaydet."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Background üzerinde Gaussian, Portre modunu taklit etmenin en doğal yolu.",
+        "Full Photo’da yüksek yoğunlukla hikâyelerdeki yazılar için mükemmel arka planlar elde edersin.",
+        "Hassas bilgiler için Pixelate’i tercih et."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "Neden Gauss denir?",
+          "answer": "Çünkü piksellerin karışma ağırlığı Gauss eğrisini (normal dağılım) izler."
+        },
+        {
+          "question": "Box bulanıklığından daha mı iyi?",
+          "answer": "Daha yumuşak ve doğal; Box daha eşit. Aradığın etkiye bağlı."
+        },
+        {
+          "question": "Sadece arka plana uygulayabilir miyim?",
+          "answer": "Evet, Background sekmesinde konu net kalır."
+        }
+      ],
+      "related": [
+        "bokeh-efekti-iphone.html",
+        "motion-blur-fotograf.html",
+        "iphone-arka-plan-bulaniklastirma.html",
+        "blur-efekti-fotograf.html"
+      ],
+      "cta_title": "Tek dokunuşla Gauss bulanıklığı",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir: her modda Gaussian, cihazda. Ücretsiz indir.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "fotograf-bulaniklastirma-iphone.html",
+      "keyword": "fotoğraf bulanıklaştırma",
+      "cluster": "photo",
+      "card_title": "iPhone’da tüm fotoğrafı bulanıklaştırma",
+      "card_excerpt": "Tüm görüntü bulanık: duvar kâğıdı, hikâye ya da soyut bir görünüm için. iPhone’da ve online.",
+      "card_image": "/img/appstore/tr/06-ghost.webp",
+      "card_image_alt": "Ghosting efektiyle bulanıklaştırılmış tüm fotoğraf",
+      "meta_title": "iPhone’da fotoğraf bulanıklaştırma: tüm kare saniyede",
+      "meta_description": "iPhone’da tüm fotoğrafı bulanıklaştırma: duvar kâğıdı, hikâye arka planı ya da soyut bir görünüm için. Gaussian, Motion ve Ghosting stilleri ve online seçenek.",
+      "h1": "iPhone’da tüm fotoğraf nasıl bulanıklaştırılır",
+      "answer": "Tüm fotoğrafı bulanıklaştırmak için fotoğrafı MakeBlur’da aç, Full Photo (tüm fotoğraf) sekmesini ve bir stil seç — yumuşaklık için Gaussian, dinamizm için Motion, rüya gibi bir görünüm için Ghosting — ve Radius’u artır. Save’e dokun. Hiçbir şey yüklemeden bu sitedeki online editör de tüm fotoğrafı bulanıklaştırır.",
+      "intro": "Bazen bir kişinin arkasındaki arka planı değil, tüm görüntüyü bulanıklaştırmak istersin: kilit ekranı duvar kâğıdı, bir hikâyedeki yazı için zemin, soyut bir kapak ya da asıl gönderiden önce bir «teaser». En basit bulanıklıktır ve bir konuyu tanıması gerekmeyen tek türdür.",
+      "image": "/img/appstore/tr/06-ghost.webp",
+      "image_alt": "Full Photo sekmesi ve Ghosting stili, Radius 79",
+      "native": {
+        "heading": "Fotoğraflar’da bir fotoğraf bulanıklaştırılabilir mi?",
+        "paragraphs": [
+          "Hayır: Fotoğraflar’daki ne filtreler ne de ayarlar bulanıklık sunar. iOS kilit ekranı widget’ların altındaki duvar kâğıdını bulanıklaştırabilir, ama bu bir sistem efekti, paylaşılacak yeni bir görsel değil."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Hangi stil neye",
+          "paragraphs": [
+            "Gaussian: eşit yumuşaklık, yazı için en iyi zemin. Motion: hız hissi, spor kapakları için ideal. Ghosting: çift «hayalet» efekti, «Bokeh ile yumuşak hava» ekran görüntüsündeki gibi (Radius 79). Pixelate ve Crystallize: soyut mozaik."
+          ]
+        },
+        {
+          "heading": "Online seçenek",
+          "paragraphs": [
+            "Bu sitede ücretsiz bir online editör var: fotoğrafı yükle, Gaussian, Pixel veya Motion seç ve PNG indir. Yalnızca tüm görüntüyü bulanıklaştırır; arka planı ya da yüzleri seçerek bulanıklaştırmak için uygulama gerekir."
+          ]
+        }
+      ],
+      "steps_title": "Uygulamada tüm fotoğrafı bulanıklaştırma",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Fotoğrafı aç",
+          "description": "Görseli MakeBlur’da seç."
+        },
+        {
+          "number": "2",
+          "title": "Full Photo sekmesi",
+          "description": "Bulanıklık tüm görüntüye uygulanır."
+        },
+        {
+          "number": "3",
+          "title": "Stil ve Radius",
+          "description": "İstediğin yoğunlukta Gaussian, Motion veya Ghosting."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Bulanık kopya arşive kaydedilir."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Yazı zeminleri için renkli fotoğraflar seç: bulanıklaştırınca güzel renk lekeleri kalır.",
+        "Kilit ekranı için güçlü Gaussian’lı bir sürüm kaydet: saat ve simgeler iyi okunur.",
+        "Gönderi teaser’ı: önce çok bulanık sürümü paylaş, sonra orijinali."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "Fotoğrafı online nasıl bulanıklaştırırım?",
+          "answer": "Bu sitedeki ücretsiz online editörle: fotoğrafı yükle, stil ve yoğunluk seç, PNG indir. Yalnızca tüm görüntüyü bulanıklaştırır."
+        },
+        {
+          "question": "Full Photo ile Background arasındaki fark ne?",
+          "answer": "Full Photo tüm görüntüyü, Background yalnızca arka planı bulanıklaştırır — konu net kalır."
+        },
+        {
+          "question": "Çözünürlük düşer mi?",
+          "answer": "Hayır, kopya orijinal boyutta kaydedilir."
+        }
+      ],
+      "related": [
+        "blur-efekti-fotograf.html",
+        "gauss-bulanikligi-iphone.html",
+        "motion-blur-fotograf.html",
+        "bokeh-efekti-iphone.html"
+      ],
+      "cta_title": "Saniyeler içinde bulanık fotoğraf",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir, Full Photo’yu ve bir stili seç. Ücretsiz, yükleme yok.",
+      "cta_text": "App Store'dan indir"
+    },
+    {
+      "slug": "blur-efekti-fotograf.html",
+      "keyword": "blur efekti",
+      "cluster": "photo",
+      "card_title": "Fotoğraflarda blur efekti",
+      "card_excerpt": "Blur efekti nedir, hangi stiller var ve arka plan, yüzler ya da tüm fotoğraf için hangisi uygun.",
+      "card_image": "/img/appstore/tr/02-motion.webp",
+      "card_image_alt": "iPhone ile fotoğrafta blur efekti",
+      "meta_title": "Fotoğrafta blur efekti: iPhone’da stiller ve pratik rehber",
+      "meta_description": "Blur efekti nedir ve iPhone’da nasıl uygulanır: arka plana, yüzlere, bir alana ya da tüm görüntüye Gaussian, Motion, Ghosting veya Pixelate ile. Ücretsiz.",
+      "h1": "Fotoğraflarda blur efekti: nedir ve iPhone’da nasıl yapılır",
+      "answer": "Blur efekti bir fotoğrafı ya da bir kısmını daha az net yapar. iPhone’da MakeBlur ile uygularsın: yerini seç (arka plan için Background, yüzler için Faces, bir alan için Manual, tüm görüntü için Full Photo), Gaussian, Motion veya Ghosting gibi bir stil seç, Radius’u ayarla ve Save’e dokun.",
+      "intro": "«Blur» İngilizcede bulanıklık demek ve Türkiye’de birçok kişi tam olarak böyle arıyor: blur efekti, blur yapma, yüz blurlama. Arkasında neredeyse her zaman dört istekten biri var: kişinin arkasında yumuşak bir arka plan, yüzleri gizlemek, yazı ya da plaka olan bir parçayı okunmaz yapmak veya tüm fotoğrafı bulanıklaştırmak. iPhone’un editörü normal bir fotoğrafta bunların hiçbirini yapamaz.",
+      "image": "/img/appstore/tr/02-motion.webp",
+      "image_alt": "Motion stili: arka planda blur efekti",
+      "native": {
+        "heading": "iPhone’un sundukları",
+        "paragraphs": [
+          "Arka planda blur: yalnızca Portre modunda, çekim sırasında. Fotoğraflar’da bulanıklaştırma fırçası: yok. İşaretleme: kapatmak için kalem ve şekiller, bulanıklaştırmak için değil. Clean Up (Apple Intelligence): nesneleri siler, yalnızca iPhone 15 Pro ve üstü."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Blur stilleri",
+          "paragraphs": [
+            "Gaussian: yumuşak, doğal bulanıklık. Motion: yönü ayarlanabilen iz. Ghosting: rüya gibi «hayalet» efekti. Box: eşit bulanıklık. Pixelate, Hexagonal ve Crystallize: mozaikler, gizlilik ya da grafik efekt için kullanışlı."
+          ]
+        },
+        {
+          "heading": "Nereye uygulanır",
+          "paragraphs": [
+            "Background konuyu net tutar ve blur’u arka plana uygular. Faces tüm yüzlere. Manual parmağınla boyadığın alana. Full Photo tüm görüntüye. Kamera fotoğrafları, ekran görüntüleri ve arşive kaydedilmiş WhatsApp ya da Telegram görselleriyle çalışır."
+          ]
+        }
+      ],
+      "steps_title": "Uygulamada blur efekti",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Fotoğrafı veya ekran görüntüsünü aç",
+          "description": "Görseli MakeBlur’da seç."
+        },
+        {
+          "number": "2",
+          "title": "Modu seç",
+          "description": "Background, Faces, Manual veya Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Stil ve Radius",
+          "description": "Bulanıklık türü ve yoğunluk."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Efektli kopya arşive kaydedilir."
+        }
+      ],
+      "tips_title": "İpuçları",
+      "tips": [
+        "Görünüm için: Gaussian veya Ghosting; gizlilik için: Pixelate.",
+        "Modları birleştir: önce arka plan için Background, sonra rahatsız eden bir ayrıntı için Manual.",
+        "Birkaç yoğunlukta kaydet ve en iyisini tut."
+      ],
+      "faq_title": "Sık sorulan sorular",
+      "faq": [
+        {
+          "question": "Uygulamasız blur efekti nasıl yapılır?",
+          "answer": "Normal bir fotoğrafta Fotoğraflar buna izin vermez. İşaretleme’deki şekillerle kapatabilir ya da bu sitedeki online editörle tüm fotoğrafı bulanıklaştırabilirsin."
+        },
+        {
+          "question": "Ekran görüntüsüne blur uygulayabilir miyim?",
+          "answer": "Evet, ekran görüntüleri uygulamada diğer fotoğraflar gibi açılır."
+        },
+        {
+          "question": "Ücretsiz mi?",
+          "answer": "İndirmek ücretsiz ve temel bulanıklaştırma dahil; gelişmiş stiller isteğe bağlı uygulama içi satın alma ile."
+        }
+      ],
+      "related": [
+        "fotograf-bulaniklastirma-iphone.html",
+        "iphone-arka-plan-bulaniklastirma.html",
+        "fotograf-bir-kismini-bulaniklastirma.html",
+        "motion-blur-fotograf.html"
+      ],
+      "cta_title": "Bir dakikada blur efekti",
+      "cta_body": "«Blur Photo Background Effect» uygulamasını indir; arka planı, yüzleri ya da tüm fotoğrafı bulanıklaştır. Ücretsiz, iOS 18.6 iPhone.",
+      "cta_text": "App Store'dan indir"
+    }
+  ]
+}

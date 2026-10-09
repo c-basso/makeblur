@@ -1,0 +1,348 @@
+[
+  {
+    "slug": "sfocare-sfondo-foto-iphone.html",
+    "keyword": "sfocare sfondo foto iPhone",
+    "cluster": "background",
+    "card_title": "Sfocare lo sfondo di una foto su iPhone",
+    "card_excerpt": "La Modalità Ritratto funziona solo mentre scatti. Ecco come sfocare lo sfondo di una foto già presente nella libreria.",
+    "card_image": "/img/appstore/it/04-box.webp",
+    "card_image_alt": "Scheda Background: donna nitida, sfondo sfocato",
+    "meta_title": "Sfocare lo sfondo di una foto su iPhone, anche già scattata",
+    "meta_description": "Come sfocare lo sfondo di una foto su iPhone quando l’hai già scattata: l’app riconosce il soggetto, scegli l’intensità e salvi. Senza Modalità Ritratto.",
+    "h1": "Come sfocare lo sfondo di una foto su iPhone, anche dopo lo scatto",
+    "answer": "Per sfocare lo sfondo di una foto già scattata su iPhone, aprila in MakeBlur («Sfocare Sfondo Foto»), lascia selezionata la scheda Background (sfondo) perché il soggetto venga riconosciuto, scegli lo stile Gaussian, aumenta il cursore Radius fino alla morbidezza che vuoi e tocca Save. Funziona con qualsiasi foto della libreria, non solo con i ritratti, e tutto avviene sull’iPhone.",
+    "intro": "Quasi tutte le risposte a «come sfocare lo sfondo di una foto su iPhone» rimandano alla Modalità Ritratto. Ottimo consiglio se la foto non l’hai ancora scattata. Ma se è stata fatta in modalità Foto normale, ti è arrivata su WhatsApp o è uno screenshot, la Modalità Ritratto non serve. Qui trovi cosa fa iPhone da solo, dove si ferma e come sfocare lo sfondo in mezzo minuto.",
+    "image": "/img/appstore/it/04-box.webp",
+    "image_alt": "Scheda Background nell’app: la donna è nitida, il muro di mattoni e i fiori dietro sono sfocati",
+    "native": {
+      "heading": "Cosa fa iPhone da solo",
+      "paragraphs": [
+        "La Modalità Ritratto salva una mappa di profondità al momento dello scatto. Dopo, in Foto → Modifica, puoi aumentare o ridurre la sfocatura con il cursore dell’apertura. Ma solo per le foto scattate in Ritratto con una fotocamera compatibile: una foto normale, un selfie senza Ritratto, uno screenshot o un’immagine ricevuta non hanno la mappa di profondità e il cursore non compare.",
+        "Gli iPhone più recenti possono trasformare alcune foto normali in ritratti, se al momento dello scatto sono stati salvati dati di profondità. Non funziona con tutte le foto né su tutti i modelli, e il soggetto non lo scegli tu."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Sfocare lo sfondo senza Modalità Ritratto",
+        "paragraphs": [
+          "Serve un editor che separi il soggetto dallo sfondo partendo dall’immagine finita. In MakeBlur lo fa la scheda Background: riconosce la persona o l’oggetto principale, lo mantiene nitido e ammorbidisce tutto il resto. Non servono dati di profondità della fotocamera: l’app lavora sui pixel della foto, quindi va bene qualsiasi immagine.",
+          "L’intensità si regola con il cursore Radius, il tipo di sfocatura con lo stile: Gaussian dà un look morbido da obiettivo, Box una sfocatura un po’ più uniforme, Motion una scia di movimento. Tutto avviene sull’iPhone, senza internet."
+        ]
+      },
+      {
+        "heading": "Quanta sfocatura usare",
+        "paragraphs": [
+          "Per foto profilo o da curriculum basta una sfocatura leggera: l’ambiente si riconosce ma non distrae. Per storie e post puoi esagerare: lo sfondo diventa macchie di colore e la persona risalta. Parti da un Radius medio e ingrandisci sui capelli: se compare un alone, riduci l’intensità."
+        ]
+      }
+    ],
+    "steps_title": "Sfocare lo sfondo nell’app",
+    "steps": [
+      {
+        "title": "Apri la foto",
+        "description": "Avvia MakeBlur e scegli l’immagine dalla libreria: foto normale, selfie o screenshot."
+      },
+      {
+        "title": "Lascia la scheda Background",
+        "description": "L’app riconosce il soggetto e segna lo sfondo da sfocare."
+      },
+      {
+        "title": "Scegli stile e Radius",
+        "description": "Gaussian per il classico effetto ritratto. Trascina Radius finché lo sfondo è abbastanza morbido."
+      },
+      {
+        "title": "Tocca Save",
+        "description": "La copia sfocata finisce in Foto, l’originale resta invariato."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "La maschera riesce meglio se il soggetto si stacca bene: una persona davanti a un muro, una tazza sul tavolo.",
+      "Prima di salvare ingrandisci capelli e dita: con un Radius molto alto può comparire un bordo.",
+      "Prima sfoca, poi ritaglia: l’app ha più pixel per una maschera precisa."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Si può sfocare lo sfondo su iPhone senza Modalità Ritratto?",
+        "answer": "Sì. Foto non può farlo senza dati di profondità, ma MakeBlur separa il soggetto partendo dall’immagine e sfoca lo sfondo di qualsiasi foto."
+      },
+      {
+        "question": "Come sfoco lo sfondo di una foto vecchia?",
+        "answer": "Allo stesso modo: aprila nell’app, scheda Background, regola Radius e salva. Data dello scatto e modello di fotocamera non contano."
+      },
+      {
+        "question": "La foto perde qualità?",
+        "answer": "Il soggetto mantiene la risoluzione originale, si ammorbidisce solo lo sfondo. Viene salvata una nuova copia, l’originale resta."
+      },
+      {
+        "question": "L’app ha bisogno di internet?",
+        "answer": "No. Tutto avviene sull’iPhone, le foto non vengono caricate su server."
+      }
+    ],
+    "related": [
+      "come-sfuocare-sfondo-foto.html",
+      "foto-sfondo-sfocato.html",
+      "app-sfocare-foto-iphone.html",
+      "sfocatura-gaussiana-iphone.html"
+    ],
+    "cta_title": "Sfondo sfocato sulle foto che hai già",
+    "cta_body": "Scarica «Sfocare Sfondo Foto», apri la foto, regola Radius e salva. Gratis, sul dispositivo, su qualsiasi iPhone con iOS 18.6 o successivo.",
+    "cta_text": "Scarica su App Store"
+  },
+  {
+    "slug": "foto-sfondo-sfocato.html",
+    "keyword": "foto con sfondo sfocato",
+    "cluster": "background",
+    "card_title": "Foto con sfondo sfocato per profilo e social",
+    "card_excerpt": "Soggetto nitido, sfondo morbido: come ottenere l’effetto da fotografo su foto profilo, post e prodotti.",
+    "card_image": "/img/appstore/it/02-motion.webp",
+    "card_image_alt": "Ritratto con sfondo sfocato su iPhone",
+    "meta_title": "Foto con sfondo sfocato su iPhone: profilo, social, prodotti",
+    "meta_description": "Come fare una foto con sfondo sfocato su iPhone partendo da un’immagine che hai già: soggetto nitido, sfondo morbido, per profilo, post e annunci. Gratis.",
+    "h1": "Foto con sfondo sfocato: l’effetto da fotografo con l’iPhone",
+    "answer": "Per ottenere una foto con sfondo sfocato da un’immagine che hai già, aprila in MakeBlur, lascia la scheda Background così il soggetto resta nitido, scegli Gaussian per un look naturale o Box per una sfocatura più uniforme, regola Radius e tocca Save. In pochi secondi hai l’effetto ritratto senza fotocamera professionale.",
+    "intro": "Uno sfondo sfocato fa sembrare professionale qualsiasi foto: la foto profilo per LinkedIn, il post su Instagram, l’annuncio su Vinted con il prodotto in primo piano. Gli obiettivi luminosi lo fanno in fase di scatto; con l’iPhone puoi ottenerlo anche dopo. Ecco come scegliere stile e intensità in base all’uso.",
+    "image": "/img/appstore/it/02-motion.webp",
+    "image_alt": "Scheda Background con stile Motion, Radius 65: la donna resta nitida",
+    "native": {
+      "heading": "Cosa fa iPhone da solo",
+      "paragraphs": [
+        "La Modalità Ritratto crea lo sfondo sfocato mentre scatti, e in Foto → Modifica puoi regolarne l’intensità. Per le foto normali, Foto non ha nessuno strumento per sfocare lo sfondo: filtri e regolazioni cambiano luce e colore, non la nitidezza."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Stile giusto per ogni foto",
+        "paragraphs": [
+          "Foto profilo e curriculum: Gaussian con Radius basso, l’ambiente resta leggibile ma non distrae. Post e storie: Gaussian o Box con Radius alto, lo sfondo diventa colore. Foto sportive o di strada: Motion, lo sfondo si muove e il soggetto resta fermo. Prodotti da vendere: Box, uno sfondo uniforme fa risaltare l’oggetto.",
+          "Lo screenshot «Soggetto nitido, sfuma il resto» mostra Box su un ritratto davanti a un muro con fiori: è il caso tipico."
+        ]
+      },
+      {
+        "heading": "Ammorbidire lo sfondo senza esagerare",
+        "paragraphs": [
+          "Uno sfondo troppo sfocato su una foto profilo sembra finto, soprattutto ai bordi dei capelli. Una regola semplice: più la persona è vicina all’obiettivo, più sfocatura puoi usare; per figure intere o gruppi meglio restare bassi."
+        ]
+      }
+    ],
+    "steps_title": "Fare una foto con sfondo sfocato nell’app",
+    "steps": [
+      {
+        "title": "Scegli la foto",
+        "description": "Apri l’immagine in MakeBlur: profilo, post o prodotto."
+      },
+      {
+        "title": "Scheda Background",
+        "description": "Il soggetto viene riconosciuto e resta nitido."
+      },
+      {
+        "title": "Stile e Radius",
+        "description": "Gaussian per il ritratto, Box per i prodotti, Motion per l’azione."
+      },
+      {
+        "title": "Save",
+        "description": "Salva la copia e pubblicala dove vuoi."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "Per la foto profilo ritaglia dopo aver sfocato, così la maschera è più precisa.",
+      "Su sfondi con luci (vetrine, luci di Natale) Gaussian crea macchie luminose simili al bokeh.",
+      "Salva due versioni con intensità diverse e scegli guardandole sul telefono."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Come si fa lo sfondo sfocato su una foto già fatta?",
+        "answer": "Con un’app che riconosce il soggetto, come MakeBlur: scheda Background, Radius, Save. L’app Foto da sola non può farlo sulle foto normali."
+      },
+      {
+        "question": "Funziona anche con gli oggetti, non solo con le persone?",
+        "answer": "Sì, Background riconosce anche l’oggetto principale: una tazza, una borsa, un piatto."
+      },
+      {
+        "question": "È gratis?",
+        "answer": "Il download è gratuito e la sfocatura di base dello sfondo è inclusa; stili avanzati facoltativi tramite acquisti in-app."
+      }
+    ],
+    "related": [
+      "sfocare-sfondo-foto-iphone.html",
+      "effetto-bokeh-iphone.html",
+      "app-sfocare-foto-iphone.html",
+      "come-sfuocare-sfondo-foto.html"
+    ],
+    "cta_title": "L’effetto ritratto su ogni foto",
+    "cta_body": "Scarica «Sfocare Sfondo Foto», apri una foto e lascia che l’app trovi il soggetto. Gratis, senza caricamenti.",
+    "cta_text": "Scarica su App Store"
+  },
+  {
+    "slug": "come-sfuocare-sfondo-foto.html",
+    "keyword": "come sfuocare lo sfondo di una foto",
+    "cluster": "background",
+    "card_title": "Come sfuocare lo sfondo di una foto",
+    "card_excerpt": "Guida per principianti: cosa vuol dire sfuocare lo sfondo, quanta sfocatura usare e come farlo in tre tocchi.",
+    "card_image": "/img/appstore/it/04-box.webp",
+    "card_image_alt": "Sfondo sfuocato dietro un ritratto",
+    "meta_title": "Come sfuocare lo sfondo di una foto: guida facile su iPhone",
+    "meta_description": "Come sfuocare lo sfondo di una foto sull’iPhone anche se sei alle prime armi: tre tocchi, quanta sfocatura scegliere e gli errori da evitare. Gratis e semplice.",
+    "h1": "Come sfuocare lo sfondo di una foto (guida per principianti)",
+    "answer": "Per sfuocare lo sfondo di una foto su iPhone ti bastano tre tocchi: apri la foto in MakeBlur, lascia la scheda Background, sposta il cursore Radius verso destra finché lo sfondo è morbido e tocca Save. L’app trova da sola la persona o l’oggetto e lo lascia nitido; non devi ritagliare nulla a mano.",
+    "intro": "Sfuocare, sfocare, rendere lo sfondo sfumato: si dice in tanti modi, ma l’idea è sempre quella. Il soggetto resta nitido, tutto ciò che c’è dietro diventa morbido e l’occhio va subito sulla persona. Se non hai mai usato un editor, questa guida ti porta dal primo tocco alla foto salvata, con qualche indicazione su quanto spingere l’effetto.",
+    "image": "/img/appstore/it/04-box.webp",
+    "image_alt": "Il cursore Radius regola quanto è sfuocato lo sfondo",
+    "native": {
+      "heading": "Si può fare con l’app Foto?",
+      "paragraphs": [
+        "Solo sulle foto scattate in Modalità Ritratto: in Modifica trovi il cursore della profondità. Per tutte le altre foto, Foto non ha uno strumento per sfuocare lo sfondo. Il filtro «Vivace» o la regolazione «Nitidezza» non lo fanno."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Quanto sfuocare",
+        "paragraphs": [
+          "Poco (Radius basso): lo sfondo resta riconoscibile, è l’effetto più naturale, adatto a foto di famiglia e profilo. Medio: lo sfondo diventa una superficie morbida, perfetto per i post. Tanto (Radius alto): solo macchie di colore, d’effetto ma da controllare sui bordi.",
+          "Se hai dubbi, scegli il medio: è quello che sembra fatto con una fotocamera."
+        ]
+      },
+      {
+        "heading": "Errori da evitare",
+        "paragraphs": [
+          "Sfuocare troppo una foto di gruppo: chi è un po’ più indietro rischia di sembrare sfocato a metà. Sfuocare uno sfondo già scuro: la differenza si vede poco. Sovrascrivere l’originale: MakeBlur salva sempre una copia, quindi puoi riprovare quando vuoi."
+        ]
+      }
+    ],
+    "steps_title": "Sfuocare lo sfondo in tre tocchi",
+    "steps": [
+      {
+        "title": "Apri la foto",
+        "description": "Tocca la foto nella libreria dentro MakeBlur."
+      },
+      {
+        "title": "Sposta Radius",
+        "description": "Con la scheda Background attiva, trascina il cursore finché ti piace."
+      },
+      {
+        "title": "Tocca Save",
+        "description": "La nuova foto compare in Recenti."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "Le foto con il soggetto ben staccato dallo sfondo vengono meglio.",
+      "Ingrandisci con due dita per controllare i bordi prima di salvare.",
+      "Se il soggetto è un oggetto piccolo, avvicinati con il ritaglio dopo aver salvato."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Sfuocare o sfocare: qual è giusto?",
+        "answer": "Si usano entrambi. «Sfocare» è la forma più comune, «sfuocare» è diffusa nel parlato: indicano la stessa cosa."
+      },
+      {
+        "question": "Devo ritagliare il soggetto a mano?",
+        "answer": "No, la scheda Background lo riconosce in automatico. Per ritocchi puoi usare Manual."
+      },
+      {
+        "question": "Posso tornare alla foto originale?",
+        "answer": "Sì, l’app salva una copia e l’originale resta nella libreria."
+      }
+    ],
+    "related": [
+      "sfocare-sfondo-foto-iphone.html",
+      "foto-sfondo-sfocato.html",
+      "sfocatura-gaussiana-iphone.html",
+      "sfocare-foto-iphone.html"
+    ],
+    "cta_title": "Sfondo sfuocato in tre tocchi",
+    "cta_body": "Scarica «Sfocare Sfondo Foto»: apri, sposta Radius, salva. Gratis su iPhone con iOS 18.6.",
+    "cta_text": "Scarica su App Store"
+  },
+  {
+    "slug": "app-sfocare-foto-iphone.html",
+    "keyword": "app per sfocare foto iPhone",
+    "cluster": "background",
+    "card_title": "App per sfocare foto su iPhone",
+    "card_excerpt": "Modalità Ritratto, Markup, Ripulisci o un’app dedicata: cosa usare per sfondo, volti e dettagli.",
+    "card_image": "/img/appstore/it/03-face.webp",
+    "card_image_alt": "Volti sfocati nell’app per iPhone",
+    "meta_title": "App per sfocare foto su iPhone: confronto onesto dei metodi",
+    "meta_description": "Quale app usare per sfocare foto su iPhone: Modalità Ritratto, Markup, Ripulisci o MakeBlur. Cosa sfoca ciascuno (sfondo, volti, testo) e i loro limiti reali.",
+    "h1": "App per sfocare foto su iPhone: cosa usare e quando",
+    "answer": "Per sfocare foto su iPhone dipende da cosa vuoi sfocare. Lo sfondo di una foto in Ritratto: Foto basta. Lo sfondo di qualsiasi altra foto, tutti i volti, una targa o del testo: serve un’app come MakeBlur, che offre le schede Background, Faces, Manual e Full Photo, lavora sul dispositivo ed è gratuita da scaricare.",
+    "intro": "Cercando «app per sfocare foto» trovi liste di dieci app con funzioni simili e un abbonamento dopo il primo tocco. Prima di installare qualcosa, conviene sapere cosa fa già l’iPhone. Qui sotto un confronto onesto, per scegliere in base a cosa devi sfocare.",
+    "image": "/img/appstore/it/03-face.webp",
+    "image_alt": "Scheda Faces: tutti i volti riconosciuti e sfocati",
+    "native": {
+      "heading": "Gli strumenti già nell’iPhone",
+      "paragraphs": [
+        "Modalità Ritratto: sfondo sfocato solo mentre scatti, regolabile dopo in Foto. Markup: penna, evidenziatore e forme; copre, non sfoca, e l’evidenziatore è semitrasparente. Ripulisci (Apple Intelligence): rimuove oggetti e può pixelare un volto cerchiato, solo da iPhone 15 Pro e uno alla volta.",
+        "Nessuno di questi sfoca lo sfondo di una foto normale o un’area scelta da te."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Cosa offre MakeBlur",
+        "paragraphs": [
+          "Background: sfondo sfocato con soggetto riconosciuto in automatico. Faces: tutti i volti sfocati insieme. Manual: pennello per testo, targhe o qualsiasi area. Full Photo: l’intera immagine. Sette stili: Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize.",
+          "Funziona offline e non carica le foto. Download gratuito con la sfocatura di base dello sfondo inclusa; stili avanzati facoltativi tramite acquisti in-app."
+        ]
+      },
+      {
+        "heading": "Cosa guardare in un’app per sfocare",
+        "paragraphs": [
+          "Elaborazione sul dispositivo (le foto private non dovrebbero finire su server), riconoscimento automatico del soggetto, un pennello per le aree libere, salvataggio in risoluzione originale e una versione gratuita che permetta di provare prima di pagare."
+        ]
+      }
+    ],
+    "steps_title": "Prima prova con l’app",
+    "steps": [
+      {
+        "title": "Scarica gratis",
+        "description": "Da App Store, per iPhone con iOS 18.6 o successivo."
+      },
+      {
+        "title": "Apri una foto",
+        "description": "Qualsiasi immagine della libreria."
+      },
+      {
+        "title": "Scegli la scheda",
+        "description": "Background, Faces, Manual o Full Photo, in base a cosa vuoi sfocare."
+      },
+      {
+        "title": "Regola e salva",
+        "description": "Stile, Radius e Save."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "Se devi solo nascondere un dettaglio una volta, prova prima Markup: è già nell’iPhone.",
+      "Per la privacy preferisci app che non caricano le foto.",
+      "Prova le funzioni gratuite prima di decidere un acquisto."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Qual è l’app migliore per sfocare le foto su iPhone?",
+        "answer": "Dipende dall’uso. Per sfondo, volti e aree in un’unica app che lavora offline, MakeBlur copre tutti i casi. Per le foto in Ritratto basta l’app Foto."
+      },
+      {
+        "question": "Esiste un’app gratuita per sfocare le foto?",
+        "answer": "MakeBlur si scarica gratis e include la sfocatura di base dello sfondo. Le funzioni avanzate sono facoltative."
+      },
+      {
+        "question": "Serve Apple Intelligence?",
+        "answer": "No, l’app funziona su qualsiasi iPhone con iOS 18.6 o successivo."
+      }
+    ],
+    "related": [
+      "sfocare-sfondo-foto-iphone.html",
+      "sfocare-volto-foto.html",
+      "sfocare-parte-foto-iphone.html",
+      "effetto-sfocato-foto.html"
+    ],
+    "cta_title": "Un’app per sfondo, volti e dettagli",
+    "cta_body": "Scarica «Sfocare Sfondo Foto»: quattro modalità, sette stili, tutto sull’iPhone.",
+    "cta_text": "Scarica su App Store"
+  }
+]

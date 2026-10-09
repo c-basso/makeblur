@@ -1,324 +1,365 @@
 {
   "meta": {
     "lang": "ko",
-    "title": "아이폰 사진 배경 흐리게 — 무료 배경 블러 앱 | Make Blur",
-    "description": "Make Blur로 아이폰에서 배경과 얼굴을 빠르게 흐리게 하세요. 자동 배경 인식과 보케·모션·가우시안 등 7가지 스타일, 직관 조작의 무료 사진 앱. 브러시 지정과 프라이버시용 얼굴 블러도. App Store 무료.",
-    "keywords": "보케, 아이폰 보케, 얼굴 흐리게, 얼굴 블러, 아이폰 배경 흐리게, 사진 배경 블러, 모션 블러, 가우시안 블러, 사진 편집 앱, 프라이버시 사진, 블러 앱 추천",
+    "title": "아이폰 사진 배경 흐리게｜찍은 후에도 가능 - Make Blur",
+    "description": "이미 찍은 사진도 아이폰에서 배경을 흐리게 할 수 있어요. 피사체를 자동으로 찾아 배경만 아웃포커싱하고, 얼굴 모자이크, 캡처 가리기, 모션 블러, 가우시안 블러까지. 인물 사진 모드나 Apple Intelligence 없이 무료로, 사진은 기기 밖으로 나가지 않습니다.",
+    "keywords": "사진 배경 흐리게, 아이폰 배경 흐리게, 아웃포커싱 어플, 배경 블러, 블러 어플, 얼굴 모자이크, 얼굴 블러, 사진 모자이크, 캡처 모자이크, 번호판 가리기, 사진 흐리게, 모션 블러, 가우시안 블러",
     "author": "Make Blur",
     "og_url": "https://makeblur.com/ko/",
-    "og_title": "아이폰 사진 배경 흐리게 — 무료 블러 앱 Make Blur",
-    "og_description": "iPhone에서 배경과 얼굴을 블러 처리하는 무료 사진 앱 Make Blur. 보케·모션·가우시안 등 7가지 블러, 자동 배경 인식, 공유 전 얼굴 가림으로 프라이버시 보호. App Store에서 받으세요.",
+    "og_title": "아이폰 사진 배경 흐리게 — 찍은 후에도",
+    "og_description": "이미 찍은 사진도 아이폰에서 배경을 흐리게 할 수 있어요. 피사체를 자동으로 찾아 배경만 아웃포커싱하고, 얼굴 모자이크, 캡처 가리기, 모션 블러, 가우시안 블러까지. 인물 사진 모드나 Apple Intelligence 없이 무료로, 사진은 기기 밖으로 나가지 않습니다.",
     "og_image": "https://makeblur.com/ko/site_preview.png",
     "twitter_url": "https://makeblur.com/ko/",
-    "twitter_title": "아이폰 배경 블러 무료 앱 | Make Blur",
-    "twitter_description": "아이폰에서 배경·얼굴 블러. 보케, 모션, 가우시안 — Make Blur.",
+    "twitter_title": "아이폰 사진 배경 흐리게 — 찍은 후에도",
+    "twitter_description": "이미 찍은 사진도 아이폰에서 배경을 흐리게 할 수 있어요. 피사체를 자동으로 찾아 배경만 아웃포커싱하고, 얼굴 모자이크, 캡처 가리기, 모션 블러, 가우시안 블러까지. 인물 사진 모드나 Apple Intelligence 없이 무료로, 사진은 기기 밖으로 나가지 않습니다.",
     "twitter_image": "https://makeblur.com/ko/site_preview.png",
     "canonical": "https://makeblur.com/ko/"
   },
   "header": {
-    "logo_alt": "Make Blur — 아이폰 사진 배경 블러 앱",
+    "logo_alt": "사진 배경 흐리게 — Make Blur",
     "app_name": "Make Blur",
-    "download_text": "앱스토어에서 받기"
+    "download_text": "받기"
+  },
+  "ui": {
+    "skip_link": "본문으로 건너뛰기",
+    "nav_label": "메인 메뉴",
+    "key_facts_label": "핵심 정보",
+    "language_label": "언어",
+    "breadcrumb_label": "현재 위치",
+    "on_this_page": "이 페이지의 내용",
+    "built_into_iphone": "아이폰 기본 기능",
+    "guide_meta_device": "iPhone · iOS 18.6 이상",
+    "answer_note": "무료 · 업로드 없음 · 이미 찍은 사진에",
+    "inline_cta_note": "무료 · iOS 18.6 이상 iPhone · 업로드 없음",
+    "aside_app_name": "모자이크 배경 흐림 및 흐림 처리",
+    "aside_app_note": "무료 · iOS 18.6 이상",
+    "read_time": "{n}분 분량",
+    "howto_tool": "MakeBlur – 모자이크 배경 흐림 및 흐림 처리 (아이폰 앱)"
   },
   "hero": {
-    "title": "아이폰에서 사진 배경을 쉽게 흐리게 — Make Blur",
-    "subtitle": "사진 배경 블러에 최적화된 무료 iOS 앱",
-    "screens": [
+    "eyebrow": "사진 배경 흐리게 · 아이폰 무료 앱",
+    "title": "사진 배경 흐리게",
+    "title_accent": "찍은 후에도.",
+    "subtitle": "인물 사진 모드는 찍는 순간에만 작동합니다. MakeBlur는 이미 아이폰에 있는 사진의 배경, 얼굴, 원하는 부분을 몇 초 만에, 기기 안에서 흐리게 합니다.",
+    "lead": "",
+    "image": {
+      "src": "/img/screens/box__15_pro_max.webp",
+      "alt": "아이폰의 MakeBlur: 여성은 선명하고 뒤의 벽돌 벽과 꽃은 흐리게 처리됨",
+      "width": 600,
+      "height": 1299
+    },
+    "cta_text": "App Store에서 받기",
+    "secondary_cta_text": "사용 방법 보기",
+    "chips": [
       {
-        "src": "/img/screens/box__15_pro_max.webp",
-        "alt": "아이폰 배경 블러 — 박스 블러 효과 예시"
+        "text": "무료 다운로드"
       },
       {
-        "src": "/img/screens/motion__15_pro_max.webp",
-        "alt": "아이폰 배경 블러 — 모션 블러 효과 예시"
+        "text": "이미 찍은 사진에"
       },
       {
-        "src": "/img/screens/ghost__15_pro_max.webp",
-        "alt": "아이폰 배경 블러 — 고스트 블러 효과 예시"
+        "text": "클라우드 업로드 없음"
       },
       {
-        "src": "/img/screens/crys__15_pro_max.webp",
-        "alt": "아이폰 배경 블러 — 크리스털라이즈 블러 예시"
-      },
-      {
-        "src": "/img/screens/ghost1__15_pro_max.webp",
-        "alt": "아이폰 배경 블러 — 고급 블러 효과 예시"
+        "text": "iOS 18.6 이상"
       }
     ],
-    "intro": {
-      "line1": "아이폰에서 사진 배경만 흐리게 하고 싶으신가요?",
-      "line2": "복잡한 툴 없이 배경 블러를 하고 싶으신가요?",
-      "paragraph1": "<strong>Make Blur</strong>는 배경과 얼굴을 흐리게 할 수 있는 iOS 사진 앱입니다. 보케를 포함한 7가지 블러와 자동 배경 인식을 지원합니다.",
-      "paragraph2": "몇 번의 탭으로 배경을 흐리게 하고, 인물·사물을 돋보이게 하세요. 직관적인 화면으로 <strong>처음 사용자도</strong> 빠르게 결과를 얻을 수 있습니다."
+    "float_cards": [
+      {
+        "pos": "tl",
+        "label": "Background",
+        "value": "피사체 감지"
+      },
+      {
+        "pos": "br",
+        "label": "Box",
+        "value": "강도 37"
+      }
+    ]
+  },
+  "download": {
+    "kicker": "App Store 무료",
+    "title": "「모자이크 배경 흐림 및 흐림 처리」 다운로드",
+    "subtitle": "찍은 후에도 사진의 배경, 얼굴, 원하는 부분을 흐리게 하는 아이폰 앱입니다.",
+    "icon": {
+      "src": "/img/appstore/icon.webp",
+      "alt": "「모자이크 배경 흐림 및 흐림 처리」 앱 아이콘"
     },
-    "cta_text": "앱스토어에서 받기"
+    "points": [
+      {
+        "text": "피사체를 자동 감지해 배경만 흐리게. 인물 사진 모드 필요 없음"
+      },
+      {
+        "text": "단체 사진·거리 사진의 얼굴을 한 번에 블러. Apple Intelligence 필요 없음"
+      },
+      {
+        "text": "글자, 번호판 등 원하는 부분을 문질러 흐리게 하는 브러시"
+      },
+      {
+        "text": "Gaussian·Motion·Ghosting·Box·Pixelate·Hexagonal·Crystallize 7가지 스타일"
+      },
+      {
+        "text": "모든 처리는 아이폰 안에서. 사진은 어디에도 업로드되지 않습니다"
+      }
+    ],
+    "specs": [
+      {
+        "label": "가격",
+        "value": "무료"
+      },
+      {
+        "label": "지원",
+        "value": "iOS 18.6 이상"
+      },
+      {
+        "label": "카테고리",
+        "value": "그래픽 및 디자인"
+      },
+      {
+        "label": "언어",
+        "value": "한국어 외 28개"
+      }
+    ],
+    "body": "기본 배경 흐림은 무료입니다. 고급 스타일과 도구는 필요할 때 앱 내 구입으로 선택해 이용할 수 있습니다.",
+    "cta_text": "App Store에서 받기"
+  },
+  "screenshots": {
+    "title": "실제 화면",
+    "intro": "App Store 실제 스크린샷: 모션 블러, 얼굴 보호, 주인공에 초점, 모자이크, 부드러운 보케.",
+    "items": [
+      {
+        "src": "/img/appstore/ko/02-motion.webp",
+        "alt": "선글라스를 낀 여성 뒤 배경에 모션 블러, Radius 65",
+        "caption": "액션 사진에 모션 블러"
+      },
+      {
+        "src": "/img/appstore/ko/03-face.webp",
+        "alt": "Faces 탭: 감지된 모든 얼굴이 공유 전에 흐리게 처리됨",
+        "caption": "공유 전에 얼굴 가리기"
+      },
+      {
+        "src": "/img/appstore/ko/04-box.webp",
+        "alt": "Background 탭: 여성은 선명, 배경은 Box 스타일로 흐리게",
+        "caption": "주인공은 선명하게, 나머지는 흐리게"
+      },
+      {
+        "src": "/img/appstore/ko/05-crystalize.webp",
+        "alt": "Crystallize 스타일로 배경이 모자이크로 바뀜",
+        "caption": "탭 한 번으로 모자이크"
+      },
+      {
+        "src": "/img/appstore/ko/06-ghost.webp",
+        "alt": "사진 전체에 Ghosting 스타일을 적용한 부드러운 분위기",
+        "caption": "부드러운 보케 감성"
+      }
+    ]
   },
   "statistics": {
-    "title": "Make Blur 주요 수치",
-    "items": [
-      {
-        "number": "10,000+",
-        "label": "다운로드"
-      },
-      {
-        "number": "4.5",
-        "label": "평점"
-      },
-      {
-        "number": "10+",
-        "label": "리뷰"
-      },
-      {
-        "number": "7",
-        "label": "블러 종류"
-      }
-    ]
-  },
-  "features": {
-    "title": "아이폰 사진 배경 블러 — 간단하지만 확실한 편집",
-    "intro": {
-      "line1": "배경만 흐리게 하는 게 생각보다 번거롭다는 걸 알고 있습니다.",
-      "paragraph1": "그래서 <strong>배경 블러에 집중한 앱</strong>을 만들었습니다. 복잡한 레이어 편집 대신, 목적에 맞는 블러를 빠르게 적용할 수 있습니다.",
-      "paragraph2": "광고에 가린 기능·과한 구독 부담을 줄이고, 사진 한 장씩 결과를 확인할 수 있게 구성했습니다."
-    },
-    "items": [
-      {
-        "title": "자동 배경 인식으로 배경 블러",
-        "description": "배경 영역을 앱이 감지해 <strong>인물·피사체는 선명하게</strong>, 뒤쪽만 흐리게 할 수 있습니다. SNS·프로필 사진처럼 <strong>피사체를 강조</strong>할 때 유용합니다."
-      },
-      {
-        "title": "얼굴 블러로 프라이버시",
-        "description": "공유 전 얼굴을 흐리게 — 단체 사진·행사에 적합. 배경 블러와 <strong>같은 앱</strong>에서 처리합니다."
-      },
-      {
-        "title": "사진·이미지 전체 또는 부분 블러",
-        "description": "인스타 감성 연출, 개인정보 가리기 등 목적에 맞게 <strong>사진 전체 또는 원하는 구역</strong>만 흐리게 할 수 있습니다."
-      },
-      {
-        "title": "브러시로 직접 그리며 블러 영역 지정",
-        "description": "손으로 영역을 칠해 <strong>블러가 들어갈 위치를 정확히</strong> 정할 수 있습니다. 자동 인식과 함께 쓰면 더 세밀한 결과를 낼 수 있습니다."
-      },
-      {
-        "title": "아이폰에서 사진 흐리게 — 단계가 적습니다",
-        "description": "앱 실행 → 사진 선택 → 블러 종류 선택 → 저장. 긴 튜토리얼 없이 <strong>짧은 흐름</strong>으로 끝나도록 설계했습니다."
-      },
-      {
-        "title": "보케·모션·가우시안 블러",
-        "description": "<strong>보케</strong>로 인물 사진 같은 얕은 심도와 부드러운 하이라이트, 모션·가우시안으로 분위기 조절. 총 <strong>7가지</strong> 스타일."
-      },
-      {
-        "title": "아이폰 사용자를 위한 배경 블러 앱",
-        "description": "터치 중심 UI로 한 손에서도 편집하기 쉽게 구성했습니다. 앱스토어 초기 리뷰 기준 <strong>평점 약 4.5</strong>를 참고할 수 있으며, 의견을 반영해 업데이트를 이어 가고 있습니다."
-      }
-    ]
-  },
-  "blur_types": {
-    "title": "7가지 블러로 아이폰 사진 배경 흐리게",
-    "items": [
-      {
-        "title": "모션 블러",
-        "description": "움직임이 느껴지는 <strong>모션 블러</strong>로 역동적인 분위기를 줄 수 있습니다."
-      },
-      {
-        "title": "가우시안 블러",
-        "description": "부드럽게 퍼지는 <strong>가우시안 블러</strong>로 자연스러운 아웃포커스 느낌을 낼 수 있습니다."
-      },
-      {
-        "title": "고스팅",
-        "description": "은은한 이중 노출 같은 <strong>고스팅</strong> 효과로 분위기 있는 이미지를 만들 수 있습니다."
-      },
-      {
-        "title": "픽셀레이트",
-        "description": "모자이크형 <strong>픽셀레이트</strong>로 레트로 느낌이나 얼굴·텍스트 가리기에 활용할 수 있습니다."
-      },
-      {
-        "title": "헥사고널",
-        "description": "육각 패턴이 섞인 <strong>헥사고널 블러</strong>로 독특한 질감을 줄 수 있습니다."
-      },
-      {
-        "title": "크리스털라이즈",
-        "description": "<strong>크리스털라이즈</strong>로 결·텍스처를 살려 예술적인 느낌을 더할 수 있습니다."
-      },
-      {
-        "title": "보케 (Bokeh)",
-        "description": "<strong>보케</strong>는 얕은 심도를 재현합니다. 피사체는 선명하고 배경은 자연스러운 빛 번짐으로 부드럽게."
-      }
-    ]
-  },
-  "comparison": {
-    "title": "Make Blur와 다른 블러 앱 비교",
-    "intro": "같은 「배경 블러」라도 가격 정책·효과 개수·자동 인식 유무가 다릅니다. 공개된 앱스토어 정보를 바탕으로 한 요약입니다.",
-    "table": {
-      "feature_label": "항목",
-      "competitors": [
-        {
-          "name": "Make Blur"
-        },
-        {
-          "name": "일반 블러 앱"
-        },
-        {
-          "name": "프리미엄형 블러 앱"
-        }
-      ],
-      "features": [
-        {
-          "name": "가격",
-          "value1": "Freemium(무료 + 선택 인앱)",
-          "value2": "광고·페이월 강조 사례 다수",
-          "value3": "유료 구매 또는 구독"
-        },
-        {
-          "name": "블러 종류",
-          "value1": "7종(보케 포함)",
-          "value2": "약 2~3종",
-          "value3": "약 3~4종"
-        },
-        {
-          "name": "얼굴 블러(프라이버시)",
-          "value1": "지원",
-          "value2": "드묾/없음",
-          "value3": "앱에 따라 다름"
-        },
-        {
-          "name": "배경 자동 인식",
-          "value1": "지원",
-          "value2": "없음/제한적",
-          "value3": "앱에 따라 다름"
-        },
-        {
-          "name": "직접 그리기(브러시)",
-          "value1": "지원",
-          "value2": "미지원인 경우 많음",
-          "value3": "앱에 따라 다름"
-        },
-        {
-          "name": "사용 편의 평가(참고)",
-          "value1": "별 약 4.5",
-          "value2": "별 약 3.5~4.2",
-          "value3": "별 약 4.0~4.5"
-        }
-      ]
-    },
-    "note": "2026년 4월 기준 공개 정보 참고. Make Blur는 배경·얼굴 블러, 보케 등 필터와 사용 편의를 강조합니다."
+    "title": "",
+    "items": []
   },
   "how_it_works": {
-    "title": "아이폰에서 배경 흐리게 하는 방법 — 3단계",
+    "nav_text": "사용 방법",
+    "title": "아이폰에서 사진 배경 흐리게 하는 법",
     "intro": {
-      "line1": "<strong>세 단계</strong>로 사진을 열고 배경만 흐리게 한 뒤 저장할 수 있습니다.",
-      "paragraph1": "별도 편집 소프트웨어 없이, 휴대폰 한 대로 마무리할 수 있도록 흐름을 단순화했습니다."
+      "line1": "3단계",
+      "paragraph1": "다시 찍을 필요도, 컴퓨터도 필요 없습니다. 가지고 있는 사진을 열고, 피사체를 확인하고, 저장하세요."
     },
     "steps": [
       {
         "number": "1",
-        "title": "앱스토어에서 Make Blur 설치",
-        "description": "App Store에서 <strong>Make Blur</strong>를 검색해 설치합니다. 아이폰·iPad 호환 iOS 앱입니다."
+        "title": "앱 받기",
+        "description": "iOS 18.6 이상 아이폰용으로 App Store에서 무료. 일반 사진, 셀카, 캡처, 받은 이미지 등 사진 보관함의 어떤 사진이든 열 수 있습니다."
       },
       {
         "number": "2",
-        "title": "갤러리에서 사진 열기",
-        "description": "편집할 사진을 고릅니다. <strong>배경 자동 인식</strong>이 동작하면 별도로 영역을 일일이 고르지 않아도 됩니다."
+        "title": "흐리게 할 곳 선택",
+        "description": "Background는 피사체를 자동으로 선명하게 남깁니다. Faces는 감지된 모든 얼굴을 가립니다. Manual은 원하는 부분을 칠하는 브러시. Full Photo는 사진 전체를 흐리게 합니다."
       },
       {
         "number": "3",
-        "title": "블러 선택 후 저장",
-        "description": "보케·모션·가우시안 등 7가지 중 선택, 필요 시 얼굴 블러 후 저장. SNS·메신저로 공유 가능."
+        "title": "스타일, 강도, 저장",
+        "description": "부드러운 렌즈 블러는 Gaussian, 움직임은 Motion, 개인정보 보호는 Pixelate. Radius로 강도를 조절하고 Save로 「사진」에 저장합니다."
       }
     ]
   },
+  "modes": {
+    "title": "모드 4개, 슬라이더 하나",
+    "items": [
+      {
+        "tab": "Background",
+        "name": "배경 흐리게",
+        "description": "피사체를 감지해 선명하게 두고 뒤쪽은 부드럽게. 어떤 사진이든 아웃포커싱 느낌으로.",
+        "url": "/ko/iphone-sajin-baegyeong-heurige.html",
+        "link_text": "아이폰 사진 배경 흐리게"
+      },
+      {
+        "tab": "Faces",
+        "name": "얼굴 블러",
+        "description": "사진 속 모든 얼굴을 탭 한 번으로 감지해 흐리게. Apple Intelligence가 필요 없습니다.",
+        "url": "/ko/eolgul-mosaic.html",
+        "link_text": "얼굴 모자이크"
+      },
+      {
+        "tab": "Manual",
+        "name": "사진 일부",
+        "description": "글자, 번호판, 문패, 인파 속 누군가를 손가락으로 문지르세요. 칠한 부분만 흐려집니다.",
+        "url": "/ko/sajin-bubun-blur.html",
+        "link_text": "사진 일부 블러"
+      },
+      {
+        "tab": "Full Photo",
+        "name": "사진 전체",
+        "description": "부드러운 배경화면, 스토리 배경, 어떤 사진이든 감성적인 한 장으로. 한 번에.",
+        "url": "/ko/sajin-heurige-iphone.html",
+        "link_text": "사진 흐리게 하기"
+      }
+    ],
+    "styles_label": "모든 모드에서 쓰는 스타일",
+    "styles": [
+      "Gaussian",
+      "Motion",
+      "Ghosting",
+      "Box",
+      "Pixelate",
+      "Hexagonal",
+      "Crystallize"
+    ],
+    "styles_note": "Radius: 강도 · Angle: 움직임 방향"
+  },
   "final_cta": {
-    "title": "지금 아이폰에서 배경 블러를 해 보세요",
-    "paragraph1": "사진 한 장으로 인물이 더 돋보이게 하려면, <strong>배경만 흐리게</strong> 하는 것만으로도 충분한 경우가 많습니다.",
-    "paragraph2": "Make Blur는 그 작업에 특화된 iOS 앱입니다. 설치 후 바로 사진을 열어 보세요.",
-    "paragraph3": "<strong>앱스토어</strong>에서 무료로 받고, 보케 포함 7가지 블러를 확인해 보세요.",
-    "cta_text": "시작하기"
+    "eyebrow": "App Store 무료",
+    "title": "가지고 있는 사진의 배경, 지금 흐리게",
+    "paragraph1": "「최근 항목」에서 사진을 열고, 앱이 피사체를 찾으면 슬라이더를 움직여 저장하세요. 얼굴, 움직임, 사진 전체도 같은 앱에서.",
+    "paragraph2": "",
+    "paragraph3": "업로드 없음 · iOS 18.6 이상 iPhone",
+    "images": [
+      "/img/appstore/ko/03-face.webp",
+      "/img/appstore/ko/04-box.webp",
+      "/img/appstore/ko/02-motion.webp"
+    ],
+    "cta_text": "App Store에서 받기"
   },
   "footer": {
-    "copyright": "© {year} Make Blur. 무단 복제·배포를 금합니다.",
-    "download_text": "App Store에서 Make Blur 받기",
-    "tagline": "Make Blur — 배경·얼굴 블러. 보케·모션·가우시안 등 7가지, 자동 인식.",
+    "copyright": "© {year} Make Blur. All rights reserved.",
+    "download_text": "App Store에서 「모자이크 배경 흐림 및 흐림 처리」 받기",
+    "tagline": "「모자이크 배경 흐림 및 흐림 처리」(MakeBlur)는 찍은 후의 사진에서 배경, 얼굴, 원하는 부분을 흐리게 하는 무료 아이폰 앱입니다. 모든 처리는 기기 안에서 이뤄집니다.",
     "privacy_text": "개인정보 처리방침",
-    "terms_text": "이용 약관"
+    "terms_text": "이용약관",
+    "more_title": "더 보기",
+    "fineprint": "「모자이크 배경 흐림 및 흐림 처리」는 iOS 18.6 이상의 iPhone이 필요합니다. Apple, iPhone, App Store는 미국 및 기타 국가에서 등록된 Apple Inc.의 상표입니다."
   },
   "seo": {
     "breadcrumb_home": "홈",
     "faq_title": "자주 묻는 질문",
+    "faq_nav_text": "FAQ",
+    "faq_intro": "아이폰에서 사진을 흐리게 하는 방법에 대한 짧은 답변입니다. 각 답변은 자세한 가이드로 이어집니다.",
     "faq": [
       {
-        "question": "아이폰에서 사진 배경을 어떻게 흐리게 하나요?",
-        "answer": "<strong>Make Blur</strong>를 내려받고 사진을 열어 <strong>배경 자동 인식</strong>을 켜거나 <strong>마스크(브러시)</strong>로 직접 그립니다. 그다음 <strong>보케</strong>·<strong>모션 블러</strong>·<strong>가우시안 블러</strong> 등 7가지 중 하나를 고른 뒤, 필요하면 <strong>얼굴 블러</strong>로 프라이버시를 맞추고 <strong>저장</strong>하면 됩니다."
+        "question": "이미 찍은 사진의 배경을 아이폰에서 흐리게 하려면?",
+        "answer": "앱에서 사진을 열고 피사체가 감지되도록 Background 탭을 그대로 둔 채 Gaussian을 고르고, 원하는 만큼 Radius를 올린 뒤 Save를 누르세요. 인물 사진 모드 없이 사진 보관함의 모든 사진에 쓸 수 있습니다.",
+        "guide_keyword": "아이폰 사진 배경 흐리게"
       },
       {
-        "question": "아이폰에서 사진 배경 흐리기에 가장 잘 맞는 앱은 뭔가요?",
-        "answer": "<strong>Make Blur</strong>는 <strong>아이폰</strong>용으로 <strong>배경</strong>과 <strong>얼굴</strong> 흐리기에 집중한 앱이며, <strong>자동 배경 인식</strong>·<strong>얼굴 블러</strong>·<strong>보케</strong>를 비롯한 <strong>7가지</strong> 블러, 사용하기 쉬운 흐름이 특징입니다. 초기 사용자 평가는 대략 <strong>4.5/5</strong>에 가깝다고 알려져 있습니다."
+        "question": "「사진」 앱으로 일반 사진의 배경을 흐리게 할 수 있나요?",
+        "answer": "인물 사진 모드로 찍은 사진이라면 「편집」에서 심도(f값)를 바꿀 수 있습니다. 일반 사진, 캡처, 받은 이미지에는 심도 정보가 없고 「사진」 앱에는 배경 흐림 기능이 없습니다. 그래서 이 앱이 필요합니다.",
+        "guide_keyword": "블러 어플 아이폰"
       },
       {
-        "question": "아이폰에서 사진(한 장)을 흐리게 하려면 어떻게 하나요?",
-        "answer": "<strong>Make Blur</strong>에서 <strong>사진을 열고</strong>, <strong>흐릿해질 영역</strong>을 고르거나 <strong>자동으로 배경을 잡게</strong> 둡니다. 필요 시 <strong>얼굴 블러</strong>를 켠 뒤 <strong>보케</strong>·<strong>모션</strong>·<strong>가우시안</strong> 등 7가지 효과 중에서 고르고 <strong>저장</strong>합니다."
+        "question": "Apple Intelligence 없이 얼굴을 모자이크하려면?",
+        "answer": "「사진」의 클린업은 iPhone 15 Pro 이상 Apple Intelligence 지원 기기에서만 되고, 원치 않는 물체를 지우는 도구입니다. 앱의 Faces 탭은 iOS 18.6 이상 모든 아이폰에서 얼굴을 한 번에 찾아 흐리게 합니다.",
+        "guide_keyword": "얼굴 모자이크"
       },
       {
-        "question": "사진 배경 흐리기를 무료로 쓸 수 있나요?",
-        "answer": "예. <strong>Make Blur</strong>는 <strong>무료로 내려받을</strong> 수 있고, <strong>배경</strong>·<strong>얼굴</strong> 흐리기와 7가지 <strong>기본 느낌의</strong> 블러(보케, 모션, 가우시안 등)는 보통 <strong>구독 없이</strong> 쓰는 흐름이 중심입니다. 일부 <strong>고급·추가 옵션</strong>은 <strong>인앱 구매</strong>일 수 있으니, 최신 내용은 <strong>App Store 앱 설명</strong>을 봐 주세요."
+        "question": "사진의 일부만 흐리게 하려면?",
+        "answer": "Manual 탭에서 글자, 번호판, 인파 속 사람 등 가리고 싶은 부분을 손가락으로 문지르세요. 칠한 부분만 흐려지고 강도는 Radius로 조절합니다.",
+        "guide_keyword": "사진 일부 블러"
       },
       {
-        "question": "갤러리에 있는 사진(이미지)을 흐리게 하려면 아이폰에서 어떻게 하나요?",
-        "answer": "먼저 App Store에서 <strong>Make Blur</strong>를 설치합니다. <strong>갤러리</strong>에서 사진을 열고, <strong>자동 배경 인식</strong>을 쓸지 <strong>마스크(브러시)</strong>로 직접 그릴지 정한 뒤, <strong>얼굴 블러</strong>가 필요하면 켜고, <strong>보케</strong>·<strong>모션</strong>·<strong>가우시안</strong> 등 7가지를 고른 후 <strong>완성본을 저장</strong>합니다."
+        "question": "엔카나 당근마켓에 올릴 차 사진의 번호판을 가리려면?",
+        "answer": "사진을 열고 Manual 탭, 스타일은 Pixelate나 Box. 번호판을 칠하고 글자가 안 보일 때까지 Radius를 올립니다. 저장한 사본을 판매글에 올리면 원본은 아이폰 밖으로 나가지 않습니다.",
+        "guide_keyword": "번호판 가리기"
       },
       {
-        "question": "아이폰에서 배경을 흐릿하게 만들 때 어떤 블러 효과를 쓸 수 있나요?",
-        "answer": "예를 들어 <strong>모션 블러</strong>·<strong>가우시안 블러</strong>·<strong>고스팅</strong>·<strong>픽셀레이트</strong>·<strong>헥사고널</strong>·<strong>크리스털라이즈</strong>·<strong>보케</strong> <strong>7가지</strong>가 함께 갖춰져 있어요. <strong>보케</strong>는 인물·제품 촬영에 익숙한 <strong>얕은 심도</strong>·부드러운 <strong>빛 번짐(보케 볼)</strong> 느낌에 잘 맞고, 7가지는 <strong>배경</strong>이나 <strong>골라낸 구역</strong>에 쓰기 쉬운 편이에요."
+        "question": "캡처 화면의 글자를 모자이크하려면?",
+        "answer": "Manual로 주소, 전화번호, 계좌번호, 카톡 대화 줄을 칠하고 Pixelate를 골라 사본을 저장하세요. 확대해서 아무것도 읽히지 않는지 확인하세요.",
+        "guide_keyword": "캡처 모자이크"
       },
       {
-        "question": "다른 블러 앱 말고 Make Blur를 써야 하는 이유는 뭔가요?",
-        "answer": "<strong>Make Blur</strong>는 <strong>자동 배경 인식</strong>과 <strong>얼굴 블러(프라이버시)</strong>를, <strong>보케</strong>를 포함한 <strong>7가지</strong> 효과와, 기본 흐름을 <strong>무료로</strong> 쉽게 써보더라도 부담이 덜하도록 <strong>Freemium</strong>으로 풀어둡니다. 단순 블러를 <strong>광고·강한 구독</strong> 뒤에 숨기는 앱도 많고, <strong>Make Blur</strong>는 먼저 <strong>배경+필요 시 얼굴</strong> 실무 흐름이 자연스럽게 잡힌 편이에요."
+        "question": "사진에 모션 블러를 주려면?",
+        "answer": "Motion 스타일을 고르세요. Radius는 흐름의 길이, Angle은 방향입니다. Background 탭에서는 배경만 움직이고 피사체는 선명하게 남습니다.",
+        "guide_keyword": "모션 블러 사진"
       },
       {
-        "question": "아이폰 기본 인물 모드(세로 모드)와 뭐가 다른가요?",
-        "answer": "시스템 <strong>인물·세로(포트레이트) 모드</strong>는 촬영 순간·조건에 크게 갈려요. <strong>Make Blur</strong>는 <strong>이미 갤러리에 있는 아무 사진</strong>이나 열어, <strong>7가지</strong> 효과와 <strong>얼굴 블러</strong>·<strong>자동 인식+브러시</strong>를 쓸 수 있고, <strong>기본 편집</strong>보다 <strong>스타일·씬 선택</strong> 쪽이 넓다고 보면 이해에 도움이 될 거예요."
+        "question": "가우시안 블러와 아웃포커싱은 뭐가 다른가요?",
+        "answer": "가우시안 블러는 초점이 나간 렌즈처럼 고르고 부드러운 흐림 방식입니다. 아웃포커싱은 피사체만 선명하고 배경이 흐린 사진, 즉 결과를 말합니다. 앱에서는 Background에 Gaussian을 주면 깔끔한 아웃포커싱이 됩니다.",
+        "guide_keyword": "가우시안 블러"
       },
       {
-        "question": "다른 블러 앱들보다 Make Blur가 더 낫다고 볼 수 있나요?",
-        "answer": "상황마다 다르지만, <strong>강한 유료·구독 밀기</strong>에 비해 <strong>Freemium</strong> 쪽 흐름, <strong>7가지</strong>·<strong>보케</strong>·<strong>얼굴</strong>·<strong>자동 인식</strong>이 한꺼번에 묶이고, <strong>평균 4.5</strong> 내외, <strong>다운로드 1만 건+</strong> 느낌(참고 수치)으로 <strong>쓰기 쉬움</strong>에 무게를 둔다는 점은 장점이에요. <strong>페이월(유료로 막힘)</strong>·기능 누락이 심한 앱과 <strong>직접</strong> 비교해 보면 감이 옵니다."
+        "question": "사진 전체를 흐리게 하려면?",
+        "answer": "Full Photo 탭이 사진 전체를 흐리게 합니다. 스타일과 강도를 골라 배경화면, 스토리 배경, 감성 이미지로. 설치 없이 하려면 이 사이트의 온라인 에디터로도 사진 전체를 흐리게 할 수 있습니다.",
+        "guide_keyword": "사진 흐리게"
       },
       {
-        "question": "아이폰 사진에서 얼굴만 흐리게 하려면 어떻게 하면 되나요?",
-        "answer": "<strong>Make Blur</strong>를 연 뒤 <strong>얼굴 블러</strong>·비슷한 <strong>프라이버시용 옵션</strong>을 고르고, <strong>자동으로 잡힌 얼굴</strong>이나 <strong>직접 둔 영역</strong>에 <strong>블러</strong>를 넣은 후 <strong>저장</strong>합니다. 단체 사진·밖에 공개하기 전에, <strong>PC 편집</strong> 없이도 공유 쪽 <strong>얼굴 가림</strong>에 쓰기 쉬워요."
+        "question": "앱은 무료인가요?",
+        "answer": "네. 무료로 다운로드할 수 있고 기본 배경 흐림이 포함돼 있습니다. 고급 스타일과 도구는 필요할 때 앱 내 구입으로 선택해 이용할 수 있습니다.",
+        "guide_keyword": "사진 배경 블러 처리"
       },
       {
-        "question": "Make Blur에서 보케(Bokeh) 필터는 무엇을 하나요?",
-        "answer": "피사체·주제는 <strong>선명</strong>한데 <strong>배경</strong>만 <strong>부드럽게</strong> 풀리고, 하이라이트는 <strong>둥글고 부드럽게</strong> 퍼질 수 있어요(얕은 심도, 빠른 인물렌즈에 가깝게). <strong>7가지</strong>에 포함된 한 종류이고, 나머지(모션·가우시안·고스팅, 픽셀레이트, 헥사, 크리스털라이즈)와 <strong>같은 목록</strong>에서 선택할 수 있습니다."
+        "question": "사진이 서버에 업로드되나요?",
+        "answer": "아니요. 모든 처리는 아이폰 안에서 이뤄지고 흐림 처리에 인터넷이 필요 없습니다. 사진은 기기 밖으로 나가지 않습니다.",
+        "guide_keyword": "사진 모자이크 아이폰"
       },
       {
-        "question": "사진의 일부만 흐릿하게 할 수 있나요?",
-        "answer": "가능해요. <strong>자동으로 잡힌 배경</strong>이 있으면 쓰고, <strong>브러시·덧그리기(마스크)</strong>로 <strong>더 흐릿해질 쪽</strong>만 <strong>정확히</strong> 잡을 수도 있고, <strong>자동 마스크</strong>를 손에 맞게 다듬은 뒤 <strong>저장</strong>하면 돼요."
-      },
-      {
-        "question": "얼굴·자동차 번호판(번호판) 같은 민감한 부분을 가리는 데도 쓸 수 있나요?",
-        "answer": "사진 편집 <strong>앱 범위</strong> 안에선, <strong>얼굴 블러</strong>·<strong>강한 흐림(블러·픽셀)</strong>에 기대 <strong>식별이 어렵게</strong> 만드는 데 맞췄어요. <strong>법·규정·책임</strong>까지 보장하진 <strong>않아요</strong> — 자동차 <strong>번호판</strong>·중요 <strong>개인·법적</strong> 상황은, 필요하면 <strong>전문가</strong>·해당 <strong>관할</strong>에 물어 보는 게 맞아요."
-      },
-      {
-        "question": "Make Blur 쓸 때 내 사진·데이터는 안전한가요?",
-        "answer": "개발사 설계·개인정보 취지에 맞다면, 편집 <strong>대부분</strong>을 <strong>이 기기에서·앱 안</strong>에서 끝내는 흐름이에요. <strong>클라우드로</strong> 자동 <strong>동기·업로드</strong>를 해야만 한다면 앱/사이트가 따로 <strong>밝힌 약관</strong>을 <strong>꼭</strong> 읽고, <strong>개인정보 처리방침</strong>·<strong>App Store 설명</strong> <strong>최신</strong>본을 봐 주세요."
+        "question": "어떤 아이폰에서 쓸 수 있나요?",
+        "answer": "iOS 18.6 이상의 모든 아이폰에서 쓸 수 있습니다. Apple Intelligence도 인물 사진 모드 카메라도 필요 없습니다.",
+        "guide_keyword": "블러 어플 아이폰"
       }
     ],
     "structured_data": {
       "software_application": {
         "@context": "https://schema.org",
         "@type": "SoftwareApplication",
-        "name": "Make Blur",
+        "name": "모자이크 배경 흐림 및 흐림 처리",
+        "alternateName": [
+          "MakeBlur",
+          "Make Blur"
+        ],
         "applicationCategory": "PhotoEditorApplication",
-        "operatingSystem": "iOS",
+        "operatingSystem": "iOS 18.6 이상",
         "offers": {
           "@type": "Offer",
           "price": "0",
-          "priceCurrency": "USD"
+          "priceCurrency": "KRW",
+          "description": "무료, 앱 내 구입은 선택"
         },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.5",
-          "ratingCount": "10"
-        },
-        "description": "아이폰에서 배경·얼굴 블러. 보케·모션·가우시안 등 7가지, 자동 배경 인식."
+        "description": "찍은 후의 사진 배경을 흐리게 하는 무료 아이폰 사진 편집 앱. 피사체 자동 감지, 얼굴 블러, 수동 브러시, Motion·Gaussian·Pixelate 효과와 부드러운 스타일. 기기 내 처리.",
+        "applicationSubCategory": "그래픽 및 디자인",
+        "image": "https://makeblur.com/img/appstore/icon-1024.png",
+        "screenshot": [
+          "https://makeblur.com/img/appstore/ko/01-cover.webp",
+          "https://makeblur.com/img/appstore/ko/02-motion.webp",
+          "https://makeblur.com/img/appstore/ko/03-face.webp",
+          "https://makeblur.com/img/appstore/ko/04-box.webp",
+          "https://makeblur.com/img/appstore/ko/05-crystalize.webp",
+          "https://makeblur.com/img/appstore/ko/06-ghost.webp"
+        ],
+        "featureList": [
+          "피사체 자동 감지 배경 흐림",
+          "얼굴 블러",
+          "수동 블러 브러시",
+          "사진 전체 블러",
+          "Gaussian·Motion·Ghosting·Box·Pixelate·Hexagonal·Crystallize",
+          "기기 내 처리"
+        ],
+        "softwareVersion": "1.16.4",
+        "fileSize": "25.7MB",
+        "inLanguage": "ko",
+        "author": {
+          "@type": "Organization",
+          "name": "Make Blur",
+          "url": "https://makeblur.com"
+        }
       },
       "organization": {
         "@context": "https://schema.org",
@@ -326,40 +367,27 @@
         "name": "Make Blur",
         "url": "https://makeblur.com",
         "logo": "https://makeblur.com/img/logo.webp",
-        "description": "Make Blur — 배경·얼굴 블러, 보케·모션·가우시안 등 iOS 사진 앱."
+        "description": "Make Blur는 찍은 후의 사진에서 배경, 얼굴, 원하는 부분을 흐리게 하는 무료 아이폰 앱 「모자이크 배경 흐림 및 흐림 처리」(MakeBlur)를 제공합니다."
       },
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Make Blur",
         "url": "https://makeblur.com/ko/",
-        "description": "아이폰 배경·얼굴 블러, 보케 포함 7가지 효과 — Make Blur 안내.",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://makeblur.com/ko/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "inLanguage": "ko",
+        "description": "찍은 후의 사진 배경을 아이폰에서 흐리게: 가이드, 자주 묻는 질문, App Store 다운로드."
       },
       "howto": {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "아이폰에서 사진 배경 흐리게 하기",
-        "description": "Make Blur로 갤러리 사진의 배경(및 필요 시 얼굴)을 블러 처리 — 보케 포함.",
-        "step": [
+        "name": "아이폰에서 사진 배경 흐리게 하는 법",
+        "description": "이미 찍은 사진의 배경 흐리게: 앱을 받고, 흐리게 할 곳을 고르고, 강도를 조절해 기기에 저장합니다.",
+        "step": [],
+        "totalTime": "PT2M",
+        "tool": [
           {
-            "@type": "HowToStep",
-            "name": "Make Blur 설치",
-            "text": "App Store에서 Make Blur를 검색해 설치합니다."
-          },
-          {
-            "@type": "HowToStep",
-            "name": "사진 열기",
-            "text": "앱에서 편집할 사진을 선택합니다. 배경 자동 인식이 가능하면 배경 영역이 감지됩니다."
-          },
-          {
-            "@type": "HowToStep",
-            "name": "블러 적용 후 저장",
-            "text": "보케·모션·가우시안 등을 고르고 필요 시 얼굴 블러 후 저장합니다."
+            "@type": "HowToTool",
+            "name": "MakeBlur – 모자이크 배경 흐림 및 흐림 처리 (아이폰 앱)"
           }
         ]
       }
@@ -367,21 +395,21 @@
   },
   "editor": {
     "page_slug": "online-sajin-blur-editor.html",
-    "meta_title": "사진 배경 블러 온라인 - Gaussian, Pixel, Motion 무료 에디터",
-    "meta_description": "사진 배경을 온라인에서 무료로 블러 처리하세요. 이미지를 업로드하고 gaussian, pixel, motion blur 적용 후 PNG 저장.",
-    "h1": "사진 배경 블러 온라인 - 무료 에디터",
-    "intro": "사진을 업로드하고 gaussian, pixel, motion blur를 선택해 강도를 조절한 뒤 PNG로 저장하세요.",
-    "upload_button": "사진 업로드",
+    "meta_title": "온라인 사진 블러 무료 에디터｜Gaussian·Pixel·Motion",
+    "meta_description": "사진 전체를 온라인에서 무료로 흐리게 처리하세요. 이미지를 올리고 Gaussian·Pixel·Motion 중 하나를 골라 강도를 조절한 뒤 PNG로 저장합니다. 설치 없이 브라우저에서 바로 쓸 수 있고, 배경이나 얼굴만 흐리게 하려면 아이폰 앱이 편리합니다.",
+    "h1": "온라인 사진 블러 — 무료 에디터",
+    "intro": "사진을 올리고 Gaussian·Pixel·Motion을 골라 강도를 조절한 뒤 PNG로 내보내세요. 웹 에디터는 사진 전체를 흐리게 합니다.",
+    "upload_button": "사진 올리기",
     "download_button": "PNG 다운로드",
     "slider_label": "블러 강도",
-    "placeholder_line1": "아직 업로드된 사진이 없습니다.",
-    "placeholder_line2": "시작하려면 \"사진 업로드\"를 누르세요.",
-    "hero_link_text": "무료 온라인 사진 블러 에디터 열기 (Gaussian, Pixel, Motion)",
+    "placeholder_line1": "아직 올린 사진이 없습니다.",
+    "placeholder_line2": "「사진 올리기」를 눌러 시작하세요.",
+    "hero_link_text": "온라인 사진 블러 에디터",
     "seo_heading": "무료 온라인 사진 블러 에디터",
-    "seo_paragraph": "배경 흐림, 디테일 가리기, 모션 효과를 설치 없이 빠르게 적용하세요.",
+    "seo_paragraph": "설치 없이 사진 전체를 흐리게 하거나, 세부를 가리거나, 모션 블러를 줄 수 있습니다. 배경이나 얼굴만 흐리게 하려면 아이폰 앱을 사용하세요.",
     "back_to_home_text": "홈으로 돌아가기",
-    "app_cta_heading": "선택적 배경 블러가 가능한 전체 편집기가 필요하신가요?",
-    "app_cta_subtext": "고급 기능, 더 빠른 작업 흐름, 정밀한 제어를 위해 iPhone용 Make Blur 앱을 설치하세요.",
-    "app_cta_button": "Make Blur 앱 다운로드"
+    "app_cta_heading": "배경이나 얼굴만 흐리게 하고 싶나요?",
+    "app_cta_subtext": "웹 에디터는 사진 전체를 흐리게 합니다. 피사체는 선명하게 두고 배경·얼굴·원하는 부분만 흐리게 하려면 아이폰에 MakeBlur를 설치하세요.",
+    "app_cta_button": "앱 다운로드"
   }
 }

@@ -1,0 +1,30 @@
+{
+  "nav_text": "Handleidingen",
+  "title": "Stap-voor-stap handleidingen",
+  "intro": "Achtergrond wazig maken, een gezicht verbergen, een kenteken of tekst onleesbaar maken, een hele foto vervagen: elke handleiding toont de exacte stappen op iPhone.",
+  "learn_more_text": "Meer lezen",
+  "related_title": "Gerelateerde handleidingen",
+  "answer_label": "Kort antwoord",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "Achtergrond wazig maken",
+      "blurb": "Scherp onderwerp, zachte achtergrond — ook bij foto’s die je al hebt."
+    },
+    {
+      "id": "privacy",
+      "title": "Gezichten, kentekens en tekst verbergen",
+      "blurb": "Vervaging voor privacy voordat je deelt."
+    },
+    {
+      "id": "effects",
+      "title": "Blur-effecten",
+      "blurb": "Beweging, bokeh en gaussiaans."
+    },
+    {
+      "id": "photo",
+      "title": "Elke foto wazig maken",
+      "blurb": "Hele foto en het blur-effect uitgelegd."
+    }
+  ]
+}

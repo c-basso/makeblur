@@ -1,324 +1,365 @@
 {
   "meta": {
     "lang": "th",
-    "title": "เบลอพื้นหลังบน iPhone แอปฟรีแต่งรูปโฟกัสเฉพาะวัตถุ | Make Blur",
-    "description": "เบลอพื้นหลังและใบหน้าบน iPhone ด้วย Make Blur ฟิลเตอร์โบเก้ motion blur gaussian blur — 7 สไตล์ ตรวจจับพื้นหลังอัตโนมัติ แอป iOS ฟรี",
-    "keywords": "โบเก้ iPhone, bokeh, เบลอหน้า, เบลอพื้นหลัง iPhone, motion blur, gaussian blur, ความเป็นส่วนตัวรูป, แอปเบลอพื้นหลัง, แอปแต่งรูป iOS",
+    "title": "เบลอพื้นหลังรูปบน iPhone แม้ถ่ายไปแล้ว ฟรี | Make Blur",
+    "description": "เบลอพื้นหลังรูปบน iPhone ได้แม้ถ่ายไปแล้ว แอปหาวัตถุให้อัตโนมัติ หน้าชัดหลังเบลอ เบลอหน้า ทำโมเสก และ motion blur ไม่ต้องใช้โหมดบุคคล ใช้ฟรี รูปไม่ออกจากเครื่อง",
+    "keywords": "เบลอพื้นหลัง, เบลอพื้นหลัง iPhone, หน้าชัดหลังเบลอ, แต่งรูปพื้นหลังเบลอ, แอปเบลอรูป, เบลอหน้า, เบลอป้ายทะเบียนรถ, เบลอข้อความแคปจอ, ทำโมเสกรูป, เบลอรูป, เอฟเฟกต์เบลอ, motion blur, Gaussian blur",
     "author": "Make Blur",
     "og_url": "https://makeblur.com/th/",
-    "og_title": "เบลอพื้นหลัง iPhone ฟรี | Make Blur",
-    "og_description": "Make Blur เบลอพื้นหลังและใบหน้าบน iPhone โบเก้ โมชัน เกาส์เซียน 7 แบบ จับพื้นหลังอัตโนมัติ เบลอหน้าก่อนแชร์ ดาวน์โหลดฟรี App Store",
+    "og_title": "เบลอพื้นหลังรูปบน iPhone แม้ถ่ายไปแล้ว",
+    "og_description": "เบลอพื้นหลังรูปบน iPhone ได้แม้ถ่ายไปแล้ว แอปหาวัตถุให้อัตโนมัติ หน้าชัดหลังเบลอ เบลอหน้า ทำโมเสก และ motion blur ไม่ต้องใช้โหมดบุคคล ใช้ฟรี รูปไม่ออกจากเครื่อง",
     "og_image": "https://makeblur.com/th/site_preview.png",
     "twitter_url": "https://makeblur.com/th/",
-    "twitter_title": "เบลอพื้นหลังบน iPhone | แอป Make Blur",
-    "twitter_description": "เบลอพื้นหลังและใบหน้าบน iPhone โบเก้ motion gaussian — Make Blur",
+    "twitter_title": "เบลอพื้นหลังรูปบน iPhone แม้ถ่ายไปแล้ว",
+    "twitter_description": "เบลอพื้นหลังรูปบน iPhone ได้แม้ถ่ายไปแล้ว แอปหาวัตถุให้อัตโนมัติ หน้าชัดหลังเบลอ เบลอหน้า ทำโมเสก และ motion blur ไม่ต้องใช้โหมดบุคคล ใช้ฟรี รูปไม่ออกจากเครื่อง",
     "twitter_image": "https://makeblur.com/th/site_preview.png",
     "canonical": "https://makeblur.com/th/"
   },
   "header": {
-    "logo_alt": "Make Blur แอปเบลอพื้นหลังสำหรับ iPhone",
+    "logo_alt": "เบลอภาพพื้นหลัง — Make Blur",
     "app_name": "Make Blur",
-    "download_text": " ดาวน์โหลด"
+    "download_text": "ดาวน์โหลด"
+  },
+  "ui": {
+    "skip_link": "ข้ามไปที่เนื้อหา",
+    "nav_label": "เมนูหลัก",
+    "key_facts_label": "สรุปสั้น ๆ",
+    "language_label": "ภาษา",
+    "breadcrumb_label": "เส้นทางนำทาง",
+    "on_this_page": "ในหน้านี้",
+    "built_into_iphone": "มีใน iPhone อยู่แล้ว",
+    "guide_meta_device": "iPhone · iOS 18.6+",
+    "answer_note": "ฟรี · ไม่อัปโหลด · ใช้กับรูปที่ถ่ายไปแล้ว",
+    "inline_cta_note": "ฟรี · iPhone ที่ใช้ iOS 18.6+ · ไม่อัปโหลด",
+    "aside_app_name": "เบลอภาพพื้นหลัง เบลอรูป",
+    "aside_app_note": "ฟรี · iOS 18.6+",
+    "read_time": "อ่าน {n} นาที",
+    "howto_tool": "MakeBlur – เบลอภาพพื้นหลัง เบลอรูป (แอป iPhone)"
   },
   "hero": {
-    "title": "เบลอพื้นหลังบน iPhone ง่ายและรวดเร็ว",
-    "subtitle": "แอปฟรีสำหรับเบลอพื้นหลังในรูปถ่าย",
-    "screens": [
+    "eyebrow": "เบลอภาพพื้นหลัง · แอปฟรีสำหรับ iPhone",
+    "title": "เบลอพื้นหลัง",
+    "title_accent": "แม้ถ่ายไปแล้ว",
+    "subtitle": "โหมดภาพถ่ายบุคคลใช้ได้แค่ตอนกดถ่าย MakeBlur เบลอพื้นหลัง ใบหน้า หรือส่วนไหนก็ได้ของรูปที่อยู่ใน iPhone อยู่แล้ว ภายในไม่กี่วินาที และทำงานบนเครื่องทั้งหมด",
+    "lead": "",
+    "image": {
+      "src": "/img/screens/box__15_pro_max.webp",
+      "alt": "MakeBlur บน iPhone: ผู้หญิงยังคมชัด ส่วนกำแพงอิฐและดอกไม้ด้านหลังเบลอ",
+      "width": 600,
+      "height": 1299
+    },
+    "cta_text": "ดาวน์โหลดจาก App Store",
+    "secondary_cta_text": "ดูวิธีใช้",
+    "chips": [
       {
-        "src": "/img/screens/box__15_pro_max.webp",
-        "alt": "เบลอพื้นหลังบน iPhone ตัวอย่าง box blur"
+        "text": "ดาวน์โหลดฟรี"
       },
       {
-        "src": "/img/screens/motion__15_pro_max.webp",
-        "alt": "เบลอพื้นหลังบน iPhone ตัวอย่าง motion blur"
+        "text": "ใช้กับรูปที่ถ่ายไปแล้ว"
       },
       {
-        "src": "/img/screens/ghost__15_pro_max.webp",
-        "alt": "เบลอพื้นหลังบน iPhone ตัวอย่าง ghost blur"
+        "text": "ไม่อัปโหลดขึ้นคลาวด์"
       },
       {
-        "src": "/img/screens/crys__15_pro_max.webp",
-        "alt": "เบลอพื้นหลังบน iPhone ตัวอย่าง crystalize"
-      },
-      {
-        "src": "/img/screens/ghost1__15_pro_max.webp",
-        "alt": "เบลอพื้นหลังบน iPhone ตัวอย่างเบลอแบบละเอียด"
+        "text": "iOS 18.6 ขึ้นไป"
       }
     ],
-    "intro": {
-      "line1": "อยากให้พื้นหลังในรูปบน iPhone เบลอแบบเนียนๆ ใช่ไหม",
-      "line2": "กำลังหาแอปเบลอพื้นหลังที่ใช้ง่าย",
-      "paragraph1": "<strong>Make Blur</strong> แอป iOS ฟรีสำหรับเบลอพื้นหลังและใบหน้า มี 7 สไตล์รวมโบเก้ ไม่ต้องใช้คอม",
-      "paragraph2": "แตะไม่กี่ครั้งก็เบลอพื้นหลังและให้<strong>วัตถุหรือคนในรูปเด่นขึ้น</strong> เหมาะกับคนที่อยากลงโซเชียลหรือทำภาพโปรไฟล์แบบรวดเร็ว"
+    "float_cards": [
+      {
+        "pos": "tl",
+        "label": "Background",
+        "value": "พบวัตถุแล้ว"
+      },
+      {
+        "pos": "br",
+        "label": "Box",
+        "value": "ความแรง 37"
+      }
+    ]
+  },
+  "download": {
+    "kicker": "ฟรีบน App Store",
+    "title": "ดาวน์โหลด «เบลอภาพพื้นหลัง เบลอรูป»",
+    "subtitle": "แอป iPhone ที่เบลอพื้นหลัง ใบหน้า หรือส่วนไหนของรูปก็ได้ แม้ถ่ายไปแล้ว",
+    "icon": {
+      "src": "/img/appstore/icon.webp",
+      "alt": "ไอคอนแอป «เบลอภาพพื้นหลัง เบลอรูป»"
     },
-    "cta_text": "ดาวน์โหลดเลย"
+    "points": [
+      {
+        "text": "เบลอพื้นหลังโดยตรวจจับวัตถุอัตโนมัติ ไม่ต้องใช้โหมดภาพถ่ายบุคคล"
+      },
+      {
+        "text": "เบลอหน้าทุกคนในรูปหมู่หรือรูปถ่ายบนถนน ไม่ต้องใช้ Apple Intelligence"
+      },
+      {
+        "text": "แปรงสำหรับข้อความ ป้ายทะเบียน หรือพื้นที่ใดก็ได้ในรูป"
+      },
+      {
+        "text": "สไตล์ Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal และ Crystallize"
+      },
+      {
+        "text": "ทุกอย่างทำบน iPhone รูปไม่ถูกอัปโหลดไปที่ไหน"
+      }
+    ],
+    "specs": [
+      {
+        "label": "ราคา",
+        "value": "ฟรี"
+      },
+      {
+        "label": "ต้องการ",
+        "value": "iOS 18.6+"
+      },
+      {
+        "label": "หมวดหมู่",
+        "value": "กราฟิกและการออกแบบ"
+      },
+      {
+        "label": "ภาษา",
+        "value": "ไทยและอีก 28 ภาษา"
+      }
+    ],
+    "body": "การเบลอพื้นหลังพื้นฐานใช้ได้ฟรี สไตล์และเครื่องมือขั้นสูงเลือกใช้ได้ผ่านการซื้อภายในแอป",
+    "cta_text": "ดาวน์โหลดจาก App Store"
+  },
+  "screenshots": {
+    "title": "หน้าตาของแอป",
+    "intro": "ภาพหน้าจอจริงจาก App Store: motion blur ปกป้องใบหน้า หน้าชัดหลังเบลอ โมเสก และฟีลนุ่ม ๆ ด้วยโบเก้",
+    "items": [
+      {
+        "src": "/img/appstore/th/02-motion.webp",
+        "alt": "Motion blur ด้านหลังผู้หญิงใส่แว่นกันแดด Radius 65",
+        "caption": "Motion blur ให้ภาพแอ็กชัน"
+      },
+      {
+        "src": "/img/appstore/th/03-face.webp",
+        "alt": "แท็บ Faces: ใบหน้าที่ตรวจพบทั้งหมดถูกเบลอก่อนแชร์",
+        "caption": "เบลอหน้าก่อนแชร์"
+      },
+      {
+        "src": "/img/appstore/th/04-box.webp",
+        "alt": "แท็บ Background: ผู้หญิงคมชัด พื้นหลังเบลอด้วยสไตล์ Box",
+        "caption": "หน้าชัด หลังเบลอ"
+      },
+      {
+        "src": "/img/appstore/th/05-crystalize.webp",
+        "alt": "สไตล์ Crystallize เปลี่ยนพื้นหลังเป็นโมเสก",
+        "caption": "โมเสกในแตะเดียว"
+      },
+      {
+        "src": "/img/appstore/th/06-ghost.webp",
+        "alt": "สไตล์ Ghosting ทั้งภาพ ให้ลุคนุ่มนวลชวนฝัน",
+        "caption": "ฟีลนุ่มด้วยโบเก้"
+      }
+    ]
   },
   "statistics": {
-    "title": "Make Blur ในตัวเลข",
-    "items": [
-      {
-        "number": "10,000+",
-        "label": "ดาวน์โหลด"
-      },
-      {
-        "number": "4.5",
-        "label": "คะแนนดาว"
-      },
-      {
-        "number": "10+",
-        "label": "รีวิว"
-      },
-      {
-        "number": "7",
-        "label": "แบบเบลอ"
-      }
-    ]
-  },
-  "features": {
-    "title": "เบลอพื้นหลังบน iPhone แต่งจริง ได้ลุคจริง",
-    "intro": {
-      "line1": "การเบลอพื้นหลังบน iPhone อาจซับซ้อนกว่าที่ดู เราเข้าใจ",
-      "paragraph1": "Make Blur ออกแบบมาเพื่อ<strong>เบลอพื้นหลังรูปที่บันทึกไว้ในคลัง</strong> แค่ไม่กี่แตะ — ทำได้ง่าย แม้เพิ่งลอง",
-      "paragraph2": "ไม่ยัดเมนูเกินจำเป็น — มีเท่าที่ต้องใช้เพื่อ<strong>เบลอพื้นหลังบน iPhone</strong> ให้ได้"
-    },
-    "items": [
-      {
-        "title": "ตรวจจับพื้นหลังอัตโนมัติ",
-        "description": "แอปช่วยแยกพื้นหลังออกจากวัตถุหน้าโฟกัส ทำให้<strong>คนหรือสิ่งของในรูปคม</strong>ส่วนพื้นหลังนุ่มลง <em>ลดการลากมือครอบทีละจุด</em> เมื่อระบบทำงานเข้าที่"
-      },
-      {
-        "title": "เบลอใบหน้าเพื่อความเป็นส่วนตัว",
-        "description": "เบลอใบหน้าก่อนแชร์ — เหมาะกับรูปกลุ่มและงานอีเวนต์ ใช้คู่กับเบลอพื้นหลัง<strong>ในแอปเดียว</strong>"
-      },
-      {
-        "title": "เบลอทั้งภาพหรือเฉพาะบางส่วน",
-        "description": "ปรับโทนภาพ ความเป็นส่วนตัว หรือสไตล์ศิลปะด้วยการเบลอแบบคุมโซนเอง Make Blur มีเครื่องมือหลักสำหรับ<strong>ลองแบบเร็ว</strong>"
-      },
-      {
-        "title": "แปรงระบายพื้นที่ที่ต้องการเบลอ",
-        "description": "ลงมือระบายให้เบลอตรงที่ต้องการ ผสมกับโหมดจับพื้นหลังอัตโนมัติแล้วจะได้<strong>คุมรายละเอียด</strong>มากขึ้น"
-      },
-      {
-        "title": "เบลอพื้นหลังบน iPhone ง่าย ๆ ในไม่กี่นาที",
-        "description": "เปิดแอป เลือกรูป เลือกเอฟเฟกต์ บันทึก ไม่ต้องดูคู่มือยาว เหมาะกับคนที่ค้น<strong>วิธีเบลอพื้นหลังรูป iPhone</strong>"
-      },
-      {
-        "title": "โบเก้ motion blur และ gaussian blur",
-        "description": "<strong>โบเก้ (bokeh)</strong> ให้ความลึกชัดแบบพอร์ตเทรตกับแสงนุ่ม รวม motion และ gaussian รวม<strong>7</strong>สไตล์"
-      },
-      {
-        "title": "โหลดฟรี ใช้งานแบบ freemium",
-        "description": "ดาวน์โหลดฟรีเพื่อลองฟังก์ชันหลัก ฟีเจอร์บางอย่างอาจซื้อเพิ่มในแอป ผู้ใช้รุ่นแรกให้คะแนนราว<strong>4.5 ดาว</strong> เน้นความง่ายในการแต่ง"
-      }
-    ]
-  },
-  "blur_types": {
-    "title": "เอฟเฟกต์เบลอ 7 แบบบน iPhone",
-    "items": [
-      {
-        "title": "Motion blur",
-        "description": "<strong>Motion blur</strong> ให้ความรู้สึกเคลื่อนไหวและพลังในภาพ"
-      },
-      {
-        "title": "Gaussian blur",
-        "description": "<strong>Gaussian blur</strong> เบลอเนียนละมุน คล้ายโบเก้พื้นหลังธรรมชาติ"
-      },
-      {
-        "title": "Ghosting",
-        "description": "<strong>Ghosting</strong> โทนฝันๆ ศิลป์ เหมือนภาพซ้อนจาง"
-      },
-      {
-        "title": "Pixelate",
-        "description": "<strong>Pixelate</strong> สไตล์พิกเซล เซ็นเซอร์ หรือลุควินเทจ"
-      },
-      {
-        "title": "Hexagonal",
-        "description": "<strong>Hexagonal</strong> ลวดลายหกเหลี่ยม ลุคทันสมัย"
-      },
-      {
-        "title": "Crystalize",
-        "description": "<strong>Crystalize</strong> เพิ่มพื้นผิวและมิติหลังแต่ง"
-      },
-      {
-        "title": "Bokeh (โบเก้)",
-        "description": "<strong>โบเก้</strong> จำลองความลึกชัดตื้น: วัตถุคม พื้นหลังนุ่มมีแสงกลมธรรมชาติ เหมือนเลนส์พอร์ตเทรต"
-      }
-    ]
-  },
-  "comparison": {
-    "title": "Make Blur กับแอปเบลอทั่วไป",
-    "intro": "สรุปเปรียบเทียบแบบย่อจากลักษณะที่พบบ่อยในแอปเบลอบน App Store ไม่ได้ระบุชื่อแบรนด์อื่น",
-    "table": {
-      "feature_label": "รายการ",
-      "competitors": [
-        {
-          "name": "Make Blur"
-        },
-        {
-          "name": "แอปเบลอทั่วไป"
-        },
-        {
-          "name": "แอปเบลอระดับพรีเมียม"
-        }
-      ],
-      "features": [
-        {
-          "name": "รูปแบบราคา",
-          "value1": "Freemium ฟรี + ซื้อในแอปเป็นตัวเลือก",
-          "value2": "โฆษณาเยอะหรือ paywall กดติดๆ",
-          "value3": "จ่ายครั้งเดียวหรือสมัครสมาชิก"
-        },
-        {
-          "name": "จำนวนเอฟเฟกต์",
-          "value1": "7 แบบ (รวมโบเก้)",
-          "value2": "ประมาณ 2–3",
-          "value3": "ประมาณ 3–4"
-        },
-        {
-          "name": "เบลอใบหน้า (ความเป็นส่วนตัว)",
-          "value1": "มี",
-          "value2": "แทบไม่มี",
-          "value3": "บางแอปมี"
-        },
-        {
-          "name": "จับพื้นหลังอัตโนมัติ",
-          "value1": "มี",
-          "value2": "ไม่มีหรือจำกัด",
-          "value3": "ขึ้นกับแอป"
-        },
-        {
-          "name": "แปรงระบายเอง",
-          "value1": "มี",
-          "value2": "มักไม่มี",
-          "value3": "บางแอปมี"
-        },
-        {
-          "name": "ความง่ายโดยประมาณ",
-          "value1": "ราว 4.5 ดาว",
-          "value2": "ราว 3.5–4.2 ดาว",
-          "value3": "ราว 4.0–4.5 ดาว"
-        }
-      ]
-    },
-    "note": "อ้างอิงข้อมูล App Store ประมาณเดือนเมษายน 2026 Make Blur: เบลอพื้นหลัง ใบหน้าเพื่อความเป็นส่วนตัว ฟิลเตอร์รวมโบเก้ เน้นใช้ง่ายและให้เครื่องมือหลักได้ฟรี"
+    "title": "",
+    "items": []
   },
   "how_it_works": {
-    "title": "ขั้นตอนเบลอพื้นหลังบน iPhone",
+    "nav_text": "วิธีใช้",
+    "title": "วิธีเบลอพื้นหลังรูปบน iPhone",
     "intro": {
-      "line1": "<strong>สามขั้นตอน</strong> ติดตั้ง เลือกรูป เลือกเบลอ แล้วบันทึก",
-      "paragraph1": "ไม่ต้องทำเลเยอร์ซับซ้อนแบบโปรแกรมบนคอม—ทำบนมือถือจบในแอปเดียว"
+      "line1": "3 ขั้นตอน",
+      "paragraph1": "ไม่ต้องถ่ายใหม่และไม่ต้องใช้คอมพิวเตอร์ เปิดรูปที่มีอยู่ ตรวจดูวัตถุ แล้วบันทึก"
     },
     "steps": [
       {
         "number": "1",
-        "title": "ติดตั้ง Make Blur",
-        "description": "<strong>ค้นหา Make Blur</strong> ใน App Store แล้วดาวน์โหลดลง iPhone เริ่มใช้งานได้ในไม่กี่วินาที"
+        "title": "ดาวน์โหลดแอป",
+        "description": "ฟรีบน App Store สำหรับ iPhone ที่ใช้ iOS 18.6 ขึ้นไป เปิดรูปไหนก็ได้ในคลังรูป ทั้งรูปปกติ เซลฟี่ แคปจอ หรือรูปที่ได้รับมา"
       },
       {
         "number": "2",
-        "title": "เปิดรูปจากคลัง",
-        "description": "เลือกภาพที่จะแต่ง แอปจะ<strong>พยายามจับพื้นหลังให้อัตโนมัติ</strong> ลดงานมาส์กมือ"
+        "title": "เลือกสิ่งที่จะเบลอ",
+        "description": "Background คงความคมชัดของวัตถุให้อัตโนมัติ Faces ซ่อนใบหน้าที่ตรวจพบทั้งหมด Manual คือแปรงสำหรับพื้นที่ใดก็ได้ Full Photo เบลอทั้งภาพ"
       },
       {
         "number": "3",
-        "title": "เลือกเบลอแล้วบันทึก",
-        "description": "เลือกโบเก้ motion gaussian หรือแบบอื่นใน 7 แบบ เบลอใบหน้าถ้าต้องการ แล้ว<strong>บันทึก</strong>"
+        "title": "สไตล์ ความแรง บันทึก",
+        "description": "Gaussian สำหรับเบลอนุ่มแบบเลนส์ Motion สำหรับการเคลื่อนไหว Pixelate สำหรับความเป็นส่วนตัว ปรับความแรงด้วย Radius แล้วบันทึกลงรูปภาพด้วย Save"
       }
     ]
   },
+  "modes": {
+    "title": "4 โหมด แถบเลื่อนเดียว",
+    "items": [
+      {
+        "tab": "Background",
+        "name": "เบลอพื้นหลัง",
+        "description": "ตรวจจับวัตถุและคงความคมชัดไว้ ทุกอย่างด้านหลังจะนุ่มลง หน้าชัดหลังเบลอได้กับทุกรูป",
+        "url": "/th/blur-phuenlang-iphone.html",
+        "link_text": "เบลอพื้นหลังบน iPhone"
+      },
+      {
+        "tab": "Faces",
+        "name": "เบลอหน้า",
+        "description": "ตรวจจับและเบลอใบหน้าทุกคนในรูปด้วยการแตะครั้งเดียว ไม่ต้องใช้ Apple Intelligence",
+        "url": "/th/blur-na-rup.html",
+        "link_text": "เบลอหน้าในรูป"
+      },
+      {
+        "tab": "Manual",
+        "name": "บางส่วนของรูป",
+        "description": "ลากนิ้วผ่านข้อความ ป้ายทะเบียน บ้านเลขที่ หรือคนในฝูงชน เฉพาะส่วนที่ระบายจะเบลอ",
+        "url": "/th/blur-bangsuan-rup-iphone.html",
+        "link_text": "เบลอบางส่วนของรูป"
+      },
+      {
+        "tab": "Full Photo",
+        "name": "ทั้งภาพ",
+        "description": "วอลเปเปอร์นุ่ม ๆ พื้นหลังสตอรี่ หรือเวอร์ชันแอ็บสแตรกต์ของรูปไหนก็ได้ ในครั้งเดียว",
+        "url": "/th/blur-rup-iphone.html",
+        "link_text": "เบลอรูปทั้งภาพ"
+      }
+    ],
+    "styles_label": "สไตล์ที่ใช้ได้ทุกโหมด",
+    "styles": [
+      "Gaussian",
+      "Motion",
+      "Ghosting",
+      "Box",
+      "Pixelate",
+      "Hexagonal",
+      "Crystallize"
+    ],
+    "styles_note": "Radius: ความแรง · Angle: ทิศทางการเคลื่อนไหว"
+  },
   "final_cta": {
-    "title": "พร้อมให้วัตถุเด่นและพื้นหลังนุ่มแล้วหรือยัง",
-    "paragraph1": "พื้นหลังเบลอช่วยให้<strong>คนในภาพหรือสินค้าเด่นขึ้น</strong>บนโซเชียลหรือในอัลบั้ม",
-    "paragraph2": "Make Blur ออกแบบมา<strong>สำหรับงานนี้</strong>โดยเฉพาะ — เบลอบน iPhone ได้ไว ไม่งงกับขั้นตอน",
-    "paragraph3": "<strong>ดาวน์โหลด Make Blur</strong> จาก App Store แล้วลองเบลอ 7 แบบรวมโบเก้",
-    "cta_text": "เริ่ม"
+    "eyebrow": "ฟรีบน App Store",
+    "title": "เบลอพื้นหลังรูปที่คุณมีอยู่แล้ว",
+    "paragraph1": "เปิดรูปจาก «ล่าสุด» ให้แอปหาวัตถุ เลื่อนแถบเดียวแล้วบันทึก ใบหน้า การเคลื่อนไหว และทั้งภาพ ได้ในแอปเดียว",
+    "paragraph2": "",
+    "paragraph3": "ไม่อัปโหลด · iPhone ที่ใช้ iOS 18.6 ขึ้นไป",
+    "images": [
+      "/img/appstore/th/03-face.webp",
+      "/img/appstore/th/04-box.webp",
+      "/img/appstore/th/02-motion.webp"
+    ],
+    "cta_text": "ดาวน์โหลดจาก App Store"
   },
   "footer": {
     "copyright": "© {year} Make Blur สงวนลิขสิทธิ์",
-    "download_text": "ดาวน์โหลด Make Blur บน App Store",
-    "tagline": "Make Blur เบลอพื้นหลังและใบหน้า โบเก้ motion gaussian จับพื้นหลังอัตโนมัติ",
+    "download_text": "ดาวน์โหลด «เบลอภาพพื้นหลัง เบลอรูป» จาก App Store",
+    "tagline": "«เบลอภาพพื้นหลัง เบลอรูป» (MakeBlur) เป็นแอป iPhone ฟรีที่เบลอพื้นหลัง ใบหน้า หรือส่วนใดก็ได้ของรูปหลังถ่าย ประมวลผลบนเครื่องทั้งหมด",
     "privacy_text": "นโยบายความเป็นส่วนตัว",
-    "terms_text": "ข้อกำหนดการใช้งาน"
+    "terms_text": "ข้อกำหนดการใช้งาน",
+    "more_title": "เพิ่มเติม",
+    "fineprint": "«เบลอภาพพื้นหลัง เบลอรูป» ต้องใช้ iPhone ที่ใช้ iOS 18.6 ขึ้นไป Apple, iPhone และ App Store เป็นเครื่องหมายการค้าของ Apple Inc. ที่จดทะเบียนในสหรัฐอเมริกาและประเทศอื่น ๆ"
   },
   "seo": {
     "breadcrumb_home": "หน้าแรก",
     "faq_title": "คำถามที่พบบ่อย",
+    "faq_nav_text": "FAQ",
+    "faq_intro": "คำตอบสั้น ๆ เรื่องการเบลอรูปบน iPhone แต่ละข้อมีคู่มือแบบละเอียด",
     "faq": [
       {
-        "question": "เบลอพื้นหลังบน iPhone ทำยังไง",
-        "answer": "ดาวน์โหลด Make Blur เปิดรูป แล้วให้แอปตรวจจับพื้นหลังอัตโนมัติ หรือลากมาสก์เอง เลือก bokeh, motion, gaussian หรือสไตล์อื่นใน 7 รูปแบบ แล้วบันทึก สามารถเบลอใบหน้าเพื่อความเป็นส่วนตัวได้ในแอปเดียวกัน"
+        "question": "เบลอพื้นหลังรูปที่ถ่ายไปแล้วบน iPhone ทำอย่างไร?",
+        "answer": "เปิดรูปในแอป เลือกแท็บ Background ไว้เพื่อให้ตรวจจับวัตถุ เลือก Gaussian เพิ่ม Radius จนนุ่มตามต้องการ แล้วแตะ Save ใช้ได้กับทุกรูปในคลังรูป ไม่ต้องใช้โหมดภาพถ่ายบุคคล",
+        "guide_keyword": "เบลอพื้นหลัง iPhone"
       },
       {
-        "question": "แอปไหนดีสำหรับเบลอพื้นหลังบน iPhone",
-        "answer": "Make Blur เป็นแอป iPhone เน้นเบลอพื้นหลังและเบลอใบหน้า: ตรวจจับพื้นหลังอัตโนมัติ เบลอใบหน้าเพื่อความเป็นส่วนตัว เอฟเฟกต์ 7 แบบ รวม bokeh, motion, gaussian และหน้าจอใช้ง่าย ผู้ใช้รุ่นแรกให้คะแนนประมาณ 4.5 ดาว"
+        "question": "แอปรูปภาพเบลอพื้นหลังรูปปกติได้ไหม?",
+        "answer": "ได้เฉพาะรูปที่ถ่ายด้วยโหมดภาพถ่ายบุคคล ซึ่งปรับความลึกได้ใน «แก้ไข» รูปปกติ แคปจอ และรูปที่ได้รับมาไม่มีข้อมูลความลึก และแอปรูปภาพไม่มีฟีเจอร์เบลอพื้นหลัง แอปนี้จึงมีไว้ทำสิ่งนี้",
+        "guide_keyword": "แอปเบลอรูป iPhone"
       },
       {
-        "question": "ฉันจะเบลอรูปบน iPhone ได้ยังไง",
-        "answer": "ใช้ Make Blur: เปิดรูป ระบุบริเวณหรือให้ตรวจจับพื้นหลังอัตโนมัติ หากต้องการก็เบลอใบหน้า จากนั้นเลือก bokeh, motion, gaussian หรือแบบอื่น แล้วกดบันทึก"
+        "question": "เบลอหน้าโดยไม่ใช้ Apple Intelligence ทำอย่างไร?",
+        "answer": "Apple Intelligence ยังไม่รองรับภาษาไทย และเครื่องมือ Clean Up ในแอปรูปภาพมีไว้ลบวัตถุ ต้องใช้ iPhone 15 Pro ขึ้นไป ในแอปนี้แท็บ Faces ตรวจจับทุกใบหน้าพร้อมกันแล้วเบลอให้ บน iPhone ทุกรุ่นที่ใช้ iOS 18.6",
+        "guide_keyword": "เบลอหน้า"
       },
       {
-        "question": "เบลอพื้นหลังรูปได้ฟรีไหม",
-        "answer": "ดาวน์โหลด Make Blur ได้ฟรีและเบลอพื้นหลัง ใบหน้า (เพื่อความเป็นส่วนตัว) พร้อมเอฟเฟกต์ 7 แบบ รวม bokeh, motion, gaussian บางรายการเสริมอาจซื้อเพิ่มในแอป ส่วนการแต่งพื้นฐานมักใช้ได้โดยไม่ต้องจ่าย"
+        "question": "เบลอแค่บางส่วนของรูปทำอย่างไร?",
+        "answer": "ในแท็บ Manual ลากนิ้วผ่านพื้นที่ที่ต้องการ เช่น ข้อความ ป้ายทะเบียน หรือคนในฝูงชน เฉพาะส่วนที่ระบายจะเบลอ ปรับความแรงด้วย Radius",
+        "guide_keyword": "เบลอบางส่วนของรูป"
       },
       {
-        "question": "จะเบลอรูปในแกลเลอรีบน iPhone ทำยังไง",
-        "answer": "ติดตั้ง Make Blur จาก App Store เปิดรูป สั่งตรวจจับพื้นหลังอัตโนมัติหรือวาดมาสก์ เบลอใบหน้าหากต้องการ เลือก bokeh, motion, gaussian หรือแบบอื่น แล้วบันทึก"
+        "question": "เบลอป้ายทะเบียนรถก่อนลงประกาศขายทำอย่างไร?",
+        "answer": "เปิดรูป เลือกแท็บ Manual สไตล์ Pixelate หรือ Box ระบายทับป้ายทะเบียน แล้วเพิ่ม Radius จนอ่านตัวอักษรไม่ออก บันทึกแล้วใช้สำเนานั้นลงประกาศ รูปต้นฉบับไม่ออกจาก iPhone",
+        "guide_keyword": "เบลอป้ายทะเบียนรถ"
       },
       {
-        "question": "เบลอพื้นหลังบน iPhone ใช้เอฟเฟกต์อะไรบ้าง",
-        "answer": "Make Blur ใช้ motion, gaussian, ghosting, pixelate, hexagonal, crystalize และ bokeh ทั้งหมด 7 แบบ โบเก้ให้ความรู้สึกฟิลด์ตื้นกับแสงจุดนอกจุดโฟกัส ใช้กับทั้งกรอบหรือเฉพาะบริเวณ"
+        "question": "เบลอข้อความในแคปจอทำอย่างไร?",
+        "answer": "ใช้ Manual ระบายบรรทัดที่มีที่อยู่ เบอร์โทร เลขบัญชี หรือแชท LINE เลือก Pixelate แล้วบันทึกเป็นสำเนา ซูมดูให้แน่ใจว่าอ่านไม่ออกแล้ว",
+        "guide_keyword": "เบลอข้อความในแคปจอ"
       },
       {
-        "question": "ทำไมต้อง Make Blur มากกว่าแอปเบลออื่น",
-        "answer": "มีจับพื้นหลังอัตโนมัติ แนวเบลอหน้าเน้นความเป็นส่วนตัว เอฟเฟกต์ 7 รูปแบบรวม bokeh และ freemium ที่ให้เครื่องมือหลักยังใช้ฟรี หลายแอปดันสมาชิกหรือโฆษณาเยอะ; Make Blur เน้น flow เบลอพื้นหลังกับเบลอหน้าให้รวดเร็ว"
+        "question": "ใส่ motion blur ให้รูปทำอย่างไร?",
+        "answer": "เลือกสไตล์ Motion โดย Radius กำหนดความยาวของเส้น และ Angle กำหนดทิศทาง ในแท็บ Background จะเคลื่อนไหวเฉพาะพื้นหลัง ส่วนวัตถุยังคมชัด",
+        "guide_keyword": "motion blur รูป"
       },
       {
-        "question": "ต่างจากฟีเจอร์เบลอ/โหมดคนที่ iPhone มีมา อย่างไร",
-        "answer": "ของในเครื่อง (เช่น โหมดบุคคล) ทำงานได้เต็มที่เมื่อถ่ายในสภาพแสงและระยะพอ Make Blur เปิด <strong>รูปที่บันทึกไว้แล้ว</strong> ได้ทุกรายการ มี 7 รูปแบบ รวม bokeh, motion, gaussian, ghosting, pixelate, hexagonal, crystalize เบลอใบหน้า และตรวจจับพื้นหลัง — มักยืดหยุ่นกว่าใช้เฉพาะของในตัวเครื่อง"
+        "question": "Gaussian blur กับหน้าชัดหลังเบลอต่างกันอย่างไร?",
+        "answer": "Gaussian blur คือการเบลอแบบนุ่มสม่ำเสมอเหมือนเลนส์หลุดโฟกัส ส่วนหน้าชัดหลังเบลอคือผลลัพธ์ที่วัตถุคมแต่พื้นหลังเบลอ ในแอปใช้ Gaussian กับแท็บ Background ก็ได้หน้าชัดหลังเบลอแบบเรียบร้อย",
+        "guide_keyword": "Gaussian blur"
       },
       {
-        "question": "Make Blur ดีกว่าแอปอื่นที่เน้นเบลอไหม",
-        "answer": "มี freemium ยุติธรรม ไม่บีบบังคับสมาชิก, 7 รูปแบบรวม bokeh (มักมากกว่าแอปอื่น) เบลอใบหน้า ตรวจจับพื้นหลัง รีวิวราว 4.5 ดาว มากกว่า 10,000 ดาวน์โหลด เน้นง่าย รายอื่นมักเอาเครื่องมือหลัง paywall หรือรบกวนโฆษณา"
+        "question": "เบลอรูปทั้งภาพทำอย่างไร?",
+        "answer": "แท็บ Full Photo เบลอทั้งภาพ เลือกสไตล์และความแรง สำหรับวอลเปเปอร์ พื้นหลังสตอรี่ หรือภาพแอ็บสแตรกต์ ถ้าไม่อยากติดตั้งอะไร เอดิเตอร์ออนไลน์บนเว็บนี้ก็เบลอทั้งภาพได้",
+        "guide_keyword": "เบลอรูปทั้งภาพ"
       },
       {
-        "question": "จะเบลอใบหน้าในรูปบน iPhone ยังไง",
-        "answer": "ใน Make Blur เปิดรูป ใช้เบลอใบหน้า ใส่กับหน้าที่ตรวจเจอหรือลากเอง แล้วบันทึก เหมาะรูปกลุ่ม หรือรูปในพื้นที่สาธารณะที่ต้องการกันคนรู้ตัว ทำเฉพาะมือเดียวบน iPhone ไม่ต้องงาน desktop"
+        "question": "แอปนี้ฟรีไหม?",
+        "answer": "ฟรี ดาวน์โหลดได้ฟรีและมีการเบลอพื้นหลังพื้นฐาน สไตล์และเครื่องมือขั้นสูงเลือกใช้ได้ผ่านการซื้อภายในแอป",
+        "guide_keyword": "แต่งรูปพื้นหลังเบลอ"
       },
       {
-        "question": "ฟิลเตอร์ bokeh ใน Make Blur ทำอะไร",
-        "answer": "สร้างลุคความลึกสนามตื้น: วัตถุเด่นคม พื้นหลังเบาและมี bokeh/แสงกลม; หนึ่งในเจ็ดร่วม motion, gaussian, ghosting, pixelate, hexagonal, crystalize"
+        "question": "รูปของฉันถูกอัปโหลดขึ้นเซิร์ฟเวอร์ไหม?",
+        "answer": "ไม่ ทุกอย่างประมวลผลบน iPhone และการเบลอไม่ต้องใช้อินเทอร์เน็ต รูปของคุณไม่ออกจากเครื่อง",
+        "guide_keyword": "ทำโมเสกรูป iPhone"
       },
       {
-        "question": "เบลอเฉพาะบางส่วนของรูปได้ไหม",
-        "answer": "ได้: แปรงระบุบริเวณที่เบลอน้อยหรือมาก หรือใช้กับตรวจจับพื้นหลังอัตโนมัติ"
-      },
-      {
-        "question": "ใช้บดบังหน้า หรือทะเบียนรถ ได้หรือเปล่า",
-        "answer": "ใช้ได้: เบลอใบหน้า หรือเบลอแรง/พิกเซลเพื่อจางรายละเอียด กรณีกฎหมายต้องปรึกษาเฉพาะทาง; นี่ไม่ใช่คำแนะนำกฎหมาย"
-      },
-      {
-        "question": "รูปกับข้อมูลของฉันปลอดภัยแค่ไหน",
-        "answer": "การแต่งปกติทำในแอปบนเครื่องตามที่ผู้พัฒนาออกแบบ; อ่านรายละเอียดในนโยบายความเป็นส่วนตัวบนเว็บ หากบริการอัปโหลดหรือเซิร์ฟเวอร์มี ให้ยึดฉบับล่าสุดของนโยบาย"
+        "question": "แอปใช้กับ iPhone รุ่นไหนได้บ้าง?",
+        "answer": "iPhone ทุกรุ่นที่ใช้ iOS 18.6 ขึ้นไป ไม่ต้องมี Apple Intelligence หรือกล้องที่มีโหมดภาพถ่ายบุคคล",
+        "guide_keyword": "แอปเบลอรูป iPhone"
       }
     ],
     "structured_data": {
       "software_application": {
         "@context": "https://schema.org",
         "@type": "SoftwareApplication",
-        "name": "Make Blur",
+        "name": "เบลอภาพพื้นหลัง เบลอรูป",
+        "alternateName": [
+          "MakeBlur",
+          "Make Blur"
+        ],
         "applicationCategory": "PhotoEditorApplication",
-        "operatingSystem": "iOS",
+        "operatingSystem": "iOS 18.6 ขึ้นไป",
         "offers": {
           "@type": "Offer",
           "price": "0",
-          "priceCurrency": "USD"
+          "priceCurrency": "THB",
+          "description": "ฟรี มีการซื้อภายในแอปแบบไม่บังคับ"
         },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.5",
-          "ratingCount": "10"
-        },
-        "description": "เบลอพื้นหลังและใบหน้าบน iPhone 7 สไตล์รวมโบเก้ motion และ gaussian จับพื้นหลังอัตโนมัติ"
+        "description": "แอปแต่งรูปฟรีสำหรับ iPhone ที่เบลอพื้นหลังของรูปหลังถ่าย ตรวจจับวัตถุอัตโนมัติ เบลอหน้า แปรงเบลอ เอฟเฟกต์ Motion, Gaussian, Pixelate และสไตล์นุ่ม ๆ ประมวลผลบนเครื่อง",
+        "applicationSubCategory": "กราฟิกและการออกแบบ",
+        "image": "https://makeblur.com/img/appstore/icon-1024.png",
+        "screenshot": [
+          "https://makeblur.com/img/appstore/th/01-cover.webp",
+          "https://makeblur.com/img/appstore/th/02-motion.webp",
+          "https://makeblur.com/img/appstore/th/03-face.webp",
+          "https://makeblur.com/img/appstore/th/04-box.webp",
+          "https://makeblur.com/img/appstore/th/05-crystalize.webp",
+          "https://makeblur.com/img/appstore/th/06-ghost.webp"
+        ],
+        "featureList": [
+          "เบลอพื้นหลังด้วยการตรวจจับวัตถุอัตโนมัติ",
+          "เบลอหน้า",
+          "แปรงเบลอ",
+          "เบลอทั้งภาพ",
+          "สไตล์ Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize",
+          "ประมวลผลบนเครื่อง"
+        ],
+        "softwareVersion": "1.16.4",
+        "fileSize": "25.7MB",
+        "inLanguage": "th",
+        "author": {
+          "@type": "Organization",
+          "name": "Make Blur",
+          "url": "https://makeblur.com"
+        }
       },
       "organization": {
         "@context": "https://schema.org",
@@ -326,40 +367,27 @@
         "name": "Make Blur",
         "url": "https://makeblur.com",
         "logo": "https://makeblur.com/img/logo.webp",
-        "description": "Make Blur iPhone: พื้นหลัง ใบหน้า โบเก้ motion gaussian"
+        "description": "Make Blur เผยแพร่แอป «เบลอภาพพื้นหลัง เบลอรูป» (MakeBlur) แอป iPhone ฟรีที่เบลอพื้นหลัง ใบหน้า หรือส่วนใดก็ได้ของรูปหลังถ่าย"
       },
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Make Blur",
-        "url": "https://makeblur.com",
-        "description": "Make Blur เบลอพื้นหลังและใบหน้า โบเก้และอีก 6 สไตล์",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://makeblur.com/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://makeblur.com/th/",
+        "inLanguage": "th",
+        "description": "เบลอพื้นหลังรูปบน iPhone แม้ถ่ายไปแล้ว: คู่มือ คำถามที่พบบ่อย และดาวน์โหลดจาก App Store"
       },
       "howto": {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "วิธีเบลอพื้นหลังบน iPhone ด้วย Make Blur",
-        "description": "เบลอพื้นหลังและถ้าต้องการใบหน้าบน iPhone ด้วย Make Blur รวมโบเก้",
-        "step": [
+        "name": "วิธีเบลอพื้นหลังรูปบน iPhone",
+        "description": "เบลอพื้นหลังของรูปที่มีอยู่: ดาวน์โหลดแอป เลือกสิ่งที่จะเบลอ ปรับความแรง แล้วบันทึกบนเครื่อง",
+        "step": [],
+        "totalTime": "PT2M",
+        "tool": [
           {
-            "@type": "HowToStep",
-            "name": "ดาวน์โหลด Make Blur",
-            "text": "ติดตั้ง Make Blur จาก App Store บน iPhone"
-          },
-          {
-            "@type": "HowToStep",
-            "name": "เปิดรูป",
-            "text": "เลือกรูปจากคลัง ใช้การจับพื้นหลังอัตโนมัติหรือแปรงตามต้องการ"
-          },
-          {
-            "@type": "HowToStep",
-            "name": "เลือกเบลอและบันทึก",
-            "text": "เลือกโบเก้ motion gaussian หรือแบบอื่น เบลอใบหน้าถ้าต้องการ แล้วบันทึก"
+            "@type": "HowToTool",
+            "name": "MakeBlur – เบลอภาพพื้นหลัง เบลอรูป (แอป iPhone)"
           }
         ]
       }
@@ -367,21 +395,21 @@
   },
   "editor": {
     "page_slug": "editor-blur-rupphap-online.html",
-    "meta_title": "เบลอพื้นหลังรูปออนไลน์ - เครื่องมือฟรี Gaussian, Pixel และ Motion",
-    "meta_description": "เบลอพื้นหลังรูปออนไลน์ฟรี อัปโหลดรูป ใช้ gaussian, pixel หรือ motion blur แล้วดาวน์โหลด PNG ได้ทันที",
-    "h1": "เบลอพื้นหลังรูปออนไลน์ - เครื่องมือฟรี",
-    "intro": "อัปโหลดรูป เลือก gaussian, pixel หรือ motion blur ปรับความแรง แล้วบันทึกเป็น PNG",
+    "meta_title": "เบลอรูปออนไลน์ฟรี ทั้งภาพ | Gaussian, Pixel, Motion",
+    "meta_description": "เบลอรูปทั้งภาพออนไลน์ฟรี อัปโหลดรูป เลือก Gaussian, Pixel หรือ Motion ปรับความแรง แล้วดาวน์โหลดเป็น PNG ไม่ต้องติดตั้ง อยากเบลอแค่พื้นหลังหรือใบหน้า ใช้แอป iPhone",
+    "h1": "เบลอรูปออนไลน์ — เอดิเตอร์ฟรี",
+    "intro": "อัปโหลดรูป เลือก Gaussian, Pixel หรือ Motion ปรับความแรง แล้วส่งออกเป็น PNG เว็บเอดิเตอร์จะเบลอทั้งภาพ",
     "upload_button": "อัปโหลดรูป",
     "download_button": "ดาวน์โหลด PNG",
-    "slider_label": "ความแรงเบลอ",
-    "placeholder_line1": "ยังไม่ได้อัปโหลดรูปภาพ",
-    "placeholder_line2": "กด \"อัปโหลดรูป\" เพื่อเริ่มใช้งาน",
-    "hero_link_text": "เปิดตัวแก้ไขเบลอภาพออนไลน์ฟรี (Gaussian, Pixel, Motion)",
-    "seo_heading": "เครื่องมือเบลอภาพออนไลน์ฟรี",
-    "seo_paragraph": "เบลอพื้นหลัง ซ่อนรายละเอียด และสร้างเอฟเฟกต์การเคลื่อนไหวได้โดยไม่ต้องติดตั้งแอป",
-    "back_to_home_text": "กลับไปหน้าแรก",
-    "app_cta_heading": "ต้องการตัวแก้ไขเต็มรูปแบบที่เบลอพื้นหลังแบบเลือกได้ไหม?",
-    "app_cta_subtext": "สำหรับฟีเจอร์ขั้นสูง เวิร์กโฟลว์ที่เร็วกว่า และการควบคุมละเอียด ให้ติดตั้งแอป Make Blur บน iPhone",
-    "app_cta_button": "ดาวน์โหลดแอป Make Blur"
+    "slider_label": "ความแรงของการเบลอ",
+    "placeholder_line1": "ยังไม่ได้อัปโหลดรูป",
+    "placeholder_line2": "แตะ «อัปโหลดรูป» เพื่อเริ่ม",
+    "hero_link_text": "เอดิเตอร์เบลอรูปออนไลน์",
+    "seo_heading": "เอดิเตอร์เบลอรูปออนไลน์ฟรี",
+    "seo_paragraph": "เบลอรูปทั้งภาพ ซ่อนรายละเอียด หรือใส่ motion blur ได้โดยไม่ต้องติดตั้ง ถ้าอยากเบลอเฉพาะพื้นหลังหรือใบหน้า ใช้แอปบน iPhone",
+    "back_to_home_text": "กลับหน้าแรก",
+    "app_cta_heading": "อยากเบลอแค่พื้นหลังหรือใบหน้า?",
+    "app_cta_subtext": "เว็บเอดิเตอร์เบลอทั้งภาพ ถ้าอยากให้วัตถุคมชัดแล้วเบลอแค่พื้นหลัง ใบหน้า หรือบางส่วน ติดตั้ง MakeBlur บน iPhone",
+    "app_cta_button": "ดาวน์โหลดแอป"
   }
 }

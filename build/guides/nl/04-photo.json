@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "foto-wazig-maken-iphone.html",
+    "keyword": "foto wazig maken",
+    "cluster": "photo",
+    "card_title": "Een hele foto wazig maken op iPhone",
+    "card_excerpt": "Het hele beeld wazig: voor achtergronden, stories of een abstracte look. Op iPhone en online.",
+    "card_image": "/img/appstore/nl/06-ghost.webp",
+    "card_image_alt": "Hele foto wazig gemaakt met het effect Ghosting",
+    "meta_title": "Foto wazig maken op iPhone: het hele beeld in een paar tel",
+    "meta_description": "Zo maak je een hele foto wazig op je iPhone: voor achtergronden, stories of een abstracte look. Stijlen Gaussian, Motion en Ghosting, plus een optie online.",
+    "h1": "Een hele foto wazig maken op iPhone",
+    "answer": "Om een hele foto wazig te maken, open je hem in MakeBlur, kies je het tabblad Full Photo (hele foto) en een stijl — Gaussian voor zachtheid, Motion voor dynamiek of Ghosting voor een dromerige look — en verhoog je Radius. Tik op Save. Zonder iets te installeren maakt ook de online editor op deze site de hele foto wazig.",
+    "intro": "Soms wil je niet de achtergrond achter een persoon wazig maken, maar het hele beeld: een achtergrond voor je vergrendelscherm, een basis voor tekst in een story, een abstracte cover of een «teaser» vóór de echte post. Het is de eenvoudigste vervaging, en de enige die geen onderwerp hoeft te herkennen.",
+    "image": "/img/appstore/nl/06-ghost.webp",
+    "image_alt": "Tabblad Full Photo met stijl Ghosting, Radius 79",
+    "native": {
+      "heading": "Kun je een foto wazig maken in Foto’s?",
+      "paragraphs": [
+        "Nee: filters noch aanpassingen in Foto’s bieden vervaging. Het vergrendelscherm van iOS kan de achtergrond onder widgets vervagen, maar dat is een systeemeffect, geen nieuwe afbeelding om te delen."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Welke stijl waarvoor",
+        "paragraphs": [
+          "Gaussian: gelijkmatige zachtheid, de beste achtergrond voor tekst. Motion: gevoel van snelheid, ideaal voor sportcovers. Ghosting: dubbel «spook»-effect, zoals op de screenshot «Zachte sfeer met bokeh» (Radius 79). Pixelate en Crystallize: abstract mozaïek."
+        ]
+      },
+      {
+        "heading": "Online optie",
+        "paragraphs": [
+          "Op deze site staat een gratis online editor: upload een foto, kies Gaussian, Pixel of Motion en download als PNG. Hij maakt alleen het hele beeld wazig; gericht de achtergrond of gezichten vervagen doe je met de app."
+        ]
+      }
+    ],
+    "steps_title": "De hele foto wazig maken in de app",
+    "steps": [
+      {
+        "title": "Open de foto",
+        "description": "Kies het beeld in MakeBlur."
+      },
+      {
+        "title": "Tabblad Full Photo",
+        "description": "De vervaging geldt voor het hele beeld."
+      },
+      {
+        "title": "Stijl en Radius",
+        "description": "Gaussian, Motion of Ghosting met de gewenste sterkte."
+      },
+      {
+        "title": "Save",
+        "description": "De wazige kopie komt in je bibliotheek."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Kies voor tekstachtergronden kleurrijke foto’s: na het vervagen blijven mooie kleurvlakken over.",
+      "Bewaar voor het vergrendelscherm een versie met sterke Gaussian: tijd en iconen blijven goed leesbaar.",
+      "Teaser voor een post: plaats eerst de sterk vervaagde versie, daarna het origineel."
+    ],
+    "faq_title": "Veelgestelde vragen",
+    "faq": [
+      {
+        "question": "Hoe maak ik een foto online wazig?",
+        "answer": "Met de gratis online editor op deze site: upload de foto, kies stijl en sterkte, download de PNG. Hij maakt alleen het hele beeld wazig."
+      },
+      {
+        "question": "Wat is het verschil tussen Full Photo en Background?",
+        "answer": "Full Photo maakt het hele beeld wazig, Background alleen de achtergrond — het onderwerp blijft scherp."
+      },
+      {
+        "question": "Gaat de resolutie omlaag?",
+        "answer": "Nee, de kopie wordt in originele grootte bewaard."
+      }
+    ],
+    "related": [
+      "blur-effect-foto.html",
+      "gaussiaans-vervagen-iphone.html",
+      "motion-blur-foto.html",
+      "bokeh-effect-iphone.html"
+    ],
+    "cta_title": "Wazige foto in een paar tellen",
+    "cta_body": "Download «Foto achtergrond wazig maken», kies Full Photo en een stijl. Gratis, zonder upload.",
+    "cta_text": "Download in de App Store"
+  },
+  {
+    "slug": "blur-effect-foto.html",
+    "keyword": "blur effect foto",
+    "cluster": "photo",
+    "card_title": "Blur-effect op foto’s",
+    "card_excerpt": "Wat het blur-effect is, welke stijlen er zijn en welke past bij achtergrond, gezichten of de hele foto.",
+    "card_image": "/img/appstore/nl/02-motion.webp",
+    "card_image_alt": "Blur-effect op een foto met iPhone",
+    "meta_title": "Blur-effect op een foto met iPhone: stijlen en uitleg",
+    "meta_description": "Wat is het blur-effect en hoe pas je het toe op iPhone: op de achtergrond, gezichten, een gebied of het hele beeld, met Gaussian, Motion, Ghosting of Pixelate.",
+    "h1": "Blur-effect op foto’s: wat het is en hoe het werkt op iPhone",
+    "answer": "Het blur-effect maakt een foto, of een deel ervan, minder scherp. Op iPhone pas je het toe met MakeBlur: kies waar (Background voor de achtergrond, Faces voor gezichten, Manual voor een gebied, Full Photo voor het hele beeld), een stijl als Gaussian, Motion of Ghosting, stel Radius in en tik op Save.",
+    "intro": "«Blur» is Engels voor vervaging, en in Nederland en Vlaanderen zoeken veel mensen precies zo: blur effect, blur app, gezicht blurren. Daarachter zit bijna altijd één van vier wensen: een zachte achtergrond achter een persoon, gezichten verbergen, een stuk met tekst of een kenteken onleesbaar maken, of de hele foto wazig maken. De iPhone-editor kan bij een gewone foto geen van die vier.",
+    "image": "/img/appstore/nl/02-motion.webp",
+    "image_alt": "Stijl Motion: blur-effect op de achtergrond",
+    "native": {
+      "heading": "Wat de iPhone biedt",
+      "paragraphs": [
+        "Blur op de achtergrond: alleen met de portretmodus, tijdens het fotograferen. Vervaagpenseel in Foto’s: bestaat niet. Markeringen: pen en vormen om te bedekken, niet om te vervagen. Opschonen (Apple Intelligence): verwijdert objecten, alleen vanaf iPhone 15 Pro."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "De blur-stijlen",
+        "paragraphs": [
+          "Gaussian: zachte, natuurlijke vervaging. Motion: spoor met instelbare richting. Ghosting: dromerig «spook»-effect. Box: gelijkmatige vervaging. Pixelate, Hexagonal en Crystallize: mozaïeken, handig voor privacy of als grafisch effect."
+        ]
+      },
+      {
+        "heading": "Waar je het toepast",
+        "paragraphs": [
+          "Background houdt het onderwerp scherp en legt de blur op de achtergrond. Faces op alle gezichten. Manual op het gebied dat je met je vinger schildert. Full Photo op het hele beeld. Het werkt met camerafoto’s, screenshots en afbeeldingen uit WhatsApp of Telegram die in je bibliotheek staan."
+        ]
+      }
+    ],
+    "steps_title": "Blur-effect toepassen in de app",
+    "steps": [
+      {
+        "title": "Open foto of screenshot",
+        "description": "Kies het beeld in MakeBlur."
+      },
+      {
+        "title": "Kies de modus",
+        "description": "Background, Faces, Manual of Full Photo."
+      },
+      {
+        "title": "Stijl en Radius",
+        "description": "Soort vervaging en sterkte."
+      },
+      {
+        "title": "Save",
+        "description": "De kopie met het effect wordt in je bibliotheek bewaard."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Voor de look: Gaussian of Ghosting; voor privacy: Pixelate.",
+      "Combineer modi: eerst Background voor de achtergrond, dan Manual voor een storend detail.",
+      "Bewaar een paar sterktes en houd de beste."
+    ],
+    "faq_title": "Veelgestelde vragen",
+    "faq": [
+      {
+        "question": "Hoe maak ik een blur-effect zonder app?",
+        "answer": "Bij een gewone foto kan het niet in Foto’s. Je kunt afdekken met vormen in Markeringen of de hele foto wazig maken met de online editor op deze site."
+      },
+      {
+        "question": "Kan ik een screenshot blurren?",
+        "answer": "Ja, screenshots openen in de app als elke andere foto."
+      },
+      {
+        "question": "Is het gratis?",
+        "answer": "Downloaden is gratis en de basisvervaging zit erin; geavanceerde stijlen optioneel via in-app aankopen."
+      }
+    ],
+    "related": [
+      "foto-wazig-maken-iphone.html",
+      "achtergrond-wazig-maken-iphone.html",
+      "deel-foto-blurren-iphone.html",
+      "motion-blur-foto.html"
+    ],
+    "cta_title": "Blur-effect in een minuut",
+    "cta_body": "Download «Foto achtergrond wazig maken» en blur de achtergrond, gezichten of de hele foto. Gratis, iPhone met iOS 18.6.",
+    "cta_text": "Download in de App Store"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "slug": "motion-blur-zdjecie.html",
+    "keyword": "motion blur zdjęcie",
+    "cluster": "effects",
+    "card_title": "Motion blur na zdjęciu (rozmycie ruchu)",
+    "card_excerpt": "Smuga ruchu na tle, ostry obiekt: dynamika dzięki Radius i Angle.",
+    "card_image": "/img/appstore/pl/02-motion.webp",
+    "card_image_alt": "Motion blur za kobietą w okularach przeciwsłonecznych",
+    "meta_title": "Motion blur na zdjęciu iPhonem: efekt ruchu w 4 krokach",
+    "meta_description": "Jak dodać motion blur (rozmycie ruchu) do zdjęcia na iPhonie: smuga na tle, ostry obiekt, regulowany kierunek i długość. Także do zrobionych zdjęć. Za darmo.",
+    "h1": "Motion blur na zdjęciu iPhonem (rozmycie ruchu)",
+    "answer": "Aby dodać motion blur do zdjęcia na iPhonie, otwórz je w MakeBlur, zostaw kartę Background, żeby obiekt pozostał ostry, wybierz styl Motion, suwakiem Radius ustaw długość smugi, a Angle kierunek, i stuknij Save. Tło wygląda, jakby się poruszało, a osoba pozostaje nieruchoma i ostra.",
+    "intro": "Motion blur, czyli rozmycie ruchu, dodaje dynamiki każdemu zdjęciu: kolarzowi, autu, tancerce albo zwykłemu portretowi do bardziej energicznego posta. W fotografii uzyskuje się to długim czasem naświetlania i panoramowaniem; iPhonem dodasz to później, z kierunkiem i siłą, które wybierzesz.",
+    "image": "/img/appstore/pl/02-motion.webp",
+    "image_alt": "Styl Motion, Radius 65: tło ma smugę, obiekt jest ostry",
+    "native": {
+      "heading": "Co iPhone potrafi sam",
+      "paragraphs": [
+        "Zdjęcia Live mają efekt «Długa ekspozycja», który łączy klatki w smugę: działa tylko wtedy, gdy coś naprawdę się poruszało w trakcie zdjęcia, i rozmywa wszystko, co się ruszało — nie tło, które wybierzesz. Dla zwykłych zdjęć aplikacja Zdjęcia nie ma efektu ruchu."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Radius i Angle",
+        "paragraphs": [
+          "Radius to długość smugi: niskie wartości dla subtelnego ruchu, wysokie dla wrażenia prędkości. Angle to kierunek: poziomo dla aut i biegaczy, ukośnie dla skoków, pionowo dla deszczu czy spadania. Zrzut «Motion blur do zdjęć w ruchu» używa Radius 65."
+        ]
+      },
+      {
+        "heading": "Tylko tło czy całe zdjęcie",
+        "paragraphs": [
+          "W Background porusza się tylko tło — klasyczny efekt panoramowania. W Full Photo smugę dostaje cały obraz: przydatne na okładki, abstrakcyjne tapety albo rozmarzony klimat."
+        ]
+      }
+    ],
+    "steps_title": "Dodawanie motion blur w aplikacji",
+    "steps": [
+      {
+        "title": "Otwórz zdjęcie",
+        "description": "Najlepiej z obiektem wyraźnie oddzielonym od tła."
+      },
+      {
+        "title": "Karta Background",
+        "description": "Obiekt pozostaje nieruchomy i ostry."
+      },
+      {
+        "title": "Styl Motion",
+        "description": "Radius dla długości, Angle dla kierunku."
+      },
+      {
+        "title": "Save",
+        "description": "Zapisz kopię z efektem."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Ustaw Angle zgodnie z kierunkiem ruchu obiektu: efekt będzie bardziej wiarygodny.",
+      "Przy światłach miasta w tle smuga zmienia się w efektowny pas światła.",
+      "Nie przesadzaj w portretach: średni Radius wystarczy na dynamiczny akcent."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Co to jest motion blur?",
+        "answer": "Rozmycie ruchu: smuga, która sugeruje, że coś się porusza."
+      },
+      {
+        "question": "Czy mogę wybrać kierunek ruchu?",
+        "answer": "Tak, suwakiem Angle w stylu Motion."
+      },
+      {
+        "question": "Czy działa na zdjęciu, które już zrobiłem?",
+        "answer": "Tak, na każdym zdjęciu z biblioteki, także bez Live Photo."
+      }
+    ],
+    "related": [
+      "efekt-rozmycia-zdjecie.html",
+      "rozmycie-tla-iphone.html",
+      "efekt-bokeh-iphone.html",
+      "rozmycie-gaussowskie-iphone.html"
+    ],
+    "cta_title": "Dynamika na każdym zdjęciu",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu», wybierz Motion i ustaw Angle. Za darmo, na iPhonie.",
+    "cta_text": "Pobierz z App Store"
+  },
+  {
+    "slug": "efekt-bokeh-iphone.html",
+    "keyword": "efekt bokeh iPhone",
+    "cluster": "effects",
+    "card_title": "Efekt bokeh na iPhonie",
+    "card_excerpt": "Miękkie tło i rozmyte światełka także po zrobieniu zdjęcia: Gaussian do portretów, Ghosting do rozmarzonego klimatu.",
+    "card_image": "/img/appstore/pl/06-ghost.webp",
+    "card_image_alt": "Miękki efekt bokeh na portrecie",
+    "meta_title": "Efekt bokeh na iPhonie, także po zdjęciu: prosty poradnik",
+    "meta_description": "Jak uzyskać efekt bokeh na iPhonie na zdjęciu, które już zrobiłeś: miękkie tło, rozlane światełka, ostry obiekt. Style Gaussian i Ghosting, za darmo i offline.",
+    "h1": "Efekt bokeh na iPhonie, także po zrobieniu zdjęcia",
+    "answer": "Aby uzyskać efekt bokeh na zdjęciu, które już masz, otwórz je w MakeBlur, zostaw kartę Background, wybierz Gaussian i zwiększaj Radius, aż tło zmięknie, a światła zamienią się w plamy. Dla bardziej rozmarzonego efektu na całym obrazie użyj Ghosting w karcie Full Photo. Potem stuknij Save.",
+    "intro": "Bokeh pochodzi z japońskiego i opisuje jakość nieostrej części zdjęcia: światełka zmieniające się w miękkie kółka, tło, które się rozpływa. To efekt jasnych obiektywów, a tryb Portret naśladuje go przy robieniu zdjęcia. Oto jak zbliżyć się do tego wyglądu na zdjęciu, które już masz.",
+    "image": "/img/appstore/pl/06-ghost.webp",
+    "image_alt": "Karta Full Photo ze stylem Ghosting, Radius 79",
+    "native": {
+      "heading": "Bokeh w trybie Portret",
+      "paragraphs": [
+        "Tryb Portret symuluje bokeh przy robieniu zdjęcia, a w Zdjęcia → Edycja pozwala zmienić przysłonę (wartość f). Działa to tylko na zdjęciach w trybie Portret. Dla pozostałych Zdjęcia nie mają efektu bokeh."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian czy Ghosting",
+        "paragraphs": [
+          "Gaussian w Background: bokeh portretowy, ostry obiekt i miękkie tło. Pięknie działa przy wieczornych światłach, witrynach, lampkach. Ghosting w Full Photo: miękka, podwójna poświata na całym obrazie, jak na zrzucie «Miękki klimat z bokeh» (Radius 79)."
+        ]
+      },
+      {
+        "heading": "Zdjęcia, które dają najwięcej",
+        "paragraphs": [
+          "Tła z punktami światła, żywe kolory i trochę odległości między obiektem a tłem. Na białej ścianie bokeh prawie nie widać: tam wystarczy lekkie rozmycie."
+        ]
+      }
+    ],
+    "steps_title": "Efekt bokeh w aplikacji",
+    "steps": [
+      {
+        "title": "Otwórz zdjęcie",
+        "description": "Najlepiej ze światłami w tle."
+      },
+      {
+        "title": "Background + Gaussian",
+        "description": "Obiekt pozostaje ostry."
+      },
+      {
+        "title": "Radius",
+        "description": "Zwiększaj, aż światła staną się miękkimi plamami."
+      },
+      {
+        "title": "Save",
+        "description": "Zapisz kopię."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Zdjęcia wieczorne dają najładniejsze bokeh.",
+      "Spróbuj Ghosting w Full Photo na okładki i tapety.",
+      "Przed zapisem sprawdź krawędzie włosów w powiększeniu."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Co to jest bokeh?",
+        "answer": "Wygląd nieostrej części zdjęcia, zwłaszcza światełek, które stają się miękkimi plamami."
+      },
+      {
+        "question": "Czy potrzebuję trybu Portret?",
+        "answer": "Nie, aplikacja nakłada efekt na każde zdjęcie, które już masz."
+      },
+      {
+        "question": "Czym różni się od rozmycia gaussowskiego?",
+        "answer": "Gaussowskie to rodzaj rozmycia; bokeh to efekt estetyczny, szczególnie przy światłach."
+      }
+    ],
+    "related": [
+      "rozmycie-gaussowskie-iphone.html",
+      "rozmyte-tlo-zdjecie.html",
+      "rozmycie-tla-iphone.html",
+      "motion-blur-zdjecie.html"
+    ],
+    "cta_title": "Bokeh na każdym zdjęciu",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu», wybierz Gaussian lub Ghosting i zapisz. Za darmo, bez wysyłania.",
+    "cta_text": "Pobierz z App Store"
+  },
+  {
+    "slug": "rozmycie-gaussowskie-iphone.html",
+    "keyword": "rozmycie gaussowskie",
+    "cluster": "effects",
+    "card_title": "Rozmycie gaussowskie na iPhonie",
+    "card_excerpt": "Czym jest rozmycie gaussowskie, kiedy go używać i jak nałożyć je na tło, twarze albo całe zdjęcie.",
+    "card_image": "/img/appstore/pl/04-box.webp",
+    "card_image_alt": "Tło z miękkim rozmyciem",
+    "meta_title": "Rozmycie gaussowskie na iPhonie: czym jest i jak go użyć",
+    "meta_description": "Czym jest rozmycie gaussowskie i jak nałożyć je na iPhonie na tło, twarze albo całe zdjęcie. Różnice względem Box i Motion oraz zalecana siła. Za darmo.",
+    "h1": "Rozmycie gaussowskie na iPhonie: czym jest i jak je nałożyć",
+    "answer": "Rozmycie gaussowskie to równomierne, miękkie rozmycie, podobne do nieostrego obiektywu. Na iPhonie nałożysz je w MakeBlur: otwórz zdjęcie, wybierz miejsce (Background dla tła, Faces dla twarzy, Manual dla obszaru, Full Photo dla całości), zaznacz styl Gaussian, ustaw Radius i stuknij Save.",
+    "intro": "Kto używał Photoshopa albo innego edytora na komputerze, zna filtr «Rozmycie gaussowskie». Nazwa pochodzi od krzywej Gaussa: każdy piksel miesza się z sąsiadami, mocniej z najbliższymi, słabiej z dalszymi. Efekt jest miękki i naturalny, bez ostrych krawędzi. Zobacz, kiedy go używać i jak nałożyć go na iPhonie.",
+    "image": "/img/appstore/pl/04-box.webp",
+    "image_alt": "Zmiękczone tło za ostrym portretem",
+    "native": {
+      "heading": "Co iPhone potrafi sam",
+      "paragraphs": [
+        "Aplikacja Zdjęcia nie ma filtra rozmycia gaussowskiego. Korekty zmieniają ostrość i wyrazistość, ale tylko w górę lub trochę w dół dla całego obrazu, i nie są prawdziwym rozmyciem."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian, Box i Motion w porównaniu",
+        "paragraphs": [
+          "Gaussian: miękkie i naturalne, wybór do portretów i teł. Box: równomierna średnia, nieco bardziej płaska, przydatna przy produktach i ukrywaniu. Motion: rozmycie w jednym kierunku, dla ruchu.",
+          "Do prywatności używaj rozmycia gaussowskiego z dużą siłą: lekkie pozwala odgadnąć kształty i litery."
+        ]
+      },
+      {
+        "heading": "Jaki Radius",
+        "paragraphs": [
+          "Niski do naturalnych portretów, średni do postów i relacji, wysoki do abstrakcyjnych teł albo ukrywania. Zawsze sprawdzaj w powiększeniu."
+        ]
+      }
+    ],
+    "steps_title": "Nakładanie rozmycia gaussowskiego",
+    "steps": [
+      {
+        "title": "Otwórz zdjęcie",
+        "description": "W MakeBlur."
+      },
+      {
+        "title": "Wybierz tryb",
+        "description": "Background, Faces, Manual lub Full Photo."
+      },
+      {
+        "title": "Styl Gaussian",
+        "description": "Ustaw Radius."
+      },
+      {
+        "title": "Save",
+        "description": "Zapisz kopię."
+      }
+    ],
+    "tips_title": "Wskazówki",
+    "tips": [
+      "Gaussian w Background to najbardziej naturalny sposób na imitację trybu Portret.",
+      "W Full Photo z dużą siłą dostaniesz idealne tła pod tekst w relacjach.",
+      "Do danych wrażliwych lepiej wybierz Pixelate."
+    ],
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Dlaczego nazywa się gaussowskie?",
+        "answer": "Bo waga, z jaką mieszają się piksele, odpowiada krzywej Gaussa."
+      },
+      {
+        "question": "Czy jest lepsze od rozmycia Box?",
+        "answer": "Jest miększe i bardziej naturalne; Box jest bardziej równomierny. Zależy od efektu, którego szukasz."
+      },
+      {
+        "question": "Czy mogę nałożyć je tylko na tło?",
+        "answer": "Tak, w karcie Background obiekt pozostaje ostry."
+      }
+    ],
+    "related": [
+      "efekt-bokeh-iphone.html",
+      "motion-blur-zdjecie.html",
+      "rozmycie-tla-iphone.html",
+      "efekt-rozmycia-zdjecie.html"
+    ],
+    "cta_title": "Rozmycie gaussowskie jednym dotknięciem",
+    "cta_body": "Pobierz «Rozmycie tła na zdjęciu»: Gaussian w każdym trybie, na urządzeniu. Za darmo do pobrania.",
+    "cta_text": "Pobierz z App Store"
+  }
+]

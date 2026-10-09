@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "sfocare-foto-iphone.html",
+    "keyword": "sfocare foto iPhone",
+    "cluster": "photo",
+    "card_title": "Sfocare un’intera foto su iPhone",
+    "card_excerpt": "Tutta l’immagine sfocata: per sfondi, storie o un look astratto. Su iPhone e online.",
+    "card_image": "/img/appstore/it/06-ghost.webp",
+    "card_image_alt": "Intera foto sfocata con l’effetto Ghosting",
+    "meta_title": "Sfocare una foto su iPhone: tutta l’immagine in un attimo",
+    "meta_description": "Come sfocare un’intera foto su iPhone: per sfondi, storie o un look astratto. Stili Gaussian, Motion e Ghosting, più un’opzione online senza installare nulla.",
+    "h1": "Come sfocare un’intera foto su iPhone",
+    "answer": "Per sfocare un’intera foto, aprila in MakeBlur, scegli la scheda Full Photo (foto intera) e uno stile, Gaussian per la morbidezza, Motion per il dinamismo o Ghosting per un look sognante, e aumenta Radius. Tocca Save. Senza installare nulla, anche l’editor online di questo sito sfoca l’intera foto.",
+    "intro": "A volte non vuoi sfocare lo sfondo dietro una persona, ma tutta l’immagine: uno sfondo per la schermata di blocco, la base per il testo di una storia, una copertina astratta o un «teaser» prima del post vero. È la sfocatura più semplice, e l’unica che non deve riconoscere un soggetto.",
+    "image": "/img/appstore/it/06-ghost.webp",
+    "image_alt": "Scheda Full Photo con stile Ghosting, Radius 79",
+    "native": {
+      "heading": "Si può sfocare una foto con l’app Foto?",
+      "paragraphs": [
+        "No: né i filtri né le regolazioni di Foto offrono una sfocatura. La schermata di blocco di iOS può sfocare lo sfondo sotto i widget, ma è un effetto di sistema, non una nuova immagine da condividere."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Quale stile per cosa",
+        "paragraphs": [
+          "Gaussian: morbidezza uniforme, il miglior sfondo per il testo. Motion: sensazione di velocità, ideale per copertine sportive. Ghosting: doppio effetto «fantasma», come nello screenshot «Effetto soffice con bokeh» (Radius 79). Pixelate e Crystallize: mosaico astratto."
+        ]
+      },
+      {
+        "heading": "Opzione online",
+        "paragraphs": [
+          "Su questo sito c’è un editor online gratuito: carichi la foto, scegli Gaussian, Pixel o Motion e scarichi il PNG. Sfoca solo l’intera immagine; per sfocare in modo mirato sfondo o volti serve l’app."
+        ]
+      }
+    ],
+    "steps_title": "Sfocare tutta la foto nell’app",
+    "steps": [
+      {
+        "title": "Apri la foto",
+        "description": "Scegli l’immagine in MakeBlur."
+      },
+      {
+        "title": "Scheda Full Photo",
+        "description": "La sfocatura vale per tutta l’immagine."
+      },
+      {
+        "title": "Stile e Radius",
+        "description": "Gaussian, Motion o Ghosting con l’intensità che vuoi."
+      },
+      {
+        "title": "Save",
+        "description": "La copia sfocata finisce nella libreria."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "Per gli sfondi del testo scegli foto colorate: dopo la sfocatura restano belle macchie di colore.",
+      "Per la schermata di blocco salva una versione con Gaussian forte: ora e icone restano leggibili.",
+      "Teaser per un post: pubblica prima la versione molto sfocata, poi l’originale."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Come sfoco una foto online?",
+        "answer": "Con l’editor online gratuito di questo sito: carica la foto, scegli stile e intensità, scarica il PNG. Sfoca solo l’intera immagine."
+      },
+      {
+        "question": "Che differenza c’è tra Full Photo e Background?",
+        "answer": "Full Photo sfoca tutta l’immagine, Background solo lo sfondo: il soggetto resta nitido."
+      },
+      {
+        "question": "La risoluzione diminuisce?",
+        "answer": "No, la copia viene salvata nelle dimensioni originali."
+      }
+    ],
+    "related": [
+      "effetto-sfocato-foto.html",
+      "sfocatura-gaussiana-iphone.html",
+      "effetto-mosso-foto.html",
+      "effetto-bokeh-iphone.html"
+    ],
+    "cta_title": "Foto sfocata in pochi secondi",
+    "cta_body": "Scarica «Sfocare Sfondo Foto», scegli Full Photo e uno stile. Gratis, senza caricamenti.",
+    "cta_text": "Scarica su App Store"
+  },
+  {
+    "slug": "effetto-sfocato-foto.html",
+    "keyword": "effetto sfocato foto",
+    "cluster": "photo",
+    "card_title": "Effetto sfocato sulle foto",
+    "card_excerpt": "Cos’è l’effetto sfocato (blur), quali stili esistono e quale usare per sfondo, volti o foto intera.",
+    "card_image": "/img/appstore/it/02-motion.webp",
+    "card_image_alt": "Effetto sfocato su una foto con iPhone",
+    "meta_title": "Effetto sfocato sulle foto con iPhone: stili e guida pratica",
+    "meta_description": "Cos’è l’effetto sfocato (blur) e come applicarlo su iPhone: allo sfondo, ai volti, a un’area o a tutta l’immagine, con Gaussian, Motion, Ghosting o Pixelate.",
+    "h1": "Effetto sfocato sulle foto: cos’è e come si fa su iPhone",
+    "answer": "L’effetto sfocato rende una foto, o una sua parte, meno nitida. Su iPhone lo applichi con MakeBlur: scegli dove (Background per lo sfondo, Faces per i volti, Manual per un’area, Full Photo per tutta l’immagine), uno stile come Gaussian, Motion o Ghosting, regola Radius e tocca Save.",
+    "intro": "«Blur» è la parola inglese per sfocatura, e molti la cercano proprio così: blur effect, blur app, face blur. Dietro c’è quasi sempre uno di quattro desideri: uno sfondo morbido dietro una persona, nascondere dei volti, rendere illeggibile un pezzo con testo o targa, o sfocare tutta la foto. L’editor dell’iPhone non fa nessuna di queste cose su una foto normale.",
+    "image": "/img/appstore/it/02-motion.webp",
+    "image_alt": "Stile Motion: effetto sfocato sullo sfondo",
+    "native": {
+      "heading": "Cosa offre l’iPhone",
+      "paragraphs": [
+        "Sfondo sfocato: solo con la Modalità Ritratto, mentre scatti. Pennello di sfocatura in Foto: non c’è. Markup: penna e forme per coprire, non per sfocare. Ripulisci (Apple Intelligence): rimuove oggetti e può pixelare un volto, solo da iPhone 15 Pro."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gli stili di sfocatura",
+        "paragraphs": [
+          "Gaussian: sfocatura morbida e naturale. Motion: scia con direzione regolabile. Ghosting: effetto «fantasma» sognante. Box: sfocatura uniforme. Pixelate, Hexagonal e Crystallize: mosaici, utili per la privacy o come effetto grafico."
+        ]
+      },
+      {
+        "heading": "Dove applicarlo",
+        "paragraphs": [
+          "Background mantiene nitido il soggetto e sfoca lo sfondo. Faces sfoca tutti i volti. Manual l’area che dipingi con il dito. Full Photo tutta l’immagine. Funziona con foto della fotocamera, screenshot e immagini di WhatsApp o Telegram salvate nella libreria."
+        ]
+      }
+    ],
+    "steps_title": "Applicare l’effetto sfocato nell’app",
+    "steps": [
+      {
+        "title": "Apri foto o screenshot",
+        "description": "Scegli l’immagine in MakeBlur."
+      },
+      {
+        "title": "Scegli la modalità",
+        "description": "Background, Faces, Manual o Full Photo."
+      },
+      {
+        "title": "Stile e Radius",
+        "description": "Tipo di sfocatura e intensità."
+      },
+      {
+        "title": "Save",
+        "description": "La copia con l’effetto viene salvata nella libreria."
+      }
+    ],
+    "tips_title": "Consigli",
+    "tips": [
+      "Per l’estetica: Gaussian o Ghosting; per la privacy: Pixelate.",
+      "Combina le modalità: prima Background per lo sfondo, poi Manual per un dettaglio di disturbo.",
+      "Salva più intensità e tieni la migliore."
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Come faccio l’effetto sfocato senza app?",
+        "answer": "Su una foto normale, Foto non lo permette. Puoi coprire con le forme di Markup o sfocare tutta la foto con l’editor online di questo sito."
+      },
+      {
+        "question": "Posso sfocare uno screenshot?",
+        "answer": "Sì, gli screenshot si aprono nell’app come qualsiasi altra foto."
+      },
+      {
+        "question": "È gratis?",
+        "answer": "Il download è gratuito e la sfocatura di base è inclusa; stili avanzati facoltativi tramite acquisti in-app."
+      }
+    ],
+    "related": [
+      "sfocare-foto-iphone.html",
+      "sfocare-sfondo-foto-iphone.html",
+      "sfocare-parte-foto-iphone.html",
+      "effetto-mosso-foto.html"
+    ],
+    "cta_title": "Effetto sfocato in un minuto",
+    "cta_body": "Scarica «Sfocare Sfondo Foto» e sfoca sfondo, volti o tutta la foto. Gratis, iPhone con iOS 18.6.",
+    "cta_text": "Scarica su App Store"
+  }
+]

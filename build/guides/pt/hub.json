@@ -1,0 +1,30 @@
+{
+  "nav_text": "Guias",
+  "title": "Guias passo a passo",
+  "intro": "Desfocar o fundo, esconder um rosto, ocultar placa ou texto, desfocar a foto inteira: cada guia mostra os passos exatos no iPhone.",
+  "learn_more_text": "Saiba mais",
+  "related_title": "Guias relacionados",
+  "answer_label": "Resumo",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "Desfocar o fundo",
+      "blurb": "Sujeito nítido, fundo suave, em fotos já tiradas."
+    },
+    {
+      "id": "privacy",
+      "title": "Esconder rostos, placas e texto",
+      "blurb": "Desfoque para privacidade antes de compartilhar."
+    },
+    {
+      "id": "effects",
+      "title": "Efeitos de desfoque",
+      "blurb": "Movimento, bokeh e gaussiano."
+    },
+    {
+      "id": "photo",
+      "title": "Desfocar qualquer foto",
+      "blurb": "Foto inteira e o efeito blur explicado."
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+[
+  {
+    "slug": "desfocar-rosto-foto.html",
+    "keyword": "desfocar rosto foto",
+    "cluster": "privacy",
+    "card_title": "Desfocar rosto em uma foto",
+    "card_excerpt": "Crianças, amigos, desconhecidos: desfoque todos os rostos com um toque antes de postar, sem Apple Intelligence.",
+    "card_image": "/img/appstore/pt/03-face.webp",
+    "card_image_alt": "Rostos desfocados em uma grade de retratos",
+    "meta_title": "Desfocar rosto em foto no iPhone, até vários de uma vez",
+    "meta_description": "Como desfocar o rosto de uma pessoa em uma foto no iPhone antes de postar: todos os rostos detectados com um toque, sem Apple Intelligence. Grátis e offline.",
+    "h1": "Como desfocar o rosto em uma foto no iPhone",
+    "answer": "Para desfocar rostos em uma foto no iPhone, abra-a no MakeBlur e escolha a aba Faces (rostos): o app detecta todos os rostos e desfoca de uma vez. Aumente Radius até ninguém ser reconhecível, ou escolha Pixelate para mosaico, e toque em Save. Para desfocar só um rosto, use a aba Manual e pinte com o dedo.",
+    "intro": "Tem muitos motivos para borrar um rosto: o rosto das crianças antes de postar a festa da escola, amigos que não querem aparecer nas redes, desconhecidos numa foto de viagem. Com a LGPD e o direito de imagem cada vez mais em pauta, muita gente prefere não arriscar. Veja como fazer em segundos.",
+    "image": "/img/appstore/pt/03-face.webp",
+    "image_alt": "Aba Faces com Radius 80: oito rostos desfocados",
+    "native": {
+      "heading": "O que o iPhone faz sozinho",
+      "paragraphs": [
+        "Nos iPhones com Apple Intelligence (a partir do iPhone 15 Pro, iOS 18.4 ou posterior em português), a ferramenta Limpeza do Fotos pode pixelizar um rosto se você circular. Funciona um rosto por vez e não existe nos outros modelos.",
+        "Sem Apple Intelligence, sobram as formas e a caneta da Marcação: cobrem o rosto, mas com resultado pouco caprichado."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Todos os rostos ou só um",
+        "paragraphs": [
+          "O Faces encontra cada rosto da imagem e desfoca todos: é a escolha certa para fotos de grupo, turma, festa. Se quiser deixar alguém visível (você mesmo, por exemplo), use Manual e pinte só os rostos que quer esconder.",
+          "A captura «Oculta rostos antes do post» mostra oito retratos desfocados com um só toque."
+        ]
+      },
+      {
+        "heading": "Desfoque ou pixel?",
+        "paragraphs": [
+          "Um desfoque leve pode deixar reconhecível quem a gente conhece bem. Para privacidade de verdade, use Radius alto ou o estilo Pixelate. Para um visual mais suave, bom para redes sociais, Gaussian com intensidade alta."
+        ]
+      }
+    ],
+    "steps_title": "Desfocar rostos no app",
+    "steps": [
+      {
+        "title": "Abra a foto",
+        "description": "Escolha a imagem com as pessoas que quer esconder."
+      },
+      {
+        "title": "Aba Faces",
+        "description": "Todos os rostos são detectados e desfocados."
+      },
+      {
+        "title": "Intensidade",
+        "description": "Aumente Radius ou escolha Pixelate até ninguém ser reconhecível."
+      },
+      {
+        "title": "Save",
+        "description": "Poste a cópia desfocada, não o original."
+      }
+    ],
+    "tips_title": "Dicas",
+    "tips": [
+      "Confira rostos pequenos no fundo ou refletidos em vidros: se faltar algum, complete com Manual.",
+      "No caso de crianças, desfoque também o nome na camiseta ou o brasão da escola.",
+      "Dê zoom depois de salvar para garantir que ninguém é reconhecível."
+    ],
+    "faq_title": "Perguntas frequentes",
+    "faq": [
+      {
+        "question": "Como desfocar um rosto sem Apple Intelligence?",
+        "answer": "Com a aba Faces do MakeBlur, que funciona em qualquer iPhone com iOS 18.6, ou com Manual para um rosto só."
+      },
+      {
+        "question": "Dá para tirar o desfoque de um rosto?",
+        "answer": "Não da cópia salva com intensidade alta: os detalhes são removidos. Por isso, nunca poste o original."
+      },
+      {
+        "question": "Funciona em print de videochamada?",
+        "answer": "Sim, o Faces detecta rostos também em prints."
+      }
+    ],
+    "related": [
+      "desfocar-parte-foto-iphone.html",
+      "pixelar-foto-iphone.html",
+      "esconder-placa-carro-foto.html",
+      "app-desfocar-foto-iphone.html"
+    ],
+    "cta_title": "Rostos protegidos antes do post",
+    "cta_body": "Baixe o «Desfocar o Fundo de uma Foto», escolha Faces e salve. Grátis, no iPhone, sem envio.",
+    "cta_text": "Baixar na App Store"
+  },
+  {
+    "slug": "desfocar-parte-foto-iphone.html",
+    "keyword": "desfocar parte da foto iPhone",
+    "cluster": "privacy",
+    "card_title": "Desfocar parte da foto no iPhone",
+    "card_excerpt": "Um endereço, um número, uma pessoa na multidão: pinte com o dedo e só essa área fica desfocada.",
+    "card_image": "/img/appstore/pt/05-crystalize.webp",
+    "card_image_alt": "Área de uma foto desfocada com pincel",
+    "meta_title": "Desfocar parte da foto no iPhone com o dedo (grátis)",
+    "meta_description": "Como desfocar só uma parte de uma foto no iPhone: pinte a área com o dedo e escolha Gaussian ou Pixelate. Para texto, números, pessoas ou objetos. Grátis.",
+    "h1": "Como desfocar só uma parte da foto no iPhone",
+    "answer": "Para desfocar uma parte da foto no iPhone, abra-a no MakeBlur, escolha a aba Manual (pincel) e passe o dedo sobre a área que quer esconder. Só o que você pintar fica desfocado. Escolha o estilo, Gaussian para um efeito suave ou Pixelate para privacidade, ajuste Radius e toque em Save.",
+    "intro": "Às vezes você não quer desfocar o fundo nem um rosto, e sim um pedaço específico: o número da casa, o crachá, um papel na mesa, uma pessoa na multidão. O app Fotos não tem pincel de desfoque, então é preciso uma ferramenta que faça isso. Veja como.",
+    "image": "/img/appstore/pt/05-crystalize.webp",
+    "image_alt": "Mosaico aplicado a uma área da foto",
+    "native": {
+      "heading": "O que o iPhone faz sozinho",
+      "paragraphs": [
+        "Na Marcação você cobre uma área com uma forma cheia ou com a caneta. O detalhe some, mas fica um remendo visível. A Limpeza (só com Apple Intelligence) remove objetos em vez de desfocar e às vezes reconstrói o fundo de um jeito estranho. Um pincel de desfoque de verdade, o Fotos não tem."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Como pintar bem a área",
+        "paragraphs": [
+          "Dê zoom com dois dedos antes de pintar: o pincel acompanha o dedo com mais precisão. Deixe uma pequena margem em volta, principalmente se for texto. Se errar, comece de novo: o original não é alterado até você salvar."
+        ]
+      },
+      {
+        "heading": "Qual estilo escolher",
+        "paragraphs": [
+          "Gaussian: suave, pouco perceptível, bom para detalhes estéticos (uma lixeira, uma placa de rua). Pixelate ou Box com Radius alto: para dados que precisam sumir de verdade. Crystallize ou Hexagonal: efeito gráfico, quando você quer que o desfoque apareça."
+        ]
+      }
+    ],
+    "steps_title": "Desfocar uma área no app",
+    "steps": [
+      {
+        "title": "Abra a foto",
+        "description": "Escolha a imagem no MakeBlur."
+      },
+      {
+        "title": "Aba Manual",
+        "description": "Dê zoom e passe o dedo sobre a área."
+      },
+      {
+        "title": "Estilo e Radius",
+        "description": "Gaussian para um efeito discreto, Pixelate para privacidade."
+      },
+      {
+        "title": "Save",
+        "description": "A cópia com a área desfocada vai para o Fotos."
+      }
+    ],
+    "tips_title": "Dicas",
+    "tips": [
+      "Combine as abas: primeiro Background para o fundo, depois Manual para um detalhe.",
+      "Para texto, use sempre intensidade alta: letras grandes continuam legíveis com pouco desfoque.",
+      "Confira reflexos: um espelho pode mostrar o que você acabou de esconder."
+    ],
+    "faq_title": "Perguntas frequentes",
+    "faq": [
+      {
+        "question": "Dá para desfocar várias áreas na mesma foto?",
+        "answer": "Sim, com Manual você pinta quantas áreas quiser antes de salvar."
+      },
+      {
+        "question": "Funciona em prints?",
+        "answer": "Sim, os prints abrem como qualquer foto."
+      },
+      {
+        "question": "A parte não desfocada perde qualidade?",
+        "answer": "Não, o resto da foto fica idêntico ao original."
+      }
+    ],
+    "related": [
+      "ocultar-texto-print-iphone.html",
+      "esconder-placa-carro-foto.html",
+      "pixelar-foto-iphone.html",
+      "desfocar-rosto-foto.html"
+    ],
+    "cta_title": "Desfoque só o que você quiser",
+    "cta_body": "Baixe o «Desfocar o Fundo de uma Foto», escolha Manual e pinte. Grátis, no iPhone.",
+    "cta_text": "Baixar na App Store"
+  },
+  {
+    "slug": "esconder-placa-carro-foto.html",
+    "keyword": "esconder placa do carro na foto",
+    "cluster": "privacy",
+    "card_title": "Esconder a placa do carro na foto",
+    "card_excerpt": "Para OLX, Webmotors ou Mercado Livre: placa ilegível, anúncio caprichado.",
+    "card_image": "/img/appstore/pt/05-crystalize.webp",
+    "card_image_alt": "Placa escondida com pixels",
+    "meta_title": "Esconder a placa do carro na foto pelo iPhone (grátis)",
+    "meta_description": "Como esconder a placa do carro na foto para anunciar na OLX, Webmotors ou Mercado Livre: pinte, pixelize e salve. No iPhone, grátis, sem enviar as fotos.",
+    "h1": "Como esconder a placa do carro na foto pelo iPhone",
+    "answer": "Para esconder a placa do carro na foto, abra-a no MakeBlur, escolha a aba Manual, passe o dedo sobre a placa, escolha o estilo Pixelate ou Box e aumente Radius até nenhum caractere ficar legível. Toque em Save e envie essa cópia no anúncio.",
+    "intro": "Quem vende carro ou moto na OLX, Webmotors, iCarros ou Mercado Livre, ou só mostra o veículo no Instagram, costuma esconder a placa: diminui o risco de alguém usar os dados para golpe ou placa clonada. Não é obrigatório, mas muita gente faz por precaução. Só que o anúncio precisa continuar caprichado: uma tarja preta no para-choque parece improviso. Uma pixelização limpa resolve as duas coisas.",
+    "image": "/img/appstore/pt/05-crystalize.webp",
+    "image_alt": "Pixelização de uma área da foto no app",
+    "native": {
+      "heading": "O que dá para fazer no Fotos",
+      "paragraphs": [
+        "Na Marcação você cobre a placa com uma forma ou passa a caneta por cima. Fica escondida, mas o remendo aparece, e o marca-texto semitransparente às vezes deixa os caracteres à mostra. O editor nativo não desfoca nem pixeliza uma área."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Pixelizar ou desfocar?",
+        "paragraphs": [
+          "Para placas, o mais seguro é Pixelate ou Box com Radius alto: blocos grandes apagam os caracteres. Um Gaussian leve pode deixar a placa adivinhável, ainda mais em fotos de alta resolução.",
+          "O Crystallize também esconde, mas tem um efeito decorativo; para anúncio, melhor uma pixelização neutra."
+        ]
+      },
+      {
+        "heading": "Quando são muitas fotos",
+        "paragraphs": [
+          "Um anúncio costuma ter de 10 a 20 fotos, e a placa aparece em três ou quatro. Faça uma por vez: abrir, Manual, pintar, Save, meio minuto cada. Confira também reflexos: às vezes a placa aparece numa vitrine ou pelo vidro nas fotos do interior."
+        ]
+      }
+    ],
+    "steps_title": "Esconder a placa no app",
+    "steps": [
+      {
+        "title": "Abra a foto do carro",
+        "description": "Escolha uma foto em que a placa aparece."
+      },
+      {
+        "title": "Aba Manual",
+        "description": "Dê zoom e pinte a placa com uma pequena margem."
+      },
+      {
+        "title": "Pixelate e Radius",
+        "description": "Aumente a intensidade até, com zoom, nenhum caractere ficar legível."
+      },
+      {
+        "title": "Save",
+        "description": "Envie a cópia salva no anúncio."
+      }
+    ],
+    "tips_title": "Dicas",
+    "tips": [
+      "Cubra a placa inteira, não só os caracteres: o QR Code da placa Mercosul também identifica o veículo.",
+      "Confira fotos da frente e de trás: carros têm placa nos dois para-choques (motos, só atrás).",
+      "Se aparecer o documento (CRLV) ou o número do chassi, esconda do mesmo jeito."
+    ],
+    "faq_title": "Perguntas frequentes",
+    "faq": [
+      {
+        "question": "É obrigatório esconder a placa em anúncio?",
+        "answer": "Não há uma obrigação clara, mas muitos vendedores fazem isso para evitar uso indevido dos dados do veículo. A escolha é sua. Isto não é orientação jurídica."
+      },
+      {
+        "question": "Uma placa pixelizada pode ser recuperada?",
+        "answer": "Com blocos grandes, não: os detalhes são removidos da cópia salva. Não publique o original."
+      },
+      {
+        "question": "As fotos são enviadas para algum lugar?",
+        "answer": "Não, tudo acontece no iPhone, sem internet."
+      }
+    ],
+    "related": [
+      "desfocar-parte-foto-iphone.html",
+      "pixelar-foto-iphone.html",
+      "ocultar-texto-print-iphone.html",
+      "desfocar-rosto-foto.html"
+    ],
+    "cta_title": "Placa escondida, anúncio caprichado",
+    "cta_body": "Baixe o «Desfocar o Fundo de uma Foto», pinte a placa com Manual e salve. Grátis, direto no iPhone.",
+    "cta_text": "Baixar na App Store"
+  },
+  {
+    "slug": "ocultar-texto-print-iphone.html",
+    "keyword": "ocultar texto print iPhone",
+    "cluster": "privacy",
+    "card_title": "Ocultar texto em print no iPhone",
+    "card_excerpt": "Conversas, endereços, chave Pix: deixe o texto ilegível antes de compartilhar o print.",
+    "card_image": "/img/appstore/pt/05-crystalize.webp",
+    "card_image_alt": "Texto pixelizado em um print",
+    "meta_title": "Ocultar texto em print no iPhone de forma segura (grátis)",
+    "meta_description": "Como ocultar texto, nomes e números em um print do iPhone antes de compartilhar: pixelização que não reaparece com ajuste de brilho. Grátis, sem enviar nada.",
+    "h1": "Como ocultar texto em um print no iPhone",
+    "answer": "Para ocultar texto em um print, abra-o no MakeBlur, escolha a aba Manual, passe o dedo sobre as linhas que quer esconder (nome, número, endereço, mensagem), escolha Pixelate e aumente Radius. Toque em Save e compartilhe a cópia. Dê zoom antes de enviar para conferir que nada fica legível.",
+    "intro": "A gente compartilha print o tempo todo: uma conversa para pedir opinião, o comprovante de um Pix, a confirmação de um pedido, um erro do app. Quase sempre aparecem nomes, telefones, endereços ou códigos. Esconder é fácil, mas tem que ser do jeito certo: alguns métodos deixam o texto legível.",
+    "image": "/img/appstore/pt/05-crystalize.webp",
+    "image_alt": "Área pixelizada deixando o conteúdo ilegível",
+    "native": {
+      "heading": "O limite da Marcação",
+      "paragraphs": [
+        "A Marcação tem marca-texto, mas ele é semitransparente: aumentando contraste ou brilho, o texto embaixo pode reaparecer. A caneta de traço cheio funciona melhor se você passar várias vezes, e uma forma retangular cheia é segura mas feia. Pixelizar uma área não é possível."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Por que pixelizar e não desfocar pouco",
+        "paragraphs": [
+          "Texto preto em fundo branco resiste a um desfoque leve: as palavras dá para adivinhar pela forma. Com Pixelate e Radius alto, cada letra vira um bloco e o conteúdo some. Num print o estilo pixelizado também é o mais claro: quem recebe entende que você escondeu algo de propósito."
+        ]
+      },
+      {
+        "heading": "O que costuma ser escondido",
+        "paragraphs": [
+          "Em conversas: nome e foto do contato, telefone. Em pedidos: endereço, e-mail, número do pedido. Em bancos: chave Pix, saldo, nome do favorecido. Em documentos: CPF e assinatura."
+        ]
+      }
+    ],
+    "steps_title": "Ocultar texto no app",
+    "steps": [
+      {
+        "title": "Abra o print",
+        "description": "Ele fica no álbum Capturas de Tela da fototeca."
+      },
+      {
+        "title": "Aba Manual",
+        "description": "Pinte as linhas a esconder, com margem."
+      },
+      {
+        "title": "Pixelate",
+        "description": "Aumente Radius até, com zoom, nada ficar legível."
+      },
+      {
+        "title": "Save",
+        "description": "Compartilhe a cópia, não o original."
+      }
+    ],
+    "tips_title": "Dicas",
+    "tips": [
+      "Não esqueça a barra de cima: nome de contato e prévia de notificação aparecem muito em prints.",
+      "Esconda a linha inteira, não só parte do número.",
+      "Depois de salvar, apague o original se não precisar dele."
+    ],
+    "faq_title": "Perguntas frequentes",
+    "faq": [
+      {
+        "question": "O marca-texto da Marcação é seguro?",
+        "answer": "Não totalmente: ele é semitransparente e o texto pode reaparecer ajustando o brilho. Melhor pixelizar ou usar uma forma cheia."
+      },
+      {
+        "question": "Dá para recuperar texto pixelizado?",
+        "answer": "Com blocos grandes, não. Com pixelização leve e texto grande, às vezes sim: use intensidade alta."
+      },
+      {
+        "question": "Funciona com print de página inteira?",
+        "answer": "Funciona com imagens da fototeca. Prints de página inteira salvos como PDF precisam ser salvos como imagem antes."
+      }
+    ],
+    "related": [
+      "desfocar-parte-foto-iphone.html",
+      "pixelar-foto-iphone.html",
+      "esconder-placa-carro-foto.html",
+      "desfocar-rosto-foto.html"
+    ],
+    "cta_title": "Print pronto para compartilhar",
+    "cta_body": "Baixe o «Desfocar o Fundo de uma Foto», pinte o texto com Manual e pixelize. Grátis, offline.",
+    "cta_text": "Baixar na App Store"
+  },
+  {
+    "slug": "pixelar-foto-iphone.html",
+    "keyword": "pixelar foto iPhone",
+    "cluster": "privacy",
+    "card_title": "Pixelar foto no iPhone",
+    "card_excerpt": "Mosaico em rostos, texto ou fundo: Pixelate, Hexagonal e Crystallize explicados.",
+    "card_image": "/img/appstore/pt/05-crystalize.webp",
+    "card_image_alt": "Fundo transformado em mosaico com Crystallize",
+    "meta_title": "Pixelar foto no iPhone: rostos, texto ou fundo em mosaico",
+    "meta_description": "Como pixelar uma foto no iPhone: a imagem toda, só o fundo, os rostos ou uma área. Estilos Pixelate, Hexagonal e Crystallize, no próprio aparelho e grátis.",
+    "h1": "Como pixelar uma foto no iPhone",
+    "answer": "Para pixelar uma foto no iPhone, abra-a no MakeBlur, escolha onde aplicar o efeito (Faces para rostos, Manual para uma área, Background para o fundo, Full Photo para tudo), selecione o estilo Pixelate e ajuste o tamanho dos blocos com Radius. Toque em Save para salvar a cópia pixelizada.",
+    "intro": "Pixelar (ou pixelizar) é transformar parte da imagem em quadrados grandes: o jeito clássico de esconder rostos e dados, e também um efeito gráfico que está na moda. O iPhone não tem filtro de mosaico nativo. Veja como aplicar onde você quiser.",
+    "image": "/img/appstore/pt/05-crystalize.webp",
+    "image_alt": "Estilo Crystallize no fundo: mosaico de cristais",
+    "native": {
+      "heading": "O que o iPhone faz sozinho",
+      "paragraphs": [
+        "O Fotos não tem filtro de mosaico. A Limpeza com Apple Intelligence pixeliza um rosto circulado, só a partir do iPhone 15 Pro. Para pixelar texto, fundo ou a imagem inteira, você precisa de um app."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Três estilos de mosaico",
+        "paragraphs": [
+          "Pixelate: quadrados clássicos, o mais seguro para privacidade. Hexagonal: células hexagonais, mais moderno. Crystallize: cristais irregulares, efeito artístico, como na captura «Mosaico pixel em um toque», em que o fundo vira cristais e a garota continua nítida."
+        ]
+      },
+      {
+        "heading": "Privacidade ou estética",
+        "paragraphs": [
+          "Para esconder: Pixelate com blocos grandes em Faces ou Manual. Para efeito gráfico: Crystallize ou Hexagonal em Background, assim o sujeito se destaca sobre um fundo em mosaico."
+        ]
+      }
+    ],
+    "steps_title": "Pixelar no app",
+    "steps": [
+      {
+        "title": "Abra a foto",
+        "description": "Qualquer imagem ou print."
+      },
+      {
+        "title": "Escolha a aba",
+        "description": "Faces, Manual, Background ou Full Photo."
+      },
+      {
+        "title": "Estilo Pixelate",
+        "description": "Ou Hexagonal e Crystallize; ajuste os blocos com Radius."
+      },
+      {
+        "title": "Save",
+        "description": "Salve a cópia pixelizada."
+      }
+    ],
+    "tips_title": "Dicas",
+    "tips": [
+      "Blocos maiores = mais privacidade.",
+      "Para um post criativo, teste Crystallize no fundo com o sujeito nítido.",
+      "Confira com zoom: detalhes pequenos precisam sumir por completo."
+    ],
+    "faq_title": "Perguntas frequentes",
+    "faq": [
+      {
+        "question": "Pixelar ou pixelizar?",
+        "answer": "As duas formas são usadas e significam a mesma coisa."
+      },
+      {
+        "question": "Dá para pixelar só o fundo?",
+        "answer": "Sim: aba Background com estilo Pixelate ou Crystallize; o sujeito fica nítido."
+      },
+      {
+        "question": "As fotos continuam privadas?",
+        "answer": "Sim, o processamento acontece no iPhone e não precisa de internet."
+      }
+    ],
+    "related": [
+      "desfocar-rosto-foto.html",
+      "ocultar-texto-print-iphone.html",
+      "esconder-placa-carro-foto.html",
+      "efeito-blur-foto.html"
+    ],
+    "cta_title": "Mosaico onde você quiser",
+    "cta_body": "Baixe o «Desfocar o Fundo de uma Foto»: Pixelate, Hexagonal e Crystallize em todos os modos. Grátis para baixar.",
+    "cta_text": "Baixar na App Store"
+  }
+]

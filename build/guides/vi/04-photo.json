@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "cach-lam-mo-anh-tren-iphone.html",
+    "keyword": "cách làm mờ ảnh trên iPhone",
+    "cluster": "photo",
+    "card_title": "Cách làm mờ toàn bộ ảnh trên iPhone",
+    "card_excerpt": "Cả ảnh mờ mềm: cho hình nền, nền story hay vẻ trừu tượng. Trên iPhone và online.",
+    "card_image": "/img/appstore/vi/06-ghost.webp",
+    "card_image_alt": "Toàn bộ ảnh được làm mờ kiểu Ghosting",
+    "meta_title": "Cách làm mờ ảnh trên iPhone: toàn bộ ảnh trong vài giây",
+    "meta_description": "Cách làm mờ toàn bộ ảnh trên iPhone cho hình nền, nền story hay vẻ trừu tượng: kiểu Gaussian, Motion, Ghosting, cùng cách làm mờ ảnh online không cần cài đặt.",
+    "h1": "Cách làm mờ toàn bộ ảnh trên iPhone",
+    "answer": "Để làm mờ cả ảnh, mở ảnh trong MakeBlur, chọn tab Full Photo và một kiểu — Gaussian cho mềm, Motion cho chuyển động, Ghosting cho mơ màng — rồi tăng Radius. Nhấn Save. Không muốn cài đặt thì trình làm mờ online trên website này cũng làm mờ được cả ảnh.",
+    "intro": "Đôi khi bạn cần làm mờ cả bức ảnh chứ không chỉ phông: hình nền màn hình khóa, nền cho chữ trên story, ảnh bìa trừu tượng hay ảnh “nhá hàng” trước khi đăng ảnh thật. Đây là kiểu làm mờ đơn giản nhất — không cần nhận diện chủ thể.",
+    "image": "/img/appstore/vi/06-ghost.webp",
+    "image_alt": "Tab Full Photo với kiểu Ghosting, Radius 79",
+    "native": {
+      "heading": "Ứng dụng Ảnh có làm mờ ảnh được không?",
+      "paragraphs": [
+        "Không: bộ lọc và công cụ chỉnh của Ảnh không có làm mờ. Màn hình khóa iOS có thể làm mờ hình nền dưới các widget, nhưng đó là hiệu ứng hệ thống chứ không tạo ra ảnh mới để chia sẻ."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Kiểu nào cho mục đích nào",
+        "paragraphs": [
+          "Gaussian: mềm đều, nền tốt nhất cho chữ. Motion: cảm giác tốc độ, hợp ảnh bìa thể thao. Ghosting: hiệu ứng chồng ảnh mơ màng như ảnh chụp màn hình “Không khí bokeh mềm mại” (Radius 79). Pixelate và Crystallize: mosaic trừu tượng."
+        ]
+      },
+      {
+        "heading": "Làm mờ ảnh online",
+        "paragraphs": [
+          "Website này có trình làm mờ ảnh online miễn phí: tải ảnh lên, chọn Gaussian, Pixel hoặc Motion và lưu PNG. Trình này chỉ làm mờ cả ảnh; muốn làm mờ riêng phông hay khuôn mặt, cần ứng dụng."
+        ]
+      }
+    ],
+    "steps_title": "Làm mờ cả ảnh trong ứng dụng",
+    "steps": [
+      {
+        "title": "Mở ảnh",
+        "description": "Chọn ảnh trong MakeBlur."
+      },
+      {
+        "title": "Tab Full Photo",
+        "description": "Hiệu ứng áp dụng cho toàn khung hình."
+      },
+      {
+        "title": "Kiểu và Radius",
+        "description": "Gaussian, Motion hoặc Ghosting với độ mạnh mong muốn."
+      },
+      {
+        "title": "Save",
+        "description": "Bản sao mờ xuất hiện trong thư viện."
+      }
+    ],
+    "tips_title": "Mẹo",
+    "tips": [
+      "Nền cho chữ: chọn ảnh nhiều màu — sau khi làm mờ còn lại những mảng màu đẹp.",
+      "Hình nền màn hình khóa: Gaussian mạnh giúp đồng hồ và biểu tượng dễ đọc.",
+      "Nhá hàng: đăng bản mờ trước, ảnh thật sau."
+    ],
+    "faq_title": "Câu hỏi thường gặp",
+    "faq": [
+      {
+        "question": "Làm mờ ảnh online thế nào?",
+        "answer": "Dùng trình làm mờ online miễn phí trên website này: tải ảnh lên, chọn kiểu và độ mạnh, lưu PNG. Trình này chỉ làm mờ cả ảnh."
+      },
+      {
+        "question": "Full Photo khác Background thế nào?",
+        "answer": "Full Photo làm mờ cả ảnh, Background chỉ làm mờ nền và giữ chủ thể sắc nét."
+      },
+      {
+        "question": "Độ phân giải có bị giảm không?",
+        "answer": "Không, bản sao được lưu ở kích thước gốc."
+      }
+    ],
+    "related": [
+      "blur-anh.html",
+      "lam-mo-gaussian-iphone.html",
+      "hieu-ung-chuyen-dong-anh.html",
+      "hieu-ung-bokeh-iphone.html"
+    ],
+    "cta_title": "Ảnh mờ trong vài giây",
+    "cta_body": "Tải «Cách làm mờ nền ảnh», chọn Full Photo và một kiểu. Miễn phí, không tải lên đám mây.",
+    "cta_text": "Tải trên App Store"
+  },
+  {
+    "slug": "blur-anh.html",
+    "keyword": "blur ảnh",
+    "cluster": "photo",
+    "card_title": "Blur ảnh: hiệu ứng làm mờ là gì",
+    "card_excerpt": "Blur là gì, có những kiểu nào và chọn gì cho phông, khuôn mặt hay cả ảnh.",
+    "card_image": "/img/appstore/vi/02-motion.webp",
+    "card_image_alt": "Hiệu ứng blur trên ảnh iPhone",
+    "meta_title": "Blur ảnh trên iPhone: các kiểu hiệu ứng làm mờ và cách làm",
+    "meta_description": "Blur ảnh là gì và cách làm mờ ảnh trên iPhone: cho phông nền, khuôn mặt, một vùng hay cả ảnh — Gaussian, Motion, Ghosting hoặc Pixelate. Miễn phí, trên máy.",
+    "h1": "Blur ảnh: là gì và làm thế nào trên iPhone",
+    "answer": "Blur là hiệu ứng làm mờ khiến ảnh hoặc một phần ảnh kém sắc nét. Trên iPhone, bạn blur ảnh trong MakeBlur: chọn nơi áp dụng (Background cho phông, Faces cho khuôn mặt, Manual cho một vùng, Full Photo cho cả ảnh), chọn kiểu như Gaussian, Motion hay Ghosting, chỉnh Radius và nhấn Save.",
+    "intro": "“Blur” trong tiếng Anh nghĩa là làm mờ, và nhiều người Việt tìm đúng từ này: blur ảnh, blur mặt, blur phông. Đằng sau gần như luôn là một trong bốn nhu cầu: phông mềm sau người, che khuôn mặt, che một vùng có chữ hay biển số, hoặc làm mờ cả ảnh. Trình chỉnh sửa có sẵn của iPhone không làm được việc nào trong số này với ảnh thường.",
+    "image": "/img/appstore/vi/02-motion.webp",
+    "image_alt": "Kiểu Motion: blur phông nền",
+    "native": {
+      "heading": "iPhone có sẵn gì",
+      "paragraphs": [
+        "Blur phông: chỉ ở chế độ Chân dung, lúc chụp. Cọ làm mờ trong Ảnh: không có. Đánh dấu: bút và hình để che, không làm mờ. Dọn dẹp (Apple Intelligence, có tiếng Việt): xóa vật thể, cần iPhone 15 Pro trở lên."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Các kiểu blur",
+        "paragraphs": [
+          "Gaussian: mờ mềm tự nhiên. Motion: vệt chuyển động chỉnh được hướng. Ghosting: hiệu ứng chồng ảnh mơ màng. Box: mờ đều. Pixelate, Hexagonal và Crystallize: mosaic để che riêng tư hoặc làm hiệu ứng đồ họa."
+        ]
+      },
+      {
+        "heading": "Áp dụng ở đâu",
+        "paragraphs": [
+          "Background giữ chủ thể sắc nét và làm mờ phông. Faces làm mờ mọi khuôn mặt. Manual làm mờ vùng bạn tô. Full Photo làm mờ cả ảnh. Dùng được với ảnh camera, ảnh chụp màn hình và ảnh từ Zalo, Messenger đã lưu vào thư viện."
+        ]
+      }
+    ],
+    "steps_title": "Blur ảnh trong ứng dụng",
+    "steps": [
+      {
+        "title": "Mở ảnh hoặc ảnh chụp màn hình",
+        "description": "Chọn ảnh trong MakeBlur."
+      },
+      {
+        "title": "Chọn chế độ",
+        "description": "Background, Faces, Manual hoặc Full Photo."
+      },
+      {
+        "title": "Kiểu và Radius",
+        "description": "Loại mờ và độ mạnh."
+      },
+      {
+        "title": "Save",
+        "description": "Bản sao có hiệu ứng được lưu vào thư viện."
+      }
+    ],
+    "tips_title": "Mẹo",
+    "tips": [
+      "Để đẹp: Gaussian hoặc Ghosting; để riêng tư: Pixelate.",
+      "Kết hợp chế độ: Background cho phông trước, sau đó Manual cho chi tiết thừa.",
+      "Lưu vài mức độ mạnh và giữ bản đẹp nhất."
+    ],
+    "faq_title": "Câu hỏi thường gặp",
+    "faq": [
+      {
+        "question": "Blur ảnh không cần app được không?",
+        "answer": "Với ảnh thường, ứng dụng Ảnh không làm được. Bạn có thể che bằng hình trong Đánh dấu, hoặc làm mờ cả ảnh bằng trình làm mờ online trên website này."
+      },
+      {
+        "question": "Có blur ảnh chụp màn hình được không?",
+        "answer": "Được, ảnh chụp màn hình mở trong ứng dụng như ảnh thường."
+      },
+      {
+        "question": "Có miễn phí không?",
+        "answer": "Tải về miễn phí, làm mờ cơ bản đã có; kiểu nâng cao có thể mở thêm qua mua trong ứng dụng."
+      }
+    ],
+    "related": [
+      "cach-lam-mo-anh-tren-iphone.html",
+      "cach-xoa-phong-anh-tren-iphone.html",
+      "lam-mo-mot-phan-anh-iphone.html",
+      "hieu-ung-chuyen-dong-anh.html"
+    ],
+    "cta_title": "Blur ảnh trong một phút",
+    "cta_body": "Tải «Cách làm mờ nền ảnh» và làm mờ phông, khuôn mặt hoặc cả ảnh. Miễn phí, iPhone iOS 18.6.",
+    "cta_text": "Tải trên App Store"
+  }
+]

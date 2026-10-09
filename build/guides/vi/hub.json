@@ -1,0 +1,30 @@
+{
+  "nav_text": "Hướng dẫn",
+  "title": "Hướng dẫn từng bước",
+  "intro": "Xóa phông, che khuôn mặt, biển số xe hay chữ, làm mờ cả ảnh: mỗi hướng dẫn chỉ đúng các bước trên iPhone.",
+  "learn_more_text": "Tìm hiểu thêm",
+  "related_title": "Hướng dẫn liên quan",
+  "answer_label": "Tóm tắt",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "Xóa phông",
+      "blurb": "Chủ thể sắc nét, phông mềm — kể cả với ảnh đã chụp."
+    },
+    {
+      "id": "privacy",
+      "title": "Che khuôn mặt, biển số và chữ",
+      "blurb": "Làm mờ để bảo vệ riêng tư trước khi đăng."
+    },
+    {
+      "id": "effects",
+      "title": "Hiệu ứng làm mờ",
+      "blurb": "Chuyển động, bokeh và Gaussian."
+    },
+    {
+      "id": "photo",
+      "title": "Làm mờ bất kỳ ảnh nào",
+      "blurb": "Cả ảnh và kiến thức cơ bản về blur."
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+[
+  {
+    "slug": "eolgul-mosaic.html",
+    "keyword": "얼굴 모자이크",
+    "cluster": "privacy",
+    "card_title": "사진 속 얼굴 모자이크·블러",
+    "card_excerpt": "아이, 친구, 지나가는 사람. 올리기 전에 탭 한 번으로 모든 얼굴을 흐리게. Apple Intelligence 필요 없음.",
+    "card_image": "/img/appstore/ko/03-face.webp",
+    "card_image_alt": "인물 사진 그리드에서 얼굴이 흐리게 처리됨",
+    "meta_title": "사진 얼굴 모자이크 하는 법｜아이폰에서 여러 명도 한 번에",
+    "meta_description": "SNS에 올리기 전에 사진 속 얼굴을 아이폰에서 모자이크·블러하는 방법. 앱이 얼굴을 자동으로 찾아 여러 명이어도 탭 한 번에 가립니다. Apple Intelligence가 필요 없고, 무료로 오프라인에서 작동합니다.",
+    "h1": "사진 속 얼굴 모자이크 하는 법 (아이폰)",
+    "answer": "사진 속 얼굴을 아이폰에서 가리려면 MakeBlur에서 사진을 열고 Faces(얼굴) 탭을 고르세요. 앱이 모든 얼굴을 감지해 한 번에 흐리게 합니다. 알아볼 수 없을 때까지 Radius를 올리거나, 모자이크로 하려면 Pixelate를 고른 뒤 Save를 누르세요. 한 명만 가리려면 Manual 탭에서 손가락으로 칠하면 됩니다.",
+    "intro": "얼굴을 가리는 이유는 다양합니다. 운동회나 발표회 사진 속 아이들, SNS에 나오기 싫은 친구, 여행 사진의 지나가는 사람. 초상권과 개인정보에 대한 인식이 높아지면서 올리기 전에 얼굴을 가리는 사람이 많아졌어요. 몇 초면 되는 방법을 소개합니다.",
+    "image": "/img/appstore/ko/03-face.webp",
+    "image_alt": "Faces 탭, Radius 80: 8명의 얼굴이 흐리게 처리됨",
+    "native": {
+      "heading": "아이폰 기본 기능으로 되는 것",
+      "paragraphs": [
+        "「사진」 앱에는 얼굴을 흐리게 하거나 모자이크하는 전용 기능이 없습니다. Apple Intelligence 지원 기기(iPhone 15 Pro 이상)의 클린업은 원치 않는 물체를 지우는 도구라서 얼굴을 가리는 용도에는 맞지 않아요.",
+        "남는 방법은 마크업의 도형이나 펜으로 얼굴을 칠하는 것인데, 결과가 아무래도 지저분해 보입니다."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "모두 가릴까, 한 명만 가릴까",
+        "paragraphs": [
+          "Faces는 사진 속 얼굴을 모두 찾아 흐리게 합니다. 단체 사진, 반 사진, 파티 사진에 딱이에요. 본인 등 누군가는 보이게 두고 싶다면 Manual로 가릴 얼굴만 칠하세요.",
+          "스크린샷 「공유 전에 얼굴 가리기」에서는 8명의 얼굴이 탭 한 번으로 흐려집니다."
+        ]
+      },
+      {
+        "heading": "블러냐 모자이크냐",
+        "paragraphs": [
+          "약한 블러는 잘 아는 사람이라면 누군지 알아볼 수도 있습니다. 확실히 가리려면 Radius를 높이거나 Pixelate로 모자이크하세요. SNS용으로 부드럽게 보이고 싶다면 강한 Gaussian을 추천합니다."
+        ]
+      }
+    ],
+    "steps_title": "앱에서 얼굴 가리는 단계",
+    "steps": [
+      {
+        "title": "사진 열기",
+        "description": "가리고 싶은 사람이 찍힌 이미지를 고르세요."
+      },
+      {
+        "title": "Faces 탭",
+        "description": "모든 얼굴이 감지되어 흐려집니다."
+      },
+      {
+        "title": "강도 조절",
+        "description": "알아볼 수 없을 때까지 Radius를 올리거나 Pixelate를 고르세요."
+      },
+      {
+        "title": "Save",
+        "description": "올리는 건 흐리게 처리한 사본. 원본이 아닙니다."
+      }
+    ],
+    "tips_title": "팁",
+    "tips": [
+      "배경의 작은 얼굴이나 유리에 비친 얼굴도 확인하세요. 빠졌다면 Manual로 추가하세요.",
+      "아이 사진이라면 이름표, 체육복 이름, 학교 마크도 함께 가리세요.",
+      "저장 후 확대해서 누구도 알아볼 수 없는지 확인하세요."
+    ],
+    "faq_title": "자주 묻는 질문",
+    "faq": [
+      {
+        "question": "Apple Intelligence 없이 얼굴을 가릴 수 있나요?",
+        "answer": "네. MakeBlur의 Faces 탭은 iOS 18.6 이상 모든 아이폰에서 됩니다. 한 명만이라면 Manual로."
+      },
+      {
+        "question": "가린 얼굴을 되돌릴 수 있나요?",
+        "answer": "강하게 처리해 저장한 사본에서는 되돌릴 수 없습니다. 세부가 사라지기 때문이에요. 그래서 원본은 절대 올리지 마세요."
+      },
+      {
+        "question": "영상통화 캡처에도 되나요?",
+        "answer": "네. Faces는 캡처 속 얼굴도 감지합니다."
+      }
+    ],
+    "related": [
+      "sajin-bubun-blur.html",
+      "sajin-mosaic-iphone.html",
+      "beonhopan-garigi.html",
+      "blur-app-iphone.html"
+    ],
+    "cta_title": "올리기 전에 얼굴을 지키세요",
+    "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 Faces를 고르고 저장. 무료, 아이폰 안에서만, 업로드 없음.",
+    "cta_text": "App Store에서 받기"
+  },
+  {
+    "slug": "sajin-bubun-blur.html",
+    "keyword": "사진 일부 블러",
+    "cluster": "privacy",
+    "card_title": "사진 일부만 블러 처리하기",
+    "card_excerpt": "주소, 번호, 인파 속 누군가. 손가락으로 칠한 부분만 흐리게.",
+    "card_image": "/img/appstore/ko/05-crystalize.webp",
+    "card_image_alt": "브러시로 사진 일부를 흐리게 한 예",
+    "meta_title": "사진 일부만 블러 처리하는 법｜아이폰에서 손가락으로",
+    "meta_description": "아이폰에서 사진의 일부만 블러 처리하는 방법. 가리고 싶은 곳을 손가락으로 칠하고 Gaussian이나 Pixelate를 고르면 끝. 글자, 번호, 사람, 찍힌 물건 등 원하는 부분만 깔끔하게 흐리게 할 수 있어요. 무료입니다.",
+    "h1": "사진 일부만 블러 처리하는 법 (아이폰)",
+    "answer": "사진의 일부만 아이폰에서 흐리게 하려면 MakeBlur에서 사진을 열고 Manual(브러시) 탭을 고른 뒤, 가리고 싶은 부분을 손가락으로 칠하세요. 칠한 곳만 흐려집니다. 부드럽게는 Gaussian, 개인정보 보호에는 Pixelate를 고르고 Radius를 조절해 Save를 누르세요.",
+    "intro": "배경도 얼굴도 아니고, 특정 부분만 가리고 싶을 때가 있습니다. 집 호수, 사원증, 책상 위 서류, 인파 속 누군가. 「사진」 앱에는 블러 브러시가 없으니 그걸 해줄 도구가 필요합니다. 방법을 알려드릴게요.",
+    "image": "/img/appstore/ko/05-crystalize.webp",
+    "image_alt": "사진 일부에 모자이크 적용",
+    "native": {
+      "heading": "아이폰 기본 기능으로 되는 것",
+      "paragraphs": [
+        "마크업으로 도형이나 펜을 써서 칠할 수는 있습니다. 가려지긴 하지만 덧붙인 티가 납니다. 클린업(Apple Intelligence 전용)은 흐리게 하는 게 아니라 지우는 기능이고, 배경을 어색하게 채울 때도 있어요. 제대로 된 블러 브러시는 「사진」 앱에 없습니다."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "잘 칠하는 요령",
+        "paragraphs": [
+          "칠하기 전에 두 손가락으로 확대하면 브러시가 손가락을 정확히 따라옵니다. 특히 글자는 주변에 여백을 조금 두고 칠하세요. 실수해도 다시 하면 됩니다. 저장하기 전까지 원본은 바뀌지 않아요."
+        ]
+      },
+      {
+        "heading": "스타일 고르기",
+        "paragraphs": [
+          "Gaussian: 부드럽고 티가 덜 나서 쓰레기통이나 간판 같은 미관 정리에. Pixelate나 Box에 Radius 높게: 진짜 가려야 할 정보에. Crystallize나 Hexagonal: 일부러 효과를 보여주고 싶은 디자인적 표현에."
+        ]
+      }
+    ],
+    "steps_title": "앱에서 부분 블러하는 단계",
+    "steps": [
+      {
+        "title": "사진 열기",
+        "description": "MakeBlur에서 이미지를 고릅니다."
+      },
+      {
+        "title": "Manual 탭",
+        "description": "확대해서 가릴 부분을 손가락으로 칠합니다."
+      },
+      {
+        "title": "스타일과 Radius",
+        "description": "티 안 나게는 Gaussian, 가리려면 Pixelate."
+      },
+      {
+        "title": "Save",
+        "description": "부분 블러된 사본이 「사진」에 저장됩니다."
+      }
+    ],
+    "tips_title": "팁",
+    "tips": [
+      "탭은 함께 쓸 수 있어요. Background로 배경을 흐린 뒤 Manual로 세부를.",
+      "글자는 반드시 강하게. 큰 글자는 약한 블러로는 읽힙니다.",
+      "거울이나 유리에 가린 것이 비치지 않는지 확인하세요."
+    ],
+    "faq_title": "자주 묻는 질문",
+    "faq": [
+      {
+        "question": "한 사진에서 여러 곳을 흐리게 할 수 있나요?",
+        "answer": "네. Manual로 저장 전에 원하는 만큼 칠할 수 있습니다."
+      },
+      {
+        "question": "캡처에도 되나요?",
+        "answer": "네. 캡처도 일반 사진처럼 열립니다."
+      },
+      {
+        "question": "흐리지 않은 부분의 화질이 떨어지나요?",
+        "answer": "아니요. 나머지는 원본과 똑같습니다."
+      }
+    ],
+    "related": [
+      "capture-mosaic-iphone.html",
+      "beonhopan-garigi.html",
+      "sajin-mosaic-iphone.html",
+      "eolgul-mosaic.html"
+    ],
+    "cta_title": "흐리게 하고 싶은 곳만",
+    "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 Manual로 칠하기만 하세요. 무료, 아이폰 안에서.",
+    "cta_text": "App Store에서 받기"
+  },
+  {
+    "slug": "beonhopan-garigi.html",
+    "keyword": "번호판 가리기",
+    "cluster": "privacy",
+    "card_title": "사진 속 자동차 번호판 가리기",
+    "card_excerpt": "엔카, 케이카, 당근마켓, SNS에. 번호는 안 보이고 사진은 깔끔하게.",
+    "card_image": "/img/appstore/ko/05-crystalize.webp",
+    "card_image_alt": "모자이크로 가린 번호판",
+    "meta_title": "사진 속 번호판 가리기｜아이폰에서 무료로 모자이크",
+    "meta_description": "자동차·오토바이 사진의 번호판을 아이폰에서 가리는 방법. 엔카나 당근마켓에 올리기 전, SNS에 자랑하기 전에 칠하고 모자이크해서 저장만 하면 됩니다. 무료이고, 사진을 인터넷으로 보내지 않고 기기 안에서 끝나요.",
+    "h1": "사진 속 자동차 번호판 가리는 법 (아이폰)",
+    "answer": "사진 속 번호판을 가리려면 MakeBlur에서 사진을 열고 Manual 탭을 고른 뒤, 번호판을 손가락으로 칠하고 스타일을 Pixelate나 Box로 해서 어떤 글자도 읽히지 않을 때까지 Radius를 올리세요. Save를 누르고 그 사본을 판매글이나 게시물에 쓰면 됩니다.",
+    "intro": "엔카, 케이카, 당근마켓에 차나 오토바이를 팔 때, 또는 인스타에 애마를 자랑할 때 번호판을 가리는 사람이 많습니다. 의무는 아니지만 번호로 개인이 특정되거나 악용되는 걸 막으려고 예방 차원에서 가리는 게 일반적이에요. 그래도 검은 네모는 너무 대충 한 티가 납니다. 깔끔한 모자이크라면 둘 다 잡을 수 있어요.",
+    "image": "/img/appstore/ko/05-crystalize.webp",
+    "image_alt": "앱에서 사진 일부에 모자이크",
+    "native": {
+      "heading": "「사진」 앱으로 되는 것",
+      "paragraphs": [
+        "마크업으로 도형을 올리거나 펜으로 칠하면 번호판은 가려지지만 흔적이 눈에 띕니다. 반투명 형광펜은 글자가 비쳐 보이기도 해요. 기본 편집 기능으로는 특정 부분을 흐리게 하거나 모자이크할 수 없습니다."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "모자이크냐 블러냐",
+        "paragraphs": [
+          "번호판에는 Radius를 높인 Pixelate나 Box가 가장 확실합니다. 큰 블록이 글자를 지워요. 약한 Gaussian은 특히 고해상도 사진에서 숫자가 짐작될 수 있습니다.",
+          "Crystallize로도 가려지지만 장식적으로 보이니, 판매 사진에는 무난한 모자이크가 낫습니다."
+        ]
+      },
+      {
+        "heading": "사진이 많을 때",
+        "paragraphs": [
+          "판매글 사진은 10~20장인 경우가 많고, 번호판이 찍힌 건 그중 3~4장 정도입니다. 한 장씩 열기, Manual, 칠하기, Save로 각각 30초 정도면 돼요. 쇼윈도나 실내 사진의 창문 너머로 번호판이 비치지 않는지도 확인하세요."
+        ]
+      }
+    ],
+    "steps_title": "앱에서 번호판 가리는 단계",
+    "steps": [
+      {
+        "title": "차 사진 열기",
+        "description": "번호판이 찍힌 사진을 고르세요."
+      },
+      {
+        "title": "Manual 탭",
+        "description": "확대해서 번호판을 여백 있게 칠합니다."
+      },
+      {
+        "title": "Pixelate와 Radius",
+        "description": "확대해도 글자가 안 읽힐 때까지 강하게."
+      },
+      {
+        "title": "Save",
+        "description": "저장한 사본을 판매글에 올리세요."
+      }
+    ],
+    "tips_title": "팁",
+    "tips": [
+      "글자만이 아니라 번호판 전체를 가리세요. 지역 표시나 한글 한 글자도 정보가 됩니다.",
+      "자동차는 앞뒤 모두 번호판이 있어요(오토바이는 뒤만).",
+      "자동차등록증이나 차대번호가 찍혔다면 똑같이 가리세요."
+    ],
+    "faq_title": "자주 묻는 질문",
+    "faq": [
+      {
+        "question": "판매 사진의 번호판은 꼭 가려야 하나요?",
+        "answer": "법적 의무는 아니지만 악용을 막으려고 가리는 판매자가 많습니다. 판단은 직접 하세요. 법률 자문이 아닙니다."
+      },
+      {
+        "question": "모자이크한 번호판을 복원할 수 있나요?",
+        "answer": "큰 블록이라면 복원할 수 없습니다. 저장한 사본에서 세부가 사라지기 때문이에요. 원본은 공개하지 마세요."
+      },
+      {
+        "question": "사진이 어딘가로 전송되나요?",
+        "answer": "아니요. 모두 아이폰 안에서 인터넷 없이 처리됩니다."
+      }
+    ],
+    "related": [
+      "sajin-bubun-blur.html",
+      "sajin-mosaic-iphone.html",
+      "capture-mosaic-iphone.html",
+      "eolgul-mosaic.html"
+    ],
+    "cta_title": "번호는 가리고 사진은 깔끔하게",
+    "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 Manual로 번호판을 칠하고 저장. 무료, 아이폰만으로.",
+    "cta_text": "App Store에서 받기"
+  },
+  {
+    "slug": "capture-mosaic-iphone.html",
+    "keyword": "캡처 모자이크",
+    "cluster": "privacy",
+    "card_title": "캡처 화면 모자이크 하기",
+    "card_excerpt": "카톡 대화, 주소, 계좌번호. 공유 전에 캡처 속 글자를 안 보이게.",
+    "card_image": "/img/appstore/ko/05-crystalize.webp",
+    "card_image_alt": "캡처 속 글자를 모자이크한 예",
+    "meta_title": "캡처 모자이크 하는 법｜아이폰에서 안전하게 가리기",
+    "meta_description": "아이폰 캡처 화면에 찍힌 이름, 전화번호, 주소, 카톡 대화를 모자이크한 뒤 공유하는 방법. 반투명 형광펜과 달리 밝기를 바꿔도 글자가 비치지 않아요. 무료이고 업로드도 없습니다. 사진은 업로드되지 않습니다.",
+    "h1": "캡처 화면 모자이크 하는 법 (아이폰)",
+    "answer": "캡처를 모자이크하려면 MakeBlur에서 캡처를 열고 Manual 탭을 고른 뒤, 가리고 싶은 줄(이름, 번호, 주소, 메시지)을 손가락으로 칠하고 Pixelate를 골라 Radius를 올리세요. Save를 누르고 사본을 공유합니다. 보내기 전에 확대해서 아무것도 읽히지 않는지 확인하세요.",
+    "intro": "캡처는 매일같이 공유합니다. 상담하려고 보내는 카톡 대화, 주문 내역, 송금 완료 화면, 앱 오류. 거기엔 대개 이름, 전화번호, 주소, 각종 번호가 찍혀 있어요. 가리는 건 쉽지만 방법을 잘못 고르면 글자가 읽힐 수 있습니다.",
+    "image": "/img/appstore/ko/05-crystalize.webp",
+    "image_alt": "모자이크로 내용을 읽을 수 없게 된 영역",
+    "native": {
+      "heading": "마크업의 한계",
+      "paragraphs": [
+        "마크업의 형광펜은 반투명이라 대비나 밝기를 올리면 아래 글자가 드러날 수 있습니다. 불투명 펜으로 여러 번 덧칠하면 안전하지만, 꽉 채운 네모는 보기 좋지 않아요. 영역에 모자이크를 거는 기능은 없습니다."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "약한 블러 말고 모자이크로",
+        "paragraphs": [
+          "흰 바탕의 검은 글자는 약한 블러로는 모양만으로 읽힙니다. Pixelate에 Radius를 높이면 글자 하나하나가 블록이 되어 내용이 사라져요. 캡처에서는 모자이크가 가장 잘 전달되기도 합니다. 받는 사람도 일부러 가렸다는 걸 바로 알아요."
+        ]
+      },
+      {
+        "heading": "자주 가리는 정보",
+        "paragraphs": [
+          "대화 화면: 상대 이름과 프로필 사진, 전화번호. 주문: 주소, 이메일, 주문번호. 은행: 계좌번호, 잔액, 받는 사람 이름. 서류: 주민등록번호와 서명."
+        ]
+      }
+    ],
+    "steps_title": "앱에서 캡처 모자이크하는 단계",
+    "steps": [
+      {
+        "title": "캡처 열기",
+        "description": "사진 보관함의 「스크린샷」 앨범에 있습니다."
+      },
+      {
+        "title": "Manual 탭",
+        "description": "가릴 줄을 여백 있게 칠합니다."
+      },
+      {
+        "title": "Pixelate",
+        "description": "확대해도 읽히지 않을 때까지 Radius를 올립니다."
+      },
+      {
+        "title": "Save",
+        "description": "공유하는 건 사본. 원본 캡처가 아닙니다."
+      }
+    ],
+    "tips_title": "팁",
+    "tips": [
+      "화면 위쪽도 잊지 마세요. 알림 미리보기나 상대 이름이 자주 찍힙니다.",
+      "번호 일부가 아니라 줄 전체를 가리세요.",
+      "저장했다면 필요 없는 원본 캡처는 지워두면 안심입니다."
+    ],
+    "faq_title": "자주 묻는 질문",
+    "faq": [
+      {
+        "question": "마크업 형광펜으로 가리면 안전한가요?",
+        "answer": "완전하지 않습니다. 반투명이라 밝기를 바꾸면 글자가 보일 수 있어요. 모자이크나 불투명 도형을 쓰세요."
+      },
+      {
+        "question": "모자이크한 글자를 복원할 수 있나요?",
+        "answer": "큰 블록이라면 안 됩니다. 약한 모자이크에 글자가 크면 추측될 수 있으니 강하게 하세요."
+      },
+      {
+        "question": "전체 페이지 캡처에도 되나요?",
+        "answer": "사진 보관함의 이미지라면 됩니다. PDF로 저장된 전체 페이지 캡처는 먼저 이미지로 저장하세요."
+      }
+    ],
+    "related": [
+      "sajin-bubun-blur.html",
+      "sajin-mosaic-iphone.html",
+      "beonhopan-garigi.html",
+      "eolgul-mosaic.html"
+    ],
+    "cta_title": "안심하고 공유하는 캡처",
+    "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받아 Manual로 글자를 칠하고 모자이크. 무료, 오프라인.",
+    "cta_text": "App Store에서 받기"
+  },
+  {
+    "slug": "sajin-mosaic-iphone.html",
+    "keyword": "사진 모자이크 아이폰",
+    "cluster": "privacy",
+    "card_title": "아이폰에서 사진 모자이크 하기",
+    "card_excerpt": "얼굴, 글자, 배경을 모자이크로. Pixelate·Hexagonal·Crystallize 차이까지.",
+    "card_image": "/img/appstore/ko/05-crystalize.webp",
+    "card_image_alt": "Crystallize로 배경을 모자이크한 예",
+    "meta_title": "아이폰 사진 모자이크 하는 법｜얼굴·글자·배경에",
+    "meta_description": "아이폰에서 사진을 모자이크하는 방법. 사진 전체, 배경만, 얼굴, 지정한 부분에 Pixelate·Hexagonal·Crystallize 세 가지 중 골라 적용할 수 있어요. 기기 안에서 처리되고 무료로 쓸 수 있습니다.",
+    "h1": "아이폰에서 사진 모자이크 하는 법",
+    "answer": "아이폰에서 사진을 모자이크하려면 MakeBlur에서 사진을 열고, 적용할 곳(얼굴은 Faces, 부분은 Manual, 배경은 Background, 전체는 Full Photo)을 고른 다음 Pixelate 스타일을 선택하고 Radius로 블록 크기를 조절하세요. Save로 모자이크한 사본을 저장합니다.",
+    "intro": "한국에서 사진 일부를 가리는 편집이라면 단연 「모자이크」입니다. 얼굴이나 개인정보를 가리는 기본 방법이면서, 요즘은 디자인으로서의 모자이크 표현도 인기예요. 아이폰 「사진」 앱에는 모자이크 기능이 없습니다. 원하는 곳에 거는 방법을 소개합니다.",
+    "image": "/img/appstore/ko/05-crystalize.webp",
+    "image_alt": "배경에 Crystallize 스타일: 크리스털 모양 모자이크",
+    "native": {
+      "heading": "아이폰 기본 기능으로 되는 것",
+      "paragraphs": [
+        "「사진」 앱에는 모자이크 필터가 없습니다. 마크업은 덮기만 할 수 있고, 클린업(iPhone 15 Pro 이상)은 지우는 기능입니다. 글자나 배경, 사진 전체에 모자이크를 걸려면 앱이 필요합니다."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "모자이크 3가지",
+        "paragraphs": [
+          "Pixelate: 익숙한 네모 모자이크. 개인정보 보호엔 가장 확실. Hexagonal: 육각형 셀로 조금 더 모던. Crystallize: 불규칙한 크리스털로 아트 느낌. 스크린샷 「탭 한 번으로 모자이크」에서는 배경이 크리스털이 되고 여성은 선명하게 남아 있습니다."
+        ]
+      },
+      {
+        "heading": "가리기용이냐 보여주기용이냐",
+        "paragraphs": [
+          "가리려면: Faces나 Manual에 큰 블록 Pixelate. 디자인으로 쓰려면: Background에 Crystallize나 Hexagonal을 걸면 모자이크 배경 위로 인물이 떠오릅니다."
+        ]
+      }
+    ],
+    "steps_title": "앱에서 모자이크하는 단계",
+    "steps": [
+      {
+        "title": "사진 열기",
+        "description": "어떤 이미지나 캡처든."
+      },
+      {
+        "title": "탭 고르기",
+        "description": "Faces, Manual, Background, Full Photo."
+      },
+      {
+        "title": "Pixelate 스타일",
+        "description": "또는 Hexagonal·Crystallize. Radius로 블록 크기 조절."
+      },
+      {
+        "title": "Save",
+        "description": "모자이크한 사본 저장."
+      }
+    ],
+    "tips_title": "팁",
+    "tips": [
+      "블록이 클수록 개인정보 보호가 확실합니다.",
+      "감성 게시물엔 피사체는 선명하게 두고 배경에 Crystallize를.",
+      "확대해서 작은 글자나 세부가 완전히 사라졌는지 확인하세요."
+    ],
+    "faq_title": "자주 묻는 질문",
+    "faq": [
+      {
+        "question": "모자이크와 블러, 뭘로 가려야 하나요?",
+        "answer": "확실히 가리려면 모자이크(큰 블록). 부드럽게 보이고 싶다면 블러(Gaussian)가 어울립니다."
+      },
+      {
+        "question": "배경에만 모자이크할 수 있나요?",
+        "answer": "네. Background 탭에서 Pixelate나 Crystallize를 고르면 피사체는 선명하게 남습니다."
+      },
+      {
+        "question": "사진 개인정보는 안전한가요?",
+        "answer": "네. 처리는 아이폰 안에서 이뤄지고 인터넷도 필요 없습니다."
+      }
+    ],
+    "related": [
+      "eolgul-mosaic.html",
+      "capture-mosaic-iphone.html",
+      "beonhopan-garigi.html",
+      "blur-hyogwa-sajin.html"
+    ],
+    "cta_title": "원하는 곳에 모자이크",
+    "cta_body": "「모자이크 배경 흐림 및 흐림 처리」를 받으세요: 모든 모드에서 Pixelate·Hexagonal·Crystallize. 무료 다운로드.",
+    "cta_text": "App Store에서 받기"
+  }
+]

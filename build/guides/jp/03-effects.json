@@ -1,0 +1,258 @@
+[
+  {
+    "slug": "motion-blur-shashin.html",
+    "keyword": "モーションブラー 写真",
+    "cluster": "effects",
+    "card_title": "写真にモーションブラーをかける",
+    "card_excerpt": "背景に流れるような動き、被写体はくっきり。Radius と Angle でスピード感を演出。",
+    "card_image": "/img/appstore/jp/02-motion.webp",
+    "card_image_alt": "サングラスの女性の背景にモーションブラー",
+    "meta_title": "写真にモーションブラーをかける方法｜iPhoneで4ステップ",
+    "meta_description": "iPhoneで写真にモーションブラー（動きのぼかし）をかける方法。背景だけを流し、被写体はくっきり。流れの長さと方向も自由に調整できます。撮影済みの写真に使えて、無料・端末内で処理されます。撮影済みのどの写真にも使え、インターネット接続も不要です。",
+    "h1": "写真にモーションブラーをかける方法（iPhone）",
+    "answer": "iPhone で写真にモーションブラーをかけるには、MakeBlur で写真を開き、被写体がくっきり残るよう Background タブのまま Motion スタイルを選びます。Radius で流れの長さ、Angle で方向を決めて Save をタップ。背景が動いているように見え、人物は止まったままピントが合っています。",
+    "intro": "モーションブラーは、どんな写真にもスピード感を与えます。自転車、車、ダンサー、あるいは少し動きのあるポートレート。写真では遅いシャッタースピードと流し撮りで表現しますが、iPhone なら撮った後から、方向と強さを選んで加えられます。",
+    "image": "/img/appstore/jp/02-motion.webp",
+    "image_alt": "Motionスタイル、Radius 65：背景が流れ、被写体はくっきり",
+    "native": {
+      "heading": "iPhoneの標準機能でできること",
+      "paragraphs": [
+        "Live Photos には複数のフレームを重ねて流れを作る「長時間露光」エフェクトがあります。ただし撮影中に実際に動いていたものだけが流れ、自分で選んだ背景を流すことはできません。通常の写真に動きのぼかしを加える機能は「写真」アプリにありません。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Radius と Angle",
+        "paragraphs": [
+          "Radius は流れの長さ。低めならさりげない動き、高めならスピード感。Angle は方向で、車やランナーには水平、ジャンプや飛び込みには斜め、雨や落下には垂直が合います。スクリーンショット「モーションブラー 動きに効く」は Radius 65 です。"
+        ]
+      },
+      {
+        "heading": "背景だけか、写真全体か",
+        "paragraphs": [
+          "Background なら背景だけが流れる、定番の流し撮り風。Full Photo なら写真全体が流れ、ジャケット写真や抽象的な壁紙、幻想的な雰囲気づくりに使えます。"
+        ]
+      }
+    ],
+    "steps_title": "アプリでモーションブラーをかける手順",
+    "steps": [
+      {
+        "title": "写真を開く",
+        "description": "被写体と背景がはっきり分かれている写真がおすすめ。"
+      },
+      {
+        "title": "Background タブ",
+        "description": "被写体は止まったままくっきり残ります。"
+      },
+      {
+        "title": "Motion スタイル",
+        "description": "Radius で長さ、Angle で方向。"
+      },
+      {
+        "title": "Save",
+        "description": "効果をかけたコピーを保存。"
+      }
+    ],
+    "tips_title": "コツ",
+    "tips": [
+      "被写体が動く方向に Angle を合わせると自然に見えます。",
+      "夜の街の光がある背景だと、流れが光の帯になって印象的です。",
+      "ポートレートではやりすぎないように。中くらいの Radius で十分躍動感が出ます。"
+    ],
+    "faq_title": "よくある質問",
+    "faq": [
+      {
+        "question": "モーションブラーとは？",
+        "answer": "動きによるぶれを表現するぼかしで、被写体や背景が動いているように見せる効果です。"
+      },
+      {
+        "question": "動きの方向は選べますか？",
+        "answer": "はい。Motion スタイルの Angle スライダーで選べます。"
+      },
+      {
+        "question": "撮影済みの写真にも使えますか？",
+        "answer": "はい。Live Photo でなくても、ライブラリのどの写真にも使えます。"
+      }
+    ],
+    "related": [
+      "blur-kouka-shashin.html",
+      "iphone-haikei-bokashi.html",
+      "boke-kouka-iphone.html",
+      "gauss-bokashi-iphone.html"
+    ],
+    "cta_title": "どの写真にもスピード感を",
+    "cta_body": "「写真の背景をぼかす」を入手して、Motion を選び Angle を調整。無料、iPhone の中で。",
+    "cta_text": "App Storeで入手"
+  },
+  {
+    "slug": "boke-kouka-iphone.html",
+    "keyword": "ボケ 写真 iPhone",
+    "cluster": "effects",
+    "card_title": "iPhoneで写真にボケ効果をつける",
+    "card_excerpt": "撮った後でも、やわらかな背景と光のにじみ。人物には Gaussian、幻想的には Ghosting。",
+    "card_image": "/img/appstore/jp/06-ghost.webp",
+    "card_image_alt": "やわらかなボケ効果のポートレート",
+    "meta_title": "iPhoneで写真にボケ効果をつける｜撮った後でもできる",
+    "meta_description": "撮影済みの写真にiPhoneでボケ効果をつける方法。背景をやわらかくして光をにじませ、被写体はくっきり。GaussianとGhostingの使い分けと、ボケがきれいに出る写真の選び方を解説。無料・オフライン。撮影済みのどの写真にも使え、インターネット接続も不要です。",
+    "h1": "iPhoneで写真にボケ効果をつける — 撮った後でも",
+    "answer": "撮影済みの写真にボケ効果をつけるには、MakeBlur で写真を開き、Background タブのまま Gaussian を選んで、背景がやわらかくなり光が丸くにじむまで Radius を上げます。写真全体を幻想的にしたいなら Full Photo タブで Ghosting を。最後に Save をタップします。",
+    "intro": "「ボケ」は日本語が由来の写真用語で、英語でも bokeh と呼ばれています。ピントの外れた部分の美しさ、光が丸くやわらかくにじむ様子のことです。明るいレンズならではの表現で、ポートレートモードは撮影時にそれを再現します。手元の写真でその雰囲気に近づける方法を紹介します。",
+    "image": "/img/appstore/jp/06-ghost.webp",
+    "image_alt": "Full PhotoタブとGhostingスタイル、Radius 79",
+    "native": {
+      "heading": "ポートレートモードのボケ",
+      "paragraphs": [
+        "ポートレートモードは撮影時にボケを再現し、「写真」→「編集」で絞り値（f値）を変えられます。ただしポートレートで撮った写真だけ。それ以外の写真には、「写真」アプリでボケをつける方法はありません。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian か Ghosting か",
+        "paragraphs": [
+          "Background に Gaussian：被写体くっきり、背景やわらかなポートレートのボケ。夜の街の灯りやイルミネーションで特に映えます。Full Photo に Ghosting：写真全体にやわらかな二重のにじみ。スクリーンショット「やわらかボケ すぐに」（Radius 79）がこの例です。"
+        ]
+      },
+      {
+        "heading": "ボケが映える写真",
+        "paragraphs": [
+          "背景に光の点がある、色が鮮やか、被写体と背景に距離がある写真。白い壁の前ではボケはほとんど目立たないので、軽いぼかしで十分です。"
+        ]
+      }
+    ],
+    "steps_title": "アプリでボケ効果をつける手順",
+    "steps": [
+      {
+        "title": "写真を開く",
+        "description": "背景に光がある写真が理想的。"
+      },
+      {
+        "title": "Background + Gaussian",
+        "description": "被写体はくっきりのまま。"
+      },
+      {
+        "title": "Radius",
+        "description": "光がやわらかな丸になるまで上げます。"
+      },
+      {
+        "title": "Save",
+        "description": "コピーを保存。"
+      }
+    ],
+    "tips_title": "コツ",
+    "tips": [
+      "夜に撮った写真がいちばんきれいなボケになります。",
+      "ジャケット写真や壁紙には、Full Photo の Ghosting を試してみて。",
+      "保存前に髪のふちを拡大して確認しましょう。"
+    ],
+    "faq_title": "よくある質問",
+    "faq": [
+      {
+        "question": "ボケとは何ですか？",
+        "answer": "ピントの外れた部分の見え方、特に光がやわらかな玉になる様子を指します。"
+      },
+      {
+        "question": "ポートレートモードは必要？",
+        "answer": "いいえ。アプリは撮影済みのどの写真にも効果をつけられます。"
+      },
+      {
+        "question": "ガウスぼかしとの違いは？",
+        "answer": "ガウスぼかしはぼかしの種類、ボケはそれによって生まれる見た目の美しさ（特に光）のことです。"
+      }
+    ],
+    "related": [
+      "gauss-bokashi-iphone.html",
+      "shashin-haikei-bokashi.html",
+      "iphone-haikei-bokashi.html",
+      "motion-blur-shashin.html"
+    ],
+    "cta_title": "どの写真にもボケを",
+    "cta_body": "「写真の背景をぼかす」を入手して、Gaussian か Ghosting を選んで保存。無料、アップロードなし。",
+    "cta_text": "App Storeで入手"
+  },
+  {
+    "slug": "gauss-bokashi-iphone.html",
+    "keyword": "ガウスぼかし",
+    "cluster": "effects",
+    "card_title": "iPhoneでガウスぼかしをかける",
+    "card_excerpt": "ガウスぼかしとは？使いどころと、背景・顔・写真全体へのかけ方。",
+    "card_image": "/img/appstore/jp/04-box.webp",
+    "card_image_alt": "やわらかくぼかした背景",
+    "meta_title": "ガウスぼかしとは？iPhoneでのかけ方と使い分け",
+    "meta_description": "ガウスぼかしとは何か、iPhoneで背景・顔・写真全体にかける方法を解説。BoxやMotionとの違い、用途別のおすすめの強さもまとめました。撮影済みの写真に無料で使え、処理は端末内で完結します。撮影済みのどの写真にも使え、インターネット接続も不要です。",
+    "h1": "ガウスぼかしとは？iPhoneでのかけ方",
+    "answer": "ガウスぼかしは、ピントを外したレンズのように均一でなめらかなぼかしです。iPhone では MakeBlur で写真を開き、かける場所（背景は Background、顔は Faces、範囲は Manual、全体は Full Photo）を選んで Gaussian スタイルにし、Radius を調整して Save をタップします。",
+    "intro": "パソコンの画像編集ソフトを使ったことがあれば、「ぼかし（ガウス）」というフィルターを見たことがあるはずです。名前の由来はガウス分布。各ピクセルが周りのピクセルと混ざり、近いものほど強く、遠いものほど弱く影響します。結果は、硬いふちのない自然でやわらかなぼかしです。使いどころと iPhone でのかけ方を紹介します。",
+    "image": "/img/appstore/jp/04-box.webp",
+    "image_alt": "くっきりしたポートレートの後ろでやわらかくなった背景",
+    "native": {
+      "heading": "iPhoneの標準機能でできること",
+      "paragraphs": [
+        "「写真」アプリにガウスぼかしのフィルターはありません。「調整」のシャープネスや精細度は画像全体を少し強めたり弱めたりするだけで、本当のぼかしではありません。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian・Box・Motion の違い",
+        "paragraphs": [
+          "Gaussian：やわらかく自然。ポートレートや背景に。Box：均一な平均化で少しフラット。商品写真や隠したいときに。Motion：一方向のぼかしで動きを表現。",
+          "プライバシー目的でガウスぼかしを使うなら強めに。弱いと形や文字が推測できてしまいます。"
+        ]
+      },
+      {
+        "heading": "Radius の目安",
+        "paragraphs": [
+          "自然なポートレートは低め、SNS の投稿やストーリーズは中くらい、抽象的な背景や隠す用途は高め。必ず拡大して確認しましょう。"
+        ]
+      }
+    ],
+    "steps_title": "ガウスぼかしをかける手順",
+    "steps": [
+      {
+        "title": "写真を開く",
+        "description": "MakeBlur で。"
+      },
+      {
+        "title": "モードを選ぶ",
+        "description": "Background、Faces、Manual、Full Photo。"
+      },
+      {
+        "title": "Gaussian スタイル",
+        "description": "Radius を調整。"
+      },
+      {
+        "title": "Save",
+        "description": "コピーを保存。"
+      }
+    ],
+    "tips_title": "コツ",
+    "tips": [
+      "Background にガウスぼかしをかけるのが、ポートレートモードにいちばん近い仕上がりです。",
+      "Full Photo で強めにかけると、ストーリーズの文字の背景にぴったり。",
+      "個人情報を隠すなら Pixelate のほうが確実です。"
+    ],
+    "faq_title": "よくある質問",
+    "faq": [
+      {
+        "question": "なぜ「ガウス」と呼ぶの？",
+        "answer": "ピクセルを混ぜる重みがガウス分布（正規分布）の曲線に従うためです。"
+      },
+      {
+        "question": "Box ぼかしより良い？",
+        "answer": "Gaussian はよりやわらかく自然、Box はより均一です。求める仕上がりしだいです。"
+      },
+      {
+        "question": "背景だけにかけられる？",
+        "answer": "はい。Background タブなら被写体はくっきり残ります。"
+      }
+    ],
+    "related": [
+      "boke-kouka-iphone.html",
+      "motion-blur-shashin.html",
+      "iphone-haikei-bokashi.html",
+      "blur-kouka-shashin.html"
+    ],
+    "cta_title": "ガウスぼかしをワンタップで",
+    "cta_body": "「写真の背景をぼかす」を入手：すべてのモードで Gaussian、端末内で処理。無料でダウンロード。",
+    "cta_text": "App Storeで入手"
+  }
+]

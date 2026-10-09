@@ -1,0 +1,257 @@
+[
+  {
+    "slug": "hieu-ung-chuyen-dong-anh.html",
+    "keyword": "hiệu ứng chuyển động ảnh",
+    "cluster": "effects",
+    "card_title": "Hiệu ứng chuyển động (motion blur) cho ảnh",
+    "card_excerpt": "Vệt tốc độ phía sau chủ thể: chỉnh độ dài và hướng cho ảnh xe, thể thao, đường phố.",
+    "card_image": "/img/appstore/vi/02-motion.webp",
+    "card_image_alt": "Hiệu ứng chuyển động phía sau cô gái",
+    "meta_title": "Hiệu ứng chuyển động ảnh trên iPhone (motion blur), dễ làm",
+    "meta_description": "Cách thêm hiệu ứng chuyển động (motion blur) cho ảnh trên iPhone: chủ thể sắc nét, nền có vệt tốc độ. Chỉnh Radius và Angle cho ảnh xe, thể thao, đường phố.",
+    "h1": "Hiệu ứng chuyển động cho ảnh trên iPhone",
+    "answer": "Để thêm hiệu ứng chuyển động, mở ảnh trong MakeBlur, giữ tab Background và chọn kiểu Motion. Radius quyết định độ dài vệt, Angle quyết định hướng. Chủ thể vẫn sắc nét, nền như đang lướt qua. Nhấn Save.",
+    "intro": "Motion blur là vệt mờ xuất hiện khi chủ thể hoặc máy ảnh di chuyển lúc chụp — cảm giác tốc độ trong ảnh đua xe, đạp xe, nhảy múa. Chụp được bằng tốc độ màn trập chậm thì khó; thêm sau khi chụp thì dễ và kiểm soát được.",
+    "image": "/img/appstore/vi/02-motion.webp",
+    "image_alt": "Kiểu Motion với Radius 65 trên tab Background",
+    "native": {
+      "heading": "Camera iPhone có chụp motion blur được không?",
+      "paragraphs": [
+        "Live Photo có hiệu ứng Phơi sáng lâu (Long Exposure) trong ứng dụng Ảnh — đẹp cho thác nước, đèn xe, nhưng làm mờ cả chủ thể đang di chuyển và cần ảnh chụp dạng Live. Với ảnh thường, iPhone không thêm được motion blur."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Chọn hướng (Angle)",
+        "paragraphs": [
+          "Đặt hướng vệt theo hướng chủ thể đi: ngang cho xe chạy ngang khung, chéo cho người chạy về phía máy. Hướng ngược chuyển động trông thiếu tự nhiên."
+        ]
+      },
+      {
+        "heading": "Chỉ nền hay cả ảnh?",
+        "paragraphs": [
+          "Background + Motion: chủ thể sắc nét, nền lướt qua — giống kỹ thuật lia máy. Full Photo + Motion: cả ảnh chuyển động, phù hợp ảnh trừu tượng hoặc nền story."
+        ]
+      }
+    ],
+    "steps_title": "Thêm chuyển động trong ứng dụng",
+    "steps": [
+      {
+        "title": "Mở ảnh",
+        "description": "Ảnh có chủ thể rõ cho kết quả tốt nhất."
+      },
+      {
+        "title": "Background + Motion",
+        "description": "Chủ thể được giữ sắc nét."
+      },
+      {
+        "title": "Radius và Angle",
+        "description": "Độ dài và hướng vệt chuyển động."
+      },
+      {
+        "title": "Save",
+        "description": "Lưu bản sao."
+      }
+    ],
+    "tips_title": "Mẹo",
+    "tips": [
+      "Radius vừa phải trông thật hơn mức tối đa.",
+      "Ảnh xe máy, ô tô: hướng ngang theo thân xe.",
+      "Thử Ghosting nếu muốn vẻ mơ màng thay vì tốc độ."
+    ],
+    "faq_title": "Câu hỏi thường gặp",
+    "faq": [
+      {
+        "question": "Motion blur khác Phơi sáng lâu thế nào?",
+        "answer": "Phơi sáng lâu ghép các khung của Live Photo; motion blur trong ứng dụng là hiệu ứng áp lên ảnh thường, chỉnh được hướng và độ dài."
+      },
+      {
+        "question": "Có làm chuyển động chỉ chủ thể được không?",
+        "answer": "Dùng Manual + Motion và tô lên vùng muốn có vệt chuyển động."
+      },
+      {
+        "question": "Có miễn phí không?",
+        "answer": "Tải về miễn phí; một số kiểu nâng cao có thể mở thêm qua mua trong ứng dụng."
+      }
+    ],
+    "related": [
+      "hieu-ung-bokeh-iphone.html",
+      "lam-mo-gaussian-iphone.html",
+      "lam-mo-nen-anh.html",
+      "blur-anh.html"
+    ],
+    "cta_title": "Thêm tốc độ cho ảnh",
+    "cta_body": "Tải «Cách làm mờ nền ảnh», chọn Motion và chỉnh hướng. Miễn phí, xử lý trên máy.",
+    "cta_text": "Tải trên App Store"
+  },
+  {
+    "slug": "hieu-ung-bokeh-iphone.html",
+    "keyword": "hiệu ứng bokeh trên iPhone",
+    "cluster": "effects",
+    "card_title": "Hiệu ứng bokeh trên iPhone",
+    "card_excerpt": "Phông mềm, ánh sáng lung linh: tạo vẻ bokeh cho ảnh không chụp Chân dung.",
+    "card_image": "/img/appstore/vi/06-ghost.webp",
+    "card_image_alt": "Ảnh mềm mại kiểu bokeh",
+    "meta_title": "Hiệu ứng bokeh trên iPhone: phông mềm cho mọi bức ảnh",
+    "meta_description": "Bokeh là gì và cách tạo hiệu ứng bokeh trên iPhone cho ảnh đã chụp: chủ thể sắc nét, phông mềm, ánh sáng lung linh. Dùng Gaussian hoặc Ghosting, miễn phí.",
+    "h1": "Hiệu ứng bokeh trên iPhone",
+    "answer": "Để tạo hiệu ứng bokeh, mở ảnh trong MakeBlur, giữ tab Background và chọn Gaussian để phông mềm tự nhiên như ống kính khẩu lớn. Muốn vẻ mơ màng hơn, thử Ghosting. Chỉnh Radius và nhấn Save.",
+    "intro": "Bokeh (từ tiếng Nhật “boke” — mờ) là chất lượng vùng mờ ngoài tiêu điểm: phông mềm mịn, các đốm sáng tròn lung linh. Ở Việt Nam, bokeh và “xóa phông” thường được dùng gần như cùng nghĩa. Ảnh chụp Chân dung có sẵn hiệu ứng này; với ảnh thường, bạn có thể thêm sau.",
+    "image": "/img/appstore/vi/06-ghost.webp",
+    "image_alt": "Kiểu Ghosting trên toàn ảnh, Radius 79",
+    "native": {
+      "heading": "Bokeh trong ứng dụng Ảnh",
+      "paragraphs": [
+        "Ảnh Chân dung có nút độ sâu (f) trong mục Sửa: số f nhỏ hơn cho phông mờ hơn. Ảnh thường không có nút này."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian hay Ghosting?",
+        "paragraphs": [
+          "Gaussian: phông mềm đều, giống ảnh chân dung chụp bằng máy ảnh. Ghosting: lớp chồng mờ ảo tạo không khí mơ màng — đẹp cho ảnh đêm, ảnh đèn, ảnh cưới."
+        ]
+      },
+      {
+        "heading": "Ảnh nào hợp bokeh",
+        "paragraphs": [
+          "Ảnh có đèn, nắng xuyên lá, đèn đường buổi tối — vùng sáng tạo đốm lung linh khi được làm mờ. Nền đơn điệu thì bokeh ít nổi bật hơn."
+        ]
+      }
+    ],
+    "steps_title": "Tạo bokeh trong ứng dụng",
+    "steps": [
+      {
+        "title": "Mở ảnh",
+        "description": "Ảnh có đèn hoặc nắng phía sau càng đẹp."
+      },
+      {
+        "title": "Tab Background",
+        "description": "Chủ thể giữ sắc nét."
+      },
+      {
+        "title": "Gaussian hoặc Ghosting",
+        "description": "Chỉnh Radius."
+      },
+      {
+        "title": "Save",
+        "description": "Lưu bản sao."
+      }
+    ],
+    "tips_title": "Mẹo",
+    "tips": [
+      "Chụp chủ thể cách xa nền để bokeh trông thật hơn.",
+      "Ảnh đêm có đèn: thử Ghosting ở Full Photo.",
+      "Đừng làm mờ quá mức — nền vẫn nên gợi bối cảnh."
+    ],
+    "faq_title": "Câu hỏi thường gặp",
+    "faq": [
+      {
+        "question": "Bokeh và xóa phông có giống nhau không?",
+        "answer": "Gần giống: xóa phông là làm mờ hậu cảnh, bokeh nói về vẻ đẹp của vùng mờ đó."
+      },
+      {
+        "question": "Cần iPhone có chế độ Chân dung không?",
+        "answer": "Không, ứng dụng chạy trên mọi iPhone iOS 18.6 trở lên."
+      },
+      {
+        "question": "Có làm bokeh cho ảnh chụp đêm được không?",
+        "answer": "Được, ảnh có đèn thường cho bokeh đẹp nhất."
+      }
+    ],
+    "related": [
+      "lam-mo-gaussian-iphone.html",
+      "cach-xoa-phong-anh-tren-iphone.html",
+      "hieu-ung-chuyen-dong-anh.html",
+      "cach-lam-mo-anh-tren-iphone.html"
+    ],
+    "cta_title": "Bokeh cho ảnh bạn đã có",
+    "cta_body": "Tải «Cách làm mờ nền ảnh» và thử Gaussian, Ghosting. Miễn phí, không tải lên đám mây.",
+    "cta_text": "Tải trên App Store"
+  },
+  {
+    "slug": "lam-mo-gaussian-iphone.html",
+    "keyword": "làm mờ Gaussian",
+    "cluster": "effects",
+    "card_title": "Làm mờ Gaussian trên iPhone",
+    "card_excerpt": "Độ mờ mềm, đều, tự nhiên nhất — cho phông, khuôn mặt hoặc cả ảnh.",
+    "card_image": "/img/appstore/vi/04-box.webp",
+    "card_image_alt": "Phông được làm mờ mềm",
+    "meta_title": "Làm mờ Gaussian trên iPhone: là gì và dùng khi nào",
+    "meta_description": "Làm mờ Gaussian là gì, khác Box và Motion ra sao, và cách áp dụng trên iPhone cho phông nền, khuôn mặt hoặc cả ảnh. Chỉnh Radius, miễn phí, xử lý ngay trên máy.",
+    "h1": "Làm mờ Gaussian trên iPhone",
+    "answer": "Làm mờ Gaussian là độ mờ mềm và đều, giống ống kính lệch nét. Trên iPhone, mở ảnh trong MakeBlur, chọn vùng (Background, Faces, Manual hoặc Full Photo), chọn kiểu Gaussian và chỉnh Radius — Radius càng lớn, ảnh càng mờ. Nhấn Save.",
+    "intro": "Gaussian blur là bộ lọc mờ phổ biến nhất trong chỉnh sửa ảnh, có trong Photoshop và hầu hết app chỉnh ảnh. Mỗi điểm ảnh được trộn với các điểm xung quanh theo phân phối Gauss (hình chuông), nên chuyển tiếp mềm, không có cạnh cứng.",
+    "image": "/img/appstore/vi/04-box.webp",
+    "image_alt": "Phông được làm mờ, chủ thể sắc nét",
+    "native": {
+      "heading": "iPhone có bộ lọc Gaussian không?",
+      "paragraphs": [
+        "Ứng dụng Ảnh không có bộ lọc làm mờ. Hiệu ứng Chân dung dùng độ mờ mô phỏng ống kính, chỉ cho ảnh có dữ liệu độ sâu."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian, Box và Motion",
+        "paragraphs": [
+          "Gaussian: mềm, tự nhiên — hợp chân dung, phông nền. Box: mờ đều theo ô, cạnh rõ hơn — hợp che chữ. Motion: mờ theo một hướng — tạo cảm giác tốc độ."
+        ]
+      },
+      {
+        "heading": "Gaussian để che riêng tư có đủ không?",
+        "paragraphs": [
+          "Với khuôn mặt ở Radius cao, Gaussian che tốt. Với chữ nhỏ và số, Pixelate hoặc Box an toàn hơn vì Gaussian nhẹ có thể vẫn để đoán được hình dạng ký tự."
+        ]
+      }
+    ],
+    "steps_title": "Áp dụng Gaussian",
+    "steps": [
+      {
+        "title": "Mở ảnh",
+        "description": "Chọn trong thư viện."
+      },
+      {
+        "title": "Chọn vùng",
+        "description": "Background, Faces, Manual hoặc Full Photo."
+      },
+      {
+        "title": "Gaussian và Radius",
+        "description": "Tăng dần đến độ mờ mong muốn."
+      },
+      {
+        "title": "Save",
+        "description": "Lưu bản sao."
+      }
+    ],
+    "tips_title": "Mẹo",
+    "tips": [
+      "Phông chân dung: Radius vừa phải trông thật nhất.",
+      "Nền cho chữ trên story: Gaussian mạnh ở Full Photo.",
+      "Che chữ: chuyển sang Pixelate."
+    ],
+    "faq_title": "Câu hỏi thường gặp",
+    "faq": [
+      {
+        "question": "Radius nghĩa là gì?",
+        "answer": "Bán kính vùng trộn điểm ảnh: càng lớn, ảnh càng mờ."
+      },
+      {
+        "question": "Có làm mờ Gaussian online được không?",
+        "answer": "Được, trình làm mờ online trên website này có Gaussian cho cả ảnh."
+      },
+      {
+        "question": "Gaussian có làm giảm độ phân giải không?",
+        "answer": "Không, ảnh được lưu ở kích thước gốc."
+      }
+    ],
+    "related": [
+      "hieu-ung-bokeh-iphone.html",
+      "hieu-ung-chuyen-dong-anh.html",
+      "cach-lam-mo-anh-tren-iphone.html",
+      "lam-mo-nen-anh.html"
+    ],
+    "cta_title": "Gaussian chỉ với một thanh trượt",
+    "cta_body": "Tải «Cách làm mờ nền ảnh» và làm mờ phông, khuôn mặt hoặc cả ảnh. Miễn phí, trên máy.",
+    "cta_text": "Tải trên App Store"
+  }
+]

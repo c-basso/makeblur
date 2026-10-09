@@ -1,0 +1,430 @@
+[
+  {
+    "slug": "kao-bokashi-shashin.html",
+    "keyword": "顔 ぼかし 写真",
+    "cluster": "privacy",
+    "card_title": "写真の顔をぼかす・モザイクをかける",
+    "card_excerpt": "子ども、友だち、通行人。投稿前にワンタップで全員の顔をぼかす。Apple Intelligence 不要。",
+    "card_image": "/img/appstore/jp/03-face.webp",
+    "card_image_alt": "ポートレートのグリッドで顔がぼかされている",
+    "meta_title": "写真の顔をぼかす方法｜iPhoneで複数人もまとめて",
+    "meta_description": "SNSに投稿する前に、写真に写った顔をiPhoneでぼかす方法。アプリが顔を自動で検出し、複数人でもワンタップでぼかし・モザイク加工できます。Apple Intelligence不要で、無料・オフラインで使えます。写真はアップロードされず、すべてiPhoneの中で処理されます。",
+    "h1": "写真の顔をぼかす方法（iPhone）",
+    "answer": "写真の顔を iPhone でぼかすには、MakeBlur で写真を開き Faces（顔）タブを選びます。アプリがすべての顔を検出してまとめてぼかします。誰だかわからなくなるまで Radius を上げるか、モザイクにしたいなら Pixelate を選んで Save をタップ。ひとりだけぼかしたいときは Manual タブで指でなぞります。",
+    "intro": "顔をぼかしたい理由はさまざまです。運動会や発表会の写真に写った子どもたち、SNS に出たくない友だち、旅行写真の通行人。肖像権やプライバシーへの意識が高まり、投稿前に顔を隠す人は増えています。数秒でできる方法を紹介します。",
+    "image": "/img/appstore/jp/03-face.webp",
+    "image_alt": "Facesタブ、Radius 80：8人の顔がぼかされている",
+    "native": {
+      "heading": "iPhoneの標準機能でできること",
+      "paragraphs": [
+        "「写真」アプリには顔をぼかす・モザイクをかける専用機能はありません。Apple Intelligence 対応機種（iPhone 15 Pro 以降）の「クリーンアップ」は写り込みを消すための機能で、顔を隠す用途には向きません。",
+        "残るのはマークアップの図形やペンで顔を塗りつぶす方法ですが、仕上がりはどうしても雑に見えます。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "全員か、ひとりだけか",
+        "paragraphs": [
+          "Faces は画像内の顔をすべて見つけてぼかします。集合写真、クラス写真、パーティーにぴったりです。自分など誰かを見せたいときは Manual で隠したい顔だけをなぞりましょう。",
+          "スクリーンショット「顔はシェアする前に」では、8人のポートレートがワンタップでぼかされています。"
+        ]
+      },
+      {
+        "heading": "ぼかしかモザイクか",
+        "paragraphs": [
+          "軽いぼかしだと、よく知っている人には誰だかわかることがあります。しっかり隠すなら Radius を高めにするか、Pixelate でモザイクに。SNS 向けにやわらかく見せたいなら、強めの Gaussian がおすすめです。"
+        ]
+      }
+    ],
+    "steps_title": "アプリで顔をぼかす手順",
+    "steps": [
+      {
+        "title": "写真を開く",
+        "description": "隠したい人が写っている画像を選びます。"
+      },
+      {
+        "title": "Faces タブ",
+        "description": "すべての顔が検出され、ぼかされます。"
+      },
+      {
+        "title": "強さを調整",
+        "description": "誰だかわからなくなるまで Radius を上げるか、Pixelate を選びます。"
+      },
+      {
+        "title": "Save",
+        "description": "投稿するのはぼかしたコピー。元の写真ではありません。"
+      }
+    ],
+    "tips_title": "コツ",
+    "tips": [
+      "背景の小さな顔やガラスに映った顔もチェック。漏れていたら Manual で追加します。",
+      "子どもの場合は、名札や体操服の名前、学校のエンブレムも一緒に隠しましょう。",
+      "保存後に拡大して、誰も判別できないことを確認しましょう。"
+    ],
+    "faq_title": "よくある質問",
+    "faq": [
+      {
+        "question": "Apple Intelligence なしで顔をぼかせますか？",
+        "answer": "はい。MakeBlur の Faces タブは iOS 18.6 のどの iPhone でも使えます。ひとりだけなら Manual で。"
+      },
+      {
+        "question": "ぼかした顔は元に戻せますか？",
+        "answer": "強めにぼかして保存したコピーからは戻せません。細部が消えるためです。だからこそ元の写真は投稿しないでください。"
+      },
+      {
+        "question": "ビデオ通話のスクショでも使えますか？",
+        "answer": "はい。Faces はスクショの顔も検出します。"
+      }
+    ],
+    "related": [
+      "shashin-ichibu-bokashi.html",
+      "mosaic-kakou-iphone.html",
+      "number-plate-kakusu.html",
+      "bokashi-app-iphone.html"
+    ],
+    "cta_title": "投稿の前に、顔を守る",
+    "cta_body": "「写真の背景をぼかす」を入手して Faces を選び、保存。無料、iPhone の中だけで、アップロードなし。",
+    "cta_text": "App Storeで入手"
+  },
+  {
+    "slug": "shashin-ichibu-bokashi.html",
+    "keyword": "写真 一部 ぼかし",
+    "cluster": "privacy",
+    "card_title": "写真の一部だけをぼかす",
+    "card_excerpt": "住所、番号、人混みの誰か。指でなぞった範囲だけをぼかします。",
+    "card_image": "/img/appstore/jp/05-crystalize.webp",
+    "card_image_alt": "ブラシで写真の一部をぼかした例",
+    "meta_title": "写真の一部だけぼかす方法｜iPhoneで指でなぞるだけ",
+    "meta_description": "iPhoneで写真の一部だけをぼかす方法を解説。隠したい所を指でなぞり、GaussianかPixelateを選ぶだけ。文字、番号、人物、写り込んだ物など、好きな範囲だけをきれいにぼかせます。無料で使えます。写真はアップロードされず、すべてiPhoneの中で処理されます。",
+    "h1": "写真の一部だけをぼかす方法（iPhone）",
+    "answer": "写真の一部だけを iPhone でぼかすには、MakeBlur で写真を開き Manual（手動ブラシ）タブを選んで、隠したい範囲を指でなぞります。なぞった所だけがぼけます。やわらかく見せるなら Gaussian、プライバシー目的なら Pixelate を選び、Radius を調整して Save をタップします。",
+    "intro": "背景でも顔でもなく、特定の部分だけを隠したいこともあります。家の番地、社員証、机の上の書類、人混みの中の誰か。「写真」アプリにはぼかしブラシがないので、それができる道具が必要です。やり方を紹介します。",
+    "image": "/img/appstore/jp/05-crystalize.webp",
+    "image_alt": "写真の一部にモザイクを適用",
+    "native": {
+      "heading": "iPhoneの標準機能でできること",
+      "paragraphs": [
+        "マークアップなら図形やペンで範囲を塗りつぶせます。隠れはしますが、上から貼ったような跡が目立ちます。クリーンアップ（Apple Intelligence のみ）はぼかすのではなく消す機能で、背景の補完が不自然になることもあります。本格的なぼかしブラシは「写真」アプリにはありません。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "上手になぞるコツ",
+        "paragraphs": [
+          "なぞる前に2本指で拡大すると、ブラシが指に正確についてきます。特に文字は、周りに少し余白を取ってなぞりましょう。失敗してもやり直せます。保存するまで元の写真は変わりません。"
+        ]
+      },
+      {
+        "heading": "スタイルの選び方",
+        "paragraphs": [
+          "Gaussian：やわらかく目立たない。ゴミ箱や看板など見た目を整える用途に。Pixelate や Box で Radius 高め：本当に隠したい情報に。Crystallize や Hexagonal：あえて加工を見せたいデザイン的な表現に。"
+        ]
+      }
+    ],
+    "steps_title": "アプリで範囲をぼかす手順",
+    "steps": [
+      {
+        "title": "写真を開く",
+        "description": "MakeBlur で画像を選びます。"
+      },
+      {
+        "title": "Manual タブ",
+        "description": "拡大して、隠したい範囲を指でなぞります。"
+      },
+      {
+        "title": "スタイルと Radius",
+        "description": "目立たせないなら Gaussian、隠すなら Pixelate。"
+      },
+      {
+        "title": "Save",
+        "description": "範囲をぼかしたコピーが「写真」に保存されます。"
+      }
+    ],
+    "tips_title": "コツ",
+    "tips": [
+      "タブは組み合わせられます。Background で背景をぼかしてから、Manual で細部を。",
+      "文字は必ず強めに。大きな文字は弱いぼかしだと読めてしまいます。",
+      "鏡やガラスの映り込みに、隠したものが写っていないか確認しましょう。"
+    ],
+    "faq_title": "よくある質問",
+    "faq": [
+      {
+        "question": "1枚の写真で複数の場所をぼかせますか？",
+        "answer": "はい。Manual で保存前に好きなだけなぞれます。"
+      },
+      {
+        "question": "スクショでも使えますか？",
+        "answer": "はい。スクショも普通の写真と同じように開けます。"
+      },
+      {
+        "question": "ぼかしていない部分の画質は落ちますか？",
+        "answer": "いいえ。それ以外の部分は元の写真と同じです。"
+      }
+    ],
+    "related": [
+      "screenshot-mosaic-iphone.html",
+      "number-plate-kakusu.html",
+      "mosaic-kakou-iphone.html",
+      "kao-bokashi-shashin.html"
+    ],
+    "cta_title": "ぼかしたい所だけをぼかす",
+    "cta_body": "「写真の背景をぼかす」を入手して Manual でなぞるだけ。無料、iPhone の中で。",
+    "cta_text": "App Storeで入手"
+  },
+  {
+    "slug": "number-plate-kakusu.html",
+    "keyword": "ナンバープレート 隠す 写真",
+    "cluster": "privacy",
+    "card_title": "写真のナンバープレートを隠す",
+    "card_excerpt": "メルカリ、カーセンサー、SNS 投稿に。ナンバーは読めず、写真はきれいなまま。",
+    "card_image": "/img/appstore/jp/05-crystalize.webp",
+    "card_image_alt": "モザイクで隠したナンバープレート",
+    "meta_title": "写真のナンバープレートを隠す方法｜iPhoneで無料",
+    "meta_description": "車やバイクの写真のナンバープレートをiPhoneで隠す方法。メルカリやカーセンサーへの出品、SNS投稿の前に、なぞってモザイクをかけて保存するだけ。無料で、写真をネットに送らず端末内で完結します。写真はアップロードされず、すべてiPhoneの中で処理されます。",
+    "h1": "写真のナンバープレートを隠す方法（iPhone）",
+    "answer": "写真のナンバープレートを隠すには、MakeBlur で写真を開いて Manual タブを選び、プレートを指でなぞって、スタイルを Pixelate か Box にし、どの文字も読めなくなるまで Radius を上げます。Save をタップして、そのコピーを出品や投稿に使います。",
+    "intro": "車やバイクをメルカリやカーセンサー、グーネットに出品するとき、あるいはインスタや X で愛車を見せるとき、ナンバープレートを隠す人は多いです。義務ではありませんが、ナンバーから個人を特定されたり悪用されたりするのを防ぐ目的で、念のため隠すのが一般的になっています。とはいえ、黒塗りの四角はいかにも手作り感が出ます。きれいなモザイクなら両立できます。",
+    "image": "/img/appstore/jp/05-crystalize.webp",
+    "image_alt": "アプリで写真の一部にモザイク",
+    "native": {
+      "heading": "「写真」アプリでできること",
+      "paragraphs": [
+        "マークアップで図形をのせたりペンで塗ったりすればプレートは隠れますが、跡が目立ちます。半透明の蛍光ペンだと文字が透けて見えることもあります。標準の編集機能では、範囲をぼかしたりモザイクをかけたりはできません。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "モザイクか、ぼかしか",
+        "paragraphs": [
+          "ナンバープレートにいちばん確実なのは、Radius 高めの Pixelate か Box。大きなブロックで文字が消えます。軽い Gaussian だと、特に高解像度の写真では数字が推測できてしまうことがあります。",
+          "Crystallize でも隠れますが装飾的に見えるので、出品写真には素直なモザイクのほうが向いています。"
+        ]
+      },
+      {
+        "heading": "写真が多いとき",
+        "paragraphs": [
+          "出品写真は10〜20枚あることも多く、ナンバーが写っているのはそのうち3〜4枚ほど。1枚ずつ、開く、Manual、なぞる、Save で、それぞれ30秒ほどです。ショーウィンドウや車内写真の窓越しにナンバーが映っていないかも確認しましょう。"
+        ]
+      }
+    ],
+    "steps_title": "アプリでナンバーを隠す手順",
+    "steps": [
+      {
+        "title": "車の写真を開く",
+        "description": "ナンバープレートが写っている写真を選びます。"
+      },
+      {
+        "title": "Manual タブ",
+        "description": "拡大して、プレートを少し余白を取ってなぞります。"
+      },
+      {
+        "title": "Pixelate と Radius",
+        "description": "拡大しても文字が読めなくなるまで強くします。"
+      },
+      {
+        "title": "Save",
+        "description": "保存したコピーを出品に使います。"
+      }
+    ],
+    "tips_title": "コツ",
+    "tips": [
+      "文字だけでなくプレート全体を覆いましょう。地名やひらがなからも情報がわかります。",
+      "車は前後の両方にナンバーがあります（バイクは後ろだけ）。",
+      "車検証や車台番号が写っていたら、同じように隠しましょう。"
+    ],
+    "faq_title": "よくある質問",
+    "faq": [
+      {
+        "question": "出品写真のナンバーは隠さないといけませんか？",
+        "answer": "法律上の義務ではありませんが、悪用を防ぐために隠す出品者が多いです。判断はご自身で。法的なアドバイスではありません。"
+      },
+      {
+        "question": "モザイクをかけたナンバーは復元できますか？",
+        "answer": "大きなブロックなら復元できません。保存したコピーから細部が消えるためです。元の写真は公開しないでください。"
+      },
+      {
+        "question": "写真はどこかに送られますか？",
+        "answer": "いいえ。すべて iPhone の中で、インターネットなしで処理されます。"
+      }
+    ],
+    "related": [
+      "shashin-ichibu-bokashi.html",
+      "mosaic-kakou-iphone.html",
+      "screenshot-mosaic-iphone.html",
+      "kao-bokashi-shashin.html"
+    ],
+    "cta_title": "ナンバーは隠して、写真はきれいに",
+    "cta_body": "「写真の背景をぼかす」を入手して、Manual でプレートをなぞって保存。無料、iPhone だけで。",
+    "cta_text": "App Storeで入手"
+  },
+  {
+    "slug": "screenshot-mosaic-iphone.html",
+    "keyword": "スクショ モザイク",
+    "cluster": "privacy",
+    "card_title": "スクショにモザイクをかける",
+    "card_excerpt": "LINE のトーク、住所、注文番号。共有前にスクショの文字を読めなくします。",
+    "card_image": "/img/appstore/jp/05-crystalize.webp",
+    "card_image_alt": "スクショの文字にモザイク",
+    "meta_title": "スクショにモザイクをかける方法｜iPhoneで安全に",
+    "meta_description": "iPhoneのスクショに写った名前、電話番号、住所、LINEのトークにモザイクをかけてから共有する方法。半透明の蛍光ペンと違い、明るさを変えても文字が透けません。無料で、アップロードもありません。写真はアップロードされず、すべてiPhoneの中で処理されます。",
+    "h1": "スクショにモザイクをかける方法（iPhone）",
+    "answer": "スクショにモザイクをかけるには、MakeBlur でスクショを開き Manual タブを選んで、隠したい行（名前、番号、住所、メッセージ）を指でなぞり、Pixelate を選んで Radius を上げます。Save をタップしてコピーを共有。送る前に拡大して、何も読めないか確認しましょう。",
+    "intro": "スクショは毎日のように共有します。相談のための LINE のトーク、注文確認、振込完了の画面、アプリのエラー。そこにはたいてい名前や電話番号、住所、各種番号が写っています。隠すのは簡単ですが、やり方を間違えると文字が読めてしまうこともあります。",
+    "image": "/img/appstore/jp/05-crystalize.webp",
+    "image_alt": "モザイクで内容が読めなくなった範囲",
+    "native": {
+      "heading": "マークアップの限界",
+      "paragraphs": [
+        "マークアップの蛍光ペンは半透明なので、コントラストや明るさを上げると下の文字が浮かび上がることがあります。不透明なペンなら何度か重ね塗りすれば安全ですが、塗りつぶした四角は見た目がよくありません。範囲にモザイクをかける機能はありません。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "弱いぼかしではなくモザイクを",
+        "paragraphs": [
+          "白地に黒い文字は、軽いぼかしでは形から読めてしまいます。Pixelate で Radius を高くすれば、文字ひとつひとつがブロックになって内容が消えます。スクショではモザイクがいちばん伝わりやすく、受け取った人も意図的に隠したと理解できます。"
+        ]
+      },
+      {
+        "heading": "よく隠す情報",
+        "paragraphs": [
+          "トーク画面：相手の名前とアイコン、電話番号。注文：住所、メールアドレス、注文番号。銀行：口座番号、残高、振込先名。書類：マイナンバーや署名。"
+        ]
+      }
+    ],
+    "steps_title": "アプリでスクショにモザイクをかける手順",
+    "steps": [
+      {
+        "title": "スクショを開く",
+        "description": "ライブラリの「スクリーンショット」アルバムにあります。"
+      },
+      {
+        "title": "Manual タブ",
+        "description": "隠したい行を余白を取ってなぞります。"
+      },
+      {
+        "title": "Pixelate",
+        "description": "拡大しても読めなくなるまで Radius を上げます。"
+      },
+      {
+        "title": "Save",
+        "description": "共有するのはコピー。元のスクショではありません。"
+      }
+    ],
+    "tips_title": "コツ",
+    "tips": [
+      "画面上部も忘れずに。通知のプレビューや相手の名前が写り込みがちです。",
+      "番号の一部ではなく、行ごと隠しましょう。",
+      "保存したら、不要な元のスクショは削除しておくと安心です。"
+    ],
+    "faq_title": "よくある質問",
+    "faq": [
+      {
+        "question": "マークアップの蛍光ペンで隠すのは安全？",
+        "answer": "完全ではありません。半透明なので、明るさを変えると文字が見えることがあります。モザイクか不透明な図形を使いましょう。"
+      },
+      {
+        "question": "モザイクをかけた文字は復元できる？",
+        "answer": "大きなブロックならできません。弱いモザイクで文字が大きい場合は推測されることがあるので、強めに。"
+      },
+      {
+        "question": "フルページのスクショにも使える？",
+        "answer": "ライブラリの画像なら使えます。PDF で保存したフルページのスクショは、先に画像として保存してください。"
+      }
+    ],
+    "related": [
+      "shashin-ichibu-bokashi.html",
+      "mosaic-kakou-iphone.html",
+      "number-plate-kakusu.html",
+      "kao-bokashi-shashin.html"
+    ],
+    "cta_title": "安心して共有できるスクショに",
+    "cta_body": "「写真の背景をぼかす」を入手して、Manual で文字をなぞってモザイク。無料、オフライン。",
+    "cta_text": "App Storeで入手"
+  },
+  {
+    "slug": "mosaic-kakou-iphone.html",
+    "keyword": "モザイク 加工 iPhone",
+    "cluster": "privacy",
+    "card_title": "iPhoneで写真をモザイク加工する",
+    "card_excerpt": "顔、文字、背景をモザイクに。Pixelate・Hexagonal・Crystallize の違いを解説。",
+    "card_image": "/img/appstore/jp/05-crystalize.webp",
+    "card_image_alt": "Crystallizeで背景をモザイクにした例",
+    "meta_title": "iPhoneでモザイク加工する方法｜顔・文字・背景に",
+    "meta_description": "iPhoneで写真をモザイク加工する方法。写真全体、背景だけ、顔、指定した範囲に、Pixelate・Hexagonal・Crystallizeの3種類から選んでかけられます。端末内で処理され、無料で使えます。写真はアップロードされず、すべてiPhoneの中で処理されます。",
+    "h1": "iPhoneで写真をモザイク加工する方法",
+    "answer": "iPhone で写真をモザイク加工するには、MakeBlur で写真を開き、かける場所（顔なら Faces、範囲なら Manual、背景なら Background、全体なら Full Photo）を選んで Pixelate スタイルを選び、Radius でブロックの大きさを調整します。Save でモザイクをかけたコピーを保存します。",
+    "intro": "日本では、写真の一部を隠す加工といえば「モザイク」。顔や個人情報を隠す定番の方法であり、最近はデザインとしてのモザイク表現も人気です。iPhone の「写真」アプリにはモザイク機能がありません。好きな場所にかける方法を紹介します。",
+    "image": "/img/appstore/jp/05-crystalize.webp",
+    "image_alt": "背景にCrystallizeスタイル：クリスタル状のモザイク",
+    "native": {
+      "heading": "iPhoneの標準機能でできること",
+      "paragraphs": [
+        "「写真」アプリにモザイクフィルタはありません。マークアップでは覆うことしかできず、クリーンアップ（iPhone 15 Pro 以降）は消す機能です。文字や背景、写真全体にモザイクをかけるにはアプリが必要です。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "3種類のモザイク",
+        "paragraphs": [
+          "Pixelate：おなじみの四角いモザイク。プライバシーにはいちばん確実。Hexagonal：六角形のセルで少しモダン。Crystallize：不規則なクリスタル状でアート風。スクリーンショット「モザイク タップひとつ」では、背景がクリスタルになり、女性はくっきり残っています。"
+        ]
+      },
+      {
+        "heading": "隠すためか、見せるためか",
+        "paragraphs": [
+          "隠すなら：Faces や Manual で大きなブロックの Pixelate。デザインとして使うなら：Background に Crystallize や Hexagonal をかけると、モザイクの背景に人物が浮かび上がります。"
+        ]
+      }
+    ],
+    "steps_title": "アプリでモザイク加工する手順",
+    "steps": [
+      {
+        "title": "写真を開く",
+        "description": "どの画像やスクショでも。"
+      },
+      {
+        "title": "タブを選ぶ",
+        "description": "Faces、Manual、Background、Full Photo。"
+      },
+      {
+        "title": "Pixelate スタイル",
+        "description": "または Hexagonal・Crystallize。Radius でブロックの大きさを調整。"
+      },
+      {
+        "title": "Save",
+        "description": "モザイクをかけたコピーを保存。"
+      }
+    ],
+    "tips_title": "コツ",
+    "tips": [
+      "ブロックが大きいほどプライバシーは確実です。",
+      "おしゃれな投稿には、被写体をくっきり残して背景に Crystallize を。",
+      "拡大して、小さな文字や細部が完全に消えているか確認しましょう。"
+    ],
+    "faq_title": "よくある質問",
+    "faq": [
+      {
+        "question": "モザイクとぼかし、どちらで隠すべき？",
+        "answer": "確実に隠したいならモザイク（大きなブロック）。見た目をやわらかくしたいならぼかし（Gaussian）が向いています。"
+      },
+      {
+        "question": "背景だけにモザイクをかけられますか？",
+        "answer": "はい。Background タブで Pixelate か Crystallize を選べば、被写体はくっきり残ります。"
+      },
+      {
+        "question": "写真のプライバシーは守られますか？",
+        "answer": "はい。処理は iPhone の中で行われ、インターネットも不要です。"
+      }
+    ],
+    "related": [
+      "kao-bokashi-shashin.html",
+      "screenshot-mosaic-iphone.html",
+      "number-plate-kakusu.html",
+      "blur-kouka-shashin.html"
+    ],
+    "cta_title": "好きな場所にモザイクを",
+    "cta_body": "「写真の背景をぼかす」を入手：Pixelate・Hexagonal・Crystallize をすべてのモードで。無料でダウンロード。",
+    "cta_text": "App Storeで入手"
+  }
+]

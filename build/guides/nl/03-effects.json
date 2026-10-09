@@ -1,0 +1,258 @@
+[
+  {
+    "slug": "motion-blur-foto.html",
+    "keyword": "motion blur foto",
+    "cluster": "effects",
+    "card_title": "Motion blur op een foto (bewegingsonscherpte)",
+    "card_excerpt": "Bewegingsspoor op de achtergrond, onderwerp scherp: snelheid met Radius en Angle.",
+    "card_image": "/img/appstore/nl/02-motion.webp",
+    "card_image_alt": "Motion blur achter een vrouw met zonnebril",
+    "meta_title": "Motion blur op een foto met iPhone: beweging in vier stappen",
+    "meta_description": "Zo voeg je motion blur (bewegingsonscherpte) toe aan een foto op iPhone: spoor op de achtergrond, onderwerp scherp, richting en lengte instelbaar. Gratis.",
+    "h1": "Motion blur op een foto met je iPhone",
+    "answer": "Om motion blur aan een foto toe te voegen op je iPhone, open je hem in MakeBlur, laat je het tabblad Background staan zodat het onderwerp scherp blijft, kies je de stijl Motion, stel je met Radius de lengte van het spoor en met Angle de richting in, en tik je op Save. De achtergrond lijkt te bewegen, de persoon blijft stil en scherp.",
+    "intro": "Motion blur, oftewel bewegingsonscherpte, geeft elke foto vaart: een wielrenner, een auto, een danser, of gewoon een portret voor een dynamischere post. In de fotografie krijg je het met een lange sluitertijd en meetrekken (panning); met de iPhone voeg je het achteraf toe, met de richting en sterkte die jij kiest.",
+    "image": "/img/appstore/nl/02-motion.webp",
+    "image_alt": "Stijl Motion, Radius 65: de achtergrond heeft een spoor, het onderwerp is scherp",
+    "native": {
+      "heading": "Wat de iPhone zelf kan",
+      "paragraphs": [
+        "Live Photos hebben het effect «Lange belichting», dat frames samenvoegt tot een spoor: het werkt alleen als er tijdens de opname echt iets bewoog, en dan wordt alles wazig wat bewoog — niet de achtergrond die jij kiest. Voor gewone foto’s heeft Foto’s geen bewegingseffect."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Radius en Angle",
+        "paragraphs": [
+          "Radius is de lengte van het spoor: lage waarden voor een subtiele beweging, hoge voor het gevoel van snelheid. Angle is de richting: horizontaal voor auto’s en hardlopers, schuin voor sprongen, verticaal voor regen of vallen. De screenshot «Motion blur voor actiefoto’s» gebruikt Radius 65."
+        ]
+      },
+      {
+        "heading": "Alleen de achtergrond of de hele foto",
+        "paragraphs": [
+          "Met Background beweegt alleen de achtergrond — het klassieke meetrek-effect. Met Full Photo krijgt het hele beeld een spoor: handig voor covers, abstracte achtergronden of een dromerige look."
+        ]
+      }
+    ],
+    "steps_title": "Motion blur toevoegen in de app",
+    "steps": [
+      {
+        "title": "Open de foto",
+        "description": "Het liefst met een onderwerp dat goed loskomt van de achtergrond."
+      },
+      {
+        "title": "Tabblad Background",
+        "description": "Het onderwerp blijft stil en scherp."
+      },
+      {
+        "title": "Stijl Motion",
+        "description": "Radius voor de lengte, Angle voor de richting."
+      },
+      {
+        "title": "Save",
+        "description": "Bewaar de kopie met het effect."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Zet Angle in de richting waarin het onderwerp beweegt: dan oogt het geloofwaardiger.",
+      "Bij stadslichten op de achtergrond wordt het spoor een opvallende lichtstreep.",
+      "Overdrijf niet bij portretten: een gemiddelde Radius geeft al genoeg dynamiek."
+    ],
+    "faq_title": "Veelgestelde vragen",
+    "faq": [
+      {
+        "question": "Wat is motion blur?",
+        "answer": "Bewegingsonscherpte: een spoor dat beweging suggereert."
+      },
+      {
+        "question": "Kan ik de richting van de beweging kiezen?",
+        "answer": "Ja, met het schuifje Angle van de stijl Motion."
+      },
+      {
+        "question": "Werkt het op een foto die al gemaakt is?",
+        "answer": "Ja, op elke foto in je bibliotheek, ook zonder Live Photo."
+      }
+    ],
+    "related": [
+      "blur-effect-foto.html",
+      "achtergrond-wazig-maken-iphone.html",
+      "bokeh-effect-iphone.html",
+      "gaussiaans-vervagen-iphone.html"
+    ],
+    "cta_title": "Vaart in elke foto",
+    "cta_body": "Download «Foto achtergrond wazig maken», kies Motion en stel Angle in. Gratis, op je iPhone.",
+    "cta_text": "Download in de App Store"
+  },
+  {
+    "slug": "bokeh-effect-iphone.html",
+    "keyword": "bokeh effect iPhone",
+    "cluster": "effects",
+    "card_title": "Bokeh-effect op iPhone",
+    "card_excerpt": "Zachte achtergrond en vervloeiende lichtjes, ook achteraf: Gaussian voor portretten, Ghosting voor een dromerige look.",
+    "card_image": "/img/appstore/nl/06-ghost.webp",
+    "card_image_alt": "Zacht bokeh-effect op een portret",
+    "meta_title": "Bokeh-effect op iPhone, ook achteraf: uitleg met voorbeelden",
+    "meta_description": "Zo krijg je een bokeh-effect op iPhone bij een foto die al gemaakt is: zachte achtergrond, vervloeiende lichtjes, scherp onderwerp. Gaussian en Ghosting.",
+    "h1": "Bokeh-effect op iPhone, ook achteraf",
+    "answer": "Voor een bokeh-effect op een foto die al gemaakt is, open je hem in MakeBlur, laat je het tabblad Background staan, kies je Gaussian en verhoog je Radius tot de achtergrond zacht wordt en lichtjes vlekken worden. Voor een dromerigere look over het hele beeld gebruik je Ghosting in het tabblad Full Photo. Tik daarna op Save.",
+    "intro": "Bokeh komt uit het Japans en beschrijft de kwaliteit van het onscherpe deel van een foto: lichtjes die zachte bolletjes worden, een achtergrond die wegsmelt. Het is het effect van lichtsterke lenzen, en de portretmodus bootst het na tijdens het fotograferen. Zo kom je in de buurt van die look met een foto die je al hebt.",
+    "image": "/img/appstore/nl/06-ghost.webp",
+    "image_alt": "Tabblad Full Photo met stijl Ghosting, Radius 79",
+    "native": {
+      "heading": "Bokeh met de portretmodus",
+      "paragraphs": [
+        "De portretmodus simuleert bokeh tijdens het fotograferen en in Foto’s → Wijzig kun je het diafragma (de f-waarde) aanpassen. Dat werkt alleen bij foto’s in portretmodus. Voor alle andere foto’s heeft Foto’s geen bokeh-effect."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian of Ghosting",
+        "paragraphs": [
+          "Gaussian op Background: de portret-bokeh, scherp onderwerp en zachte achtergrond. Werkt prachtig met avondlicht, etalages en kerstverlichting. Ghosting op Full Photo: een zachte dubbele gloed over het hele beeld, zoals op de screenshot «Zachte sfeer met bokeh» (Radius 79)."
+        ]
+      },
+      {
+        "heading": "Foto’s die het meest opleveren",
+        "paragraphs": [
+          "Achtergronden met lichtpuntjes, levendige kleuren en wat afstand tussen onderwerp en achtergrond. Tegen een witte muur zie je weinig bokeh: daar is lichte vervaging genoeg."
+        ]
+      }
+    ],
+    "steps_title": "Bokeh-effect in de app",
+    "steps": [
+      {
+        "title": "Open de foto",
+        "description": "Ideaal met lichtjes op de achtergrond."
+      },
+      {
+        "title": "Background + Gaussian",
+        "description": "Het onderwerp blijft scherp."
+      },
+      {
+        "title": "Radius",
+        "description": "Verhoog tot de lichtjes zachte vlekken worden."
+      },
+      {
+        "title": "Save",
+        "description": "Bewaar de kopie."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Avondfoto’s geven de mooiste bokeh.",
+      "Probeer Ghosting op Full Photo voor covers en achtergronden.",
+      "Controleer de randen van het haar door in te zoomen vóór je bewaart."
+    ],
+    "faq_title": "Veelgestelde vragen",
+    "faq": [
+      {
+        "question": "Wat is bokeh?",
+        "answer": "Hoe het onscherpe deel van een foto eruitziet, vooral lichtjes die zachte vlekken worden."
+      },
+      {
+        "question": "Heb ik de portretmodus nodig?",
+        "answer": "Nee, de app past het effect toe op elke foto die al gemaakt is."
+      },
+      {
+        "question": "Wat is het verschil met gaussiaans vervagen?",
+        "answer": "Gaussiaans is het type vervaging; bokeh is het esthetische resultaat, vooral bij lichtjes."
+      }
+    ],
+    "related": [
+      "gaussiaans-vervagen-iphone.html",
+      "foto-achtergrond-wazig-maken.html",
+      "achtergrond-wazig-maken-iphone.html",
+      "motion-blur-foto.html"
+    ],
+    "cta_title": "Bokeh op elke foto",
+    "cta_body": "Download «Foto achtergrond wazig maken», kies Gaussian of Ghosting en bewaar. Gratis, zonder upload.",
+    "cta_text": "Download in de App Store"
+  },
+  {
+    "slug": "gaussiaans-vervagen-iphone.html",
+    "keyword": "gaussiaans vervagen",
+    "cluster": "effects",
+    "card_title": "Gaussiaans vervagen op iPhone",
+    "card_excerpt": "Wat gaussiaans vervagen is, wanneer je het gebruikt en hoe je het toepast op achtergrond, gezichten of de hele foto.",
+    "card_image": "/img/appstore/nl/04-box.webp",
+    "card_image_alt": "Achtergrond met zachte vervaging",
+    "meta_title": "Gaussiaans vervagen op iPhone: wat het is en hoe het werkt",
+    "meta_description": "Wat is gaussiaans vervagen en hoe pas je het op iPhone toe op de achtergrond, gezichten of de hele foto? Verschil met Box en Motion en aanbevolen sterktes.",
+    "h1": "Gaussiaans vervagen op iPhone: wat het is en hoe je het toepast",
+    "answer": "Gaussiaans vervagen is een gelijkmatige, zachte vervaging, zoals een lens die niet scherpgesteld is. Op iPhone pas je het toe met MakeBlur: open de foto, kies waar (Background voor de achtergrond, Faces voor gezichten, Manual voor een gebied, Full Photo voor alles), selecteer de stijl Gaussian, stel Radius in en tik op Save.",
+    "intro": "Wie Photoshop of een andere editor op de computer heeft gebruikt, kent het filter «Gaussiaans vervagen». De naam komt van de Gauss-curve: elke pixel mengt zich met zijn buren, sterker met de dichtstbijzijnde en minder met de verdere. Het resultaat is zacht en natuurlijk, zonder harde randen. Zo weet je wanneer je het gebruikt en hoe je het op je iPhone toepast.",
+    "image": "/img/appstore/nl/04-box.webp",
+    "image_alt": "Zacht gemaakte achtergrond achter een scherp portret",
+    "native": {
+      "heading": "Wat de iPhone zelf kan",
+      "paragraphs": [
+        "De Foto’s-app heeft geen filter voor gaussiaans vervagen. De aanpassingen veranderen scherpte en definitie, maar alleen omhoog of een beetje omlaag voor het hele beeld, en dat is geen echte vervaging."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian, Box en Motion vergeleken",
+        "paragraphs": [
+          "Gaussian: zacht en natuurlijk, de keuze voor portretten en achtergronden. Box: gelijkmatig gemiddelde, iets vlakker, handig voor producten en om te verbergen. Motion: vervaging in één richting, voor beweging.",
+          "Gebruik voor privacy de gaussiaanse vervaging met hoge sterkte: een lichte gaussiaanse vervaging laat vormen en letters raden."
+        ]
+      },
+      {
+        "heading": "Welke Radius",
+        "paragraphs": [
+          "Laag voor natuurlijke portretten, gemiddeld voor posts en stories, hoog voor abstracte achtergronden of om iets te verbergen. Controleer altijd door in te zoomen."
+        ]
+      }
+    ],
+    "steps_title": "Gaussiaans vervagen toepassen",
+    "steps": [
+      {
+        "title": "Open de foto",
+        "description": "In MakeBlur."
+      },
+      {
+        "title": "Kies de modus",
+        "description": "Background, Faces, Manual of Full Photo."
+      },
+      {
+        "title": "Stijl Gaussian",
+        "description": "Stel Radius in."
+      },
+      {
+        "title": "Save",
+        "description": "Bewaar de kopie."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Gaussian op Background is de natuurlijkste manier om de portretmodus na te bootsen.",
+      "Op Full Photo met hoge sterkte krijg je perfecte achtergronden voor tekst in stories.",
+      "Kies voor gevoelige gegevens liever Pixelate."
+    ],
+    "faq_title": "Veelgestelde vragen",
+    "faq": [
+      {
+        "question": "Waarom heet het gaussiaans?",
+        "answer": "Omdat het gewicht waarmee pixels mengen de Gauss-curve volgt."
+      },
+      {
+        "question": "Is het beter dan Box-vervaging?",
+        "answer": "Het is zachter en natuurlijker; Box is gelijkmatiger. Het hangt af van het effect dat je zoekt."
+      },
+      {
+        "question": "Kan ik het alleen op de achtergrond toepassen?",
+        "answer": "Ja, met het tabblad Background blijft het onderwerp scherp."
+      }
+    ],
+    "related": [
+      "bokeh-effect-iphone.html",
+      "motion-blur-foto.html",
+      "achtergrond-wazig-maken-iphone.html",
+      "blur-effect-foto.html"
+    ],
+    "cta_title": "Gaussiaans vervagen met één tik",
+    "cta_body": "Download «Foto achtergrond wazig maken»: Gaussian in elke modus, op het toestel. Gratis te downloaden.",
+    "cta_text": "Download in de App Store"
+  }
+]
