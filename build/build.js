@@ -68,7 +68,7 @@ function getRequiredString(obj, keyPath) {
                 de: ['DE', 'Deutsch'], it: ['IT', 'Italiano'], pt: ['PT', 'Português'], jp: ['JA', '日本語'],
                 ko: ['KO', '한국어'], nl: ['NL', 'Nederlands'], pl: ['PL', 'Polski'], ro: ['RO', 'Română'],
                 th: ['TH', 'ไทย'], tr: ['TR', 'Türkçe'], uk: ['UK', 'Українська'], vi: ['VI', 'Tiếng Việt'],
-                cn: ['ZH', '简体中文']
+                cn: ['ZH', '简体中文'], id: ['ID', 'Bahasa Indonesia']
             };
             data.meta.alternate_languages = URLS.map((u) => {
                 const [label, name] = LANGUAGE_LABELS[u.code] || [u.code.toUpperCase(), u.code];
@@ -114,7 +114,8 @@ function getRequiredString(obj, keyPath) {
                     'tr': 'tr_TR',
                     'uk': 'uk_UA',
                     'vi': 'vi_VN',
-                    'cn': 'zh_CN'
+                    'cn': 'zh_CN',
+                    'id': 'id_ID'
                 };
                 data.meta.og_locale = localeMap[lang] || 'en_US';
             }

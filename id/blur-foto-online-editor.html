@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blur foto online gratis — dan cara blur latar belakang saja</title>
+  <meta name="description" content="Blur seluruh foto online gratis (Gaussian, Pixel, Motion) lalu unduh PNG. Mau blur latar belakang saja dan subjek tetap tajam? Pakai aplikasi gratis di iPhone." />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <link rel="canonical" href="https://makeblur.com/id/blur-foto-online-editor.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Blur foto online gratis — dan cara blur latar belakang saja" />
+  <meta property="og:description" content="Blur seluruh foto online gratis (Gaussian, Pixel, Motion) lalu unduh PNG. Mau blur latar belakang saja dan subjek tetap tajam? Pakai aplikasi gratis di iPhone." />
+  <meta property="og:url" content="https://makeblur.com/id/blur-foto-online-editor.html" />
+  <meta property="og:image" content="https://makeblur.com/id/site_preview.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Blur foto online gratis — dan cara blur latar belakang saja" />
+  <meta name="twitter:description" content="Blur seluruh foto online gratis (Gaussian, Pixel, Motion) lalu unduh PNG. Mau blur latar belakang saja dan subjek tetap tajam? Pakai aplikasi gratis di iPhone." />
+  <meta name="twitter:image" content="https://makeblur.com/id/site_preview.png" />
+  <style>
+    :root { --bg:#0f1115; --card:#1a1f29; --text:#eef2ff; --muted:#aeb7cf; --accent:#7c9cff; --accent-strong:#5f82ff; --border:#2a3242; }
+    *{box-sizing:border-box} body{margin:0;font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;color:var(--text);background:radial-gradient(circle at top,#171c27 0%,var(--bg) 50%);min-height:100vh;padding:20px}
+    .app{max-width:980px;margin:0 auto;display:grid;gap:16px}.panel{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:16px}
+    .header{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}.title{margin:0;font-size:26px;font-weight:700}.sub{margin:8px 0 0;color:var(--muted);font-size:14px;max-width:720px}
+    .top-links{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+    .back-link{color:#c8d7ff;text-decoration:underline;font-size:14px}
+    .button{border:1px solid transparent;background:var(--accent);color:#fff;border-radius:10px;padding:10px 14px;font-size:14px;font-weight:600;cursor:pointer;transition:.2s ease;white-space:nowrap}
+    .button:hover{background:var(--accent-strong)}.button:disabled{opacity:.45;cursor:not-allowed}.button.secondary{background:transparent;border-color:var(--border);color:var(--text)}
+    .canvas-wrap{width:100%;min-height:320px;display:grid;place-items:center;border:1px dashed #3b4560;border-radius:14px;background:#121722;overflow:auto;padding:12px}
+    .canvas-wrap.is-clickable{cursor:pointer}
+    #editorCanvas{max-width:100%;height:auto;border-radius:12px;display:none;background:#10131b}.placeholder{color:var(--muted);text-align:center;line-height:1.5;padding:24px}
+    .filters{display:flex;gap:10px;overflow-x:auto;padding-bottom:4px}.chip{border:1px solid var(--border);background:#111623;color:var(--text);border-radius:999px;padding:8px 14px;font-size:13px;cursor:pointer;white-space:nowrap;transition:.2s ease}
+    .chip.active{background:rgba(124,156,255,.2);border-color:var(--accent);color:#dce5ff}.slider-row{margin-top:14px;display:grid;gap:8px}.slider-head{display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:13px}
+    input[type="range"]{width:100%;accent-color:var(--accent);cursor:pointer}
+    .seo-copy h2{margin:0 0 8px}.seo-copy p{margin:0;color:var(--muted);line-height:1.6}
+    .seo-copy p+p,.seo-copy p+ol,.seo-copy ol+a{margin-top:10px}.seo-copy ol{margin:10px 0 0;padding-left:20px;color:var(--muted);line-height:1.6}.seo-copy ol+a{display:inline-block}
+    .faq h3{margin:16px 0 6px;font-size:16px}.faq h3:first-of-type{margin-top:4px}
+    .app-cta{border:1px solid #354262;background:linear-gradient(180deg, rgba(124,156,255,.16), rgba(124,156,255,.06));}
+    .app-cta h2{margin:0 0 8px}
+    .app-cta p{margin:0;color:var(--muted);line-height:1.6}
+    .app-cta .button{margin-top:12px;display:inline-block;text-decoration:none}
+  </style>
+</head>
+<body>
+  <div class="app">
+    <section class="panel header">
+      <div>
+        <div class="top-links">
+          <a class="back-link" href="https://makeblur.com/id/">Kembali ke beranda</a>
+        </div>
+        <h1 class="title">Blur foto online gratis — dan latar belakang saja di iPhone</h1>
+        <p class="sub">Unggah foto, pilih Gaussian, Pixel, atau Motion, atur intensitas, lalu unduh PNG. Editor online ini memburamkan seluruh gambar; untuk blur latar belakang saja, lihat di bawah.</p>
+      </div>
+      <div style="display:flex; gap:10px; align-items:center;">
+        <label class="button secondary" for="imageInput">Unggah foto</label>
+        <input id="imageInput" type="file" accept="image/*" style="display:none;" />
+        <button id="downloadPngBtn" class="button" disabled>Unduh PNG</button>
+      </div>
+    </section>
+    <section class="panel">
+      <div class="canvas-wrap">
+        <canvas id="editorCanvas"></canvas>
+        <div id="placeholder" class="placeholder">Belum ada foto.<br />Ketuk «Unggah foto» untuk mulai.</div>
+      </div>
+    </section>
+    <section class="panel">
+      <div class="filters" id="filterList">
+        <button class="chip active" data-filter="gaussian">gaussian</button>
+        <button class="chip" data-filter="pixel">pixel</button>
+        <button class="chip" data-filter="motion">motion</button>
+      </div>
+      <div class="slider-row">
+        <div class="slider-head">
+          <span>Intensitas blur</span>
+          <span id="strengthValue">40</span>
+        </div>
+        <input id="strengthRange" type="range" min="0" max="100" value="40" />
+      </div>
+    </section>
+    <section class="panel seo-copy">
+      <h2>Kapan perlu blur seluruh foto</h2>
+      <p>Latar untuk teks di postingan dan story, wallpaper lembut, pratinjau buram sebelum foto asli diungkap, atau menyensor semuanya sekaligus dengan Pixel. Berjalan di browser, tanpa daftar dan tanpa instal apa pun.</p>
+    </section>
+    
+    <section class="panel seo-copy">
+      <h2>Mau blur latar belakang foto saja?</h2>
+      <p>Untuk blur latar belakang saja, subjek harus dipisahkan dari latar — editor online ini tidak melakukannya. Di iPhone, aplikasi gratis MakeBlur mendeteksi subjek secara otomatis dan hanya memburamkan latar belakang, bahkan untuk foto yang diambil tanpa mode Potret. Semua diproses di perangkat, foto tidak diunggah ke internet.</p>
+      <ol>
+        <li>Unduh aplikasi gratis di App Store dan buka fotonya.</li>
+        <li>Biarkan tab Background: subjek terdeteksi dan tetap tajam.</li>
+        <li>Pilih Gaussian, atur Radius, lalu ketuk Save.</li>
+        </ol>
+      <a class="back-link" href="/id/cara-blur-latar-belakang-foto-iphone.html">Panduan: cara blur latar belakang foto di iPhone</a>
+    </section>
+    
+    <section class="panel app-cta">
+      <h2>Mau blur latar belakang atau wajah saja?</h2>
+      <p>Editor web memburamkan seluruh foto. Untuk menjaga subjek tetap tajam dan hanya blur latar belakang, wajah, atau satu area, pasang MakeBlur di iPhone.</p>
+      <a class="button" href="https://apps.apple.com/app/id6749166426">Unduh aplikasi</a>
+    </section>
+    
+    <section class="panel seo-copy faq">
+      <h2>Pertanyaan umum</h2>
+      <h3>Bisakah blur latar belakang saja secara online?</h3>
+      <p>Editor ini memburamkan seluruh foto. Untuk blur latar belakang saja dan menjaga orangnya tetap tajam, pakai aplikasi MakeBlur di iPhone: subjek terdeteksi otomatis dan foto diproses di perangkat.</p>
+      <h3>Apakah editor online ini gratis?</h3>
+      <p>Ya: gratis, tanpa daftar, dan tanpa watermark. Unggah foto, terapkan efek, lalu unduh PNG.</p>
+      <h3>Apakah foto saya diunggah ke server?</h3>
+      <p>Tidak. Editor berjalan di browser: gambar diproses di perangkat Anda dan langsung diunduh sebagai PNG.</p>
+      <h3>Efek mana yang sebaiknya dipilih?</h3>
+      <p>Gaussian untuk blur halus, Pixel untuk menyensor wajah atau tulisan, Motion untuk efek gerak.</p>
+      
+    </section>
+    
+  </div>
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"WebPage","name":"Blur foto online gratis — dan cara blur latar belakang saja","description":"Blur seluruh foto online gratis (Gaussian, Pixel, Motion) lalu unduh PNG. Mau blur latar belakang saja dan subjek tetap tajam? Pakai aplikasi gratis di iPhone.","url":"https://makeblur.com/id/blur-foto-online-editor.html","inLanguage":"id"}
+  </script>
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Bisakah blur latar belakang saja secara online?","acceptedAnswer":{"@type":"Answer","text":"Editor ini memburamkan seluruh foto. Untuk blur latar belakang saja dan menjaga orangnya tetap tajam, pakai aplikasi MakeBlur di iPhone: subjek terdeteksi otomatis dan foto diproses di perangkat."}},{"@type":"Question","name":"Apakah editor online ini gratis?","acceptedAnswer":{"@type":"Answer","text":"Ya: gratis, tanpa daftar, dan tanpa watermark. Unggah foto, terapkan efek, lalu unduh PNG."}},{"@type":"Question","name":"Apakah foto saya diunggah ke server?","acceptedAnswer":{"@type":"Answer","text":"Tidak. Editor berjalan di browser: gambar diproses di perangkat Anda dan langsung diunduh sebagai PNG."}},{"@type":"Question","name":"Efek mana yang sebaiknya dipilih?","acceptedAnswer":{"@type":"Answer","text":"Gaussian untuk blur halus, Pixel untuk menyensor wajah atau tulisan, Motion untuk efek gerak."}}]}
+  </script>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L321DN9X6C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L321DN9X6C');
+</script>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=105338905', 'ym');
+
+    ym(105338905, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/105338905" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+  <script>
+    const imageInput=document.getElementById("imageInput"),canvas=document.getElementById("editorCanvas"),ctx=canvas.getContext("2d"),placeholder=document.getElementById("placeholder"),canvasWrap=document.querySelector(".canvas-wrap"),filterList=document.getElementById("filterList"),strengthRange=document.getElementById("strengthRange"),strengthValue=document.getElementById("strengthValue"),downloadPngBtn=document.getElementById("downloadPngBtn");
+    let originalImage=null,activeFilter="gaussian",strength=Number(strengthRange.value);
+    function clamp(v,min,max){return Math.min(max,Math.max(min,v))}
+    function fitCanvasToImage(img){const maxW=900,maxH=1200;let w=img.naturalWidth,h=img.naturalHeight;const scale=Math.min(maxW/w,maxH/h,1);canvas.width=Math.round(w*scale);canvas.height=Math.round(h*scale)}
+    function drawGaussian(img,amount){const blurPx=(amount/100)*22;ctx.save();ctx.filter="blur("+blurPx.toFixed(1)+"px)";ctx.drawImage(img,0,0,canvas.width,canvas.height);ctx.restore()}
+    function drawPixel(img,amount){const downscale=clamp(1-amount/100,.06,1),w=Math.max(1,Math.round(canvas.width*downscale)),h=Math.max(1,Math.round(canvas.height*downscale));const off=document.createElement("canvas");off.width=w;off.height=h;const octx=off.getContext("2d");octx.drawImage(img,0,0,w,h);ctx.imageSmoothingEnabled=false;ctx.drawImage(off,0,0,w,h,0,0,canvas.width,canvas.height);ctx.imageSmoothingEnabled=true}
+    function drawMotion(img,amount){const maxOffset=2+(amount/100)*32,samples=14;ctx.save();ctx.globalAlpha=1/samples;for(let i=0;i<samples;i++){const t=i/(samples-1),offset=-maxOffset/2+t*maxOffset;ctx.drawImage(img,offset,0,canvas.width,canvas.height)}ctx.restore()}
+    function render(){if(!originalImage)return;ctx.clearRect(0,0,canvas.width,canvas.height);if(activeFilter==="gaussian")drawGaussian(originalImage,strength);else if(activeFilter==="pixel")drawPixel(originalImage,strength);else if(activeFilter==="motion")drawMotion(originalImage,strength)}
+    imageInput.addEventListener("change",(e)=>{const file=e.target.files&&e.target.files[0];if(!file)return;const url=URL.createObjectURL(file),img=new Image();img.onload=()=>{originalImage=img;fitCanvasToImage(img);canvas.style.display="block";placeholder.style.display="none";canvasWrap.classList.remove("is-clickable");downloadPngBtn.disabled=false;render();URL.revokeObjectURL(url)};img.src=url});
+    canvasWrap.classList.add("is-clickable");
+    canvasWrap.addEventListener("click",()=>{if(!originalImage)imageInput.click()});
+    filterList.addEventListener("click",(e)=>{const button=e.target.closest(".chip");if(!button)return;activeFilter=button.dataset.filter;for(const chip of filterList.querySelectorAll(".chip"))chip.classList.toggle("active",chip===button);render()});
+    strengthRange.addEventListener("input",()=>{strength=Number(strengthRange.value);strengthValue.textContent=String(strength);render()});
+    downloadPngBtn.addEventListener("click",()=>{if(!originalImage)return;const pngData=canvas.toDataURL("image/png"),link=document.createElement("a");link.href=pngData;link.download="edited-photo.png";link.click()});
+  </script>
+</body>
+</html>

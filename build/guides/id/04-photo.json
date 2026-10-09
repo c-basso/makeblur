@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "cara-membuat-foto-blur-di-iphone.html",
+    "keyword": "cara membuat foto blur di iPhone",
+    "cluster": "photo",
+    "card_title": "Cara membuat seluruh foto blur di iPhone",
+    "card_excerpt": "Seluruh foto buram lembut: untuk wallpaper, latar story, atau gambar abstrak. Di iPhone dan online.",
+    "card_image": "/img/appstore/id/06-ghost.webp",
+    "card_image_alt": "Seluruh foto diburamkan dengan gaya Ghosting",
+    "meta_title": "Cara membuat foto blur di iPhone: seluruh foto dalam detik",
+    "meta_description": "Cara membuat seluruh foto blur di iPhone untuk wallpaper, latar story, atau gambar abstrak: gaya Gaussian, Motion, Ghosting, plus cara blur foto online.",
+    "h1": "Cara membuat seluruh foto blur di iPhone",
+    "answer": "Untuk memburamkan seluruh foto, buka foto di MakeBlur, pilih tab Full Photo dan satu gaya — Gaussian untuk halus, Motion untuk gerak, Ghosting untuk dreamy — lalu naikkan Radius. Ketuk Save. Tanpa instal, editor blur online di situs ini juga bisa memburamkan seluruh foto.",
+    "intro": "Kadang yang dibutuhkan bukan blur latar di belakang orang, tapi seluruh gambar: wallpaper layar kunci, latar teks di story, cover abstrak, atau “teaser” sebelum foto asli diposting. Ini blur paling sederhana — tidak perlu mengenali subjek.",
+    "image": "/img/appstore/id/06-ghost.webp",
+    "image_alt": "Tab Full Photo dengan gaya Ghosting, Radius 79",
+    "native": {
+      "heading": "Bisakah app Foto membuat foto blur?",
+      "paragraphs": [
+        "Tidak: filter dan pengaturan di app Foto tidak punya blur. Layar kunci iOS bisa memburamkan wallpaper di bawah widget, tapi itu efek sistem, bukan gambar baru yang bisa dibagikan."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaya mana untuk apa",
+        "paragraphs": [
+          "Gaussian: lembut merata, terbaik untuk latar teks. Motion: kesan cepat, cocok untuk cover bertema olahraga. Ghosting: efek bayangan dreamy seperti di screenshot “Suasana bokeh yang lembut” (Radius 79). Pixelate dan Crystallize: mosaik abstrak."
+        ]
+      },
+      {
+        "heading": "Versi online",
+        "paragraphs": [
+          "Situs ini punya editor blur online gratis: unggah foto, pilih Gaussian, Pixel, atau Motion, lalu simpan sebagai PNG. Editor ini hanya memburamkan seluruh foto; untuk blur latar atau wajah saja, perlu aplikasinya."
+        ]
+      }
+    ],
+    "steps_title": "Blur seluruh foto di aplikasi",
+    "steps": [
+      {
+        "title": "Buka foto",
+        "description": "Pilih foto di MakeBlur."
+      },
+      {
+        "title": "Tab Full Photo",
+        "description": "Efek diterapkan ke seluruh bingkai."
+      },
+      {
+        "title": "Gaya dan Radius",
+        "description": "Gaussian, Motion, atau Ghosting dengan kekuatan yang diinginkan."
+      },
+      {
+        "title": "Save",
+        "description": "Salinan blur muncul di galeri."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Untuk latar teks, pilih foto yang berwarna: setelah diblur tersisa gradasi warna yang cantik.",
+      "Wallpaper layar kunci: Gaussian kuat membuat jam dan ikon mudah dibaca.",
+      "Teaser: posting versi blur dulu, foto asli kemudian."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Bagaimana cara blur foto online?",
+        "answer": "Pakai editor blur online gratis di situs ini: unggah foto, pilih gaya dan kekuatan, simpan PNG. Editor ini memburamkan seluruh gambar."
+      },
+      {
+        "question": "Apa beda Full Photo dan Background?",
+        "answer": "Full Photo memburamkan seluruh foto, Background hanya memburamkan latar dan menjaga subjek tetap tajam."
+      },
+      {
+        "question": "Apakah resolusinya turun?",
+        "answer": "Tidak, salinan disimpan dalam ukuran asli."
+      }
+    ],
+    "related": [
+      "blur-foto.html",
+      "gaussian-blur-iphone.html",
+      "efek-motion-blur-foto.html",
+      "efek-bokeh-iphone.html"
+    ],
+    "cta_title": "Foto blur dalam hitungan detik",
+    "cta_body": "Unduh «Blur Foto Latar Belakang», pilih Full Photo dan satu gaya. Gratis, tanpa unggah ke cloud.",
+    "cta_text": "Unduh di App Store"
+  },
+  {
+    "slug": "blur-foto.html",
+    "keyword": "blur foto",
+    "cluster": "photo",
+    "card_title": "Blur foto: semua jenis efek blur",
+    "card_excerpt": "Apa itu blur, gaya apa saja yang ada, dan mana yang dipilih untuk latar, wajah, atau seluruh foto.",
+    "card_image": "/img/appstore/id/02-motion.webp",
+    "card_image_alt": "Efek blur di foto iPhone",
+    "meta_title": "Blur foto di iPhone: jenis efek blur dan cara membuatnya",
+    "meta_description": "Blur foto adalah efek yang membuat foto atau sebagiannya kurang tajam. Cara blur latar, wajah, sebagian, atau seluruh foto di iPhone: Gaussian, Motion, Pixel.",
+    "h1": "Blur foto: apa itu dan cara membuatnya di iPhone",
+    "answer": "Blur adalah efek yang membuat foto atau sebagian foto kurang tajam. Di iPhone, blur foto dengan MakeBlur: pilih area (Background untuk latar, Faces untuk wajah, Manual untuk satu area, Full Photo untuk seluruh gambar), pilih gaya seperti Gaussian, Motion, atau Ghosting, atur Radius, lalu ketuk Save.",
+    "intro": "Orang yang mencari “blur foto” hampir selalu punya salah satu dari empat tujuan: latar lembut di belakang orang, menyensor wajah, menutupi area berisi tulisan atau plat nomor, atau memburamkan seluruh foto. Untuk foto biasa, editor bawaan iPhone tidak bisa melakukan satu pun.",
+    "image": "/img/appstore/id/02-motion.webp",
+    "image_alt": "Gaya Motion: blur latar belakang",
+    "native": {
+      "heading": "Apa yang ada di iPhone",
+      "paragraphs": [
+        "Blur latar: hanya mode Potret, saat memotret. Kuas blur di app Foto: tidak ada. Markup: pena dan bentuk untuk menutup, bukan blur. Clean Up (Apple Intelligence): menghapus objek, perlu iPhone 15 Pro ke atas, belum berbahasa Indonesia."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Jenis-jenis blur",
+        "paragraphs": [
+          "Gaussian: blur halus natural. Motion: jejak gerak yang arahnya bisa diatur. Ghosting: efek bayangan dreamy. Box: blur merata. Pixelate, Hexagonal, dan Crystallize: mosaik untuk sensor privasi atau efek grafis."
+        ]
+      },
+      {
+        "heading": "Di mana diterapkan",
+        "paragraphs": [
+          "Background menjaga subjek tetap tajam dan memburamkan latar. Faces memburamkan semua wajah. Manual memburamkan area yang Anda warnai. Full Photo memburamkan seluruh foto. Bisa untuk foto kamera, screenshot, dan gambar dari WhatsApp atau Telegram yang tersimpan di galeri."
+        ]
+      }
+    ],
+    "steps_title": "Blur foto di aplikasi",
+    "steps": [
+      {
+        "title": "Buka foto atau screenshot",
+        "description": "Pilih di MakeBlur."
+      },
+      {
+        "title": "Pilih mode",
+        "description": "Background, Faces, Manual, atau Full Photo."
+      },
+      {
+        "title": "Gaya dan Radius",
+        "description": "Jenis blur dan kekuatannya."
+      },
+      {
+        "title": "Save",
+        "description": "Salinan dengan efek tersimpan di galeri."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Untuk estetika: Gaussian atau Ghosting; untuk privasi: Pixelate.",
+      "Gabungkan mode: Background untuk latar dulu, lalu Manual untuk detail yang mengganggu.",
+      "Simpan beberapa kekuatan dan pilih yang terbaik."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Bisa blur foto tanpa aplikasi?",
+        "answer": "Untuk foto biasa, app Foto tidak bisa. Anda bisa menutup dengan bentuk di Markup, atau memburamkan seluruh foto dengan editor online di situs ini."
+      },
+      {
+        "question": "Bisa blur screenshot?",
+        "answer": "Bisa, screenshot dibuka di aplikasi seperti foto biasa."
+      },
+      {
+        "question": "Gratis?",
+        "answer": "Unduhannya gratis dan blur dasar sudah ada; gaya lanjutan bisa dibuka lewat pembelian di app."
+      }
+    ],
+    "related": [
+      "cara-membuat-foto-blur-di-iphone.html",
+      "cara-blur-latar-belakang-foto-iphone.html",
+      "blur-sebagian-foto-iphone.html",
+      "efek-motion-blur-foto.html"
+    ],
+    "cta_title": "Blur foto dalam semenit",
+    "cta_body": "Unduh «Blur Foto Latar Belakang» dan blur latar, wajah, atau seluruh foto. Gratis, iPhone iOS 18.6.",
+    "cta_text": "Unduh di App Store"
+  }
+]

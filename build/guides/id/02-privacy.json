@@ -1,0 +1,428 @@
+[
+  {
+    "slug": "cara-blur-wajah-di-iphone.html",
+    "keyword": "cara blur wajah di iPhone",
+    "cluster": "privacy",
+    "card_title": "Cara blur wajah di iPhone",
+    "card_excerpt": "Sensor wajah orang asing, anak-anak, atau rekan kerja sebelum posting — semua wajah sekali ketuk.",
+    "card_image": "/img/appstore/id/03-face.webp",
+    "card_image_alt": "Wajah-wajah di foto diburamkan",
+    "meta_title": "Cara blur wajah di iPhone dengan satu ketukan, gratis",
+    "meta_description": "Cara blur wajah atau muka di foto iPhone sebelum diunggah ke Instagram atau WhatsApp: tab Faces menemukan semua wajah, pilih gaya blur, lalu simpan. Gratis.",
+    "h1": "Cara blur wajah di foto iPhone",
+    "answer": "Untuk blur wajah, buka foto di MakeBlur dan pilih tab Faces: aplikasi menemukan semua wajah di foto dan memburamkannya sekaligus. Pilih Gaussian atau Pixelate, naikkan Radius sampai wajah tidak dikenali, lalu ketuk Save. Untuk menyensor satu orang saja, pakai tab Manual dan warnai wajahnya.",
+    "intro": "Foto acara, foto kelas, atau foto jalanan sering memuat orang yang tidak ingin muncul di internet — orang asing, anak-anak, rekan kerja. Menyensor wajah sebelum posting adalah bentuk sopan santun dan menghindari masalah. Di iPhone, cara tercepat adalah membiarkan aplikasi menemukan wajah sendiri.",
+    "image": "/img/appstore/id/03-face.webp",
+    "image_alt": "Tab Faces: semua wajah yang ditemukan diburamkan",
+    "native": {
+      "heading": "Apakah iPhone punya fitur blur wajah?",
+      "paragraphs": [
+        "Tidak ada alat blur khusus. Markup bisa menggambar bentuk atau mencoret wajah — tertutup, tapi kasar. Clean Up dari Apple Intelligence bisa menambahkan mosaik saat Anda melingkari wajah, tapi perlu iPhone 15 Pro ke atas, belum mendukung Bahasa Indonesia, dan hanya satu wajah per kali."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian atau Pixelate?",
+        "paragraphs": [
+          "Gaussian dengan Radius tinggi terlihat halus, cocok untuk media sosial. Pixelate (mosaik) jelas terlihat “disensor”, cocok untuk foto yang privasinya harus terjamin. Untuk wajah kecil di kejauhan, keduanya perlu Radius yang cukup besar."
+        ]
+      },
+      {
+        "heading": "Sensor sebagian orang saja",
+        "paragraphs": [
+          "Faces memburamkan semua orang. Kalau mau wajah Anda tetap terlihat dan hanya menyensor orang lain, pakai Manual: perbesar lalu warnai wajah yang perlu disensor satu per satu."
+        ]
+      }
+    ],
+    "steps_title": "Blur wajah di aplikasi",
+    "steps": [
+      {
+        "title": "Buka foto",
+        "description": "Pilih foto dengan wajah yang perlu disensor."
+      },
+      {
+        "title": "Tab Faces",
+        "description": "Semua wajah ditemukan dan diburamkan."
+      },
+      {
+        "title": "Gaya dan Radius",
+        "description": "Gaussian atau Pixelate, naikkan sampai tidak dikenali."
+      },
+      {
+        "title": "Save",
+        "description": "Unggah salinan yang sudah disensor."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Perbesar untuk mengecek wajah kecil di tepi foto.",
+      "Kalau ada anak-anak, sensor juga nama sekolah di seragam atau name tag.",
+      "Foto asli tetap di galeri — bagikan hanya versi yang disensor."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Apakah wajah miring atau kecil ikut terdeteksi?",
+        "answer": "Biasanya ya, tapi tetap cek. Yang terlewat bisa diwarnai dengan Manual."
+      },
+      {
+        "question": "Bisa blur wajah di video?",
+        "answer": "Tidak, aplikasi ini hanya untuk foto."
+      },
+      {
+        "question": "Bisakah orang lain “membuka” blurnya?",
+        "answer": "File yang disimpan adalah gambar baru, piksel aslinya sudah diganti. Dengan Pixelate dan Radius tinggi, detail wajah tidak lagi ada di gambar."
+      }
+    ],
+    "related": [
+      "blur-sebagian-foto-iphone.html",
+      "efek-mosaik-foto-iphone.html",
+      "sensor-tulisan-screenshot.html",
+      "sensor-plat-nomor-foto.html"
+    ],
+    "cta_title": "Sensor wajah dalam hitungan detik",
+    "cta_body": "Unduh «Blur Foto Latar Belakang», buka tab Faces, lalu simpan. Gratis, foto tidak keluar dari iPhone.",
+    "cta_text": "Unduh di App Store"
+  },
+  {
+    "slug": "blur-sebagian-foto-iphone.html",
+    "keyword": "blur sebagian foto di iPhone",
+    "cluster": "privacy",
+    "card_title": "Blur sebagian foto di iPhone",
+    "card_excerpt": "Usapkan jari di area yang mau disensor: tulisan, nomor rumah, orang asing, barang.",
+    "card_image": "/img/appstore/id/05-crystalize.webp",
+    "card_image_alt": "Satu area foto diburamkan dengan kuas",
+    "meta_title": "Cara blur sebagian foto di iPhone pakai jari, gratis",
+    "meta_description": "Cara blur sebagian foto di iPhone: usapkan jari di area yang mau disensor lalu pilih Gaussian atau Pixelate. Untuk tulisan, nomor rumah, resi, atau orang asing.",
+    "h1": "Blur sebagian foto di iPhone",
+    "answer": "Untuk blur sebagian foto saja, buka foto di MakeBlur, pilih tab Manual, lalu usapkan jari di area yang ingin disensor. Pilih gaya — Gaussian untuk halus, Pixelate untuk sensor yang pasti — atur Radius, lalu ketuk Save. Hanya area yang diwarnai yang diblur.",
+    "intro": "Sering kali seluruh foto sudah bagus, hanya ada satu detail yang tidak boleh terlihat: nomor rumah, nama di resi paket, layar laptop, atau orang asing di pojok foto. Kuas memungkinkan Anda memburamkan bagian itu saja tanpa mengubah sisanya.",
+    "image": "/img/appstore/id/05-crystalize.webp",
+    "image_alt": "Area yang diwarnai berubah jadi mosaik Crystallize",
+    "native": {
+      "heading": "Bisakah dengan app Foto?",
+      "paragraphs": [
+        "Tidak secara langsung. Markup punya pena dan bentuk untuk menutup, tapi tidak bisa memburamkan atau memberi efek piksel. Stabilo yang semi-transparan kadang masih memperlihatkan tulisan di bawahnya."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Mewarnai dengan presisi",
+        "paragraphs": [
+          "Perbesar dengan dua jari sebelum mewarnai area kecil. Warnai sedikit lebih luas dari detailnya agar tepi blur tidak memperlihatkan karakter."
+        ]
+      },
+      {
+        "heading": "Kombinasi dengan blur latar",
+        "paragraphs": [
+          "Anda bisa blur latar dengan Background, simpan, lalu buka salinan itu dan sensor detail tambahan dengan Manual."
+        ]
+      }
+    ],
+    "steps_title": "Blur satu area",
+    "steps": [
+      {
+        "title": "Buka foto",
+        "description": "Pilih dari galeri."
+      },
+      {
+        "title": "Tab Manual",
+        "description": "Warnai area yang mau diblur."
+      },
+      {
+        "title": "Gaya dan Radius",
+        "description": "Gaussian, Pixelate, atau Box."
+      },
+      {
+        "title": "Save",
+        "description": "Simpan salinan."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Tulisan dan angka: pakai Pixelate atau Box dengan Radius tinggi.",
+      "Orang asing di latar: Gaussian terlihat lebih natural.",
+      "Cek pantulan di kaca dan cermin."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Kalau salah mewarnai?",
+        "answer": "Sebelum disimpan, foto asli tidak berubah — ulangi saja."
+      },
+      {
+        "question": "Bisa blur beberapa area sekaligus?",
+        "answer": "Bisa, warnai semua area lalu simpan sekali."
+      },
+      {
+        "question": "Bisa untuk screenshot?",
+        "answer": "Bisa, screenshot dibuka seperti foto biasa."
+      }
+    ],
+    "related": [
+      "sensor-tulisan-screenshot.html",
+      "sensor-plat-nomor-foto.html",
+      "cara-blur-wajah-di-iphone.html",
+      "efek-mosaik-foto-iphone.html"
+    ],
+    "cta_title": "Sensor tepat di tempatnya",
+    "cta_body": "Unduh «Blur Foto Latar Belakang», buka Manual, dan warnai. Gratis, tanpa unggah ke cloud.",
+    "cta_text": "Unduh di App Store"
+  },
+  {
+    "slug": "sensor-plat-nomor-foto.html",
+    "keyword": "cara sensor plat nomor di foto",
+    "cluster": "privacy",
+    "card_title": "Cara sensor plat nomor di foto",
+    "card_excerpt": "Untuk iklan di OLX, Mobil123, atau Facebook Marketplace: plat tidak terbaca, foto tetap rapi.",
+    "card_image": "/img/appstore/id/05-crystalize.webp",
+    "card_image_alt": "Plat nomor ditutup dengan efek piksel",
+    "meta_title": "Cara sensor plat nomor di foto mobil atau motor di iPhone",
+    "meta_description": "Cara sensor plat nomor di foto iPhone sebelum pasang iklan jual mobil atau motor di OLX, Mobil123, atau Marketplace: warnai, beri piksel, simpan. Gratis.",
+    "h1": "Cara sensor plat nomor di foto iPhone",
+    "answer": "Untuk sensor plat nomor, buka foto di MakeBlur, pilih tab Manual, warnai plat nomornya, pilih Pixelate atau Box, lalu naikkan Radius sampai tidak ada karakter yang terbaca. Ketuk Save dan pakai salinan itu untuk iklan.",
+    "intro": "Penjual mobil dan motor di OLX, Mobil123, atau Facebook Marketplace sering menyensor plat nomor untuk mengurangi risiko data kendaraan disalahgunakan atau foto iklan dicuri. Ini tidak wajib, tapi banyak yang melakukannya supaya tenang. Foto juga harus rapi: kotak hitam di bemper terlihat kurang profesional — efek piksel yang rapi menyelesaikan keduanya.",
+    "image": "/img/appstore/id/05-crystalize.webp",
+    "image_alt": "Memberi efek piksel pada satu area foto di aplikasi",
+    "native": {
+      "heading": "Bisakah dengan app Foto?",
+      "paragraphs": [
+        "Markup bisa menggambar bentuk di atas plat. Platnya tertutup, tapi tambalannya mencolok, dan pena semi-transparan kadang masih memperlihatkan karakter. App Foto tidak bisa memburamkan atau memberi efek piksel pada satu area."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Piksel atau blur?",
+        "paragraphs": [
+          "Untuk plat nomor, Pixelate atau Box dengan Radius tinggi paling aman — kotak besar menghapus bentuk huruf. Gaussian tipis bisa membuat nomor masih bisa ditebak, terutama di foto resolusi tinggi.",
+          "Crystallize juga menutup, tapi terlihat dekoratif; untuk iklan, piksel netral lebih cocok."
+        ]
+      },
+      {
+        "heading": "Kalau fotonya banyak",
+        "paragraphs": [
+          "Iklan biasanya punya 10–20 foto, plat terlihat di beberapa saja. Proses satu per satu: buka, Manual, warnai, Save — sekitar setengah menit per foto. Cek juga pantulan di kaca dan foto STNK."
+        ]
+      }
+    ],
+    "steps_title": "Sensor plat nomor di aplikasi",
+    "steps": [
+      {
+        "title": "Buka foto kendaraan",
+        "description": "Pilih foto yang memperlihatkan plat."
+      },
+      {
+        "title": "Tab Manual",
+        "description": "Perbesar dan warnai seluruh plat, sedikit lebih luas."
+      },
+      {
+        "title": "Pixelate dan Radius",
+        "description": "Naikkan sampai tidak terbaca walau diperbesar."
+      },
+      {
+        "title": "Save",
+        "description": "Unggah salinannya ke iklan."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Tutup seluruh plat, bukan hanya angkanya — kode wilayah juga memberi informasi.",
+      "Mobil punya plat depan dan belakang; motor juga punya keduanya — cek semua foto.",
+      "Kalau ada STNK atau nomor rangka di foto, sensor juga — kecuali memang mau ditampilkan."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Apakah wajib sensor plat nomor di iklan?",
+        "answer": "Tidak, banyak penjual melakukannya untuk menghindari penyalahgunaan data. Ini bukan nasihat hukum."
+      },
+      {
+        "question": "Bagaimana kalau pembeli butuh nomornya?",
+        "answer": "Setelah pembeli serius menghubungi, Anda bisa memberikan info yang diperlukan secara pribadi."
+      },
+      {
+        "question": "Apakah foto diunggah ke mana-mana?",
+        "answer": "Tidak, semua diproses di iPhone."
+      }
+    ],
+    "related": [
+      "blur-sebagian-foto-iphone.html",
+      "efek-mosaik-foto-iphone.html",
+      "sensor-tulisan-screenshot.html",
+      "cara-blur-wajah-di-iphone.html"
+    ],
+    "cta_title": "Iklan rapi, plat tertutup",
+    "cta_body": "Unduh «Blur Foto Latar Belakang», warnai plat, dan simpan. Gratis, foto tidak keluar dari iPhone.",
+    "cta_text": "Unduh di App Store"
+  },
+  {
+    "slug": "sensor-tulisan-screenshot.html",
+    "keyword": "cara sensor tulisan di screenshot",
+    "cluster": "privacy",
+    "card_title": "Cara sensor tulisan di screenshot",
+    "card_excerpt": "Bukti transfer, chat WhatsApp, nomor rekening: disensor dengan cara yang tidak bisa dibuka.",
+    "card_image": "/img/appstore/id/05-crystalize.webp",
+    "card_image_alt": "Tulisan di screenshot diberi efek piksel",
+    "meta_title": "Cara sensor tulisan di screenshot iPhone dengan aman",
+    "meta_description": "Cara sensor nomor rekening, nomor HP, dan chat di screenshot atau bukti transfer di iPhone: efek piksel yang tidak terbuka walau kecerahan dinaikkan. Gratis.",
+    "h1": "Cara sensor tulisan di screenshot iPhone",
+    "answer": "Untuk sensor tulisan di screenshot, buka screenshot di MakeBlur, pilih tab Manual, warnai baris yang ingin disembunyikan, pilih Pixelate, dan naikkan Radius. Ketuk Save lalu kirim salinannya. Perbesar untuk memastikan tidak ada karakter yang terbaca.",
+    "intro": "Screenshot bukti transfer, pesanan, atau chat WhatsApp sering memuat nomor rekening, nomor HP, alamat, serta nama dan foto profil orang lain. Sebelum mengirim atau memposting, sensor baris-baris itu — dan lakukan dengan benar, karena stabilo semi-transparan bisa “terbuka” saat kecerahan dinaikkan.",
+    "image": "/img/appstore/id/05-crystalize.webp",
+    "image_alt": "Efek piksel pada area tulisan",
+    "native": {
+      "heading": "Apakah Markup aman?",
+      "paragraphs": [
+        "Pena biasa dengan opasitas 100% yang menutup penuh memang bisa. Tapi stabilo semi-transparan: dengan menaikkan kecerahan dan kontras, tulisannya bisa terbaca lagi. Efek piksel mengganti detail sepenuhnya dengan kotak warna, jadi tidak bisa dikembalikan."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Apa saja yang perlu disensor",
+        "paragraphs": [
+          "Nomor rekening dan kartu, kode transaksi, nomor HP, alamat, nama dan foto profil orang lain di chat. Jangan lupa status bar di atas dan notifikasi yang muncul."
+        ]
+      },
+      {
+        "heading": "Sensor tanpa merusak isi",
+        "paragraphs": [
+          "Warnai hanya baris yang perlu disembunyikan, agar isi yang ingin dibagikan tetap jelas. Box memberi kotak rapi yang cocok untuk screenshot."
+        ]
+      }
+    ],
+    "steps_title": "Sensor screenshot di aplikasi",
+    "steps": [
+      {
+        "title": "Buka screenshot",
+        "description": "Pilih dari galeri."
+      },
+      {
+        "title": "Tab Manual",
+        "description": "Perbesar, warnai baris yang mau disembunyikan."
+      },
+      {
+        "title": "Pixelate",
+        "description": "Naikkan Radius sampai tidak terbaca."
+      },
+      {
+        "title": "Save",
+        "description": "Kirim salinan yang sudah disensor."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Warnai sedikit lebih lebar dari baris tulisan.",
+      "Di screenshot grup chat, cek nama dan foto profil orang lain.",
+      "Hapus screenshot asli kalau sudah tidak diperlukan."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Bisakah tulisan yang dipiksel dikembalikan?",
+        "answer": "Dengan Radius cukup besar, kotak piksel lebih besar dari karakter, jadi detailnya tidak lagi ada di gambar."
+      },
+      {
+        "question": "Apakah Gaussian blur cukup?",
+        "answer": "Untuk tulisan, Pixelate atau Box lebih aman; Gaussian tipis kadang masih bisa ditebak."
+      },
+      {
+        "question": "Perlu internet?",
+        "answer": "Tidak, aplikasi memproses di perangkat."
+      }
+    ],
+    "related": [
+      "blur-sebagian-foto-iphone.html",
+      "efek-mosaik-foto-iphone.html",
+      "sensor-plat-nomor-foto.html",
+      "cara-blur-wajah-di-iphone.html"
+    ],
+    "cta_title": "Kirim screenshot dengan tenang",
+    "cta_body": "Unduh «Blur Foto Latar Belakang», warnai dan beri piksel dalam hitungan detik. Gratis, di perangkat.",
+    "cta_text": "Unduh di App Store"
+  },
+  {
+    "slug": "efek-mosaik-foto-iphone.html",
+    "keyword": "cara mosaik foto di iPhone",
+    "cluster": "privacy",
+    "card_title": "Efek mosaik dan piksel foto di iPhone",
+    "card_excerpt": "Kotak, heksagon, atau kristal: untuk menyensor detail atau efek artistik.",
+    "card_image": "/img/appstore/id/05-crystalize.webp",
+    "card_image_alt": "Efek mosaik Crystallize di foto",
+    "meta_title": "Cara mosaik foto di iPhone: piksel, heksagon, dan kristal",
+    "meta_description": "Cara mosaik atau piksel foto di iPhone: sensor wajah, tulisan, dan plat nomor, atau buat efek artistik dengan Pixelate, Hexagonal, dan Crystallize. Gratis.",
+    "h1": "Cara mosaik dan piksel foto di iPhone",
+    "answer": "Untuk memberi efek mosaik, buka foto di MakeBlur, pilih area (Faces, Manual, Background, atau Full Photo), pilih Pixelate (kotak), Hexagonal (heksagon), atau Crystallize (kristal), dan atur ukuran mosaik dengan Radius. Ketuk Save.",
+    "intro": "Mosaik adalah cara sensor yang paling dikenal di berita dan TV: semua orang langsung paham detailnya disembunyikan. Mosaik juga bisa jadi efek artistik untuk wallpaper, cover, atau postingan. Di iPhone, keduanya bisa dilakukan tanpa komputer.",
+    "image": "/img/appstore/id/05-crystalize.webp",
+    "image_alt": "Gaya Crystallize mengubah latar jadi mosaik",
+    "native": {
+      "heading": "Apakah iPhone punya efek mosaik bawaan?",
+      "paragraphs": [
+        "App Foto tidak punya filter mosaik. Clean Up dari Apple Intelligence bisa memberi mosaik pada wajah yang Anda lingkari, tapi perlu iPhone 15 Pro ke atas dan tidak bisa memilih gaya atau ukuran kotak."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Tiga gaya mosaik",
+        "paragraphs": [
+          "Pixelate: kotak klasik, sensor paling pasti. Hexagonal: sel heksagon, lebih modern. Crystallize: pecahan kristal tidak beraturan, bagus untuk efek artistik. Makin besar Radius, makin besar selnya."
+        ]
+      },
+      {
+        "heading": "Mosaik untuk privasi dan seni",
+        "paragraphs": [
+          "Privasi: Faces atau Manual + Pixelate dengan Radius tinggi. Seni: Background + Crystallize agar subjek tajam di atas latar mosaik, atau Full Photo untuk gambar abstrak."
+        ]
+      }
+    ],
+    "steps_title": "Membuat mosaik di aplikasi",
+    "steps": [
+      {
+        "title": "Buka foto",
+        "description": "Pilih dari galeri."
+      },
+      {
+        "title": "Pilih area",
+        "description": "Faces, Manual, Background, atau Full Photo."
+      },
+      {
+        "title": "Gaya mosaik",
+        "description": "Pixelate, Hexagonal, atau Crystallize; atur Radius."
+      },
+      {
+        "title": "Save",
+        "description": "Simpan salinan."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Agar sensor benar-benar aman, kotak mosaik harus lebih besar dari detail yang disembunyikan.",
+      "Crystallize di Full Photo cocok untuk wallpaper abstrak.",
+      "Perbesar dan cek sekali lagi sebelum posting."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Apa beda mosaik dan blur?",
+        "answer": "Blur melembutkan detail; mosaik menggantinya dengan kotak warna, sensornya lebih tegas."
+      },
+      {
+        "question": "Bisa mosaik seluruh foto?",
+        "answer": "Bisa, pakai Full Photo."
+      },
+      {
+        "question": "Apakah foto diunggah ke server?",
+        "answer": "Tidak, semua diproses di iPhone tanpa internet."
+      }
+    ],
+    "related": [
+      "cara-blur-wajah-di-iphone.html",
+      "sensor-tulisan-screenshot.html",
+      "sensor-plat-nomor-foto.html",
+      "blur-foto.html"
+    ],
+    "cta_title": "Mosaik dengan satu ketukan",
+    "cta_body": "Unduh «Blur Foto Latar Belakang» dan coba Pixelate, Hexagonal, Crystallize. Gratis, di perangkat.",
+    "cta_text": "Unduh di App Store"
+  }
+]

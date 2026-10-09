@@ -1,0 +1,345 @@
+[
+  {
+    "slug": "cara-blur-latar-belakang-foto-iphone.html",
+    "keyword": "cara blur latar belakang foto di iPhone",
+    "cluster": "background",
+    "card_title": "Cara blur latar belakang foto di iPhone",
+    "card_excerpt": "Subjek tajam, latar lembut — untuk foto apa pun, termasuk yang tidak diambil dengan mode Potret.",
+    "card_image": "/img/appstore/id/04-box.webp",
+    "card_image_alt": "Perempuan tetap tajam, latar dinding bata diburamkan di iPhone",
+    "meta_title": "Cara blur latar belakang foto di iPhone: 3 langkah, gratis",
+    "meta_description": "Cara blur latar belakang foto di iPhone, juga foto yang sudah diambil: aplikasi mendeteksi subjek, Anda atur intensitas lalu simpan. Tanpa mode Potret, gratis.",
+    "h1": "Cara blur latar belakang foto di iPhone",
+    "answer": "Untuk blur latar belakang foto di iPhone, buka foto di MakeBlur, biarkan tab Background agar subjek terdeteksi otomatis, pilih gaya Gaussian, lalu geser Radius sampai latar cukup lembut. Ketuk Save — salinan yang sudah diblur tersimpan di app Foto, foto asli tidak berubah.",
+    "intro": "Latar belakang blur membuat orang atau objek utama menonjol, seperti foto dari kamera dengan bukaan lensa besar. iPhone bisa melakukannya saat Anda memotret dengan mode Potret — tapi tidak untuk foto biasa yang sudah diambil, screenshot, atau gambar kiriman teman di WhatsApp. Panduan ini menjelaskan cara blur latar belakang untuk foto apa pun di galeri.",
+    "image": "/img/appstore/id/04-box.webp",
+    "image_alt": "Tab Background dengan gaya Box: subjek tajam, latar blur",
+    "native": {
+      "heading": "Apakah iPhone punya fitur blur latar bawaan?",
+      "paragraphs": [
+        "Ada, tapi hanya saat memotret: mode Potret di Kamera menyimpan data kedalaman, lalu tingkat blur bisa diatur di Edit pada app Foto. Di iPhone 15 ke atas, sebagian foto biasa juga otomatis menyimpan data kedalaman saat kamera mengenali orang atau hewan.",
+        "Untuk foto tanpa data kedalaman — foto lama, screenshot, gambar unduhan — app Foto tidak punya alat blur latar. Di situlah aplikasi seperti MakeBlur dibutuhkan."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaya blur mana untuk latar?",
+        "paragraphs": [
+          "Gaussian paling natural, seperti lensa yang tidak fokus — cocok untuk potret dan foto produk. Box lebih rata dan sedikit grafis. Motion mengubah latar jadi jejak gerakan. Ghosting memberi kesan dreamy.",
+          "Untuk potret, Radius sedang biasanya lebih bagus daripada maksimal: latar masih memberi konteks tapi tidak lagi berantakan."
+        ]
+      },
+      {
+        "heading": "Kalau tepi subjek kurang rapi",
+        "paragraphs": [
+          "Rambut yang tertiup angin, tangan yang memegang benda, atau subjek yang warnanya mirip latar kadang membuat tepinya kurang presisi. Menurunkan Radius sedikit membuat peralihannya lebih natural; foto dengan subjek jelas dan cahaya cukup memberi hasil terbaik."
+        ]
+      }
+    ],
+    "steps_title": "Blur latar di aplikasi",
+    "steps": [
+      {
+        "title": "Buka foto",
+        "description": "Pilih foto apa pun dari galeri di MakeBlur."
+      },
+      {
+        "title": "Tab Background",
+        "description": "Subjek terdeteksi otomatis dan tetap tajam."
+      },
+      {
+        "title": "Gaya dan Radius",
+        "description": "Pilih Gaussian, geser Radius sampai cukup lembut."
+      },
+      {
+        "title": "Save",
+        "description": "Salinan dengan latar blur tersimpan di app Foto."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Foto dengan jarak jelas antara subjek dan latar memberi efek paling realistis.",
+      "Simpan beberapa versi dengan Radius berbeda, lalu pilih yang terbaik.",
+      "Ada benda mengganggu di latar? Pindah ke tab Manual dan warnai area itu."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Bisakah blur latar foto yang tidak diambil dengan mode Potret?",
+        "answer": "Bisa. Aplikasi menemukan subjek sendiri di foto, tidak perlu data kedalaman."
+      },
+      {
+        "question": "Apakah foto asli berubah?",
+        "answer": "Tidak. Save membuat salinan baru, foto asli tetap di galeri."
+      },
+      {
+        "question": "Apakah perlu internet?",
+        "answer": "Tidak. Semua diproses di iPhone, foto tidak diunggah ke server."
+      }
+    ],
+    "related": [
+      "blur-foto-setelah-dipotret.html",
+      "blur-background-foto.html",
+      "aplikasi-blur-background-iphone.html",
+      "efek-bokeh-iphone.html"
+    ],
+    "cta_title": "Blur latar foto Anda sekarang",
+    "cta_body": "Unduh «Blur Foto Latar Belakang», buka foto, dan biarkan aplikasi menemukan subjeknya. Gratis, tanpa unggah ke cloud.",
+    "cta_text": "Unduh di App Store"
+  },
+  {
+    "slug": "blur-background-foto.html",
+    "keyword": "blur background foto",
+    "cluster": "background",
+    "card_title": "Blur background foto untuk profil, IG, dan jualan",
+    "card_excerpt": "Subjek menonjol di latar lembut: pilih gaya dan intensitas sesuai kebutuhan.",
+    "card_image": "/img/appstore/id/02-motion.webp",
+    "card_image_alt": "Latar foto diburamkan di belakang perempuan",
+    "meta_title": "Blur background foto di iPhone: foto profil, IG, jualan",
+    "meta_description": "Blur background foto di iPhone agar subjek menonjol: untuk foto profil WhatsApp, postingan Instagram, TikTok, atau foto produk jualan. Pilih gaya, atur, simpan.",
+    "h1": "Blur background foto di iPhone",
+    "answer": "Untuk blur background foto, buka foto di MakeBlur, biarkan tab Background, pilih gaya (Gaussian untuk natural, Box untuk rata, Motion untuk gerakan), atur Radius, lalu ketuk Save. Subjek tetap tajam, hanya latar di belakangnya yang jadi lembut.",
+    "intro": "Latar yang ramai — motor, kabel listrik, orang lewat, barang di kamar — menarik perhatian dari subjek. Blur background adalah cara tercepat membuat foto terlihat lebih profesional tanpa memotret ulang. Berikut cara memilih gaya dan intensitas untuk tiap kebutuhan.",
+    "image": "/img/appstore/id/02-motion.webp",
+    "image_alt": "Gaya Motion memburamkan latar, subjek tajam",
+    "native": {
+      "heading": "Apa yang bisa dilakukan app Foto?",
+      "paragraphs": [
+        "App Foto hanya bisa mengatur blur latar untuk foto dengan data kedalaman (mode Potret). Untuk foto biasa, Anda hanya bisa crop atau atur cahaya, tidak ada alat blur."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Intensitas sesuai kebutuhan",
+        "paragraphs": [
+          "Foto profil WhatsApp: Gaussian sedang agar wajah tetap menonjol walau tampil kecil. Foto produk untuk jualan online di Shopee atau Tokopedia: blur tipis agar produk jelas tapi suasana tetap terlihat. Foto motor, mobil, olahraga: Motion untuk kesan cepat.",
+          "Postingan Instagram dan TikTok: coba Ghosting untuk kesan dreamy, atau Box untuk tampilan modern."
+        ]
+      },
+      {
+        "heading": "Blur background banyak foto",
+        "paragraphs": [
+          "Tiap foto cukup beberapa detik: buka, cek subjek, geser slider, simpan. Pakai gaya dan Radius yang sama agar satu feed terlihat seragam."
+        ]
+      }
+    ],
+    "steps_title": "Blur background di aplikasi",
+    "steps": [
+      {
+        "title": "Buka foto",
+        "description": "Pilih dari galeri."
+      },
+      {
+        "title": "Background",
+        "description": "Aplikasi menjaga subjek tetap tajam."
+      },
+      {
+        "title": "Gaya dan intensitas",
+        "description": "Gaussian, Box, Motion, atau Ghosting; atur Radius."
+      },
+      {
+        "title": "Save",
+        "description": "Salinan tersimpan di app Foto."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Foto produk: blur tipis lebih bagus — pembeli tetap perlu lihat suasananya.",
+      "Foto profil: cek tampilannya dalam ukuran kecil sebelum dipasang.",
+      "Ingat Radius favorit Anda untuk dipakai di semua foto."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Apa beda blur background dan hapus background?",
+        "answer": "Blur background tetap mempertahankan latar tapi membuatnya lembut. Hapus background membuang latar sepenuhnya — aplikasi ini tidak melakukan itu."
+      },
+      {
+        "question": "Bisakah blur background screenshot?",
+        "answer": "Bisa, screenshot dibuka seperti foto biasa. Kalau tidak ada subjek jelas, pakai Manual atau Full Photo."
+      },
+      {
+        "question": "Apakah kualitas foto turun?",
+        "answer": "Tidak, salinan disimpan dalam ukuran asli."
+      }
+    ],
+    "related": [
+      "cara-blur-latar-belakang-foto-iphone.html",
+      "blur-foto-setelah-dipotret.html",
+      "gaussian-blur-iphone.html",
+      "efek-motion-blur-foto.html"
+    ],
+    "cta_title": "Latar lembut, subjek menonjol",
+    "cta_body": "Unduh «Blur Foto Latar Belakang» dan blur background foto yang sudah Anda punya. Gratis, iPhone iOS 18.6 ke atas.",
+    "cta_text": "Unduh di App Store"
+  },
+  {
+    "slug": "blur-foto-setelah-dipotret.html",
+    "keyword": "cara blur foto yang sudah diambil",
+    "cluster": "background",
+    "card_title": "Cara blur foto yang sudah diambil",
+    "card_excerpt": "Lupa pakai mode Potret? Foto biasa, foto lama, dan kiriman WhatsApp tetap bisa diblur.",
+    "card_image": "/img/appstore/id/04-box.webp",
+    "card_image_alt": "Foto biasa diblur latarnya setelah dipotret",
+    "meta_title": "Cara blur foto yang sudah diambil di iPhone, tanpa Potret",
+    "meta_description": "Lupa pakai mode Potret? Cara blur latar foto yang sudah diambil di iPhone: foto biasa, foto lama, dan gambar dari WhatsApp. Subjek terdeteksi otomatis, gratis.",
+    "h1": "Cara blur foto yang sudah diambil di iPhone",
+    "answer": "Foto yang tidak diambil dengan mode Potret tetap bisa diblur latarnya: buka di MakeBlur, tab Background mendeteksi subjek otomatis, pilih Gaussian, naikkan Radius, lalu ketuk Save. Tidak perlu data kedalaman dan tidak perlu memotret ulang.",
+    "intro": "Momen terbaik sering tertangkap di mode Foto biasa — atau foto itu diambil bertahun-tahun lalu, atau dikirim teman. Foto seperti ini tidak punya data kedalaman, jadi app Foto tidak bisa mengatur efek Potret. Cara di bawah ini berlaku untuk semua foto.",
+    "image": "/img/appstore/id/04-box.webp",
+    "image_alt": "Blur latar foto biasa dengan tab Background",
+    "native": {
+      "heading": "Kenapa app Foto tidak bisa blur?",
+      "paragraphs": [
+        "Efek Potret bergantung pada peta kedalaman yang direkam kamera saat memotret. Foto tanpa peta ini tidak menampilkan opsi Potret di Edit. Gambar dari WhatsApp juga biasanya sudah dikompres dan kehilangan data kedalaman."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Bagaimana aplikasi bekerja tanpa data kedalaman?",
+        "paragraphs": [
+          "MakeBlur menganalisis foto untuk memisahkan subjek — orang, hewan, atau objek utama — dari latar, lalu hanya memburamkan latarnya. Hasilnya mirip foto mode Potret, plus gaya blur yang tidak ada di Kamera."
+        ]
+      },
+      {
+        "heading": "Foto yang paling cocok",
+        "paragraphs": [
+          "Subjek jelas, cahaya cukup, dan terpisah dari latar. Foto yang sangat gelap atau subjek yang terlalu kecil bisa sulit dikenali — gunakan tab Manual untuk mewarnai area yang mau diblur."
+        ]
+      }
+    ],
+    "steps_title": "Blur foto yang sudah diambil",
+    "steps": [
+      {
+        "title": "Buka foto dari galeri",
+        "description": "Foto biasa, foto lama, atau kiriman bisa semua."
+      },
+      {
+        "title": "Background",
+        "description": "Subjek terdeteksi otomatis."
+      },
+      {
+        "title": "Gaussian dan Radius",
+        "description": "Naikkan pelan-pelan sampai pas."
+      },
+      {
+        "title": "Save",
+        "description": "Simpan salinan, foto asli tidak berubah."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Lain kali ingin foto potret, nyalakan mode Potret saat memotret — efek tambahan tetap bisa diberikan di aplikasi.",
+      "Gambar dari WhatsApp sudah dikompres: pakai Radius sedang agar tepinya lebih halus.",
+      "Di foto grup, pastikan semua orang tetap tajam."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Bisakah blur foto lama dari iPhone generasi sebelumnya?",
+        "answer": "Bisa, aplikasi tidak peduli foto diambil dengan perangkat apa."
+      },
+      {
+        "question": "Foto mode Potret juga bisa?",
+        "answer": "Bisa, dan Anda bisa menambahkan gaya seperti Motion atau Ghosting yang tidak ada di Kamera."
+      },
+      {
+        "question": "iPhone apa saja yang bisa?",
+        "answer": "Semua iPhone dengan iOS 18.6 atau lebih baru."
+      }
+    ],
+    "related": [
+      "cara-blur-latar-belakang-foto-iphone.html",
+      "aplikasi-blur-background-iphone.html",
+      "blur-background-foto.html",
+      "blur-sebagian-foto-iphone.html"
+    ],
+    "cta_title": "Tidak perlu memotret ulang",
+    "cta_body": "Unduh «Blur Foto Latar Belakang» dan blur latar foto yang sudah diambil. Gratis, diproses di perangkat.",
+    "cta_text": "Unduh di App Store"
+  },
+  {
+    "slug": "aplikasi-blur-background-iphone.html",
+    "keyword": "aplikasi blur background iPhone",
+    "cluster": "background",
+    "card_title": "Aplikasi blur background iPhone: cara memilih",
+    "card_excerpt": "Apa yang harus dimiliki aplikasi blur yang bagus, dan bagaimana MakeBlur memenuhinya.",
+    "card_image": "/img/appstore/id/03-face.webp",
+    "card_image_alt": "Tampilan aplikasi blur background di iPhone",
+    "meta_title": "Aplikasi blur background iPhone: cara memilih dan memakai",
+    "meta_description": "Memilih aplikasi blur background untuk iPhone: deteksi subjek, blur wajah, kuas manual, banyak gaya blur, dan proses di perangkat. Plus cara pakai MakeBlur.",
+    "h1": "Aplikasi blur background iPhone: cara memilih dan memakai",
+    "answer": "Aplikasi blur background yang bagus untuk iPhone harus mendeteksi subjek otomatis, bisa mengatur intensitas, punya beberapa gaya blur, dan memproses foto di perangkat. MakeBlur («Blur Foto Latar Belakang» di App Store) memenuhi keempatnya: buka foto, biarkan tab Background, atur Radius, lalu Save.",
+    "intro": "Cari “blur background” di App Store dan Anda akan menemukan puluhan aplikasi. Banyak yang mengunggah foto ke server, menambahkan watermark, atau hanya punya satu efek. Berikut kriteria yang layak dicek sebelum memasang, dan cara kerja MakeBlur.",
+    "image": "/img/appstore/id/03-face.webp",
+    "image_alt": "Tab Background, Full Photo, Faces, Manual di MakeBlur",
+    "native": {
+      "heading": "Apakah perlu memasang aplikasi?",
+      "paragraphs": [
+        "Kalau hanya untuk foto mode Potret, app Foto sudah cukup. Untuk foto biasa, foto lama, atau gambar kiriman, iPhone tidak punya alat blur latar — perlu aplikasi. Clean Up dari Apple Intelligence menghapus objek, bukan memburamkan, dan belum mendukung Bahasa Indonesia."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Kriteria memilih",
+        "paragraphs": [
+          "Deteksi subjek otomatis, agar tidak perlu menelusuri rambut satu per satu. Slider intensitas, karena tiap foto butuh kadar berbeda. Beberapa gaya blur — Gaussian, Motion, mosaik. Blur wajah dan kuas untuk kebutuhan privasi. Proses di perangkat, agar foto pribadi tidak keluar dari iPhone."
+        ]
+      },
+      {
+        "heading": "Isi MakeBlur",
+        "paragraphs": [
+          "Empat mode: Background (blur latar), Faces (blur wajah), Manual (kuas), dan Full Photo (seluruh foto). Tujuh gaya: Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize. Radius mengatur kekuatan, Angle mengatur arah gerakan. Unduh gratis; gaya lanjutan bisa dibuka lewat pembelian di app jika mau."
+        ]
+      }
+    ],
+    "steps_title": "Memakai MakeBlur pertama kali",
+    "steps": [
+      {
+        "title": "Unduh dari App Store",
+        "description": "Cari «Blur Foto Latar Belakang», perlu iOS 18.6 atau lebih baru."
+      },
+      {
+        "title": "Izinkan akses foto",
+        "description": "Pilih foto yang mau diedit."
+      },
+      {
+        "title": "Pilih mode",
+        "description": "Background, Faces, Manual, atau Full Photo."
+      },
+      {
+        "title": "Atur dan simpan",
+        "description": "Gaya, Radius, lalu Save."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Baca bagian privasi di App Store: pilih aplikasi yang memproses foto di perangkat.",
+      "Uji dengan foto sulit (rambut, latar ramai) untuk menilai kualitas deteksi subjek.",
+      "Aplikasi yang sekaligus punya blur wajah dan kuas menghemat satu aplikasi lagi."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Apakah aplikasinya gratis?",
+        "answer": "Unduhannya gratis dan blur latar dasar sudah ada. Gaya lanjutan bisa dibuka lewat pembelian di app."
+      },
+      {
+        "question": "Bisa dipakai di iPad atau Android?",
+        "answer": "Aplikasi ini hanya untuk iPhone. Di perangkat lain, Anda bisa memakai editor blur online di situs ini untuk memburamkan seluruh foto."
+      },
+      {
+        "question": "Apakah aplikasi mengumpulkan foto saya?",
+        "answer": "Tidak, foto diproses di iPhone dan tidak diunggah ke server."
+      }
+    ],
+    "related": [
+      "cara-blur-latar-belakang-foto-iphone.html",
+      "blur-foto-setelah-dipotret.html",
+      "cara-blur-wajah-di-iphone.html",
+      "blur-foto.html"
+    ],
+    "cta_title": "Coba aplikasi blur background gratis",
+    "cta_body": "Unduh «Blur Foto Latar Belakang»: blur latar, blur wajah, dan sensor detail dalam satu aplikasi.",
+    "cta_text": "Unduh di App Store"
+  }
+]

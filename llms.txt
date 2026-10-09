@@ -50,6 +50,7 @@
 - Ukrainian (`/uk/`): https://makeblur.com/uk/
 - Vietnamese (`/vi/`): https://makeblur.com/vi/
 - Simplified Chinese (`/cn/`, `zh-CN`): https://makeblur.com/cn/
+- Indonesian (`/id/`): https://makeblur.com/id/
 
 ## Contact
 

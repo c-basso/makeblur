@@ -1,0 +1,1284 @@
+{
+  "hub": {
+    "nav_text": "Panduan",
+    "title": "Panduan langkah demi langkah",
+    "intro": "Blur latar belakang, sensor wajah, plat nomor, atau tulisan, blur seluruh foto: setiap panduan menunjukkan langkah tepatnya di iPhone.",
+    "learn_more_text": "Selengkapnya",
+    "related_title": "Panduan terkait",
+    "answer_label": "Ringkasnya",
+    "clusters": [
+      {
+        "id": "background",
+        "title": "Blur latar belakang",
+        "blurb": "Subjek tajam, latar lembut — juga untuk foto yang sudah diambil."
+      },
+      {
+        "id": "privacy",
+        "title": "Sensor wajah, plat nomor, dan tulisan",
+        "blurb": "Blur untuk privasi sebelum posting."
+      },
+      {
+        "id": "effects",
+        "title": "Efek blur",
+        "blurb": "Motion blur, bokeh, dan Gaussian."
+      },
+      {
+        "id": "photo",
+        "title": "Blur foto apa pun",
+        "blurb": "Seluruh foto dan dasar-dasar efek blur."
+      }
+    ]
+  },
+  "items": [
+    {
+      "slug": "cara-blur-latar-belakang-foto-iphone.html",
+      "keyword": "cara blur latar belakang foto di iPhone",
+      "cluster": "background",
+      "card_title": "Cara blur latar belakang foto di iPhone",
+      "card_excerpt": "Subjek tajam, latar lembut — untuk foto apa pun, termasuk yang tidak diambil dengan mode Potret.",
+      "card_image": "/img/appstore/id/04-box.webp",
+      "card_image_alt": "Perempuan tetap tajam, latar dinding bata diburamkan di iPhone",
+      "meta_title": "Cara blur latar belakang foto di iPhone: 3 langkah, gratis",
+      "meta_description": "Cara blur latar belakang foto di iPhone, juga foto yang sudah diambil: aplikasi mendeteksi subjek, Anda atur intensitas lalu simpan. Tanpa mode Potret, gratis.",
+      "h1": "Cara blur latar belakang foto di iPhone",
+      "answer": "Untuk blur latar belakang foto di iPhone, buka foto di MakeBlur, biarkan tab Background agar subjek terdeteksi otomatis, pilih gaya Gaussian, lalu geser Radius sampai latar cukup lembut. Ketuk Save — salinan yang sudah diblur tersimpan di app Foto, foto asli tidak berubah.",
+      "intro": "Latar belakang blur membuat orang atau objek utama menonjol, seperti foto dari kamera dengan bukaan lensa besar. iPhone bisa melakukannya saat Anda memotret dengan mode Potret — tapi tidak untuk foto biasa yang sudah diambil, screenshot, atau gambar kiriman teman di WhatsApp. Panduan ini menjelaskan cara blur latar belakang untuk foto apa pun di galeri.",
+      "image": "/img/appstore/id/04-box.webp",
+      "image_alt": "Tab Background dengan gaya Box: subjek tajam, latar blur",
+      "native": {
+        "heading": "Apakah iPhone punya fitur blur latar bawaan?",
+        "paragraphs": [
+          "Ada, tapi hanya saat memotret: mode Potret di Kamera menyimpan data kedalaman, lalu tingkat blur bisa diatur di Edit pada app Foto. Di iPhone 15 ke atas, sebagian foto biasa juga otomatis menyimpan data kedalaman saat kamera mengenali orang atau hewan.",
+          "Untuk foto tanpa data kedalaman — foto lama, screenshot, gambar unduhan — app Foto tidak punya alat blur latar. Di situlah aplikasi seperti MakeBlur dibutuhkan."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaya blur mana untuk latar?",
+          "paragraphs": [
+            "Gaussian paling natural, seperti lensa yang tidak fokus — cocok untuk potret dan foto produk. Box lebih rata dan sedikit grafis. Motion mengubah latar jadi jejak gerakan. Ghosting memberi kesan dreamy.",
+            "Untuk potret, Radius sedang biasanya lebih bagus daripada maksimal: latar masih memberi konteks tapi tidak lagi berantakan."
+          ]
+        },
+        {
+          "heading": "Kalau tepi subjek kurang rapi",
+          "paragraphs": [
+            "Rambut yang tertiup angin, tangan yang memegang benda, atau subjek yang warnanya mirip latar kadang membuat tepinya kurang presisi. Menurunkan Radius sedikit membuat peralihannya lebih natural; foto dengan subjek jelas dan cahaya cukup memberi hasil terbaik."
+          ]
+        }
+      ],
+      "steps_title": "Blur latar di aplikasi",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka foto",
+          "description": "Pilih foto apa pun dari galeri di MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Tab Background",
+          "description": "Subjek terdeteksi otomatis dan tetap tajam."
+        },
+        {
+          "number": "3",
+          "title": "Gaya dan Radius",
+          "description": "Pilih Gaussian, geser Radius sampai cukup lembut."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Salinan dengan latar blur tersimpan di app Foto."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Foto dengan jarak jelas antara subjek dan latar memberi efek paling realistis.",
+        "Simpan beberapa versi dengan Radius berbeda, lalu pilih yang terbaik.",
+        "Ada benda mengganggu di latar? Pindah ke tab Manual dan warnai area itu."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Bisakah blur latar foto yang tidak diambil dengan mode Potret?",
+          "answer": "Bisa. Aplikasi menemukan subjek sendiri di foto, tidak perlu data kedalaman."
+        },
+        {
+          "question": "Apakah foto asli berubah?",
+          "answer": "Tidak. Save membuat salinan baru, foto asli tetap di galeri."
+        },
+        {
+          "question": "Apakah perlu internet?",
+          "answer": "Tidak. Semua diproses di iPhone, foto tidak diunggah ke server."
+        }
+      ],
+      "related": [
+        "blur-foto-setelah-dipotret.html",
+        "blur-background-foto.html",
+        "aplikasi-blur-background-iphone.html",
+        "efek-bokeh-iphone.html"
+      ],
+      "cta_title": "Blur latar foto Anda sekarang",
+      "cta_body": "Unduh «Blur Foto Latar Belakang», buka foto, dan biarkan aplikasi menemukan subjeknya. Gratis, tanpa unggah ke cloud.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "blur-background-foto.html",
+      "keyword": "blur background foto",
+      "cluster": "background",
+      "card_title": "Blur background foto untuk profil, IG, dan jualan",
+      "card_excerpt": "Subjek menonjol di latar lembut: pilih gaya dan intensitas sesuai kebutuhan.",
+      "card_image": "/img/appstore/id/02-motion.webp",
+      "card_image_alt": "Latar foto diburamkan di belakang perempuan",
+      "meta_title": "Blur background foto di iPhone: foto profil, IG, jualan",
+      "meta_description": "Blur background foto di iPhone agar subjek menonjol: untuk foto profil WhatsApp, postingan Instagram, TikTok, atau foto produk jualan. Pilih gaya, atur, simpan.",
+      "h1": "Blur background foto di iPhone",
+      "answer": "Untuk blur background foto, buka foto di MakeBlur, biarkan tab Background, pilih gaya (Gaussian untuk natural, Box untuk rata, Motion untuk gerakan), atur Radius, lalu ketuk Save. Subjek tetap tajam, hanya latar di belakangnya yang jadi lembut.",
+      "intro": "Latar yang ramai — motor, kabel listrik, orang lewat, barang di kamar — menarik perhatian dari subjek. Blur background adalah cara tercepat membuat foto terlihat lebih profesional tanpa memotret ulang. Berikut cara memilih gaya dan intensitas untuk tiap kebutuhan.",
+      "image": "/img/appstore/id/02-motion.webp",
+      "image_alt": "Gaya Motion memburamkan latar, subjek tajam",
+      "native": {
+        "heading": "Apa yang bisa dilakukan app Foto?",
+        "paragraphs": [
+          "App Foto hanya bisa mengatur blur latar untuk foto dengan data kedalaman (mode Potret). Untuk foto biasa, Anda hanya bisa crop atau atur cahaya, tidak ada alat blur."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Intensitas sesuai kebutuhan",
+          "paragraphs": [
+            "Foto profil WhatsApp: Gaussian sedang agar wajah tetap menonjol walau tampil kecil. Foto produk untuk jualan online di Shopee atau Tokopedia: blur tipis agar produk jelas tapi suasana tetap terlihat. Foto motor, mobil, olahraga: Motion untuk kesan cepat.",
+            "Postingan Instagram dan TikTok: coba Ghosting untuk kesan dreamy, atau Box untuk tampilan modern."
+          ]
+        },
+        {
+          "heading": "Blur background banyak foto",
+          "paragraphs": [
+            "Tiap foto cukup beberapa detik: buka, cek subjek, geser slider, simpan. Pakai gaya dan Radius yang sama agar satu feed terlihat seragam."
+          ]
+        }
+      ],
+      "steps_title": "Blur background di aplikasi",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka foto",
+          "description": "Pilih dari galeri."
+        },
+        {
+          "number": "2",
+          "title": "Background",
+          "description": "Aplikasi menjaga subjek tetap tajam."
+        },
+        {
+          "number": "3",
+          "title": "Gaya dan intensitas",
+          "description": "Gaussian, Box, Motion, atau Ghosting; atur Radius."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Salinan tersimpan di app Foto."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Foto produk: blur tipis lebih bagus — pembeli tetap perlu lihat suasananya.",
+        "Foto profil: cek tampilannya dalam ukuran kecil sebelum dipasang.",
+        "Ingat Radius favorit Anda untuk dipakai di semua foto."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Apa beda blur background dan hapus background?",
+          "answer": "Blur background tetap mempertahankan latar tapi membuatnya lembut. Hapus background membuang latar sepenuhnya — aplikasi ini tidak melakukan itu."
+        },
+        {
+          "question": "Bisakah blur background screenshot?",
+          "answer": "Bisa, screenshot dibuka seperti foto biasa. Kalau tidak ada subjek jelas, pakai Manual atau Full Photo."
+        },
+        {
+          "question": "Apakah kualitas foto turun?",
+          "answer": "Tidak, salinan disimpan dalam ukuran asli."
+        }
+      ],
+      "related": [
+        "cara-blur-latar-belakang-foto-iphone.html",
+        "blur-foto-setelah-dipotret.html",
+        "gaussian-blur-iphone.html",
+        "efek-motion-blur-foto.html"
+      ],
+      "cta_title": "Latar lembut, subjek menonjol",
+      "cta_body": "Unduh «Blur Foto Latar Belakang» dan blur background foto yang sudah Anda punya. Gratis, iPhone iOS 18.6 ke atas.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "blur-foto-setelah-dipotret.html",
+      "keyword": "cara blur foto yang sudah diambil",
+      "cluster": "background",
+      "card_title": "Cara blur foto yang sudah diambil",
+      "card_excerpt": "Lupa pakai mode Potret? Foto biasa, foto lama, dan kiriman WhatsApp tetap bisa diblur.",
+      "card_image": "/img/appstore/id/04-box.webp",
+      "card_image_alt": "Foto biasa diblur latarnya setelah dipotret",
+      "meta_title": "Cara blur foto yang sudah diambil di iPhone, tanpa Potret",
+      "meta_description": "Lupa pakai mode Potret? Cara blur latar foto yang sudah diambil di iPhone: foto biasa, foto lama, dan gambar dari WhatsApp. Subjek terdeteksi otomatis, gratis.",
+      "h1": "Cara blur foto yang sudah diambil di iPhone",
+      "answer": "Foto yang tidak diambil dengan mode Potret tetap bisa diblur latarnya: buka di MakeBlur, tab Background mendeteksi subjek otomatis, pilih Gaussian, naikkan Radius, lalu ketuk Save. Tidak perlu data kedalaman dan tidak perlu memotret ulang.",
+      "intro": "Momen terbaik sering tertangkap di mode Foto biasa — atau foto itu diambil bertahun-tahun lalu, atau dikirim teman. Foto seperti ini tidak punya data kedalaman, jadi app Foto tidak bisa mengatur efek Potret. Cara di bawah ini berlaku untuk semua foto.",
+      "image": "/img/appstore/id/04-box.webp",
+      "image_alt": "Blur latar foto biasa dengan tab Background",
+      "native": {
+        "heading": "Kenapa app Foto tidak bisa blur?",
+        "paragraphs": [
+          "Efek Potret bergantung pada peta kedalaman yang direkam kamera saat memotret. Foto tanpa peta ini tidak menampilkan opsi Potret di Edit. Gambar dari WhatsApp juga biasanya sudah dikompres dan kehilangan data kedalaman."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Bagaimana aplikasi bekerja tanpa data kedalaman?",
+          "paragraphs": [
+            "MakeBlur menganalisis foto untuk memisahkan subjek — orang, hewan, atau objek utama — dari latar, lalu hanya memburamkan latarnya. Hasilnya mirip foto mode Potret, plus gaya blur yang tidak ada di Kamera."
+          ]
+        },
+        {
+          "heading": "Foto yang paling cocok",
+          "paragraphs": [
+            "Subjek jelas, cahaya cukup, dan terpisah dari latar. Foto yang sangat gelap atau subjek yang terlalu kecil bisa sulit dikenali — gunakan tab Manual untuk mewarnai area yang mau diblur."
+          ]
+        }
+      ],
+      "steps_title": "Blur foto yang sudah diambil",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka foto dari galeri",
+          "description": "Foto biasa, foto lama, atau kiriman bisa semua."
+        },
+        {
+          "number": "2",
+          "title": "Background",
+          "description": "Subjek terdeteksi otomatis."
+        },
+        {
+          "number": "3",
+          "title": "Gaussian dan Radius",
+          "description": "Naikkan pelan-pelan sampai pas."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Simpan salinan, foto asli tidak berubah."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Lain kali ingin foto potret, nyalakan mode Potret saat memotret — efek tambahan tetap bisa diberikan di aplikasi.",
+        "Gambar dari WhatsApp sudah dikompres: pakai Radius sedang agar tepinya lebih halus.",
+        "Di foto grup, pastikan semua orang tetap tajam."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Bisakah blur foto lama dari iPhone generasi sebelumnya?",
+          "answer": "Bisa, aplikasi tidak peduli foto diambil dengan perangkat apa."
+        },
+        {
+          "question": "Foto mode Potret juga bisa?",
+          "answer": "Bisa, dan Anda bisa menambahkan gaya seperti Motion atau Ghosting yang tidak ada di Kamera."
+        },
+        {
+          "question": "iPhone apa saja yang bisa?",
+          "answer": "Semua iPhone dengan iOS 18.6 atau lebih baru."
+        }
+      ],
+      "related": [
+        "cara-blur-latar-belakang-foto-iphone.html",
+        "aplikasi-blur-background-iphone.html",
+        "blur-background-foto.html",
+        "blur-sebagian-foto-iphone.html"
+      ],
+      "cta_title": "Tidak perlu memotret ulang",
+      "cta_body": "Unduh «Blur Foto Latar Belakang» dan blur latar foto yang sudah diambil. Gratis, diproses di perangkat.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "aplikasi-blur-background-iphone.html",
+      "keyword": "aplikasi blur background iPhone",
+      "cluster": "background",
+      "card_title": "Aplikasi blur background iPhone: cara memilih",
+      "card_excerpt": "Apa yang harus dimiliki aplikasi blur yang bagus, dan bagaimana MakeBlur memenuhinya.",
+      "card_image": "/img/appstore/id/03-face.webp",
+      "card_image_alt": "Tampilan aplikasi blur background di iPhone",
+      "meta_title": "Aplikasi blur background iPhone: cara memilih dan memakai",
+      "meta_description": "Memilih aplikasi blur background untuk iPhone: deteksi subjek, blur wajah, kuas manual, banyak gaya blur, dan proses di perangkat. Plus cara pakai MakeBlur.",
+      "h1": "Aplikasi blur background iPhone: cara memilih dan memakai",
+      "answer": "Aplikasi blur background yang bagus untuk iPhone harus mendeteksi subjek otomatis, bisa mengatur intensitas, punya beberapa gaya blur, dan memproses foto di perangkat. MakeBlur («Blur Foto Latar Belakang» di App Store) memenuhi keempatnya: buka foto, biarkan tab Background, atur Radius, lalu Save.",
+      "intro": "Cari “blur background” di App Store dan Anda akan menemukan puluhan aplikasi. Banyak yang mengunggah foto ke server, menambahkan watermark, atau hanya punya satu efek. Berikut kriteria yang layak dicek sebelum memasang, dan cara kerja MakeBlur.",
+      "image": "/img/appstore/id/03-face.webp",
+      "image_alt": "Tab Background, Full Photo, Faces, Manual di MakeBlur",
+      "native": {
+        "heading": "Apakah perlu memasang aplikasi?",
+        "paragraphs": [
+          "Kalau hanya untuk foto mode Potret, app Foto sudah cukup. Untuk foto biasa, foto lama, atau gambar kiriman, iPhone tidak punya alat blur latar — perlu aplikasi. Clean Up dari Apple Intelligence menghapus objek, bukan memburamkan, dan belum mendukung Bahasa Indonesia."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Kriteria memilih",
+          "paragraphs": [
+            "Deteksi subjek otomatis, agar tidak perlu menelusuri rambut satu per satu. Slider intensitas, karena tiap foto butuh kadar berbeda. Beberapa gaya blur — Gaussian, Motion, mosaik. Blur wajah dan kuas untuk kebutuhan privasi. Proses di perangkat, agar foto pribadi tidak keluar dari iPhone."
+          ]
+        },
+        {
+          "heading": "Isi MakeBlur",
+          "paragraphs": [
+            "Empat mode: Background (blur latar), Faces (blur wajah), Manual (kuas), dan Full Photo (seluruh foto). Tujuh gaya: Gaussian, Motion, Ghosting, Box, Pixelate, Hexagonal, Crystallize. Radius mengatur kekuatan, Angle mengatur arah gerakan. Unduh gratis; gaya lanjutan bisa dibuka lewat pembelian di app jika mau."
+          ]
+        }
+      ],
+      "steps_title": "Memakai MakeBlur pertama kali",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Unduh dari App Store",
+          "description": "Cari «Blur Foto Latar Belakang», perlu iOS 18.6 atau lebih baru."
+        },
+        {
+          "number": "2",
+          "title": "Izinkan akses foto",
+          "description": "Pilih foto yang mau diedit."
+        },
+        {
+          "number": "3",
+          "title": "Pilih mode",
+          "description": "Background, Faces, Manual, atau Full Photo."
+        },
+        {
+          "number": "4",
+          "title": "Atur dan simpan",
+          "description": "Gaya, Radius, lalu Save."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Baca bagian privasi di App Store: pilih aplikasi yang memproses foto di perangkat.",
+        "Uji dengan foto sulit (rambut, latar ramai) untuk menilai kualitas deteksi subjek.",
+        "Aplikasi yang sekaligus punya blur wajah dan kuas menghemat satu aplikasi lagi."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Apakah aplikasinya gratis?",
+          "answer": "Unduhannya gratis dan blur latar dasar sudah ada. Gaya lanjutan bisa dibuka lewat pembelian di app."
+        },
+        {
+          "question": "Bisa dipakai di iPad atau Android?",
+          "answer": "Aplikasi ini hanya untuk iPhone. Di perangkat lain, Anda bisa memakai editor blur online di situs ini untuk memburamkan seluruh foto."
+        },
+        {
+          "question": "Apakah aplikasi mengumpulkan foto saya?",
+          "answer": "Tidak, foto diproses di iPhone dan tidak diunggah ke server."
+        }
+      ],
+      "related": [
+        "cara-blur-latar-belakang-foto-iphone.html",
+        "blur-foto-setelah-dipotret.html",
+        "cara-blur-wajah-di-iphone.html",
+        "blur-foto.html"
+      ],
+      "cta_title": "Coba aplikasi blur background gratis",
+      "cta_body": "Unduh «Blur Foto Latar Belakang»: blur latar, blur wajah, dan sensor detail dalam satu aplikasi.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "cara-blur-wajah-di-iphone.html",
+      "keyword": "cara blur wajah di iPhone",
+      "cluster": "privacy",
+      "card_title": "Cara blur wajah di iPhone",
+      "card_excerpt": "Sensor wajah orang asing, anak-anak, atau rekan kerja sebelum posting — semua wajah sekali ketuk.",
+      "card_image": "/img/appstore/id/03-face.webp",
+      "card_image_alt": "Wajah-wajah di foto diburamkan",
+      "meta_title": "Cara blur wajah di iPhone dengan satu ketukan, gratis",
+      "meta_description": "Cara blur wajah atau muka di foto iPhone sebelum diunggah ke Instagram atau WhatsApp: tab Faces menemukan semua wajah, pilih gaya blur, lalu simpan. Gratis.",
+      "h1": "Cara blur wajah di foto iPhone",
+      "answer": "Untuk blur wajah, buka foto di MakeBlur dan pilih tab Faces: aplikasi menemukan semua wajah di foto dan memburamkannya sekaligus. Pilih Gaussian atau Pixelate, naikkan Radius sampai wajah tidak dikenali, lalu ketuk Save. Untuk menyensor satu orang saja, pakai tab Manual dan warnai wajahnya.",
+      "intro": "Foto acara, foto kelas, atau foto jalanan sering memuat orang yang tidak ingin muncul di internet — orang asing, anak-anak, rekan kerja. Menyensor wajah sebelum posting adalah bentuk sopan santun dan menghindari masalah. Di iPhone, cara tercepat adalah membiarkan aplikasi menemukan wajah sendiri.",
+      "image": "/img/appstore/id/03-face.webp",
+      "image_alt": "Tab Faces: semua wajah yang ditemukan diburamkan",
+      "native": {
+        "heading": "Apakah iPhone punya fitur blur wajah?",
+        "paragraphs": [
+          "Tidak ada alat blur khusus. Markup bisa menggambar bentuk atau mencoret wajah — tertutup, tapi kasar. Clean Up dari Apple Intelligence bisa menambahkan mosaik saat Anda melingkari wajah, tapi perlu iPhone 15 Pro ke atas, belum mendukung Bahasa Indonesia, dan hanya satu wajah per kali."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian atau Pixelate?",
+          "paragraphs": [
+            "Gaussian dengan Radius tinggi terlihat halus, cocok untuk media sosial. Pixelate (mosaik) jelas terlihat “disensor”, cocok untuk foto yang privasinya harus terjamin. Untuk wajah kecil di kejauhan, keduanya perlu Radius yang cukup besar."
+          ]
+        },
+        {
+          "heading": "Sensor sebagian orang saja",
+          "paragraphs": [
+            "Faces memburamkan semua orang. Kalau mau wajah Anda tetap terlihat dan hanya menyensor orang lain, pakai Manual: perbesar lalu warnai wajah yang perlu disensor satu per satu."
+          ]
+        }
+      ],
+      "steps_title": "Blur wajah di aplikasi",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka foto",
+          "description": "Pilih foto dengan wajah yang perlu disensor."
+        },
+        {
+          "number": "2",
+          "title": "Tab Faces",
+          "description": "Semua wajah ditemukan dan diburamkan."
+        },
+        {
+          "number": "3",
+          "title": "Gaya dan Radius",
+          "description": "Gaussian atau Pixelate, naikkan sampai tidak dikenali."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Unggah salinan yang sudah disensor."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Perbesar untuk mengecek wajah kecil di tepi foto.",
+        "Kalau ada anak-anak, sensor juga nama sekolah di seragam atau name tag.",
+        "Foto asli tetap di galeri — bagikan hanya versi yang disensor."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Apakah wajah miring atau kecil ikut terdeteksi?",
+          "answer": "Biasanya ya, tapi tetap cek. Yang terlewat bisa diwarnai dengan Manual."
+        },
+        {
+          "question": "Bisa blur wajah di video?",
+          "answer": "Tidak, aplikasi ini hanya untuk foto."
+        },
+        {
+          "question": "Bisakah orang lain “membuka” blurnya?",
+          "answer": "File yang disimpan adalah gambar baru, piksel aslinya sudah diganti. Dengan Pixelate dan Radius tinggi, detail wajah tidak lagi ada di gambar."
+        }
+      ],
+      "related": [
+        "blur-sebagian-foto-iphone.html",
+        "efek-mosaik-foto-iphone.html",
+        "sensor-tulisan-screenshot.html",
+        "sensor-plat-nomor-foto.html"
+      ],
+      "cta_title": "Sensor wajah dalam hitungan detik",
+      "cta_body": "Unduh «Blur Foto Latar Belakang», buka tab Faces, lalu simpan. Gratis, foto tidak keluar dari iPhone.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "blur-sebagian-foto-iphone.html",
+      "keyword": "blur sebagian foto di iPhone",
+      "cluster": "privacy",
+      "card_title": "Blur sebagian foto di iPhone",
+      "card_excerpt": "Usapkan jari di area yang mau disensor: tulisan, nomor rumah, orang asing, barang.",
+      "card_image": "/img/appstore/id/05-crystalize.webp",
+      "card_image_alt": "Satu area foto diburamkan dengan kuas",
+      "meta_title": "Cara blur sebagian foto di iPhone pakai jari, gratis",
+      "meta_description": "Cara blur sebagian foto di iPhone: usapkan jari di area yang mau disensor lalu pilih Gaussian atau Pixelate. Untuk tulisan, nomor rumah, resi, atau orang asing.",
+      "h1": "Blur sebagian foto di iPhone",
+      "answer": "Untuk blur sebagian foto saja, buka foto di MakeBlur, pilih tab Manual, lalu usapkan jari di area yang ingin disensor. Pilih gaya — Gaussian untuk halus, Pixelate untuk sensor yang pasti — atur Radius, lalu ketuk Save. Hanya area yang diwarnai yang diblur.",
+      "intro": "Sering kali seluruh foto sudah bagus, hanya ada satu detail yang tidak boleh terlihat: nomor rumah, nama di resi paket, layar laptop, atau orang asing di pojok foto. Kuas memungkinkan Anda memburamkan bagian itu saja tanpa mengubah sisanya.",
+      "image": "/img/appstore/id/05-crystalize.webp",
+      "image_alt": "Area yang diwarnai berubah jadi mosaik Crystallize",
+      "native": {
+        "heading": "Bisakah dengan app Foto?",
+        "paragraphs": [
+          "Tidak secara langsung. Markup punya pena dan bentuk untuk menutup, tapi tidak bisa memburamkan atau memberi efek piksel. Stabilo yang semi-transparan kadang masih memperlihatkan tulisan di bawahnya."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Mewarnai dengan presisi",
+          "paragraphs": [
+            "Perbesar dengan dua jari sebelum mewarnai area kecil. Warnai sedikit lebih luas dari detailnya agar tepi blur tidak memperlihatkan karakter."
+          ]
+        },
+        {
+          "heading": "Kombinasi dengan blur latar",
+          "paragraphs": [
+            "Anda bisa blur latar dengan Background, simpan, lalu buka salinan itu dan sensor detail tambahan dengan Manual."
+          ]
+        }
+      ],
+      "steps_title": "Blur satu area",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka foto",
+          "description": "Pilih dari galeri."
+        },
+        {
+          "number": "2",
+          "title": "Tab Manual",
+          "description": "Warnai area yang mau diblur."
+        },
+        {
+          "number": "3",
+          "title": "Gaya dan Radius",
+          "description": "Gaussian, Pixelate, atau Box."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Simpan salinan."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Tulisan dan angka: pakai Pixelate atau Box dengan Radius tinggi.",
+        "Orang asing di latar: Gaussian terlihat lebih natural.",
+        "Cek pantulan di kaca dan cermin."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Kalau salah mewarnai?",
+          "answer": "Sebelum disimpan, foto asli tidak berubah — ulangi saja."
+        },
+        {
+          "question": "Bisa blur beberapa area sekaligus?",
+          "answer": "Bisa, warnai semua area lalu simpan sekali."
+        },
+        {
+          "question": "Bisa untuk screenshot?",
+          "answer": "Bisa, screenshot dibuka seperti foto biasa."
+        }
+      ],
+      "related": [
+        "sensor-tulisan-screenshot.html",
+        "sensor-plat-nomor-foto.html",
+        "cara-blur-wajah-di-iphone.html",
+        "efek-mosaik-foto-iphone.html"
+      ],
+      "cta_title": "Sensor tepat di tempatnya",
+      "cta_body": "Unduh «Blur Foto Latar Belakang», buka Manual, dan warnai. Gratis, tanpa unggah ke cloud.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "sensor-plat-nomor-foto.html",
+      "keyword": "cara sensor plat nomor di foto",
+      "cluster": "privacy",
+      "card_title": "Cara sensor plat nomor di foto",
+      "card_excerpt": "Untuk iklan di OLX, Mobil123, atau Facebook Marketplace: plat tidak terbaca, foto tetap rapi.",
+      "card_image": "/img/appstore/id/05-crystalize.webp",
+      "card_image_alt": "Plat nomor ditutup dengan efek piksel",
+      "meta_title": "Cara sensor plat nomor di foto mobil atau motor di iPhone",
+      "meta_description": "Cara sensor plat nomor di foto iPhone sebelum pasang iklan jual mobil atau motor di OLX, Mobil123, atau Marketplace: warnai, beri piksel, simpan. Gratis.",
+      "h1": "Cara sensor plat nomor di foto iPhone",
+      "answer": "Untuk sensor plat nomor, buka foto di MakeBlur, pilih tab Manual, warnai plat nomornya, pilih Pixelate atau Box, lalu naikkan Radius sampai tidak ada karakter yang terbaca. Ketuk Save dan pakai salinan itu untuk iklan.",
+      "intro": "Penjual mobil dan motor di OLX, Mobil123, atau Facebook Marketplace sering menyensor plat nomor untuk mengurangi risiko data kendaraan disalahgunakan atau foto iklan dicuri. Ini tidak wajib, tapi banyak yang melakukannya supaya tenang. Foto juga harus rapi: kotak hitam di bemper terlihat kurang profesional — efek piksel yang rapi menyelesaikan keduanya.",
+      "image": "/img/appstore/id/05-crystalize.webp",
+      "image_alt": "Memberi efek piksel pada satu area foto di aplikasi",
+      "native": {
+        "heading": "Bisakah dengan app Foto?",
+        "paragraphs": [
+          "Markup bisa menggambar bentuk di atas plat. Platnya tertutup, tapi tambalannya mencolok, dan pena semi-transparan kadang masih memperlihatkan karakter. App Foto tidak bisa memburamkan atau memberi efek piksel pada satu area."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Piksel atau blur?",
+          "paragraphs": [
+            "Untuk plat nomor, Pixelate atau Box dengan Radius tinggi paling aman — kotak besar menghapus bentuk huruf. Gaussian tipis bisa membuat nomor masih bisa ditebak, terutama di foto resolusi tinggi.",
+            "Crystallize juga menutup, tapi terlihat dekoratif; untuk iklan, piksel netral lebih cocok."
+          ]
+        },
+        {
+          "heading": "Kalau fotonya banyak",
+          "paragraphs": [
+            "Iklan biasanya punya 10–20 foto, plat terlihat di beberapa saja. Proses satu per satu: buka, Manual, warnai, Save — sekitar setengah menit per foto. Cek juga pantulan di kaca dan foto STNK."
+          ]
+        }
+      ],
+      "steps_title": "Sensor plat nomor di aplikasi",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka foto kendaraan",
+          "description": "Pilih foto yang memperlihatkan plat."
+        },
+        {
+          "number": "2",
+          "title": "Tab Manual",
+          "description": "Perbesar dan warnai seluruh plat, sedikit lebih luas."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate dan Radius",
+          "description": "Naikkan sampai tidak terbaca walau diperbesar."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Unggah salinannya ke iklan."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Tutup seluruh plat, bukan hanya angkanya — kode wilayah juga memberi informasi.",
+        "Mobil punya plat depan dan belakang; motor juga punya keduanya — cek semua foto.",
+        "Kalau ada STNK atau nomor rangka di foto, sensor juga — kecuali memang mau ditampilkan."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Apakah wajib sensor plat nomor di iklan?",
+          "answer": "Tidak, banyak penjual melakukannya untuk menghindari penyalahgunaan data. Ini bukan nasihat hukum."
+        },
+        {
+          "question": "Bagaimana kalau pembeli butuh nomornya?",
+          "answer": "Setelah pembeli serius menghubungi, Anda bisa memberikan info yang diperlukan secara pribadi."
+        },
+        {
+          "question": "Apakah foto diunggah ke mana-mana?",
+          "answer": "Tidak, semua diproses di iPhone."
+        }
+      ],
+      "related": [
+        "blur-sebagian-foto-iphone.html",
+        "efek-mosaik-foto-iphone.html",
+        "sensor-tulisan-screenshot.html",
+        "cara-blur-wajah-di-iphone.html"
+      ],
+      "cta_title": "Iklan rapi, plat tertutup",
+      "cta_body": "Unduh «Blur Foto Latar Belakang», warnai plat, dan simpan. Gratis, foto tidak keluar dari iPhone.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "sensor-tulisan-screenshot.html",
+      "keyword": "cara sensor tulisan di screenshot",
+      "cluster": "privacy",
+      "card_title": "Cara sensor tulisan di screenshot",
+      "card_excerpt": "Bukti transfer, chat WhatsApp, nomor rekening: disensor dengan cara yang tidak bisa dibuka.",
+      "card_image": "/img/appstore/id/05-crystalize.webp",
+      "card_image_alt": "Tulisan di screenshot diberi efek piksel",
+      "meta_title": "Cara sensor tulisan di screenshot iPhone dengan aman",
+      "meta_description": "Cara sensor nomor rekening, nomor HP, dan chat di screenshot atau bukti transfer di iPhone: efek piksel yang tidak terbuka walau kecerahan dinaikkan. Gratis.",
+      "h1": "Cara sensor tulisan di screenshot iPhone",
+      "answer": "Untuk sensor tulisan di screenshot, buka screenshot di MakeBlur, pilih tab Manual, warnai baris yang ingin disembunyikan, pilih Pixelate, dan naikkan Radius. Ketuk Save lalu kirim salinannya. Perbesar untuk memastikan tidak ada karakter yang terbaca.",
+      "intro": "Screenshot bukti transfer, pesanan, atau chat WhatsApp sering memuat nomor rekening, nomor HP, alamat, serta nama dan foto profil orang lain. Sebelum mengirim atau memposting, sensor baris-baris itu — dan lakukan dengan benar, karena stabilo semi-transparan bisa “terbuka” saat kecerahan dinaikkan.",
+      "image": "/img/appstore/id/05-crystalize.webp",
+      "image_alt": "Efek piksel pada area tulisan",
+      "native": {
+        "heading": "Apakah Markup aman?",
+        "paragraphs": [
+          "Pena biasa dengan opasitas 100% yang menutup penuh memang bisa. Tapi stabilo semi-transparan: dengan menaikkan kecerahan dan kontras, tulisannya bisa terbaca lagi. Efek piksel mengganti detail sepenuhnya dengan kotak warna, jadi tidak bisa dikembalikan."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Apa saja yang perlu disensor",
+          "paragraphs": [
+            "Nomor rekening dan kartu, kode transaksi, nomor HP, alamat, nama dan foto profil orang lain di chat. Jangan lupa status bar di atas dan notifikasi yang muncul."
+          ]
+        },
+        {
+          "heading": "Sensor tanpa merusak isi",
+          "paragraphs": [
+            "Warnai hanya baris yang perlu disembunyikan, agar isi yang ingin dibagikan tetap jelas. Box memberi kotak rapi yang cocok untuk screenshot."
+          ]
+        }
+      ],
+      "steps_title": "Sensor screenshot di aplikasi",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka screenshot",
+          "description": "Pilih dari galeri."
+        },
+        {
+          "number": "2",
+          "title": "Tab Manual",
+          "description": "Perbesar, warnai baris yang mau disembunyikan."
+        },
+        {
+          "number": "3",
+          "title": "Pixelate",
+          "description": "Naikkan Radius sampai tidak terbaca."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Kirim salinan yang sudah disensor."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Warnai sedikit lebih lebar dari baris tulisan.",
+        "Di screenshot grup chat, cek nama dan foto profil orang lain.",
+        "Hapus screenshot asli kalau sudah tidak diperlukan."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Bisakah tulisan yang dipiksel dikembalikan?",
+          "answer": "Dengan Radius cukup besar, kotak piksel lebih besar dari karakter, jadi detailnya tidak lagi ada di gambar."
+        },
+        {
+          "question": "Apakah Gaussian blur cukup?",
+          "answer": "Untuk tulisan, Pixelate atau Box lebih aman; Gaussian tipis kadang masih bisa ditebak."
+        },
+        {
+          "question": "Perlu internet?",
+          "answer": "Tidak, aplikasi memproses di perangkat."
+        }
+      ],
+      "related": [
+        "blur-sebagian-foto-iphone.html",
+        "efek-mosaik-foto-iphone.html",
+        "sensor-plat-nomor-foto.html",
+        "cara-blur-wajah-di-iphone.html"
+      ],
+      "cta_title": "Kirim screenshot dengan tenang",
+      "cta_body": "Unduh «Blur Foto Latar Belakang», warnai dan beri piksel dalam hitungan detik. Gratis, di perangkat.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "efek-mosaik-foto-iphone.html",
+      "keyword": "cara mosaik foto di iPhone",
+      "cluster": "privacy",
+      "card_title": "Efek mosaik dan piksel foto di iPhone",
+      "card_excerpt": "Kotak, heksagon, atau kristal: untuk menyensor detail atau efek artistik.",
+      "card_image": "/img/appstore/id/05-crystalize.webp",
+      "card_image_alt": "Efek mosaik Crystallize di foto",
+      "meta_title": "Cara mosaik foto di iPhone: piksel, heksagon, dan kristal",
+      "meta_description": "Cara mosaik atau piksel foto di iPhone: sensor wajah, tulisan, dan plat nomor, atau buat efek artistik dengan Pixelate, Hexagonal, dan Crystallize. Gratis.",
+      "h1": "Cara mosaik dan piksel foto di iPhone",
+      "answer": "Untuk memberi efek mosaik, buka foto di MakeBlur, pilih area (Faces, Manual, Background, atau Full Photo), pilih Pixelate (kotak), Hexagonal (heksagon), atau Crystallize (kristal), dan atur ukuran mosaik dengan Radius. Ketuk Save.",
+      "intro": "Mosaik adalah cara sensor yang paling dikenal di berita dan TV: semua orang langsung paham detailnya disembunyikan. Mosaik juga bisa jadi efek artistik untuk wallpaper, cover, atau postingan. Di iPhone, keduanya bisa dilakukan tanpa komputer.",
+      "image": "/img/appstore/id/05-crystalize.webp",
+      "image_alt": "Gaya Crystallize mengubah latar jadi mosaik",
+      "native": {
+        "heading": "Apakah iPhone punya efek mosaik bawaan?",
+        "paragraphs": [
+          "App Foto tidak punya filter mosaik. Clean Up dari Apple Intelligence bisa memberi mosaik pada wajah yang Anda lingkari, tapi perlu iPhone 15 Pro ke atas dan tidak bisa memilih gaya atau ukuran kotak."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Tiga gaya mosaik",
+          "paragraphs": [
+            "Pixelate: kotak klasik, sensor paling pasti. Hexagonal: sel heksagon, lebih modern. Crystallize: pecahan kristal tidak beraturan, bagus untuk efek artistik. Makin besar Radius, makin besar selnya."
+          ]
+        },
+        {
+          "heading": "Mosaik untuk privasi dan seni",
+          "paragraphs": [
+            "Privasi: Faces atau Manual + Pixelate dengan Radius tinggi. Seni: Background + Crystallize agar subjek tajam di atas latar mosaik, atau Full Photo untuk gambar abstrak."
+          ]
+        }
+      ],
+      "steps_title": "Membuat mosaik di aplikasi",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka foto",
+          "description": "Pilih dari galeri."
+        },
+        {
+          "number": "2",
+          "title": "Pilih area",
+          "description": "Faces, Manual, Background, atau Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Gaya mosaik",
+          "description": "Pixelate, Hexagonal, atau Crystallize; atur Radius."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Simpan salinan."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Agar sensor benar-benar aman, kotak mosaik harus lebih besar dari detail yang disembunyikan.",
+        "Crystallize di Full Photo cocok untuk wallpaper abstrak.",
+        "Perbesar dan cek sekali lagi sebelum posting."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Apa beda mosaik dan blur?",
+          "answer": "Blur melembutkan detail; mosaik menggantinya dengan kotak warna, sensornya lebih tegas."
+        },
+        {
+          "question": "Bisa mosaik seluruh foto?",
+          "answer": "Bisa, pakai Full Photo."
+        },
+        {
+          "question": "Apakah foto diunggah ke server?",
+          "answer": "Tidak, semua diproses di iPhone tanpa internet."
+        }
+      ],
+      "related": [
+        "cara-blur-wajah-di-iphone.html",
+        "sensor-tulisan-screenshot.html",
+        "sensor-plat-nomor-foto.html",
+        "blur-foto.html"
+      ],
+      "cta_title": "Mosaik dengan satu ketukan",
+      "cta_body": "Unduh «Blur Foto Latar Belakang» dan coba Pixelate, Hexagonal, Crystallize. Gratis, di perangkat.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "efek-motion-blur-foto.html",
+      "keyword": "efek motion blur foto",
+      "cluster": "effects",
+      "card_title": "Efek motion blur di foto",
+      "card_excerpt": "Jejak kecepatan di belakang subjek: atur panjang dan arah untuk foto motor, mobil, olahraga.",
+      "card_image": "/img/appstore/id/02-motion.webp",
+      "card_image_alt": "Efek gerak di belakang perempuan",
+      "meta_title": "Efek motion blur foto di iPhone: kesan cepat dalam detik",
+      "meta_description": "Cara menambahkan efek motion blur ke foto di iPhone: subjek tetap tajam, latar seperti melaju. Atur panjang jejak dengan Radius dan arah dengan Angle. Gratis.",
+      "h1": "Efek motion blur untuk foto di iPhone",
+      "answer": "Untuk menambahkan motion blur, buka foto di MakeBlur, biarkan tab Background, lalu pilih gaya Motion. Radius menentukan panjang jejak, Angle menentukan arah. Subjek tetap tajam, latar seperti melaju kencang. Ketuk Save.",
+      "intro": "Motion blur adalah jejak buram yang muncul saat subjek atau kamera bergerak ketika memotret — kesan kecepatan di foto balap, bersepeda, atau menari. Memotretnya dengan shutter lambat itu sulit; menambahkannya setelah memotret jauh lebih mudah dan terkendali.",
+      "image": "/img/appstore/id/02-motion.webp",
+      "image_alt": "Gaya Motion di tab Background, Radius 65",
+      "native": {
+        "heading": "Bisakah kamera iPhone memotret motion blur?",
+        "paragraphs": [
+          "Live Photo punya efek Eksposur Panjang di app Foto — bagus untuk air terjun dan lampu kendaraan, tapi ikut memburamkan subjek yang bergerak dan butuh foto Live. Untuk foto biasa, iPhone tidak bisa menambahkan motion blur."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Memilih arah (Angle)",
+          "paragraphs": [
+            "Arahkan jejak sesuai arah gerak subjek: horizontal untuk motor yang melintas, diagonal untuk orang yang berlari ke arah kamera. Arah yang berlawanan terlihat tidak natural."
+          ]
+        },
+        {
+          "heading": "Hanya latar atau seluruh foto?",
+          "paragraphs": [
+            "Background + Motion: subjek tajam, latar melaju — mirip teknik panning. Full Photo + Motion: seluruh foto bergerak, cocok untuk gambar abstrak atau latar story."
+          ]
+        }
+      ],
+      "steps_title": "Menambahkan gerak di aplikasi",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka foto",
+          "description": "Foto dengan subjek jelas memberi hasil terbaik."
+        },
+        {
+          "number": "2",
+          "title": "Background + Motion",
+          "description": "Subjek tetap tajam."
+        },
+        {
+          "number": "3",
+          "title": "Radius dan Angle",
+          "description": "Panjang dan arah jejak."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Simpan salinan."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Radius sedang terlihat lebih nyata daripada maksimal.",
+        "Foto motor atau mobil: arah horizontal mengikuti badan kendaraan.",
+        "Mau kesan dreamy, bukan cepat? Coba Ghosting."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Apa beda motion blur dan Eksposur Panjang?",
+          "answer": "Eksposur Panjang menggabungkan frame Live Photo; motion blur di aplikasi diterapkan ke foto biasa dan arah serta panjangnya bisa diatur."
+        },
+        {
+          "question": "Bisa beri gerak hanya pada subjek?",
+          "answer": "Pakai Manual + Motion dan warnai area yang mau diberi jejak."
+        },
+        {
+          "question": "Gratis?",
+          "answer": "Unduhannya gratis; beberapa gaya lanjutan bisa dibuka lewat pembelian di app."
+        }
+      ],
+      "related": [
+        "efek-bokeh-iphone.html",
+        "gaussian-blur-iphone.html",
+        "blur-background-foto.html",
+        "blur-foto.html"
+      ],
+      "cta_title": "Beri kecepatan pada foto",
+      "cta_body": "Unduh «Blur Foto Latar Belakang», pilih Motion, dan atur arahnya. Gratis, diproses di perangkat.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "efek-bokeh-iphone.html",
+      "keyword": "efek bokeh di iPhone",
+      "cluster": "effects",
+      "card_title": "Efek bokeh di iPhone",
+      "card_excerpt": "Latar lembut, titik cahaya berkilau: kesan bokeh untuk foto yang tidak diambil dengan mode Potret.",
+      "card_image": "/img/appstore/id/06-ghost.webp",
+      "card_image_alt": "Foto bergaya bokeh yang lembut",
+      "meta_title": "Efek bokeh di iPhone: latar lembut untuk foto apa pun",
+      "meta_description": "Apa itu bokeh dan cara membuat efek bokeh di iPhone untuk foto yang sudah diambil: subjek tajam, latar lembut, cahaya berkilau. Pakai Gaussian atau Ghosting.",
+      "h1": "Efek bokeh di iPhone",
+      "answer": "Untuk efek bokeh, buka foto di MakeBlur, biarkan tab Background, lalu pilih Gaussian untuk latar lembut natural seperti lensa bukaan besar. Untuk kesan lebih dreamy, coba Ghosting. Atur Radius lalu ketuk Save.",
+      "intro": "Bokeh (dari bahasa Jepang “boke”, artinya kabur) adalah kualitas area yang tidak fokus: latar halus dan titik cahaya bulat yang berkilau. Di Indonesia, bokeh sering disamakan dengan “foto blur belakang” ala kamera DSLR. Foto mode Potret sudah punya efek ini; foto biasa bisa ditambahkan belakangan.",
+      "image": "/img/appstore/id/06-ghost.webp",
+      "image_alt": "Gaya Ghosting di seluruh foto, Radius 79",
+      "native": {
+        "heading": "Bokeh di app Foto",
+        "paragraphs": [
+          "Foto Potret punya pengaturan kedalaman (ƒ) di Edit: angka lebih kecil membuat latar lebih blur. Foto biasa tidak punya pengaturan ini."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian atau Ghosting?",
+          "paragraphs": [
+            "Gaussian: latar lembut merata, seperti potret dari kamera DSLR. Ghosting: lapisan bayangan yang memberi kesan dreamy — cantik untuk foto malam, lampu, dan pernikahan."
+          ]
+        },
+        {
+          "heading": "Foto yang cocok untuk bokeh",
+          "paragraphs": [
+            "Foto dengan lampu, sinar matahari di sela daun, atau lampu jalan di malam hari — area terang membentuk titik cahaya cantik saat diblur. Latar yang polos membuat bokeh kurang terlihat."
+          ]
+        }
+      ],
+      "steps_title": "Membuat bokeh di aplikasi",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka foto",
+          "description": "Latar dengan lampu atau sinar matahari lebih bagus."
+        },
+        {
+          "number": "2",
+          "title": "Tab Background",
+          "description": "Subjek tetap tajam."
+        },
+        {
+          "number": "3",
+          "title": "Gaussian atau Ghosting",
+          "description": "Atur Radius."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Simpan salinan."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Saat memotret, beri jarak antara subjek dan latar agar bokeh terlihat nyata.",
+        "Foto malam dengan lampu: coba Ghosting di Full Photo.",
+        "Jangan berlebihan — latar tetap perlu memberi konteks."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Apakah bokeh sama dengan blur latar?",
+          "answer": "Mirip: blur latar artinya memburamkan latar, bokeh menggambarkan keindahan area blur itu."
+        },
+        {
+          "question": "Perlu iPhone dengan mode Potret?",
+          "answer": "Tidak, aplikasi jalan di semua iPhone dengan iOS 18.6 ke atas."
+        },
+        {
+          "question": "Bisa bokeh untuk foto malam?",
+          "answer": "Bisa, foto dengan lampu justru sering menghasilkan bokeh paling cantik."
+        }
+      ],
+      "related": [
+        "gaussian-blur-iphone.html",
+        "cara-blur-latar-belakang-foto-iphone.html",
+        "efek-motion-blur-foto.html",
+        "cara-membuat-foto-blur-di-iphone.html"
+      ],
+      "cta_title": "Bokeh untuk foto yang sudah ada",
+      "cta_body": "Unduh «Blur Foto Latar Belakang» dan coba Gaussian dan Ghosting. Gratis, tanpa unggah ke cloud.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "gaussian-blur-iphone.html",
+      "keyword": "Gaussian blur di iPhone",
+      "cluster": "effects",
+      "card_title": "Gaussian blur di iPhone",
+      "card_excerpt": "Blur paling halus, merata, dan natural — untuk latar, wajah, atau seluruh foto.",
+      "card_image": "/img/appstore/id/04-box.webp",
+      "card_image_alt": "Latar yang diburamkan dengan halus",
+      "meta_title": "Gaussian blur di iPhone: apa itu dan kapan memakainya",
+      "meta_description": "Apa itu Gaussian blur, bedanya dengan Box dan Motion, dan cara memakainya di iPhone untuk latar belakang, wajah, atau seluruh foto. Atur Radius, gratis.",
+      "h1": "Gaussian blur di iPhone",
+      "answer": "Gaussian blur adalah blur halus dan merata, seperti lensa yang tidak fokus. Di iPhone: buka foto di MakeBlur, pilih area (Background, Faces, Manual, atau Full Photo), pilih gaya Gaussian, dan atur Radius — makin besar, makin blur. Ketuk Save.",
+      "intro": "Gaussian blur adalah filter blur paling umum dalam edit foto, ada di Photoshop dan hampir semua aplikasi edit. Setiap piksel dicampur dengan piksel di sekitarnya mengikuti distribusi Gauss (kurva lonceng), sehingga peralihannya halus tanpa tepi tajam.",
+      "image": "/img/appstore/id/04-box.webp",
+      "image_alt": "Latar diburamkan, subjek tajam",
+      "native": {
+        "heading": "Apakah iPhone punya filter Gaussian?",
+        "paragraphs": [
+          "App Foto tidak punya filter blur. Efek Potret memakai blur simulasi lensa, hanya untuk foto dengan data kedalaman."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian, Box, dan Motion",
+          "paragraphs": [
+            "Gaussian: halus dan natural — cocok untuk potret dan latar. Box: blur merata per kotak, tepinya lebih terlihat — cocok untuk menyensor tulisan. Motion: blur searah — memberi kesan cepat."
+          ]
+        },
+        {
+          "heading": "Apakah Gaussian cukup untuk privasi?",
+          "paragraphs": [
+            "Untuk wajah, Gaussian dengan Radius tinggi sudah cukup. Untuk tulisan kecil dan angka, Pixelate atau Box lebih aman karena Gaussian tipis kadang masih memperlihatkan bentuk huruf."
+          ]
+        }
+      ],
+      "steps_title": "Memakai Gaussian blur",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka foto",
+          "description": "Pilih dari galeri."
+        },
+        {
+          "number": "2",
+          "title": "Pilih area",
+          "description": "Background, Faces, Manual, atau Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Gaussian dan Radius",
+          "description": "Naikkan sampai tingkat blur yang diinginkan."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Simpan salinan."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Latar potret: Radius sedang paling realistis.",
+        "Latar untuk teks story: Gaussian kuat di Full Photo, mirip efek kaca buram.",
+        "Untuk tulisan: ganti ke Pixelate."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Apa arti Radius?",
+          "answer": "Jari-jari pencampuran piksel: makin besar, makin blur."
+        },
+        {
+          "question": "Bisa Gaussian blur online?",
+          "answer": "Bisa, editor blur online di situs ini punya Gaussian untuk seluruh foto."
+        },
+        {
+          "question": "Apakah resolusi berkurang?",
+          "answer": "Tidak, foto disimpan dalam ukuran asli."
+        }
+      ],
+      "related": [
+        "efek-bokeh-iphone.html",
+        "efek-motion-blur-foto.html",
+        "cara-membuat-foto-blur-di-iphone.html",
+        "blur-background-foto.html"
+      ],
+      "cta_title": "Gaussian blur dengan satu slider",
+      "cta_body": "Unduh «Blur Foto Latar Belakang» dan blur latar, wajah, atau seluruh foto. Gratis, di perangkat.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "cara-membuat-foto-blur-di-iphone.html",
+      "keyword": "cara membuat foto blur di iPhone",
+      "cluster": "photo",
+      "card_title": "Cara membuat seluruh foto blur di iPhone",
+      "card_excerpt": "Seluruh foto buram lembut: untuk wallpaper, latar story, atau gambar abstrak. Di iPhone dan online.",
+      "card_image": "/img/appstore/id/06-ghost.webp",
+      "card_image_alt": "Seluruh foto diburamkan dengan gaya Ghosting",
+      "meta_title": "Cara membuat foto blur di iPhone: seluruh foto dalam detik",
+      "meta_description": "Cara membuat seluruh foto blur di iPhone untuk wallpaper, latar story, atau gambar abstrak: gaya Gaussian, Motion, Ghosting, plus cara blur foto online.",
+      "h1": "Cara membuat seluruh foto blur di iPhone",
+      "answer": "Untuk memburamkan seluruh foto, buka foto di MakeBlur, pilih tab Full Photo dan satu gaya — Gaussian untuk halus, Motion untuk gerak, Ghosting untuk dreamy — lalu naikkan Radius. Ketuk Save. Tanpa instal, editor blur online di situs ini juga bisa memburamkan seluruh foto.",
+      "intro": "Kadang yang dibutuhkan bukan blur latar di belakang orang, tapi seluruh gambar: wallpaper layar kunci, latar teks di story, cover abstrak, atau “teaser” sebelum foto asli diposting. Ini blur paling sederhana — tidak perlu mengenali subjek.",
+      "image": "/img/appstore/id/06-ghost.webp",
+      "image_alt": "Tab Full Photo dengan gaya Ghosting, Radius 79",
+      "native": {
+        "heading": "Bisakah app Foto membuat foto blur?",
+        "paragraphs": [
+          "Tidak: filter dan pengaturan di app Foto tidak punya blur. Layar kunci iOS bisa memburamkan wallpaper di bawah widget, tapi itu efek sistem, bukan gambar baru yang bisa dibagikan."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaya mana untuk apa",
+          "paragraphs": [
+            "Gaussian: lembut merata, terbaik untuk latar teks. Motion: kesan cepat, cocok untuk cover bertema olahraga. Ghosting: efek bayangan dreamy seperti di screenshot “Suasana bokeh yang lembut” (Radius 79). Pixelate dan Crystallize: mosaik abstrak."
+          ]
+        },
+        {
+          "heading": "Versi online",
+          "paragraphs": [
+            "Situs ini punya editor blur online gratis: unggah foto, pilih Gaussian, Pixel, atau Motion, lalu simpan sebagai PNG. Editor ini hanya memburamkan seluruh foto; untuk blur latar atau wajah saja, perlu aplikasinya."
+          ]
+        }
+      ],
+      "steps_title": "Blur seluruh foto di aplikasi",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka foto",
+          "description": "Pilih foto di MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Tab Full Photo",
+          "description": "Efek diterapkan ke seluruh bingkai."
+        },
+        {
+          "number": "3",
+          "title": "Gaya dan Radius",
+          "description": "Gaussian, Motion, atau Ghosting dengan kekuatan yang diinginkan."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Salinan blur muncul di galeri."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Untuk latar teks, pilih foto yang berwarna: setelah diblur tersisa gradasi warna yang cantik.",
+        "Wallpaper layar kunci: Gaussian kuat membuat jam dan ikon mudah dibaca.",
+        "Teaser: posting versi blur dulu, foto asli kemudian."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Bagaimana cara blur foto online?",
+          "answer": "Pakai editor blur online gratis di situs ini: unggah foto, pilih gaya dan kekuatan, simpan PNG. Editor ini memburamkan seluruh gambar."
+        },
+        {
+          "question": "Apa beda Full Photo dan Background?",
+          "answer": "Full Photo memburamkan seluruh foto, Background hanya memburamkan latar dan menjaga subjek tetap tajam."
+        },
+        {
+          "question": "Apakah resolusinya turun?",
+          "answer": "Tidak, salinan disimpan dalam ukuran asli."
+        }
+      ],
+      "related": [
+        "blur-foto.html",
+        "gaussian-blur-iphone.html",
+        "efek-motion-blur-foto.html",
+        "efek-bokeh-iphone.html"
+      ],
+      "cta_title": "Foto blur dalam hitungan detik",
+      "cta_body": "Unduh «Blur Foto Latar Belakang», pilih Full Photo dan satu gaya. Gratis, tanpa unggah ke cloud.",
+      "cta_text": "Unduh di App Store"
+    },
+    {
+      "slug": "blur-foto.html",
+      "keyword": "blur foto",
+      "cluster": "photo",
+      "card_title": "Blur foto: semua jenis efek blur",
+      "card_excerpt": "Apa itu blur, gaya apa saja yang ada, dan mana yang dipilih untuk latar, wajah, atau seluruh foto.",
+      "card_image": "/img/appstore/id/02-motion.webp",
+      "card_image_alt": "Efek blur di foto iPhone",
+      "meta_title": "Blur foto di iPhone: jenis efek blur dan cara membuatnya",
+      "meta_description": "Blur foto adalah efek yang membuat foto atau sebagiannya kurang tajam. Cara blur latar, wajah, sebagian, atau seluruh foto di iPhone: Gaussian, Motion, Pixel.",
+      "h1": "Blur foto: apa itu dan cara membuatnya di iPhone",
+      "answer": "Blur adalah efek yang membuat foto atau sebagian foto kurang tajam. Di iPhone, blur foto dengan MakeBlur: pilih area (Background untuk latar, Faces untuk wajah, Manual untuk satu area, Full Photo untuk seluruh gambar), pilih gaya seperti Gaussian, Motion, atau Ghosting, atur Radius, lalu ketuk Save.",
+      "intro": "Orang yang mencari “blur foto” hampir selalu punya salah satu dari empat tujuan: latar lembut di belakang orang, menyensor wajah, menutupi area berisi tulisan atau plat nomor, atau memburamkan seluruh foto. Untuk foto biasa, editor bawaan iPhone tidak bisa melakukan satu pun.",
+      "image": "/img/appstore/id/02-motion.webp",
+      "image_alt": "Gaya Motion: blur latar belakang",
+      "native": {
+        "heading": "Apa yang ada di iPhone",
+        "paragraphs": [
+          "Blur latar: hanya mode Potret, saat memotret. Kuas blur di app Foto: tidak ada. Markup: pena dan bentuk untuk menutup, bukan blur. Clean Up (Apple Intelligence): menghapus objek, perlu iPhone 15 Pro ke atas, belum berbahasa Indonesia."
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Jenis-jenis blur",
+          "paragraphs": [
+            "Gaussian: blur halus natural. Motion: jejak gerak yang arahnya bisa diatur. Ghosting: efek bayangan dreamy. Box: blur merata. Pixelate, Hexagonal, dan Crystallize: mosaik untuk sensor privasi atau efek grafis."
+          ]
+        },
+        {
+          "heading": "Di mana diterapkan",
+          "paragraphs": [
+            "Background menjaga subjek tetap tajam dan memburamkan latar. Faces memburamkan semua wajah. Manual memburamkan area yang Anda warnai. Full Photo memburamkan seluruh foto. Bisa untuk foto kamera, screenshot, dan gambar dari WhatsApp atau Telegram yang tersimpan di galeri."
+          ]
+        }
+      ],
+      "steps_title": "Blur foto di aplikasi",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Buka foto atau screenshot",
+          "description": "Pilih di MakeBlur."
+        },
+        {
+          "number": "2",
+          "title": "Pilih mode",
+          "description": "Background, Faces, Manual, atau Full Photo."
+        },
+        {
+          "number": "3",
+          "title": "Gaya dan Radius",
+          "description": "Jenis blur dan kekuatannya."
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "Salinan dengan efek tersimpan di galeri."
+        }
+      ],
+      "tips_title": "Tips",
+      "tips": [
+        "Untuk estetika: Gaussian atau Ghosting; untuk privasi: Pixelate.",
+        "Gabungkan mode: Background untuk latar dulu, lalu Manual untuk detail yang mengganggu.",
+        "Simpan beberapa kekuatan dan pilih yang terbaik."
+      ],
+      "faq_title": "Pertanyaan umum",
+      "faq": [
+        {
+          "question": "Bisa blur foto tanpa aplikasi?",
+          "answer": "Untuk foto biasa, app Foto tidak bisa. Anda bisa menutup dengan bentuk di Markup, atau memburamkan seluruh foto dengan editor online di situs ini."
+        },
+        {
+          "question": "Bisa blur screenshot?",
+          "answer": "Bisa, screenshot dibuka di aplikasi seperti foto biasa."
+        },
+        {
+          "question": "Gratis?",
+          "answer": "Unduhannya gratis dan blur dasar sudah ada; gaya lanjutan bisa dibuka lewat pembelian di app."
+        }
+      ],
+      "related": [
+        "cara-membuat-foto-blur-di-iphone.html",
+        "cara-blur-latar-belakang-foto-iphone.html",
+        "blur-sebagian-foto-iphone.html",
+        "efek-motion-blur-foto.html"
+      ],
+      "cta_title": "Blur foto dalam semenit",
+      "cta_body": "Unduh «Blur Foto Latar Belakang» dan blur latar, wajah, atau seluruh foto. Gratis, iPhone iOS 18.6.",
+      "cta_text": "Unduh di App Store"
+    }
+  ]
+}

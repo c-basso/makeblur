@@ -19,7 +19,8 @@ const LANGUAGES = [
     'tr',
     'uk',
     'vi',
-    'cn'
+    'cn',
+    'id'
 ];
 
 /** BCP 47 hreflang values (URL path stays short: jp, cn, …). */
@@ -106,7 +107,8 @@ const LAST_UPDATED_PREFIX = {
     th: 'อัปเดตล่าสุด: ',
     ko: '최종 업데이트: ',
     jp: '最終更新：',
-    cn: '最近更新：'
+    cn: '最近更新：',
+    id: 'Terakhir diperbarui: '
 };
 
 /**

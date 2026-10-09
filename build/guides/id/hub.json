@@ -1,0 +1,30 @@
+{
+  "nav_text": "Panduan",
+  "title": "Panduan langkah demi langkah",
+  "intro": "Blur latar belakang, sensor wajah, plat nomor, atau tulisan, blur seluruh foto: setiap panduan menunjukkan langkah tepatnya di iPhone.",
+  "learn_more_text": "Selengkapnya",
+  "related_title": "Panduan terkait",
+  "answer_label": "Ringkasnya",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "Blur latar belakang",
+      "blurb": "Subjek tajam, latar lembut — juga untuk foto yang sudah diambil."
+    },
+    {
+      "id": "privacy",
+      "title": "Sensor wajah, plat nomor, dan tulisan",
+      "blurb": "Blur untuk privasi sebelum posting."
+    },
+    {
+      "id": "effects",
+      "title": "Efek blur",
+      "blurb": "Motion blur, bokeh, dan Gaussian."
+    },
+    {
+      "id": "photo",
+      "title": "Blur foto apa pun",
+      "blurb": "Seluruh foto dan dasar-dasar efek blur."
+    }
+  ]
+}

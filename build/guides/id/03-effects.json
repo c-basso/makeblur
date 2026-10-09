@@ -1,0 +1,257 @@
+[
+  {
+    "slug": "efek-motion-blur-foto.html",
+    "keyword": "efek motion blur foto",
+    "cluster": "effects",
+    "card_title": "Efek motion blur di foto",
+    "card_excerpt": "Jejak kecepatan di belakang subjek: atur panjang dan arah untuk foto motor, mobil, olahraga.",
+    "card_image": "/img/appstore/id/02-motion.webp",
+    "card_image_alt": "Efek gerak di belakang perempuan",
+    "meta_title": "Efek motion blur foto di iPhone: kesan cepat dalam detik",
+    "meta_description": "Cara menambahkan efek motion blur ke foto di iPhone: subjek tetap tajam, latar seperti melaju. Atur panjang jejak dengan Radius dan arah dengan Angle. Gratis.",
+    "h1": "Efek motion blur untuk foto di iPhone",
+    "answer": "Untuk menambahkan motion blur, buka foto di MakeBlur, biarkan tab Background, lalu pilih gaya Motion. Radius menentukan panjang jejak, Angle menentukan arah. Subjek tetap tajam, latar seperti melaju kencang. Ketuk Save.",
+    "intro": "Motion blur adalah jejak buram yang muncul saat subjek atau kamera bergerak ketika memotret — kesan kecepatan di foto balap, bersepeda, atau menari. Memotretnya dengan shutter lambat itu sulit; menambahkannya setelah memotret jauh lebih mudah dan terkendali.",
+    "image": "/img/appstore/id/02-motion.webp",
+    "image_alt": "Gaya Motion di tab Background, Radius 65",
+    "native": {
+      "heading": "Bisakah kamera iPhone memotret motion blur?",
+      "paragraphs": [
+        "Live Photo punya efek Eksposur Panjang di app Foto — bagus untuk air terjun dan lampu kendaraan, tapi ikut memburamkan subjek yang bergerak dan butuh foto Live. Untuk foto biasa, iPhone tidak bisa menambahkan motion blur."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Memilih arah (Angle)",
+        "paragraphs": [
+          "Arahkan jejak sesuai arah gerak subjek: horizontal untuk motor yang melintas, diagonal untuk orang yang berlari ke arah kamera. Arah yang berlawanan terlihat tidak natural."
+        ]
+      },
+      {
+        "heading": "Hanya latar atau seluruh foto?",
+        "paragraphs": [
+          "Background + Motion: subjek tajam, latar melaju — mirip teknik panning. Full Photo + Motion: seluruh foto bergerak, cocok untuk gambar abstrak atau latar story."
+        ]
+      }
+    ],
+    "steps_title": "Menambahkan gerak di aplikasi",
+    "steps": [
+      {
+        "title": "Buka foto",
+        "description": "Foto dengan subjek jelas memberi hasil terbaik."
+      },
+      {
+        "title": "Background + Motion",
+        "description": "Subjek tetap tajam."
+      },
+      {
+        "title": "Radius dan Angle",
+        "description": "Panjang dan arah jejak."
+      },
+      {
+        "title": "Save",
+        "description": "Simpan salinan."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Radius sedang terlihat lebih nyata daripada maksimal.",
+      "Foto motor atau mobil: arah horizontal mengikuti badan kendaraan.",
+      "Mau kesan dreamy, bukan cepat? Coba Ghosting."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Apa beda motion blur dan Eksposur Panjang?",
+        "answer": "Eksposur Panjang menggabungkan frame Live Photo; motion blur di aplikasi diterapkan ke foto biasa dan arah serta panjangnya bisa diatur."
+      },
+      {
+        "question": "Bisa beri gerak hanya pada subjek?",
+        "answer": "Pakai Manual + Motion dan warnai area yang mau diberi jejak."
+      },
+      {
+        "question": "Gratis?",
+        "answer": "Unduhannya gratis; beberapa gaya lanjutan bisa dibuka lewat pembelian di app."
+      }
+    ],
+    "related": [
+      "efek-bokeh-iphone.html",
+      "gaussian-blur-iphone.html",
+      "blur-background-foto.html",
+      "blur-foto.html"
+    ],
+    "cta_title": "Beri kecepatan pada foto",
+    "cta_body": "Unduh «Blur Foto Latar Belakang», pilih Motion, dan atur arahnya. Gratis, diproses di perangkat.",
+    "cta_text": "Unduh di App Store"
+  },
+  {
+    "slug": "efek-bokeh-iphone.html",
+    "keyword": "efek bokeh di iPhone",
+    "cluster": "effects",
+    "card_title": "Efek bokeh di iPhone",
+    "card_excerpt": "Latar lembut, titik cahaya berkilau: kesan bokeh untuk foto yang tidak diambil dengan mode Potret.",
+    "card_image": "/img/appstore/id/06-ghost.webp",
+    "card_image_alt": "Foto bergaya bokeh yang lembut",
+    "meta_title": "Efek bokeh di iPhone: latar lembut untuk foto apa pun",
+    "meta_description": "Apa itu bokeh dan cara membuat efek bokeh di iPhone untuk foto yang sudah diambil: subjek tajam, latar lembut, cahaya berkilau. Pakai Gaussian atau Ghosting.",
+    "h1": "Efek bokeh di iPhone",
+    "answer": "Untuk efek bokeh, buka foto di MakeBlur, biarkan tab Background, lalu pilih Gaussian untuk latar lembut natural seperti lensa bukaan besar. Untuk kesan lebih dreamy, coba Ghosting. Atur Radius lalu ketuk Save.",
+    "intro": "Bokeh (dari bahasa Jepang “boke”, artinya kabur) adalah kualitas area yang tidak fokus: latar halus dan titik cahaya bulat yang berkilau. Di Indonesia, bokeh sering disamakan dengan “foto blur belakang” ala kamera DSLR. Foto mode Potret sudah punya efek ini; foto biasa bisa ditambahkan belakangan.",
+    "image": "/img/appstore/id/06-ghost.webp",
+    "image_alt": "Gaya Ghosting di seluruh foto, Radius 79",
+    "native": {
+      "heading": "Bokeh di app Foto",
+      "paragraphs": [
+        "Foto Potret punya pengaturan kedalaman (ƒ) di Edit: angka lebih kecil membuat latar lebih blur. Foto biasa tidak punya pengaturan ini."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian atau Ghosting?",
+        "paragraphs": [
+          "Gaussian: latar lembut merata, seperti potret dari kamera DSLR. Ghosting: lapisan bayangan yang memberi kesan dreamy — cantik untuk foto malam, lampu, dan pernikahan."
+        ]
+      },
+      {
+        "heading": "Foto yang cocok untuk bokeh",
+        "paragraphs": [
+          "Foto dengan lampu, sinar matahari di sela daun, atau lampu jalan di malam hari — area terang membentuk titik cahaya cantik saat diblur. Latar yang polos membuat bokeh kurang terlihat."
+        ]
+      }
+    ],
+    "steps_title": "Membuat bokeh di aplikasi",
+    "steps": [
+      {
+        "title": "Buka foto",
+        "description": "Latar dengan lampu atau sinar matahari lebih bagus."
+      },
+      {
+        "title": "Tab Background",
+        "description": "Subjek tetap tajam."
+      },
+      {
+        "title": "Gaussian atau Ghosting",
+        "description": "Atur Radius."
+      },
+      {
+        "title": "Save",
+        "description": "Simpan salinan."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Saat memotret, beri jarak antara subjek dan latar agar bokeh terlihat nyata.",
+      "Foto malam dengan lampu: coba Ghosting di Full Photo.",
+      "Jangan berlebihan — latar tetap perlu memberi konteks."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Apakah bokeh sama dengan blur latar?",
+        "answer": "Mirip: blur latar artinya memburamkan latar, bokeh menggambarkan keindahan area blur itu."
+      },
+      {
+        "question": "Perlu iPhone dengan mode Potret?",
+        "answer": "Tidak, aplikasi jalan di semua iPhone dengan iOS 18.6 ke atas."
+      },
+      {
+        "question": "Bisa bokeh untuk foto malam?",
+        "answer": "Bisa, foto dengan lampu justru sering menghasilkan bokeh paling cantik."
+      }
+    ],
+    "related": [
+      "gaussian-blur-iphone.html",
+      "cara-blur-latar-belakang-foto-iphone.html",
+      "efek-motion-blur-foto.html",
+      "cara-membuat-foto-blur-di-iphone.html"
+    ],
+    "cta_title": "Bokeh untuk foto yang sudah ada",
+    "cta_body": "Unduh «Blur Foto Latar Belakang» dan coba Gaussian dan Ghosting. Gratis, tanpa unggah ke cloud.",
+    "cta_text": "Unduh di App Store"
+  },
+  {
+    "slug": "gaussian-blur-iphone.html",
+    "keyword": "Gaussian blur di iPhone",
+    "cluster": "effects",
+    "card_title": "Gaussian blur di iPhone",
+    "card_excerpt": "Blur paling halus, merata, dan natural — untuk latar, wajah, atau seluruh foto.",
+    "card_image": "/img/appstore/id/04-box.webp",
+    "card_image_alt": "Latar yang diburamkan dengan halus",
+    "meta_title": "Gaussian blur di iPhone: apa itu dan kapan memakainya",
+    "meta_description": "Apa itu Gaussian blur, bedanya dengan Box dan Motion, dan cara memakainya di iPhone untuk latar belakang, wajah, atau seluruh foto. Atur Radius, gratis.",
+    "h1": "Gaussian blur di iPhone",
+    "answer": "Gaussian blur adalah blur halus dan merata, seperti lensa yang tidak fokus. Di iPhone: buka foto di MakeBlur, pilih area (Background, Faces, Manual, atau Full Photo), pilih gaya Gaussian, dan atur Radius — makin besar, makin blur. Ketuk Save.",
+    "intro": "Gaussian blur adalah filter blur paling umum dalam edit foto, ada di Photoshop dan hampir semua aplikasi edit. Setiap piksel dicampur dengan piksel di sekitarnya mengikuti distribusi Gauss (kurva lonceng), sehingga peralihannya halus tanpa tepi tajam.",
+    "image": "/img/appstore/id/04-box.webp",
+    "image_alt": "Latar diburamkan, subjek tajam",
+    "native": {
+      "heading": "Apakah iPhone punya filter Gaussian?",
+      "paragraphs": [
+        "App Foto tidak punya filter blur. Efek Potret memakai blur simulasi lensa, hanya untuk foto dengan data kedalaman."
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian, Box, dan Motion",
+        "paragraphs": [
+          "Gaussian: halus dan natural — cocok untuk potret dan latar. Box: blur merata per kotak, tepinya lebih terlihat — cocok untuk menyensor tulisan. Motion: blur searah — memberi kesan cepat."
+        ]
+      },
+      {
+        "heading": "Apakah Gaussian cukup untuk privasi?",
+        "paragraphs": [
+          "Untuk wajah, Gaussian dengan Radius tinggi sudah cukup. Untuk tulisan kecil dan angka, Pixelate atau Box lebih aman karena Gaussian tipis kadang masih memperlihatkan bentuk huruf."
+        ]
+      }
+    ],
+    "steps_title": "Memakai Gaussian blur",
+    "steps": [
+      {
+        "title": "Buka foto",
+        "description": "Pilih dari galeri."
+      },
+      {
+        "title": "Pilih area",
+        "description": "Background, Faces, Manual, atau Full Photo."
+      },
+      {
+        "title": "Gaussian dan Radius",
+        "description": "Naikkan sampai tingkat blur yang diinginkan."
+      },
+      {
+        "title": "Save",
+        "description": "Simpan salinan."
+      }
+    ],
+    "tips_title": "Tips",
+    "tips": [
+      "Latar potret: Radius sedang paling realistis.",
+      "Latar untuk teks story: Gaussian kuat di Full Photo, mirip efek kaca buram.",
+      "Untuk tulisan: ganti ke Pixelate."
+    ],
+    "faq_title": "Pertanyaan umum",
+    "faq": [
+      {
+        "question": "Apa arti Radius?",
+        "answer": "Jari-jari pencampuran piksel: makin besar, makin blur."
+      },
+      {
+        "question": "Bisa Gaussian blur online?",
+        "answer": "Bisa, editor blur online di situs ini punya Gaussian untuk seluruh foto."
+      },
+      {
+        "question": "Apakah resolusi berkurang?",
+        "answer": "Tidak, foto disimpan dalam ukuran asli."
+      }
+    ],
+    "related": [
+      "efek-bokeh-iphone.html",
+      "efek-motion-blur-foto.html",
+      "cara-membuat-foto-blur-di-iphone.html",
+      "blur-background-foto.html"
+    ],
+    "cta_title": "Gaussian blur dengan satu slider",
+    "cta_body": "Unduh «Blur Foto Latar Belakang» dan blur latar, wajah, atau seluruh foto. Gratis, di perangkat.",
+    "cta_text": "Unduh di App Store"
+  }
+]
