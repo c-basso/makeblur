@@ -392,21 +392,53 @@
   },
   "editor": {
     "page_slug": "flouter-photo-fond-en-ligne-editeur.html",
-    "meta_title": "Flouter une photo en ligne gratuit — Gaussian, Pixel, Motion",
-    "meta_description": "Floutez une photo entière en ligne gratuitement : importez l'image, appliquez Gaussian, Pixel ou Motion, réglez l'intensité et téléchargez en PNG.",
-    "h1": "Flouter une photo en ligne — éditeur gratuit",
-    "intro": "Importez une photo, choisissez Gaussian, Pixel ou Motion, réglez l'intensité et exportez en PNG. L'éditeur web floute l'image entière.",
+    "meta_title": "Flouter une photo en ligne gratuit — et flouter le fond",
+    "meta_description": "Floutez une photo entière en ligne et gratuitement (Gaussian, Pixel, Motion), puis téléchargez en PNG. Pour flouter seulement le fond, utilisez l’app iPhone.",
+    "h1": "Flouter une photo en ligne gratuit — et le fond sur iPhone",
+    "intro": "Importez une photo, choisissez Gaussian, Pixel ou Motion, réglez l’intensité et téléchargez le PNG. Cet éditeur en ligne floute l’image entière ; pour flouter seulement l’arrière-plan, voir plus bas.",
     "upload_button": "Importer une photo",
     "download_button": "Télécharger PNG",
     "slider_label": "Intensité du flou",
     "placeholder_line1": "Aucune photo importée.",
     "placeholder_line2": "Cliquez sur « Importer une photo » pour commencer.",
     "hero_link_text": "Éditeur de flou photo en ligne",
-    "seo_heading": "Éditeur gratuit de flou photo en ligne",
-    "seo_paragraph": "Floutez une photo entière, masquez des détails ou créez un effet de mouvement sans rien installer. Pour flouter seulement l'arrière-plan ou les visages, utilisez l'app iPhone.",
+    "seo_heading": "Quand flouter toute la photo",
+    "seo_paragraph": "Fond pour un texte en post ou en story, fond d’écran doux, aperçu flouté avant de dévoiler une photo, ou tout masquer d’un coup avec Pixel. Fonctionne dans le navigateur, sans inscription ni installation.",
     "back_to_home_text": "Retour à l'accueil",
     "app_cta_heading": "Envie de flouter seulement l'arrière-plan ou les visages ?",
     "app_cta_subtext": "L'éditeur web floute la photo entière. Pour garder le sujet net et flouter uniquement l'arrière-plan, les visages ou une zone précise, installez Arrière Plan Flou Photo sur votre iPhone.",
-    "app_cta_button": "Télécharger l'app"
+    "app_cta_button": "Télécharger l'app",
+    "background": {
+      "heading": "Envie de flouter seulement le fond de la photo ?",
+      "paragraphs": [
+        "Flouter uniquement l’arrière-plan demande de séparer le sujet du décor, ce que cet éditeur en ligne ne fait pas. Sur iPhone, l’app gratuite MakeBlur détecte le sujet automatiquement et ne floute que le fond, même sur des photos prises sans le mode Portrait. Tout se fait sur l’appareil, sans envoyer la photo sur Internet."
+      ],
+      "steps": [
+        "Téléchargez l’app gratuite sur l’App Store et ouvrez la photo.",
+        "Laissez l’onglet Background : le sujet est détecté et reste net.",
+        "Choisissez Gaussian, réglez le Radius et touchez Save."
+      ],
+      "guide_slug": "flouter-fond-photo.html",
+      "guide_link_text": "Guide : comment flouter le fond d’une photo"
+    },
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "Peut-on flouter seulement le fond en ligne ?",
+        "answer": "Cet éditeur floute la photo entière. Pour flouter uniquement le fond et garder la personne nette, utilisez l’app MakeBlur sur iPhone : elle détecte le sujet seule et traite la photo sur l’appareil."
+      },
+      {
+        "question": "L’éditeur en ligne est-il gratuit ?",
+        "answer": "Oui : gratuit, sans inscription et sans filigrane. Importez la photo, appliquez l’effet et téléchargez le PNG."
+      },
+      {
+        "question": "Ma photo est-elle envoyée sur un serveur ?",
+        "answer": "Non. L’éditeur fonctionne dans le navigateur : l’image est traitée sur votre appareil et téléchargée directement en PNG."
+      },
+      {
+        "question": "Quel effet choisir ?",
+        "answer": "Gaussian pour un flou doux, Pixel pour masquer des détails comme un visage ou un texte, Motion pour un effet de mouvement."
+      }
+    ]
   }
 }

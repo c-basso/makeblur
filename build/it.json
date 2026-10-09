@@ -395,21 +395,53 @@
   },
   "editor": {
     "page_slug": "sfocare-sfondo-foto-online-editor.html",
-    "meta_title": "Sfocare una foto online gratis — Gaussian, Pixel e Motion",
-    "meta_description": "Sfoca un'intera foto online gratis: carica l'immagine, applica Gaussian, Pixel o Motion, regola l'intensità e scarica il PNG. Nessuna installazione richiesta.",
-    "h1": "Sfocare una foto online — editor gratuito",
-    "intro": "Carica una foto, scegli Gaussian, Pixel o Motion, regola l'intensità ed esporta in PNG. L'editor web sfoca l'intera immagine.",
+    "meta_title": "Sfocare una foto online gratis — e sfocare solo lo sfondo",
+    "meta_description": "Sfoca un’intera foto online e gratis (Gaussian, Pixel, Motion) e scarica il PNG. Vuoi sfocare solo lo sfondo e tenere nitido il soggetto? Usa l’app su iPhone.",
+    "h1": "Sfocare una foto online gratis — e solo lo sfondo su iPhone",
+    "intro": "Carica una foto, scegli Gaussian, Pixel o Motion, regola l’intensità e scarica il PNG. Questo editor online sfoca l’intera immagine; per sfocare solo lo sfondo, vedi sotto.",
     "upload_button": "Carica foto",
     "download_button": "Scarica PNG",
     "slider_label": "Intensità sfocatura",
     "placeholder_line1": "Nessuna foto caricata.",
     "placeholder_line2": "Tocca «Carica foto» per iniziare.",
     "hero_link_text": "Editor online per sfocare foto",
-    "seo_heading": "Editor online gratuito per sfocare foto",
-    "seo_paragraph": "Sfoca un'intera foto, nascondi i dettagli o crea un effetto mosso senza installare nulla. Per sfocare solo lo sfondo o i volti, usa l'app per iPhone.",
+    "seo_heading": "Quando sfocare tutta la foto",
+    "seo_paragraph": "Sfondo per testi in post e storie, sfondo morbido per lo schermo, anteprima sfocata prima di svelare una foto, oppure nascondere tutto con Pixel. Funziona nel browser, senza registrazione e senza installare nulla.",
     "back_to_home_text": "Torna alla home",
     "app_cta_heading": "Vuoi sfocare solo lo sfondo o i volti?",
     "app_cta_subtext": "L'editor web sfoca l'intera foto. Per mantenere nitido il soggetto e sfocare solo sfondo, volti o un'area, installa MakeBlur su iPhone.",
-    "app_cta_button": "Scarica l'app"
+    "app_cta_button": "Scarica l'app",
+    "background": {
+      "heading": "Vuoi sfocare solo lo sfondo della foto?",
+      "paragraphs": [
+        "Per sfocare solo lo sfondo bisogna separare il soggetto dalla scena, e questo editor online non lo fa. Su iPhone, l’app gratuita MakeBlur riconosce il soggetto in automatico e sfoca solo lo sfondo, anche nelle foto scattate senza modalità Ritratto. Tutto avviene sul dispositivo, senza caricare la foto online."
+      ],
+      "steps": [
+        "Scarica l’app gratis dall’App Store e apri la foto.",
+        "Lascia la scheda Background: il soggetto viene riconosciuto e resta nitido.",
+        "Scegli Gaussian, regola il Radius e tocca Save."
+      ],
+      "guide_slug": "come-sfuocare-sfondo-foto.html",
+      "guide_link_text": "Guida: come sfocare lo sfondo di una foto"
+    },
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "question": "Si può sfocare solo lo sfondo online?",
+        "answer": "Questo editor sfoca l’intera foto. Per sfocare solo lo sfondo e tenere nitida la persona, usa l’app MakeBlur su iPhone: riconosce il soggetto da sola ed elabora la foto sul dispositivo."
+      },
+      {
+        "question": "L’editor online è gratis?",
+        "answer": "Sì: gratis, senza registrazione e senza filigrana. Carica la foto, applica l’effetto e scarica il PNG."
+      },
+      {
+        "question": "La mia foto viene caricata su un server?",
+        "answer": "No. L’editor funziona nel browser: l’immagine viene elaborata sul tuo dispositivo e scaricata direttamente in PNG."
+      },
+      {
+        "question": "Quale effetto scegliere?",
+        "answer": "Gaussian per una sfocatura morbida, Pixel per nascondere dettagli come volti o testi, Motion per un effetto movimento."
+      }
+    ]
   }
 }

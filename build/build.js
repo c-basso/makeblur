@@ -179,6 +179,21 @@ function getRequiredString(obj, keyPath) {
             const localePrefix = lang === DEFAULT_LANGUAGE ? '' : `${lang}/`;
             data.editor.page_url = `${SITE_URL}${localePrefix}${data.editor.page_slug}`;
             allUrls.add(data.editor.page_url);
+            // Optional editor sections: "only the background?" block (points to the app guide) + FAQ.
+            if (data.editor.background && data.editor.background.guide_slug) {
+                data.editor.background.guide_url = `/${localePrefix}${data.editor.background.guide_slug}`;
+            }
+            if (Array.isArray(data.editor.faq) && data.editor.faq.length) {
+                data.editor.faq_jsonld = {
+                    '@context': 'https://schema.org',
+                    '@type': 'FAQPage',
+                    mainEntity: data.editor.faq.map((item) => ({
+                        '@type': 'Question',
+                        name: item.question,
+                        acceptedAnswer: { '@type': 'Answer', text: item.answer },
+                    })),
+                };
+            }
 
             data.hero = data.hero || {};
             if (!data.hero.image) {

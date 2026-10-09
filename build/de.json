@@ -395,21 +395,53 @@
   },
   "editor": {
     "page_slug": "foto-hintergrund-online-unscharf-editor.html",
-    "meta_title": "Foto online unscharf machen — gratis Gaussian, Pixel, Motion",
-    "meta_description": "Machen Sie ein ganzes Foto online kostenlos unscharf: Bild hochladen, Gaussian, Pixel oder Motion anwenden, Stärke einstellen und als PNG herunterladen.",
-    "h1": "Foto online unscharf machen — kostenloser Editor",
-    "intro": "Laden Sie ein Foto hoch, wählen Sie Gaussian, Pixel oder Motion, stellen Sie die Stärke ein und exportieren Sie PNG. Der Web-Editor macht das ganze Bild unscharf.",
+    "meta_title": "Foto online unscharf machen – und nur den Hintergrund",
+    "meta_description": "Ganzes Foto online und kostenlos unscharf machen (Gaussian, Pixel, Motion) als PNG laden. Nur den Hintergrund unscharf machen? Mit der kostenlosen iPhone-App.",
+    "h1": "Foto online unscharf machen – und nur den Hintergrund am iPhone",
+    "intro": "Foto hochladen, Gaussian, Pixel oder Motion wählen, Stärke einstellen und als PNG herunterladen. Dieser Online-Editor macht das ganze Bild unscharf; wie Sie nur den Hintergrund unscharf machen, steht weiter unten.",
     "upload_button": "Foto hochladen",
     "download_button": "PNG herunterladen",
     "slider_label": "Unschärfe-Stärke",
     "placeholder_line1": "Noch kein Foto hochgeladen.",
     "placeholder_line2": "Klicken Sie auf „Foto hochladen“, um zu starten.",
     "hero_link_text": "Online-Editor für Foto-Unschärfe",
-    "seo_heading": "Kostenloser Online-Editor für Foto-Unschärfe",
-    "seo_paragraph": "Machen Sie ein ganzes Foto unscharf, verbergen Sie Details oder erzeugen Sie Bewegungsunschärfe – ohne Installation. Nur den Hintergrund oder Gesichter unscharf machen: mit der iPhone-App.",
+    "seo_heading": "Wann das ganze Foto unscharf sein soll",
+    "seo_paragraph": "Hintergrund für Text in Posts und Storys, weiches Hintergrundbild, verschwommene Vorschau vor dem Reveal oder alles auf einmal verpixeln. Läuft im Browser, ohne Anmeldung und ohne Installation.",
     "back_to_home_text": "Zurück zur Startseite",
     "app_cta_heading": "Nur den Hintergrund oder Gesichter unscharf machen?",
     "app_cta_subtext": "Der Web-Editor macht das ganze Foto unscharf. Um das Motiv scharf zu halten und nur Hintergrund, Gesichter oder einen Bereich weichzuzeichnen, installieren Sie MakeBlur auf dem iPhone.",
-    "app_cta_button": "App herunterladen"
+    "app_cta_button": "App herunterladen",
+    "background": {
+      "heading": "Nur den Hintergrund unscharf machen?",
+      "paragraphs": [
+        "Dafür muss das Motiv vom Hintergrund getrennt werden – das kann dieser Online-Editor nicht. Am iPhone erkennt die kostenlose App MakeBlur das Motiv automatisch und macht nur den Hintergrund unscharf, auch bei Fotos ohne Porträtmodus. Alles passiert auf dem Gerät, ohne Upload."
+      ],
+      "steps": [
+        "Kostenlose App im App Store laden und das Foto öffnen.",
+        "Tab Background lassen: Das Motiv wird erkannt und bleibt scharf.",
+        "Gaussian wählen, Radius einstellen und auf Save tippen."
+      ],
+      "guide_slug": "foto-hintergrund-unscharf-machen.html",
+      "guide_link_text": "Anleitung: Foto-Hintergrund unscharf machen"
+    },
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "question": "Kann man online nur den Hintergrund unscharf machen?",
+        "answer": "Dieser Editor macht das ganze Foto unscharf. Um nur den Hintergrund weichzuzeichnen und die Person scharf zu lassen, nutzen Sie die App MakeBlur am iPhone: Sie erkennt das Motiv selbst und bearbeitet das Foto auf dem Gerät."
+      },
+      {
+        "question": "Ist der Online-Editor kostenlos?",
+        "answer": "Ja – kostenlos, ohne Anmeldung und ohne Wasserzeichen. Foto hochladen, Effekt anwenden, PNG herunterladen."
+      },
+      {
+        "question": "Wird mein Foto auf einen Server hochgeladen?",
+        "answer": "Nein. Der Editor läuft im Browser: Das Bild wird auf Ihrem Gerät bearbeitet und direkt als PNG gespeichert."
+      },
+      {
+        "question": "Welchen Effekt soll ich wählen?",
+        "answer": "Gaussian für einen weichen Weichzeichner, Pixel zum Verpixeln von Gesichtern oder Text, Motion für Bewegungsunschärfe."
+      }
+    ]
   }
 }

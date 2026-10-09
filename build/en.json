@@ -362,22 +362,54 @@
   },
   "editor": {
     "page_slug": "photo-blur-editor-online.html",
-    "meta_title": "Photo Blur Editor Online - Free Gaussian, Pixel & Motion Blur",
-    "meta_description": "Blur photos online for free. Upload an image, apply gaussian, pixel, or motion blur, adjust blur strength, and download PNG instantly.",
-    "h1": "Photo Blur Editor Online - Free Blur Tool",
-    "intro": "Upload a photo, choose gaussian, pixel, or motion blur, adjust strength, and export high-quality PNG.",
+    "meta_title": "Blur Photo Online Free — and How to Blur Only the Background",
+    "meta_description": "Blur a whole photo online for free with Gaussian, Pixel or Motion blur and download a PNG. To blur only the background and keep the subject sharp, get the app.",
+    "h1": "Blur a Photo Online for Free — and Just the Background on iPhone",
+    "intro": "Upload a photo, pick Gaussian, Pixel or Motion, set the strength and download a PNG. This online editor blurs the whole image; to blur only the background, see below.",
     "upload_button": "Upload Photo",
     "download_button": "Download PNG",
     "slider_label": "Blur Strength",
     "placeholder_line1": "No photo uploaded yet.",
     "placeholder_line2": "Click \"Upload Photo\" to start editing.",
     "hero_link_text": "Open Free Online Photo Blur Editor (Gaussian, Pixel, Motion)",
-    "seo_heading": "Free Online Photo Blur Editor",
-    "seo_paragraph": "Use this one-page editor to blur photos, hide details, and create motion effects without installing software.",
+    "seo_heading": "When to blur the whole photo",
+    "seo_paragraph": "A backdrop for text in posts and stories, a soft wallpaper, a blurred teaser before the reveal, or hiding everything at once with Pixel. Runs in your browser, with no sign-up and nothing to install.",
     "back_to_home_text": "Back to homepage",
     "app_cta_heading": "Need full selective background blur and pro tools?",
     "app_cta_subtext": "For complete editing features, faster workflow, and advanced controls, install the Make Blur app on iPhone.",
-    "app_cta_button": "Download Make Blur App"
+    "app_cta_button": "Download Make Blur App",
+    "background": {
+      "heading": "Want to blur only the background of a photo?",
+      "paragraphs": [
+        "Blurring just the background means separating the subject from the scene, and this online editor does not do that. On iPhone, the free MakeBlur app detects the subject automatically and blurs only the background, even in photos taken without Portrait mode. Everything happens on the device, without uploading the photo."
+      ],
+      "steps": [
+        "Get the free app from the App Store and open the photo.",
+        "Keep the Background tab: the subject is detected and stays sharp.",
+        "Choose Gaussian, set the Radius and tap Save."
+      ],
+      "guide_slug": "blur-background-of-photo.html",
+      "guide_link_text": "Guide: how to blur the background of a photo"
+    },
+    "faq_title": "FAQ",
+    "faq": [
+      {
+        "question": "Can I blur only the background online?",
+        "answer": "This editor blurs the whole photo. To blur just the background and keep the person sharp, use the MakeBlur app on iPhone: it detects the subject by itself and processes the photo on the device."
+      },
+      {
+        "question": "Is the online blur editor free?",
+        "answer": "Yes: free, no sign-up and no watermark. Upload the photo, apply the effect and download the PNG."
+      },
+      {
+        "question": "Is my photo uploaded to a server?",
+        "answer": "No. The editor runs in your browser: the image is processed on your device and downloaded straight as a PNG."
+      },
+      {
+        "question": "Which effect should I choose?",
+        "answer": "Gaussian for a soft blur, Pixel to hide details such as faces or text, Motion for a movement effect."
+      }
+    ]
   },
   "modes": {
     "title": "Four modes, one slider",

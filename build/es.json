@@ -395,21 +395,53 @@
   },
   "editor": {
     "page_slug": "desenfocar-fondo-foto-online-editor.html",
-    "meta_title": "Desenfocar foto online gratis — editor Gaussian, Pixel y Motion",
-    "meta_description": "Desenfoca una foto completa online gratis: sube la imagen, aplica Gaussian, Pixel o Motion, ajusta la intensidad y descarga PNG. Sin registro.",
-    "h1": "Desenfocar foto online — editor gratis",
-    "intro": "Sube una foto, elige Gaussian, Pixel o Motion, ajusta la intensidad y descarga PNG. El editor web desenfoca la imagen completa.",
+    "meta_title": "Desenfocar foto online gratis — y cómo desenfocar el fondo",
+    "meta_description": "Desenfoca una foto entera online y gratis (Gaussian, Pixel, Motion) y descarga el PNG. ¿Solo quieres desenfocar el fondo? Hazlo con la app gratis para iPhone.",
+    "h1": "Desenfocar foto online gratis — y solo el fondo en iPhone",
+    "intro": "Sube una foto, elige Gaussian, Pixel o Motion, ajusta la intensidad y descarga el PNG. Este editor online desenfoca la imagen completa; para difuminar solo el fondo, mira más abajo.",
     "upload_button": "Subir foto",
     "download_button": "Descargar PNG",
     "slider_label": "Intensidad del desenfoque",
     "placeholder_line1": "Aún no hay foto cargada.",
     "placeholder_line2": "Pulsa «Subir foto» para empezar.",
     "hero_link_text": "Editor online para desenfocar fotos",
-    "seo_heading": "Editor online gratis para desenfocar fotos",
-    "seo_paragraph": "Desenfoca una foto completa, oculta detalles o crea efecto de movimiento sin instalar nada. Para desenfocar solo el fondo o los rostros, usa la app para iPhone.",
+    "seo_heading": "Cuándo desenfocar la foto entera",
+    "seo_paragraph": "Fondo para texto en publicaciones e historias, fondo de pantalla suave, vista previa borrosa antes de revelar una foto u ocultarlo todo con Pixel. Funciona en el navegador, sin registro y sin instalar nada.",
     "back_to_home_text": "Volver a la página principal",
     "app_cta_heading": "¿Quieres desenfocar solo el fondo o los rostros?",
     "app_cta_subtext": "El editor web desenfoca la foto entera. Para mantener nítido al sujeto y difuminar solo el fondo, los rostros o una zona concreta, instala Desenfocar Fondo de Foto en tu iPhone.",
-    "app_cta_button": "Descargar la app"
+    "app_cta_button": "Descargar la app",
+    "background": {
+      "heading": "¿Quieres desenfocar solo el fondo de la foto?",
+      "paragraphs": [
+        "Para difuminar solo el fondo hay que separar a la persona del escenario, y este editor online no lo hace. En iPhone, la app gratuita MakeBlur detecta al sujeto automáticamente y desenfoca solo el fondo, incluso en fotos hechas sin modo Retrato. Todo ocurre en el dispositivo, sin subir la foto a internet."
+      ],
+      "steps": [
+        "Descarga la app gratis en la App Store y abre la foto.",
+        "Deja la pestaña Background: el sujeto se detecta y queda nítido.",
+        "Elige Gaussian, ajusta el Radius y toca Save."
+      ],
+      "guide_slug": "desenfocar-fondo-de-foto.html",
+      "guide_link_text": "Guía: cómo desenfocar el fondo de una foto"
+    },
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "question": "¿Se puede desenfocar solo el fondo online?",
+        "answer": "Este editor desenfoca la foto entera. Para difuminar solo el fondo y mantener nítida a la persona, usa la app MakeBlur en iPhone: detecta al sujeto sola y procesa la foto en el dispositivo."
+      },
+      {
+        "question": "¿El editor online es gratis?",
+        "answer": "Sí: gratis, sin registro y sin marca de agua. Sube la foto, aplica el efecto y descarga el PNG."
+      },
+      {
+        "question": "¿Mi foto se sube a algún servidor?",
+        "answer": "No. El editor funciona en el navegador: la imagen se procesa en tu dispositivo y se descarga directamente en PNG."
+      },
+      {
+        "question": "¿Qué efecto elijo?",
+        "answer": "Gaussian para un desenfoque suave, Pixel para ocultar detalles como caras o textos, Motion para un efecto de movimiento."
+      }
+    ]
   }
 }

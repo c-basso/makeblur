@@ -395,21 +395,53 @@
   },
   "editor": {
     "page_slug": "rozmycie-tla-zdjecia-online-edytor.html",
-    "meta_title": "Rozmyj zdjęcie online za darmo: Gaussian, Pixel i Motion",
-    "meta_description": "Rozmyj całe zdjęcie online za darmo: wgraj obraz, wybierz Gaussian, Pixel lub Motion, ustaw siłę rozmycia i pobierz plik PNG. Bez instalowania czegokolwiek.",
-    "h1": "Rozmyj zdjęcie online — darmowy edytor",
-    "intro": "Wgraj zdjęcie, wybierz Gaussian, Pixel albo Motion, ustaw siłę i wyeksportuj PNG. Edytor online rozmywa całe zdjęcie.",
+    "meta_title": "Rozmycie zdjęcia online za darmo — i jak rozmyć samo tło",
+    "meta_description": "Rozmyj całe zdjęcie online za darmo (Gaussian, Pixel, Motion) i pobierz PNG. Chcesz rozmyć tylko tło, a osobę zostawić ostrą? Użyj darmowej aplikacji na iPhone.",
+    "h1": "Rozmycie zdjęcia online za darmo — i samo tło na iPhone",
+    "intro": "Wgraj zdjęcie, wybierz Gaussian, Pixel lub Motion, ustaw siłę i pobierz PNG. Ten edytor online rozmywa cały obraz; jak rozmyć tylko tło, przeczytasz poniżej.",
     "upload_button": "Wgraj zdjęcie",
     "download_button": "Pobierz PNG",
     "slider_label": "Siła rozmycia",
     "placeholder_line1": "Nie wgrano jeszcze zdjęcia.",
     "placeholder_line2": "Stuknij «Wgraj zdjęcie», aby zacząć.",
     "hero_link_text": "Edytor online do rozmywania zdjęć",
-    "seo_heading": "Darmowy edytor online do rozmywania zdjęć",
-    "seo_paragraph": "Rozmyj całe zdjęcie, ukryj szczegóły albo dodaj motion blur bez instalacji. Chcesz rozmyć tylko tło lub twarze? Użyj aplikacji na iPhone’a.",
+    "seo_heading": "Kiedy rozmyć całe zdjęcie",
+    "seo_paragraph": "Tło pod tekst w postach i relacjach, miękka tapeta, rozmyty podgląd przed odsłonięciem zdjęcia albo ukrycie wszystkiego naraz pikselami. Działa w przeglądarce, bez rejestracji i bez instalacji.",
     "back_to_home_text": "Wróć na stronę główną",
     "app_cta_heading": "Chcesz rozmyć tylko tło albo twarze?",
     "app_cta_subtext": "Edytor online rozmywa całe zdjęcie. Aby zostawić ostry obiekt i rozmyć tylko tło, twarze lub wybrany obszar, zainstaluj MakeBlur na iPhonie.",
-    "app_cta_button": "Pobierz aplikację"
+    "app_cta_button": "Pobierz aplikację",
+    "background": {
+      "heading": "Chcesz rozmyć tylko tło zdjęcia?",
+      "paragraphs": [
+        "Aby rozmyć samo tło, trzeba oddzielić osobę od otoczenia, a ten edytor online tego nie robi. Na iPhonie darmowa aplikacja MakeBlur sama rozpoznaje obiekt i rozmywa tylko tło, także na zdjęciach zrobionych bez trybu Portret. Wszystko dzieje się na urządzeniu, bez wysyłania zdjęcia do sieci."
+      ],
+      "steps": [
+        "Pobierz darmową aplikację z App Store i otwórz zdjęcie.",
+        "Zostaw kartę Background: obiekt zostanie rozpoznany i pozostanie ostry.",
+        "Wybierz Gaussian, ustaw Radius i stuknij Save."
+      ],
+      "guide_slug": "jak-rozmyc-tlo.html",
+      "guide_link_text": "Poradnik: jak rozmyć tło na zdjęciu"
+    },
+    "faq_title": "Najczęstsze pytania",
+    "faq": [
+      {
+        "question": "Czy da się rozmyć samo tło online?",
+        "answer": "Ten edytor rozmywa całe zdjęcie. Aby rozmyć tylko tło i zachować ostrą osobę, użyj aplikacji MakeBlur na iPhonie: sama rozpoznaje obiekt i przetwarza zdjęcie na urządzeniu."
+      },
+      {
+        "question": "Czy edytor online jest darmowy?",
+        "answer": "Tak: za darmo, bez rejestracji i bez znaku wodnego. Wgraj zdjęcie, nałóż efekt i pobierz PNG."
+      },
+      {
+        "question": "Czy moje zdjęcie trafia na serwer?",
+        "answer": "Nie. Edytor działa w przeglądarce: obraz jest przetwarzany na Twoim urządzeniu i pobierany bezpośrednio jako PNG."
+      },
+      {
+        "question": "Jaki efekt wybrać?",
+        "answer": "Gaussian do miękkiego rozmycia, Pixel do ukrycia twarzy lub tekstu, Motion do efektu ruchu."
+      }
+    ]
   }
 }

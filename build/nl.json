@@ -395,21 +395,53 @@
   },
   "editor": {
     "page_slug": "foto-achtergrond-vervagen-online-editor.html",
-    "meta_title": "Foto online wazig maken: gratis, Gaussian, Pixel, Motion",
-    "meta_description": "Maak een hele foto online gratis wazig: upload de afbeelding, kies Gaussian, Pixel of Motion, stel de sterkte in en download als PNG. Niets te installeren.",
-    "h1": "Foto online wazig maken — gratis editor",
-    "intro": "Upload een foto, kies Gaussian, Pixel of Motion, stel de sterkte in en exporteer als PNG. De webeditor maakt de hele foto wazig.",
+    "meta_title": "Foto online wazig maken, gratis — en alleen de achtergrond",
+    "meta_description": "Maak een hele foto online en gratis wazig (Gaussian, Pixel, Motion) en download als PNG. Alleen de achtergrond vervagen? Dat doe je met de gratis iPhone-app.",
+    "h1": "Foto online wazig maken — en alleen de achtergrond op iPhone",
+    "intro": "Upload een foto, kies Gaussian, Pixel of Motion, stel de sterkte in en download de PNG. Deze online editor maakt de hele afbeelding wazig; hoe je alleen de achtergrond vervaagt, lees je hieronder.",
     "upload_button": "Foto uploaden",
     "download_button": "PNG downloaden",
     "slider_label": "Sterkte van de vervaging",
     "placeholder_line1": "Nog geen foto geüpload.",
     "placeholder_line2": "Tik op «Foto uploaden» om te beginnen.",
     "hero_link_text": "Online editor om foto's wazig te maken",
-    "seo_heading": "Gratis online editor om foto's wazig te maken",
-    "seo_paragraph": "Maak een hele foto wazig, verberg details of voeg motion blur toe zonder installatie. Wil je alleen de achtergrond of gezichten wazig maken? Gebruik dan de iPhone-app.",
+    "seo_heading": "Wanneer je de hele foto wazig maakt",
+    "seo_paragraph": "Achtergrond voor tekst in posts en stories, zachte achtergrond voor je scherm, een wazige preview vóór de onthulling, of alles in één keer pixelen. Werkt in de browser, zonder account en zonder installatie.",
     "back_to_home_text": "Terug naar de homepage",
     "app_cta_heading": "Alleen de achtergrond of gezichten wazig maken?",
     "app_cta_subtext": "De webeditor maakt de hele foto wazig. Wil je het onderwerp scherp houden en alleen achtergrond, gezichten of een gebied vervagen? Installeer dan MakeBlur op je iPhone.",
-    "app_cta_button": "Download de app"
+    "app_cta_button": "Download de app",
+    "background": {
+      "heading": "Alleen de achtergrond van een foto vervagen?",
+      "paragraphs": [
+        "Daarvoor moet het onderwerp van de achtergrond worden gescheiden, en dat kan deze online editor niet. Op iPhone herkent de gratis app MakeBlur het onderwerp automatisch en maakt alleen de achtergrond wazig, ook bij foto’s zonder portretmodus. Alles gebeurt op je toestel, zonder upload."
+      ],
+      "steps": [
+        "Download de gratis app in de App Store en open de foto.",
+        "Laat het tabblad Background staan: het onderwerp wordt herkend en blijft scherp.",
+        "Kies Gaussian, stel Radius in en tik op Save."
+      ],
+      "guide_slug": "foto-achtergrond-wazig-maken.html",
+      "guide_link_text": "Uitleg: foto achtergrond wazig maken"
+    },
+    "faq_title": "Veelgestelde vragen",
+    "faq": [
+      {
+        "question": "Kan ik online alleen de achtergrond vervagen?",
+        "answer": "Deze editor maakt de hele foto wazig. Wil je alleen de achtergrond vervagen en de persoon scherp houden, gebruik dan de app MakeBlur op iPhone: die herkent het onderwerp zelf en bewerkt de foto op je toestel."
+      },
+      {
+        "question": "Is de online editor gratis?",
+        "answer": "Ja: gratis, zonder account en zonder watermerk. Upload de foto, kies het effect en download de PNG."
+      },
+      {
+        "question": "Wordt mijn foto naar een server gestuurd?",
+        "answer": "Nee. De editor werkt in de browser: de afbeelding wordt op je eigen apparaat bewerkt en direct als PNG gedownload."
+      },
+      {
+        "question": "Welk effect kies ik?",
+        "answer": "Gaussian voor zachte vervaging, Pixel om gezichten of tekst onherkenbaar te maken, Motion voor een bewegingseffect."
+      }
+    ]
   }
 }
