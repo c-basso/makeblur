@@ -1,0 +1,1284 @@
+{
+  "hub": {
+    "nav_text": "指南",
+    "title": "分步指南",
+    "intro": "背景虚化、人脸打码、车牌和截图打码、整张照片模糊：每篇指南都给出 iPhone 上的具体步骤。",
+    "learn_more_text": "了解更多",
+    "related_title": "相关指南",
+    "answer_label": "简要回答",
+    "clusters": [
+      {
+        "id": "background",
+        "title": "背景虚化",
+        "blurb": "主体清晰、背景柔和——拍完的照片也可以。"
+      },
+      {
+        "id": "privacy",
+        "title": "人脸、车牌和文字打码",
+        "blurb": "发布前用模糊保护隐私。"
+      },
+      {
+        "id": "effects",
+        "title": "模糊效果",
+        "blurb": "动感模糊、散景和高斯模糊。"
+      },
+      {
+        "id": "photo",
+        "title": "模糊任何照片",
+        "blurb": "整张照片模糊和模糊基础知识。"
+      }
+    ]
+  },
+  "items": [
+    {
+      "slug": "iphone-beijing-xuhua.html",
+      "keyword": "苹果手机怎么虚化背景",
+      "cluster": "background",
+      "card_title": "苹果手机怎么虚化背景",
+      "card_excerpt": "主体清晰、背景柔和——任何照片都可以，包括没用“人像”模式拍的照片。",
+      "card_image": "/img/appstore/cn/04-box.webp",
+      "card_image_alt": "iPhone 上女孩清晰、砖墙背景被虚化",
+      "meta_title": "苹果手机怎么虚化背景？3 步给任意照片加背景虚化（iPhone 教程）",
+      "meta_description": "苹果手机怎么虚化背景？对已拍好的照片也能做到：App 自动识别主体，你只需调节虚化强度并保存。不需要“人像”模式，免费下载，照片在 iPhone 本地处理，不上传服务器。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "苹果手机怎么虚化背景",
+      "answer": "在 iPhone 上虚化背景：用 MakeBlur 打开照片，保持 Background 标签让 App 自动识别主体，选择 Gaussian 样式，把 Radius 拖到背景足够柔和，然后点 Save。虚化后的副本会保存到「照片」，原图保持不变。",
+      "intro": "背景虚化就是让人物或主要物体保持清晰、身后变得柔和，像用大光圈相机拍出来的一样。iPhone 用“人像”模式拍摄时能做到；但对已经拍好的普通照片、截图或朋友在微信发来的图片就不行了。本指南介绍如何给相册里的任何照片虚化背景。",
+      "image": "/img/appstore/cn/04-box.webp",
+      "image_alt": "Background 标签配合 Box 样式：主体清晰，背景模糊",
+      "native": {
+        "heading": "iPhone 自带背景虚化吗？",
+        "paragraphs": [
+          "有，但只在拍摄时：相机的“人像”模式会记录景深数据，之后可以在「照片」App 的“编辑”中调整虚化程度。iPhone 15 及更新机型在识别到人物或宠物时，也会自动为部分普通照片记录景深。",
+          "没有景深数据的照片——旧照片、截图、下载的图片——「照片」App 没有背景模糊工具。这时就需要 MakeBlur 这样的 App。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "背景选哪种模糊样式？",
+          "paragraphs": [
+            "Gaussian（高斯模糊）最自然，像镜头失焦——适合人像和商品图。Box 更均匀，带一点设计感。Motion 把背景变成动感拖影。Ghosting 带来梦幻感。",
+            "人像照片的 Radius 适中通常比拉满更好看：背景仍能交代环境，但不再杂乱。"
+          ]
+        },
+        {
+          "heading": "主体边缘不够完美时",
+          "paragraphs": [
+            "飘动的头发、手里的物品，或主体与背景颜色接近时，边缘有时会不够精准。稍微降低 Radius 可以让过渡更自然；主体清晰、光线充足的照片效果最好。"
+          ]
+        }
+      ],
+      "steps_title": "在 App 中虚化背景",
+      "steps": [
+        {
+          "number": "1",
+          "title": "打开照片",
+          "description": "在 MakeBlur 中选择相册里的任意照片。"
+        },
+        {
+          "number": "2",
+          "title": "Background 标签",
+          "description": "主体被自动识别并保持清晰。"
+        },
+        {
+          "number": "3",
+          "title": "样式和 Radius",
+          "description": "选择 Gaussian，把 Radius 拖到想要的柔和度。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "虚化后的副本保存到「照片」。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "主体与背景距离明显的照片，虚化效果最真实。",
+        "保存几个不同 Radius 的版本，留下最好看的那张。",
+        "背景里还有多余的东西？切换到 Manual 标签涂抹它。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "没用“人像”模式拍的照片能虚化背景吗？",
+          "answer": "可以。App 会在照片上自动寻找主体，不需要景深数据。"
+        },
+        {
+          "question": "原图会被修改吗？",
+          "answer": "不会。Save 会创建新副本，原图仍留在相册中。"
+        },
+        {
+          "question": "需要联网吗？",
+          "answer": "不需要。所有处理都在 iPhone 上完成，照片不会上传服务器。"
+        }
+      ],
+      "related": [
+        "paizhao-hou-xuhua-beijing.html",
+        "zhaopian-beijing-xuhua.html",
+        "beijing-xuhua-ruanjian.html",
+        "sanjing-xiaoguo-iphone.html"
+      ],
+      "cta_title": "现在就给照片虚化背景",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，打开照片，让 App 找到主体。免费，不上传云端。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "zhaopian-beijing-xuhua.html",
+      "keyword": "照片背景虚化",
+      "cluster": "background",
+      "card_title": "照片背景虚化：头像、朋友圈、商品图",
+      "card_excerpt": "主体在柔和背景中更突出：按用途选择样式和虚化强度。",
+      "card_image": "/img/appstore/cn/02-motion.webp",
+      "card_image_alt": "女孩身后的背景被虚化",
+      "meta_title": "照片背景虚化：头像、朋友圈、小红书和商品图怎么做（iPhone）",
+      "meta_description": "在 iPhone 上给照片背景虚化，让主体更突出：适用于微信头像、朋友圈、小红书笔记和闲鱼商品图。选择样式、调节虚化强度后保存。免费下载，照片在手机本地处理，不上传。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "iPhone 照片背景虚化",
+      "answer": "给照片背景虚化：用 MakeBlur 打开照片，保持 Background 标签，选择样式（Gaussian 自然、Box 均匀、Motion 有动感）并调节 Radius，然后点 Save。主体保持清晰，只有身后的背景变柔和。",
+      "intro": "杂乱的背景——车、电线、路人、房间里的杂物——会把视线从主体上拉走。背景虚化是不重拍也能让照片更有质感的最快方法。下面介绍不同用途该如何选择样式和强度。",
+      "image": "/img/appstore/cn/02-motion.webp",
+      "image_alt": "Motion 样式虚化背景，主体清晰",
+      "native": {
+        "heading": "「照片」App 能做什么？",
+        "paragraphs": [
+          "「照片」只能调整带景深数据（“人像”模式）照片的虚化程度。普通照片只能裁剪或调光，没有模糊工具。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "按用途调虚化强度",
+          "paragraphs": [
+            "微信头像：适中的 Gaussian，让脸在小尺寸下也突出。闲鱼、淘宝商品图：轻度虚化，让商品清楚又保留场景。汽车、运动照片：Motion 增加速度感。",
+            "小红书、朋友圈：试试 Ghosting 的梦幻感，或 Box 的现代感。"
+          ]
+        },
+        {
+          "heading": "多张照片统一风格",
+          "paragraphs": [
+            "每张只需几秒：打开、确认主体、拖动滑块、保存。整组照片用相同的样式和 Radius，九宫格看起来更统一。"
+          ]
+        }
+      ],
+      "steps_title": "在 App 中虚化背景",
+      "steps": [
+        {
+          "number": "1",
+          "title": "打开照片",
+          "description": "从相册中选择。"
+        },
+        {
+          "number": "2",
+          "title": "Background",
+          "description": "App 让主体保持清晰。"
+        },
+        {
+          "number": "3",
+          "title": "样式和强度",
+          "description": "Gaussian、Box、Motion 或 Ghosting，调节 Radius。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "副本保存到「照片」。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "商品图轻度虚化更好——买家仍需要看到场景。",
+        "头像发布前用小尺寸预览一下。",
+        "记住你喜欢的 Radius，整组照片沿用。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "背景虚化和抠图有什么区别？",
+          "answer": "背景虚化保留背景但让它变柔和；抠图（去背景）是把背景整个删掉——本 App 不做抠图。"
+        },
+        {
+          "question": "截图能虚化背景吗？",
+          "answer": "可以，截图和普通照片一样打开。没有明显主体时用 Manual 或 Full Photo。"
+        },
+        {
+          "question": "画质会降低吗？",
+          "answer": "不会，副本按原始尺寸保存。"
+        }
+      ],
+      "related": [
+        "iphone-beijing-xuhua.html",
+        "paizhao-hou-xuhua-beijing.html",
+        "gaosi-mohu.html",
+        "dongtai-mohu-xiaoguo.html"
+      ],
+      "cta_title": "背景柔和，主体突出",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，给已有照片虚化背景。免费，支持 iOS 18.6 及以上。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "paizhao-hou-xuhua-beijing.html",
+      "keyword": "拍完照片怎么虚化背景",
+      "cluster": "background",
+      "card_title": "拍完照片怎么虚化背景",
+      "card_excerpt": "忘了开“人像”模式？普通照片、旧照片和微信收到的图片照样能虚化。",
+      "card_image": "/img/appstore/cn/04-box.webp",
+      "card_image_alt": "普通照片拍摄后被虚化背景",
+      "meta_title": "拍完照片怎么虚化背景？不用“人像”模式也可以（iPhone）",
+      "meta_description": "忘了开“人像”模式？教你在 iPhone 上给拍完的照片虚化背景：普通照片、几年前的旧照片、微信和 QQ 收到的图片都可以。App 自动识别主体，免费下载，照片全程在手机本地处理。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "拍完照片怎么虚化背景",
+      "answer": "没用“人像”模式拍的照片也能虚化背景：用 MakeBlur 打开照片，Background 标签会自动识别主体，选择 Gaussian，调高 Radius，然后点 Save。不需要景深数据，也不需要重拍。",
+      "intro": "好看的瞬间往往是在普通“照片”模式下拍到的——或者是几年前的旧照、朋友发来的图片。这些照片没有景深数据，「照片」App 不能调整人像效果。下面的方法适用于任何照片。",
+      "image": "/img/appstore/cn/04-box.webp",
+      "image_alt": "用 Background 标签给普通照片虚化背景",
+      "native": {
+        "heading": "为什么「照片」App 不能虚化？",
+        "paragraphs": [
+          "人像效果依赖拍摄时相机记录的景深图。没有景深图的照片在“编辑”里不会出现人像选项。通过微信、QQ 收到的图片通常经过压缩，也已丢失景深数据。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "没有景深，App 怎么做到？",
+          "paragraphs": [
+            "MakeBlur 会分析照片，把主体——人物、宠物或主要物体——从背景中分离出来，只模糊背景。效果接近“人像”模式，还能选择相机没有的模糊样式。"
+          ]
+        },
+        {
+          "heading": "什么样的照片效果最好",
+          "paragraphs": [
+            "主体清楚、光线充足、与背景分离明显。光线很暗或主体在画面中太小时可能不易识别——这时用 Manual 标签手动涂抹要模糊的区域。"
+          ]
+        }
+      ],
+      "steps_title": "给已拍照片虚化背景",
+      "steps": [
+        {
+          "number": "1",
+          "title": "从相册打开照片",
+          "description": "普通照片、旧照片、收到的图片都可以。"
+        },
+        {
+          "number": "2",
+          "title": "Background",
+          "description": "主体被自动识别。"
+        },
+        {
+          "number": "3",
+          "title": "Gaussian 和 Radius",
+          "description": "逐步调到满意的柔和度。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "保存副本，原图不变。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "下次想拍人像，拍摄时就开“人像”模式——之后仍可在 App 中加效果。",
+        "微信收到的图片被压缩过：Radius 适中，边缘更顺滑。",
+        "合照要检查每个人都保持清晰。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "旧款 iPhone 拍的照片能虚化吗？",
+          "answer": "可以，App 不关心照片是用什么设备拍的。"
+        },
+        {
+          "question": "“人像”模式的照片也能用吗？",
+          "answer": "能，还可以加上 Motion、Ghosting 等相机没有的样式。"
+        },
+        {
+          "question": "哪些 iPhone 可以用？",
+          "answer": "所有运行 iOS 18.6 或更高版本的 iPhone。"
+        }
+      ],
+      "related": [
+        "iphone-beijing-xuhua.html",
+        "beijing-xuhua-ruanjian.html",
+        "zhaopian-beijing-xuhua.html",
+        "zhaopian-jubu-mohu.html"
+      ],
+      "cta_title": "不用重拍",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，给拍完的照片虚化背景。免费，本地处理。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "beijing-xuhua-ruanjian.html",
+      "keyword": "背景虚化软件",
+      "cluster": "background",
+      "card_title": "iPhone 背景虚化软件怎么选",
+      "card_excerpt": "好用的背景虚化 App 应该具备什么，MakeBlur 又是怎么做的。",
+      "card_image": "/img/appstore/cn/03-face.webp",
+      "card_image_alt": "iPhone 上的背景虚化 App 界面",
+      "meta_title": "iPhone 背景虚化软件怎么选？选择标准和 3 步快速上手",
+      "meta_description": "挑选 iPhone 背景虚化软件看什么：能否自动识别主体、人脸打码、手动涂抹、多种模糊样式，以及照片是否在本地处理。附 MakeBlur 三步上手教程，App Store 免费下载，照片在本地处理。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "iPhone 背景虚化软件：怎么选、怎么用",
+      "answer": "好的 iPhone 背景虚化软件应能自动识别主体、调节虚化强度、提供多种模糊样式，并在手机本地处理照片。MakeBlur（App Store 名称“背景虚化 模糊照片背景编辑器”）四点都做到：打开照片、保持 Background 标签、调节 Radius、点 Save。",
+      "intro": "在 App Store 搜“背景虚化”会出现几十个 App。不少会把照片上传到服务器、加水印，或只有一种模糊效果。下面是安装前值得检查的几条标准，以及 MakeBlur 的用法。",
+      "image": "/img/appstore/cn/03-face.webp",
+      "image_alt": "MakeBlur 的 Background、Full Photo、Faces、Manual 标签",
+      "native": {
+        "heading": "一定要装 App 吗？",
+        "paragraphs": [
+          "如果只给“人像”模式的照片调虚化，「照片」App 就够了。普通照片、旧照片或收到的图片，iPhone 没有背景模糊工具——需要 App。Apple Intelligence 的「清除」是移除物体，不是模糊。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "选择标准",
+          "paragraphs": [
+            "自动识别主体，免得手动描每根头发。虚化强度滑块，因为每张照片需要的程度不同。多种模糊样式——Gaussian、Motion、马赛克。人脸打码和涂抹工具，满足隐私需求。本地处理，个人照片不离开 iPhone。"
+          ]
+        },
+        {
+          "heading": "MakeBlur 有什么",
+          "paragraphs": [
+            "四种模式：Background（背景虚化）、Faces（人脸打码）、Manual（涂抹）、Full Photo（整张照片）。七种样式：Gaussian、Motion、Ghosting、Box、Pixelate、Hexagonal、Crystallize。Radius 调强度，Angle 调运动方向。免费下载；进阶样式可按需通过 App 内购买解锁。"
+          ]
+        }
+      ],
+      "steps_title": "第一次使用 MakeBlur",
+      "steps": [
+        {
+          "number": "1",
+          "title": "从 App Store 下载",
+          "description": "搜索“背景虚化 模糊照片背景编辑器”，需要 iOS 18.6 或更高版本。"
+        },
+        {
+          "number": "2",
+          "title": "允许访问照片",
+          "description": "选择要编辑的照片。"
+        },
+        {
+          "number": "3",
+          "title": "选择模式",
+          "description": "Background、Faces、Manual 或 Full Photo。"
+        },
+        {
+          "number": "4",
+          "title": "调整并保存",
+          "description": "样式、Radius，然后 Save。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "看 App Store 的隐私说明：选择在本地处理照片的 App。",
+        "用一张难度高的照片（头发、杂乱背景）测试主体识别质量。",
+        "同时有人脸打码和涂抹工具的 App，能省去再装一个。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "App 免费吗？",
+          "answer": "免费下载，包含基础背景虚化。进阶样式可按需通过 App 内购买解锁。"
+        },
+        {
+          "question": "iPad 或安卓能用吗？",
+          "answer": "App 仅支持 iPhone。其他设备可以用本站的在线模糊工具模糊整张照片。"
+        },
+        {
+          "question": "App 会收集我的照片吗？",
+          "answer": "不会，照片在 iPhone 上处理，不上传服务器。"
+        }
+      ],
+      "related": [
+        "iphone-beijing-xuhua.html",
+        "paizhao-hou-xuhua-beijing.html",
+        "zhaopian-renlian-dama.html",
+        "mohu-zhaopian.html"
+      ],
+      "cta_title": "免费试用背景虚化 App",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”：背景虚化、人脸打码、局部遮挡，一个 App 搞定。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "zhaopian-renlian-dama.html",
+      "keyword": "照片人脸打码",
+      "cluster": "privacy",
+      "card_title": "照片人脸打码",
+      "card_excerpt": "发布前给路人、孩子或同事的脸打码——一键处理所有人脸。",
+      "card_image": "/img/appstore/cn/03-face.webp",
+      "card_image_alt": "照片中的人脸被模糊",
+      "meta_title": "照片人脸打码：iPhone 一键模糊所有人脸，无需 Apple Intelligence",
+      "meta_description": "发朋友圈、小红书前怎么给照片人脸打码？在 iPhone 上用 Faces 标签一次找到所有人脸，选择高斯模糊或马赛克并保存。无需 Apple Intelligence，免费下载，照片本地处理。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "iPhone 照片人脸打码",
+      "answer": "给人脸打码：用 MakeBlur 打开照片，选择 Faces 标签，App 会找到照片里的所有人脸并同时模糊。选 Gaussian 或 Pixelate，把 Radius 调到认不出人为止，然后点 Save。只想遮一个人时，用 Manual 标签涂抹那张脸。",
+      "intro": "活动合影、班级照片、街拍里常有不想出现在网上的人——路人、孩子、同事。发布前打码是一种礼貌，也能避免麻烦。在 iPhone 上，最快的方法是让 App 自动找人脸。",
+      "image": "/img/appstore/cn/03-face.webp",
+      "image_alt": "Faces 标签：识别到的所有人脸都被模糊",
+      "native": {
+        "heading": "iPhone 自带人脸打码吗？",
+        "paragraphs": [
+          "没有专门的模糊工具。“标记”可以画形状或用笔涂在脸上——能遮住但很粗糙。Apple Intelligence 的「清除」在你圈选人脸时可以加上马赛克，但需要 iPhone 15 Pro 或更新机型且所在地区已开放该功能，而且只能一张脸一张脸地处理。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "高斯模糊还是马赛克？",
+          "paragraphs": [
+            "高强度的 Gaussian 看起来柔和，适合社交平台。Pixelate（马赛克）一看就是“已打码”，适合需要确保隐私的照片。远处的小脸，两种都需要足够大的 Radius。"
+          ]
+        },
+        {
+          "heading": "只给部分人打码",
+          "paragraphs": [
+            "Faces 会模糊所有人。想保留自己的脸、只遮别人，用 Manual：放大后逐个涂抹需要遮挡的脸。"
+          ]
+        }
+      ],
+      "steps_title": "在 App 中给人脸打码",
+      "steps": [
+        {
+          "number": "1",
+          "title": "打开照片",
+          "description": "选择有人脸需要遮挡的照片。"
+        },
+        {
+          "number": "2",
+          "title": "Faces 标签",
+          "description": "所有人脸被找到并模糊。"
+        },
+        {
+          "number": "3",
+          "title": "样式和 Radius",
+          "description": "Gaussian 或 Pixelate，调到认不出为止。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "发布打码后的副本。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "放大检查画面边缘的小人脸。",
+        "照片里有孩子时，校服上的校名、胸牌也一起遮。",
+        "原图仍在相册——只分享打码后的版本。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "侧脸、小脸能被识别吗？",
+          "answer": "通常可以，但请检查。漏掉的用 Manual 补涂。"
+        },
+        {
+          "question": "能给视频里的人脸打码吗？",
+          "answer": "不能，App 只处理照片。"
+        },
+        {
+          "question": "别人能“去码”吗？",
+          "answer": "保存的是一张新图片，原始像素已被替换。使用 Pixelate 和高 Radius 时，人脸细节已不在图中。"
+        }
+      ],
+      "related": [
+        "zhaopian-jubu-mohu.html",
+        "zhaopian-da-masaike.html",
+        "jietu-dama.html",
+        "chepai-dama.html"
+      ],
+      "cta_title": "几秒完成人脸打码",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，打开 Faces 标签并保存。免费，照片不离开 iPhone。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "zhaopian-jubu-mohu.html",
+      "keyword": "照片局部模糊",
+      "cluster": "privacy",
+      "card_title": "照片局部模糊",
+      "card_excerpt": "用手指涂抹需要遮挡的区域：文字、门牌号、路人、物品。",
+      "card_image": "/img/appstore/cn/05-crystalize.webp",
+      "card_image_alt": "用画笔模糊照片的一个区域",
+      "meta_title": "照片局部模糊怎么弄？iPhone 用手指涂抹就能模糊指定区域",
+      "meta_description": "在 iPhone 上给照片局部模糊：用手指涂抹需要遮挡的区域，再选择高斯模糊或马赛克。适合遮挡文字、门牌号、快递单、路人或物品。免费下载，照片在手机本地处理，不上传服务器。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "iPhone 照片局部模糊",
+      "answer": "只模糊照片的一部分：用 MakeBlur 打开照片，选择 Manual 标签，用手指涂抹要遮挡的区域。选择样式——Gaussian 柔和，Pixelate 遮挡更彻底——调节 Radius 后点 Save。只有涂过的地方会被模糊。",
+      "intro": "很多时候整张照片都没问题，只有一个细节不该露出来：门牌号、快递单上的名字、电脑屏幕、角落里的路人。涂抹工具可以只模糊那一处，其他部分不受影响。",
+      "image": "/img/appstore/cn/05-crystalize.webp",
+      "image_alt": "涂抹的区域变成 Crystallize 马赛克",
+      "native": {
+        "heading": "「照片」App 能做到吗？",
+        "paragraphs": [
+          "不能直接做到。“标记”有笔和形状可以遮挡，但不能模糊或像素化。半透明的荧光笔有时还会透出下面的文字。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "涂得更准",
+          "paragraphs": [
+            "涂小区域前先用双指放大。涂的范围比细节稍大一点，避免模糊边缘露出字符。"
+          ]
+        },
+        {
+          "heading": "和背景虚化一起用",
+          "paragraphs": [
+            "可以先用 Background 虚化背景并保存，再打开那张副本，用 Manual 遮挡额外的细节。"
+          ]
+        }
+      ],
+      "steps_title": "模糊一个区域",
+      "steps": [
+        {
+          "number": "1",
+          "title": "打开照片",
+          "description": "从相册中选择。"
+        },
+        {
+          "number": "2",
+          "title": "Manual 标签",
+          "description": "涂抹要模糊的区域。"
+        },
+        {
+          "number": "3",
+          "title": "样式和 Radius",
+          "description": "Gaussian、Pixelate 或 Box。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "保存副本。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "文字和数字：用 Pixelate 或 Box，Radius 调高。",
+        "背景里的路人：Gaussian 看起来更自然。",
+        "检查玻璃、镜子里的反射。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "涂错了怎么办？",
+          "answer": "没保存之前原图不会变——重新来一次即可。"
+        },
+        {
+          "question": "能同时模糊多个区域吗？",
+          "answer": "可以，把所有区域都涂上后一次保存。"
+        },
+        {
+          "question": "截图能用吗？",
+          "answer": "能，截图和普通照片一样打开。"
+        }
+      ],
+      "related": [
+        "jietu-dama.html",
+        "chepai-dama.html",
+        "zhaopian-renlian-dama.html",
+        "zhaopian-da-masaike.html"
+      ],
+      "cta_title": "哪里需要遮就涂哪里",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，打开 Manual 涂抹即可。免费，不上传云端。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "chepai-dama.html",
+      "keyword": "车牌打码",
+      "cluster": "privacy",
+      "card_title": "车牌打码",
+      "card_excerpt": "闲鱼、二手车平台发布车源时：车牌看不清，照片依然整洁。",
+      "card_image": "/img/appstore/cn/05-crystalize.webp",
+      "card_image_alt": "车牌被像素化遮挡",
+      "meta_title": "车牌打码怎么弄？iPhone 上给卖车照片的车牌打马赛克",
+      "meta_description": "在闲鱼、瓜子二手车或懂车帝发布车源前，如何在 iPhone 上给车牌打码：涂抹车牌、像素化后保存副本。免费下载，照片在手机本地处理，不会上传到网络，原图保留在相册。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "iPhone 照片车牌打码",
+      "answer": "给车牌打码：用 MakeBlur 打开照片，选择 Manual 标签，涂抹车牌，选择 Pixelate 或 Box，把 Radius 调到看不清任何字符。点 Save，把这张副本用于发布。",
+      "intro": "在闲鱼、瓜子二手车、懂车帝或朋友圈卖车的人，常会给车牌打码，减少车辆信息被冒用或车源被盗图的风险。这不是必须的，但很多人图个安心。照片也要好看：保险杠上一块黑框显得不专业——整齐的像素化两全其美。",
+      "image": "/img/appstore/cn/05-crystalize.webp",
+      "image_alt": "在 App 中像素化照片的一个区域",
+      "native": {
+        "heading": "「照片」App 能做吗？",
+        "paragraphs": [
+          "“标记”可以画形状盖住车牌。车牌被挡住了，但遮挡块很明显，半透明的笔有时还会透出字符。「照片」App 不能对某个区域模糊或像素化。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "马赛克还是模糊？",
+          "paragraphs": [
+            "车牌用 Pixelate 或 Box 配高 Radius 最稳妥——大方块会抹掉笔画。轻度 Gaussian 可能仍能猜出号码，尤其是高分辨率照片。",
+            "Crystallize 也能遮挡，但装饰感较强；发布车源时，中性的像素化更合适。"
+          ]
+        },
+        {
+          "heading": "照片很多时",
+          "paragraphs": [
+            "一个车源通常有 10–20 张图，车牌出现在其中几张。逐张处理：打开、Manual、涂抹、Save——每张约半分钟。也要检查玻璃反射和行驶证照片。"
+          ]
+        }
+      ],
+      "steps_title": "在 App 中给车牌打码",
+      "steps": [
+        {
+          "number": "1",
+          "title": "打开车辆照片",
+          "description": "选择露出车牌的照片。"
+        },
+        {
+          "number": "2",
+          "title": "Manual 标签",
+          "description": "放大，把车牌整个涂满，范围稍大一点。"
+        },
+        {
+          "number": "3",
+          "title": "Pixelate 和 Radius",
+          "description": "调到放大后也看不清为止。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "把副本上传到车源页面。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "遮住整块号牌，而不只是数字——省份简称和字母也包含信息。",
+        "汽车前后都有车牌；摩托车只有后牌。",
+        "照片里有行驶证或车架号（VIN），也一起遮——除非你有意公开。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "卖车照片必须给车牌打码吗？",
+          "answer": "不是必须的，很多卖家这样做是为了避免信息被滥用。这不构成法律建议。"
+        },
+        {
+          "question": "买家需要车牌信息怎么办？",
+          "answer": "确认是认真的买家后，可以私下提供所需信息。"
+        },
+        {
+          "question": "照片会被上传吗？",
+          "answer": "不会，所有处理都在 iPhone 上完成。"
+        }
+      ],
+      "related": [
+        "zhaopian-jubu-mohu.html",
+        "zhaopian-da-masaike.html",
+        "jietu-dama.html",
+        "zhaopian-renlian-dama.html"
+      ],
+      "cta_title": "车源整洁，车牌不露",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，涂抹车牌并保存。免费，照片不离开 iPhone。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "jietu-dama.html",
+      "keyword": "截图打码",
+      "cluster": "privacy",
+      "card_title": "截图打码",
+      "card_excerpt": "微信聊天记录、转账截图、订单：打码后调亮也看不出来。",
+      "card_image": "/img/appstore/cn/05-crystalize.webp",
+      "card_image_alt": "截图上的文字被像素化",
+      "meta_title": "截图打码怎么弄才安全？iPhone 微信聊天记录截图打码教程",
+      "meta_description": "发送前在 iPhone 上给截图打码：遮住微信聊天记录里的头像和昵称、手机号、银行卡号、订单号和地址。像素化后即使调高亮度也看不出原文。免费下载，截图在手机本地处理，不上传。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "iPhone 截图打码",
+      "answer": "给截图打码：用 MakeBlur 打开截图，选择 Manual 标签，涂抹需要隐藏的行，选择 Pixelate 并调高 Radius。点 Save 后发送副本。放大检查，确保没有任何字符能被认出。",
+      "intro": "聊天记录、转账、订单截图里常有手机号、银行卡号、地址、别人的头像和昵称。发送或发布前要先遮住这些——而且要遮对，因为半透明的荧光笔在调高亮度后可能“露馅”。",
+      "image": "/img/appstore/cn/05-crystalize.webp",
+      "image_alt": "像素化截图中的文字区域",
+      "native": {
+        "heading": "用“标记”涂抹安全吗？",
+        "paragraphs": [
+          "不透明度 100% 的普通笔涂满可以遮住。但半透明的荧光笔：调高亮度和对比度后有可能看出文字。像素化会用色块彻底替换细节，无法还原。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "需要遮什么",
+          "paragraphs": [
+            "银行卡号、交易单号、手机号、地址、聊天中他人的头像和昵称。也别忘了顶部状态栏和弹出的通知。"
+          ]
+        },
+        {
+          "heading": "遮住隐私，保留内容",
+          "paragraphs": [
+            "只涂需要隐藏的行，让想分享的内容依然清晰。Box 的方块整齐，适合截图。"
+          ]
+        }
+      ],
+      "steps_title": "在 App 中给截图打码",
+      "steps": [
+        {
+          "number": "1",
+          "title": "打开截图",
+          "description": "从相册中选择。"
+        },
+        {
+          "number": "2",
+          "title": "Manual 标签",
+          "description": "放大，涂抹要隐藏的行。"
+        },
+        {
+          "number": "3",
+          "title": "Pixelate",
+          "description": "调高 Radius，直到看不清。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "发送打码后的副本。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "涂抹范围比文字行稍宽。",
+        "群聊截图要检查别人的头像和昵称。",
+        "原截图不再需要时可以删除。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "像素化的文字能被还原吗？",
+          "answer": "Radius 足够大时，像素块比字符还大，图中已没有可还原的细节。"
+        },
+        {
+          "question": "高斯模糊够吗？",
+          "answer": "对文字来说，Pixelate 或 Box 更稳妥；轻度 Gaussian 可能仍能被猜出。"
+        },
+        {
+          "question": "需要联网吗？",
+          "answer": "不需要，App 在本地处理。"
+        }
+      ],
+      "related": [
+        "zhaopian-jubu-mohu.html",
+        "zhaopian-da-masaike.html",
+        "chepai-dama.html",
+        "zhaopian-renlian-dama.html"
+      ],
+      "cta_title": "安心发送截图",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，几秒完成涂抹和像素化。免费，本地处理。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "zhaopian-da-masaike.html",
+      "keyword": "照片打马赛克",
+      "cluster": "privacy",
+      "card_title": "照片打马赛克",
+      "card_excerpt": "方块、六边形或晶格：遮挡细节，也能做艺术效果。",
+      "card_image": "/img/appstore/cn/05-crystalize.webp",
+      "card_image_alt": "照片上的 Crystallize 马赛克效果",
+      "meta_title": "照片打马赛克：iPhone 像素化、六边形、晶格三种马赛克效果",
+      "meta_description": "在 iPhone 上给照片打马赛克：遮挡人脸、文字、车牌，或用 Pixelate、Hexagonal、Crystallize 做出艺术效果。可调节马赛克大小，免费下载，照片全程在手机本地处理，不上传。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "iPhone 照片打马赛克",
+      "answer": "给照片打马赛克：用 MakeBlur 打开照片，选择作用范围（Faces、Manual、Background 或 Full Photo），选择 Pixelate（方块）、Hexagonal（六边形）或 Crystallize（晶格），用 Radius 调整马赛克大小，然后点 Save。",
+      "intro": "马赛克是新闻和电视里最常见的遮挡方式：大家一看就知道细节被隐藏了。马赛克也可以是一种艺术效果，用于壁纸、封面或帖子。在 iPhone 上，两种用途都不需要电脑。",
+      "image": "/img/appstore/cn/05-crystalize.webp",
+      "image_alt": "Crystallize 样式把背景变成马赛克",
+      "native": {
+        "heading": "iPhone 有自带马赛克吗？",
+        "paragraphs": [
+          "「照片」App 没有马赛克滤镜。Apple Intelligence 的「清除」在你圈选人脸时可以加马赛克，但需要 iPhone 15 Pro 或更新机型和所在地区支持，且不能选择样式和方块大小。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "三种马赛克",
+          "paragraphs": [
+            "Pixelate：经典方块，遮挡最彻底。Hexagonal：六边形，更现代。Crystallize：不规则晶格，适合艺术效果。Radius 越大，块越大。"
+          ]
+        },
+        {
+          "heading": "隐私用途和艺术用途",
+          "paragraphs": [
+            "隐私：Faces 或 Manual + Pixelate，高 Radius。艺术：Background + Crystallize，让主体清晰地立在马赛克背景前；或 Full Photo 做抽象图。"
+          ]
+        }
+      ],
+      "steps_title": "在 App 中打马赛克",
+      "steps": [
+        {
+          "number": "1",
+          "title": "打开照片",
+          "description": "从相册中选择。"
+        },
+        {
+          "number": "2",
+          "title": "选择范围",
+          "description": "Faces、Manual、Background 或 Full Photo。"
+        },
+        {
+          "number": "3",
+          "title": "马赛克样式",
+          "description": "Pixelate、Hexagonal 或 Crystallize，调节 Radius。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "保存副本。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "要遮得彻底，马赛克块要比需要隐藏的细节大。",
+        "Full Photo 下的 Crystallize 很适合做抽象壁纸。",
+        "发布前放大检查一遍。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "马赛克和模糊有什么区别？",
+          "answer": "模糊让细节变柔和；马赛克用色块替换细节，遮挡更明确。"
+        },
+        {
+          "question": "能给整张照片打马赛克吗？",
+          "answer": "可以，用 Full Photo。"
+        },
+        {
+          "question": "照片会上传到服务器吗？",
+          "answer": "不会，全部在 iPhone 上处理，无需联网。"
+        }
+      ],
+      "related": [
+        "zhaopian-renlian-dama.html",
+        "jietu-dama.html",
+        "chepai-dama.html",
+        "mohu-zhaopian.html"
+      ],
+      "cta_title": "一键打马赛克",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，试试 Pixelate、Hexagonal、Crystallize。免费，本地处理。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "dongtai-mohu-xiaoguo.html",
+      "keyword": "动感模糊效果",
+      "cluster": "effects",
+      "card_title": "照片动感模糊效果",
+      "card_excerpt": "主体身后的速度拖影：为汽车、运动、街拍调节长度和方向。",
+      "card_image": "/img/appstore/cn/02-motion.webp",
+      "card_image_alt": "女孩身后的动感模糊",
+      "meta_title": "动感模糊效果怎么做？iPhone 给照片加速度感拖影（Motion Blur）",
+      "meta_description": "在 iPhone 上给照片加动感模糊效果（运动模糊）：主体保持清晰，背景出现速度感拖影。用 Radius 调拖影长度、Angle 调方向，适合汽车、骑行、运动和街拍。免费下载，本地处理。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "iPhone 照片动感模糊效果",
+      "answer": "给照片加动感模糊：用 MakeBlur 打开照片，保持 Background 标签并选择 Motion 样式。Radius 决定拖影长度，Angle 决定方向。主体保持清晰，背景像在飞速后退。点 Save 保存。",
+      "intro": "动感模糊是拍摄时主体或相机移动产生的拖影——赛车、骑行、跳舞照片里的速度感。用慢速快门拍很难；拍完再加则简单又可控。",
+      "image": "/img/appstore/cn/02-motion.webp",
+      "image_alt": "Background 标签下的 Motion 样式，Radius 65",
+      "native": {
+        "heading": "iPhone 相机能拍出动感模糊吗？",
+        "paragraphs": [
+          "实况照片在「照片」App 中有“长曝光”效果——适合瀑布、车灯，但会把运动中的主体也一起模糊，且需要实况照片。普通照片在 iPhone 上无法添加动感模糊。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "选择方向（Angle）",
+          "paragraphs": [
+            "拖影方向要和主体运动方向一致：横穿画面的车用水平方向，朝镜头跑来的人用斜向。方向相反会显得不自然。"
+          ]
+        },
+        {
+          "heading": "只模糊背景，还是整张？",
+          "paragraphs": [
+            "Background + Motion：主体清晰、背景飞驰——类似追焦摄影。Full Photo + Motion：整张都有运动感，适合抽象图或配图背景。"
+          ]
+        }
+      ],
+      "steps_title": "在 App 中加动感",
+      "steps": [
+        {
+          "number": "1",
+          "title": "打开照片",
+          "description": "主体清楚的照片效果最好。"
+        },
+        {
+          "number": "2",
+          "title": "Background + Motion",
+          "description": "主体保持清晰。"
+        },
+        {
+          "number": "3",
+          "title": "Radius 和 Angle",
+          "description": "拖影的长度和方向。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "保存副本。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "适中的 Radius 比拉满更真实。",
+        "汽车、摩托车照片：方向沿车身水平。",
+        "想要梦幻而非速度感，试试 Ghosting。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "动感模糊和长曝光有什么区别？",
+          "answer": "长曝光合成实况照片的多帧；App 中的动感模糊作用于普通照片，可调方向和长度。"
+        },
+        {
+          "question": "能只让主体有动感吗？",
+          "answer": "用 Manual + Motion，涂抹想要拖影的区域。"
+        },
+        {
+          "question": "免费吗？",
+          "answer": "免费下载；部分进阶样式可按需通过 App 内购买解锁。"
+        }
+      ],
+      "related": [
+        "sanjing-xiaoguo-iphone.html",
+        "gaosi-mohu.html",
+        "zhaopian-beijing-xuhua.html",
+        "mohu-zhaopian.html"
+      ],
+      "cta_title": "给照片加点速度",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，选择 Motion 并调整方向。免费，本地处理。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "sanjing-xiaoguo-iphone.html",
+      "keyword": "iPhone 散景效果",
+      "cluster": "effects",
+      "card_title": "iPhone 散景效果",
+      "card_excerpt": "柔和背景、闪烁光斑：给没用“人像”模式拍的照片加散景感。",
+      "card_image": "/img/appstore/cn/06-ghost.webp",
+      "card_image_alt": "柔和的散景风格照片",
+      "meta_title": "iPhone 散景效果：给任何照片加焦外虚化和光斑氛围",
+      "meta_description": "散景（Bokeh）是什么？如何在 iPhone 上给已拍照片加散景效果：主体清晰、背景柔和、光斑闪烁。用 Gaussian 或 Ghosting 样式即可完成，免费下载，照片全程在手机本地处理，不上传。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "iPhone 散景效果",
+      "answer": "制作散景效果：用 MakeBlur 打开照片，保持 Background 标签，选择 Gaussian，得到像大光圈镜头一样自然柔和的背景。想要更梦幻，试试 Ghosting。调节 Radius 后点 Save。",
+      "intro": "散景（Bokeh，来自日语“ボケ”，模糊之意）指焦外模糊区域的质感：背景柔顺，光点变成圆圆的光斑。在中文里，散景、焦外、背景虚化常被混用。“人像”模式拍的照片自带这种效果；普通照片可以事后添加。",
+      "image": "/img/appstore/cn/06-ghost.webp",
+      "image_alt": "整张照片应用 Ghosting 样式，Radius 79",
+      "native": {
+        "heading": "「照片」App 里的散景",
+        "paragraphs": [
+          "“人像”照片在“编辑”中有景深（ƒ）调节：数值越小背景越虚。普通照片没有这个选项。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian 还是 Ghosting？",
+          "paragraphs": [
+            "Gaussian：均匀柔和的背景，像用相机拍的人像。Ghosting：叠影般的朦胧感，适合夜景、灯光和婚礼照片。"
+          ]
+        },
+        {
+          "heading": "什么照片适合散景",
+          "paragraphs": [
+            "有灯光、穿过树叶的阳光、夜晚街灯的照片——亮部在模糊后会形成漂亮的光斑。背景单调时散景效果不明显。"
+          ]
+        }
+      ],
+      "steps_title": "在 App 中做散景",
+      "steps": [
+        {
+          "number": "1",
+          "title": "打开照片",
+          "description": "背景有灯光或阳光效果更好。"
+        },
+        {
+          "number": "2",
+          "title": "Background 标签",
+          "description": "主体保持清晰。"
+        },
+        {
+          "number": "3",
+          "title": "Gaussian 或 Ghosting",
+          "description": "调节 Radius。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "保存副本。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "拍摄时让主体离背景远一点，散景更真实。",
+        "有灯光的夜景：试试 Full Photo 下的 Ghosting。",
+        "别虚化过度——背景仍应交代环境。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "散景和背景虚化一样吗？",
+          "answer": "相近：背景虚化指把背景模糊，散景描述的是模糊区域的美感。"
+        },
+        {
+          "question": "需要支持“人像”模式的 iPhone 吗？",
+          "answer": "不需要，App 支持所有 iOS 18.6 及以上的 iPhone。"
+        },
+        {
+          "question": "夜景照片能做散景吗？",
+          "answer": "能，有灯光的照片往往散景最好看。"
+        }
+      ],
+      "related": [
+        "gaosi-mohu.html",
+        "iphone-beijing-xuhua.html",
+        "dongtai-mohu-xiaoguo.html",
+        "zhaopian-mohu-chuli.html"
+      ],
+      "cta_title": "给已有照片加散景",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，试试 Gaussian 和 Ghosting。免费，不上传云端。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "gaosi-mohu.html",
+      "keyword": "高斯模糊",
+      "cluster": "effects",
+      "card_title": "iPhone 高斯模糊",
+      "card_excerpt": "最柔和、均匀、自然的模糊——用于背景、人脸或整张照片。",
+      "card_image": "/img/appstore/cn/04-box.webp",
+      "card_image_alt": "柔和模糊的背景",
+      "meta_title": "高斯模糊是什么？在 iPhone 上给照片加高斯模糊的方法",
+      "meta_description": "高斯模糊是什么，和方框模糊、动感模糊有什么区别？教你在 iPhone 上对背景、人脸或整张照片使用高斯模糊（Gaussian Blur），用 Radius 调节强度。免费下载，照片本地处理不上传。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "iPhone 高斯模糊",
+      "answer": "高斯模糊是一种均匀柔和的模糊，像镜头失焦。在 iPhone 上：用 MakeBlur 打开照片，选择范围（Background、Faces、Manual 或 Full Photo），选择 Gaussian 样式并调节 Radius——Radius 越大越模糊。点 Save。",
+      "intro": "高斯模糊（Gaussian Blur）是修图中最常用的模糊滤镜，Photoshop 和大多数修图 App 都有。每个像素按高斯分布（钟形曲线）与周围像素混合，因此过渡柔和、没有硬边。",
+      "image": "/img/appstore/cn/04-box.webp",
+      "image_alt": "背景被模糊，主体清晰",
+      "native": {
+        "heading": "iPhone 有高斯模糊滤镜吗？",
+        "paragraphs": [
+          "「照片」App 没有模糊滤镜。人像效果用的是模拟镜头的模糊，只适用于有景深数据的照片。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Gaussian、Box 和 Motion",
+          "paragraphs": [
+            "Gaussian：柔和自然——适合人像和背景。Box：按方块均匀模糊，边缘更明显——适合遮挡文字。Motion：沿一个方向模糊——表现速度感。"
+          ]
+        },
+        {
+          "heading": "高斯模糊够保护隐私吗？",
+          "paragraphs": [
+            "对人脸来说，高 Radius 的 Gaussian 足够。对小字和数字，Pixelate 或 Box 更安全，因为轻度 Gaussian 仍可能让人猜出字形。"
+          ]
+        }
+      ],
+      "steps_title": "使用高斯模糊",
+      "steps": [
+        {
+          "number": "1",
+          "title": "打开照片",
+          "description": "从相册中选择。"
+        },
+        {
+          "number": "2",
+          "title": "选择范围",
+          "description": "Background、Faces、Manual 或 Full Photo。"
+        },
+        {
+          "number": "3",
+          "title": "Gaussian 和 Radius",
+          "description": "逐步调到想要的模糊程度。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "保存副本。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "人像背景：适中的 Radius 最真实。",
+        "配图文字背景：Full Photo 下的强 Gaussian，类似毛玻璃效果。",
+        "遮挡文字：换成 Pixelate。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "Radius 是什么意思？",
+          "answer": "像素混合的半径：越大越模糊。"
+        },
+        {
+          "question": "能在线做高斯模糊吗？",
+          "answer": "可以，本站的在线模糊工具提供整张照片的 Gaussian。"
+        },
+        {
+          "question": "高斯模糊会降低分辨率吗？",
+          "answer": "不会，照片按原始尺寸保存。"
+        }
+      ],
+      "related": [
+        "sanjing-xiaoguo-iphone.html",
+        "dongtai-mohu-xiaoguo.html",
+        "zhaopian-mohu-chuli.html",
+        "zhaopian-beijing-xuhua.html"
+      ],
+      "cta_title": "一个滑块搞定高斯模糊",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，模糊背景、人脸或整张照片。免费，本地处理。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "zhaopian-mohu-chuli.html",
+      "keyword": "怎么把照片变模糊",
+      "cluster": "photo",
+      "card_title": "怎么把整张照片变模糊",
+      "card_excerpt": "整张照片柔和模糊：做壁纸、配图背景或抽象图。iPhone 和在线都行。",
+      "card_image": "/img/appstore/cn/06-ghost.webp",
+      "card_image_alt": "整张照片以 Ghosting 样式模糊",
+      "meta_title": "怎么把照片变模糊？iPhone 几秒模糊整张照片（附在线方法）",
+      "meta_description": "怎么把照片变模糊？在 iPhone 上用 Gaussian、Motion、Ghosting 等样式模糊整张照片，适合做手机壁纸、小红书配图背景或抽象图；不想装 App 也可以用本站免费的在线模糊工具。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "怎么把整张照片变模糊",
+      "answer": "模糊整张照片：用 MakeBlur 打开照片，选择 Full Photo 标签和一种样式——Gaussian 柔和、Motion 有动感、Ghosting 梦幻——再调高 Radius，点 Save。不想安装 App，本站的在线模糊工具也能模糊整张照片。",
+      "intro": "有时需要的不是虚化背景，而是让整张图都模糊：锁屏壁纸、文字配图的背景、抽象封面，或正式发布前的“预告图”。这是最简单的模糊——不需要识别主体。",
+      "image": "/img/appstore/cn/06-ghost.webp",
+      "image_alt": "Full Photo 标签配合 Ghosting 样式，Radius 79",
+      "native": {
+        "heading": "「照片」App 能把照片变模糊吗？",
+        "paragraphs": [
+          "不能：「照片」的滤镜和调整都没有模糊功能。iOS 锁定屏幕可以在小组件下方模糊墙纸，但那是系统效果，不会生成可以分享的新图片。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "什么用途选什么样式",
+          "paragraphs": [
+            "Gaussian：均匀柔和，最适合做文字背景。Motion：速度感，适合运动类封面。Ghosting：叠影般的梦幻效果，如截图“柔和的散景氛围”（Radius 79）。Pixelate 和 Crystallize：抽象马赛克。"
+          ]
+        },
+        {
+          "heading": "在线方法",
+          "paragraphs": [
+            "本站提供免费的在线模糊工具：上传照片，选择 Gaussian、Pixel 或 Motion，保存为 PNG。它只能模糊整张照片；想单独虚化背景或人脸，需要用 App。"
+          ]
+        }
+      ],
+      "steps_title": "在 App 中模糊整张照片",
+      "steps": [
+        {
+          "number": "1",
+          "title": "打开照片",
+          "description": "在 MakeBlur 中选择照片。"
+        },
+        {
+          "number": "2",
+          "title": "Full Photo 标签",
+          "description": "效果应用于整个画面。"
+        },
+        {
+          "number": "3",
+          "title": "样式和 Radius",
+          "description": "Gaussian、Motion 或 Ghosting，调到想要的强度。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "模糊后的副本出现在相册中。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "做文字背景选色彩丰富的照片：模糊后会留下好看的色块。",
+        "锁屏壁纸：用较强的 Gaussian，时间和图标更易读。",
+        "预告：先发模糊版，再发原图。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "怎么在线模糊图片？",
+          "answer": "用本站免费的在线模糊工具：上传照片，选择样式和强度，保存 PNG。它只能模糊整张图片。"
+        },
+        {
+          "question": "Full Photo 和 Background 有什么区别？",
+          "answer": "Full Photo 模糊整张照片，Background 只模糊背景、主体保持清晰。"
+        },
+        {
+          "question": "分辨率会降低吗？",
+          "answer": "不会，副本按原始尺寸保存。"
+        }
+      ],
+      "related": [
+        "mohu-zhaopian.html",
+        "gaosi-mohu.html",
+        "dongtai-mohu-xiaoguo.html",
+        "sanjing-xiaoguo-iphone.html"
+      ],
+      "cta_title": "几秒得到模糊照片",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，选择 Full Photo 和样式。免费，不上传云端。",
+      "cta_text": "在 App Store 下载"
+    },
+    {
+      "slug": "mohu-zhaopian.html",
+      "keyword": "模糊照片",
+      "cluster": "photo",
+      "card_title": "模糊照片：各种模糊效果一览",
+      "card_excerpt": "模糊有哪些样式，背景、人脸、局部和整张照片分别该怎么选。",
+      "card_image": "/img/appstore/cn/02-motion.webp",
+      "card_image_alt": "iPhone 照片上的模糊效果",
+      "meta_title": "模糊照片：iPhone 上常用的模糊效果有哪些、怎么做",
+      "meta_description": "在 iPhone 上模糊照片的完整指南：背景、人脸、局部区域或整张照片分别怎么做，Gaussian、Motion、Ghosting、Pixelate 等样式分别适合什么场景。免费下载，照片全程在手机本地处理。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+      "h1": "模糊照片：在 iPhone 上怎么做",
+      "answer": "模糊照片就是让整张照片或其中一部分变得不清晰。在 iPhone 上用 MakeBlur：选择作用范围（Background 背景、Faces 人脸、Manual 局部、Full Photo 整张），选择 Gaussian、Motion、Ghosting 等样式，调节 Radius，然后点 Save。",
+      "intro": "搜“模糊照片”的人，背后几乎总是四种需求之一：人物身后背景柔和、给人脸打码、遮挡带有文字或车牌的区域，或者让整张照片模糊。对于普通照片，iPhone 自带的编辑器一项都做不到。",
+      "image": "/img/appstore/cn/02-motion.webp",
+      "image_alt": "Motion 样式：模糊背景",
+      "native": {
+        "heading": "iPhone 自带了什么",
+        "paragraphs": [
+          "背景虚化：仅限“人像”模式，在拍摄时。「照片」中的模糊画笔：没有。“标记”：笔和形状，用于遮挡而非模糊。Apple Intelligence「清除」：移除物体，需要 iPhone 15 Pro 或更新机型。"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "模糊样式",
+          "paragraphs": [
+            "Gaussian：柔和自然。Motion：可调方向的运动拖影。Ghosting：梦幻叠影。Box：均匀模糊。Pixelate、Hexagonal、Crystallize：马赛克，用于隐私遮挡或图形效果。"
+          ]
+        },
+        {
+          "heading": "作用范围",
+          "paragraphs": [
+            "Background 保持主体清晰、模糊背景。Faces 模糊所有人脸。Manual 模糊你涂过的区域。Full Photo 模糊整张照片。相机照片、截图，以及保存到相册的微信、QQ 图片都能用。"
+          ]
+        }
+      ],
+      "steps_title": "在 App 中模糊照片",
+      "steps": [
+        {
+          "number": "1",
+          "title": "打开照片或截图",
+          "description": "在 MakeBlur 中选择。"
+        },
+        {
+          "number": "2",
+          "title": "选择模式",
+          "description": "Background、Faces、Manual 或 Full Photo。"
+        },
+        {
+          "number": "3",
+          "title": "样式和 Radius",
+          "description": "模糊类型和强度。"
+        },
+        {
+          "number": "4",
+          "title": "Save",
+          "description": "带效果的副本保存到相册。"
+        }
+      ],
+      "tips_title": "小技巧",
+      "tips": [
+        "追求好看：Gaussian 或 Ghosting；保护隐私：Pixelate。",
+        "组合使用：先用 Background 虚化背景，再用 Manual 遮挡多余细节。",
+        "多保存几个强度，留下最好的一张。"
+      ],
+      "faq_title": "常见问题",
+      "faq": [
+        {
+          "question": "不装 App 能模糊照片吗？",
+          "answer": "普通照片在「照片」中做不到。可以用“标记”的形状遮挡，或用本站在线工具模糊整张照片。"
+        },
+        {
+          "question": "截图能模糊吗？",
+          "answer": "能，截图在 App 中和普通照片一样打开。"
+        },
+        {
+          "question": "免费吗？",
+          "answer": "免费下载，包含基础模糊；进阶样式可按需通过 App 内购买解锁。"
+        }
+      ],
+      "related": [
+        "zhaopian-mohu-chuli.html",
+        "iphone-beijing-xuhua.html",
+        "zhaopian-jubu-mohu.html",
+        "dongtai-mohu-xiaoguo.html"
+      ],
+      "cta_title": "一分钟模糊照片",
+      "cta_body": "下载“背景虚化 模糊照片背景编辑器”，模糊背景、人脸或整张照片。免费，支持 iOS 18.6。",
+      "cta_text": "在 App Store 下载"
+    }
+  ]
+}

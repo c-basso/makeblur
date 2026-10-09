@@ -1,0 +1,428 @@
+[
+  {
+    "slug": "zhaopian-renlian-dama.html",
+    "keyword": "照片人脸打码",
+    "cluster": "privacy",
+    "card_title": "照片人脸打码",
+    "card_excerpt": "发布前给路人、孩子或同事的脸打码——一键处理所有人脸。",
+    "card_image": "/img/appstore/cn/03-face.webp",
+    "card_image_alt": "照片中的人脸被模糊",
+    "meta_title": "照片人脸打码：iPhone 一键模糊所有人脸，无需 Apple Intelligence",
+    "meta_description": "发朋友圈、小红书前怎么给照片人脸打码？在 iPhone 上用 Faces 标签一次找到所有人脸，选择高斯模糊或马赛克并保存。无需 Apple Intelligence，免费下载，照片本地处理。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+    "h1": "iPhone 照片人脸打码",
+    "answer": "给人脸打码：用 MakeBlur 打开照片，选择 Faces 标签，App 会找到照片里的所有人脸并同时模糊。选 Gaussian 或 Pixelate，把 Radius 调到认不出人为止，然后点 Save。只想遮一个人时，用 Manual 标签涂抹那张脸。",
+    "intro": "活动合影、班级照片、街拍里常有不想出现在网上的人——路人、孩子、同事。发布前打码是一种礼貌，也能避免麻烦。在 iPhone 上，最快的方法是让 App 自动找人脸。",
+    "image": "/img/appstore/cn/03-face.webp",
+    "image_alt": "Faces 标签：识别到的所有人脸都被模糊",
+    "native": {
+      "heading": "iPhone 自带人脸打码吗？",
+      "paragraphs": [
+        "没有专门的模糊工具。“标记”可以画形状或用笔涂在脸上——能遮住但很粗糙。Apple Intelligence 的「清除」在你圈选人脸时可以加上马赛克，但需要 iPhone 15 Pro 或更新机型且所在地区已开放该功能，而且只能一张脸一张脸地处理。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "高斯模糊还是马赛克？",
+        "paragraphs": [
+          "高强度的 Gaussian 看起来柔和，适合社交平台。Pixelate（马赛克）一看就是“已打码”，适合需要确保隐私的照片。远处的小脸，两种都需要足够大的 Radius。"
+        ]
+      },
+      {
+        "heading": "只给部分人打码",
+        "paragraphs": [
+          "Faces 会模糊所有人。想保留自己的脸、只遮别人，用 Manual：放大后逐个涂抹需要遮挡的脸。"
+        ]
+      }
+    ],
+    "steps_title": "在 App 中给人脸打码",
+    "steps": [
+      {
+        "title": "打开照片",
+        "description": "选择有人脸需要遮挡的照片。"
+      },
+      {
+        "title": "Faces 标签",
+        "description": "所有人脸被找到并模糊。"
+      },
+      {
+        "title": "样式和 Radius",
+        "description": "Gaussian 或 Pixelate，调到认不出为止。"
+      },
+      {
+        "title": "Save",
+        "description": "发布打码后的副本。"
+      }
+    ],
+    "tips_title": "小技巧",
+    "tips": [
+      "放大检查画面边缘的小人脸。",
+      "照片里有孩子时，校服上的校名、胸牌也一起遮。",
+      "原图仍在相册——只分享打码后的版本。"
+    ],
+    "faq_title": "常见问题",
+    "faq": [
+      {
+        "question": "侧脸、小脸能被识别吗？",
+        "answer": "通常可以，但请检查。漏掉的用 Manual 补涂。"
+      },
+      {
+        "question": "能给视频里的人脸打码吗？",
+        "answer": "不能，App 只处理照片。"
+      },
+      {
+        "question": "别人能“去码”吗？",
+        "answer": "保存的是一张新图片，原始像素已被替换。使用 Pixelate 和高 Radius 时，人脸细节已不在图中。"
+      }
+    ],
+    "related": [
+      "zhaopian-jubu-mohu.html",
+      "zhaopian-da-masaike.html",
+      "jietu-dama.html",
+      "chepai-dama.html"
+    ],
+    "cta_title": "几秒完成人脸打码",
+    "cta_body": "下载“背景虚化 模糊照片背景编辑器”，打开 Faces 标签并保存。免费，照片不离开 iPhone。",
+    "cta_text": "在 App Store 下载"
+  },
+  {
+    "slug": "zhaopian-jubu-mohu.html",
+    "keyword": "照片局部模糊",
+    "cluster": "privacy",
+    "card_title": "照片局部模糊",
+    "card_excerpt": "用手指涂抹需要遮挡的区域：文字、门牌号、路人、物品。",
+    "card_image": "/img/appstore/cn/05-crystalize.webp",
+    "card_image_alt": "用画笔模糊照片的一个区域",
+    "meta_title": "照片局部模糊怎么弄？iPhone 用手指涂抹就能模糊指定区域",
+    "meta_description": "在 iPhone 上给照片局部模糊：用手指涂抹需要遮挡的区域，再选择高斯模糊或马赛克。适合遮挡文字、门牌号、快递单、路人或物品。免费下载，照片在手机本地处理，不上传服务器。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+    "h1": "iPhone 照片局部模糊",
+    "answer": "只模糊照片的一部分：用 MakeBlur 打开照片，选择 Manual 标签，用手指涂抹要遮挡的区域。选择样式——Gaussian 柔和，Pixelate 遮挡更彻底——调节 Radius 后点 Save。只有涂过的地方会被模糊。",
+    "intro": "很多时候整张照片都没问题，只有一个细节不该露出来：门牌号、快递单上的名字、电脑屏幕、角落里的路人。涂抹工具可以只模糊那一处，其他部分不受影响。",
+    "image": "/img/appstore/cn/05-crystalize.webp",
+    "image_alt": "涂抹的区域变成 Crystallize 马赛克",
+    "native": {
+      "heading": "「照片」App 能做到吗？",
+      "paragraphs": [
+        "不能直接做到。“标记”有笔和形状可以遮挡，但不能模糊或像素化。半透明的荧光笔有时还会透出下面的文字。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "涂得更准",
+        "paragraphs": [
+          "涂小区域前先用双指放大。涂的范围比细节稍大一点，避免模糊边缘露出字符。"
+        ]
+      },
+      {
+        "heading": "和背景虚化一起用",
+        "paragraphs": [
+          "可以先用 Background 虚化背景并保存，再打开那张副本，用 Manual 遮挡额外的细节。"
+        ]
+      }
+    ],
+    "steps_title": "模糊一个区域",
+    "steps": [
+      {
+        "title": "打开照片",
+        "description": "从相册中选择。"
+      },
+      {
+        "title": "Manual 标签",
+        "description": "涂抹要模糊的区域。"
+      },
+      {
+        "title": "样式和 Radius",
+        "description": "Gaussian、Pixelate 或 Box。"
+      },
+      {
+        "title": "Save",
+        "description": "保存副本。"
+      }
+    ],
+    "tips_title": "小技巧",
+    "tips": [
+      "文字和数字：用 Pixelate 或 Box，Radius 调高。",
+      "背景里的路人：Gaussian 看起来更自然。",
+      "检查玻璃、镜子里的反射。"
+    ],
+    "faq_title": "常见问题",
+    "faq": [
+      {
+        "question": "涂错了怎么办？",
+        "answer": "没保存之前原图不会变——重新来一次即可。"
+      },
+      {
+        "question": "能同时模糊多个区域吗？",
+        "answer": "可以，把所有区域都涂上后一次保存。"
+      },
+      {
+        "question": "截图能用吗？",
+        "answer": "能，截图和普通照片一样打开。"
+      }
+    ],
+    "related": [
+      "jietu-dama.html",
+      "chepai-dama.html",
+      "zhaopian-renlian-dama.html",
+      "zhaopian-da-masaike.html"
+    ],
+    "cta_title": "哪里需要遮就涂哪里",
+    "cta_body": "下载“背景虚化 模糊照片背景编辑器”，打开 Manual 涂抹即可。免费，不上传云端。",
+    "cta_text": "在 App Store 下载"
+  },
+  {
+    "slug": "chepai-dama.html",
+    "keyword": "车牌打码",
+    "cluster": "privacy",
+    "card_title": "车牌打码",
+    "card_excerpt": "闲鱼、二手车平台发布车源时：车牌看不清，照片依然整洁。",
+    "card_image": "/img/appstore/cn/05-crystalize.webp",
+    "card_image_alt": "车牌被像素化遮挡",
+    "meta_title": "车牌打码怎么弄？iPhone 上给卖车照片的车牌打马赛克",
+    "meta_description": "在闲鱼、瓜子二手车或懂车帝发布车源前，如何在 iPhone 上给车牌打码：涂抹车牌、像素化后保存副本。免费下载，照片在手机本地处理，不会上传到网络，原图保留在相册。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+    "h1": "iPhone 照片车牌打码",
+    "answer": "给车牌打码：用 MakeBlur 打开照片，选择 Manual 标签，涂抹车牌，选择 Pixelate 或 Box，把 Radius 调到看不清任何字符。点 Save，把这张副本用于发布。",
+    "intro": "在闲鱼、瓜子二手车、懂车帝或朋友圈卖车的人，常会给车牌打码，减少车辆信息被冒用或车源被盗图的风险。这不是必须的，但很多人图个安心。照片也要好看：保险杠上一块黑框显得不专业——整齐的像素化两全其美。",
+    "image": "/img/appstore/cn/05-crystalize.webp",
+    "image_alt": "在 App 中像素化照片的一个区域",
+    "native": {
+      "heading": "「照片」App 能做吗？",
+      "paragraphs": [
+        "“标记”可以画形状盖住车牌。车牌被挡住了，但遮挡块很明显，半透明的笔有时还会透出字符。「照片」App 不能对某个区域模糊或像素化。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "马赛克还是模糊？",
+        "paragraphs": [
+          "车牌用 Pixelate 或 Box 配高 Radius 最稳妥——大方块会抹掉笔画。轻度 Gaussian 可能仍能猜出号码，尤其是高分辨率照片。",
+          "Crystallize 也能遮挡，但装饰感较强；发布车源时，中性的像素化更合适。"
+        ]
+      },
+      {
+        "heading": "照片很多时",
+        "paragraphs": [
+          "一个车源通常有 10–20 张图，车牌出现在其中几张。逐张处理：打开、Manual、涂抹、Save——每张约半分钟。也要检查玻璃反射和行驶证照片。"
+        ]
+      }
+    ],
+    "steps_title": "在 App 中给车牌打码",
+    "steps": [
+      {
+        "title": "打开车辆照片",
+        "description": "选择露出车牌的照片。"
+      },
+      {
+        "title": "Manual 标签",
+        "description": "放大，把车牌整个涂满，范围稍大一点。"
+      },
+      {
+        "title": "Pixelate 和 Radius",
+        "description": "调到放大后也看不清为止。"
+      },
+      {
+        "title": "Save",
+        "description": "把副本上传到车源页面。"
+      }
+    ],
+    "tips_title": "小技巧",
+    "tips": [
+      "遮住整块号牌，而不只是数字——省份简称和字母也包含信息。",
+      "汽车前后都有车牌；摩托车只有后牌。",
+      "照片里有行驶证或车架号（VIN），也一起遮——除非你有意公开。"
+    ],
+    "faq_title": "常见问题",
+    "faq": [
+      {
+        "question": "卖车照片必须给车牌打码吗？",
+        "answer": "不是必须的，很多卖家这样做是为了避免信息被滥用。这不构成法律建议。"
+      },
+      {
+        "question": "买家需要车牌信息怎么办？",
+        "answer": "确认是认真的买家后，可以私下提供所需信息。"
+      },
+      {
+        "question": "照片会被上传吗？",
+        "answer": "不会，所有处理都在 iPhone 上完成。"
+      }
+    ],
+    "related": [
+      "zhaopian-jubu-mohu.html",
+      "zhaopian-da-masaike.html",
+      "jietu-dama.html",
+      "zhaopian-renlian-dama.html"
+    ],
+    "cta_title": "车源整洁，车牌不露",
+    "cta_body": "下载“背景虚化 模糊照片背景编辑器”，涂抹车牌并保存。免费，照片不离开 iPhone。",
+    "cta_text": "在 App Store 下载"
+  },
+  {
+    "slug": "jietu-dama.html",
+    "keyword": "截图打码",
+    "cluster": "privacy",
+    "card_title": "截图打码",
+    "card_excerpt": "微信聊天记录、转账截图、订单：打码后调亮也看不出来。",
+    "card_image": "/img/appstore/cn/05-crystalize.webp",
+    "card_image_alt": "截图上的文字被像素化",
+    "meta_title": "截图打码怎么弄才安全？iPhone 微信聊天记录截图打码教程",
+    "meta_description": "发送前在 iPhone 上给截图打码：遮住微信聊天记录里的头像和昵称、手机号、银行卡号、订单号和地址。像素化后即使调高亮度也看不出原文。免费下载，截图在手机本地处理，不上传。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+    "h1": "iPhone 截图打码",
+    "answer": "给截图打码：用 MakeBlur 打开截图，选择 Manual 标签，涂抹需要隐藏的行，选择 Pixelate 并调高 Radius。点 Save 后发送副本。放大检查，确保没有任何字符能被认出。",
+    "intro": "聊天记录、转账、订单截图里常有手机号、银行卡号、地址、别人的头像和昵称。发送或发布前要先遮住这些——而且要遮对，因为半透明的荧光笔在调高亮度后可能“露馅”。",
+    "image": "/img/appstore/cn/05-crystalize.webp",
+    "image_alt": "像素化截图中的文字区域",
+    "native": {
+      "heading": "用“标记”涂抹安全吗？",
+      "paragraphs": [
+        "不透明度 100% 的普通笔涂满可以遮住。但半透明的荧光笔：调高亮度和对比度后有可能看出文字。像素化会用色块彻底替换细节，无法还原。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "需要遮什么",
+        "paragraphs": [
+          "银行卡号、交易单号、手机号、地址、聊天中他人的头像和昵称。也别忘了顶部状态栏和弹出的通知。"
+        ]
+      },
+      {
+        "heading": "遮住隐私，保留内容",
+        "paragraphs": [
+          "只涂需要隐藏的行，让想分享的内容依然清晰。Box 的方块整齐，适合截图。"
+        ]
+      }
+    ],
+    "steps_title": "在 App 中给截图打码",
+    "steps": [
+      {
+        "title": "打开截图",
+        "description": "从相册中选择。"
+      },
+      {
+        "title": "Manual 标签",
+        "description": "放大，涂抹要隐藏的行。"
+      },
+      {
+        "title": "Pixelate",
+        "description": "调高 Radius，直到看不清。"
+      },
+      {
+        "title": "Save",
+        "description": "发送打码后的副本。"
+      }
+    ],
+    "tips_title": "小技巧",
+    "tips": [
+      "涂抹范围比文字行稍宽。",
+      "群聊截图要检查别人的头像和昵称。",
+      "原截图不再需要时可以删除。"
+    ],
+    "faq_title": "常见问题",
+    "faq": [
+      {
+        "question": "像素化的文字能被还原吗？",
+        "answer": "Radius 足够大时，像素块比字符还大，图中已没有可还原的细节。"
+      },
+      {
+        "question": "高斯模糊够吗？",
+        "answer": "对文字来说，Pixelate 或 Box 更稳妥；轻度 Gaussian 可能仍能被猜出。"
+      },
+      {
+        "question": "需要联网吗？",
+        "answer": "不需要，App 在本地处理。"
+      }
+    ],
+    "related": [
+      "zhaopian-jubu-mohu.html",
+      "zhaopian-da-masaike.html",
+      "chepai-dama.html",
+      "zhaopian-renlian-dama.html"
+    ],
+    "cta_title": "安心发送截图",
+    "cta_body": "下载“背景虚化 模糊照片背景编辑器”，几秒完成涂抹和像素化。免费，本地处理。",
+    "cta_text": "在 App Store 下载"
+  },
+  {
+    "slug": "zhaopian-da-masaike.html",
+    "keyword": "照片打马赛克",
+    "cluster": "privacy",
+    "card_title": "照片打马赛克",
+    "card_excerpt": "方块、六边形或晶格：遮挡细节，也能做艺术效果。",
+    "card_image": "/img/appstore/cn/05-crystalize.webp",
+    "card_image_alt": "照片上的 Crystallize 马赛克效果",
+    "meta_title": "照片打马赛克：iPhone 像素化、六边形、晶格三种马赛克效果",
+    "meta_description": "在 iPhone 上给照片打马赛克：遮挡人脸、文字、车牌，或用 Pixelate、Hexagonal、Crystallize 做出艺术效果。可调节马赛克大小，免费下载，照片全程在手机本地处理，不上传。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+    "h1": "iPhone 照片打马赛克",
+    "answer": "给照片打马赛克：用 MakeBlur 打开照片，选择作用范围（Faces、Manual、Background 或 Full Photo），选择 Pixelate（方块）、Hexagonal（六边形）或 Crystallize（晶格），用 Radius 调整马赛克大小，然后点 Save。",
+    "intro": "马赛克是新闻和电视里最常见的遮挡方式：大家一看就知道细节被隐藏了。马赛克也可以是一种艺术效果，用于壁纸、封面或帖子。在 iPhone 上，两种用途都不需要电脑。",
+    "image": "/img/appstore/cn/05-crystalize.webp",
+    "image_alt": "Crystallize 样式把背景变成马赛克",
+    "native": {
+      "heading": "iPhone 有自带马赛克吗？",
+      "paragraphs": [
+        "「照片」App 没有马赛克滤镜。Apple Intelligence 的「清除」在你圈选人脸时可以加马赛克，但需要 iPhone 15 Pro 或更新机型和所在地区支持，且不能选择样式和方块大小。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "三种马赛克",
+        "paragraphs": [
+          "Pixelate：经典方块，遮挡最彻底。Hexagonal：六边形，更现代。Crystallize：不规则晶格，适合艺术效果。Radius 越大，块越大。"
+        ]
+      },
+      {
+        "heading": "隐私用途和艺术用途",
+        "paragraphs": [
+          "隐私：Faces 或 Manual + Pixelate，高 Radius。艺术：Background + Crystallize，让主体清晰地立在马赛克背景前；或 Full Photo 做抽象图。"
+        ]
+      }
+    ],
+    "steps_title": "在 App 中打马赛克",
+    "steps": [
+      {
+        "title": "打开照片",
+        "description": "从相册中选择。"
+      },
+      {
+        "title": "选择范围",
+        "description": "Faces、Manual、Background 或 Full Photo。"
+      },
+      {
+        "title": "马赛克样式",
+        "description": "Pixelate、Hexagonal 或 Crystallize，调节 Radius。"
+      },
+      {
+        "title": "Save",
+        "description": "保存副本。"
+      }
+    ],
+    "tips_title": "小技巧",
+    "tips": [
+      "要遮得彻底，马赛克块要比需要隐藏的细节大。",
+      "Full Photo 下的 Crystallize 很适合做抽象壁纸。",
+      "发布前放大检查一遍。"
+    ],
+    "faq_title": "常见问题",
+    "faq": [
+      {
+        "question": "马赛克和模糊有什么区别？",
+        "answer": "模糊让细节变柔和；马赛克用色块替换细节，遮挡更明确。"
+      },
+      {
+        "question": "能给整张照片打马赛克吗？",
+        "answer": "可以，用 Full Photo。"
+      },
+      {
+        "question": "照片会上传到服务器吗？",
+        "answer": "不会，全部在 iPhone 上处理，无需联网。"
+      }
+    ],
+    "related": [
+      "zhaopian-renlian-dama.html",
+      "jietu-dama.html",
+      "chepai-dama.html",
+      "mohu-zhaopian.html"
+    ],
+    "cta_title": "一键打马赛克",
+    "cta_body": "下载“背景虚化 模糊照片背景编辑器”，试试 Pixelate、Hexagonal、Crystallize。免费，本地处理。",
+    "cta_text": "在 App Store 下载"
+  }
+]

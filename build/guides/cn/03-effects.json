@@ -1,0 +1,257 @@
+[
+  {
+    "slug": "dongtai-mohu-xiaoguo.html",
+    "keyword": "动感模糊效果",
+    "cluster": "effects",
+    "card_title": "照片动感模糊效果",
+    "card_excerpt": "主体身后的速度拖影：为汽车、运动、街拍调节长度和方向。",
+    "card_image": "/img/appstore/cn/02-motion.webp",
+    "card_image_alt": "女孩身后的动感模糊",
+    "meta_title": "动感模糊效果怎么做？iPhone 给照片加速度感拖影（Motion Blur）",
+    "meta_description": "在 iPhone 上给照片加动感模糊效果（运动模糊）：主体保持清晰，背景出现速度感拖影。用 Radius 调拖影长度、Angle 调方向，适合汽车、骑行、运动和街拍。免费下载，本地处理。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+    "h1": "iPhone 照片动感模糊效果",
+    "answer": "给照片加动感模糊：用 MakeBlur 打开照片，保持 Background 标签并选择 Motion 样式。Radius 决定拖影长度，Angle 决定方向。主体保持清晰，背景像在飞速后退。点 Save 保存。",
+    "intro": "动感模糊是拍摄时主体或相机移动产生的拖影——赛车、骑行、跳舞照片里的速度感。用慢速快门拍很难；拍完再加则简单又可控。",
+    "image": "/img/appstore/cn/02-motion.webp",
+    "image_alt": "Background 标签下的 Motion 样式，Radius 65",
+    "native": {
+      "heading": "iPhone 相机能拍出动感模糊吗？",
+      "paragraphs": [
+        "实况照片在「照片」App 中有“长曝光”效果——适合瀑布、车灯，但会把运动中的主体也一起模糊，且需要实况照片。普通照片在 iPhone 上无法添加动感模糊。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "选择方向（Angle）",
+        "paragraphs": [
+          "拖影方向要和主体运动方向一致：横穿画面的车用水平方向，朝镜头跑来的人用斜向。方向相反会显得不自然。"
+        ]
+      },
+      {
+        "heading": "只模糊背景，还是整张？",
+        "paragraphs": [
+          "Background + Motion：主体清晰、背景飞驰——类似追焦摄影。Full Photo + Motion：整张都有运动感，适合抽象图或配图背景。"
+        ]
+      }
+    ],
+    "steps_title": "在 App 中加动感",
+    "steps": [
+      {
+        "title": "打开照片",
+        "description": "主体清楚的照片效果最好。"
+      },
+      {
+        "title": "Background + Motion",
+        "description": "主体保持清晰。"
+      },
+      {
+        "title": "Radius 和 Angle",
+        "description": "拖影的长度和方向。"
+      },
+      {
+        "title": "Save",
+        "description": "保存副本。"
+      }
+    ],
+    "tips_title": "小技巧",
+    "tips": [
+      "适中的 Radius 比拉满更真实。",
+      "汽车、摩托车照片：方向沿车身水平。",
+      "想要梦幻而非速度感，试试 Ghosting。"
+    ],
+    "faq_title": "常见问题",
+    "faq": [
+      {
+        "question": "动感模糊和长曝光有什么区别？",
+        "answer": "长曝光合成实况照片的多帧；App 中的动感模糊作用于普通照片，可调方向和长度。"
+      },
+      {
+        "question": "能只让主体有动感吗？",
+        "answer": "用 Manual + Motion，涂抹想要拖影的区域。"
+      },
+      {
+        "question": "免费吗？",
+        "answer": "免费下载；部分进阶样式可按需通过 App 内购买解锁。"
+      }
+    ],
+    "related": [
+      "sanjing-xiaoguo-iphone.html",
+      "gaosi-mohu.html",
+      "zhaopian-beijing-xuhua.html",
+      "mohu-zhaopian.html"
+    ],
+    "cta_title": "给照片加点速度",
+    "cta_body": "下载“背景虚化 模糊照片背景编辑器”，选择 Motion 并调整方向。免费，本地处理。",
+    "cta_text": "在 App Store 下载"
+  },
+  {
+    "slug": "sanjing-xiaoguo-iphone.html",
+    "keyword": "iPhone 散景效果",
+    "cluster": "effects",
+    "card_title": "iPhone 散景效果",
+    "card_excerpt": "柔和背景、闪烁光斑：给没用“人像”模式拍的照片加散景感。",
+    "card_image": "/img/appstore/cn/06-ghost.webp",
+    "card_image_alt": "柔和的散景风格照片",
+    "meta_title": "iPhone 散景效果：给任何照片加焦外虚化和光斑氛围",
+    "meta_description": "散景（Bokeh）是什么？如何在 iPhone 上给已拍照片加散景效果：主体清晰、背景柔和、光斑闪烁。用 Gaussian 或 Ghosting 样式即可完成，免费下载，照片全程在手机本地处理，不上传。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+    "h1": "iPhone 散景效果",
+    "answer": "制作散景效果：用 MakeBlur 打开照片，保持 Background 标签，选择 Gaussian，得到像大光圈镜头一样自然柔和的背景。想要更梦幻，试试 Ghosting。调节 Radius 后点 Save。",
+    "intro": "散景（Bokeh，来自日语“ボケ”，模糊之意）指焦外模糊区域的质感：背景柔顺，光点变成圆圆的光斑。在中文里，散景、焦外、背景虚化常被混用。“人像”模式拍的照片自带这种效果；普通照片可以事后添加。",
+    "image": "/img/appstore/cn/06-ghost.webp",
+    "image_alt": "整张照片应用 Ghosting 样式，Radius 79",
+    "native": {
+      "heading": "「照片」App 里的散景",
+      "paragraphs": [
+        "“人像”照片在“编辑”中有景深（ƒ）调节：数值越小背景越虚。普通照片没有这个选项。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian 还是 Ghosting？",
+        "paragraphs": [
+          "Gaussian：均匀柔和的背景，像用相机拍的人像。Ghosting：叠影般的朦胧感，适合夜景、灯光和婚礼照片。"
+        ]
+      },
+      {
+        "heading": "什么照片适合散景",
+        "paragraphs": [
+          "有灯光、穿过树叶的阳光、夜晚街灯的照片——亮部在模糊后会形成漂亮的光斑。背景单调时散景效果不明显。"
+        ]
+      }
+    ],
+    "steps_title": "在 App 中做散景",
+    "steps": [
+      {
+        "title": "打开照片",
+        "description": "背景有灯光或阳光效果更好。"
+      },
+      {
+        "title": "Background 标签",
+        "description": "主体保持清晰。"
+      },
+      {
+        "title": "Gaussian 或 Ghosting",
+        "description": "调节 Radius。"
+      },
+      {
+        "title": "Save",
+        "description": "保存副本。"
+      }
+    ],
+    "tips_title": "小技巧",
+    "tips": [
+      "拍摄时让主体离背景远一点，散景更真实。",
+      "有灯光的夜景：试试 Full Photo 下的 Ghosting。",
+      "别虚化过度——背景仍应交代环境。"
+    ],
+    "faq_title": "常见问题",
+    "faq": [
+      {
+        "question": "散景和背景虚化一样吗？",
+        "answer": "相近：背景虚化指把背景模糊，散景描述的是模糊区域的美感。"
+      },
+      {
+        "question": "需要支持“人像”模式的 iPhone 吗？",
+        "answer": "不需要，App 支持所有 iOS 18.6 及以上的 iPhone。"
+      },
+      {
+        "question": "夜景照片能做散景吗？",
+        "answer": "能，有灯光的照片往往散景最好看。"
+      }
+    ],
+    "related": [
+      "gaosi-mohu.html",
+      "iphone-beijing-xuhua.html",
+      "dongtai-mohu-xiaoguo.html",
+      "zhaopian-mohu-chuli.html"
+    ],
+    "cta_title": "给已有照片加散景",
+    "cta_body": "下载“背景虚化 模糊照片背景编辑器”，试试 Gaussian 和 Ghosting。免费，不上传云端。",
+    "cta_text": "在 App Store 下载"
+  },
+  {
+    "slug": "gaosi-mohu.html",
+    "keyword": "高斯模糊",
+    "cluster": "effects",
+    "card_title": "iPhone 高斯模糊",
+    "card_excerpt": "最柔和、均匀、自然的模糊——用于背景、人脸或整张照片。",
+    "card_image": "/img/appstore/cn/04-box.webp",
+    "card_image_alt": "柔和模糊的背景",
+    "meta_title": "高斯模糊是什么？在 iPhone 上给照片加高斯模糊的方法",
+    "meta_description": "高斯模糊是什么，和方框模糊、动感模糊有什么区别？教你在 iPhone 上对背景、人脸或整张照片使用高斯模糊（Gaussian Blur），用 Radius 调节强度。免费下载，照片本地处理不上传。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+    "h1": "iPhone 高斯模糊",
+    "answer": "高斯模糊是一种均匀柔和的模糊，像镜头失焦。在 iPhone 上：用 MakeBlur 打开照片，选择范围（Background、Faces、Manual 或 Full Photo），选择 Gaussian 样式并调节 Radius——Radius 越大越模糊。点 Save。",
+    "intro": "高斯模糊（Gaussian Blur）是修图中最常用的模糊滤镜，Photoshop 和大多数修图 App 都有。每个像素按高斯分布（钟形曲线）与周围像素混合，因此过渡柔和、没有硬边。",
+    "image": "/img/appstore/cn/04-box.webp",
+    "image_alt": "背景被模糊，主体清晰",
+    "native": {
+      "heading": "iPhone 有高斯模糊滤镜吗？",
+      "paragraphs": [
+        "「照片」App 没有模糊滤镜。人像效果用的是模拟镜头的模糊，只适用于有景深数据的照片。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Gaussian、Box 和 Motion",
+        "paragraphs": [
+          "Gaussian：柔和自然——适合人像和背景。Box：按方块均匀模糊，边缘更明显——适合遮挡文字。Motion：沿一个方向模糊——表现速度感。"
+        ]
+      },
+      {
+        "heading": "高斯模糊够保护隐私吗？",
+        "paragraphs": [
+          "对人脸来说，高 Radius 的 Gaussian 足够。对小字和数字，Pixelate 或 Box 更安全，因为轻度 Gaussian 仍可能让人猜出字形。"
+        ]
+      }
+    ],
+    "steps_title": "使用高斯模糊",
+    "steps": [
+      {
+        "title": "打开照片",
+        "description": "从相册中选择。"
+      },
+      {
+        "title": "选择范围",
+        "description": "Background、Faces、Manual 或 Full Photo。"
+      },
+      {
+        "title": "Gaussian 和 Radius",
+        "description": "逐步调到想要的模糊程度。"
+      },
+      {
+        "title": "Save",
+        "description": "保存副本。"
+      }
+    ],
+    "tips_title": "小技巧",
+    "tips": [
+      "人像背景：适中的 Radius 最真实。",
+      "配图文字背景：Full Photo 下的强 Gaussian，类似毛玻璃效果。",
+      "遮挡文字：换成 Pixelate。"
+    ],
+    "faq_title": "常见问题",
+    "faq": [
+      {
+        "question": "Radius 是什么意思？",
+        "answer": "像素混合的半径：越大越模糊。"
+      },
+      {
+        "question": "能在线做高斯模糊吗？",
+        "answer": "可以，本站的在线模糊工具提供整张照片的 Gaussian。"
+      },
+      {
+        "question": "高斯模糊会降低分辨率吗？",
+        "answer": "不会，照片按原始尺寸保存。"
+      }
+    ],
+    "related": [
+      "sanjing-xiaoguo-iphone.html",
+      "dongtai-mohu-xiaoguo.html",
+      "zhaopian-mohu-chuli.html",
+      "zhaopian-beijing-xuhua.html"
+    ],
+    "cta_title": "一个滑块搞定高斯模糊",
+    "cta_body": "下载“背景虚化 模糊照片背景编辑器”，模糊背景、人脸或整张照片。免费，本地处理。",
+    "cta_text": "在 App Store 下载"
+  }
+]

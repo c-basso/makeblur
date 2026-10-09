@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "zhaopian-mohu-chuli.html",
+    "keyword": "怎么把照片变模糊",
+    "cluster": "photo",
+    "card_title": "怎么把整张照片变模糊",
+    "card_excerpt": "整张照片柔和模糊：做壁纸、配图背景或抽象图。iPhone 和在线都行。",
+    "card_image": "/img/appstore/cn/06-ghost.webp",
+    "card_image_alt": "整张照片以 Ghosting 样式模糊",
+    "meta_title": "怎么把照片变模糊？iPhone 几秒模糊整张照片（附在线方法）",
+    "meta_description": "怎么把照片变模糊？在 iPhone 上用 Gaussian、Motion、Ghosting 等样式模糊整张照片，适合做手机壁纸、小红书配图背景或抽象图；不想装 App 也可以用本站免费的在线模糊工具。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+    "h1": "怎么把整张照片变模糊",
+    "answer": "模糊整张照片：用 MakeBlur 打开照片，选择 Full Photo 标签和一种样式——Gaussian 柔和、Motion 有动感、Ghosting 梦幻——再调高 Radius，点 Save。不想安装 App，本站的在线模糊工具也能模糊整张照片。",
+    "intro": "有时需要的不是虚化背景，而是让整张图都模糊：锁屏壁纸、文字配图的背景、抽象封面，或正式发布前的“预告图”。这是最简单的模糊——不需要识别主体。",
+    "image": "/img/appstore/cn/06-ghost.webp",
+    "image_alt": "Full Photo 标签配合 Ghosting 样式，Radius 79",
+    "native": {
+      "heading": "「照片」App 能把照片变模糊吗？",
+      "paragraphs": [
+        "不能：「照片」的滤镜和调整都没有模糊功能。iOS 锁定屏幕可以在小组件下方模糊墙纸，但那是系统效果，不会生成可以分享的新图片。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "什么用途选什么样式",
+        "paragraphs": [
+          "Gaussian：均匀柔和，最适合做文字背景。Motion：速度感，适合运动类封面。Ghosting：叠影般的梦幻效果，如截图“柔和的散景氛围”（Radius 79）。Pixelate 和 Crystallize：抽象马赛克。"
+        ]
+      },
+      {
+        "heading": "在线方法",
+        "paragraphs": [
+          "本站提供免费的在线模糊工具：上传照片，选择 Gaussian、Pixel 或 Motion，保存为 PNG。它只能模糊整张照片；想单独虚化背景或人脸，需要用 App。"
+        ]
+      }
+    ],
+    "steps_title": "在 App 中模糊整张照片",
+    "steps": [
+      {
+        "title": "打开照片",
+        "description": "在 MakeBlur 中选择照片。"
+      },
+      {
+        "title": "Full Photo 标签",
+        "description": "效果应用于整个画面。"
+      },
+      {
+        "title": "样式和 Radius",
+        "description": "Gaussian、Motion 或 Ghosting，调到想要的强度。"
+      },
+      {
+        "title": "Save",
+        "description": "模糊后的副本出现在相册中。"
+      }
+    ],
+    "tips_title": "小技巧",
+    "tips": [
+      "做文字背景选色彩丰富的照片：模糊后会留下好看的色块。",
+      "锁屏壁纸：用较强的 Gaussian，时间和图标更易读。",
+      "预告：先发模糊版，再发原图。"
+    ],
+    "faq_title": "常见问题",
+    "faq": [
+      {
+        "question": "怎么在线模糊图片？",
+        "answer": "用本站免费的在线模糊工具：上传照片，选择样式和强度，保存 PNG。它只能模糊整张图片。"
+      },
+      {
+        "question": "Full Photo 和 Background 有什么区别？",
+        "answer": "Full Photo 模糊整张照片，Background 只模糊背景、主体保持清晰。"
+      },
+      {
+        "question": "分辨率会降低吗？",
+        "answer": "不会，副本按原始尺寸保存。"
+      }
+    ],
+    "related": [
+      "mohu-zhaopian.html",
+      "gaosi-mohu.html",
+      "dongtai-mohu-xiaoguo.html",
+      "sanjing-xiaoguo-iphone.html"
+    ],
+    "cta_title": "几秒得到模糊照片",
+    "cta_body": "下载“背景虚化 模糊照片背景编辑器”，选择 Full Photo 和样式。免费，不上传云端。",
+    "cta_text": "在 App Store 下载"
+  },
+  {
+    "slug": "mohu-zhaopian.html",
+    "keyword": "模糊照片",
+    "cluster": "photo",
+    "card_title": "模糊照片：各种模糊效果一览",
+    "card_excerpt": "模糊有哪些样式，背景、人脸、局部和整张照片分别该怎么选。",
+    "card_image": "/img/appstore/cn/02-motion.webp",
+    "card_image_alt": "iPhone 照片上的模糊效果",
+    "meta_title": "模糊照片：iPhone 上常用的模糊效果有哪些、怎么做",
+    "meta_description": "在 iPhone 上模糊照片的完整指南：背景、人脸、局部区域或整张照片分别怎么做，Gaussian、Motion、Ghosting、Pixelate 等样式分别适合什么场景。免费下载，照片全程在手机本地处理。适用于所有 iOS 18.6 及以上的 iPhone，原图保持不变。",
+    "h1": "模糊照片：在 iPhone 上怎么做",
+    "answer": "模糊照片就是让整张照片或其中一部分变得不清晰。在 iPhone 上用 MakeBlur：选择作用范围（Background 背景、Faces 人脸、Manual 局部、Full Photo 整张），选择 Gaussian、Motion、Ghosting 等样式，调节 Radius，然后点 Save。",
+    "intro": "搜“模糊照片”的人，背后几乎总是四种需求之一：人物身后背景柔和、给人脸打码、遮挡带有文字或车牌的区域，或者让整张照片模糊。对于普通照片，iPhone 自带的编辑器一项都做不到。",
+    "image": "/img/appstore/cn/02-motion.webp",
+    "image_alt": "Motion 样式：模糊背景",
+    "native": {
+      "heading": "iPhone 自带了什么",
+      "paragraphs": [
+        "背景虚化：仅限“人像”模式，在拍摄时。「照片」中的模糊画笔：没有。“标记”：笔和形状，用于遮挡而非模糊。Apple Intelligence「清除」：移除物体，需要 iPhone 15 Pro 或更新机型。"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "模糊样式",
+        "paragraphs": [
+          "Gaussian：柔和自然。Motion：可调方向的运动拖影。Ghosting：梦幻叠影。Box：均匀模糊。Pixelate、Hexagonal、Crystallize：马赛克，用于隐私遮挡或图形效果。"
+        ]
+      },
+      {
+        "heading": "作用范围",
+        "paragraphs": [
+          "Background 保持主体清晰、模糊背景。Faces 模糊所有人脸。Manual 模糊你涂过的区域。Full Photo 模糊整张照片。相机照片、截图，以及保存到相册的微信、QQ 图片都能用。"
+        ]
+      }
+    ],
+    "steps_title": "在 App 中模糊照片",
+    "steps": [
+      {
+        "title": "打开照片或截图",
+        "description": "在 MakeBlur 中选择。"
+      },
+      {
+        "title": "选择模式",
+        "description": "Background、Faces、Manual 或 Full Photo。"
+      },
+      {
+        "title": "样式和 Radius",
+        "description": "模糊类型和强度。"
+      },
+      {
+        "title": "Save",
+        "description": "带效果的副本保存到相册。"
+      }
+    ],
+    "tips_title": "小技巧",
+    "tips": [
+      "追求好看：Gaussian 或 Ghosting；保护隐私：Pixelate。",
+      "组合使用：先用 Background 虚化背景，再用 Manual 遮挡多余细节。",
+      "多保存几个强度，留下最好的一张。"
+    ],
+    "faq_title": "常见问题",
+    "faq": [
+      {
+        "question": "不装 App 能模糊照片吗？",
+        "answer": "普通照片在「照片」中做不到。可以用“标记”的形状遮挡，或用本站在线工具模糊整张照片。"
+      },
+      {
+        "question": "截图能模糊吗？",
+        "answer": "能，截图在 App 中和普通照片一样打开。"
+      },
+      {
+        "question": "免费吗？",
+        "answer": "免费下载，包含基础模糊；进阶样式可按需通过 App 内购买解锁。"
+      }
+    ],
+    "related": [
+      "zhaopian-mohu-chuli.html",
+      "iphone-beijing-xuhua.html",
+      "zhaopian-jubu-mohu.html",
+      "dongtai-mohu-xiaoguo.html"
+    ],
+    "cta_title": "一分钟模糊照片",
+    "cta_body": "下载“背景虚化 模糊照片背景编辑器”，模糊背景、人脸或整张照片。免费，支持 iOS 18.6。",
+    "cta_text": "在 App Store 下载"
+  }
+]

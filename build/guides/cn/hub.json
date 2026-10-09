@@ -1,0 +1,30 @@
+{
+  "nav_text": "指南",
+  "title": "分步指南",
+  "intro": "背景虚化、人脸打码、车牌和截图打码、整张照片模糊：每篇指南都给出 iPhone 上的具体步骤。",
+  "learn_more_text": "了解更多",
+  "related_title": "相关指南",
+  "answer_label": "简要回答",
+  "clusters": [
+    {
+      "id": "background",
+      "title": "背景虚化",
+      "blurb": "主体清晰、背景柔和——拍完的照片也可以。"
+    },
+    {
+      "id": "privacy",
+      "title": "人脸、车牌和文字打码",
+      "blurb": "发布前用模糊保护隐私。"
+    },
+    {
+      "id": "effects",
+      "title": "模糊效果",
+      "blurb": "动感模糊、散景和高斯模糊。"
+    },
+    {
+      "id": "photo",
+      "title": "模糊任何照片",
+      "blurb": "整张照片模糊和模糊基础知识。"
+    }
+  ]
+}
